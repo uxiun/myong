@@ -1,0 +1,320 @@
+﻿#!/usr/bin/yong-config
+#Yong输入法配置文件
+
+[DESC]
+#配置文件版本
+version=2
+
+[IM]
+default=0
+0=cj5-ebz
+1=ebz-cj5-mix
+;2=cj5-20902
+3=cj5q-20902
+;4=ebz
+2=ebz1
+6=ebz2
+;5=ebz3
+
+; 2=cj5-90000
+; 3=cj5-13053
+; 4=cj5-8300
+; 4=cj3-20902
+; 5=cj3-90000
+; 6=cj3-13053
+; 7=cj3-6763
+; 8=cj35-13053
+; 9=cj2-6763
+;11=cj5q-90000
+#0=cj5-20902
+#1=cj5-90000
+#2=cj5-13053
+#3=cj5-8300
+#4=cj3-20902
+#5=cj3-90000
+#6=cj3-13053
+#7=cj3-6763
+#8=cj35-13053
+#9=cj2-6763
+#10=cj5q-20902
+#11=cj5q-90000
+
+#key_desc=mb/cjkey.txt
+dict_cn=https://kangxizidian.com/kxhans/%s
+
+#候选字个数
+cand=10
+#自造词来源是鼠标选择(PRIMARY)，还是剪贴版(CLIPBOARD)
+select=PRIMARY
+#简繁转换 0：禁用 1：启用
+#简繁一对多 0：禁用 1：启用
+s2t_m=1
+#汉字过滤 0:不过滤 1：常用汉字
+filter=0
+#默认启动
+enable=0
+#皮肤
+skin=skin 2
+#回车键行为 clear:清编码 commit:上屏首选
+enter=default
+#数字键行为
+#num=push
+#半角出全角空格
+space=default
+#预编辑(在线编辑)模式 0:禁用 1:启用
+#预编辑(在线编辑)类型 0:候选 1:编码
+preedit=0
+#自动调频
+#auto_move=0
+#auto_move=2
+#历史记录
+#history=history.txt
+#小键盘 0:默认 1:不作为编码键 2:出数字
+; keypad=0
+keypad=2
+CNen_commit=1
+lang=0
+biaodian=bd.txt
+dict_cn=https://www.zdic.net/hans/default.asp?q=%s
+
+[main]
+#用户的配置文件编辑器
+edit=
+#显示托盘图标
+#不显示主窗口
+#状态栏半透明
+#主窗口位置 0:右下 1:顶部居中 2:左下
+pos=0
+help=倉頡平台幫助 https://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=195320
+config=config.xml
+
+translate=mb/tran_ft.txt
+
+[input]
+#编码提示
+hint=1
+#不使用光标跟随
+#不显示输入窗口
+noshow=0
+#候选显示长度
+strip=9
+#新光标跟随方式
+a_caret=1
+
+#font=新宋体 12
+font=PingFang SC 12
+
+
+[key]
+#打开输入法
+trigger=CTRL_SHIFT_M
+#二三重码选择
+; select=LSHIFT RSHIFT
+select=LCTRL RCTRL
+#中英文切换
+CNen=LALT
+#临时英语模式
+tEN=ALT_SHIFT_E
+#切换输入法
+switch=CTRL_M
+#翻页
+page=SHIFT_TAB TAB
+#以词定字
+w2c=[ ]
+#汉字过滤
+filter=CTRL_\\
+#调词频
+move=LEFT RIGHT
+#显示输入条
+ishow=`
+#一键切换到输入法
+switch_default=CTRL_`
+#在线造词
+add=CTRL_ALT_I
+#在线删词
+del=CTRL_ALT_D
+#简繁转换
+s2t=CTRL_ALT_F
+#显示字根图
+keymap=CTRL_SHIFT_/
+
+#added from xnxn
+replace=SPACE ENTER
+
+[cj5-ebz]
+name=双飛奏
+engine=libmb.so
+arg=mb/cj5-ebz.txt
+keymap=键位图 keyboardmap.png 1
+beep=none
+bing=1
+bing_p=199 158
+tip_exist=1
+tip_simple=2
+
+[ebz-cj5-mix]
+name=混编
+engine=libmb.so
+arg=mb/ebz-cj5-mix.txt
+keymap=键位图 keyboardmap.png 1
+beep=none
+bing=1
+bing_p=199 158
+tip_exist=1
+tip_simple=2
+
+[ebz]
+name=传统模式
+engine=libmb.so
+arg=mb/ebz.txt
+keymap=键位图 keyboardmap.png 1
+beep=none
+bing=1
+bing_p=199 158
+tip_exist=1
+tip_simple=2
+
+[ebz1]
+name=造词模式
+engine=libmb.so
+arg=mb/ebz1.txt
+keymap=键位图 keyboardmap.png 1
+auto_phrase=2,9,1
+beep=none
+bing=1
+bing_p=199 158
+tip_exist=1
+tip_simple=2
+
+[ebz2]
+name=连打模式
+engine=libmb.so
+arg=mb/ebz2.txt
+keymap=键位图 keyboardmap.png 1
+beep=none
+bing=1
+bing_p=199 158
+tip_exist=1
+tip_simple=2
+
+[ebz3]
+name=单字模式
+engine=libmb.so
+arg=mb/ebz3.txt
+keymap=键位图 keyboardmap.png 1
+beep=none
+bing=1
+bing_p=199 158
+tip_exist=1
+tip_simple=2
+
+[cj5-90000]
+name=五倉世紀
+engine=libmb.so
+arg=mb/cj5-90000.txt
+trad=1
+help=進階功能幫助 yong.chm
+keymap=字根圖 cj-keymap.png 1 0
+bing=1
+bing_p=199 158
+tip_exist=1
+tip_simple=2
+
+[cj5-20902]
+name=五倉通用
+engine=libmb.so
+arg=mb/cj5-20902.txt
+trad=1
+help=進階功能幫助 yong.chm
+keymap=字根圖 cj-keymap.png 1 0
+beep=none
+assoc_loop=1
+assoc_len=1
+#auto_phrase=2,9,1
+bing=1
+bing_p=199 158
+tip_exist=1
+tip_simple=2
+
+[cj5-13053]
+name=五倉繁體
+engine=libmb.so
+arg=mb/cj5-13053.txt
+trad=1
+help=進階功能幫助 yong.chm
+keymap=字根圖 cj-keymap.png 1 0
+
+[cj5-8300]
+name=五仓简体
+engine=libmb.so
+arg=mb/cj5-8300.txt
+help=進階功能幫助 yong.chm
+keymap=字根圖 cj-keymap.png 1 0
+
+[cj3-90000]
+name=三倉世紀
+engine=libmb.so
+arg=mb/cj3-90000.txt
+trad=1
+help=進階功能幫助 yong.chm
+keymap=字根圖 cj-keymap.png 1 0
+
+[cj3-20902]
+name=三倉通用
+engine=libmb.so
+arg=mb/cj3-20902.txt
+trad=1
+help=進階功能幫助 yong.chm
+keymap=字根圖 cj-keymap.png 1 0
+
+[cj3-13053]
+name=三倉繁體
+engine=libmb.so
+arg=mb/cj3-13053.txt
+trad=1
+help=進階功能幫助 yong.chm
+keymap=字根圖 cj-keymap.png 1 0
+
+[cj3-6763]
+name=三仓简体
+engine=libmb.so
+arg=mb/cj3-6763.txt
+help=進階功能幫助 yong.chm
+keymap=字根圖 cj-keymap.png 1 0
+
+[cj35-13053]
+name=三五倉繁
+engine=libmb.so
+arg=mb/cj35-13053.txt
+trad=1
+help=進階功能幫助 yong.chm
+keymap=字根圖 cj-keymap.png 1 0
+
+[cj2-6763]
+name=二仓简体
+engine=libmb.so
+arg=mb/cj2-6763.txt
+help=進階功能幫助 yong.chm
+
+[cj5q-90000]
+name=五速世紀
+engine=libmb.so
+arg=mb/cj5q-90000.txt
+trad=1
+help=進階功能幫助 yong.chm
+keymap=字根圖 cj-keymap.png 1 0
+
+[cj5q-20902]
+name=韓文
+engine=libmb.so
+arg=mb/cj5q-20902.txt
+trad=1
+help=進階功能幫助 yong.chm
+keymap=字根圖 cj-keymap.png 1 0
+beep=none
+bing=1
+bing_p=199 158
+tip_exist=1
+tip_simple=2
+
+[sync]

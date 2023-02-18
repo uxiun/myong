@@ -1,0 +1,41 @@
+# AutoCAD
+# Afx:00400000:28:00000000
+# PLSQL
+TSyntaxMemo
+# Excel
+XLDESK
+# Word
+F3$_Server$_60000000
+# skype
+TRichViewEdit
+# photoshop 7.01
+PSViewC
+# Delphi
+TEditControl
+# Foxmail
+TZEditor
+# Term
+pietty WM_IME_CHAR
+piutty WM_IME_CHAR
+PuTTY WM_IME_CHAR
+# dreamweaver
+dreamweaver8:AfxFrameOrView70u
+dreamweaver$_CS4:AfxFrameOrView80u
+# sogou browser
+SE_TuotuoChildFrame FLOAT
+# CCS
+PremiaEditClient
+# Maxthon browser Ver 2.5.2
+Afx:400000:2008:10011:0:0 FLOAT
+# gtk based app
+gdkWindowToplevel
+# safari
+WebKit2WebViewWindowClass
+# QQ
+TXGuiFoundation KEY
+# xchat
+xchatWindowToplevel
+# Firefox
+MozillaWindowClass KEY
+# Sticky Notes
+Windows.UI.Core.CoreWindow KEY

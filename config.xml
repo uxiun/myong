@@ -1,0 +1,172 @@
+<window pos="500,400" text="小小输入法" visible="1">
+<tree pos="0,0,140,400" visible="1">
+<item text="输入法" init="LoadIMList();" action="ShowPage(page-im);"/>
+<item text="皮肤" action="ShowPage(page-skin);"/>
+<item text="候选窗" action="ShowPage(page-cand);"/>
+<item text="状态栏" action="ShowPage(page-status);"/>
+<item text="快捷键" action="ShowPage(page-key);"/>
+<item text="服务" action="ShowPage(page-service);"/>
+</tree>
+<sep pos="150,350,325,2" visible="1"/>
+<button pos="330,360,60,30" text="应用" action="ApplyConfig();"/>
+<button pos="410,360,60,30" text="确定" action="ApplyConfig();ExitConfig();"/>
+<panel id="page-im" pos="140,0,350,340">
+<label pos="20,10,100,30" text="汉字过滤"/>
+<list pos="160,10,140,30" config="IM filter">
+<item data="0" text="不过滤"/>
+<item data="1" text="过滤"/>
+<item data="1,1" text="严格过滤"/>
+</list>
+<label pos="20,50,100,30" text="小键盘行为"/>
+<list pos="160,50,140,30" config="IM keypad">
+<item data="0" text="作为编码"/>
+<item data="1" text="不作为编码"/>
+<item data="2" text="出数字"/>
+</list>
+<label pos="20,90,100,30" text="回车键行为"/>
+<list pos="160,90,140,30" config="IM enter">
+<item data="default" text="上屏编码"/>
+<item data="clear" text="清空编码"/>
+<item data="commit" text="上屏首选"/>
+</list>
+<label pos="20,130,100,30" text="空格键行为"/>
+<list pos="160,130,140,30" config="IM space">
+<item data="default" text="默认"/>
+<item data="full" text="全角"/>
+</list>
+<check pos="20,170,70,30" text="预编辑" config="IM onspot"/>
+<list pos="160,170,140,30" config="IM preedit">
+<item data="0" text="首选项"/>
+<item data="1" text="编码"/>
+</list>
+<check pos="20,210,120,30" text="默认繁简转换" config="IM s2t"/>
+</panel>
+<panel id="page-skin" visible="1" pos="140,0,350,340">
+<label pos="20,10,80,30" text="选择皮肤"/>
+<list id="skin-name" pos="110,10,130,30" config="IM skin 0" init="LoadSkinList();PreviewSkin(skin-name,skin-style,skin-status,skin-input);" action="PreviewSkin(skin-name,skin-style,skin-status,skin-input);"/>
+<list id="skin-style" pos="250,10,60,30" config="IM skin 1" init="InitDefault();PreviewSkin(skin-name,skin-style,skin-status,skin-input);" action="PreviewSkin(skin-name,skin-style,skin-status,skin-input);">
+<item data="" text="默认"/>
+<item data="1" text="单行"/>
+<item data="0" text="两行"/>
+<item data="2" text="多行"/>
+</list>
+<image id="skin-status" pos="20,45,300,100" visible="1"/>
+<image id="skin-input" pos="20,150,300,200" visible="1"/>
+</panel>
+<panel id="page-cand" visible="1" pos="140,0,350,340">
+<label pos="20,10,100,30" text="候选项个数"/>
+<list pos="140,10,140,30" config="IM cand">
+<item data="2"/>
+<item data="3"/>
+<item data="4"/>
+<item data="5"/>
+<item data="6"/>
+<item data="7"/>
+<item data="8"/>
+<item data="9"/>
+<item data="10"/>
+</list>
+<label pos="20,50,100,30" text="候选项字数"/>
+<edit pos="140,50,140,30" config="input strip"/>
+<check pos="20,90,100,30" text="字体" config="input font" init="InitFont(font);" save="SaveFont(font);"/>
+<font id="font" pos="140,90,140,30" config="input font"/>
+<label pos="20,130,100,30" text="显示方法"/>
+<list pos="140,130,140,30" config="input noshow">
+<item data="0" text="需要时显示"/>
+<item data="1" text="不显示"/>
+<item data="2" text="一直显示"/>
+</list>
+<label pos="20,170,100,30" text="临时显示键"/>
+<edit pos="140,170,140,30" config="key ishow"/>
+<check pos="20,210,100,30" text="编码提示" config="input hint"/>
+<check pos="140,210,140,30" text="不光标跟随" config="input root"/>
+</panel>
+<panel id="page-status" visible="1" pos="140,0,350,340">
+<check pos="20,10,200,30" text="显示托盘图标" config="main tray"/>
+<check pos="20,50,200,30" text="不显示状态栏" config="main noshow"/>
+<check pos="20,90,200,30" text="状态栏半透明" config="main tran"/>
+<check pos="20,130,200,30" text="操作提示" config="main tip"/>
+<label pos="20,170,100,30" text="临时显示键"/>
+<edit pos="140,170,140,30" config="key mshow"/>
+<label pos="20,210,100,30" text="状态栏位置"/>
+<list pos="140,210,140,30" config="main pos" init="InitStatusPos();" save="SaveStatusPos();">
+<item data="0" text="右下"/>
+<item data="1" text="顶部居中"/>
+<item data="2" text="左下"/>
+<item data="?" text="自定义"/>
+</list>
+</panel>
+<panel id="page-key" visible="1" pos="140,0,350,340">
+<label pos="20,10,100,30" text="打开/关闭"/>
+<edit pos="140,10,140,30" config="key trigger"/>
+<label pos="20,50,100,30" text="切换输入法"/>
+<edit pos="140,50,140,30" config="key switch"/>
+<label pos="20,90,100,30" text="中英文切换"/>
+<edit pos="140,90,140,30" config="key CNen"/>
+<label pos="20,130,100,30" text="翻页"/>
+<combo pos="140,130,140,30" config="key page">
+<item data="- ="/>
+<item data=", ."/>
+<item data="PGUP PGDN"/>
+<item data="SHIFT_TAB TAB"/>
+</combo>
+<label pos="20,170,100,30" text="重码选择"/>
+<combo pos="140,170,140,30" config="key select">
+<item data="LSHIFT RSHIFT"/>
+<item data="LCTRL RCTRL"/>
+<item data="; '"/>
+</combo>
+</panel>
+<panel id="page-cloud" visible="1" pos="140,0,350,340">
+<label pos="20,10,100,30" text="服务"/>
+<list pos="140,10,140,30" config="xxxx arg">
+<item data="baidu" text="百度"/>
+<item data="google" text="谷歌"/>
+<item data="engkoo" text="微软"/>
+</list>
+<label pos="20,50,100,30" text="双拼"/>
+<list pos="140,50,140,30" config="xxxx sp" init="LoadSPList();"/>
+<label pos="20,90,100,30" text="本地拼音"/>
+<edit pos="140,90,140,30" config="xxxx pinyin"/>
+<label pos="20,130,100,30" text="用户文件"/>
+<edit pos="140,130,140,30" config="xxxx user"/>
+<label pos="20,170,100,30" text="辅助码"/>
+<edit pos="140,170,140,30" config="xxxx assist"/>
+</panel>
+<panel id="page-mb" visible="1" pos="140,0,350,340">
+<label pos="20,10,100,30" text="分词库"/>
+<edit pos="140,10,140,30" config="xxxx dicts"/>
+<label pos="20,50,100,30" text="联想词库"/>
+<edit pos="140,50,140,30" config="xxxx assoc_dict"/>
+<label pos="20,90,100,30" text="联想字数"/>
+<edit pos="140,90,60,30" config="xxxx assoc_len"/>
+<check pos="210,90,80,30" text="循环联想" config="xxxx assoc_loop"/>
+<label pos="20,130,100,30" text="字根图"/>
+<edit pos="140,130,140,30" config="xxxx keymap"/>
+<label pos="20,170,100,30" text="提示音"/>
+<list pos="140,170,140,30" config="xxxx beep">
+<item data="none" text="无"/>
+<item data="empty" text="空码"/>
+<item data="multi" text="重码"/>
+<item data="empty,multi" text="全部"/>
+</list>
+<label pos="20,210,100,30" text="配置文件"/>
+<edit pos="140,210,140,30" config="xxxx overlay"/>
+<check pos="20,250,100,30" text="并击使能" config="xxxx bing"/>
+</panel>
+<panel id="page-pinyin" visible="1" pos="140,0,350,260">
+<label pos="20,10,100,30" text="分词库"/>
+<edit pos="140,10,140,30" config="xxxx dicts"/>
+<label pos="20,50,100,30" text="双拼"/>
+<list id="py-sp" pos="140,50,140,30" config="xxxx sp" init="LoadSPList();" action="ChangePYConfig(py-sp,py-overlay);"/>
+<label pos="20,90,100,30" text="配置文件"/>
+<edit id="py-overlay" pos="140,90,140,30" config="xxxx overlay"/>
+</panel>
+<panel id="page-service" visible="1" pos="140,0,350,260">
+<button pos="20,10,60,30" text="同步" action="LaunchSync();"/>
+<label pos="20,50,60,30" text="用户"/>
+<edit pos="90,50,160,30" config="sync user"/>
+<label pos="20,90,60,30" text="密钥"/>
+<edit pos="90,90,160,30" config="sync sid"/>
+</panel>
+</window>

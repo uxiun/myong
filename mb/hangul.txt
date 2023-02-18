@@ -1,0 +1,12 @@
+encode=UTF-8
+name=Hangul
+key=wersdfzxcuiojklmnv
+len=4
+wildcard=p
+commit=1 6 0
+
+[DATA]
+sj 너
+sk 나
+sl 니
+dud 영
