@@ -1,4 +1,4 @@
-name=´«Í³Ä£Ê½
+name=ï¿½ï¿½Í³Ä£Ê½
 key=;abcdefghijklmnopqrstuvwxyz'
 len=4
 yong=1
@@ -13,6453 +13,6453 @@ wildcard=]
 auto_move=2
 dwf=1
 assist=] mb/fc.txt
-dicts=mb/ciz.txt mb/ziz.txt mb/dicts.txt dictz mb/ja.txt 
+dicts=mb/ciz1.txt mb/ziz.txt mb/dicts.txt dictz mb/ja.txt 
 code_e1=p..
 code_e2=p11+p12+p21+p22
 code_e3=p11+p21+p31+;
 code_e4=p11+p21+p31+p41
 code_a4=p11+p21+p31+'
 [data]
-b ²»
-ba °É
-baa ±ğ
+b ï¿½ï¿½
+ba ï¿½ï¿½
+baa ï¿½ï¿½
 baae ß²
-baau ßÂ ±Ä àÔ
-bae à£
-baei õÛ
-baeu …ñ
-bai °Ï
-baia ²¸
-baiu ßÁ ßÙ õÏ
-bao °È
-baou õÀ
-bau ±É °É
-bauo õË
-bb °ş
-bba ±Û °ş
-bbe ±Ü
-bbee ŒÂ
-bbei ±Ù ôÅ
-bbeo ÆÁ
-bbi ±Ú
-bbia éŞ
-bbii èµ
-bbio åö
-bbo ë¢
-bboe öÍ
-bbu æÔ
-bc ²¨
-bca ±ô
-bcau ÆÙ ÛÎ
-bce ±õ
-bcei ãê d
-bceu ÃÚ
-bci å±
-bcia ²³ ›Â
-bcio ÛÍ ÛÎ
-bciu ›a
-bco äº
-bcoa ²´ å¨
-bcoi ää
-bcu ²¨
-bd ±´
-bda ÚP
-bde ÷Æ ±´
-bdei ÍK
-bdeu òù
-bdi °Õ
-bdia Ís ¼
-bdii °ö
-bdio î¯ áÙ
-bdo °Ü ±´
-bdoa ÷Â î¢
-bdoe ±á
-bdou ±À
-bdu á±
-be ±»
-bea ²¹
-beai ñØ
-beau ±â
-bee ±Ø
-beei °ù
-beeu ±é ñÛ
-bei ñÑ
-beo ñÔ
-beoa ñÙ
-beu ß› ±»
-bf ±³
-bfa ²½ ±³
-bfe °ñ
-bfee éÄ
-bfei —”
-bfeu ±¯
-bfi °ô
-bfia ±ò ±ú
-bfii ±ê °ğ
-bfio ±­
-bfiu ±²
-bfo ±±
-bfoa °Ø
-bfoe –[
-bfoo °å ±ë ±ò
-bfou è¼ öµ
-bfu Úı
-bg ±¡
-bge ±Î ±¡
-bgee ²¤
-bgei ÜĞ İò Ë‘ É
-bgeu Èq
-bgi ±½
-bgia İ© İÃ ÊE
-bgio ÜØ
-bgiu ÜÅ ±Í Üê
-bgo °ú
-bgoa İá İí ±Í İÉ
+baau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+bae ï¿½
+baei ï¿½ï¿½
+baeu ï¿½ï¿½
+bai ï¿½ï¿½
+baia ï¿½ï¿½
+baiu ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+bao ï¿½ï¿½
+baou ï¿½ï¿½
+bau ï¿½ï¿½ ï¿½ï¿½
+bauo ï¿½ï¿½
+bb ï¿½ï¿½
+bba ï¿½ï¿½ ï¿½ï¿½
+bbe ï¿½ï¿½
+bbee ï¿½ï¿½
+bbei ï¿½ï¿½ ï¿½ï¿½
+bbeo ï¿½ï¿½
+bbi ï¿½ï¿½
+bbia ï¿½ï¿½
+bbii ï¿½
+bbio ï¿½ï¿½
+bbo ï¿½
+bboe ï¿½ï¿½
+bbu ï¿½ï¿½
+bc ï¿½ï¿½
+bca ï¿½ï¿½
+bcau ï¿½ï¿½ ï¿½ï¿½
+bce ï¿½ï¿½
+bcei ï¿½ï¿½ ï¿½d
+bceu ï¿½ï¿½
+bci ï¿½
+bcia ï¿½ï¿½ ï¿½ï¿½
+bcio ï¿½ï¿½ ï¿½ï¿½
+bciu ï¿½a
+bco ï¿½
+bcoa ï¿½ï¿½ ï¿½
+bcoi ï¿½ï¿½
+bcu ï¿½ï¿½
+bd ï¿½ï¿½
+bda ï¿½P
+bde ï¿½ï¿½ ï¿½ï¿½
+bdei ï¿½K
+bdeu ï¿½ï¿½
+bdi ï¿½ï¿½
+bdia ï¿½s ï¿½ï¿½
+bdii ï¿½ï¿½
+bdio ï¿½ ï¿½ï¿½
+bdo ï¿½ï¿½ ï¿½ï¿½
+bdoa ï¿½ï¿½ ï¿½
+bdoe ï¿½ï¿½
+bdou ï¿½ï¿½
+bdu ï¿½
+be ï¿½ï¿½
+bea ï¿½ï¿½
+beai ï¿½ï¿½
+beau ï¿½ï¿½
+bee ï¿½ï¿½
+beei ï¿½ï¿½
+beeu ï¿½ï¿½ ï¿½ï¿½
+bei ï¿½ï¿½
+beo ï¿½ï¿½
+beoa ï¿½ï¿½
+beu ß› ï¿½ï¿½
+bf ï¿½ï¿½
+bfa ï¿½ï¿½ ï¿½ï¿½
+bfe ï¿½ï¿½
+bfee ï¿½ï¿½
+bfei ï¿½ï¿½
+bfeu ï¿½ï¿½
+bfi ï¿½ï¿½
+bfia ï¿½ï¿½ ï¿½ï¿½
+bfii ï¿½ï¿½ ï¿½ï¿½
+bfio ï¿½ï¿½
+bfiu ï¿½ï¿½
+bfo ï¿½ï¿½
+bfoa ï¿½ï¿½
+bfoe ï¿½[
+bfoo ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+bfou ï¿½ ï¿½ï¿½
+bfu ï¿½ï¿½
+bg ï¿½ï¿½
+bge ï¿½ï¿½ ï¿½ï¿½
+bgee ï¿½ï¿½
+bgei ï¿½ï¿½ ï¿½ï¿½ Ë‘ É
+bgeu ï¿½q
+bgi ï¿½ï¿½
+bgia İ© ï¿½ï¿½ ï¿½E
+bgio ï¿½ï¿½
+bgiu ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+bgo ï¿½ï¿½
+bgoa ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 bgoe Ş¬
-bgu °Å
+bgu ï¿½ï¿½
 bgui Şµ
-bh ±¾
-bha êÚ
-bhaa õ³
-bhe ±û
-bhee ÷Ş
-bheo ì‡
-bheu åÍ
-bhi ²© ±¾
-bhia ÷¹
-bho ±Ş
-bhoe ƒk
-bhoo ÷Ô
-bhou ğ¾
-bhu ²ª
-bhua °Ğ ØÃ Úû
-bi °ü
-bia ±¸
-biaa ÅÙ
-biau ±·
-bie ±Æ
-bieo ±ı ì®
-bieu ±¹ öı
-bii ÷§
-biia âÄ ÷”
-biio öÑ
-biiu áù
-bio ±¥
-bioa ÷ˆ
-biou ±« ì© ğ±
-biu Ø° °ü
-biua ÷„
-bj °Ñ
-bja °Ú
-bjau °Æ
-bje °è
-bjee ±÷
-bjei ’\ “s
-bji °Î
-bjia °Ô ²¶ ²«
-bjo ±§
-bjoa Şã
-bjoe ²¥ °ç °Ç
-bjoo °á °â
-bjou ±¢
-bju ±¨ °Ñ
-bjui Şğ
-bjuo ²¦
-bk ±È
-bka ÆØ
-bke ØÒ
-bkeu ±Ñ
-bki ±©
-bkia ±Ï êÎ
-bkio ±Ğ
-bko ±È
-bku •c
-bl °ï
-bla ¬i °ï
-ble °à
-blei °ß
-bli ±Ì
-blii ¬e
-blo ±í
-bloe çã
-blu °î
-blua °Ò
-bluo ²£
-bm °Ù
-bma ²¼ °Ù
-bmau ±Ã
-bme °õ ²»
-bmee éë
-bmei íÕ
-bmeu íÜ
-bmi ±¼
-bmia íç
-bmo ì­
-bmoa ±®
-bmoe í¾
-bmou ±Â
-bmu º»
-bn °ì
-bne ±ß °ì
-bni æ»
-bnio Š‚
-bniu åş
-bno æ¾
-bo ±Ê
-boa óë
-boe ±ü
-boee ²¾ ²­
-boeu ÃØ
-boi ±¿
-boia ô¤ ñF
-boii °İ
-boiu ïõ óÙ
-boo êş ±Ê
-booa °Ş ó÷
-booi  Ä
-bou °Ê
-bouo óÖ
-bp °ã
-bpe °ò
-bpee ë÷
-bpi ²²
-bpia ²± ±ì
-bpiu ô°
-bpo °û °ã
-bpoa ²°
-bpoo ô²
-bpu ±Ë
-bq ±Õ
-bqi ±Õ
-br ±ä
-bra ±ù
-brau ±Ô Ù÷
-bre ±ç
-bree ±å
-breo ±æ
-bri ²¡
-bria ñ¦
-brii ±ó Ù÷ ñ­
-briu ±Ó ê³
-bro °ê
-broa °ı ±ñ âØ
-broi Ùñ
-broo ñ£
-bru ²¿ ±ä
-brua °Ì
-bruu ±è
-bs ±¶
-bsa ±£
-bse °é ±¶
-bsee ²· ÙÏ
-bsei °ø ƒš
-bseo ìÒ
-bsi ±ã
-bsia ±¤
-bsii ‚l
-bsio °Û ‚–
-bso ²®
-bsoa ÙÂ
-bt °ë
-bta ±¬ °ë
-btau õ¿
-bte ±ï
-btei ±º
-bteu ±Å ìÔ
-bti ²¢
-btia ±ş ¼L ŸÏ
-btio ±×
-bto ±î
-btoi ±Ö
-btou ÅÚ
-btu ôÎ
-bu °Ë
-bua °Ó
-buai ˆ¶
-bue ‰Y °Ë
-bui °ä
-buia ÛĞ
-buiu ê´
-buo ±ª
-buoa ²º
-buoi ”‘
-buoo Ûà
-buu °Ö
+bh ï¿½ï¿½
+bha ï¿½ï¿½
+bhaa ï¿½ï¿½
+bhe ï¿½ï¿½
+bhee ï¿½ï¿½
+bheo ï¿½
+bheu ï¿½ï¿½
+bhi ï¿½ï¿½ ï¿½ï¿½
+bhia ï¿½ï¿½
+bho ï¿½ï¿½
+bhoe ï¿½k
+bhoo ï¿½ï¿½
+bhou ï¿½
+bhu ï¿½ï¿½
+bhua ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+bi ï¿½ï¿½
+bia ï¿½ï¿½
+biaa ï¿½ï¿½
+biau ï¿½ï¿½
+bie ï¿½ï¿½
+bieo ï¿½ï¿½ ï¿½
+bieu ï¿½ï¿½ ï¿½ï¿½
+bii ï¿½ï¿½
+biia ï¿½ï¿½ ï¿½ï¿½
+biio ï¿½ï¿½
+biiu ï¿½ï¿½
+bio ï¿½ï¿½
+bioa ï¿½ï¿½
+biou ï¿½ï¿½ ï¿½ ï¿½
+biu Ø° ï¿½ï¿½
+biua ï¿½ï¿½
+bj ï¿½ï¿½
+bja ï¿½ï¿½
+bjau ï¿½ï¿½
+bje ï¿½ï¿½
+bjee ï¿½ï¿½
+bjei ï¿½\ ï¿½s
+bji ï¿½ï¿½
+bjia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+bjo ï¿½ï¿½
+bjoa ï¿½ï¿½
+bjoe ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+bjoo ï¿½ï¿½ ï¿½ï¿½
+bjou ï¿½ï¿½
+bju ï¿½ï¿½ ï¿½ï¿½
+bjui ï¿½ï¿½
+bjuo ï¿½ï¿½
+bk ï¿½ï¿½
+bka ï¿½ï¿½
+bke ï¿½ï¿½
+bkeu ï¿½ï¿½
+bki ï¿½ï¿½
+bkia ï¿½ï¿½ ï¿½ï¿½
+bkio ï¿½ï¿½
+bko ï¿½ï¿½
+bku ï¿½c
+bl ï¿½ï¿½
+bla ï¿½i ï¿½ï¿½
+ble ï¿½ï¿½
+blei ï¿½ï¿½
+bli ï¿½ï¿½
+blii ï¿½e
+blo ï¿½ï¿½
+bloe ï¿½ï¿½
+blu ï¿½ï¿½
+blua ï¿½ï¿½
+bluo ï¿½ï¿½
+bm ï¿½ï¿½
+bma ï¿½ï¿½ ï¿½ï¿½
+bmau ï¿½ï¿½
+bme ï¿½ï¿½ ï¿½ï¿½
+bmee ï¿½ï¿½
+bmei ï¿½ï¿½
+bmeu ï¿½ï¿½
+bmi ï¿½ï¿½
+bmia ï¿½ï¿½
+bmo ï¿½
+bmoa ï¿½ï¿½
+bmoe ï¿½ï¿½
+bmou ï¿½ï¿½
+bmu ï¿½ï¿½
+bn ï¿½ï¿½
+bne ï¿½ï¿½ ï¿½ï¿½
+bni ï¿½
+bnio ï¿½ï¿½
+bniu ï¿½ï¿½
+bno ï¿½
+bo ï¿½ï¿½
+boa ï¿½ï¿½
+boe ï¿½ï¿½
+boee ï¿½ï¿½ ï¿½ï¿½
+boeu ï¿½ï¿½
+boi ï¿½ï¿½
+boia ï¿½ï¿½ ï¿½F
+boii ï¿½ï¿½
+boiu ï¿½ï¿½ ï¿½ï¿½
+boo ï¿½ï¿½ ï¿½ï¿½
+booa ï¿½ï¿½ ï¿½ï¿½
+booi ï¿½ï¿½
+bou ï¿½ï¿½
+bouo ï¿½ï¿½
+bp ï¿½ï¿½
+bpe ï¿½ï¿½
+bpee ï¿½ï¿½
+bpi ï¿½ï¿½
+bpia ï¿½ï¿½ ï¿½ï¿½
+bpiu ï¿½ï¿½
+bpo ï¿½ï¿½ ï¿½ï¿½
+bpoa ï¿½ï¿½
+bpoo ï¿½ï¿½
+bpu ï¿½ï¿½
+bq ï¿½ï¿½
+bqi ï¿½ï¿½
+br ï¿½ï¿½
+bra ï¿½ï¿½
+brau ï¿½ï¿½ ï¿½ï¿½
+bre ï¿½ï¿½
+bree ï¿½ï¿½
+breo ï¿½ï¿½
+bri ï¿½ï¿½
+bria ï¿½
+brii ï¿½ï¿½ ï¿½ï¿½ ï¿½
+briu ï¿½ï¿½ ï¿½
+bro ï¿½ï¿½
+broa ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+broi ï¿½ï¿½
+broo ï¿½
+bru ï¿½ï¿½ ï¿½ï¿½
+brua ï¿½ï¿½
+bruu ï¿½ï¿½
+bs ï¿½ï¿½
+bsa ï¿½ï¿½
+bse ï¿½ï¿½ ï¿½ï¿½
+bsee ï¿½ï¿½ ï¿½ï¿½
+bsei ï¿½ï¿½ ï¿½ï¿½
+bseo ï¿½ï¿½
+bsi ï¿½ï¿½
+bsia ï¿½ï¿½
+bsii ï¿½l
+bsio ï¿½ï¿½ ï¿½ï¿½
+bso ï¿½ï¿½
+bsoa ï¿½ï¿½
+bt ï¿½ï¿½
+bta ï¿½ï¿½ ï¿½ï¿½
+btau ï¿½ï¿½
+bte ï¿½ï¿½
+btei ï¿½ï¿½
+bteu ï¿½ï¿½ ï¿½ï¿½
+bti ï¿½ï¿½
+btia ï¿½ï¿½ ï¿½L ï¿½ï¿½
+btio ï¿½ï¿½
+bto ï¿½ï¿½
+btoi ï¿½ï¿½
+btou ï¿½ï¿½
+btu ï¿½ï¿½
+bu ï¿½ï¿½
+bua ï¿½ï¿½
+buai ï¿½ï¿½
+bue ï¿½Y ï¿½ï¿½
+bui ï¿½ï¿½
+buia ï¿½ï¿½
+buiu ï¿½
+buo ï¿½ï¿½
+buoa ï¿½ï¿½
+buoi ï¿½ï¿½
+buoo ï¿½ï¿½
+buu ï¿½ï¿½
 buua ß“
-bv ±à
-bve °í ±à
-bvee çÍ
-bvi °ó
-bvia æô
-bvo ±Á
-bvoa çÂ
-bvoe ²µ
-bw ±¦
-bwe âí
-bwi ²À ±¦
-bwia ã£
-bwo ±ö
-bwoe ñ¹
-bwoi ã¹
-bx °Í
-bxi ±İ
-bxo æß
-bxoo Úæ
-bxu Úé °Í
-by °×
-bya ±Ò
-byau ±Ç ²¯ ±µ éG
-bye °÷
-byee ïÙ
-byei ïğ
-byeu îé
-byi ±° °×
-byia ²§ ïÚ éD
-byio ï¼ îĞ îà ÷É îß
-byo °æ
-byoa ²¬
-byoe ±ø
-byoo îÓ
-byou ğÇ
-byu îÙ
-c ²Å
-ca ³Ô
-caa ³ª
-caai õÖ Ú ßÚ
-caao ³³
-caau õß ´­ àÜ
-cae ²ä
-caee ´Ú àê
-caei ßı õí õğ
-caeo àá õã ¶× †®
-caeu ³Ñ
-cai ³Ê
-caia ³° àĞ àÁ …¼ ßê Ôû ³ù
-caii ³ì
-caio õé
-cao ´µ ³Ô
-caoe ²È
-caoi õØ
+bv ï¿½ï¿½
+bve ï¿½ï¿½ ï¿½ï¿½
+bvee ï¿½ï¿½
+bvi ï¿½ï¿½
+bvia ï¿½ï¿½
+bvo ï¿½ï¿½
+bvoa ï¿½ï¿½
+bvoe ï¿½ï¿½
+bw ï¿½ï¿½
+bwe ï¿½ï¿½
+bwi ï¿½ï¿½ ï¿½ï¿½
+bwia ï¿½
+bwo ï¿½ï¿½
+bwoe ï¿½
+bwoi ï¿½
+bx ï¿½ï¿½
+bxi ï¿½ï¿½
+bxo ï¿½ï¿½
+bxoo ï¿½ï¿½
+bxu ï¿½ï¿½ ï¿½ï¿½
+by ï¿½ï¿½
+bya ï¿½ï¿½
+byau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½G
+bye ï¿½ï¿½
+byee ï¿½ï¿½
+byei ï¿½ï¿½
+byeu ï¿½ï¿½
+byi ï¿½ï¿½ ï¿½ï¿½
+byia ï¿½ï¿½ ï¿½ï¿½ ï¿½D
+byio ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+byo ï¿½ï¿½
+byoa ï¿½ï¿½
+byoe ï¿½ï¿½
+byoo ï¿½ï¿½
+byou ï¿½ï¿½
+byu ï¿½ï¿½
+c ï¿½ï¿½
+ca ï¿½ï¿½
+caa ï¿½ï¿½
+caai ï¿½ï¿½ Ú ï¿½ï¿½
+caao ï¿½ï¿½
+caau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+cae ï¿½ï¿½
+caee ï¿½ï¿½ ï¿½ï¿½
+caei ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+caeo ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+caeu ï¿½ï¿½
+cai ï¿½ï¿½
+caia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+caii ï¿½ï¿½
+caio ï¿½ï¿½
+cao ï¿½ï¿½ ï¿½ï¿½
+caoe ï¿½ï¿½
+caoi ï¿½ï¿½
 caou ß³
-cau à¨
-caua àÍ
-caui …Õ
-cauu çİ
-cb ³Ù
-cbe ³ß ³Ù
-cbeo åñ
-cbi ²ã
-cbu ³Ú
-cbua åî
-cbuo €
-cc ²â
-cca ä¹ ²â
-ccai ›
-ccau Áˆ ¯
-cce ³Á
-ccee ²æ äÈ
-ccei ´ä ´¾ ³º ´ã å¤ ›º
-cceu Éò
-cci ³±
-ccia äî é
-ccio ²Î
-cciu ´Á
-cco ²Î ²×
-ccoe ²×
-ccu ³Ø
-ccua ³ü
-ccue ³Î ãâ Ó¿
-ccui äı
-ccuo ñå
-cd ³æ
-cda ´®
-cdae îª
-cdau ´Í
-cde ³ç ³æ
-cdei ó¤ ´± Œ
-cdeo ²õ áÏ
-cdeu å×
-cdi ²Æ
-cdia ²_ ó© ¿
-cdii ³ë òí àü
-cdo ´Ş
-cdoe á¯ ²Ç òÜ
-cdoi ³ò
-cdou ó¸ í÷
-cdu ³©
-cdua ÷í
-cdue òÉ ÷õ
-ce ´Ê
-cea êÆ
-ceau ñÎ
-cee ìø
-ceee ²ï
-cei ³Ï
-ceia ³Ä ñÒ ÚÈ
+cau ï¿½
+caua ï¿½ï¿½
+caui ï¿½ï¿½
+cauu ï¿½ï¿½
+cb ï¿½ï¿½
+cbe ï¿½ï¿½ ï¿½ï¿½
+cbeo ï¿½ï¿½
+cbi ï¿½ï¿½
+cbu ï¿½ï¿½
+cbua ï¿½ï¿½
+cbuo ï¿½ï¿½
+cc ï¿½ï¿½
+cca ï¿½ ï¿½ï¿½
+ccai ï¿½ï¿½
+ccau ï¿½ï¿½ ï¿½ï¿½
+cce ï¿½ï¿½
+ccee ï¿½ï¿½ ï¿½ï¿½
+ccei ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½
+cceu ï¿½ï¿½
+cci ï¿½ï¿½
+ccia ï¿½ï¿½ ï¿½ï¿½
+ccio ï¿½ï¿½
+cciu ï¿½ï¿½
+cco ï¿½ï¿½ ï¿½ï¿½
+ccoe ï¿½ï¿½
+ccu ï¿½ï¿½
+ccua ï¿½ï¿½
+ccue ï¿½ï¿½ ï¿½ï¿½ Ó¿
+ccui ï¿½ï¿½
+ccuo ï¿½ï¿½
+cd ï¿½ï¿½
+cda ï¿½ï¿½
+cdae ï¿½
+cdau ï¿½ï¿½
+cde ï¿½ï¿½ ï¿½ï¿½
+cdei ï¿½ ï¿½ï¿½ ï¿½ï¿½
+cdeo ï¿½ï¿½ ï¿½ï¿½
+cdeu ï¿½ï¿½
+cdi ï¿½ï¿½
+cdia ï¿½_ ï¿½ ï¿½ï¿½
+cdii ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+cdo ï¿½ï¿½
+cdoe ï¿½ ï¿½ï¿½ ï¿½ï¿½
+cdoi ï¿½ï¿½
+cdou ï¿½ ï¿½ï¿½
+cdu ï¿½ï¿½
+cdua ï¿½ï¿½
+cdue ï¿½ï¿½ ï¿½ï¿½
+ce ï¿½ï¿½
+cea ï¿½ï¿½
+ceau ï¿½ï¿½
+cee ï¿½ï¿½
+ceee ï¿½ï¿½
+cei ï¿½ï¿½
+ceia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 ceii ×
-ceo ²÷
-ceoe Úß
-ceoo ñİ
-ceou ÚÆ Òb
-ceu ³õ ´Ê
-ceue ñÃ
-ceui ìô
-cf ²é
-cfa êè ²é
-cfau öº —q
-cfe é¶
-cfee éß
-cfei é´ éÁ
-cfeo ôÓ õº
-cfeu ßO
-cfi ´å
-cfia ²Ä ²Û ²ñ èú é« ³»
-cfie éË
-cfii ´» é¨
-cfio ³÷
-cfo ´Ë
-cfoa ´Æ é³ ×µ —{
-cfoe ²Í ³İ èÈ —^
-cfoi èÆ é¢ èÇ
-cfou ö³ Õ¤ —¹
-cfu ³ş
-cfua ³»
-cfue ³È è¾ èß
-cfuu ´ª
-cg ²İ
-cga Ü³ ²İ
-cgai Üë
-cgau İÅ
-cge ´Ä
-cgei İÍ İı Üû
-cgi ²Ø
-cgia ³¾
-cgio ²ç İÛ
-cgo ²Ë
-cgoa Üİ
-cgoe ²è ²Ô ÜÊ Çs
-cgoi ÜÉ
-cgou ²Ì ´Ğ
+ceo ï¿½ï¿½
+ceoe ï¿½ï¿½
+ceoo ï¿½ï¿½
+ceou ï¿½ï¿½ ï¿½b
+ceu ï¿½ï¿½ ï¿½ï¿½
+ceue ï¿½ï¿½
+ceui ï¿½ï¿½
+cf ï¿½ï¿½
+cfa ï¿½ï¿½ ï¿½ï¿½
+cfau ï¿½ï¿½ ï¿½q
+cfe ï¿½
+cfee ï¿½ï¿½
+cfei ï¿½ ï¿½ï¿½
+cfeo ï¿½ï¿½ ï¿½ï¿½
+cfeu ï¿½O
+cfi ï¿½ï¿½
+cfia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½
+cfie ï¿½ï¿½
+cfii ï¿½ï¿½ ï¿½
+cfio ï¿½ï¿½
+cfo ï¿½ï¿½
+cfoa ï¿½ï¿½ ï¿½ ×µ ï¿½{
+cfoe ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½^
+cfoi ï¿½ï¿½ ï¿½ ï¿½ï¿½
+cfou ï¿½ï¿½ Õ¤ ï¿½ï¿½
+cfu ï¿½ï¿½
+cfua ï¿½ï¿½
+cfue ï¿½ï¿½ ï¿½ ï¿½ï¿½
+cfuu ï¿½ï¿½
+cg ï¿½ï¿½
+cga Ü³ ï¿½ï¿½
+cgai ï¿½ï¿½
+cgau ï¿½ï¿½
+cge ï¿½ï¿½
+cgei ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+cgi ï¿½ï¿½
+cgia ï¿½ï¿½
+cgio ï¿½ï¿½ ï¿½ï¿½
+cgo ï¿½ï¿½
+cgoa ï¿½ï¿½
+cgoe ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½s
+cgoi ï¿½ï¿½
+cgou ï¿½ï¿½ ï¿½ï¿½
 cgu İ»
-ch ³¯
-cha ²Ü
-chaa ´Ì
-chai ³Ü
-chau õ¨
-che ´ç
-chei ²Ã ´¼
-cheo ´Ï ³ê
-chi ´×
-chia ´£
-cho ë· ²Å ³¯
-choi õ¡
-chou í]
-chu ³á
-ci ´¦
-cia ´¥ ´¦
-ciae ÷•
-ciau ²ş öğ
-cie ´Ò
-ciei â§
-cii ²Â
-ciia âª ôù âÇ
-ciii ²á
-ciiu â¶
-cio ²ö
-cioa ³û
-cioi âÁ
-ciou ğ·
+ch ï¿½ï¿½
+cha ï¿½ï¿½
+chaa ï¿½ï¿½
+chai ï¿½ï¿½
+chau ï¿½ï¿½
+che ï¿½ï¿½
+chei ï¿½ï¿½ ï¿½ï¿½
+cheo ï¿½ï¿½ ï¿½ï¿½
+chi ï¿½ï¿½
+chia ï¿½ï¿½
+cho ï¿½ ï¿½ï¿½ ï¿½ï¿½
+choi ï¿½ï¿½
+chou ï¿½]
+chu ï¿½ï¿½
+ci ï¿½ï¿½
+cia ï¿½ï¿½ ï¿½ï¿½
+ciae ï¿½ï¿½
+ciau ï¿½ï¿½ ï¿½ï¿½
+cie ï¿½ï¿½
+ciei ï¿½
+cii ï¿½ï¿½
+ciia ï¿½ ï¿½ï¿½ ï¿½ï¿½
+ciii ï¿½ï¿½
+ciiu ï¿½
+cio ï¿½ï¿½
+cioa ï¿½ï¿½
+cioi ï¿½ï¿½
+ciou ï¿½
 ciu Û»
-ciue ÷“
-cj ³é
-cja ²Ù ³é
-cjae ³Å
-cjai ³¶
-cjao ³­
-cjau ´§ ´é ´İ ŞÓ
-cje ²Á
+ciue ï¿½ï¿½
+cj ï¿½ï¿½
+cja ï¿½ï¿½ ï¿½ï¿½
+cjae ï¿½ï¿½
+cjai ï¿½ï¿½
+cjao ï¿½ï¿½
+cjau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+cje ï¿½ï¿½
 cjee ß¥
-cjei ³· ´¤
-cjeo ´ê
-cji ³Ö
-cjia ´ë ²ë
-cjie “¹
-cjii “›
-cjo ²å
-cjoe ´ì
-cjoi ´· ÔÜ
-cjoo ²ğ Şõ
-cjou ²ó
-cju ²ô
-ck ³µ
-cka ²ı ³µ
-ckau ³¼ ò²
-cki ³¿
-ckii ê£
-cko êË
-ckou ³×
-cku ê¡
+cjei ï¿½ï¿½ ï¿½ï¿½
+cjeo ï¿½ï¿½
+cji ï¿½ï¿½
+cjia ï¿½ï¿½ ï¿½ï¿½
+cjie ï¿½ï¿½
+cjii ï¿½ï¿½
+cjo ï¿½ï¿½
+cjoe ï¿½ï¿½
+cjoi ï¿½ï¿½ ï¿½ï¿½
+cjoo ï¿½ï¿½ ï¿½ï¿½
+cjou ï¿½ï¿½
+cju ï¿½ï¿½
+ck ï¿½ï¿½
+cka ï¿½ï¿½ ï¿½ï¿½
+ckau ï¿½ï¿½ ï¿½
+cki ï¿½ï¿½
+ckii ï¿½
+cko ï¿½ï¿½
+ckou ï¿½ï¿½
+cku ï¿½
 ckua ß—
-cl ´º
-cla ´À ´º
-claa Ø¡ „i
-clai è²
-clao ñé
-clau ²Ï è­ ¬`
-cle è¡
-clee çı
-cli ¬t
-clo è®
-cloa ô©
-clou ¬b
-cm ³É
-cma ´½
-cmau ²Ş Ê¢ õ¾ éã
-cme ´Å ³É
-cmeo ´è
-cmi ²Ğ
-cmia ³ø ²ê ØÈ íå
-cmii ³½
-cmiu íº
-cmo ³§
-cmu ´æ
-cmua ´¡
-cmue í×
-cn æ¿
-cna æ½
-cnae æÏ
-cne æ± æ¿
-cni ‹S
-cnio Éï
-cno ‹B
-cnu æÊ
-co ³¤
-coa ³Ì
-coai ³Ë
-coau ´Û
-coe ³î ³¤
-coee ³Ë
-coei ´Ç ´Ø
-coi ÖØ
-coia ²ß
-coie ³Ó
-coii ³ï ´¹
-coo ³Æ
-cooa ë°
-cooe ïó
-cooi ³¸ ë¥
-cooo óø
-coou ³í
-cou ´Û ó×
-coue ó×
-cp ´¬
-cpa áÜ
-cpae áä
-cpau áŞ ”ß
-cpe ³â
-cpei ô¾ ëú
-cpeo ëó
-cpeu ³Í
-cpi ³¹
-cpia ô½ ô­
-cpii ëí
-cpo ´à ´¬
-cpoe ²Õ ëâ
-cpu ³¦
-cq ´³
-cqa ãÑ
-cqe ²û
-cqu ´³
-cr ´Î
-cra ³å
-crai ´Ã
-crau Ğó âÜ à´
-cre ´á
-crei û›
-creo ğû ¯M
-cri ´²
-cria ñ
-crii ´Õ ñ¡
-crio ²ü
-criu ´É
-cro ³ä ²ú ´Î
-croe ´¯ ğî ×ä
-croi ³Õ
-croo ²ú
-crou ğÈ
-cru ³ä ñ¬
-crue ñ¬
-cs ´Ó
-csa ³£
-csaa ´´
-csae ³¥ ÌÈ
-csau ´ß ²à ´Ù ³« ‚m  ª
-cse ´¢
-csee ÷
-csei è Ù­ ÉÑ ö¿
-cseu öÅ
-csi ´«
-csii ³¢ ´Ô Ù±
-cso ³¨ ´Ó
-csoe Ø÷
-csoi Øö ë©
-csou ³Ş ÙÑ û]
-csu ³ğ
-csui ËÅ
-csuu ²Ö
-ct ²î
-cta ³´
-ctai ìÌ
-ctau ´Ö Ôø ²Ó ³ã µ¥
-cte ´È
-ctei ´â
-cteo ôÙ
-cti ²î
-cto ²Ú
-ctoa ŸĞ
-ctou ´¶ ğË
-ctu ×È
-ctui Ùæ
-cu ³¡
-cua ²í
+cl ï¿½ï¿½
+cla ï¿½ï¿½ ï¿½ï¿½
+claa Ø¡ ï¿½i
+clai ï¿½
+clao ï¿½ï¿½
+clau ï¿½ï¿½ ï¿½ ï¿½`
+cle ï¿½
+clee ï¿½ï¿½
+cli ï¿½t
+clo ï¿½
+cloa ï¿½ï¿½
+clou ï¿½b
+cm ï¿½ï¿½
+cma ï¿½ï¿½
+cmau ï¿½ï¿½ Ê¢ ï¿½ï¿½ ï¿½ï¿½
+cme ï¿½ï¿½ ï¿½ï¿½
+cmeo ï¿½ï¿½
+cmi ï¿½ï¿½
+cmia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+cmii ï¿½ï¿½
+cmiu ï¿½ï¿½
+cmo ï¿½ï¿½
+cmu ï¿½ï¿½
+cmua ï¿½ï¿½
+cmue ï¿½ï¿½
+cn ï¿½
+cna ï¿½
+cnae ï¿½ï¿½
+cne ï¿½ ï¿½
+cni ï¿½S
+cnio ï¿½ï¿½
+cno ï¿½B
+cnu ï¿½ï¿½
+co ï¿½ï¿½
+coa ï¿½ï¿½
+coai ï¿½ï¿½
+coau ï¿½ï¿½
+coe ï¿½ï¿½ ï¿½ï¿½
+coee ï¿½ï¿½
+coei ï¿½ï¿½ ï¿½ï¿½
+coi ï¿½ï¿½
+coia ï¿½ï¿½
+coie ï¿½ï¿½
+coii ï¿½ï¿½ ï¿½ï¿½
+coo ï¿½ï¿½
+cooa ï¿½
+cooe ï¿½ï¿½
+cooi ï¿½ï¿½ ï¿½
+cooo ï¿½ï¿½
+coou ï¿½ï¿½
+cou ï¿½ï¿½ ï¿½ï¿½
+coue ï¿½ï¿½
+cp ï¿½ï¿½
+cpa ï¿½ï¿½
+cpae ï¿½ï¿½
+cpau ï¿½ï¿½ ï¿½ï¿½
+cpe ï¿½ï¿½
+cpei ï¿½ï¿½ ï¿½ï¿½
+cpeo ï¿½ï¿½
+cpeu ï¿½ï¿½
+cpi ï¿½ï¿½
+cpia ï¿½ï¿½ ï¿½ï¿½
+cpii ï¿½ï¿½
+cpo ï¿½ï¿½ ï¿½ï¿½
+cpoe ï¿½ï¿½ ï¿½ï¿½
+cpu ï¿½ï¿½
+cq ï¿½ï¿½
+cqa ï¿½ï¿½
+cqe ï¿½ï¿½
+cqu ï¿½ï¿½
+cr ï¿½ï¿½
+cra ï¿½ï¿½
+crai ï¿½ï¿½
+crau ï¿½ï¿½ ï¿½ï¿½ ï¿½
+cre ï¿½ï¿½
+crei ï¿½ï¿½
+creo ï¿½ï¿½ ï¿½M
+cri ï¿½ï¿½
+cria ï¿½ï¿½
+crii ï¿½ï¿½ ï¿½
+crio ï¿½ï¿½
+criu ï¿½ï¿½
+cro ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+croe ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+croi ï¿½ï¿½
+croo ï¿½ï¿½
+crou ï¿½ï¿½
+cru ï¿½ï¿½ ï¿½
+crue ï¿½
+cs ï¿½ï¿½
+csa ï¿½ï¿½
+csaa ï¿½ï¿½
+csae ï¿½ï¿½ ï¿½ï¿½
+csau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½m ï¿½ï¿½
+cse ï¿½ï¿½
+csee ï¿½ï¿½
+csei ï¿½ï¿½ Ù­ ï¿½ï¿½ ï¿½ï¿½
+cseu ï¿½ï¿½
+csi ï¿½ï¿½
+csii ï¿½ï¿½ ï¿½ï¿½ Ù±
+cso ï¿½ï¿½ ï¿½ï¿½
+csoe ï¿½ï¿½
+csoi ï¿½ï¿½ ï¿½
+csou ï¿½ï¿½ ï¿½ï¿½ ï¿½]
+csu ï¿½ï¿½
+csui ï¿½ï¿½
+csuu ï¿½ï¿½
+ct ï¿½ï¿½
+cta ï¿½ï¿½
+ctai ï¿½ï¿½
+ctau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+cte ï¿½ï¿½
+ctei ï¿½ï¿½
+cteo ï¿½ï¿½
+cti ï¿½ï¿½
+cto ï¿½ï¿½
+ctoa ï¿½ï¿½
+ctou ï¿½ï¿½ ï¿½ï¿½
+ctu ï¿½ï¿½
+ctui ï¿½ï¿½
+cu ï¿½ï¿½
+cua ï¿½ï¿½
 cuaa É²
-cuae ˆÃ
-cuau Ùà Ûô ÃH
-cue ³à ˆ“
-cuee ˆ“
-cui ³Ç
-cuia ²É ²ò ®E
-cuo ²Ê
-cuoa ³à
-cuoe ³Ã
-cuoo Ûå
-cuou ÛË Ûæ
-cuu ³¬ ³¡
+cuae ï¿½ï¿½
+cuau ï¿½ï¿½ ï¿½ï¿½ ï¿½H
+cue ï¿½ï¿½ ï¿½ï¿½
+cuee ï¿½ï¿½
+cui ï¿½ï¿½
+cuia ï¿½ï¿½ ï¿½ï¿½ ï¿½E
+cuo ï¿½ï¿½
+cuoa ï¿½ï¿½
+cuoe ï¿½ï¿½
+cuoo ï¿½ï¿½
+cuou ï¿½ï¿½ ï¿½ï¿½
+cuu ï¿½ï¿½ ï¿½ï¿½
 cuua Û­
 cuui Ü¯
-cv ´¿
-cva ³²
-cvaa ½Ë
-cvai ´Â
-cvau ³Ò
-cve ²ø
-cvi ´¿
-cvo ³ñ
-cvoa æõ
-cvu ³Û
-cvua ç©
-cvue æî
-cvui æö
-cw ´©
-cwa ´Ü
-cwae ã®
-cwau âü âç ã·
-cwe ³À
-cwee ›
-cwei ã¿ ã²
-cwi ³è ´©
-cwia âğ ââ ãÀ
-cwio å·
-cwiu ²Ñ
-cwo ´°
-cwoe âë
-cwoi âê âã
-cwou ²ì ã°
-cwu ²Ò
-cwuo â÷
-cx ³ö
-cxa ò¿ ³ö
-cxe ³Ğ
-cxi ³ó
+cv ï¿½ï¿½
+cva ï¿½ï¿½
+cvaa ï¿½ï¿½
+cvai ï¿½ï¿½
+cvau ï¿½ï¿½
+cve ï¿½ï¿½
+cvi ï¿½ï¿½
+cvo ï¿½ï¿½
+cvoa ï¿½ï¿½
+cvu ï¿½ï¿½
+cvua ï¿½
+cvue ï¿½ï¿½
+cvui ï¿½ï¿½
+cw ï¿½ï¿½
+cwa ï¿½ï¿½
+cwae ï¿½
+cwau ï¿½ï¿½ ï¿½ï¿½ ï¿½
+cwe ï¿½ï¿½
+cwee ï¿½ï¿½
+cwei ï¿½ ï¿½
+cwi ï¿½ï¿½ ï¿½ï¿½
+cwia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+cwio ï¿½
+cwiu ï¿½ï¿½
+cwo ï¿½ï¿½
+cwoe ï¿½ï¿½
+cwoi ï¿½ï¿½ ï¿½ï¿½
+cwou ï¿½ï¿½ ï¿½
+cwu ï¿½ï¿½
+cwuo ï¿½ï¿½
+cx ï¿½ï¿½
+cxa ï¿½ ï¿½ï¿½
+cxe ï¿½ï¿½
+cxi ï¿½ï¿½
 cxii Ø©
-cxiu ³Â
-cxo ³ı
-cxoi Úï
-cy ´í
-cya ´¨
-cyae îõ
-cyao ³®
-cyau ³ú
-cye ²ù
-cyee ïï ïé
-cyei ï¥ ÷Î
-cyi ³ô ´í
-cyia ìà ïâ
-cyii ´Ñ
-cyio îñ
-cyo ´¸
-cyoa îË
-cyoe ï±
-cyoi ïÊ
-cyou ´Ñ éK
-cyu îÎ
-d µÄ
-da ´ô
-daa µõ
-dae ¶×
-daee à¤
-daei àÖ õâ õÚ ÜH
-daeo à¢
-dai ßÕ ´ô
-daia àª ¶£ à½ à© õŞ
-daio ß¾ ÛQ
-daiu ¶Ö
-dao µø
-daoe àÇ µ¸
-daoo ‡N
-daou ¶ß ¶å ßË ßá
-dau µğ
-daua ßÍ
-daue µÅ àâ
+cxiu ï¿½ï¿½
+cxo ï¿½ï¿½
+cxoi ï¿½ï¿½
+cy ï¿½ï¿½
+cya ï¿½ï¿½
+cyae ï¿½ï¿½
+cyao ï¿½ï¿½
+cyau ï¿½ï¿½
+cye ï¿½ï¿½
+cyee ï¿½ï¿½ ï¿½ï¿½
+cyei ï¿½ ï¿½ï¿½
+cyi ï¿½ï¿½ ï¿½ï¿½
+cyia ï¿½ï¿½ ï¿½ï¿½
+cyii ï¿½ï¿½
+cyio ï¿½ï¿½
+cyo ï¿½ï¿½
+cyoa ï¿½ï¿½
+cyoe ï¿½
+cyoi ï¿½ï¿½
+cyou ï¿½ï¿½ ï¿½K
+cyu ï¿½ï¿½
+d ï¿½ï¿½
+da ï¿½ï¿½
+daa ï¿½ï¿½
+dae ï¿½ï¿½
+daee ï¿½
+daei ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½H
+daeo ï¿½
+dai ï¿½ï¿½ ï¿½ï¿½
+daia ï¿½ ï¿½ï¿½ ï¿½ ï¿½ ï¿½ï¿½
+daio ß¾ ï¿½Q
+daiu ï¿½ï¿½
+dao ï¿½ï¿½
+daoe ï¿½ï¿½ ï¿½ï¿½
+daoo ï¿½N
+daou ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+dau ï¿½ï¿½
+daua ï¿½ï¿½
+daue ï¿½ï¿½ ï¿½ï¿½
 dauo ß¶
-db µ¼
-dba ŒÅ
-dbaa t
-dbe µ¯
-dbeu ´ş
-dbi µó µ¼
-dbo µî
-dc ¶Ô
-dca ¶´
-dcaa „„
-dcau µş í³
-dce µÎ
-dcee µí
-dcei ¶É
-dceo µ­
-dceu í¡ µ¡ åÊ
-dci µÇ ¶Ô
-dcia µá äÂ
-dciu ãç
-dco µÊ
-dcoa µÔ
-dcoi ãõ
-dcou µÓ å£
-dcu µË
-dcua ÛÊ
-dcue ³Î
-dcui šô
-dd µç
-dda á¼
-ddae Ï}
-ddau ÷Ç
-dde µÏ
-ddee ò½
-ddeo íû êæ
-ddeu íñ
-ddi ¶Ä
-ddia ¶¢ µû ¶Ã î® áÛ ÷ò
-ddii àü
-ddiu íï ¶Ú á´
-ddo µä
-ddou ÷¾
-ddu µÉ µç
-ddue áØ
-ddui ¶¦
-de ¶Á
-dea ñÉ
-deae ÚÔ
-deai ‘ú
-dee ÚĞ
-dei ¶© ¶Á
-deia µı ñ×
-deii µ»
-deo µ÷
-deoa µ®
-deou Ú® µq Òb
-deu ñÖ
+db ï¿½ï¿½
+dba ï¿½ï¿½
+dbaa ï¿½t
+dbe ï¿½ï¿½
+dbeu ï¿½ï¿½
+dbi ï¿½ï¿½ ï¿½ï¿½
+dbo ï¿½ï¿½
+dc ï¿½ï¿½
+dca ï¿½ï¿½
+dcaa ï¿½ï¿½
+dcau ï¿½ï¿½ ï¿½ï¿½
+dce ï¿½ï¿½
+dcee ï¿½ï¿½
+dcei ï¿½ï¿½
+dceo ï¿½ï¿½
+dceu ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+dci ï¿½ï¿½ ï¿½ï¿½
+dcia ï¿½ï¿½ ï¿½ï¿½
+dciu ï¿½ï¿½
+dco ï¿½ï¿½
+dcoa ï¿½ï¿½
+dcoi ï¿½ï¿½
+dcou ï¿½ï¿½ ï¿½
+dcu ï¿½ï¿½
+dcua ï¿½ï¿½
+dcue ï¿½ï¿½
+dcui ï¿½ï¿½
+dd ï¿½ï¿½
+dda ï¿½
+ddae ï¿½}
+ddau ï¿½ï¿½
+dde ï¿½ï¿½
+ddee ï¿½
+ddeo ï¿½ï¿½ ï¿½ï¿½
+ddeu ï¿½ï¿½
+ddi ï¿½ï¿½
+ddia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ï¿½
+ddii ï¿½ï¿½
+ddiu ï¿½ï¿½ ï¿½ï¿½ ï¿½
+ddo ï¿½ï¿½
+ddou ï¿½ï¿½
+ddu ï¿½ï¿½ ï¿½ï¿½
+ddue ï¿½ï¿½
+ddui ï¿½ï¿½
+de ï¿½ï¿½
+dea ï¿½ï¿½
+deae ï¿½ï¿½
+deai ï¿½ï¿½
+dee ï¿½ï¿½
+dei ï¿½ï¿½ ï¿½ï¿½
+deia ï¿½ï¿½ ï¿½ï¿½
+deii ï¿½ï¿½
+deo ï¿½ï¿½
+deoa ï¿½ï¿½
+deou Ú® ï¿½q ï¿½b
+deu ï¿½ï¿½
 deue Ú±
-df µã
-dfa µµ
-dfau ¶½
-dfe èŞ µã
-dfi ¶Å
-dfia èü
-dfio –m
-dfiu ¶°
-dfo é²
-dfoo ˜J
-dfou èÜ
-dfu é¦
-dg ¶­
-dge µ´
-dgee İĞ Èb
-dgei µÙ
+df ï¿½ï¿½
+dfa ï¿½ï¿½
+dfau ï¿½ï¿½
+dfe ï¿½ï¿½ ï¿½ï¿½
+dfi ï¿½ï¿½
+dfia ï¿½ï¿½
+dfio ï¿½m
+dfiu ï¿½ï¿½
+dfo ï¿½
+dfoo ï¿½J
+dfou ï¿½ï¿½
+dfu ï¿½
+dg ï¿½ï¿½
+dge ï¿½ï¿½
+dgee ï¿½ï¿½ ï¿½b
+dgei ï¿½ï¿½
 dgi Ü¶
-dgio ÇQ
-dgo İ¶ ¶­
-dgoa İú
-dgou İÌ
-dh ¶¼
-dha ´ø
-dhaa ¶¡
-dhau ´÷ ó¼ êë ñõ ÷°
-dhe µ¢
-dhi ¶¥
-dhia ôú ñô
-dhio µß ÷² ó¼
-dhiu ñó
-dhu óƒ ¶¼
-di ¶à
-dia ¶¹
-diaa ¶ç
-diau µº ¶À µé
-die ¶¬
+dgio ï¿½Q
+dgo İ¶ ï¿½ï¿½
+dgoa ï¿½ï¿½
+dgou ï¿½ï¿½
+dh ï¿½ï¿½
+dha ï¿½ï¿½
+dhaa ï¿½ï¿½
+dhau ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+dhe ï¿½ï¿½
+dhi ï¿½ï¿½
+dhia ï¿½ï¿½ ï¿½ï¿½
+dhio ï¿½ï¿½ ï¿½ï¿½ ï¿½
+dhiu ï¿½ï¿½
+dhu ï¿½ ï¿½ï¿½
+di ï¿½ï¿½
+dia ï¿½ï¿½
+diaa ï¿½ï¿½
+diau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+die ï¿½ï¿½
 diee Øµ
-dieo µÒ
-dieu ¶º
-dii ¶ä
-diia öø
-diii µ¤ Äñ
-dio µñ ¶à
-diou öô
+dieo ï¿½ï¿½
+dieu ï¿½ï¿½
+dii ï¿½ï¿½
+diia ï¿½ï¿½
+diii ï¿½ï¿½ ï¿½ï¿½
+dio ï¿½ï¿½ ï¿½ï¿½
+diou ï¿½ï¿½
 diu Û¡
-dj ´ò
-dja µô
-djae µ²
-djau µ£ Ìá
-dje ¶¶
-djei µà
-djeo µ§
-dji ´î ´ò
-djia µæ Şé
-djiu ’Ò ’Y
-djo µÖ
-djou µ·
-dju ¶Ş
-dk µ½
-dka õ» µ½
-dke ¶«
-dki ¶Ù
+dj ï¿½ï¿½
+dja ï¿½ï¿½
+djae ï¿½ï¿½
+djau ï¿½ï¿½ ï¿½ï¿½
+dje ï¿½ï¿½
+djei ï¿½ï¿½
+djeo ï¿½ï¿½
+dji ï¿½ï¿½ ï¿½ï¿½
+djia ï¿½ï¿½ ï¿½ï¿½
+djiu ï¿½ï¿½ ï¿½Y
+djo ï¿½ï¿½
+djou ï¿½ï¿½
+dju ï¿½ï¿½
+dk ï¿½ï¿½
+dka ï¿½ï¿½ ï¿½ï¿½
+dke ï¿½ï¿½
+dki ï¿½ï¿½
 dkia ß°
-dkii µ©
-dkiu ê­
-dko ğ´
-dl ¶¯
-dla çè
-dlae «š
-dlau ôî
-dle µå
-dlee ìâ
-dli çà
-dlo çé
-dlu ¶¾ ¶¯
-dlui …¦
-dm ´ó
-dma µâ
-dmau íÏ Ê¯
-dme ´ï ´ó
-dmee ´õ íÖ
-dmei íÚ íâ
-dmeo éé
-dmi ¶á
-dmia µú ŞÇ
-dmiu í»
-dmo íÔ
-dmou µï íÆ
-dmu ´ù
-dmue íã
-dmuo í¸
-dn µ¶
-dna æ§
-dne æ·
-dnei µÕ
-dneu ¶Ê
-dno µ¶
-dnu ‹à
-do µÈ
-doa µÑ
-doae ¹Y
-doau óÎ
-doe µª
-doeo óì óı
-doeu µü
-doi ¶Ì µÈ
-doia ¶¿ ô¡
-doo ´ğ
-dooa ë® óû
-dooe µ¾
-dooi µĞ
-doou ë±
-dou µÚ
-doue ¶ª ô£
-douu óÆ
-dp µÃ
-dpa µ¨ µÃ
-dpau ëØ
-dpe ëë
-dpee ¶æ
-dpei ëş
-dpeu ¶İ
-dpi ´ı
-dpia µÂ ¶Ç ¶Ü
-dpiu ëË
-dpo ğ¬
-dr µê
-dra µÁ µê
-drau ¶Ë µÛ ğã
-dre í­
-dreo ğ÷
-dri ¶³
-dria ¶» ñ² ´ñ ğÛ
-dro µ×
-droi ¶Ø
-drou µò
-dru ¶È
-drui ñ°
-ds µ«
-dsa ´û µ«
-dsau ÷ì á· µè ¶±
-dse ´ü
-dsi µ¹
-dsia Øê
-dsii ´ö
-dsiu ´ú
-dso µÍ
-dsou µ³ ÙÙ
-dsu µ±
-dt µ¥
-dta ¶Ò µ¥
-dtau Ø
-dte µÀ
-dteu µİ
-dti µÆ
-dtio µì
-dtiu ìÀ
-dto ¶Ï
-dtoa ìÑ
-dtou ôÆ
-dtu µÜ
-dtua µ¦
-du µØ
-dua µÌ
-duae ˆ›
-duai Ûã
-duau Ûí šë
-due ¶Õ
-dueo Ùá
-dui ¶Â
-duia Ü¦ …  Ëş
-duio ˆ™
-duiu Ûì
-duo ¶Ñ
-duoa ‰F
-duoi ˆÊ
-duou µù ¶â Ûæ
-duu õõ µØ
+dkii ï¿½ï¿½
+dkiu ï¿½
+dko ï¿½
+dl ï¿½ï¿½
+dla ï¿½ï¿½
+dlae ï¿½ï¿½
+dlau ï¿½ï¿½
+dle ï¿½ï¿½
+dlee ï¿½ï¿½
+dli ï¿½ï¿½
+dlo ï¿½ï¿½
+dlu ï¿½ï¿½ ï¿½ï¿½
+dlui ï¿½ï¿½
+dm ï¿½ï¿½
+dma ï¿½ï¿½
+dmau ï¿½ï¿½ Ê¯
+dme ï¿½ï¿½ ï¿½ï¿½
+dmee ï¿½ï¿½ ï¿½ï¿½
+dmei ï¿½ï¿½ ï¿½ï¿½
+dmeo ï¿½ï¿½
+dmi ï¿½ï¿½
+dmia ï¿½ï¿½ ï¿½ï¿½
+dmiu ï¿½ï¿½
+dmo ï¿½ï¿½
+dmou ï¿½ï¿½ ï¿½ï¿½
+dmu ï¿½ï¿½
+dmue ï¿½ï¿½
+dmuo ï¿½ï¿½
+dn ï¿½ï¿½
+dna ï¿½
+dne ï¿½
+dnei ï¿½ï¿½
+dneu ï¿½ï¿½
+dno ï¿½ï¿½
+dnu ï¿½ï¿½
+do ï¿½ï¿½
+doa ï¿½ï¿½
+doae ï¿½Y
+doau ï¿½ï¿½
+doe ï¿½ï¿½
+doeo ï¿½ï¿½ ï¿½ï¿½
+doeu ï¿½ï¿½
+doi ï¿½ï¿½ ï¿½ï¿½
+doia ï¿½ï¿½ ï¿½ï¿½
+doo ï¿½ï¿½
+dooa ï¿½ ï¿½ï¿½
+dooe ï¿½ï¿½
+dooi ï¿½ï¿½
+doou ï¿½
+dou ï¿½ï¿½
+doue ï¿½ï¿½ ï¿½ï¿½
+douu ï¿½ï¿½
+dp ï¿½ï¿½
+dpa ï¿½ï¿½ ï¿½ï¿½
+dpau ï¿½ï¿½
+dpe ï¿½ï¿½
+dpee ï¿½ï¿½
+dpei ï¿½ï¿½
+dpeu ï¿½ï¿½
+dpi ï¿½ï¿½
+dpia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+dpiu ï¿½ï¿½
+dpo ï¿½
+dr ï¿½ï¿½
+dra ï¿½ï¿½ ï¿½ï¿½
+drau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+dre ï¿½ï¿½
+dreo ï¿½ï¿½
+dri ï¿½ï¿½
+dria ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ï¿½
+dro ï¿½ï¿½
+droi ï¿½ï¿½
+drou ï¿½ï¿½
+dru ï¿½ï¿½
+drui ï¿½
+ds ï¿½ï¿½
+dsa ï¿½ï¿½ ï¿½ï¿½
+dsau ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ï¿½
+dse ï¿½ï¿½
+dsi ï¿½ï¿½
+dsia ï¿½ï¿½
+dsii ï¿½ï¿½
+dsiu ï¿½ï¿½
+dso ï¿½ï¿½
+dsou ï¿½ï¿½ ï¿½ï¿½
+dsu ï¿½ï¿½
+dt ï¿½ï¿½
+dta ï¿½ï¿½ ï¿½ï¿½
+dtau ï¿½ï¿½
+dte ï¿½ï¿½
+dteu ï¿½ï¿½
+dti ï¿½ï¿½
+dtio ï¿½ï¿½
+dtiu ï¿½ï¿½
+dto ï¿½ï¿½
+dtoa ï¿½ï¿½
+dtou ï¿½ï¿½
+dtu ï¿½ï¿½
+dtua ï¿½ï¿½
+du ï¿½ï¿½
+dua ï¿½ï¿½
+duae ï¿½ï¿½
+duai ï¿½ï¿½
+duau ï¿½ï¿½ ï¿½ï¿½
+due ï¿½ï¿½
+dueo ï¿½ï¿½
+dui ï¿½ï¿½
+duia Ü¦ ï¿½ï¿½ ï¿½ï¿½
+duio ï¿½ï¿½
+duiu ï¿½ï¿½
+duo ï¿½ï¿½
+duoa ï¿½F
+duoi ï¿½ï¿½
+duou ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+duu ï¿½ï¿½ ï¿½ï¿½
 duui Ü¤
-dv µŞ
-dve ç° µŞ
-dvi ÍÔ
-dviu À„
-dvo ¶Ğ
-dvoi ç¶
-dvu çª
-dvue ææ
-dw ¶®
-dwa ¶· µ¿
-dwai µ¿
-dwau âò ¶²
-dwe µ¬
-dwei µë ª
-dwi ¶¨ ¶®
-dwia ¶· ñ¼
-dwio å´ ¶è
-dwo ‘
-dwou ·–
-dwu âá
-dx ¶Ó
-dxa µ°
-dxai Úç
-dxau ¯D
-dxi ¶¸
-dxia ¶é
-dxo ¶Ó
-dy ¶Î
-dya îõ
-dyau ï½ îä îö
-dye ¶§
-dyee î×
-dyei ¶Æ ïá ïæ
-dyi ¶¤
-dyia ëº ë¹
-dyiu ¶Û
-dyo ¶ã µÄ ¶Î
-dyoa ¶Í
-dyoe ï¢
-dyoi îû îú
-dyou µö ¶µ
-dyu îì
-dyue ïë
-f ·¢
-fa ·Í
-faa ·È
-fai ß» ·Í
-faia íë
-faii õÃ ßô
-faio íê
-fao ·Ô
-faoa ¸À õÆ
-faoe õì
-fb ·Ñ
-fba ¸¥ ·Ñ
-fbo åõ
-fc ·¨
-fce ¸¢
-fceo å¯
-fci ãã ·¨
-fco ¸¡
-fcoe ·º ·Ú äæ
-fcou äÇ ›h ›Í
-fcu ·Ğ
-fd ·å
-fda á¥
-fde ·£
-fdei ÍK
-fdi ·ù
-fdia òğ êç ¥
-fdii ¸³ ò¶
-fdio î·
-fdo ·« ·å
-fdoe á¦ òİ
-fdoi òó
-fdoo ·· î²
-fdou ·ä
-fe ·¿
-fea ìé
-feae ¸¼
-feai ·Ì
-fee ·Ã ·¿
-fei ¸£
-feio ìğ
-feo ·í
-feoa ¸¤
-ff ·Ç
-ffa òã ·Ç
-ffaa „|
-ffe ì³
-ffei èÊ
-ffeo ·Ù
-ffi ·® ·Ç
-ffiu é¼
-ffo ·ã
-ffoe èõ èû
-ffou èó
-ffu ôä
-fg ·¶
-fga ·Æ
-fge ·¼ ·¶
-fgee ·ª
+dv ï¿½ï¿½
+dve ï¿½ ï¿½ï¿½
+dvi ï¿½ï¿½
+dviu ï¿½ï¿½
+dvo ï¿½ï¿½
+dvoi ï¿½
+dvu ï¿½
+dvue ï¿½ï¿½
+dw ï¿½ï¿½
+dwa ï¿½ï¿½ ï¿½ï¿½
+dwai ï¿½ï¿½
+dwau ï¿½ï¿½ ï¿½ï¿½
+dwe ï¿½ï¿½
+dwei ï¿½ï¿½ ï¿½ï¿½
+dwi ï¿½ï¿½ ï¿½ï¿½
+dwia ï¿½ï¿½ ï¿½
+dwio ï¿½ ï¿½ï¿½
+dwo ï¿½ï¿½
+dwou ï¿½ï¿½
+dwu ï¿½ï¿½
+dx ï¿½ï¿½
+dxa ï¿½ï¿½
+dxai ï¿½ï¿½
+dxau ï¿½D
+dxi ï¿½ï¿½
+dxia ï¿½ï¿½
+dxo ï¿½ï¿½
+dy ï¿½ï¿½
+dya ï¿½ï¿½
+dyau ï¿½ ï¿½ï¿½ ï¿½ï¿½
+dye ï¿½ï¿½
+dyee ï¿½ï¿½
+dyei ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+dyi ï¿½ï¿½
+dyia ï¿½ ï¿½
+dyiu ï¿½ï¿½
+dyo ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+dyoa ï¿½ï¿½
+dyoe ï¿½
+dyoi ï¿½ï¿½ ï¿½ï¿½
+dyou ï¿½ï¿½ ï¿½ï¿½
+dyu ï¿½ï¿½
+dyue ï¿½ï¿½
+f ï¿½ï¿½
+fa ï¿½ï¿½
+faa ï¿½ï¿½
+fai ß» ï¿½ï¿½
+faia ï¿½ï¿½
+faii ï¿½ï¿½ ï¿½ï¿½
+faio ï¿½ï¿½
+fao ï¿½ï¿½
+faoa ï¿½ï¿½ ï¿½ï¿½
+faoe ï¿½ï¿½
+fb ï¿½ï¿½
+fba ï¿½ï¿½ ï¿½ï¿½
+fbo ï¿½ï¿½
+fc ï¿½ï¿½
+fce ï¿½ï¿½
+fceo ï¿½
+fci ï¿½ï¿½ ï¿½ï¿½
+fco ï¿½ï¿½
+fcoe ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+fcou ï¿½ï¿½ ï¿½h ï¿½ï¿½
+fcu ï¿½ï¿½
+fd ï¿½ï¿½
+fda ï¿½
+fde ï¿½ï¿½
+fdei ï¿½K
+fdi ï¿½ï¿½
+fdia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+fdii ï¿½ï¿½ ï¿½
+fdio ï¿½
+fdo ï¿½ï¿½ ï¿½ï¿½
+fdoe ï¿½ ï¿½ï¿½
+fdoi ï¿½ï¿½
+fdoo ï¿½ï¿½ ï¿½
+fdou ï¿½ï¿½
+fe ï¿½ï¿½
+fea ï¿½ï¿½
+feae ï¿½ï¿½
+feai ï¿½ï¿½
+fee ï¿½ï¿½ ï¿½ï¿½
+fei ï¿½ï¿½
+feio ï¿½ï¿½
+feo ï¿½ï¿½
+feoa ï¿½ï¿½
+ff ï¿½ï¿½
+ffa ï¿½ï¿½ ï¿½ï¿½
+ffaa ï¿½|
+ffe ï¿½
+ffei ï¿½ï¿½
+ffeo ï¿½ï¿½
+ffi ï¿½ï¿½ ï¿½ï¿½
+ffiu ï¿½
+ffo ï¿½ï¿½
+ffoe ï¿½ï¿½ ï¿½ï¿½
+ffou ï¿½ï¿½
+ffu ï¿½ï¿½
+fg ï¿½ï¿½
+fga ï¿½ï¿½
+fge ï¿½ï¿½ ï¿½ï¿½
+fgee ï¿½ï¿½
 fgi Ü½
-fgia İ× ÜÀ
-fgio Æ]
-fgo ·Ò
-fgoa ÜŞ Üò
+fgia ï¿½ï¿½ ï¿½ï¿½
+fgio ï¿½]
+fgo ï¿½ï¿½
+fgoa ï¿½ï¿½ ï¿½ï¿½
 fgoe Ş¬ İ³
-fgoi ŞÀ
-fgou İÊ
+fgoi ï¿½ï¿½
+fgou ï¿½ï¿½
 fgu Æ…
-fh ·ó
-fhe ¸¦
-fho ¸² ·ó
-fhoe ·Ó
-fi ·ç
-fia ¸º
-fiaa ¸±
-fiai öî
-fie ·²
-fiei öĞ
-fieu ·ê
-fii Ùë
-fiia ö÷
-fio ·¹ ·ç
-fioa öÖ
-fioe ·õ
-fioi öû
-fiou Ùì
-fiu ·¸
-fiue ·ï
-fiui áô
-fj ·ö
-fja ö­
-fji ¸§ ·ö
-fjo ŞÔ
-fju ·÷
-fk ¸¨
-fka ·Ë
-fki ·ø ¸¨
-fl ·ò
-fla ·á
-fle ·ò
-fli ·î
-flia ·©
-flii ôï
-flio í‚
-flo ­[
-floe çã ¬M
+fh ï¿½ï¿½
+fhe ï¿½ï¿½
+fho ï¿½ï¿½ ï¿½ï¿½
+fhoe ï¿½ï¿½
+fi ï¿½ï¿½
+fia ï¿½ï¿½
+fiaa ï¿½ï¿½
+fiai ï¿½ï¿½
+fie ï¿½ï¿½
+fiei ï¿½ï¿½
+fieu ï¿½ï¿½
+fii ï¿½ï¿½
+fiia ï¿½ï¿½
+fio ï¿½ï¿½ ï¿½ï¿½
+fioa ï¿½ï¿½
+fioe ï¿½ï¿½
+fioi ï¿½ï¿½
+fiou ï¿½ï¿½
+fiu ï¿½ï¿½
+fiue ï¿½ï¿½
+fiui ï¿½ï¿½
+fj ï¿½ï¿½
+fja ï¿½ï¿½
+fji ï¿½ï¿½ ï¿½ï¿½
+fjo ï¿½ï¿½
+fju ï¿½ï¿½
+fk ï¿½ï¿½
+fka ï¿½ï¿½
+fki ï¿½ï¿½ ï¿½ï¿½
+fl ï¿½ï¿½
+fla ï¿½ï¿½
+fle ï¿½ï¿½
+fli ï¿½ï¿½
+flia ï¿½ï¿½
+flii ï¿½ï¿½
+flio ï¿½
+flo ï¿½[
+floe ï¿½ï¿½ ï¿½M
 flu Ûº
-fm ·ñ
-fma ·Ü ·ñ
-fmi íÀ
-fmo ·¯
-fmou í¿
-fmu íÉ
-fn ·É
-fne ·Á ·É ·¢
-fnu ¸¾ ·¢
-fnui åú
-fo ¸´
-foa ó¾ ¸´
-foe  °
-foi óõ
-foia º…
-foo ·û
-fooa ·¤
-fooe ·Õ ïû
-fooi ğ¥
-fou ·±
-foua ó¾
-foui ·ú
-fp ·ş
-fpa ëè
-fpe ·µ
-fpei ô³ ¸­ ·¾ áİ
-fpi ·Î
-fpia ¸¬
-fpii ·ô
-fpo ¸¹
-fpu ·´ ·ş
-fpua ·Ê
-fq ·§
-fqo ·§
-fr ·Å
-fra ¸¯
-frai ğò
-fro ·½ ·Å
-froa ¸®
-frou ·è
-fru ·Ï
-frua Úú
-fruu ·ë
-fs ¸¶
-fse ·Â
-fsei ¸©
-fsi ¸µ ¸¶
-fsia ÛÒ ÙÇ
+fm ï¿½ï¿½
+fma ï¿½ï¿½ ï¿½ï¿½
+fmi ï¿½ï¿½
+fmo ï¿½ï¿½
+fmou ï¿½ï¿½
+fmu ï¿½ï¿½
+fn ï¿½ï¿½
+fne ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+fnu ï¿½ï¿½ ï¿½ï¿½
+fnui ï¿½ï¿½
+fo ï¿½ï¿½
+foa ï¿½ ï¿½ï¿½
+foe ï¿½ï¿½
+foi ï¿½ï¿½
+foia ï¿½ï¿½
+foo ï¿½ï¿½
+fooa ï¿½ï¿½
+fooe ï¿½ï¿½ ï¿½ï¿½
+fooi ï¿½
+fou ï¿½ï¿½
+foua ï¿½
+foui ï¿½ï¿½
+fp ï¿½ï¿½
+fpa ï¿½ï¿½
+fpe ï¿½ï¿½
+fpei ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+fpi ï¿½ï¿½
+fpia ï¿½ï¿½
+fpii ï¿½ï¿½
+fpo ï¿½ï¿½
+fpu ï¿½ï¿½ ï¿½ï¿½
+fpua ï¿½ï¿½
+fq ï¿½ï¿½
+fqo ï¿½ï¿½
+fr ï¿½ï¿½
+fra ï¿½ï¿½
+frai ï¿½ï¿½
+fro ï¿½ï¿½ ï¿½ï¿½
+froa ï¿½ï¿½
+frou ï¿½ï¿½
+fru ï¿½ï¿½
+frua ï¿½ï¿½
+fruu ï¿½ï¿½
+fs ï¿½ï¿½
+fse ï¿½ï¿½
+fsei ï¿½ï¿½
+fsi ï¿½ï¿½ ï¿½ï¿½
+fsia ï¿½ï¿½ ï¿½ï¿½
 fsii Ùº
-fsio ·ü
-fsiu ·¥
-fso ·İ
-fsoe ·ı
-fsu ·ğ
-ft ·³
-fti ·à ·³
-fto ·Û
-ftoe ìÜ
-ftou ·é
-fu ·Ö
-fua ·¬
-fuae ¸°
-fue ¸¸ ·Ø
-fuee ·¦
-fuei ·Ø ·»
-fueu ·Ş
-fui ·â
-fuii ¸ª
-fuo ¸¸ ¸«
-fuoe ˆ¡
-fuoo ¸«
-fuu ·­ ·Ö
-fuua æÚ Û®
-fv ·ì
-fva ç³
-fve ·Ä
-fvi ¸¿
-fvio ç¦
-fvo ·× ·ì
-fvoa æâ
-fvu ç¨
-fw ¸»
-fwa ã­
-fwi ·ß ¸»
-fwu âö
-fx ·À
-fxe ·À
-fxo ¸½
-fy ·æ
-fye îÕ
-fyi ¸·
-fyo ·° ·æ
-fyoe ÷÷
-fyu ïĞ
-g ¸ö
-ga ¸ú
-gaa ¹Ğ
-gaae ßÛ
-gaau ßÃ
-gai ¸Á
-gaia …î ¹¾ àÃ ßì †y
-gaio ¸Â
-gao ¹ò
-gaoo ßÉ
-gaou ¿©
-gau ¿§ ¸ú
-gaui ßç
-gb ¸Ä
-gbe ôŞ
-gbee ‰ø
-gbo ¸Ò ¸Ä
-gbu ¹­
-gc ¹ö
-gca ¹Û
-gcae ›²
-gcau ãé ÎĞ
-gce äÊ ¹ö
-gci ¸Û
-gcia ¹à ¹Á ãï ›Ê
-gcii ¹ï
-gcio ¾±
-gco ¹µ
-gcoe äÆ ñæ
-gcou šğ
-gcu ¸È
-gcui ä÷
-gd ¸Õ
-gda ¹ó ¸Õ
-gdaa ØÛ
-gdau ¹Ç ¸Ú ¹Æ áÄ òå àş òä
-gde ¹û
-gdei êà áÆ
-gdi ¹ú
-gdia ¹Ì î¸ òÁ î¹
-gdo ¹º
-gdoe ¸Ô ò¼ ¸ò
-gdoi ò´
-gdou á¸ ÷À ÷½
-ge ¸Ã
-gea µ
-gee ¸Ã
-gei ¹Ú
-geia ¹Ó Ú¬ Ú´
-geo ¹Í
+fsio ï¿½ï¿½
+fsiu ï¿½ï¿½
+fso ï¿½ï¿½
+fsoe ï¿½ï¿½
+fsu ï¿½ï¿½
+ft ï¿½ï¿½
+fti ï¿½ï¿½ ï¿½ï¿½
+fto ï¿½ï¿½
+ftoe ï¿½ï¿½
+ftou ï¿½ï¿½
+fu ï¿½ï¿½
+fua ï¿½ï¿½
+fuae ï¿½ï¿½
+fue ï¿½ï¿½ ï¿½ï¿½
+fuee ï¿½ï¿½
+fuei ï¿½ï¿½ ï¿½ï¿½
+fueu ï¿½ï¿½
+fui ï¿½ï¿½
+fuii ï¿½ï¿½
+fuo ï¿½ï¿½ ï¿½ï¿½
+fuoe ï¿½ï¿½
+fuoo ï¿½ï¿½
+fuu ï¿½ï¿½ ï¿½ï¿½
+fuua ï¿½ï¿½ Û®
+fv ï¿½ï¿½
+fva ï¿½
+fve ï¿½ï¿½
+fvi ï¿½ï¿½
+fvio ï¿½
+fvo ï¿½ï¿½ ï¿½ï¿½
+fvoa ï¿½ï¿½
+fvu ï¿½
+fw ï¿½ï¿½
+fwa ï¿½
+fwi ï¿½ï¿½ ï¿½ï¿½
+fwu ï¿½ï¿½
+fx ï¿½ï¿½
+fxe ï¿½ï¿½
+fxo ï¿½ï¿½
+fy ï¿½ï¿½
+fye ï¿½ï¿½
+fyi ï¿½ï¿½
+fyo ï¿½ï¿½ ï¿½ï¿½
+fyoe ï¿½ï¿½
+fyu ï¿½ï¿½
+g ï¿½ï¿½
+ga ï¿½ï¿½
+gaa ï¿½ï¿½
+gaae ï¿½ï¿½
+gaau ï¿½ï¿½
+gai ï¿½ï¿½
+gaia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½y
+gaio ï¿½ï¿½
+gao ï¿½ï¿½
+gaoo ï¿½ï¿½
+gaou ï¿½ï¿½
+gau ï¿½ï¿½ ï¿½ï¿½
+gaui ï¿½ï¿½
+gb ï¿½ï¿½
+gbe ï¿½ï¿½
+gbee ï¿½ï¿½
+gbo ï¿½ï¿½ ï¿½ï¿½
+gbu ï¿½ï¿½
+gc ï¿½ï¿½
+gca ï¿½ï¿½
+gcae ï¿½ï¿½
+gcau ï¿½ï¿½ ï¿½ï¿½
+gce ï¿½ï¿½ ï¿½ï¿½
+gci ï¿½ï¿½
+gcia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+gcii ï¿½ï¿½
+gcio ï¿½ï¿½
+gco ï¿½ï¿½
+gcoe ï¿½ï¿½ ï¿½ï¿½
+gcou ï¿½ï¿½
+gcu ï¿½ï¿½
+gcui ï¿½ï¿½
+gd ï¿½ï¿½
+gda ï¿½ï¿½ ï¿½ï¿½
+gdaa ï¿½ï¿½
+gdau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+gde ï¿½ï¿½
+gdei ï¿½ï¿½ ï¿½ï¿½
+gdi ï¿½ï¿½
+gdia ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½
+gdo ï¿½ï¿½
+gdoe ï¿½ï¿½ ï¿½ ï¿½ï¿½
+gdoi ï¿½
+gdou ï¿½ ï¿½ï¿½ ï¿½ï¿½
+ge ï¿½ï¿½
+gea ï¿½ï¿½
+gee ï¿½ï¿½
+gei ï¿½ï¿½
+geia ï¿½ï¿½ Ú¬ Ú´
+geo ï¿½ï¿½
 geoi Ú¾
 geoo Ú¸
-geou ¹î ñË
-gf ¸ù
-gfa ¹÷
-gfae èæ
-gfe ¹×
-gfei é¤ éÂ
-gfi ¹£
-gfia ¹ğ ¸Ü ¸Ì –í
-gfii ¸Ë
-gfiu ¹ñ
-gfo ¸ñ
-gfoa éÀ
-gfoe èí
-gfoi èé èô
-gfou ¹¹ èÛ
-gfu ¸Å ¸ù
-gfui éÏ
-gg ¹é
-gga ¸ğ
-ggao æÙ
-ggau Éu
+geou ï¿½ï¿½ ï¿½ï¿½
+gf ï¿½ï¿½
+gfa ï¿½ï¿½
+gfae ï¿½ï¿½
+gfe ï¿½ï¿½
+gfei ï¿½ ï¿½ï¿½
+gfi ï¿½ï¿½
+gfia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+gfii ï¿½ï¿½
+gfiu ï¿½ï¿½
+gfo ï¿½ï¿½
+gfoa ï¿½ï¿½
+gfoe ï¿½ï¿½
+gfoi ï¿½ï¿½ ï¿½ï¿½
+gfou ï¿½ï¿½ ï¿½ï¿½
+gfu ï¿½ï¿½ ï¿½ï¿½
+gfui ï¿½ï¿½
+gg ï¿½ï¿½
+gga ï¿½ï¿½
+ggao ï¿½ï¿½
+ggau ï¿½u
 gge İ¸
-ggei Ş» ÇD
-ggi ÜÕ
+ggei Ş» ï¿½D
+ggi ï¿½ï¿½
 ggia Ş»
-ggii ÉF
-ggio æÙ
-ggo ¹¶
-ggoe ½æ
-ggou ğÙ
-ggu ¹½ ¹é
-ggua İÔ
+ggii ï¿½F
+ggio ï¿½ï¿½
+ggo ï¿½ï¿½
+ggoe ï¿½ï¿½
+ggou ï¿½ï¿½
+ggu ï¿½ï¿½ ï¿½ï¿½
+ggua ï¿½ï¿½
 ggui İ¢
-gh ¹ı
-gha ¹Å
-ghaa ¸ï
-ghae ¹§
-ghao ¹§
-ghau ¸ï ¹± ¹¯ ¼Ö
-ghe ¸ü ¹ı
-ghei ¹¼
-gheo ¹¢
-ghi ¸ç
-ghia ôş
-ghii ¹¤ ¸Ê ôû ÷¸
-gho ¸è
-ghoe ¹²
-ghoi ¹Ê ¹¥ Ç¬ ñø
-ghou ¹® ğ³
-ghu ¹¦
-ghui ØÅ
+gh ï¿½ï¿½
+gha ï¿½ï¿½
+ghaa ï¿½ï¿½
+ghae ï¿½ï¿½
+ghao ï¿½ï¿½
+ghau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+ghe ï¿½ï¿½ ï¿½ï¿½
+ghei ï¿½ï¿½
+gheo ï¿½ï¿½
+ghi ï¿½ï¿½
+ghia ï¿½ï¿½
+ghii ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+gho ï¿½ï¿½
+ghoe ï¿½ï¿½
+ghoi ï¿½ï¿½ ï¿½ï¿½ Ç¬ ï¿½ï¿½
+ghou ï¿½ï¿½ ï¿½
+ghu ï¿½ï¿½
+ghui ï¿½ï¿½
 ghuu Ø¤
-gi ¸÷
-gia ¹ê ¸÷
-giae ö¡
-giau Øª Ø¨ ÷¤ öñ â£ ¾ä
-gie ¹ä
-giee ¹İ
-giei áî
-gii öá
-giia öÙ
-giio ÷¬
-gio ¹·
-gioa ëg
-gioi øA
-gioo õı
-giou ¹» öç
-giu ¹´
-gj ¸ã
-gja ¹Õ
-gjau Şâ
-gje ¸é ¸ã
-gjee ¼Ğ
-gji ¹Ò
-gjia ¹° ß¦ ¿¸
-gjo À¨
-gju Şè
-gk ¸ê
-gka ¹õ
-gkau ØÑ
-gke êÁ ¸ê
-gki ê½
-gkia éï
-gkii êº
-gkiu ØĞ
-gko êĞ
-gkou ÅZ
-gku ¹ì
-gkuu Ôş
-gl ¸É
-gla ¹æ ¸É
-glau êí
-gle ¬g
-gleu åÜ
-gli ¸û
-glia ­ çî «•
-glo ¹å
-gm ¸Ğ
-gma ŞÏ
-gme íŞ ¸Ğ
-gmi ¹Ë
-gmia ¹¨ ¹è ³M
-gmii í·
-gmo ŞÎ íÑ
-gmou íÑ
-gn ¹Ã
-gna æØ
-gnaa ŞÏ
-gnau ê¸
-gne æ£
-gnee Šş
-gni æÅ ¹Ã
-gnia ÛÁ
-gniu ê®
-gno ŞÎ Š¹
-gnoo Š¥
-gnou Š¹
-go ¹Ü
-goa ¸æ
-goaa ¹Î
-goai ¹Ô
-goe ¸å ¹Ü
-goee ¹`
-goei ¸İ
-goi ¹Ş
-goia ¸× ¹¿ êô óà ¹K «V
-goii ¸Í ¸Ñ óô
-goo ğÀ
-gooe ë¡
-gooi êö
-goou óÑ ğ»
-gou ¹Ô Û¬
+gi ï¿½ï¿½
+gia ï¿½ï¿½ ï¿½ï¿½
+giae ï¿½ï¿½
+giau Øª Ø¨ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½
+gie ï¿½ï¿½
+giee ï¿½ï¿½
+giei ï¿½ï¿½
+gii ï¿½ï¿½
+giia ï¿½ï¿½
+giio ï¿½ï¿½
+gio ï¿½ï¿½
+gioa ï¿½g
+gioi ï¿½A
+gioo ï¿½ï¿½
+giou ï¿½ï¿½ ï¿½ï¿½
+giu ï¿½ï¿½
+gj ï¿½ï¿½
+gja ï¿½ï¿½
+gjau ï¿½ï¿½
+gje ï¿½ï¿½ ï¿½ï¿½
+gjee ï¿½ï¿½
+gji ï¿½ï¿½
+gjia ï¿½ï¿½ ß¦ ï¿½ï¿½
+gjo ï¿½ï¿½
+gju ï¿½ï¿½
+gk ï¿½ï¿½
+gka ï¿½ï¿½
+gkau ï¿½ï¿½
+gke ï¿½ï¿½ ï¿½ï¿½
+gki ï¿½
+gkia ï¿½ï¿½
+gkii ï¿½
+gkiu ï¿½ï¿½
+gko ï¿½ï¿½
+gkou ï¿½Z
+gku ï¿½ï¿½
+gkuu ï¿½ï¿½
+gl ï¿½ï¿½
+gla ï¿½ï¿½ ï¿½ï¿½
+glau ï¿½ï¿½
+gle ï¿½g
+gleu ï¿½ï¿½
+gli ï¿½ï¿½
+glia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+glo ï¿½ï¿½
+gm ï¿½ï¿½
+gma ï¿½ï¿½
+gme ï¿½ï¿½ ï¿½ï¿½
+gmi ï¿½ï¿½
+gmia ï¿½ï¿½ ï¿½ï¿½ ï¿½M
+gmii ï¿½ï¿½
+gmo ï¿½ï¿½ ï¿½ï¿½
+gmou ï¿½ï¿½
+gn ï¿½ï¿½
+gna ï¿½ï¿½
+gnaa ï¿½ï¿½
+gnau ï¿½
+gne ï¿½
+gnee ï¿½ï¿½
+gni ï¿½ï¿½ ï¿½ï¿½
+gnia ï¿½ï¿½
+gniu ï¿½
+gno ï¿½ï¿½ ï¿½ï¿½
+gnoo ï¿½ï¿½
+gnou ï¿½ï¿½
+go ï¿½ï¿½
+goa ï¿½ï¿½
+goaa ï¿½ï¿½
+goai ï¿½ï¿½
+goe ï¿½ï¿½ ï¿½ï¿½
+goee ï¿½`
+goei ï¿½ï¿½
+goi ï¿½ï¿½
+goia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½K ï¿½V
+goii ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+goo ï¿½ï¿½
+gooe ï¿½
+gooi ï¿½ï¿½
+goou ï¿½ï¿½ ï¿½
+gou ï¿½ï¿½ Û¬
 goua Û¬
-goui óş
-gp ¹Ï
-gpa ë×
-gpau ÄN
-gpe ¹Ï
-gpi ¸Î
-gpia ¸Ø ô´ ëõ ëû
-gpio ëÅ
-gpo ¹É
-gpoo ëÒ
-gpou ¸ì
-gq ¸ó
-gqi ¹ë
-gqo ¸ó
-gr ¸ß
-gra ¸à ¸ß
-grau ¹ü âÙ ğó
-gre í°
-gri ğá
-gria âÑ ƒé
-gro ¹ã
-groe Ùò
-groi ¸í
-grou ¸Ó ûf
-gru ¹ù
-grue Ùò
-grui ¸ı
-gs ¹â
-gsa ¹ô ¸ö
-gsau ºÏ
-gse ÙÄ
-gsi ¹©
-gsia ¹À
-gsio ò¢
-gso ¸ë ¹â
-gsoa ¿ş
-gsoi Øî
-gsou Øş
+goui ï¿½ï¿½
+gp ï¿½ï¿½
+gpa ï¿½ï¿½
+gpau ï¿½N
+gpe ï¿½ï¿½
+gpi ï¿½ï¿½
+gpia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+gpio ï¿½ï¿½
+gpo ï¿½ï¿½
+gpoo ï¿½ï¿½
+gpou ï¿½ï¿½
+gq ï¿½ï¿½
+gqi ï¿½ï¿½
+gqo ï¿½ï¿½
+gr ï¿½ï¿½
+gra ï¿½ï¿½ ï¿½ï¿½
+grau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+gre ï¿½ï¿½
+gri ï¿½ï¿½
+gria ï¿½ï¿½ ï¿½ï¿½
+gro ï¿½ï¿½
+groe ï¿½ï¿½
+groi ï¿½ï¿½
+grou ï¿½ï¿½ ï¿½f
+gru ï¿½ï¿½
+grue ï¿½ï¿½
+grui ï¿½ï¿½
+gs ï¿½ï¿½
+gsa ï¿½ï¿½ ï¿½ï¿½
+gsau ï¿½ï¿½
+gse ï¿½ï¿½
+gsi ï¿½ï¿½
+gsia ï¿½ï¿½
+gsio ï¿½
+gso ï¿½ï¿½ ï¿½ï¿½
+gsoa ï¿½ï¿½
+gsoi ï¿½ï¿½
+gsou ï¿½ï¿½
 gsu Ù¤
-gt ¹Ø
-gta ¸Ç
-gtau ¼@
-gte ¸â
-gtee ¸á
-gteo ¸ş
-gti Ùå ¹Ø
-gtia  ƒ
-gto Ál
+gt ï¿½ï¿½
+gta ï¿½ï¿½
+gtau ï¿½@
+gte ï¿½ï¿½
+gtee ï¿½ï¿½
+gteo ï¿½ï¿½
+gti ï¿½ï¿½ ï¿½ï¿½
+gtia ï¿½ï¿½
+gto ï¿½l
 gtu È²
-gu ¹«
-gua ¹È
-guae ØÔ ˆ
-guai ë½
-guau î­ Ûö
-gue Ûò
-gui ¸Ï
-guia ¹Ä ¹ç ¹¡ Ûá ˆØ Üª
-guo ¹¸
-guoi ÛÙ
-guoo ˆq
-guou ì± ì°
-guu ß ¹«
-gv ¸ø
-gva ¹á
-gvau ¸Ù çµ
-gve çÉ
-gvi ç¤
-gvia ç® ºì
-gvii š¯
-gvo ÂÚ ¸ø
-gvoa çÃ
-gvoi æü
-gw ¹Ö
-gwa ¹Ù
-gwaa ¸î
-gwau ¹¬
-gwi ¹Ñ
-gwu ¹ß ¹Ö
-gwuo å³
-gx ¸ô
-gxe Úë
-gxi ¸ô
-gxo ¹Â
-gy ¹í
-gya ¹ø
-gyau ¸Ö ïÀ îÂ ï¿
-gye ¸ä ¹í
-gyi ¸Æ
-gyia ïÓ îÜ Øº
-gyio ¸Ş
-gyo ¹³
-gyoi ï¯
-gyoo ğ§
-gyou ¸õ
-gyu ¹ª ¹í
-gyuu îÅ
-h ºÃ
-ha ºÅ
-haa ºÈ
-haai »£
-haau ºÙ õ× ßÜ
-hae ºß
-haee àË †ã
-haei ¿È º¿ ¿Ô
-hai º° ºÅ
-haia ºÇ ºå àÀ àã ÏÅ †y …î
-haie àë
-haio ßÔ
-hao ¹ş
-haoa ºí »© àÆ †Å
-haoe ºô
-haoi …Ë
-haou »½ ßü
-hau ºğ
-hauu à¹
-hb º©
-hbe º©
-hbo »¡
-hbu ºë
-hc »î
-hca »ì
-hcae ›²
-hcai äï
-hcau »¬ å° ºÔ ä§ äã À£ œB äñ
-hce »¦
-hcee ä½
-hcei å© ãì t ÂG
-hceu »ë ä°
-hci º¹
-hcia ºÓ ºş ºé ºè å« ä¡ äê
-hciu »ã Áš
-hco º£ »î
-hcoa »´ äÒ
-hcoe ›¿ ä«
-hcoi ºÆ
-hcou »¶ ºè »Á œX ›Í
-hcu ºº
-hcua º­
-hcui ãü
-hd »Ø
-hda »Ï »Ø
-hdau »× à÷
-hde ºÚ
-hdei º¡
-hdeu »¼
-hdi ºç
-hdia Ïº ºû òÀ ó³ ó¶ á² ó¨
-hdio »ß ²
-hdo ¸ò
-hdoa »È
-hdoi òº
-hdoo ÷¿
-hdou â· ÷½ àñ ûq
-he »°
-hea »ö
-heau ºÖ ìè
-hee ìæ
-heee ëa
+gu ï¿½ï¿½
+gua ï¿½ï¿½
+guae ï¿½ï¿½ ï¿½ï¿½
+guai ï¿½
+guau ï¿½ ï¿½ï¿½
+gue ï¿½ï¿½
+gui ï¿½ï¿½
+guia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ Üª
+guo ï¿½ï¿½
+guoi ï¿½ï¿½
+guoo ï¿½q
+guou ï¿½ ï¿½
+guu ß ï¿½ï¿½
+gv ï¿½ï¿½
+gva ï¿½ï¿½
+gvau ï¿½ï¿½ ï¿½
+gve ï¿½ï¿½
+gvi ï¿½
+gvia ï¿½ ï¿½ï¿½
+gvii ï¿½ï¿½
+gvo ï¿½ï¿½ ï¿½ï¿½
+gvoa ï¿½ï¿½
+gvoi ï¿½ï¿½
+gw ï¿½ï¿½
+gwa ï¿½ï¿½
+gwaa ï¿½ï¿½
+gwau ï¿½ï¿½
+gwi ï¿½ï¿½
+gwu ï¿½ï¿½ ï¿½ï¿½
+gwuo ï¿½
+gx ï¿½ï¿½
+gxe ï¿½ï¿½
+gxi ï¿½ï¿½
+gxo ï¿½ï¿½
+gy ï¿½ï¿½
+gya ï¿½ï¿½
+gyau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½
+gye ï¿½ï¿½ ï¿½ï¿½
+gyi ï¿½ï¿½
+gyia ï¿½ï¿½ ï¿½ï¿½ Øº
+gyio ï¿½ï¿½
+gyo ï¿½ï¿½
+gyoi ï¿½
+gyoo ï¿½
+gyou ï¿½ï¿½
+gyu ï¿½ï¿½ ï¿½ï¿½
+gyuu ï¿½ï¿½
+h ï¿½ï¿½
+ha ï¿½ï¿½
+haa ï¿½ï¿½
+haai ï¿½ï¿½
+haau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+hae ï¿½ï¿½
+haee ï¿½ï¿½ ï¿½ï¿½
+haei ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+hai ï¿½ï¿½ ï¿½ï¿½
+haia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½y ï¿½ï¿½
+haie ï¿½ï¿½
+haio ï¿½ï¿½
+hao ï¿½ï¿½
+haoa ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+haoe ï¿½ï¿½
+haoi ï¿½ï¿½
+haou ï¿½ï¿½ ï¿½ï¿½
+hau ï¿½ï¿½
+hauu ï¿½
+hb ï¿½ï¿½
+hbe ï¿½ï¿½
+hbo ï¿½ï¿½
+hbu ï¿½ï¿½
+hc ï¿½ï¿½
+hca ï¿½ï¿½
+hcae ï¿½ï¿½
+hcai ï¿½ï¿½
+hcau ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½B ï¿½ï¿½
+hce ï¿½ï¿½
+hcee ï¿½
+hcei ï¿½ ï¿½ï¿½ ï¿½t ï¿½G
+hceu ï¿½ï¿½ ï¿½
+hci ï¿½ï¿½
+hcia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ ï¿½ï¿½
+hciu ï¿½ï¿½ ï¿½ï¿½
+hco ï¿½ï¿½ ï¿½ï¿½
+hcoa ï¿½ï¿½ ï¿½ï¿½
+hcoe ï¿½ï¿½ ï¿½
+hcoi ï¿½ï¿½
+hcou ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½X ï¿½ï¿½
+hcu ï¿½ï¿½
+hcua ï¿½ï¿½
+hcui ï¿½ï¿½
+hd ï¿½ï¿½
+hda ï¿½ï¿½ ï¿½ï¿½
+hdau ï¿½ï¿½ ï¿½ï¿½
+hde ï¿½ï¿½
+hdei ï¿½ï¿½
+hdeu ï¿½ï¿½
+hdi ï¿½ï¿½
+hdia Ïº ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ ï¿½ ï¿½
+hdio ï¿½ï¿½ ï¿½ï¿½
+hdo ï¿½ï¿½
+hdoa ï¿½ï¿½
+hdoi ï¿½
+hdoo ï¿½ï¿½
+hdou ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½q
+he ï¿½ï¿½
+hea ï¿½ï¿½
+heau ï¿½ï¿½ ï¿½ï¿½
+hee ï¿½ï¿½
+heee ï¿½a
 heeu Ú»
-hei »Ñ
-heia Ú­ ìï Ú§
-heii º± »ä
+hei ï¿½ï¿½
+heia Ú­ ï¿½ï¿½ Ú§
+heii ï¿½ï¿½ ï¿½ï¿½
 heio Ú¶
-heo »§ »°
-heoi »å
-heou º×
-hf »¢
-hfe ºË
-hfei º¼
-hfi ºá
-hfia »¸ ÛÖ ™B
-hfo èë »¢
-hfoa »±
-hfoe èí
-hfoi ı†
-hfoo èì
-hfou éÎ
-hg »¨
-hga Üî
-hgaa Øå
+heo ï¿½ï¿½ ï¿½ï¿½
+heoi ï¿½ï¿½
+heou ï¿½ï¿½
+hf ï¿½ï¿½
+hfe ï¿½ï¿½
+hfei ï¿½ï¿½
+hfi ï¿½ï¿½
+hfia ï¿½ï¿½ ï¿½ï¿½ ï¿½B
+hfo ï¿½ï¿½ ï¿½ï¿½
+hfoa ï¿½ï¿½
+hfoe ï¿½ï¿½
+hfoi ï¿½ï¿½
+hfoo ï¿½ï¿½
+hfou ï¿½ï¿½
+hg ï¿½ï¿½
+hga ï¿½ï¿½
+hgaa ï¿½ï¿½
 hgau Ş°
-hge »Ä İï
-hgee ºÊ
-hgei İï
-hgeo ÊG
-hgi »ç
-hgia Ş¥ ºù Ş® ÇB
+hge ï¿½ï¿½ ï¿½ï¿½
+hgee ï¿½ï¿½
+hgei ï¿½ï¿½
+hgeo ï¿½G
+hgi ï¿½ï¿½
+hgia Ş¥ ï¿½ï¿½ Ş® ï¿½B
 hgie Ş½
 hgio Ş°
-hgo »ñ »¨
-hgoa »Ä ºÉ İÈ
-hgoe Üö
+hgo ï¿½ï¿½ ï¿½ï¿½
+hgoa ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+hgoe ï¿½ï¿½
 hgoo Ş¿
-hgu İÕ
+hgu ï¿½ï¿½
 hguo Ş¶
 hguu İ¦
-hh »Æ
-hha ÷ß »Æ
-hhau íH
-hhe »İ
-hhi º«
-hhia º¨ õ­
-hhio »Ü õ°
-hho ºú
-hhoe º²
-hhou ğÉ
-hhu ºª
-hhui Ïï
-hi »­
-hia »è »­
-hiau Û¼ »« âÆ
-hie ºö
-hiee õú öé
-hiei Ùê
-hii âµ
-hiia â© ğ×
-hiii áí
-hio ºï
-hioa »Ë öü
-hioe ğš
-hioo ºü ÷
-hiu ºİ
+hh ï¿½ï¿½
+hha ï¿½ï¿½ ï¿½ï¿½
+hhau ï¿½H
+hhe ï¿½ï¿½
+hhi ï¿½ï¿½
+hhia ï¿½ï¿½ ï¿½ï¿½
+hhio ï¿½ï¿½ ï¿½ï¿½
+hho ï¿½ï¿½
+hhoe ï¿½ï¿½
+hhou ï¿½ï¿½
+hhu ï¿½ï¿½
+hhui ï¿½ï¿½
+hi ï¿½ï¿½
+hia ï¿½ï¿½ ï¿½ï¿½
+hiau Û¼ ï¿½ï¿½ ï¿½ï¿½
+hie ï¿½ï¿½
+hiee ï¿½ï¿½ ï¿½ï¿½
+hiei ï¿½ï¿½
+hii ï¿½
+hiia ï¿½ ï¿½ï¿½
+hiii ï¿½ï¿½
+hio ï¿½ï¿½
+hioa ï¿½ï¿½ ï¿½ï¿½
+hioe ï¿½
+hioo ï¿½ï¿½ ï¿½ï¿½
+hiu ï¿½ï¿½
 hiua Û¨
-hiue ôç
-hj »»
-hja º´
+hiue ï¿½ï¿½
+hj ï¿½ï¿½
+hja ï¿½ï¿½
 hjau ß§
-hje »¤
-hjeu »Ó
-hji º³
+hje ï¿½ï¿½
+hjeu ï¿½ï¿½
+hji ï¿½ï¿½
 hjie ß«
-hjo »ô »»
-hju Şş
-hk »ò
-hka »® »ò
-hkae »Î
-hke »ó
-hkeu êÍ •O
-hki »¥
-hkii ê» ºµ
-hkio ò«
-hko êÏ
-hkoe éõ
-hkoi »Ş
-hkou êÂ ûi
-hku ºä
-hl »·
-hla çú
-hle »Û
-hleu çõ
-hli è« »·
-hlia º÷ «Y
-hlio ñü í¹
-hlo »ê
-hloe ñë
-hloi ºÄ
-hloo çñ
-hlu åç
-hlua Úõ
-hm »¹
-hma ºñ
-hmau ò³
-hme »Ò »¹
-hmi »Ç
-hmia ³{
-hmo ğ­
-hmu º»
-hmue ÁŠ
-hn ºØ
-hna ‹Ö ºØ
-hnai ‹¬
-hni Š¬
-hnia ‹O ‹Ã
-hno »é
-hnu ºÃ
-ho ºÍ
-hoa »à ºÍ
-hoau ±B
-hoe ºÌ
-hoei º¤
-hoi »É
-hoo óò
-hooa óó
-hoou óË ğÀ
-hp ºÜ
-hpa ºó
-hpai »²
-hpau »Õ
-hpe º½
-hpei ëÜ
-hpeu åË
-hpi ĞĞ
-hpia ˆ‹
-hpii ûa
-hpo ºâ
-hpoa áå
-hpou ûa
-hpu áá ºÜ
-hpua àC
-hq ãØ
-hqe ºÒ
-hqi ãÈ ãØ
-hqo ãÔ
-hqu ãÛ
-hr ºÀ
-hra ëÁ
-hre º¥
-hri ¸f ºÀ
-hria ñ¥
-hrio ñş
-hriu Ùü
-hro ºÁ
-hroa ğú
-hroe º¥
-hroi ÷â
-hrou »¾
-hru ºÛ
-hrua ºà
-hruo ÛÀ
-hs »á
-hsa »õ
-hsau ºÏ º¬ ºĞ
-hse »Ô
-hseo »ï
-hsi »ª »á
-hsia ºÎ
-hsio ò¢ ò¥
-hso »¯
-hsoi å ı˜
-hsu ºò
-hsua àA
-hsui ºî
-ht »ğ
-hta º¸
-hte ŸÀ »ğ
-hti ºı
-htia ºæ ìÎ
-htio »¿
-hto »À
-htoa »Í ô×
-htoe »â ìÊ ìÃ
-hu »µ
-hua ºõ
-huaa ºø
-huau îÁ ˆ¥
-hue º¾
-hueu í£
-hui ºÕ »µ
-huia Ø} ØD ˆı
-huo ºÑ
+hjo ï¿½ï¿½ ï¿½ï¿½
+hju ï¿½ï¿½
+hk ï¿½ï¿½
+hka ï¿½ï¿½ ï¿½ï¿½
+hkae ï¿½ï¿½
+hke ï¿½ï¿½
+hkeu ï¿½ï¿½ ï¿½O
+hki ï¿½ï¿½
+hkii ï¿½ ï¿½ï¿½
+hkio ï¿½
+hko ï¿½ï¿½
+hkoe ï¿½ï¿½
+hkoi ï¿½ï¿½
+hkou ï¿½ï¿½ ï¿½i
+hku ï¿½ï¿½
+hl ï¿½ï¿½
+hla ï¿½ï¿½
+hle ï¿½ï¿½
+hleu ï¿½ï¿½
+hli ï¿½ ï¿½ï¿½
+hlia ï¿½ï¿½ ï¿½Y
+hlio ï¿½ï¿½ ï¿½ï¿½
+hlo ï¿½ï¿½
+hloe ï¿½ï¿½
+hloi ï¿½ï¿½
+hloo ï¿½ï¿½
+hlu ï¿½ï¿½
+hlua ï¿½ï¿½
+hm ï¿½ï¿½
+hma ï¿½ï¿½
+hmau ï¿½
+hme ï¿½ï¿½ ï¿½ï¿½
+hmi ï¿½ï¿½
+hmia ï¿½{
+hmo ï¿½
+hmu ï¿½ï¿½
+hmue ï¿½ï¿½
+hn ï¿½ï¿½
+hna ï¿½ï¿½ ï¿½ï¿½
+hnai ï¿½ï¿½
+hni ï¿½ï¿½
+hnia ï¿½O ï¿½ï¿½
+hno ï¿½ï¿½
+hnu ï¿½ï¿½
+ho ï¿½ï¿½
+hoa ï¿½ï¿½ ï¿½ï¿½
+hoau ï¿½B
+hoe ï¿½ï¿½
+hoei ï¿½ï¿½
+hoi ï¿½ï¿½
+hoo ï¿½ï¿½
+hooa ï¿½ï¿½
+hoou ï¿½ï¿½ ï¿½ï¿½
+hp ï¿½ï¿½
+hpa ï¿½ï¿½
+hpai ï¿½ï¿½
+hpau ï¿½ï¿½
+hpe ï¿½ï¿½
+hpei ï¿½ï¿½
+hpeu ï¿½ï¿½
+hpi ï¿½ï¿½
+hpia ï¿½ï¿½
+hpii ï¿½a
+hpo ï¿½ï¿½
+hpoa ï¿½ï¿½
+hpou ï¿½a
+hpu ï¿½ï¿½ ï¿½ï¿½
+hpua ï¿½C
+hq ï¿½ï¿½
+hqe ï¿½ï¿½
+hqi ï¿½ï¿½ ï¿½ï¿½
+hqo ï¿½ï¿½
+hqu ï¿½ï¿½
+hr ï¿½ï¿½
+hra ï¿½ï¿½
+hre ï¿½ï¿½
+hri ï¿½f ï¿½ï¿½
+hria ï¿½
+hrio ï¿½ï¿½
+hriu ï¿½ï¿½
+hro ï¿½ï¿½
+hroa ï¿½ï¿½
+hroe ï¿½ï¿½
+hroi ï¿½ï¿½
+hrou ï¿½ï¿½
+hru ï¿½ï¿½
+hrua ï¿½ï¿½
+hruo ï¿½ï¿½
+hs ï¿½ï¿½
+hsa ï¿½ï¿½
+hsau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+hse ï¿½ï¿½
+hseo ï¿½ï¿½
+hsi ï¿½ï¿½ ï¿½ï¿½
+hsia ï¿½ï¿½
+hsio ï¿½ ï¿½
+hso ï¿½ï¿½
+hsoi ï¿½ï¿½ ï¿½ï¿½
+hsu ï¿½ï¿½
+hsua ï¿½A
+hsui ï¿½ï¿½
+ht ï¿½ï¿½
+hta ï¿½ï¿½
+hte ï¿½ï¿½ ï¿½ï¿½
+hti ï¿½ï¿½
+htia ï¿½ï¿½ ï¿½ï¿½
+htio ï¿½ï¿½
+hto ï¿½ï¿½
+htoa ï¿½ï¿½ ï¿½ï¿½
+htoe ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+hu ï¿½ï¿½
+hua ï¿½ï¿½
+huaa ï¿½ï¿½
+huau ï¿½ï¿½ ï¿½ï¿½
+hue ï¿½ï¿½
+hueu ï¿½ï¿½
+hui ï¿½ï¿½ ï¿½ï¿½
+huia ï¿½} ï¿½D ï¿½ï¿½
+huo ï¿½ï¿½
 huoa Ü©
-huou ì² ˆ†
-huu ºÂ
-hv ºì
-hva çÙ
-hvau çÀ
-hve º§
-hvi À€ ºì
-hvo »º
-hvoa æè
-hvoe »æ
-hvoi æü
-hvoo ç¬
-hvu »Ã
-hw º¦
-hwa º·
-hwae »Ğ
-hwau å¾
-hwe º®
-hweu åÕ
-hwi »Å º¦
-hwia ºã âï Ùä
-hwio ºê »³ º¶ »Ö
-hwiu »Â
-hwo »Ú
-hwoa »Ì
-hwoe »í
-hwou ã± ö× ¸
-hwu ºŞ
-hx º¢
-hxe º¢
-hxo ãÄ
-hxoa Úò
-hxu º¯
-hy »Ù
-hya éI
-hye ¸ä
-hyeo îØ
-hyeu åØ
-hyi »Ê
-hyia ïì
-hyii ÷ı
-hyo ğ© »Ù
-hyoa îü °‚
-hyoe îş ïÌ
-hyou ıJ ïÁ
-j ¾Í
-ja ½Ğ
-jaa ¾É
-jaai àå
-jaau ¼à ¾×
-jae õÓ
-jaee ”Ğ
-jaei õÒ õí ßâ
-jaeo àµ Ûˆ
-jai ¾à
-jaia ¼á àä ßÒ ê«
-jaii ¼ù õÂ
-jaio àÙ õê Ûp
-jaiu à®
-jao ½À
-jaoa àİ õá
-jaoe ¼ø
-jaoi à±
-jaou ß´ ¾é
-jau ½ô ½Ğ
+huou ï¿½ ï¿½ï¿½
+huu ï¿½ï¿½
+hv ï¿½ï¿½
+hva ï¿½ï¿½
+hvau ï¿½ï¿½
+hve ï¿½ï¿½
+hvi ï¿½ï¿½ ï¿½ï¿½
+hvo ï¿½ï¿½
+hvoa ï¿½ï¿½
+hvoe ï¿½ï¿½
+hvoi ï¿½ï¿½
+hvoo ï¿½
+hvu ï¿½ï¿½
+hw ï¿½ï¿½
+hwa ï¿½ï¿½
+hwae ï¿½ï¿½
+hwau ï¿½
+hwe ï¿½ï¿½
+hweu ï¿½ï¿½
+hwi ï¿½ï¿½ ï¿½ï¿½
+hwia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+hwio ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+hwiu ï¿½ï¿½
+hwo ï¿½ï¿½
+hwoa ï¿½ï¿½
+hwoe ï¿½ï¿½
+hwou ï¿½ ï¿½ï¿½ ï¿½ï¿½
+hwu ï¿½ï¿½
+hx ï¿½ï¿½
+hxe ï¿½ï¿½
+hxo ï¿½ï¿½
+hxoa ï¿½ï¿½
+hxu ï¿½ï¿½
+hy ï¿½ï¿½
+hya ï¿½I
+hye ï¿½ï¿½
+hyeo ï¿½ï¿½
+hyeu ï¿½ï¿½
+hyi ï¿½ï¿½
+hyia ï¿½ï¿½
+hyii ï¿½ï¿½
+hyo ï¿½ ï¿½ï¿½
+hyoa ï¿½ï¿½ ï¿½ï¿½
+hyoe ï¿½ï¿½ ï¿½ï¿½
+hyou ï¿½J ï¿½ï¿½
+j ï¿½ï¿½
+ja ï¿½ï¿½
+jaa ï¿½ï¿½
+jaai ï¿½ï¿½
+jaau ï¿½ï¿½ ï¿½ï¿½
+jae ï¿½ï¿½
+jaee ï¿½ï¿½
+jaei ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jaeo ï¿½ Ûˆ
+jai ï¿½ï¿½
+jaia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½
+jaii ï¿½ï¿½ ï¿½ï¿½
+jaio ï¿½ï¿½ ï¿½ï¿½ ï¿½p
+jaiu ï¿½
+jao ï¿½ï¿½
+jaoa ï¿½ï¿½ ï¿½ï¿½
+jaoe ï¿½ï¿½
+jaoi ï¿½
+jaou ß´ ï¿½ï¿½
+jau ï¿½ï¿½ ï¿½ï¿½
 jaua Û£
-jaui ßó ¾á õİ õÕ
-jauo õÊ
-jb ¼´
-jba ¾ı
-jbaa ¾ç
-jbau ½ì ôß Ç¿
-jbe ¾¡
-jbei ‰
-jbeu ¼É
-jbi ¼È
-jbia ¾Ó ½®
-jbo êñ
-jboo åì åğ
-jbu ½¨ ¼´
-jbua ¾Ö ¿¤
-jbue åò
-jbuu ¼º
-jc ¾Æ
-jca ½¦
-jcaa ØÙ
-jcau ä¸ ¾Ú ›s ²œ ç
-jce ¼Ã
-jcea ½§
-jceo äÕ
-jceu œò åÉ
-jci ½­ ¾Æ
-jcia ½à œÃ ]
-jcie ä¤
+jaui ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jauo ï¿½ï¿½
+jb ï¿½ï¿½
+jba ï¿½ï¿½
+jbaa ï¿½ï¿½
+jbau ï¿½ï¿½ ï¿½ï¿½ Ç¿
+jbe ï¿½ï¿½
+jbei ï¿½ï¿½
+jbeu ï¿½ï¿½
+jbi ï¿½ï¿½
+jbia ï¿½ï¿½ ï¿½ï¿½
+jbo ï¿½ï¿½
+jboo ï¿½ï¿½ ï¿½ï¿½
+jbu ï¿½ï¿½ ï¿½ï¿½
+jbua ï¿½ï¿½ ï¿½ï¿½
+jbue ï¿½ï¿½
+jbuu ï¿½ï¿½
+jc ï¿½ï¿½
+jca ï¿½ï¿½
+jcaa ï¿½ï¿½
+jcau ï¿½ ï¿½ï¿½ ï¿½s ï¿½ï¿½ ï¿½ï¿½
+jce ï¿½ï¿½
+jcea ï¿½ï¿½
+jceo ï¿½ï¿½
+jceu ï¿½ï¿½ ï¿½ï¿½
+jci ï¿½ï¿½ ï¿½ï¿½
+jcia ï¿½ï¿½ ï¿½ï¿½ ï¿½]
+jcie ï¿½
 jcii Ç³
-jcio ¾±
-jciu ½½ ½¥ œœ
-jco ¼¦
-jcoa ¼¤ ä©
-jcoe ñæ
-jcoi äĞ
-jcou T ä® ›t šğ
-jcu ¾¢
-jcue ãş ¿£
-jcui ½ò ½ş ¼è ›»
-jcuo ¼³
-jd ¼û
-jda ¼×
-jdaa ½í
-jdau êé áµ
-jde åÄ
-jdei òÔ áÕ
+jcio ï¿½ï¿½
+jciu ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jco ï¿½ï¿½
+jcoa ï¿½ï¿½ ï¿½
+jcoe ï¿½ï¿½
+jcoi ï¿½ï¿½
+jcou ï¿½T ï¿½ ï¿½t ï¿½ï¿½
+jcu ï¿½ï¿½
+jcue ï¿½ï¿½ ï¿½ï¿½
+jcui ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jcuo ï¿½ï¿½
+jd ï¿½ï¿½
+jda ï¿½ï¿½
+jdaa ï¿½ï¿½
+jdau ï¿½ï¿½ ï¿½
+jde ï¿½ï¿½
+jdei ï¿½ï¿½ ï¿½ï¿½
 jdeo È¦
-jdi ¼ú
-jdia î¿ ºç Í
-jdie òÌ
-jdii ¾¦ ÇÒ
-jdio »û
-jdiu ½Ş
-jdo ½ç ¼û
-jdoa öÂ ÛÇ öÄ
-jdoe ¾ß ‡å íú ò» ÷º
-jdoi á½
-jdou ò±
-jdu ¾ş
-jdua àî
-jdue ÛÇ
-jdui áÈ ‡ êá
-jduo á§
-je ½²
-jea ¼ç
-jeau ìç
-jee ÚÙ
-jeea ñĞ
+jdi ï¿½ï¿½
+jdia ï¿½ ï¿½ï¿½ Í
+jdie ï¿½ï¿½
+jdii ï¿½ï¿½ ï¿½ï¿½
+jdio ï¿½ï¿½
+jdiu ï¿½ï¿½
+jdo ï¿½ï¿½ ï¿½ï¿½
+jdoa ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jdoe ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½
+jdoi ï¿½
+jdou ï¿½
+jdu ï¿½ï¿½
+jdua ï¿½ï¿½
+jdue ï¿½ï¿½
+jdui ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jduo ï¿½
+je ï¿½ï¿½
+jea ï¿½ï¿½
+jeau ï¿½ï¿½
+jee ï¿½ï¿½
+jeea ï¿½ï¿½
 jeei Ñ›
-jei ¼Æ ½²
-jeia ½÷ ÚÉ ½ó Úµ
+jei ï¿½ï¿½ ï¿½ï¿½
+jeia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ Úµ
 jeii Ú¦
-jeiu ¾ü ½ë Úª
-jeo ¼¥
-jeoe ñÆ ñÊ
-jeu ¼Ç
-jeue ÚÜ
-jeui ¾÷ ñÕ µ‰
-jeuo ñä
-jf »ú
-jfa ¼½
-jfaa ¼÷
-jfai ½·
-jfau é® èÅ ö´
-jfe ½Ü
-jfee é·
+jeiu ï¿½ï¿½ ï¿½ï¿½ Úª
+jeo ï¿½ï¿½
+jeoe ï¿½ï¿½ ï¿½ï¿½
+jeu ï¿½ï¿½
+jeue ï¿½ï¿½
+jeui ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jeuo ï¿½ï¿½
+jf ï¿½ï¿½
+jfa ï¿½ï¿½
+jfaa ï¿½ï¿½
+jfai ï¿½ï¿½
+jfau ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jfe ï¿½ï¿½
+jfee ï¿½
 jfei Ğ£
-jfeu åá
-jfi ½û
-jfia ½Û éÈ
-jfii ¾Â
-jfio éÓ
-jfiu èÑ ¹ñ ¿¬
-jfo ¼ì »ú
-jfoa èê
-jfou èö èÛ ™w
-jfu ¼«
-jfue éÙ
-jfui é§ é¥
-jfuo ¼Ï
-jfuu ØÀ
-jg ½Ú
-jga ¾ú
-jgaa ¾£
-jgau ¼ë ÜÚ Üì Şª ËŠ
-jge ½¯
-jgee ½¶ İÑ Üü
-jgei ¾¯ Üú Üù İğ ÉX
-jgeo İó
-jgi ¼â
-jgia ÜÁ
-jgie ¼Ô
-jgii İ¼ ½å
-jgio ¼ö Ş§
-jgiu ÜÄ
-jgo ¾´
-jgoa ½¶ Èš
-jgoe ½æ İ²
-jgou ¾Õ ¼»
-jgu ¾¥ ½Ú
-jgui İç İ£ Çq
-jguo ÇÑ Ü¸ Ü´
-jh ½Ì
-jha ¼Ö
-jhai õ¶
-jhau ½ú İÀ êå êî
-jhe ¼í
-jhi »ù
-jhia ¼¬ ÷Ù ¾¤ ½Í ÷µ ÛÔ
-jhiu êª ê¯
-jho ¾È ½Ì
-jhoa ¾Û ½Ø õ´
-jhoi ÷İ
-jhoo ½ù
-jhou ¾Ï ÷¶
+jfeu ï¿½ï¿½
+jfi ï¿½ï¿½
+jfia ï¿½ï¿½ ï¿½ï¿½
+jfii ï¿½ï¿½
+jfio ï¿½ï¿½
+jfiu ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jfo ï¿½ï¿½ ï¿½ï¿½
+jfoa ï¿½ï¿½
+jfou ï¿½ï¿½ ï¿½ï¿½ ï¿½w
+jfu ï¿½ï¿½
+jfue ï¿½ï¿½
+jfui ï¿½ ï¿½
+jfuo ï¿½ï¿½
+jfuu ï¿½ï¿½
+jg ï¿½ï¿½
+jga ï¿½ï¿½
+jgaa ï¿½ï¿½
+jgau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ Şª ËŠ
+jge ï¿½ï¿½
+jgee ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jgei ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½X
+jgeo ï¿½ï¿½
+jgi ï¿½ï¿½
+jgia ï¿½ï¿½
+jgie ï¿½ï¿½
+jgii İ¼ ï¿½ï¿½
+jgio ï¿½ï¿½ Ş§
+jgiu ï¿½ï¿½
+jgo ï¿½ï¿½
+jgoa ï¿½ï¿½ Èš
+jgoe ï¿½ï¿½ İ²
+jgou ï¿½ï¿½ ï¿½ï¿½
+jgu ï¿½ï¿½ ï¿½ï¿½
+jgui ï¿½ï¿½ İ£ ï¿½q
+jguo ï¿½ï¿½ Ü¸ Ü´
+jh ï¿½ï¿½
+jha ï¿½ï¿½
+jhai ï¿½ï¿½
+jhau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jhe ï¿½ï¿½
+jhi ï¿½ï¿½
+jhia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jhiu ï¿½ ï¿½
+jho ï¿½ï¿½ ï¿½ï¿½
+jhoa ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jhoi ï¿½ï¿½
+jhoo ï¿½ï¿½
+jhou ï¿½ï¿½ ï¿½ï¿½
 jhu Û²
-jhui ØÅ íK
-ji ¼¸
-jia ¾ä
-jiaa öä
+jhui ï¿½ï¿½ ï¿½K
+ji ï¿½ï¿½
+jia ï¿½ï¿½
+jiaa ï¿½ï¿½
 jiao Ïµ
-jiau ¾Ñ ¾Ì áú ì«
-jie ¾Ã
-jiei ¾¨ ½È ½Æ öŞ â° öİ
-jieo ¾Ä
-jieu ¼±
-jii ¼À
-jiia èî âË ôø öÚ
-jiii ½¤
-jiio â± Ós
-jio ½Ç
-jiou ¼¢
-jiu ½â ¼¸
-jiue ğ
-jiui öê õû ÷‚ ÷
-jj ½Ó
-jja ¾è
-jjau ½Ò ¾ğ
-jje ¼· ½Ó
-jjee ¼Ğ ½Á
-jjei ö«
-jjeo Şö
-jji ¾Ü
-jjia ¼¼ Ş×
+jiau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½
+jie ï¿½ï¿½
+jiei ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½
+jieo ï¿½ï¿½
+jieu ï¿½ï¿½
+jii ï¿½ï¿½
+jiia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jiii ï¿½ï¿½
+jiio ï¿½ ï¿½s
+jio ï¿½ï¿½
+jiou ï¿½ï¿½
+jiu ï¿½ï¿½ ï¿½ï¿½
+jiue ï¿½
+jiui ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jj ï¿½ï¿½
+jja ï¿½ï¿½
+jjau ï¿½ï¿½ ï¿½ï¿½
+jje ï¿½ï¿½ ï¿½ï¿½
+jjee ï¿½ï¿½ ï¿½ï¿½
+jjei ï¿½ï¿½
+jjeo ï¿½ï¿½
+jji ï¿½ï¿½
+jjia ï¿½ï¿½ ï¿½ï¿½
 jjie Ğ®
-jjio ¼Õ ¾ï Şá
-jjiu ½İ ¼ğ
-jjo ¼ñ
-jjoi ¾¾ ŞØ
-jjou ¾Ğ Şä
-jju ¾İ
-jjui ¾ò ¾ñ ŞÜ
-jk ½Ï
-jka ¾§
-jkaa ³µ
-jkau ¼­
-jke ¾° ½Ï
-jkeo êÁ
-jki ½ä
-jkia •©
-jko ½Ô
-jkoi ½Î
-jkoo ½³
-jku ¾Ş
-jkue •€
-jl ½ø
-jla ¾®
-jlaa »÷
-jlau ­Z ö¦
-jle ê§ ½ø
-jlee ”Ò
-jleu í¢
-jli èª
-jlia ¬’
-jlii çå ñğ ¬Q
-jlo ¾²
-jlou ¾Á çá
-jlu »÷ ¬B
-jlui ¬B è¢ «i «ƒ
-jluo çì
-jm ¼î
+jjio ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jjiu ï¿½ï¿½ ï¿½ï¿½
+jjo ï¿½ï¿½
+jjoi ï¿½ï¿½ ï¿½ï¿½
+jjou ï¿½ï¿½ ï¿½ï¿½
+jju ï¿½ï¿½
+jjui ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jk ï¿½ï¿½
+jka ï¿½ï¿½
+jkaa ï¿½ï¿½
+jkau ï¿½ï¿½
+jke ï¿½ï¿½ ï¿½ï¿½
+jkeo ï¿½ï¿½
+jki ï¿½ï¿½
+jkia ï¿½ï¿½
+jko ï¿½ï¿½
+jkoi ï¿½ï¿½
+jkoo ï¿½ï¿½
+jku ï¿½ï¿½
+jkue ï¿½ï¿½
+jl ï¿½ï¿½
+jla ï¿½ï¿½
+jlaa ï¿½ï¿½
+jlau ï¿½Z ï¿½ï¿½
+jle ï¿½ ï¿½ï¿½
+jlee ï¿½ï¿½
+jleu ï¿½ï¿½
+jli ï¿½
+jlia ï¿½ï¿½
+jlii ï¿½ï¿½ ï¿½ï¿½ ï¿½Q
+jlo ï¿½ï¿½
+jlou ï¿½ï¿½ ï¿½ï¿½
+jlu ï¿½ï¿½ ï¿½B
+jlui ï¿½B ï¿½ ï¿½i ï¿½ï¿½
+jluo ï¿½ï¿½
+jm ï¿½ï¿½
 jma Ø¢
-jmaa ØŞ Øã
-jmau íÙ
-jme ØÊ
-jmi ê© ¼î
-jmia Ææ š íä
-jmiu ŠF
-jmo ¼ß
-jmoa ½¸
-jmoe ¼ï
-jmou í¶
-jmu ¾Ç
-jmua éê
-jmui ³O
-jn ¾Å
-jna ¼Ó
-jnau ½ã ¾ê
-jne ¼°
-jnee ¼Ş
-jnei æ¯ ¼µ ôÂ
-jneu åÈ
-jni ¼Ü
-jnia ¼Ë Š 
-jnii ¼é æº
-jniu ¼§ æ¼
-jno ½¿ ¾Å
-jnoe æ¡
-jnou ğ¯
-jnu ¼İ
-jo ¼¾
-joa »ı
-joau ğ¢ óÈ êø
-joe ¼ò
-joee ¼Ú
-joeo ¼ı
-joi ¼®
-joia óŞ »ş ½Õ é°
-joii ¼ã óÇ
-joio »ü ïú ê÷
-joiu ¾Ø
-joo ½î
-jooi ½Ã
-joou ·]
-jou óÅ ¼¾
-joui êù ë¦
-jouo óÕ
-jp ½ü
-jpa ½ï
-jpau ½¢ ëÎ
-jpe ½º ½ü
-jpi ½Å
-jpia ½Ö
-jpii ëæ ëÂ
-jpo ¼¡
-jpoa áè
-jpu ¾¶
-jpue ëÖ
-jpui ëì Äv ÄK
-jq ¼ä
-jqa ¼ä
-jqo ãÎ
-jr ½«
-jra ¾©
-jraa ¼Á
-jrai ì´
-jrau ½¬ ¾º ¼¹ ½ß ¾Ò
-jre ¼£
-jrei ñ¤
-jri ¼õ ¾Í
-jria ½´ ½° âÛ
-jrii ¾¸
-jrio ½±
-jro ½» ½«
-jroe ½ê
-jroi ¼² ìº ÷å
-jrou ¾» ¾¹ ğÕ ¾Î ÷ä
-jru ¾ö
-jrua ½¼ ğÜ
-jrue ¿¢ ¾·
-jrui ğı
-jruo ğè
-js ½è
-jsa ½£
-jsau ¾ã ÙÊ
-jse ½ñ
-jsee ½¹
-jsei ÙÖ Ù® ‚Š
-jseo ¾ë
-jseu ‚à
-jsi ¼¯ ½è
-jsia ¼Ñ ½© ¼¿ Ù¥ ÙÓ
-jsiu ½Ä ÙÔ
-jso ¼ş
-jsoa ½é ÙÕ
-jsoe ¼Û ¼ó
-jsoi êğ
-jsou ğÔ
-jsu ¼Ù
-jsue ½ö ¿¡
-jsui ½¡ ¾ó ÙÆ
-jsuo Ù¤ öÁ ³
-jt ¼ô
-jta ¾¼
-jtau ¾ì ôÉ îÃ
-jte ¼å
-jti ¾«
-jtia ¾¬ èğ
-jtiu ¼æ ¾æ
-jto ğÏ
-jtoe ìß
-jtu ¾í ¼ô
-jtue ôå Ÿa
-jtui ¼æ Ÿh ½ı ôİ
-jtuo ½ª
-ju ¼Î
-jua ¼ª
-juau ¾ô ôò
-jue ¾³ ¼Î
-jui ò¡
-juo ¾ù
-juoa ˆ…
-juu ½Ù ¼Î
-juua ôñ
-juui ¾ô
-juuo »ø
-jv ¼¶
-jva ¾î
-jvaa ½Ë
-jvai æ÷
-jvau çÜ ¼©
-jve ¼Ì
-jvei ½Ê
-jveo çÌ
-jvi ½á
-jvia çÆ çÖ
-jvii ¼¨
-jvio ¼ê Æï
-jvo ¾ø
-jvoa ½É
-jvoe ¸ø
-jvoi ½¾
-jvou ç­ ¾Ô
-jvu ¾­ ¼¶
-jvua ¾À
-jvue ¿¥
-jvui ¼Í
-jw ¼Ò
-jwa ¾õ
-jwai ¼Å
-jwau ¾å å¿ ã½
-jwe ¾ª
-jwei åÀ k
-jweo ñÀ
-jwi ¼Ä ¼Ò
-jwii ¾Ù
-jwiu …
-jwo ½Ñ
-jwoi ¼Â
-jwu ¾¿
-jwui ¾½
-jwuo î
-jx ½µ
-jxa Œî
-jxe æŞ
-jxi ¼Ê
-jxii æİ Ø½ Úå
-jxo ½× ½µ
-jxu Úá
-jy ½ğ
-jya ¾Ë
-jyau ¼Ø
-jye ¾µ
-jyea ïµ
-jyee ïØ
-jyei ğ¨ ½Â
-jyeo ïÃ
-jyi îÒ ½ğ
-jyie îò
-jyii ¾Ê
-jyio ïã
-jyo ½õ
-jyoa ïÔ °‰
-jyoe °
-jyoi ë¸
-jyou ¾û
-jyu ¼ü
-jyui ¾â ï¸
-k ¿´
-ka ¿Ú
-kaa ¿Ğ
-kaai ßÇ
-kaau à°
-kae ¿È
-kaee ¿¦
-kaei ¿Ô
-kai ¿Ş ¿Ú
-kaia à¾ õÍ ºÇ
-kaii †U
-kaio ¿ç à­
-kaiu ßÑ
-kao ßà
+jmaa ï¿½ï¿½ ï¿½ï¿½
+jmau ï¿½ï¿½
+jme ï¿½ï¿½
+jmi ï¿½ ï¿½ï¿½
+jmia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jmiu ï¿½F
+jmo ï¿½ï¿½
+jmoa ï¿½ï¿½
+jmoe ï¿½ï¿½
+jmou ï¿½ï¿½
+jmu ï¿½ï¿½
+jmua ï¿½ï¿½
+jmui ï¿½O
+jn ï¿½ï¿½
+jna ï¿½ï¿½
+jnau ï¿½ï¿½ ï¿½ï¿½
+jne ï¿½ï¿½
+jnee ï¿½ï¿½
+jnei ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jneu ï¿½ï¿½
+jni ï¿½ï¿½
+jnia ï¿½ï¿½ ï¿½ï¿½
+jnii ï¿½ï¿½ ï¿½
+jniu ï¿½ï¿½ ï¿½
+jno ï¿½ï¿½ ï¿½ï¿½
+jnoe ï¿½
+jnou ï¿½
+jnu ï¿½ï¿½
+jo ï¿½ï¿½
+joa ï¿½ï¿½
+joau ï¿½ ï¿½ï¿½ ï¿½ï¿½
+joe ï¿½ï¿½
+joee ï¿½ï¿½
+joeo ï¿½ï¿½
+joi ï¿½ï¿½
+joia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½
+joii ï¿½ï¿½ ï¿½ï¿½
+joio ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+joiu ï¿½ï¿½
+joo ï¿½ï¿½
+jooi ï¿½ï¿½
+joou ï¿½]
+jou ï¿½ï¿½ ï¿½ï¿½
+joui ï¿½ï¿½ ï¿½
+jouo ï¿½ï¿½
+jp ï¿½ï¿½
+jpa ï¿½ï¿½
+jpau ï¿½ï¿½ ï¿½ï¿½
+jpe ï¿½ï¿½ ï¿½ï¿½
+jpi ï¿½ï¿½
+jpia ï¿½ï¿½
+jpii ï¿½ï¿½ ï¿½ï¿½
+jpo ï¿½ï¿½
+jpoa ï¿½ï¿½
+jpu ï¿½ï¿½
+jpue ï¿½ï¿½
+jpui ï¿½ï¿½ ï¿½v ï¿½K
+jq ï¿½ï¿½
+jqa ï¿½ï¿½
+jqo ï¿½ï¿½
+jr ï¿½ï¿½
+jra ï¿½ï¿½
+jraa ï¿½ï¿½
+jrai ï¿½
+jrau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jre ï¿½ï¿½
+jrei ï¿½
+jri ï¿½ï¿½ ï¿½ï¿½
+jria ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jrii ï¿½ï¿½
+jrio ï¿½ï¿½
+jro ï¿½ï¿½ ï¿½ï¿½
+jroe ï¿½ï¿½
+jroi ï¿½ï¿½ ï¿½ ï¿½ï¿½
+jrou ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jru ï¿½ï¿½
+jrua ï¿½ï¿½ ï¿½ï¿½
+jrue ï¿½ï¿½ ï¿½ï¿½
+jrui ï¿½ï¿½
+jruo ï¿½ï¿½
+js ï¿½ï¿½
+jsa ï¿½ï¿½
+jsau ï¿½ï¿½ ï¿½ï¿½
+jse ï¿½ï¿½
+jsee ï¿½ï¿½
+jsei ï¿½ï¿½ Ù® ï¿½ï¿½
+jseo ï¿½ï¿½
+jseu ï¿½ï¿½
+jsi ï¿½ï¿½ ï¿½ï¿½
+jsia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ Ù¥ ï¿½ï¿½
+jsiu ï¿½ï¿½ ï¿½ï¿½
+jso ï¿½ï¿½
+jsoa ï¿½ï¿½ ï¿½ï¿½
+jsoe ï¿½ï¿½ ï¿½ï¿½
+jsoi ï¿½ï¿½
+jsou ï¿½ï¿½
+jsu ï¿½ï¿½
+jsue ï¿½ï¿½ ï¿½ï¿½
+jsui ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jsuo Ù¤ ï¿½ï¿½ ï¿½ï¿½
+jt ï¿½ï¿½
+jta ï¿½ï¿½
+jtau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+jte ï¿½ï¿½
+jti ï¿½ï¿½
+jtia ï¿½ï¿½ ï¿½ï¿½
+jtiu ï¿½ï¿½ ï¿½ï¿½
+jto ï¿½ï¿½
+jtoe ï¿½ï¿½
+jtu ï¿½ï¿½ ï¿½ï¿½
+jtue ï¿½ï¿½ ï¿½a
+jtui ï¿½ï¿½ ï¿½h ï¿½ï¿½ ï¿½ï¿½
+jtuo ï¿½ï¿½
+ju ï¿½ï¿½
+jua ï¿½ï¿½
+juau ï¿½ï¿½ ï¿½ï¿½
+jue ï¿½ï¿½ ï¿½ï¿½
+jui ï¿½
+juo ï¿½ï¿½
+juoa ï¿½ï¿½
+juu ï¿½ï¿½ ï¿½ï¿½
+juua ï¿½ï¿½
+juui ï¿½ï¿½
+juuo ï¿½ï¿½
+jv ï¿½ï¿½
+jva ï¿½ï¿½
+jvaa ï¿½ï¿½
+jvai ï¿½ï¿½
+jvau ï¿½ï¿½ ï¿½ï¿½
+jve ï¿½ï¿½
+jvei ï¿½ï¿½
+jveo ï¿½ï¿½
+jvi ï¿½ï¿½
+jvia ï¿½ï¿½ ï¿½ï¿½
+jvii ï¿½ï¿½
+jvio ï¿½ï¿½ ï¿½ï¿½
+jvo ï¿½ï¿½
+jvoa ï¿½ï¿½
+jvoe ï¿½ï¿½
+jvoi ï¿½ï¿½
+jvou ï¿½ ï¿½ï¿½
+jvu ï¿½ï¿½ ï¿½ï¿½
+jvua ï¿½ï¿½
+jvue ï¿½ï¿½
+jvui ï¿½ï¿½
+jw ï¿½ï¿½
+jwa ï¿½ï¿½
+jwai ï¿½ï¿½
+jwau ï¿½ï¿½ ï¿½ ï¿½
+jwe ï¿½ï¿½
+jwei ï¿½ï¿½ ï¿½k
+jweo ï¿½ï¿½
+jwi ï¿½ï¿½ ï¿½ï¿½
+jwii ï¿½ï¿½
+jwiu ï¿½ï¿½
+jwo ï¿½ï¿½
+jwoi ï¿½ï¿½
+jwu ï¿½ï¿½
+jwui ï¿½ï¿½
+jwuo ï¿½ï¿½
+jx ï¿½ï¿½
+jxa ï¿½ï¿½
+jxe ï¿½ï¿½
+jxi ï¿½ï¿½
+jxii ï¿½ï¿½ Ø½ ï¿½ï¿½
+jxo ï¿½ï¿½ ï¿½ï¿½
+jxu ï¿½ï¿½
+jy ï¿½ï¿½
+jya ï¿½ï¿½
+jyau ï¿½ï¿½
+jye ï¿½ï¿½
+jyea ï¿½
+jyee ï¿½ï¿½
+jyei ï¿½ ï¿½ï¿½
+jyeo ï¿½ï¿½
+jyi ï¿½ï¿½ ï¿½ï¿½
+jyie ï¿½ï¿½
+jyii ï¿½ï¿½
+jyio ï¿½ï¿½
+jyo ï¿½ï¿½
+jyoa ï¿½ï¿½ ï¿½ï¿½
+jyoe ï¿½ï¿½
+jyoi ï¿½
+jyou ï¿½ï¿½
+jyu ï¿½ï¿½
+jyui ï¿½ï¿½ ï¿½
+k ï¿½ï¿½
+ka ï¿½ï¿½
+kaa ï¿½ï¿½
+kaai ï¿½ï¿½
+kaau ï¿½
+kae ï¿½ï¿½
+kaee ï¿½ï¿½
+kaei ï¿½ï¿½
+kai ï¿½ï¿½ ï¿½ï¿½
+kaia ï¿½ ï¿½ï¿½ ï¿½ï¿½
+kaii ï¿½U
+kaio ï¿½ï¿½ ï¿½
+kaiu ï¿½ï¿½
+kao ï¿½ï¿½
 kaoi Ú
-kaou ¿©
-kau ¿§
+kaou ï¿½ï¿½
+kau ï¿½ï¿½
 kaua ßµ
-kb åê
-kbe ¿Ò
-kbi ¿Ñ
-kbu åê
-kc ¿Ê
-kca À£ ¿Ê
-kci äÛ
-kciu ›¬
-kco ä«
-kd À§
-kda ÷Á
-kdaa ØÜ
-kdao ¿ù
-kdau êÜ ‡ı
-kde ÷Å
-kdee áÇ
-kdi ¿Å À§
-kdia á³ ÷¼ î§ Ç¶ òÂ €
-kdio òñ
-kdiu ¿ô íî
-kdo ¿­
-kdoi òò òÒ
-kdu î«
-kdue î¥
-ke ¿Î
-kea ¿Î
-kee ¿ã
-keeu ÑT
+kb ï¿½ï¿½
+kbe ï¿½ï¿½
+kbi ï¿½ï¿½
+kbu ï¿½ï¿½
+kc ï¿½ï¿½
+kca ï¿½ï¿½ ï¿½ï¿½
+kci ï¿½ï¿½
+kciu ï¿½ï¿½
+kco ï¿½
+kd ï¿½ï¿½
+kda ï¿½ï¿½
+kdaa ï¿½ï¿½
+kdao ï¿½ï¿½
+kdau ï¿½ï¿½ ï¿½ï¿½
+kde ï¿½ï¿½
+kdee ï¿½ï¿½
+kdi ï¿½ï¿½ ï¿½ï¿½
+kdia ï¿½ ï¿½ï¿½ ï¿½ Ç¶ ï¿½ï¿½ ï¿½ï¿½
+kdio ï¿½ï¿½
+kdiu ï¿½ï¿½ ï¿½ï¿½
+kdo ï¿½ï¿½
+kdoi ï¿½ï¿½ ï¿½ï¿½
+kdu ï¿½
+kdue ï¿½
+ke ï¿½ï¿½
+kea ï¿½ï¿½
+kee ï¿½ï¿½
+keeu ï¿½T
 kei Ú²
 keia Ú­
 keo Ú¿
-keu ñÌ
-kf ¿¨
-kfa ¿Ï ¿¨
-kfaa ¼÷
-kfau ¿Ã
-kfe ¿¨
-kfi ¿ò
-kfia ¿Â ¿İ èà
-kfiu ¿¬
-kfo ™œ
-kfoi èé
-kfu ö¸
-kg ¿à
-kga Øá
-kgau İŞ
+keu ï¿½ï¿½
+kf ï¿½ï¿½
+kfa ï¿½ï¿½ ï¿½ï¿½
+kfaa ï¿½ï¿½
+kfau ï¿½ï¿½
+kfe ï¿½ï¿½
+kfi ï¿½ï¿½
+kfia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+kfiu ï¿½ï¿½
+kfo ï¿½ï¿½
+kfoi ï¿½ï¿½
+kfu ï¿½ï¿½
+kg ï¿½ï¿½
+kga ï¿½ï¿½
+kgau ï¿½ï¿½
 kge Ş¢
-kgi ¿Á ¿à
+kgi ï¿½ï¿½ ï¿½ï¿½
 kgia İ¨
-kgiu İÜ
-kgu ¿û
-kgua ÜÒ
-kh ¿É
-kha ¿Ë ¿É
-khaa „w
-khau õ« ñù
-khe ¿Ö
-khi ¿¼
-khia Œ¡
-khio ÷Õ
-khiu ê¬
-kho ¿á
-khu ¿±
-ki ¿ñ
-kia À¡
-kiau öï
+kgiu ï¿½ï¿½
+kgu ï¿½ï¿½
+kgua ï¿½ï¿½
+kh ï¿½ï¿½
+kha ï¿½ï¿½ ï¿½ï¿½
+khaa ï¿½w
+khau ï¿½ï¿½ ï¿½ï¿½
+khe ï¿½ï¿½
+khi ï¿½ï¿½
+khia ï¿½ï¿½
+khio ï¿½ï¿½
+khiu ï¿½
+kho ï¿½ï¿½
+khu ï¿½ï¿½
+ki ï¿½ï¿½
+kia ï¿½ï¿½
+kiau ï¿½ï¿½
 kie Ø¸
-kii ¿ñ
-kio áö
-kj ¿Û
-kja À¦ ¿Û
-kje ¿¹
-kjee ¿Ø
-kjei À©
-kji ¿¸
-kjia ¿½
-kjio ¿æ
-kjiu ¿Ù ¿«
-kjo À¨
-kju Şñ
-kk À¥
-kka ØÑ
-kke ¿õ
-kki ¿ï À¥
-kkia éğ
-kko …\
-kkou ûd
-kku êÒ
-kl ¿ª
-kla ¿¯ ¿ª
-klau çû
-kli çæ
-klu ¿÷
-km ¿ä
-kma ¿ø
-kmaa ØÚ
-kme ¿ó
-kmi ¿Ä ¿ä
-kmia ¿ü ´| ³M ³`
-kmo ¿³
-kmoa ŞÅ
-kmoi ³L
-kmu ³w
+kii ï¿½ï¿½
+kio ï¿½ï¿½
+kj ï¿½ï¿½
+kja ï¿½ï¿½ ï¿½ï¿½
+kje ï¿½ï¿½
+kjee ï¿½ï¿½
+kjei ï¿½ï¿½
+kji ï¿½ï¿½
+kjia ï¿½ï¿½
+kjio ï¿½ï¿½
+kjiu ï¿½ï¿½ ï¿½ï¿½
+kjo ï¿½ï¿½
+kju ï¿½ï¿½
+kk ï¿½ï¿½
+kka ï¿½ï¿½
+kke ï¿½ï¿½
+kki ï¿½ï¿½ ï¿½ï¿½
+kkia ï¿½ï¿½
+kko ï¿½\
+kkou ï¿½d
+kku ï¿½ï¿½
+kl ï¿½ï¿½
+kla ï¿½ï¿½ ï¿½ï¿½
+klau ï¿½ï¿½
+kli ï¿½ï¿½
+klu ï¿½ï¿½
+km ï¿½ï¿½
+kma ï¿½ï¿½
+kmaa ï¿½ï¿½
+kme ï¿½ï¿½
+kmi ï¿½ï¿½ ï¿½ï¿½
+kmia ï¿½ï¿½ ï¿½| ï¿½M ï¿½`
+kmo ï¿½ï¿½
+kmoa ï¿½ï¿½
+kmoi ï¿½L
+kmu ï¿½w
 kn Ø¸
 kne Ø¸
-ko ¿¿
-koa óñ ¿¿ ¿´
-koau ïı
-koe ¿Æ
-koee ¿ê óí
-koei êû
-koi ë´
-koia óØ
-koiu ¿ğ
-kp ¿è
-kpa ëÌ
-kpi ¿è
-kpo ëÚ
-kq À«
-kqa ãÍ
-kqau ê]
-kqe ãÊ À«
-kqu ãÛ
-kr ¿â
-kra ¿Ì
-krau ¿ö
-kre Àª
-kri ò¤ ¿â
-kria ğâ ˆÒ
-krii âÚ
-kro ¿º
-krou ¸l
-kru ¿µ
-krua Ú÷
+ko ï¿½ï¿½
+koa ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+koau ï¿½ï¿½
+koe ï¿½ï¿½
+koee ï¿½ï¿½ ï¿½ï¿½
+koei ï¿½ï¿½
+koi ï¿½
+koia ï¿½ï¿½
+koiu ï¿½ï¿½
+kp ï¿½ï¿½
+kpa ï¿½ï¿½
+kpi ï¿½ï¿½
+kpo ï¿½ï¿½
+kq ï¿½ï¿½
+kqa ï¿½ï¿½
+kqau ï¿½]
+kqe ï¿½ï¿½ ï¿½ï¿½
+kqu ï¿½ï¿½
+kr ï¿½ï¿½
+kra ï¿½ï¿½
+krau ï¿½ï¿½
+kre ï¿½ï¿½
+kri ï¿½ ï¿½ï¿½
+kria ï¿½ï¿½ ï¿½ï¿½
+krii ï¿½ï¿½
+kro ï¿½ï¿½
+krou ï¿½l
+kru ï¿½ï¿½
+krua ï¿½ï¿½
 ks Ù©
-ksa Øû Ù©
-kse Øø
-ksee ÙÅ
-ksi íè
-ksii »á
+ksa ï¿½ï¿½ Ù©
+kse ï¿½ï¿½
+ksee ï¿½ï¿½
+ksi ï¿½ï¿½
+ksii ï¿½ï¿½
 ksio Ù¨
-kso ¿ë
-ksoa ¿ş
+kso ï¿½ï¿½
+ksoa ï¿½ï¿½
 ksu Û¦
-kt ¿¾
-kta Ÿj
-kte ¿»
-ktei ¿· ŸÀ
-kti Ÿ ¿¾
-ktia Ü
-kto Ùç
-ktoe Í
-ku ¿é
-kua À¤
-kuau Ûî
-kue ¿Ó
-kuee ˆÂ
-kuei ÛÛ
-kueu åÓ
-kui ¿å
-kuia ¿° ¿À ‰{ ‰×
-kuo ¿î
-kuou ¿Ç ¿²
-kuu Ü¥ ¿é
-kuuu Ûê
-kv ç«
-kva æì
-kve æş
-kvi ç¼ ç«
-kw ¿ì
-kwa âı
-kwau ñ½ ã§ ã´ ã¦
-kwe ¿¶
-kwi ¿Õ
-kwia ¿í
-kwii ¿Ü ¿ú
-kwiu …
-kwo ¿Í
-kwoa À¢
-kwoi âé à·
-kwou ã¡
-kwu ¿ß ¿ì
-kwui ¿®
-kx ¿×
-kxi  ˜
-kxo Úó
-kxu ¿×
-ky ¿ı
-kya îø
-kyaa ï¬
-kyau ï¿ ï¾
-kye îÖ ¿ı
-kyea ï´
-kyi îí
-kyia îİ
-kyiu ïÇ
-l ÁË
+kt ï¿½ï¿½
+kta ï¿½j
+kte ï¿½ï¿½
+ktei ï¿½ï¿½ ï¿½ï¿½
+kti ï¿½ï¿½ ï¿½ï¿½
+ktia ï¿½ï¿½
+kto ï¿½ï¿½
+ktoe ï¿½ï¿½
+ku ï¿½ï¿½
+kua ï¿½ï¿½
+kuau ï¿½ï¿½
+kue ï¿½ï¿½
+kuee ï¿½ï¿½
+kuei ï¿½ï¿½
+kueu ï¿½ï¿½
+kui ï¿½ï¿½
+kuia ï¿½ï¿½ ï¿½ï¿½ ï¿½{ ï¿½ï¿½
+kuo ï¿½ï¿½
+kuou ï¿½ï¿½ ï¿½ï¿½
+kuu Ü¥ ï¿½ï¿½
+kuuu ï¿½ï¿½
+kv ï¿½
+kva ï¿½ï¿½
+kve ï¿½ï¿½
+kvi ï¿½ ï¿½
+kw ï¿½ï¿½
+kwa ï¿½ï¿½
+kwau ï¿½ ï¿½ ï¿½ ï¿½
+kwe ï¿½ï¿½
+kwi ï¿½ï¿½
+kwia ï¿½ï¿½
+kwii ï¿½ï¿½ ï¿½ï¿½
+kwiu ï¿½ï¿½
+kwo ï¿½ï¿½
+kwoa ï¿½ï¿½
+kwoi ï¿½ï¿½ ï¿½
+kwou ï¿½
+kwu ï¿½ï¿½ ï¿½ï¿½
+kwui ï¿½ï¿½
+kx ï¿½ï¿½
+kxi ï¿½ï¿½
+kxo ï¿½ï¿½
+kxu ï¿½ï¿½
+ky ï¿½ï¿½
+kya ï¿½ï¿½
+kyaa ï¿½
+kyau ï¿½ ï¿½
+kye ï¿½ï¿½ ï¿½ï¿½
+kyea ï¿½
+kyi ï¿½ï¿½
+kyia ï¿½ï¿½
+kyiu ï¿½ï¿½
+l ï¿½ï¿½
 la Â·
-laa ÂÀ
-laau Á¨ ÀÀ †ª
-lae à¶
-laeu à¥ à¦ õÔ
-lai À²
-laia àÏ À® ßë ßø õï
-laii †U
-laio ßÖ à¬ àÚ ß¿ Áü
-lao ¿© Â·
-laoe ßÊ
-laoi ÁÙ
-laou ğØ àà Û‰ õÈ
-lau Áí
+laa ï¿½ï¿½
+laau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+lae ï¿½
+laeu ï¿½ ï¿½ ï¿½ï¿½
+lai ï¿½ï¿½
+laia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+laii ï¿½U
+laio ï¿½ï¿½ ï¿½ ï¿½ï¿½ ß¿ ï¿½ï¿½
+lao ï¿½ï¿½ Â·
+laoe ï¿½ï¿½
+laoi ï¿½ï¿½
+laou ï¿½ï¿½ ï¿½ï¿½ Û‰ ï¿½ï¿½
+lau ï¿½ï¿½
 lauo ß·
-lauu õñ
+lauu ï¿½ï¿½
 lb Â¼
 lba Â¼
-lbe Áé
-lbee Á¥
-lbeo ÂÅ
-lbeu åÖ
-lbo ÂÄ
-lc Á÷
-lca Àá
-lcaa ÀÄ
-lcai ÂË ãò
-lcau Âº å¢ äğ
-lce ÀË Á÷
-lcea À½
-lcei å¥ Àì ä¯ äõ ÂĞ
-lceo Á» œ¾
-lci Áº
-lcia ÁÜ Àİ ÀÔ äş äà äí
-lcie äµ
-lcio Á¤ ãñ ÁÊ ä£
-lciu Á° Â¾
-lco Áï
-lcoe ãö ÂÙ äò öÌ
-lcoi ›Ë
-lcou Âå ãø ğÒ Â
+lbe ï¿½ï¿½
+lbee ï¿½ï¿½
+lbeo ï¿½ï¿½
+lbeu ï¿½ï¿½
+lbo ï¿½ï¿½
+lc ï¿½ï¿½
+lca ï¿½ï¿½
+lcaa ï¿½ï¿½
+lcai ï¿½ï¿½ ï¿½ï¿½
+lcau Âº ï¿½ ï¿½ï¿½
+lce ï¿½ï¿½ ï¿½ï¿½
+lcea ï¿½ï¿½
+lcei ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ï¿½
+lceo ï¿½ï¿½ ï¿½ï¿½
+lci ï¿½ï¿½
+lcia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+lcie ï¿½
+lcio ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½
+lciu ï¿½ï¿½ Â¾
+lco ï¿½ï¿½
+lcoe ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+lcoi ï¿½ï¿½
+lcou ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 lcu Â©
-lcua ãî V
-lcui äË
-lcuo „Û
-ld Àï
-lda Âİ
-lde Âß
-ldee î¾
-ldei îº ó¹
-ldeo ò÷ á× áĞ ÷Ã î¬
-ldeu òë
-ldi À¯ Àï
-ldia áÀ î½ ’ Î|
-ldie íù áÁ
-ldio òÃ ²t ±€
-ldo ÂŞ
-ldoe Áë òÈ àğ àò
-ldoi òÛ
-ldou ÂÔ á° Â¸ ÁS
-ldu ÀÛ
-ldue ós
-le ÂÛ
-lea Âã
-leaa ñÜ
-lee Á¼
-leea À¾
-leei ÁÂ
-leeo ñÚ
-lei ìå
-leia µ’
+lcua ï¿½ï¿½ ï¿½V
+lcui ï¿½ï¿½
+lcuo ï¿½ï¿½
+ld ï¿½ï¿½
+lda ï¿½ï¿½
+lde ï¿½ï¿½
+ldee ï¿½
+ldei ï¿½ ï¿½
+ldeo ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½
+ldeu ï¿½ï¿½
+ldi ï¿½ï¿½ ï¿½ï¿½
+ldia ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½|
+ldie ï¿½ï¿½ ï¿½ï¿½
+ldio ï¿½ï¿½ ï¿½t ï¿½ï¿½
+ldo ï¿½ï¿½
+ldoe ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+ldoi ï¿½ï¿½
+ldou ï¿½ï¿½ ï¿½ Â¸ ï¿½S
+ldu ï¿½ï¿½
+ldue ï¿½s
+le ï¿½ï¿½
+lea ï¿½ï¿½
+leaa ï¿½ï¿½
+lee ï¿½ï¿½
+leea ï¿½ï¿½
+leei ï¿½ï¿½
+leeo ï¿½ï¿½
+lei ï¿½ï¿½
+leia ï¿½ï¿½
 leii Ú³
-leiu ñÍ
-leo ÀÊ ÂÛ
-leoe ñÏ
-leu Àñ
-leua ÀÉ
+leiu ï¿½ï¿½
+leo ï¿½ï¿½ ï¿½ï¿½
+leoe ï¿½ï¿½
+leu ï¿½ï¿½
+leua ï¿½ï¿½
 leui Â»
-lf Àî
+lf ï¿½ï¿½
 lfa Â±
-lfaa é­
-lfai èÓ
-lfau Àã é¡ —o
+lfaa ï¿½
+lfai ï¿½ï¿½
+lfau ï¿½ï¿½ ï¿½ ï¿½o
 lfe Â¥
-lfea éµ
-lfei Â´ é£ éİ
-lfeo À¸
-lfeu ÂÇ ÀÆ
-lfi ÁÖ
-lfia Àâ é¬ èá
-lfie éÛ
+lfea ï¿½
+lfei Â´ ï¿½ ï¿½ï¿½
+lfeo ï¿½ï¿½
+lfeu ï¿½ï¿½ ï¿½ï¿½
+lfi ï¿½ï¿½
+lfia ï¿½ï¿½ ï¿½ ï¿½ï¿½
+lfie ï¿½ï¿½
 lfii Â±
-lfio Â­ èĞ èÀ ˜÷
-lfiu —†
-lfo Áø
-lfoe Áä èÚ
-lfou Áñ éÖ ğµ èİ
-lfu Â¬ Àî
-lfui èù
-lfuo Â² À·
-lg À¶
-lga ÂÜ À¶
+lfio Â­ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+lfiu ï¿½ï¿½
+lfo ï¿½ï¿½
+lfoe ï¿½ï¿½ ï¿½ï¿½
+lfou ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½
+lfu Â¬ ï¿½ï¿½
+lfui ï¿½ï¿½
+lfuo Â² ï¿½ï¿½
+lg ï¿½ï¿½
+lga ï¿½ï¿½ ï¿½ï¿½
 lgau Ê€
-lge Âä
-lgea İş
-lgee İõ
-lgei İñ
-lgeo İä
+lge ï¿½ï¿½
+lgea ï¿½ï¿½
+lgee ï¿½ï¿½
+lgei ï¿½ï¿½
+lgeo ï¿½ï¿½
 lgeu Â« İ¹ É‡
-lgi Á«
-lgia Áâ
-lgie À³ ÀÙ
-lgio Ü× ÜÂ
-lgo Àò
+lgi ï¿½ï¿½
+lgia ï¿½ï¿½
+lgie ï¿½ï¿½ ï¿½ï¿½
+lgio ï¿½ï¿½ ï¿½ï¿½
+lgo ï¿½ï¿½
 lgoa İ°
-lgoe Üß İü
-lgoi Ş¼ Üı
+lgoe ï¿½ï¿½ ï¿½ï¿½
+lgoi Ş¼ ï¿½ï¿½
 lgoo È„
-lgu ÀÍ
+lgu ï¿½ï¿½
 lgue Ş¤
 lgui ÇŠ
-lguo ÁÓ Àó
-lh ÀÏ
-lha Øİ
-lhau õ·
-lhe Á½
-lhee Àô
-lhei ár
-lheo Áª
-lhi Àõ
-lho ÁÄ ÀÏ
-lhoe ñö õª
-lhou Àµ ÀÒ
-lhu ÀÕ
-lhue õ²
-lhuu ÷à
-li Áô
-lia Àö Áô
-liai öÔ
-liau Â³ Àê Àğ Øª â¤ ÷¯
-lie ÀÖ
-lieo ÁÛ
-lieu ÀÇ åŞ åÎ
-lii ÁÔ
-liia ÷¦ öì öâ
-liio â²
-liiu öã
-lio öÃ
-lioi áû
-liou ğ¿ Áó ûm ğ›
-liu ÂÑ
+lguo ï¿½ï¿½ ï¿½ï¿½
+lh ï¿½ï¿½
+lha ï¿½ï¿½
+lhau ï¿½ï¿½
+lhe ï¿½ï¿½
+lhee ï¿½ï¿½
+lhei ï¿½r
+lheo ï¿½ï¿½
+lhi ï¿½ï¿½
+lho ï¿½ï¿½ ï¿½ï¿½
+lhoe ï¿½ï¿½ ï¿½ï¿½
+lhou ï¿½ï¿½ ï¿½ï¿½
+lhu ï¿½ï¿½
+lhue ï¿½ï¿½
+lhuu ï¿½ï¿½
+li ï¿½ï¿½
+lia ï¿½ï¿½ ï¿½ï¿½
+liai ï¿½ï¿½
+liau Â³ ï¿½ï¿½ ï¿½ï¿½ Øª ï¿½ ï¿½ï¿½
+lie ï¿½ï¿½
+lieo ï¿½ï¿½
+lieu ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+lii ï¿½ï¿½
+liia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+liio ï¿½
+liiu ï¿½ï¿½
+lio ï¿½ï¿½
+lioi ï¿½ï¿½
+liou ï¿½ ï¿½ï¿½ ï¿½m ï¿½
+liu ï¿½ï¿½
 liua Ûª
-lj À´
-lja À×
-ljaa À¿
+lj ï¿½ï¿½
+lja ï¿½ï¿½
+ljaa ï¿½ï¿½
 ljai Â°
-ljau Â¶ Şû ÁÌ êã
-lje À­ À´
-ljei ÂÓ
-ljeo À¹ Â§
-ljeu Şæ
-lji ÀÌ
-ljia ÁØ
-ljie ÀŞ
-ljio ÁÃ Â£ ö¨
-ljo Áã
-ljoe Áà ŞÛ ÂÕ
+ljau Â¶ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+lje ï¿½ï¿½ ï¿½ï¿½
+ljei ï¿½ï¿½
+ljeo ï¿½ï¿½ Â§
+ljeu ï¿½ï¿½
+lji ï¿½ï¿½
+ljia ï¿½ï¿½
+ljie ï¿½ï¿½
+ljio ï¿½ï¿½ Â£ ï¿½ï¿½
+ljo ï¿½ï¿½
+ljoe ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 ljou ß£
 lju Û¹
-lk Á¬
-lka Á¿
-lkai éñ
-lke ÁÀ Á¬
-lkei ê¤ Şc
-lkeo ê¥
-lki Á¾
-lkia •©
-lkio •o
-lko ÂÖ
-lkou éû éö
-lku ê¹
-ll Àí
-lla ö¦ Àí
-llau è´
-lle ÀÅ
-llee ñç
-llei Á§ Áğ
-lleo ­U ñï
-lli ÁÕ
-llia ñì ¬…
-llio Åª çç æË
-lliu çö
-llo Áá
-lloi ¬P
-llou çó
-llu ¬f
-lm Áú
-lma ÁĞ
-lmau Àå
-lme ÁÒ Áú
-lmee Œ´
-lmei ÁÑ Áò íÇ
-lmeo Á×
-lmi ÀÚ
-lmia Áû Â¢
-lmie ´ 
-lmio íÂ íÃ
-lmiu À÷ ŞÆ
-lmo Àù
-lmoe éç
-lmou ŞÍ ğÓ íÑ
-lmu Àú
+lk ï¿½ï¿½
+lka ï¿½ï¿½
+lkai ï¿½ï¿½
+lke ï¿½ï¿½ ï¿½ï¿½
+lkei ï¿½ ï¿½c
+lkeo ï¿½
+lki ï¿½ï¿½
+lkia ï¿½ï¿½
+lkio ï¿½o
+lko ï¿½ï¿½
+lkou ï¿½ï¿½ ï¿½ï¿½
+lku ï¿½
+ll ï¿½ï¿½
+lla ï¿½ï¿½ ï¿½ï¿½
+llau ï¿½
+lle ï¿½ï¿½
+llee ï¿½ï¿½
+llei ï¿½ï¿½ ï¿½ï¿½
+lleo ï¿½U ï¿½ï¿½
+lli ï¿½ï¿½
+llia ï¿½ï¿½ ï¿½ï¿½
+llio Åª ï¿½ï¿½ ï¿½ï¿½
+lliu ï¿½ï¿½
+llo ï¿½ï¿½
+lloi ï¿½P
+llou ï¿½ï¿½
+llu ï¿½f
+lm ï¿½ï¿½
+lma ï¿½ï¿½
+lmau ï¿½ï¿½
+lme ï¿½ï¿½ ï¿½ï¿½
+lmee ï¿½ï¿½
+lmei ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+lmeo ï¿½ï¿½
+lmi ï¿½ï¿½
+lmia ï¿½ï¿½ Â¢
+lmie ï¿½ï¿½
+lmio ï¿½ï¿½ ï¿½ï¿½
+lmiu ï¿½ï¿½ ï¿½ï¿½
+lmo ï¿½ï¿½
+lmoe ï¿½ï¿½
+lmou ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+lmu ï¿½ï¿½
 lmui Âµ
-lmuo Àø
-ln Á¦
-lna æ²
-lnau æĞ
-lni ÀÑ
-lnio ‹»
-lno Š– Á¦
-lnu ‹ª
-lo ÂÒ
-loa Àû
-loaa Àº
-loau Âá ÷ó ïù
-loe óÒ
-loei Àé óü
+lmuo ï¿½ï¿½
+ln ï¿½ï¿½
+lna ï¿½
+lnau ï¿½ï¿½
+lni ï¿½ï¿½
+lnio ï¿½ï¿½
+lno ï¿½ï¿½ ï¿½ï¿½
+lnu ï¿½ï¿½
+lo ï¿½ï¿½
+loa ï¿½ï¿½
+loaa ï¿½ï¿½
+loau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+loe ï¿½ï¿½
+loei ï¿½ï¿½ ï¿½ï¿½
 loeo Â¨
-loeu ïü
-loi Àæ
-loia ô¥ óö º{
-loio Áı
-loo Àè
-looi Àç
-loou ëª
-lou ÂÈ ÂÒ
-loui ¹‚
-lp Á³
-lpa ®f
-lpai ôµ ëÍ
-lpau ëá
-lpe ì¢
-lpei ì¡
-lpi À°
-lpie áâ
-lpio ëÊ
-lpo Ã‡ Á³
-lpu ÂÉ
-lpuo Àß
-lq À»
-lqa ãÌ
-lqe ãÏ
-lqi À»
-lr Áù
-lra Àë
-lraa Áõ
-lrau Áß ÂÍ Ùú Ùù ñ§ Ùõ ëö
-lre Á¹
-lrea ìµ
-lrei Áİ âŞ
-lreo Á¢ Á® ÷ë ğü
-lreu Áµ ÀÈ Â®
-lri Á¢ À±
-lria À± Áè èï ğì ñ® ğø ƒú
-lrie °N
-lrio Ùı ğß
-lriu Â¹ ğİ
-lro Àä Áù
-lroe öÇ
-lroi ÂÃ Á¡ ÂÎ ì¼
-lrou ÁÁ Áö ğ½ Ùú Ùù
-lru ÂÊ
-lrua ÁÆ ÂÏ ñª
-lrue ÁÎ
-lruo æ®
-ls Áì
-lsa ÂÂ
-lsau Ùµ ÙÀ ÁŞ ÀÜ
-lse Áî
-lsei ‚Š
-lseo ÙÍ
-lsi Á© Áì
-lsia ÀĞ Àü Ù³
-lsie ‚g
-lsio Àı ÁÅ
-lsiu ê²
-lso Â×
-lsoe Áæ
-lsoi Á² Àş
-lsou ÂØ
-lsu ÁÚ
-lsue ôá ƒJ
-lsuo Øì
-lt Àà
-lte ÀÃ
-ltee ÁÏ
-ltei Á£
-lteo Ÿû
-lteu Á¸ Â¯ åà
-lti À¼ Àà
-ltio ÁÇ ôÏ
-ltiu Á¶
-lto ÀÓ
-ltoe Áç
-ltou ìÖ
+loeu ï¿½ï¿½
+loi ï¿½ï¿½
+loia ï¿½ï¿½ ï¿½ï¿½ ï¿½{
+loio ï¿½ï¿½
+loo ï¿½ï¿½
+looi ï¿½ï¿½
+loou ï¿½
+lou ï¿½ï¿½ ï¿½ï¿½
+loui ï¿½ï¿½
+lp ï¿½ï¿½
+lpa ï¿½f
+lpai ï¿½ï¿½ ï¿½ï¿½
+lpau ï¿½ï¿½
+lpe ï¿½
+lpei ï¿½
+lpi ï¿½ï¿½
+lpie ï¿½ï¿½
+lpio ï¿½ï¿½
+lpo Ã‡ ï¿½ï¿½
+lpu ï¿½ï¿½
+lpuo ï¿½ï¿½
+lq ï¿½ï¿½
+lqa ï¿½ï¿½
+lqe ï¿½ï¿½
+lqi ï¿½ï¿½
+lr ï¿½ï¿½
+lra ï¿½ï¿½
+lraa ï¿½ï¿½
+lrau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ï¿½
+lre ï¿½ï¿½
+lrea ï¿½
+lrei ï¿½ï¿½ ï¿½ï¿½
+lreo ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+lreu ï¿½ï¿½ ï¿½ï¿½ Â®
+lri ï¿½ï¿½ ï¿½ï¿½
+lria ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ï¿½
+lrie ï¿½N
+lrio ï¿½ï¿½ ï¿½ï¿½
+lriu Â¹ ï¿½ï¿½
+lro ï¿½ï¿½ ï¿½ï¿½
+lroe ï¿½ï¿½
+lroi ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½
+lrou ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ï¿½
+lru ï¿½ï¿½
+lrua ï¿½ï¿½ ï¿½ï¿½ ï¿½
+lrue ï¿½ï¿½
+lruo ï¿½
+ls ï¿½ï¿½
+lsa ï¿½ï¿½
+lsau Ùµ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+lse ï¿½ï¿½
+lsei ï¿½ï¿½
+lseo ï¿½ï¿½
+lsi ï¿½ï¿½ ï¿½ï¿½
+lsia ï¿½ï¿½ ï¿½ï¿½ Ù³
+lsie ï¿½g
+lsio ï¿½ï¿½ ï¿½ï¿½
+lsiu ï¿½
+lso ï¿½ï¿½
+lsoe ï¿½ï¿½
+lsoi ï¿½ï¿½ ï¿½ï¿½
+lsou ï¿½ï¿½
+lsu ï¿½ï¿½
+lsue ï¿½ï¿½ ï¿½J
+lsuo ï¿½ï¿½
+lt ï¿½ï¿½
+lte ï¿½ï¿½
+ltee ï¿½ï¿½
+ltei ï¿½ï¿½
+lteo ï¿½ï¿½
+lteu ï¿½ï¿½ Â¯ ï¿½ï¿½
+lti ï¿½ï¿½ ï¿½ï¿½
+ltio ï¿½ï¿½ ï¿½ï¿½
+ltiu ï¿½ï¿½
+lto ï¿½ï¿½
+ltoe ï¿½ï¿½
+ltou ï¿½ï¿½
 ltu Â¦
-ltuu ôÔ
-lu À¬
-lua Ûä
+ltuu ï¿½ï¿½
+lu ï¿½ï¿½
+lua ï¿½ï¿½
 luau Ü¨
-lue Ü® À¬
-lui Ûâ
-luia ˆÙ
-luio ôó ÛŞ
-luo Ûø
-luu ©–
-luui ˆ‡
-lv Á·
-lva ÀÂ
-lvau Ââ ó» çĞ
+lue Ü® ï¿½ï¿½
+lui ï¿½ï¿½
+luia ï¿½ï¿½
+luio ï¿½ï¿½ ï¿½ï¿½
+luo ï¿½ï¿½
+luu ï¿½ï¿½
+luui ï¿½ï¿½
+lv ï¿½ï¿½
+lva ï¿½ï¿½
+lvau ï¿½ï¿½ ï¿½ ï¿½ï¿½
 lve Â¿
-lvei çÊ
-lveo ÂÆ
-lveu åå
-lvi ç± Á·
-lvia æê
-lvio çÔ
-lvo Âæ
-lvoe ÂÚ
-lvou Âç ç¸ æò
-lvu ÂÌ
-lw ÀÁ
-lwa ã¶
-lwau Á± ã¦
-lwe ”
-lwei ãÁ
-lwi å¼ ÀÁ
-lwo ÀÎ
-lwoe Á¯
-lwu ÁÈ
-lwua Áş
+lvei ï¿½ï¿½
+lveo ï¿½ï¿½
+lveu ï¿½ï¿½
+lvi ï¿½ ï¿½ï¿½
+lvia ï¿½ï¿½
+lvio ï¿½ï¿½
+lvo ï¿½ï¿½
+lvoe ï¿½ï¿½
+lvou ï¿½ï¿½ ï¿½ ï¿½ï¿½
+lvu ï¿½ï¿½
+lw ï¿½ï¿½
+lwa ï¿½
+lwau ï¿½ï¿½ ï¿½
+lwe ï¿½ï¿½
+lwei ï¿½ï¿½
+lwi ï¿½ ï¿½ï¿½
+lwo ï¿½ï¿½
+lwoe ï¿½ï¿½
+lwu ï¿½ï¿½
+lwua ï¿½ï¿½
 lx Â½
-lxa ÁË
-lxe ÁÉ
-lxi Áê Â½
+lxa ï¿½ï¿½
+lxe ï¿½ï¿½
+lxi ï¿½ï¿½ Â½
 lxia Âª
 lxio Â¤
 lxo Â¡
-ly Á´
-lya ÂÁ
-lyau ï® Âà ïİ
-lye ïÎ
-lyea ïç
-lyei Á­ ï³
-lyeu ï¶
-lyi ÀØ Á´
-lyia îî ÷Ë ï©
-lyie ïª
-lyio ÁÍ
-lyo Áå
-lyoe ï²
-lyou ïÖ ïå
-lyu îÉ
-lyuu éJ
+ly ï¿½ï¿½
+lya ï¿½ï¿½
+lyau ï¿½ ï¿½ï¿½ ï¿½ï¿½
+lye ï¿½ï¿½
+lyea ï¿½ï¿½
+lyei ï¿½ï¿½ ï¿½
+lyeu ï¿½
+lyi ï¿½ï¿½ ï¿½ï¿½
+lyia ï¿½ï¿½ ï¿½ï¿½ ï¿½
+lyie ï¿½
+lyio ï¿½ï¿½
+lyo ï¿½ï¿½
+lyoe ï¿½
+lyou ï¿½ï¿½ ï¿½ï¿½
+lyu ï¿½ï¿½
+lyuu ï¿½J
 m Ã»
-ma Âğ
-maa ö¼
-maau ºÙ ˜
-mae Âï
-maee à×
-maeo ßã ßä
-mai ß÷
-maii ßé ß¼
-mao Ãù
-mau Âî Âğ
-maue ßè
-mauu …Ş
-mb Ãñ
-mbe íª
-mbi åô
-mbo ÃÖ
-mbu Ãñ
-mc Âú
-mca Âş
+ma ï¿½ï¿½
+maa ï¿½ï¿½
+maau ï¿½ï¿½ ï¿½ï¿½
+mae ï¿½ï¿½
+maee ï¿½ï¿½
+maeo ï¿½ï¿½ ï¿½ï¿½
+mai ï¿½ï¿½
+maii ï¿½ï¿½ ß¼
+mao ï¿½ï¿½
+mau ï¿½ï¿½ ï¿½ï¿½
+maue ï¿½ï¿½
+mauu ï¿½ï¿½
+mb ï¿½ï¿½
+mbe ï¿½ï¿½
+mbi ï¿½ï¿½
+mbo ï¿½ï¿½
+mbu ï¿½ï¿½
+mc ï¿½ï¿½
+mca ï¿½ï¿½
 mcao Ã¬
-mcau íµ Ãì ãè ó± òú î¦ äÅ
-mce äé
-mceo ›¦
-mceu ÃÚ í¯
-mci ãå Âú
-mcia Ä® ãæ ÷ äİ
+mcau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½
+mce ï¿½ï¿½
+mceo ï¿½ï¿½
+mceu ï¿½ï¿½ ï¿½ï¿½
+mci ï¿½ï¿½ ï¿½ï¿½
+mcia Ä® ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 mcii Ä­
-mcio äÏ
+mcio ï¿½ï¿½
 mco Ã¬ Ä² Ã»
-mcoe öÊ
+mcoe ï¿½ï¿½
 mcoi Ä²
-mcou ›³ ã÷ ä¼
-mcu äØ
-mcui ãı
+mcou ï¿½ï¿½ ï¿½ï¿½ ï¿½
+mcu ï¿½ï¿½
+mcui ï¿½ï¿½
 md Ä¿
 mda Ã±
-mdao íğ
-mdau á£
-mde ÃĞ
-mdei òµ
-mdeu Ãø î¨
+mdao ï¿½ï¿½
+mdau ï¿½
+mde ï¿½ï¿½
+mdei ï¿½
+mdeu ï¿½ï¿½ ï¿½
 mdi Ä« Ä¿
-mdia Ãé Â÷ ÄÀ òı òş ó¡ íí ó· óº
-mdii Ãó
+mdia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ ï¿½
+mdii ï¿½ï¿½
 mdio Ä¬
-mdo á¹
-mdoi ±g
-mdu Ãß
-mdua áÒ òì ÆŸ
-mdue íø òÖ
-mdui áº
-mduu Âì
+mdo ï¿½
+mdoi ï¿½g
+mdu ï¿½ï¿½
+mdua ï¿½ï¿½ ï¿½ï¿½ ÆŸ
+mdue ï¿½ï¿½ ï¿½ï¿½
+mdui ï¿½
+mduu ï¿½ï¿½
 me Ä±
 mea Ú¤
-meau Ãİ Ã¡
-mee ÃÕ
-meeu Ú× µz
-mei ÚÓ Ä±
-meo ìò
-meu Ãı
-meui ñÇ
-meuu µl
-mf ÃÎ
-mfa èÂ
-mfaa ØÂ
+meau ï¿½ï¿½ Ã¡
+mee ï¿½ï¿½
+meeu ï¿½ï¿½ ï¿½z
+mei ï¿½ï¿½ Ä±
+meo ï¿½ï¿½
+meu ï¿½ï¿½
+meui ï¿½ï¿½
+meuu ï¿½l
+mf ï¿½ï¿½
+mfa ï¿½ï¿½
+mfaa ï¿½ï¿½
 mfe Ä¾
-mfee —µ
-mfei –x
-mfeu í®
+mfee ï¿½ï¿½
+mfei ï¿½x
+mfeu ï¿½ï¿½
 mfi Ä£
-mfia ÃÊ
-mfo Ã· ÃÎ
-mfoa ÃŞ
+mfia ï¿½ï¿½
+mfo Ã· ï¿½ï¿½
+mfoa ï¿½ï¿½
 mfoi Ã¶
-mfu é¹
-mfuu è¿
+mfu ï¿½
+mfuu ï¿½
 mg Äª
-mga ÃÈ Äª
+mga ï¿½ï¿½ Äª
 mgae Ä½
 mgao Ä½
-mgau Ãç Ä» Äº Âû Ãï ÜÙ Ş« Éq
+mgau ï¿½ï¿½ Ä» Äº ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ Ş« ï¿½q
 mge Ã¢
 mgee Ã£
-mgei Ä¢ ŞÂ Ë
-mgi ÃÉ
+mgei Ä¢ ï¿½ï¿½ Ë
+mgi ï¿½ï¿½
 mgia Ä¹
-mgii ÜÔ
-mgio Ã¯ Ã§ ò©
-mgiu İù
-mgo Üø
-mgoe Ãê
+mgii ï¿½ï¿½
+mgio Ã¯ Ã§ ï¿½
+mgiu ï¿½ï¿½
+mgo ï¿½ï¿½
+mgoe ï¿½ï¿½
 mgoi Ä¡ İ®
-mgou Üâ ğÅ
+mgou ï¿½ï¿½ ï¿½ï¿½
 mgu Ã©
 mgue İ¤
-mgui Üå
+mgui ï¿½ï¿½
 mguo Ä¼
-mguu İë
-mh Âô
-mhe ÃÑ
-mhei á‚
+mguu ï¿½ï¿½
+mh ï¿½ï¿½
+mhe ï¿½ï¿½
+mhei ï¿½
 mhi Ä³
-mhii ì…
+mhii ï¿½
 mho Ã¸
-mhoi ÷Ö ë£
-mhou õ¤ ÷´
-mhu D Âô
+mhoi ï¿½ï¿½ ï¿½
+mhou ï¿½ï¿½ ï¿½ï¿½
+mhu ï¿½D ï¿½ï¿½
 mi Ã´
-mia Ãû
-miau Ãâ Ã³ ÷© Âø
-mie Ãğ Ã´
+mia ï¿½ï¿½
+miau ï¿½ï¿½ Ã³ ï¿½ï¿½ ï¿½ï¿½
+mie ï¿½ï¿½ Ã´
 mii Ã¨
-miia âÉ «B
-miu ÃÍ
-miua Ã® â­
-miui â¨
-miuo Ãã
-miuu áï
-mj Ãş
-mje ŞÑ
-mji Ä¨ Ãş
-mjia Ãè
+miia ï¿½ï¿½ ï¿½B
+miu ï¿½ï¿½
+miua Ã® ï¿½
+miui ï¿½
+miuo ï¿½ï¿½
+miuu ï¿½ï¿½
+mj ï¿½ï¿½
+mje ï¿½ï¿½
+mji Ä¨ ï¿½ï¿½
+mjia ï¿½ï¿½
 mjo Ã¹
-mjoe ö²
-mju Ãò
+mjoe ï¿½ï¿½
+mju ï¿½ï¿½
 mjuu Ä´
-mk Ã÷
+mk ï¿½ï¿½
 mka Ã°
-mkau Âü ÃË
-mke Âõ
-mkei •F
-mkeu êÔ
-mki ÃÁ
-mko Ãá Ã÷
-mkoo Íò
-mkou êÄ
+mkau ï¿½ï¿½ ï¿½ï¿½
+mke ï¿½ï¿½
+mkei ï¿½F
+mkeu ï¿½ï¿½
+mki ï¿½ï¿½
+mko ï¿½ï¿½ ï¿½ï¿½
+mkoo ï¿½ï¿½
+mkou ï¿½ï¿½
 mku Û½
 ml Ä©
-mla è£
-mle çä Ä©
-mlei ñò
-mlo Âó
+mla ï¿½
+mle ï¿½ï¿½ Ä©
+mlei ï¿½ï¿½
+mlo ï¿½ï¿½
 mloi Ãµ
-mlu Âê
-mlui çë
-mm Ãæ
-mma Ãæ
-mme Œ´
-mmi íæ
-mmia íË
-mmo éâ
-mmou ´C
-mmu Âë
-mmuo „Ò
-mn Âè
-mna Ãî
-mnau ‹ 
-mne æÖ
-mneo ‹Z
-mni ÃÃ
-mnia Ã½ æÆ ÀÑ
-mno Ãä
-mnu ÃÄ Âè
+mlu ï¿½ï¿½
+mlui ï¿½ï¿½
+mm ï¿½ï¿½
+mma ï¿½ï¿½
+mme ï¿½ï¿½
+mmi ï¿½ï¿½
+mmia ï¿½ï¿½
+mmo ï¿½ï¿½
+mmou ï¿½C
+mmu ï¿½ï¿½
+mmuo ï¿½ï¿½
+mn ï¿½ï¿½
+mna ï¿½ï¿½
+mnau ï¿½ï¿½
+mne ï¿½ï¿½
+mneo ï¿½Z
+mni ï¿½ï¿½
+mnia Ã½ ï¿½ï¿½ ï¿½ï¿½
+mno ï¿½ï¿½
+mnu ï¿½ï¿½ ï¿½ï¿½
 mnuu Ä·
 mo Ã¿
-moa Ãë
-moau óú
-moe ÃØ
-moei  ¯
+moa ï¿½ï¿½
+moau ï¿½ï¿½
+moe ï¿½ï¿½
+moei ï¿½ï¿½
 moi Äµ
-moii ï÷
-moo Ãô
-mooa ÄÂ
-mooi ÄÁ êó
-moou ÷ª
+moii ï¿½ï¿½
+moo ï¿½ï¿½
+mooa ï¿½ï¿½
+mooi ï¿½ï¿½ ï¿½ï¿½
+moou ï¿½ï¿½
 mou Ã« Ã¿
-moue ë¤
+moue ï¿½
 mp Ä¤
-mpe Âö
-mpeo ëß
-mpi ëü Ä¤
-mpia ô¿
-mpio ëï
-mpu ô»
-mq ÃÅ
-mqa Ãö
-mqe ÃÆ
-mqei ãÉ
-mqu ÃÅ
-mr Âù
-mra Ä¶ Âù
-mrai ÃÒ
-mrau Ãí Ã¤
-mre ÃÓ
-mreo ÷ç
-mri Âé
-mria ñ¢
+mpe ï¿½ï¿½
+mpeo ï¿½ï¿½
+mpi ï¿½ï¿½ Ä¤
+mpia ï¿½ï¿½
+mpio ï¿½ï¿½
+mpu ï¿½ï¿½
+mq ï¿½ï¿½
+mqa ï¿½ï¿½
+mqe ï¿½ï¿½
+mqei ï¿½ï¿½
+mqu ï¿½ï¿½
+mr ï¿½ï¿½
+mra Ä¶ ï¿½ï¿½
+mrai ï¿½ï¿½
+mrau ï¿½ï¿½ Ã¤
+mre ï¿½ï¿½
+mreo ï¿½ï¿½
+mri ï¿½ï¿½
+mria ï¿½
 mrio Ä¥
 mro Ä§
-mroi Ä¦ ì¸
-mrou ÷á
+mroi Ä¦ ï¿½
+mrou ï¿½ï¿½
 mru Ã¥
-mrua Úø
-mrue Ùó
-mruu ÷ã
-ms ÃÇ
-msa Ãü
-mse ÃÇ
-msi ‚Á
-mso Øï
+mrua ï¿½ï¿½
+mrue ï¿½ï¿½
+mruu ï¿½ï¿½
+ms ï¿½ï¿½
+msa ï¿½ï¿½
+mse ï¿½ï¿½
+msi ï¿½ï¿½
+mso ï¿½ï¿½
 msu Ù°
-mt Ã×
-mta ì×
-mte ÃÔ Ã×
-mtea ìË
-mti ÃÀ
+mt ï¿½ï¿½
+mta ï¿½ï¿½
+mte ï¿½ï¿½ ï¿½ï¿½
+mtea ï¿½ï¿½
+mti ï¿½ï¿½
 mtia Ãº
-mto ôÍ
-mu Âò
-mua Âñ
-muau ÃÙ Ü¬
-mue åã Âò
-mui õø
-muio õö
+mto ï¿½ï¿½
+mu ï¿½ï¿½
+mua ï¿½ï¿½
+muau ï¿½ï¿½ Ü¬
+mue ï¿½ï¿½ ï¿½ï¿½
+mui ï¿½ï¿½
+muio ï¿½ï¿½
 muo Ã²
-muu Ûé
-mv Âí
-mva ôé
-mvau ç¿ çÏ
+muu ï¿½ï¿½
+mv ï¿½ï¿½
+mva ï¿½ï¿½
+mvau ï¿½ ï¿½ï¿½
 mve Ä¸
-mvi Ãå Âí
-mvo Ãà
+mvi ï¿½ï¿½ ï¿½ï¿½
+mvo ï¿½ï¿½
 mvu Ø¿
-mvue çÑ
-mvui çÅ
-mw Âı
-mwa ÃÜ Âı
-mwau ÃÛ
+mvue ï¿½ï¿½
+mvui ï¿½ï¿½
+mw ï¿½ï¿½
+mwa ï¿½ï¿½ ï¿½ï¿½
+mwau ï¿½ï¿½
 mwe Ã¦
-mwea Ãõ
-mweu åµ
-mwi ãÂ
+mwea ï¿½ï¿½
+mweu ï¿½
+mwi ï¿½ï¿½
 mwia Ä¯
-mwio Ò
-mwo ¸
-mwu ÃÂ
-mx ÃÏ
-mxa Ã¼ ÃÏ
+mwio ï¿½ï¿½
+mwo ï¿½ï¿½
+mwu ï¿½ï¿½
+mx ï¿½ï¿½
+mxa Ã¼ ï¿½ï¿½
 mxi Ä°
-mxo ğÌ
-mxu ÛÂ
-mxua ŒI àd
-my Ãú
-mya îâ
-myau ïÜ
+mxo ï¿½ï¿½
+mxu ï¿½ï¿½
+mxua ï¿½I ï¿½d
+my ï¿½ï¿½
+mya ï¿½ï¿½
+myau ï¿½ï¿½
 mye Ã¾
-myea îÍ
-myi ÷È
-myia Ãª ïÒ èš
-myo Ã­ Ãú
-myu ÃÌ
-myua ïÑ
-n Äã
-na ÄØ
-naa ÄÅ
-naai Äö
-naau àÅ
-nae ßÌ
-naeu ßæ
-nai à«
-naia ßö àì à¿ õæ
-nau ÄÄ ÄØ
-nauo ßÎ
-nb ÄÇ
-nba Äò
-nbo Äá
-nbu ÄÇ
-nc ÄÜ
-nca Äù
-ncai Ä×
+myea ï¿½ï¿½
+myi ï¿½ï¿½
+myia Ãª ï¿½ï¿½ ï¿½
+myo Ã­ ï¿½ï¿½
+myu ï¿½ï¿½
+myua ï¿½ï¿½
+n ï¿½ï¿½
+na ï¿½ï¿½
+naa ï¿½ï¿½
+naai ï¿½ï¿½
+naau ï¿½ï¿½
+nae ï¿½ï¿½
+naeu ï¿½ï¿½
+nai ï¿½
+naia ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½
+nau ï¿½ï¿½ ï¿½ï¿½
+nauo ï¿½ï¿½
+nb ï¿½ï¿½
+nba ï¿½ï¿½
+nbo ï¿½ï¿½
+nbu ï¿½ï¿½
+nc ï¿½ï¿½
+nca ï¿½ï¿½
+ncai ï¿½ï¿½
 nce Å¨
 ncee Å¢
-ncei 
-nco ÄÑ ÄÜ
-ncu Äà
-ncui Äç
-nd ÄĞ
-nde ÄÚ
-ndi òï
-ndiu òÍ
-ndo íş
-ndu àï ÄĞ
-nduo æÕ
+ncei ï¿½ï¿½
+nco ï¿½ï¿½ ï¿½ï¿½
+ncu ï¿½ï¿½
+ncui ï¿½ï¿½
+nd ï¿½ï¿½
+nde ï¿½ï¿½
+ndi ï¿½ï¿½
+ndiu ï¿½ï¿½
+ndo ï¿½ï¿½
+ndu ï¿½ï¿½ ï¿½ï¿½
+nduo ï¿½ï¿½
 ne Å©
 nea Ú«
-neau ñÄ
+neau ï¿½ï¿½
 nee Å©
 nei Åµ
-neo ìò
+neo ï¿½ï¿½
 nf Å°
-nfe Äû
-nfi éª Å°
-nfii èÍ
-nfu –ƒ
-ng Äõ
-nge Ær
-ngeo ¼f
-ngi Äè
-ngia ŞÁ Èl
-ngio İÁ
-ngo Üà Äõ
-ngoa ŞÁ ¼f
-ngoe Æ}
-ngou Ëo
-ngu Üµ Äõ
-nh ÄÏ
-nha ÄÒ ÄÏ
-nhe Äğ
-nhee ñ÷
+nfe ï¿½ï¿½
+nfi ï¿½ Å°
+nfii ï¿½ï¿½
+nfu ï¿½ï¿½
+ng ï¿½ï¿½
+nge ï¿½r
+ngeo ï¿½f
+ngi ï¿½ï¿½
+ngia ï¿½ï¿½ ï¿½l
+ngio ï¿½ï¿½
+ngo ï¿½ï¿½ ï¿½ï¿½
+ngoa ï¿½ï¿½ ï¿½f
+ngoe ï¿½}
+ngou ï¿½o
+ngu Üµ ï¿½ï¿½
+nh ï¿½ï¿½
+nha ï¿½ï¿½ ï¿½ï¿½
+nhe ï¿½ï¿½
+nhee ï¿½ï¿½
 nheu Ş•
-nhi ÄÒ Ø¥
+nhi ï¿½ï¿½ Ø¥
 nhii Ø¥
-nhio ò¨
-nhu Äô
-ni Äñ
-nia öÓ
-nie ôÁ
-niee Äü
-nii âÎ Äñ
-nio ÄÙ
-nioa öò â¥
-nioe öó
-niu â®
-niua áğ
-nj Äó
-nja Äé Äó
+nhio ï¿½
+nhu ï¿½ï¿½
+ni ï¿½ï¿½
+nia ï¿½ï¿½
+nie ï¿½ï¿½
+niee ï¿½ï¿½
+nii ï¿½ï¿½ ï¿½ï¿½
+nio ï¿½ï¿½
+nioa ï¿½ï¿½ ï¿½
+nioe ï¿½ï¿½
+niu ï¿½
+niua ï¿½ï¿½
+nj ï¿½ï¿½
+nja ï¿½ï¿½ ï¿½ï¿½
 nje Å¡
-nji ÄÓ
+nji ï¿½ï¿½
 njia ß­
-njii Äì
-njio Şà
-njo Äí
-njoa ÄŞ
-njoe ’µ
+njii ï¿½ï¿½
+njio ï¿½ï¿½
+njo ï¿½ï¿½
+njoa ï¿½ï¿½
+njoe ï¿½ï¿½
 nju Å¤
-njue Äâ
-njui Å² Şù
-njuu ŞÖ
+njue ï¿½ï¿½
+njui Å² ï¿½ï¿½
+njuu ï¿½ï¿½
 nk Å¯
-nke êÙ
-nki Ää
+nke ï¿½ï¿½
+nki ï¿½ï¿½
 nko Å¯
-nku êÇ
+nku ï¿½ï¿½
 nl Åª
-nli éı Åª
-nlio ññ
-nlu è§
-nm ÄÍ
-nme í¤
-nmi ÄÎ ÄÍ
-nmo íĞ
-nmoo ÂY
+nli ï¿½ï¿½ Åª
+nlio ï¿½ï¿½
+nlu ï¿½
+nm ï¿½ï¿½
+nme ï¿½ï¿½
+nmi ï¿½ï¿½ ï¿½ï¿½
+nmo ï¿½ï¿½
+nmoo ï¿½Y
 nmu Ø«
-nmui Äë
+nmui ï¿½ï¿½
 nn Å®
 nna Ø¾
-nnau æÀ
-nne Äï
+nnau ï¿½ï¿½
+nne ï¿½ï¿½
 nneu Å­
-nni ÄÛ Å®
-nno ÄË
-nnou Š…
-nnu ÄÌ
-nnua æ¤ æÛ
+nni ï¿½ï¿½ Å®
+nno ï¿½ï¿½
+nnou ï¿½ï¿½
+nnu ï¿½ï¿½
+nnua ï¿½ ï¿½ï¿½
 nnue Å«
-nnui ÄÈ Äİ åó
+nnui ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 nnuo Å¬
-nnuu æå
-no Äê
-noa Å£ Äê
-noai ğ¤
-noe ¶Œ
-noi Äê
-nou ÄÊ
-nouo ¹@
-np ÄÔ
-npa ëÇ
-npe Å§ ÄÔ
-npi Äå
-npia ëî
+nnuu ï¿½ï¿½
+no ï¿½ï¿½
+noa Å£ ï¿½ï¿½
+noai ï¿½
+noe ï¿½ï¿½
+noi ï¿½ï¿½
+nou ï¿½ï¿½
+nouo ï¿½@
+np ï¿½ï¿½
+npa ï¿½ï¿½
+npe Å§ ï¿½ï¿½
+npi ï¿½ï¿½
+npia ï¿½ï¿½
 npie Ä
-npu ëå
-nq ÄÖ
-nqe ÄÖ
-nr Äı
+npu ï¿½ï¿½
+nq ï¿½ï¿½
+nqe ï¿½ï¿½
+nr ï¿½ï¿½
 nri Å±
-nro ì» Äı
-ns Äú
-nse Äî Äú
-nseu Ù¯ í¥
-nsi Øú
+nro ï¿½ ï¿½ï¿½
+ns ï¿½ï¿½
+nse ï¿½ï¿½ ï¿½ï¿½
+nseu Ù¯ ï¿½ï¿½
+nsi ï¿½ï¿½
 nsia Ù¦
-nsio ‚Õ
-nso ÄÃ Äã
-nsoa Äß
-nsu ÙĞ
+nsio ï¿½ï¿½
+nso ï¿½ï¿½ ï¿½ï¿½
+nsoa ï¿½ï¿½
+nsu ï¿½ï¿½
 nsui Ù£
-nt Äæ
+nt ï¿½ï¿½
 nta Õ³
-nte Äæ
+nte ï¿½ï¿½
 nti Å´
-nu Ûè
-nue Ûñ
-nui ˆë
-nuo Ûş
-nuu ôö Ûè
-nv ÄÉ
-nva ÄÉ
+nu ï¿½ï¿½
+nue ï¿½ï¿½
+nui ï¿½ï¿½
+nuo ï¿½ï¿½
+nuu ï¿½ï¿½ ï¿½ï¿½
+nv ï¿½ï¿½
+nva ï¿½ï¿½
 nvu Å¦
 nvuu Ø¿
-nw Äş
-nwa å¸
-nwe ÄÕ
-nwi Å³ Äş
-nwu âî
-nwui âõ
-nx p
-nxa Úí
-nxu p
-ny ÄÆ
-nya ÄÆ
-nyi îó
-nyia Ä÷ ô« ï» ıQ
-nyo Äø
-nyoe ïÕ
+nw ï¿½ï¿½
+nwa ï¿½
+nwe ï¿½ï¿½
+nwi Å³ ï¿½ï¿½
+nwu ï¿½ï¿½
+nwui ï¿½ï¿½
+nx ï¿½p
+nxa ï¿½ï¿½
+nxu ï¿½p
+ny ï¿½ï¿½
+nya ï¿½ï¿½
+nyi ï¿½ï¿½
+nyia ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½Q
+nyo ï¿½ï¿½
+nyoe ï¿½ï¿½
 nyu Å¥
-nyua ô¬
-nyui îê
-nyuo îÏ
-p ÅÂ
-pa ÅÜ
+nyua ï¿½ï¿½
+nyui ï¿½ï¿½
+nyuo ï¿½ï¿½
+p ï¿½ï¿½
+pa ï¿½ï¿½
 paa Æ·
-paaa àÛ õë
-pae õä
-pai Åç
-paia Å¾ àØ àÑ õç
-paio ÅŞ
-paiu ßÁ
-pao Å¿ ÅÜ
+paaa ï¿½ï¿½ ï¿½ï¿½
+pae ï¿½ï¿½
+pai ï¿½ï¿½
+paia Å¾ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+paio ï¿½ï¿½
+paiu ï¿½ï¿½
+pao Å¿ ï¿½ï¿½
 paoa Æ¡
-paoo ßß
-paou ÅØ
-pau àè
-pb ÆÁ
-pbe ±Ù ÆÁ
+paoo ï¿½ï¿½
+paou ï¿½ï¿½
+pau ï¿½ï¿½
+pb ï¿½ï¿½
+pbe ï¿½ï¿½ ï¿½ï¿½
 pbei Æ©
 pbi Æ¨
-pbiu ê¶
-pbo ‹
-pbu Åü
-pc Åİ
-pca ÆÙ
-pcau äÄ
-pce ãú
-pcei äè
-pceo ª ›¯
+pbiu ï¿½
+pbo ï¿½ï¿½
+pbu ï¿½ï¿½
+pc ï¿½ï¿½
+pca ï¿½ï¿½
+pcau ï¿½ï¿½
+pce ï¿½ï¿½
+pcei ï¿½ï¿½
+pceo ï¿½ï¿½ ï¿½ï¿½
 pci Æ¯
-pcia ÆÖ Åæ Åì äß
-pcie ›€
-pcii 
-pco ÅÉ Åİ
-pcoa ²´ å§
-pcoe ÅË äÔ
-pcoi ÅÈ
-pcou œK
-pcu ÆÅ
-pcui İ
-pcuo ÆÃ
-pd Åâ
-pde ÅÏ Åâ
-pdee î¼
-pdei ó¦ óo
-pdeo —
-pdi î©
-pdia ÆÔ î¼ óª ó²
-pdie Íg
-pdiu Åş ò·
-pdo ÅÎ
-pdoa ÅÁ òç î¢
-pdoe ó´
-pdu àú
-pe ÆÀ
-pea ±â
-pee Æ×
-peei ·¿
-peeo ñÈ
-peeu ÚÒ
-pei ñá ÆÀ
-peo ÅÛ
-peoa ñÔ
-peu ôæ
+pcia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+pcie ï¿½ï¿½
+pcii ï¿½ï¿½
+pco ï¿½ï¿½ ï¿½ï¿½
+pcoa ï¿½ï¿½ ï¿½
+pcoe ï¿½ï¿½ ï¿½ï¿½
+pcoi ï¿½ï¿½
+pcou ï¿½K
+pcu ï¿½ï¿½
+pcui ï¿½ï¿½
+pcuo ï¿½ï¿½
+pd ï¿½ï¿½
+pde ï¿½ï¿½ ï¿½ï¿½
+pdee ï¿½
+pdei ï¿½ ï¿½o
+pdeo ï¿½ï¿½
+pdi ï¿½
+pdia ï¿½ï¿½ ï¿½ ï¿½ ï¿½
+pdie ï¿½g
+pdiu ï¿½ï¿½ ï¿½
+pdo ï¿½ï¿½
+pdoa ï¿½ï¿½ ï¿½ï¿½ ï¿½
+pdoe ï¿½
+pdu ï¿½ï¿½
+pe ï¿½ï¿½
+pea ï¿½ï¿½
+pee ï¿½ï¿½
+peei ï¿½ï¿½
+peeo ï¿½ï¿½
+peeu ï¿½ï¿½
+pei ï¿½ï¿½ ï¿½ï¿½
+peo ï¿½ï¿½
+peoa ï¿½ï¿½
+peu ï¿½ï¿½
 pf Æµ
-pfa ÆÓ
-pfau é¯
-pfe Åá
-pfei —”
-pfeo —Õ
-pfi ÅÊ Æµ
-pfie èÒ
-pfiu èÁ
-pfo Åï
-pfoa ò­ ˜F
-pfu ê·
-pfua èË
+pfa ï¿½ï¿½
+pfau ï¿½
+pfe ï¿½ï¿½
+pfei ï¿½ï¿½
+pfeo ï¿½ï¿½
+pfi ï¿½ï¿½ Æµ
+pfie ï¿½ï¿½
+pfiu ï¿½ï¿½
+pfo ï¿½ï¿½
+pfoa ï¿½ ï¿½F
+pfu ï¿½
+pfua ï¿½ï¿½
 pg Æ¼
-pge ÆÑ Æ¼
-pgee İå
-pgei ÆĞ Ë‘
-pgeo ÇL
+pge ï¿½ï¿½ Æ¼
+pgee ï¿½ï¿½
+pgei ï¿½ï¿½ Ë‘
+pgeo ï¿½L
 pgi Æ»
-pgia ÆÎ Éh
-pgio ÜÖ
-pgiu ÜÅ
-pgo Åî
-pgoa İâ
+pgia ï¿½ï¿½ ï¿½h
+pgio ï¿½ï¿½
+pgiu ï¿½ï¿½
+pgo ï¿½ï¿½
+pgoa ï¿½ï¿½
 pgoe İ³
-pgou ÆÏ ÆM
+pgou ï¿½ï¿½ ï¿½M
 ph Æ±
 pha Æ¸
-phaa Øâ
-phe õ¬
-phi áT Æ±
+phaa ï¿½ï¿½
+phe ï¿½ï¿½
+phi ï¿½T Æ±
 pho Æ®
 phoo Æ°
-phu Åä
-pi ÅÙ
-pia ÅÙ
-pie åÌ
-piei ÷›
-pii öÒ
-piia Ùé
-piio  ò
-pio áó
-pj ÅÄ
+phu ï¿½ï¿½
+pi ï¿½ï¿½
+pia ï¿½ï¿½
+pie ï¿½ï¿½
+piei ï¿½ï¿½
+pii ï¿½ï¿½
+piia ï¿½ï¿½
+piio ï¿½ï¿½
+pio ï¿½ï¿½
+pj ï¿½ï¿½
 pja Æ½
-pjae ÆË
-pjai ÅÅ
+pjae ï¿½ï¿½
+pjai ï¿½ï¿½
 pje Æ´
-pjee ö¬
-pjei Şå “s
+pjee ï¿½ï¿½
+pjei ï¿½ï¿½ ï¿½s
 pjeo Æ²
-pji Åú
-pjie Åê
-pjii Åõ
-pjio ’g
-pjiu ë„
-pjo °Ç ÅÄ
-pju Å×
-pjue ŞÕ
-pjui Åù ß¨
-pjuo Åû
+pji ï¿½ï¿½
+pjie ï¿½ï¿½
+pjii ï¿½ï¿½
+pjio ï¿½g
+pjiu ï¿½
+pjo ï¿½ï¿½ ï¿½ï¿½
+pju ï¿½ï¿½
+pjue ï¿½ï¿½
+pjui ï¿½ï¿½ ß¨
+pjuo ï¿½ï¿½
 pk Æ¥
-pka ÆØ
-pkau ØÏ
-pki ±©
+pka ï¿½ï¿½
+pkau ï¿½ï¿½
+pki ï¿½ï¿½
 pko Æ¥
-pl °Ò
-pla è±
-ple ÅÕ
-pli Åı
-plie «r
-plo çê
-plou «˜
-plu ÅÃ °Ò
-pm ÆÆ
-pma ·ñ
-pme Åö
-pmei °õ
-pmi Åé
+pl ï¿½ï¿½
+pla ï¿½
+ple ï¿½ï¿½
+pli ï¿½ï¿½
+plie ï¿½r
+plo ï¿½ï¿½
+plou ï¿½ï¿½
+plu ï¿½ï¿½ ï¿½ï¿½
+pm ï¿½ï¿½
+pma ï¿½ï¿½
+pme ï¿½ï¿½
+pmei ï¿½ï¿½
+pmi ï¿½ï¿½
 pmii Ø§
-pmiu Åø
-pmo Åğ
-pmoe éè
-pmou ŞË
-pmu Úü ÆÆ
+pmiu ï¿½ï¿½
+pmo ï¿½ï¿½
+pmoe ï¿½ï¿½
+pmou ï¿½ï¿½
+pmu ï¿½ï¿½ ï¿½ï¿½
 pn Æ¤
-pna æ³
-pne æÉ Æ¤
-pneo æ°
-pni æÎ
-pnio ÆÄ
-pno æÇ
-pnu åú Æ¤
+pna ï¿½
+pne ï¿½ï¿½ Æ¤
+pneo ï¿½
+pni ï¿½ï¿½
+pnio ï¿½ï¿½
+pno ï¿½ï¿½
+pnu ï¿½ï¿½ Æ¤
 po Æª
-poa ·o
-poe ë« Æª
-poeu êú
-poi óá
-poia ñF
-poiu óÍ
-poo Åñ
-pooo ë­
-poou êò
-pou ·±
-pp ÅÌ
-ppa ÅÇ ÅÌ
-ppe ÅÖ
-ppei áİ °ò
-ppeo ëİ
-ppi Åß
-ppia Åò ¸¬ ˜„
-ppio ÅÍ
-ppo Åó
+poa ï¿½o
+poe ï¿½ Æª
+poeu ï¿½ï¿½
+poi ï¿½ï¿½
+poia ï¿½F
+poiu ï¿½ï¿½
+poo ï¿½ï¿½
+pooo ï¿½
+poou ï¿½ï¿½
+pou ï¿½ï¿½
+pp ï¿½ï¿½
+ppa ï¿½ï¿½ ï¿½ï¿½
+ppe ï¿½ï¿½
+ppei ï¿½ï¿½ ï¿½ï¿½
+ppeo ï¿½ï¿½
+ppi ï¿½ï¿½
+ppia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+ppio ï¿½ï¿½
+ppo ï¿½ï¿½
 ppoa Æ¢
-ppoe ëã
-ppou Åô
-ppu ÅÀ
-pr ÅÔ
-pra ÆÊ
-pre Åë ÅÔ
-pri ÅÓ
+ppoe ï¿½ï¿½
+ppou ï¿½ï¿½
+ppu ï¿½ï¿½
+pr ï¿½ï¿½
+pra ï¿½ï¿½
+pre ï¿½ï¿½ ï¿½ï¿½
+pri ï¿½ï¿½
 prio Æ¦
-pro ğå
-proa Ùö
-proi ì·
-prou âÒ âÏ
-pru ñ±
+pro ï¿½ï¿½
+proa ï¿½ï¿½
+proi ï¿½
+prou ï¿½ï¿½ ï¿½ï¿½
+pru ï¿½
 pruo Æ£
-pruu ·ë
+pruu ï¿½ï¿½
 ps Æ¾
-psa ÆÍ
+psa ï¿½ï¿½
 psai Ù½
 psau Ù·
 pse Æ«
-psi ±ã
-psia ±¤
-psio É
-psiu Øò
-pso Åå Æ¾
+psi ï¿½ï¿½
+psia ï¿½ï¿½
+psio ï¿½ï¿½
+psiu ï¿½ï¿½
+pso ï¿½ï¿½ Æ¾
 psu Æ§
 pt Æ¿
-pta ÆÕ
-ptaa ÅĞ
+pta ï¿½ï¿½
+ptaa ï¿½ï¿½
 ptau Æ³
 pti Æ¿
-pto ÅÚ
-ptoa ÆÉ
-ptoo ÅÑ
-pu Åè
-pua Æ¶ Åè
-puau ·¬
-pue Åà
+pto ï¿½ï¿½
+ptoa ï¿½ï¿½
+ptoo ï¿½ï¿½
+pu ï¿½ï¿½
+pua Æ¶ ï¿½ï¿½
+puau ï¿½ï¿½
+pue ï¿½ï¿½
 pui Æº
-puia ÆÒ
-puio Å÷ ‡º
-puo Åí
-puoa Ü± Ûı õù
-puoe ˆ¡
+puia ï¿½ï¿½
+puio ï¿½ï¿½ ï¿½ï¿½
+puo ï¿½ï¿½
+puoa Ü± ï¿½ï¿½ ï¿½ï¿½
+puoe ï¿½ï¿½
 puou Ü¡
-puu ÆÂ
+puu ï¿½ï¿½
 puua Û¶
-puui ÛÜ
+puui ï¿½ï¿½
 pv Æ­
-pva àÎ
-pve æé Æ­
-pvi çÎ
-pvia æô
-pviu ç¢
-pvo çÂ
-pw âñ
-pwi âñ
-pwo ÅÂ
-px Åã
-pxe ñâ Åã
-pxo ãİ
-pxoa Úğ
-pxu Úé
+pva ï¿½ï¿½
+pve ï¿½ï¿½ Æ­
+pvi ï¿½ï¿½
+pvia ï¿½ï¿½
+pviu ï¿½
+pvo ï¿½ï¿½
+pw ï¿½ï¿½
+pwi ï¿½ï¿½
+pwo ï¿½ï¿½
+px ï¿½ï¿½
+pxe ï¿½ï¿½ ï¿½ï¿½
+pxo ï¿½ï¿½
+pxoa ï¿½ï¿½
+pxu ï¿½ï¿½
 py Æ¬
-pya îÇ
-pyaa ïä
-pye ÆÈ
-pyee ÅÒ
-pyei ïÂ
-pyeo ïè
-pyeu ë»
-pyi ÆÌ
-pyio Ğ[
-pyiu îŞ
-pyo ÅÆ
-pyoa ÆÇ °~
-pyoe ğ«
+pya ï¿½ï¿½
+pyaa ï¿½ï¿½
+pye ï¿½ï¿½
+pyee ï¿½ï¿½
+pyei ï¿½ï¿½
+pyeo ï¿½ï¿½
+pyeu ï¿½
+pyi ï¿½ï¿½
+pyio ï¿½[
+pyiu ï¿½ï¿½
+pyo ï¿½ï¿½
+pyoa ï¿½ï¿½ ï¿½~
+pyoe ï¿½
 pyoo Æ¹
-pyu îë Æ¬
+pyu ï¿½ï¿½ Æ¬
 pyua Û¯
 q È¥
-qa Æ÷
-qae ßÄ
-qai õÎ Æ÷
-qaia Ú– ßÒ
-qaii àº
-qaio àÒ Ûp
+qa ï¿½ï¿½
+qae ï¿½ï¿½
+qai ï¿½ï¿½ ï¿½ï¿½
+qaia Ú– ï¿½ï¿½
+qaii ï¿½
+qaio ï¿½ï¿½ ï¿½p
 qao Çº
-qaoe àß õè õÄ
-qaoi ÜF
+qaoe ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+qaoi ï¿½F
 qb Ç¿
 qba Ç¿
 qbe Èº
-qbu Çü
-qc Çå
-qca Çö
-qcau …Ñ
-qce Çß
-qcei Æü ÛÏ
-qceu åÒ
-qci Ç³ Çå
-qcia Æá Çş ä¿ Æâ
-qcii Ç± äÚ
-qciu Æã
-qco Æû
+qbu ï¿½ï¿½
+qc ï¿½ï¿½
+qca ï¿½ï¿½
+qcau ï¿½ï¿½
+qce ï¿½ï¿½
+qcei ï¿½ï¿½ ï¿½ï¿½
+qceu ï¿½ï¿½
+qci Ç³ ï¿½ï¿½
+qcia ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½
+qcii Ç± ï¿½ï¿½
+qciu ï¿½ï¿½
+qco ï¿½ï¿½
 qcoe Ç¢
-qcoi ãà äĞ
-qcou šğ
+qcoi ï¿½ï¿½ ï¿½ï¿½
+qcou ï¿½ï¿½
 qcu È°
-qd ÇÒ
-qda Çù
-qdae ÇÍ
-qdau òĞ ó½
+qd ï¿½ï¿½
+qda ï¿½ï¿½
+qdae ï¿½ï¿½
+qdau ï¿½ï¿½ ï¿½
 qde È¦
-qdee ÷Ä
-qdei òÓ ÷ô
-qdeo òé òŞ òø
+qdee ï¿½ï¿½
+qdei ï¿½ï¿½ ï¿½ï¿½
+qdeo ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 qdeu Ç²
-qdi Çú ÇÒ
-qdia Ç¶ áª Æè òà êä
-qdii òß àõ á© òû
-qdio Æé î°
-qdiu á«
-qdo ÇÆ
-qdoa öÄ òÇ
-qdoe Ç­ Çô
-qdoi á½ ë¬ ‡ï
-qdu Æñ
-qdue ÷ñ
-qdui á¨
-qduu ò°
-qe Çë
-qea Æô
+qdi ï¿½ï¿½ ï¿½ï¿½
+qdia Ç¶ ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+qdii ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½
+qdio ï¿½ï¿½ ï¿½
+qdiu ï¿½
+qdo ï¿½ï¿½
+qdoa ï¿½ï¿½ ï¿½ï¿½
+qdoe Ç­ ï¿½ï¿½
+qdoi ï¿½ ï¿½ ï¿½ï¿½
+qdu ï¿½ï¿½
+qdue ï¿½ï¿½
+qdui ï¿½
+qduu ï¿½
+qe ï¿½ï¿½
+qea ï¿½ï¿½
 qeae Ú½
 qeau Ç´
 qee Ç«
-qeee ëa
-qei ìî Çë
-qeia ì÷ —¤
-qeo Æí
-qeoa ÚÛ
-qeoe Ú¹ ñÊ
-qeoi Æı
-qeou µo
+qeee ï¿½a
+qei ï¿½ï¿½ ï¿½ï¿½
+qeia ï¿½ï¿½ ï¿½ï¿½
+qeo ï¿½ï¿½
+qeoa ï¿½ï¿½
+qeoe Ú¹ ï¿½ï¿½
+qeoi ï¿½ï¿½
+qeou ï¿½o
 qeu È¹
-qeua Æî Ú°
-qeui ñß
-qeuu ôì
-qf ÇÅ
-qfa êï
-qfae ¿¨
-qfau èç
-qfe ò¯
-qfeo —¨
+qeua ï¿½ï¿½ Ú°
+qeui ï¿½ï¿½
+qeuu ï¿½ï¿½
+qf ï¿½ï¿½
+qfa ï¿½ï¿½
+qfae ï¿½ï¿½
+qfau ï¿½ï¿½
+qfe ï¿½
+qfeo ï¿½ï¿½
 qfeu È¶
-qfi Æå
-qfia Æç ÆÜ éÉ
-qfio éÊ
-qfo Ç¹ ÇÅ
-qfoa éÔ È£
-qfoe éÕ
-qfoi ÇÁ é± –e
+qfi ï¿½ï¿½
+qfia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+qfio ï¿½ï¿½
+qfo Ç¹ ï¿½ï¿½
+qfoa ï¿½ï¿½ È£
+qfoe ï¿½ï¿½
+qfoi ï¿½ï¿½ ï¿½ ï¿½e
 qfu È¨
-qfui è½
+qfui ï¿½
 qg È¸
-qga ÜÜ
+qga ï¿½ï¿½
 qgai Ş¾
-qgau İİ
+qgau ï¿½ï¿½
 qge Ş­
 qgee Ş¡
-qgei Üù
-qgi Üç
-qgia Ç¾ İ½ éÑ
-qgii İÖ
+qgei ï¿½ï¿½
+qgi ï¿½ï¿½
+qgia Ç¾ İ½ ï¿½ï¿½
+qgii ï¿½ï¿½
 qgio È§ Èœ
-qgiu İÂ ÜÄ
-qgo ÇÛ È¸
-qgoe Üõ ÜË
-qgoi Çæ Ü· Üñ Èc
-qgou ÜÍ ÜÎ
-qgu ÇÑ
-qgui Üä İ¡ Ü»
-qh Çó
-qha ñû
-qhae ÇÊ
-qhau êÈ òË õ¼
-qhe Æä ôÃ Çó
-qhei ôÃ
-qheo ÷Ü
-qheu åÏ
-qhi ÇÉ
+qgiu ï¿½ï¿½ ï¿½ï¿½
+qgo ï¿½ï¿½ È¸
+qgoe ï¿½ï¿½ ï¿½ï¿½
+qgoi ï¿½ï¿½ Ü· ï¿½ï¿½ ï¿½c
+qgou ï¿½ï¿½ ï¿½ï¿½
+qgu ï¿½ï¿½
+qgui ï¿½ï¿½ İ¡ Ü»
+qh ï¿½ï¿½
+qha ï¿½ï¿½
+qhae ï¿½ï¿½
+qhau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+qhe ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+qhei ï¿½ï¿½
+qheo ï¿½ï¿½
+qheu ï¿½ï¿½
+qhi ï¿½ï¿½
 qhia È©
-qhio ³
-qho ÆÚ
-qhoe Æä öÆ
-qhoi Ç¬ ÷³
-qhou ÆÛ Èµ ôğ
+qhio ï¿½ï¿½
+qho ï¿½ï¿½
+qhoe ï¿½ï¿½ ï¿½ï¿½
+qhoi Ç¬ ï¿½ï¿½
+qhou ï¿½ï¿½ Èµ ï¿½ï¿½
 qhu È¡
-qhua Úö
-qhuo È¢ ÇÚ
-qhuu ôë
+qhua ï¿½ï¿½
+qhuo È¢ ï¿½ï¿½
+qhuu ï¿½ï¿½
 qi Ç·
 qie Óˆ Ç·
-qii ÷¢
-qiia ÷’
-qiii öë
-qiio Ós
-qio öú Ç·
-qioa ÷™
-qiou ğ¶
-qiu Çä
-qiuo áì Û¾
-qj ÇÀ
-qja ’‰
-qje Şç
-qjo Æş ÇÀ
-qjoe ÇÜ
-qjoi ÇË Ç¤ Şì
-qk Æß
-qke Å
-qki Çç
-qkia Çµ èı
-qkio Çê
-qko Çø
-qkoe éú
-qku ÇĞ Æß
-qkue Çá ÇÌ
-qkuo ÆŞ
-ql Çò
-qla Çà
-qlaa ØÁ
-qlai è³
-qle Çí
-qli ç÷ Çò
-qlio çù Æõ
-qlo ÇØ
-qloa ØÁ ¬†
-qloe ÇÙ «o
-qloi êü
-qlou üL
-qlu «^
-qlue ­G
+qii ï¿½ï¿½
+qiia ï¿½ï¿½
+qiii ï¿½ï¿½
+qiio ï¿½s
+qio ï¿½ï¿½ Ç·
+qioa ï¿½ï¿½
+qiou ï¿½
+qiu ï¿½ï¿½
+qiuo ï¿½ï¿½ Û¾
+qj ï¿½ï¿½
+qja ï¿½ï¿½
+qje ï¿½ï¿½
+qjo ï¿½ï¿½ ï¿½ï¿½
+qjoe ï¿½ï¿½
+qjoi ï¿½ï¿½ Ç¤ ï¿½ï¿½
+qk ï¿½ï¿½
+qke ï¿½ï¿½
+qki ï¿½ï¿½
+qkia Çµ ï¿½ï¿½
+qkio ï¿½ï¿½
+qko ï¿½ï¿½
+qkoe ï¿½ï¿½
+qku ï¿½ï¿½ ï¿½ï¿½
+qkue ï¿½ï¿½ ï¿½ï¿½
+qkuo ï¿½ï¿½
+ql ï¿½ï¿½
+qla ï¿½ï¿½
+qlaa ï¿½ï¿½
+qlai ï¿½
+qle ï¿½ï¿½
+qli ï¿½ï¿½ ï¿½ï¿½
+qlio ï¿½ï¿½ ï¿½ï¿½
+qlo ï¿½ï¿½
+qloa ï¿½ï¿½ ï¿½ï¿½
+qloe ï¿½ï¿½ ï¿½o
+qloi ï¿½ï¿½
+qlou ï¿½L
+qlu ï¿½^
+qlue ï¿½G
 qm È·
-qma Æİ
+qma ï¿½ï¿½
 qme È®
-qmee íá
-qmi Ææ
-qmia ³M
-qmii íÓ
-qmiu Æö íÍ
+qmee ï¿½ï¿½
+qmi ï¿½ï¿½
+qmia ï¿½M
+qmii ï¿½ï¿½
+qmiu ï¿½ï¿½ ï¿½ï¿½
 qmo Ç£ È·
-qmoi ³~
-qmou ì¥ ´w
-qn æÍ
-qne Š÷
-qni Ší æÍ
-qno ‹ü
-qo Æø
+qmoi ï¿½~
+qmou ï¿½ ï¿½w
+qn ï¿½ï¿½
+qne ï¿½ï¿½
+qni ï¿½ï¿½ ï¿½ï¿½
+qno ï¿½ï¿½
+qo ï¿½ï¿½
 qoa Ç§
-qoe Çï
-qoeu Ç¨ Æù í¬
-qoi Çè
-qoia óé óÌ
-qoii óä
-qoio »ü
-qoiu óæ
+qoe ï¿½ï¿½
+qoeu Ç¨ ï¿½ï¿½ ï¿½ï¿½
+qoi ï¿½ï¿½
+qoia ï¿½ï¿½ ï¿½ï¿½
+qoii ï¿½ï¿½
+qoio ï¿½ï¿½
+qoiu ï¿½ï¿½
 qoo Ç©
-qooa ÇÇ
-qooe óÜ
-qoou ûj
-qou È± Æø
-qoue Çâ
-qoui êù
-qouu Æò
+qooa ï¿½ï¿½
+qooe ï¿½ï¿½
+qoou ï¿½j
+qou È± ï¿½ï¿½
+qoue ï¿½ï¿½
+qoui ï¿½ï¿½
+qouu ï¿½ï¿½
 qp Ç»
-qpa áé
-qpe Æê Ç»
-qpeu í©
-qpi ñı
-qpia Ãl
-qpo ëÔ
-qpou ëÉ
-qq ãÚ
-qqa ãÖ
-qqe ãÚ
-qqu ã×
-qr Ç×
-qra ÇÃ
-qrau ñ³
-qri Çì Ç×
-qria ÷è âÛ
-qrio Æú
-qriu Æà ö
-qro Æë
+qpa ï¿½ï¿½
+qpe ï¿½ï¿½ Ç»
+qpeu ï¿½ï¿½
+qpi ï¿½ï¿½
+qpia ï¿½l
+qpo ï¿½ï¿½
+qpou ï¿½ï¿½
+qq ï¿½ï¿½
+qqa ï¿½ï¿½
+qqe ï¿½ï¿½
+qqu ï¿½ï¿½
+qr ï¿½ï¿½
+qra ï¿½ï¿½
+qrau ï¿½
+qri ï¿½ï¿½ ï¿½ï¿½
+qria ï¿½ï¿½ ï¿½ï¿½
+qrio ï¿½ï¿½
+qriu ï¿½ï¿½ ï¿½ï¿½
+qro ï¿½ï¿½
 qroe È¬
-qroi Æì
-qrou ¸l ½«
-qru Æú È³
-qruo È³ æª „Í
+qroi ï¿½ï¿½
+qrou ï¿½l ï¿½ï¿½
+qru ï¿½ï¿½ È³
+qruo È³ ï¿½ ï¿½ï¿½
 qs È«
-qsa Æó
-qsaa Øä
-qsae ÇÎ
-qse Çİ
-qsee Ùİ
-qsei ôÀ
-qseu ‚à
-qsi Çã È«
+qsa ï¿½ï¿½
+qsaa ï¿½ï¿½
+qsae ï¿½ï¿½
+qse ï¿½ï¿½
+qsee ï¿½ï¿½
+qsei ï¿½ï¿½
+qseu ï¿½ï¿½
+qsi ï¿½ï¿½ È«
 qsia Ù´
 qsii Ù»
-qsiu ê¨
-qso ÇÈ
+qsiu ï¿½
+qso ï¿½ï¿½
 qsoi Çª
-qsu ÇÖ
+qsu ï¿½ï¿½
 qsue Ù¹
-qsuo Ù¤ ³ğ
+qsuo Ù¤ ï¿½ï¿½
 qt Ç°
-qta Çõ Ç°
-qte åÙ
+qta ï¿½ï¿½ Ç°
+qte ï¿½ï¿½
 qti Ç¼
-qtia Çõ
+qtia ï¿½ï¿½
 qto È­
-qtoa ôÜ
-qtoe ìÁ
+qtoa ï¿½ï¿½
+qtoe ï¿½ï¿½
 qtou Ç¸
 qtu È¯
-qtue ôÇ Ÿa
+qtue ï¿½ï¿½ ï¿½a
 qtui È²
 qtuu Ç¼
-qu Æğ
-qua ôò
-que í¨
-quei ö¥
+qu ï¿½ï¿½
+qua ï¿½ï¿½
+que ï¿½ï¿½
+quei ï¿½ï¿½
 qui Ç½
 quia È¤
-quio íà ˆÎ
-quo Ç÷
-quoi óÀ
-quoo Ûß
-quou ¿Ç
-quu È´ È¥ Æğ
+quio ï¿½ï¿½ ï¿½ï¿½
+quo ï¿½ï¿½
+quoi ï¿½ï¿½
+quoo ï¿½ï¿½
+quou ï¿½ï¿½
+quu È´ È¥ ï¿½ï¿½
 quua Û§
-qv Æï
-qva ç×
-qvau ¼© çØ
-qve ç¹
-qvi Çı Æï
-qvia æë
-qvio ç²
-qvo ÏË
-qvu óV
-qw Çé
-qwa ÇÄ
-qwaa ã¥
-qwe ÇŞ
-qwei å½
-qweo ã»
-qwi ÇÏ Çé
-qwia ÇÓ ‘[ æ
-qwiu ÇÔ ã«
+qv ï¿½ï¿½
+qva ï¿½ï¿½
+qvau ï¿½ï¿½ ï¿½ï¿½
+qve ï¿½
+qvi ï¿½ï¿½ ï¿½ï¿½
+qvia ï¿½ï¿½
+qvio ï¿½
+qvo ï¿½ï¿½
+qvu ï¿½V
+qw ï¿½ï¿½
+qwa ï¿½ï¿½
+qwaa ï¿½
+qwe ï¿½ï¿½
+qwei ï¿½
+qweo ï¿½
+qwi ï¿½ï¿½ ï¿½ï¿½
+qwia ï¿½ï¿½ ï¿½[ ï¿½ï¿½
+qwiu ï¿½ï¿½ ï¿½
 qwo Ç¡
-qwoa ã¾
-qwoi ã¸ åº
-qwu Çî
-qwue ãª
-qwui ñ·
-qwuu å¹
-qx Úä
-qxi ãŞ
+qwoa ï¿½
+qwoi ï¿½ ï¿½
+qwu ï¿½ï¿½
+qwue ï¿½
+qwui ï¿½
+qwuu ï¿½
+qx ï¿½ï¿½
+qxi ï¿½ï¿½
 qxii Ø½
-qxo Úä
+qxo ï¿½ï¿½
 qy Ç®
 qya Èª
-qye ïÏ
-qyi Çğ Ç®
+qye ï¿½ï¿½
+qyi ï¿½ï¿½ Ç®
 qyia Ç¯
-qyii ïÆ ïº
-qyiu Çû
-qyo ÇÕ
-qyoe îı îÔ
-qyoi ÇÂ Ç¥
-qyou Ç¦ üš
-qyu Çñ
-qyui ïê ï·
-qyuo ÷ü
-qyuu îÅ
-r ÈË
-ra ÈÂ
-rae ÈÂ
-rai àé
-raia ßö
-rau õå
-rb Èõ
-rbu Èõ
+qyii ï¿½ï¿½ ï¿½
+qyiu ï¿½ï¿½
+qyo ï¿½ï¿½
+qyoe ï¿½ï¿½ ï¿½ï¿½
+qyoi ï¿½ï¿½ Ç¥
+qyou Ç¦ ï¿½ï¿½
+qyu ï¿½ï¿½
+qyui ï¿½ï¿½ ï¿½
+qyuo ï¿½ï¿½
+qyuu ï¿½ï¿½
+r ï¿½ï¿½
+ra ï¿½ï¿½
+rae ï¿½ï¿½
+rai ï¿½ï¿½
+raia ï¿½ï¿½
+rau ï¿½ï¿½
+rb ï¿½ï¿½
+rbu ï¿½ï¿½
 rc È¾
-rca ›I
-rce Èó
-rcee ÈÜ
-rcei 
-rci Èá È¾
-rcie å¦
-rcio äá
-rcu Èê
-rcue …ª
-rcuo ä²
-rd Èâ
-rda òÅ
-rdau ò¸
-rde Èâ
+rca ï¿½I
+rce ï¿½ï¿½
+rcee ï¿½ï¿½
+rcei ï¿½ï¿½
+rci ï¿½ï¿½ È¾
+rcie ï¿½
+rcio ï¿½ï¿½
+rcu ï¿½ï¿½
+rcue ï¿½ï¿½
+rcuo ï¿½
+rd ï¿½ï¿½
+rda ï¿½ï¿½
+rdau ï¿½
+rde ï¿½ï¿½
 rdi È½
-rdia áÉ òî
-rdie Èä
-re ÈÃ
-rea ÈÃ
-ree ìü
-rei Èì
-reie ñà
-reo ÈÏ
-reoi ñÅ
-reou Èß
+rdia ï¿½ï¿½ ï¿½ï¿½
+rdie ï¿½ï¿½
+re ï¿½ï¿½
+rea ï¿½ï¿½
+ree ï¿½ï¿½
+rei ï¿½ï¿½
+reie ï¿½ï¿½
+reo ï¿½ï¿½
+reoi ï¿½ï¿½
+reou ï¿½ï¿½
 reu ×š
-rf î£
-rfa èÄ î£
-rfe éÅ
-rfi èã î£
-rfu …±
-rg Èô
-rga ÜÇ
-rgau ÜÛ
-rge ÈÇ
-rgee ÈØ
-rgei ÌZ
-rgeu Èï
-rgi ÈÙ Èô
-rgia È× İØ
+rf ï¿½
+rfa ï¿½ï¿½ ï¿½
+rfe ï¿½ï¿½
+rfi ï¿½ï¿½ ï¿½
+rfu ï¿½ï¿½
+rg ï¿½ï¿½
+rga ï¿½ï¿½
+rgau ï¿½ï¿½
+rge ï¿½ï¿½
+rgee ï¿½ï¿½
+rgei ï¿½Z
+rgeu ï¿½ï¿½
+rgi ï¿½ï¿½ ï¿½ï¿½
+rgia ï¿½ï¿½ ï¿½ï¿½
 rgie Ş¸
-rgio Ş¨ İê
-rgiu Üé
-rgo Üó
-rgu Èã
-rgua àe
-rgui Ém
-rh ÷×
-rha ÷×
-rhu ÷·
+rgio Ş¨ ï¿½ï¿½
+rgiu ï¿½ï¿½
+rgo ï¿½ï¿½
+rgu ï¿½ï¿½
+rgua ï¿½e
+rgui ï¿½m
+rh ï¿½ï¿½
+rha ï¿½ï¿½
+rhu ï¿½ï¿½
 ri È»
-ria ÈÚ
+ria ï¿½ï¿½
 rie È»
-rii ÈÄ
-riiu áõ
-rio â¿
-rj ÈÈ
-rje ÈÁ ÈÈ
-rji ÈÅ
-rjio ò¬
-rju ÈÓ
-rjue Èà
-rk ÈÕ
-rki ÈÖ ÈÕ
-rko Èí
-rku éí
-rl Èğ
-rla Èğ
-rli ­w
-rlu ÈÍ
-rm Èè
-rmi Èè
-rn Èç
-rna Èç
-rne ÈÌ
-rnee ÈĞ
-rni æ¬
-rnia ‹S
-rno ÈÑ
-ro ÈÉ
-roe ğ¦
-roi óè ÈÉ
-roo ïş
-rp ëÃ
-rpi ëÃ
-rpo ëÀ
-rq Èò
-rqi Èò
+rii ï¿½ï¿½
+riiu ï¿½ï¿½
+rio ï¿½
+rj ï¿½ï¿½
+rje ï¿½ï¿½ ï¿½ï¿½
+rji ï¿½ï¿½
+rjio ï¿½
+rju ï¿½ï¿½
+rjue ï¿½ï¿½
+rk ï¿½ï¿½
+rki ï¿½ï¿½ ï¿½ï¿½
+rko ï¿½ï¿½
+rku ï¿½ï¿½
+rl ï¿½ï¿½
+rla ï¿½ï¿½
+rli ï¿½w
+rlu ï¿½ï¿½
+rm ï¿½ï¿½
+rmi ï¿½ï¿½
+rn ï¿½ï¿½
+rna ï¿½ï¿½
+rne ï¿½ï¿½
+rnee ï¿½ï¿½
+rni ï¿½
+rnia ï¿½S
+rno ï¿½ï¿½
+ro ï¿½ï¿½
+roe ï¿½
+roi ï¿½ï¿½ ï¿½ï¿½
+roo ï¿½ï¿½
+rp ï¿½ï¿½
+rpi ï¿½ï¿½
+rpo ï¿½ï¿½
+rq ï¿½ï¿½
+rqi ï¿½ï¿½
 rr È¿
 rro È¿
-rs ÈÔ
-rse ƒ¨ ÈË
-rsi ÈÊ
+rs ï¿½ï¿½
+rse ï¿½ï¿½ ï¿½ï¿½
+rsi ï¿½ï¿½
 rsia Ù¼
-rsie Èå
-rso ÈÎ
-rsu Øğ ÈÔ
+rsie ï¿½ï¿½
+rso ï¿½ï¿½
+rsu ï¿½ï¿½ ï¿½ï¿½
 rt È¼
-rte ÈÛ
+rte ï¿½ï¿½
 rto È¼
-rtu ôÛ
-ru Èë
-rue ÈÀ Èë
-rui ˆë
-ruu Èé
-rv ÈÆ
-rva óR
-rvi ÈŞ ÈÆ
-rvio çÈ
-rvu ÈÒ
-rw Èİ
-rwo Èİ
-rx Èî
-rxi Èæ Èî
-ry Èñ
-rye éF Èñ
-ryu ï¨
-s ÊÇ
+rtu ï¿½ï¿½
+ru ï¿½ï¿½
+rue ï¿½ï¿½ ï¿½ï¿½
+rui ï¿½ï¿½
+ruu ï¿½ï¿½
+rv ï¿½ï¿½
+rva ï¿½R
+rvi ï¿½ï¿½ ï¿½ï¿½
+rvio ï¿½ï¿½
+rvu ï¿½ï¿½
+rw ï¿½ï¿½
+rwo ï¿½ï¿½
+rx ï¿½ï¿½
+rxi ï¿½ï¿½ ï¿½ï¿½
+ry ï¿½ï¿½
+rye ï¿½F ï¿½ï¿½
+ryu ï¿½
+s ï¿½ï¿½
 sa É¶
-saa Ëä
-saae ÉÚ ßï
-saai Ğê
-saau Éö Éë
-sae Êú
-saee àç Û‘
-saei àÕ ßş
-saeo àÊ
-sai àÂ
-saia ÊÈ Ë» ËÔ ßÓ Ò¶
-saii à¼
-saio àÄ
-sao à² É¶
-saoi ÊÉ
-saou õÇ
-sau Ëô
+saa ï¿½ï¿½
+saae ï¿½ï¿½ ï¿½ï¿½
+saai ï¿½ï¿½
+saau ï¿½ï¿½ ï¿½ï¿½
+sae ï¿½ï¿½
+saee ï¿½ï¿½ Û‘
+saei ï¿½ï¿½ ï¿½ï¿½
+saeo ï¿½ï¿½
+sai ï¿½ï¿½
+saia ï¿½ï¿½ Ë» ï¿½ï¿½ ï¿½ï¿½ Ò¶
+saii ï¿½
+saio ï¿½ï¿½
+sao ï¿½ É¶
+saoi ï¿½ï¿½
+saou ï¿½ï¿½
+sau ï¿½ï¿½
 saue Ë± É¤
-saui ËÃ à§
-sauu ßĞ
+saui ï¿½ï¿½ ï¿½
+sauu ï¿½ï¿½
 sb Ë¢
 sba Ë¾ Ë¢
-sbau Äò
+sbau ï¿½ï¿½
 sbe Êº
-sbee Ëà
-sbo Êô
+sbee ï¿½ï¿½
+sbo ï¿½ï¿½
 sboo Ê¬
-sbu ËÈ
+sbu ï¿½ï¿½
 sc Ë®
 sca É³
-scai Êç Éæ
-scao ›¸
-scau Êª ãô ÉÇ œ› å¡ äÅ
-sce Éî Ë®
-scee äÉ
-scei ôÄ
-sceo Ëİ
-sceu Éò
+scai ï¿½ï¿½ ï¿½ï¿½
+scao ï¿½ï¿½
+scau Êª ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½
+sce ï¿½ï¿½ Ë®
+scee ï¿½ï¿½
+scei ï¿½ï¿½
+sceo ï¿½ï¿½
+sceu ï¿½ï¿½
 sci Ê¥
-scia È÷ É£ Êş äÁ äø ãğ ä³ äÜ äù äú ¥
-scii Èş
-scio ²Î Èş òª
-sco öè
-scoa äÑ
-scoi êı äû ë§
-scoo ²Î
+scia ï¿½ï¿½ É£ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+scii ï¿½ï¿½
+scio ï¿½ï¿½ ï¿½ï¿½ ï¿½
+sco ï¿½ï¿½
+scoa ï¿½ï¿½
+scoi ï¿½ï¿½ ï¿½ï¿½ ï¿½
+scoo ï¿½ï¿½
 scu Ë«
-scue Éø
-scui äÌ ãá
-scuo É¬ æ¶ ÌÀ
-sd ËÄ
+scue ï¿½ï¿½
+scui ï¿½ï¿½ ï¿½ï¿½
+scuo É¬ ï¿½ ï¿½ï¿½
+sd ï¿½ï¿½
 sda É½
-sdaa Éê
-sdae òÙ
-sdao òÏ
-sde Éß
+sdaa ï¿½ï¿½
+sdae ï¿½ï¿½
+sdao ï¿½ï¿½
+sde ï¿½ï¿½
 sdee Ê·
-sdei áÔ ó°
-sdeo óµ ±˜
+sdei ï¿½ï¿½ ï¿½
+sdeo ï¿½ ï¿½ï¿½
 sdeu Ë¼
-sdi Êû
-sdia Êê Êğ áÂ ÖÅ íõ
-sdio Ëè
-sdo Ë¯ ËÄ
-sdoa î¡ òô î¤
-sdoe Ë² ÉŞ
-sdoi áÓ
-sdou Ëê Êñ ÉÄ Ùî ÷»
-sdu íü
+sdi ï¿½ï¿½
+sdia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+sdio ï¿½ï¿½
+sdo Ë¯ ï¿½ï¿½
+sdoa ï¿½ ï¿½ï¿½ ï¿½
+sdoe Ë² ï¿½ï¿½
+sdoi ï¿½ï¿½
+sdou ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+sdu ï¿½ï¿½
 sdua ß
 se Ëµ
-sea Éñ
-seau ÊÓ Ê¶ Ú¨ ÚÕ
-see ÚÖ Ëµ
-seei ÚÇ
-seeo ìø Ò`
-sei ÊÔ
-seia Éç Ê«
+sea ï¿½ï¿½
+seau ï¿½ï¿½ Ê¶ Ú¨ ï¿½ï¿½
+see ï¿½ï¿½ Ëµ
+seei ï¿½ï¿½
+seeo ï¿½ï¿½ ï¿½`
+sei ï¿½ï¿½
+seia ï¿½ï¿½ Ê«
 seo Ë­
-seoe ÚÅ ËÏ
+seoe ï¿½ï¿½ ï¿½ï¿½
 seoi Ú·
-seoo ÉÀ Ëß
-seou Éè
-seu ÉÈ
-seue ËĞ
-seui ìë
-sf ÉÏ
-sfa ÉÒ
-sfau —ö
-sfe Êõ
-sfee èø
-sfei Êá ÊÁ
-sfeu Êö
-sfi É­ ÉÏ
-sfia é©
-sfiu Êà
-sfo ËÉ
-sfoa é¾
+seoo ï¿½ï¿½ ï¿½ï¿½
+seou ï¿½ï¿½
+seu ï¿½ï¿½
+seue ï¿½ï¿½
+seui ï¿½ï¿½
+sf ï¿½ï¿½
+sfa ï¿½ï¿½
+sfau ï¿½ï¿½
+sfe ï¿½ï¿½
+sfee ï¿½ï¿½
+sfei ï¿½ï¿½ ï¿½ï¿½
+sfeu ï¿½ï¿½
+sfi É­ ï¿½ï¿½
+sfia ï¿½
+sfiu ï¿½ï¿½
+sfo ï¿½ï¿½
+sfoa ï¿½
 sfoe Ë¨
-sfoo É¼ ˜J
-sfou Õ¤ è¼
-sfu Ê÷
-sfue Êå Ëó
-sfuo –¶
-sg ÉÙ
+sfoo É¼ ï¿½J
+sfou Õ¤ ï¿½
+sfu ï¿½ï¿½
+sfue ï¿½ï¿½ ï¿½ï¿½
+sfuo ï¿½ï¿½
+sg ï¿½ï¿½
 sga Ê¡
-sgai É» İÄ
-sgau Ë§ Êí İª
+sgai É» ï¿½ï¿½
+sgau Ë§ ï¿½ï¿½ İª
 sge É¯
-sgei Ëò İ·
-sgeo Ş´ İô
+sgei ï¿½ï¿½ İ·
+sgeo Ş´ ï¿½ï¿½
 sgi Ê¦
-sgia İ¿ İé İø İØ
-sgii Ëâ
-sgo ÉÖ ÉÙ
-sgoa Èš ÉL
+sgia İ¿ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+sgii ï¿½ï¿½
+sgo ï¿½ï¿½ ï¿½ï¿½
+sgoa Èš ï¿½L
 sgoe İ´
-sgou ÜÏ
-sgu ËÕ
-sgua Èø İ¥ Êß
-sguo Üæ
+sgou ï¿½ï¿½
+sgu ï¿½ï¿½
+sgua ï¿½ï¿½ İ¥ ï¿½ï¿½
+sguo ï¿½ï¿½
 sh Ê®
-sha ÊÂ Ê®
-shae ÇÊ
-shau ØÄ êÛ
-she ËÙ
-shee Êø
-sheo ËÚ
-shi õ§
+sha ï¿½ï¿½ Ê®
+shae ï¿½ï¿½
+shau ï¿½ï¿½ ï¿½ï¿½
+she ï¿½ï¿½
+shee ï¿½ï¿½
+sheo ï¿½ï¿½
+shi ï¿½ï¿½
 sho É¢
-shoe Éõ
-shoi ËÖ ®d
+shoe ï¿½ï¿½
+shoi ï¿½ï¿½ ï¿½d
 shoo Ë¹
-shou ìƒ
-shu ÊÀ
-shue Ëá
-shui ËÁ
+shou ï¿½
+shu ï¿½ï¿½
+shue ï¿½ï¿½
+shui ï¿½ï¿½
 shuo É¥
-shuu Éõ Ë÷
+shuu ï¿½ï¿½ ï¿½ï¿½
 si É«
 sia É¾
 siao Ê¨
-siau Ê´ Èú öå
-sie É×
-siee É· á÷
-siei ø@
-sieo ÷­
-sii Ùí
-siia âÌ ö¢
-sio ÊÎ
-sioa âÈ ì¬
-sioe â¸ â¦
-sioi õü öÕ
+siau Ê´ ï¿½ï¿½ ï¿½ï¿½
+sie ï¿½ï¿½
+siee É· ï¿½ï¿½
+siei ï¿½@
+sieo ï¿½ï¿½
+sii ï¿½ï¿½
+siia ï¿½ï¿½ ï¿½ï¿½
+sio ï¿½ï¿½
+sioa ï¿½ï¿½ ï¿½
+sioe ï¿½ ï¿½
+sioi ï¿½ï¿½ ï¿½ï¿½
 siu Ë¦ É«
-siua áø
-siue ì¯ â¡ öş ÷“
-siui ËÇ
-siuo öõ
-siuu ÊÏ
-sj ÊÖ
-sja Ëğ ÊÖ
-sjae ÉÓ
-sjai Şó
+siua ï¿½ï¿½
+siue ï¿½ ï¿½ ï¿½ï¿½ ï¿½ï¿½
+siui ï¿½ï¿½
+siuo ï¿½ï¿½
+siuu ï¿½ï¿½
+sj ï¿½ï¿½
+sja ï¿½ï¿½ ï¿½ï¿½
+sjae ï¿½ï¿½
+sjai ï¿½ï¿½
 sje Ë¤
-sjei ÊÄ ÉÃ ö® ë
-sjeo µ§ ËÓ Ş÷
-sjeu ÊÅ “
-sji Èö
-sjia Ëª Éã Ëº Şé
-sjiu ÊÃ
-sjo ËÑ
-sjoe Ê° ÊÚ Ë©
-sjoo ÕÛ
+sjei ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½
+sjeo ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+sjeu ï¿½ï¿½ ï¿½ï¿½
+sji ï¿½ï¿½
+sjia Ëª ï¿½ï¿½ Ëº ï¿½ï¿½
+sjiu ï¿½ï¿½
+sjo ï¿½ï¿½
+sjoe Ê° ï¿½ï¿½ Ë©
+sjoo ï¿½ï¿½
 sju É¨
-sjue É¦ Êã Şú ²ô
-sjuo ÊÆ
+sjue É¦ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+sjuo ï¿½ï¿½
 sk Ê±
-ska Êï
-ski É¹ ÊÇ Ê±
-skia Ê½ Êî
-skio êÉ
-skiu éø
-sko Êä
-skoa ÉÎ
-skoi •N
-skou ³×
-sl Èı
+ska ï¿½ï¿½
+ski É¹ ï¿½ï¿½ Ê±
+skia Ê½ ï¿½ï¿½
+skio ï¿½ï¿½
+skiu ï¿½ï¿½
+sko ï¿½ï¿½
+skoa ï¿½ï¿½
+skoi ï¿½N
+skou ï¿½ï¿½
+sl ï¿½ï¿½
 sla Ê¾
-slae Ëö
-slao ËØ
-slau «| ñê
+slae ï¿½ï¿½
+slao ï¿½ï¿½
+slau ï¿½| ï¿½ï¿½
 sle Éª
-sleo ­j
-sli ÊÙ Èı
+sleo ï¿½j
+sli ï¿½ï¿½ ï¿½ï¿½
 slo Éº
-slu ËØ
-sm ËÀ
+slu ï¿½ï¿½
+sm ï¿½ï¿½
 sma Ê¯
 smaa Ø¦
 smao É°
-smau Ê¢ Éé ò× ²Ş •Y
-sme Ëé
-smee Êù õ¹ Š]
+smau Ê¢ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Y
+sme ï¿½ï¿½
+smee ï¿½ï¿½ ï¿½ï¿½ ï¿½]
 smi Ë¶
-smia Éİ ØË Ö³
-smio ÏÃ Š]
-smiu ØÇ
-smo Ë¬ ËÀ
-smoi Êâ éä
+smia ï¿½ï¿½ ï¿½ï¿½ Ö³
+smio ï¿½ï¿½ ï¿½]
+smiu ï¿½ï¿½
+smo Ë¬ ï¿½ï¿½
+smoi ï¿½ï¿½ ï¿½ï¿½
 smu Ë£
-smue íß
+smue ï¿½ï¿½
 sn Ê¼
-sna ÕÙ
-snai Šì
+sna ï¿½ï¿½
+snai ï¿½ï¿½
 sne Ë¡
-snee Éô
-snei æÓ
-sni æ×
-snio Éï
-sniu Š»
+snee ï¿½ï¿½
+snei ï¿½ï¿½
+sni ï¿½ï¿½
+snio ï¿½ï¿½
+sniu ï¿½ï¿½
 sno É©
-snoi æ­
-snou æ© åù
-snu ÉÛ Ê¼
-snue æ¦
+snoi ï¿½
+snou ï¿½ ï¿½ï¿½
+snu ï¿½ï¿½ Ê¼
+snue ï¿½
 snuo Û¿
-so Ëã
-soa Éı Ëã
+so ï¿½ï¿½
+soa ï¿½ï¿½ ï¿½ï¿½
 soaa Ê£
-soae ÉÔ óâ
-soai ³Ë
+soae ï¿½ï¿½ ï¿½ï¿½
+soai ï¿½ï¿½
 soao É¸
-soau Éà Éû íò
+soau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 soe Ê§
-soee Ê¸ ³Ë ÛÌ
-soeo Ë° ·u
-soeu ÊÊ
-soi Éú
-soia Ëë óù óß ïø ğ£
+soee Ê¸ ï¿½ï¿½ ï¿½ï¿½
+soeo Ë° ï¿½u
+soeu ï¿½ï¿½
+soi ï¿½ï¿½
+soia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½
 soio Ê¸
-soo óÏ
-sooe Êò
-sooi Éü
-soou óÂ ì¦
+soo ï¿½ï¿½
+sooe ï¿½ï¿½
+sooi ï¿½ï¿½
+soou ï¿½ï¿½ ï¿½
 sou Ë½
-soui Ëñ óÓ ïò
-sp Ëù
-spa Èù
-spae ô¹
-spau ëı ëÏ ô® ÄY
-spe ÉÅ
-spei ëş
-speo ô¼
-spo Ê¤ Ëù
-spoa ËÒ
-spoe ëò ëÛ
-sq ÉÁ
-sqi ãÅ
-sqo ÉÁ
-sr ÊĞ
-sra ÉÌ ÊĞ
-srau Ë¥ ğŞ
-sre Êì
-sree Êü ğğ
-sri ÛÓ
-sria ñµ Ú¡
-sro Êİ
-sroa ÷ê
-sroi Ê© ”ø
-srou Ë¥ ìª
-sru ÂÊ
-srue ğş ¯}
-sruo ÉØ Êë
+soui ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+sp ï¿½ï¿½
+spa ï¿½ï¿½
+spae ï¿½ï¿½
+spau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Y
+spe ï¿½ï¿½
+spei ï¿½ï¿½
+speo ï¿½ï¿½
+spo Ê¤ ï¿½ï¿½
+spoa ï¿½ï¿½
+spoe ï¿½ï¿½ ï¿½ï¿½
+sq ï¿½ï¿½
+sqi ï¿½ï¿½
+sqo ï¿½ï¿½
+sr ï¿½ï¿½
+sra ï¿½ï¿½ ï¿½ï¿½
+srau Ë¥ ï¿½ï¿½
+sre ï¿½ï¿½
+sree ï¿½ï¿½ ï¿½ï¿½
+sri ï¿½ï¿½
+sria ï¿½ Ú¡
+sro ï¿½ï¿½
+sroa ï¿½ï¿½
+sroi Ê© ï¿½ï¿½
+srou Ë¥ ï¿½
+sru ï¿½ï¿½
+srue ï¿½ï¿½ ï¿½}
+sruo ï¿½ï¿½ ï¿½ï¿½
 ss Ê¹
-ssa ÉĞ
-ssau ÊÛ Éì ÉÍ Óá î´
+ssa ï¿½ï¿½
+ssau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½
 sse Ê³
-ssei ÉÑ
+ssei ï¿½ï¿½
 sseo É¡ É®
-sseu ËË
-ssi Éá Ê¹
-ssia Ê² ÊË ÊÌ ËÊ öÀ ËÛ
-ssii Øí ÙÜ ‚Ñ
+sseu ï¿½ï¿½
+ssi ï¿½ï¿½ Ê¹
+ssia Ê² ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+ssii ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 sso Éµ
-ssoe Ë×
-ssoi ÉË ‚h ë¨
-ssou Ù¿ ì¨ Á›
-ssu ËÆ
-ssua àg
-ssue Êæ Ù¹
-ssui ËÅ
-st ËÍ
-sta ÉÆ
-staa Øß
-stau ÊŞ µ¥
-ste Ëì ËÍ
-stei ìØ
-steo ìİ
+ssoe ï¿½ï¿½
+ssoi ï¿½ï¿½ ï¿½h ï¿½
+ssou Ù¿ ï¿½ ï¿½ï¿½
+ssu ï¿½ï¿½
+ssua ï¿½g
+ssue ï¿½ï¿½ Ù¹
+ssui ï¿½ï¿½
+st ï¿½ï¿½
+sta ï¿½ï¿½
+staa ï¿½ï¿½
+stau ï¿½ï¿½ ï¿½ï¿½
+ste ï¿½ï¿½ ï¿½ï¿½
+stei ï¿½ï¿½
+steo ï¿½ï¿½
 steu É¿
-sti ÉÕ
-stia ËÜ Ÿö éÃ
-stio ìÂ
-sto Êı
-stoa Ê×
+sti ï¿½ï¿½
+stia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+stio ï¿½ï¿½
+sto ï¿½ï¿½
+stoa ï¿½ï¿½
 stou Ë· Ë¸
-stu ôÈ
+stu ï¿½ï¿½
 stua Û·
-stue ôÖ
-su ÊÜ
+stue ï¿½ï¿½
+su ï¿½ï¿½
 sua É²
-suae ˆÃ
-suau Ûõ ó§
-sue ÉÊ
-sueo ‰
+suae ï¿½ï¿½
+suau ï¿½ï¿½ ï¿½
+sue ï¿½ï¿½
+sueo ï¿½ï¿½
 sui É±
-suia ËÂ
+suia ï¿½ï¿½
 suii Ê¿
-suio ËÌ
+suio ï¿½ï¿½
 suiu ß±
 suo Ë´
-suoa Ê­ Ûğ Ûï
-suoi Éâ
-suu Éù ÊÜ
+suoa Ê­ ï¿½ï¿½ ï¿½ï¿½
+suoi ï¿½ï¿½
+suu ï¿½ï¿½ ï¿½ï¿½
 suua ßŸ
-suue ÊÍ
+suue ï¿½ï¿½
 suui Ü£
-sv Êé
-sva Éş
-svae ç´
+sv ï¿½ï¿½
+sva ï¿½ï¿½
+svae ï¿½
 svao É´
-svau Ê» Éğ æá çÁ çØ
-sve Ëõ Êé
-sveo ÉÉ
-sveu æó
+svau Ê» ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+sve ï¿½ï¿½ ï¿½ï¿½
+sveo ï¿½ï¿½
+sveu ï¿½ï¿½
 svi Ë¿
-svo Ëç
-svoe ç·
-svou ğ¸
+svo ï¿½ï¿½
+svoe ï¿½
+svou ï¿½
 svu É§
-svue ç£
-svui óX
-svuo ÉÜ
-svuu çÒ
-sw ÊÒ
-swa Èü
-swau Éó
+svue ï¿½
+svui ï¿½X
+svuo ï¿½ï¿½
+svuu ï¿½ï¿½
+sw ï¿½ï¿½
+swa ï¿½ï¿½
+swau ï¿½ï¿½
 swe Êµ
-swei ¸@
-sweu åä
-swi ËÎ ÊÒ
-swia ÊØ Èû É÷ ÊÑ Éå ã¤
-swii ãº
-swo ËŞ
-swoe âì
-sx ÊÕ
-sxa Ëï
-sxe Êè
-sxeo Ëí
-sxi Ëæ
-sxie ÉÂ
-sxii Ëî
-sxio Ëå
-sxo ÊÕ
-sy Éí
-sya Ëø
-syau ïÈ
-sye îæ
+swei ï¿½@
+sweu ï¿½ï¿½
+swi ï¿½ï¿½ ï¿½ï¿½
+swia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½
+swii ï¿½
+swo ï¿½ï¿½
+swoe ï¿½ï¿½
+sx ï¿½ï¿½
+sxa ï¿½ï¿½
+sxe ï¿½ï¿½
+sxeo ï¿½ï¿½
+sxi ï¿½ï¿½
+sxie ï¿½ï¿½
+sxii ï¿½ï¿½
+sxio ï¿½ï¿½
+sxo ï¿½ï¿½
+sy ï¿½ï¿½
+sya ï¿½ï¿½
+syau ï¿½ï¿½
+sye ï¿½ï¿½
 syi Ë³
-syia Éä
-syo îå Éí
-syoa ïË
-syoe ï¡
-syoo îÌ
-syou ï¤
-syu Êó
-syue ÛÅ
-t Ëû
-ta Ìı
-taa Ìß
+syia ï¿½ï¿½
+syo ï¿½ï¿½ ï¿½ï¿½
+syoa ï¿½ï¿½
+syoe ï¿½
+syoo ï¿½ï¿½
+syou ï¿½
+syu ï¿½ï¿½
+syue ï¿½ï¿½
+t ï¿½ï¿½
+ta ï¿½ï¿½
+taa ï¿½ï¿½
 taae Û
-taau Ì¤ Ì£ ö¾
-tae Ìã
-taee õÉ
-taei Ìä
-taeo †®
-tai ÍÂ
-taia Ìç àª
+taau Ì¤ Ì£ ï¿½ï¿½
+tae ï¿½ï¿½
+taee ï¿½ï¿½
+taei ï¿½ï¿½
+taeo ï¿½ï¿½
+tai ï¿½ï¿½
+taia ï¿½ï¿½ ï¿½
 taio ß¾
-tao Ìø Ìı
-taoe ÷Ò
-taoi ÍÙ
+tao ï¿½ï¿½ ï¿½ï¿½
+taoe ï¿½ï¿½
+taoi ï¿½ï¿½
 taoo Ú—
-taou ßû
+taou ï¿½ï¿½
 tau Ì¾
-taue àÌ õÌ
-tauo ß¶ õÁ
-tb ÍË
-tba ÍÎ
-tbe µ¯ ÍË
-tbi ÍÀ
-tbia Ìë
-tbu |
+taue ï¿½ï¿½ ï¿½ï¿½
+tauo ß¶ ï¿½ï¿½
+tb ï¿½ï¿½
+tba ï¿½ï¿½
+tbe ï¿½ï¿½ ï¿½ï¿½
+tbi ï¿½ï¿½
+tbia ï¿½ï¿½
+tbu ï¿½|
 tc Í¨
 tca Ì¨
-tcae ÌÊ
-tcau í³ ÍÄ äâ äğ œL ›p
-tce ÌÌ Í¨
-tcee ãû œ
-tcei äü äç œs
-tceo Ìé ìÆ
-tci Ìí
+tcae ï¿½ï¿½
+tcau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½L ï¿½p
+tce ï¿½ï¿½ Í¨
+tcee ï¿½ï¿½ ï¿½ï¿½
+tcei ï¿½ï¿½ ï¿½ï¿½ ï¿½s
+tceo ï¿½ï¿½ ï¿½ï¿½
+tci ï¿½ï¿½
 tcia Ì¶ Í¡
-tcii ÌÎ
+tcii ï¿½ï¿½
 tcio Ì­
 tco Í¿
-tcoe ÌÏ ä¬
-tcou ÌÔ å£
-tcu ÌÀ
+tcoe ï¿½ï¿½ ï¿½
+tcou ï¿½ï¿½ ï¿½
+tcu ï¿½ï¿½
 tcua Û¢
 tcue Ì²
 td Í¼
-tda Ìù
-tdae ó«
-tdai Ìû
-tdau á¼
+tda ï¿½ï¿½
+tdae ï¿½
+tdai ï¿½ï¿½
+tdau ï¿½
 tde Í«
-tdei î¶ ó¥
-tdeo ÍÉ
+tdei ï¿½ ï¿½
+tdeo ï¿½ï¿½
 tdi Í¬
-tdia ÍÅ î®
-tdii Ìï
+tdia ï¿½ï¿½ ï¿½
+tdii ï¿½ï¿½
 tdio Ì¿
-tdiu ¶Ú
-tdo Ì÷ Í¼
-tdoi òÑ î±
-tdou ÷» òè ±]
+tdiu ï¿½ï¿½
+tdo ï¿½ï¿½ Í¼
+tdoi ï¿½ï¿½ ï¿½
+tdou ï¿½ï¿½ ï¿½ï¿½ ï¿½]
 te Ì¸
 tea Ì»
-teau Ñ ñÓ ¶A
+teau Ñ ï¿½ï¿½ ï¿½A
 tee Ì¸
-tei ÌÖ
+tei ï¿½ï¿½
 teia Ì·
-teo µ÷
-teoe ìö
+teo ï¿½ï¿½
+teoe ï¿½ï¿½
 teoi ×™
-teu ÍÊ
+teu ï¿½ï¿½
 tf Í°
 tfa Í©
-tfae éÌ
-tfau é½
-tfe Ìİ
-tfee èŞ
+tfae ï¿½ï¿½
+tfau ï¿½
+tfe ï¿½ï¿½
+tfee ï¿½ï¿½
 tfei Ì´
-tfeu ìş
+tfeu ï¿½ï¿½
 tfi Í¹
-tfii —ƒ
-tfo ÌÒ
-tfoe —^
-tfoi èè èé
-tfoo èØ
-tfu ÍÖ Í°
-tfuo ö¶
-tg ÌÙ
-tga İÆ
-tgau Üí
-tge İã
+tfii ï¿½ï¿½
+tfo ï¿½ï¿½
+tfoe ï¿½^
+tfoi ï¿½ï¿½ ï¿½ï¿½
+tfoo ï¿½ï¿½
+tfu ï¿½ï¿½ Í°
+tfuo ï¿½ï¿½
+tg ï¿½ï¿½
+tga ï¿½ï¿½
+tgau ï¿½ï¿½
+tge ï¿½ï¿½
 tgee È‹
-tgeo ÈI
+tgeo ï¿½I
 tgi Ş·
-tgia È[
-tgiu Üè
-tgo İ± ÌÙ
-tgoi Üğ ËS
-tgou ÌÑ İË
+tgia ï¿½[
+tgiu ï¿½ï¿½
+tgo İ± ï¿½ï¿½
+tgoi ï¿½ï¿½ ï¿½S
+tgou ï¿½ï¿½ ï¿½ï¿½
 tgu Ì¦
-tguo Üæ
+tguo ï¿½ï¿½
 th Íª
-tha ñû Íª
-thau õ®
-the ìı
-thee õ¢
-thei õ±
+tha ï¿½ï¿½ Íª
+thau ï¿½ï¿½
+the ï¿½ï¿½
+thee ï¿½ï¿½
+thei ï¿½ï¿½
 thi Ìª
-thia íO
-thio éÒ
-tho ÷Ø
-thoe õ©
-thu óƒ
-ti Ìõ
-tia ÍÃ ÷£
-tiau ÷£ ÷‹ ÷–
-tie ÍÃ ÍÒ
-tiee ÍÒ
-tieu åÑ
-tii Ì¡ Ìõ
-tiiu â½
+thia ï¿½O
+thio ï¿½ï¿½
+tho ï¿½ï¿½
+thoe ï¿½ï¿½
+thu ï¿½
+ti ï¿½ï¿½
+tia ï¿½ï¿½ ï¿½ï¿½
+tiau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+tie ï¿½ï¿½ ï¿½ï¿½
+tiee ï¿½ï¿½
+tieu ï¿½ï¿½
+tii Ì¡ ï¿½ï¿½
+tiiu ï¿½
 tio Í®
-tioi ğ˜
-tiou öæ
-tiu öØ
-tiuo â¼
+tioi ï¿½
+tiou ï¿½ï¿½
+tiu ï¿½ï¿½
+tiuo ï¿½
 tj Í¦
-tja Ìá
+tja ï¿½ï¿½
 tje Ì½
-tjei ÌÂ
-tji ÍØ
-tjii ŞÒ Şİ
+tjei ï¿½ï¿½
+tji ï¿½ï¿½
+tjii ï¿½ï¿½ ï¿½ï¿½
 tjio Ì¢
-tjo ÍÏ Í¦
-tjoa ÍÆ
-tjoe Ìô
-tjoi ÍĞ öª
-tjou Í¶ ÌÍ
+tjo ï¿½ï¿½ Í¦
+tjoa ï¿½ï¿½
+tjoe ï¿½ï¿½
+tjoi ï¿½ï¿½ ï¿½ï¿½
+tjou Í¶ ï¿½ï¿½
 tju Ì§
 tjue Ì¯ Í±
-tk Ìâ
-tka ÌŞ
-tkau •‹
+tk ï¿½ï¿½
+tka ï¿½ï¿½
+tkau ï¿½ï¿½
 tke ß¯
-tkei êÕ •Ó
-tkeu åİ í«
-tki ê¼ Ìâ
-tku ÍÍ
-tl Ìì
-tla Ìæ
-tlae Ì© ãÃ ñí
-tlao ãÃ
-tlau ÍÌ ¬v
-tle ìâ Ìì
-tlei è© ­f
-tlo èº
+tkei ï¿½ï¿½ ï¿½ï¿½
+tkeu ï¿½ï¿½ ï¿½ï¿½
+tki ï¿½ ï¿½ï¿½
+tku ï¿½ï¿½
+tl ï¿½ï¿½
+tla ï¿½ï¿½
+tlae Ì© ï¿½ï¿½ ï¿½ï¿½
+tlao ï¿½ï¿½
+tlau ï¿½ï¿½ ï¿½v
+tle ï¿½ï¿½ ï¿½ï¿½
+tlei ï¿½ ï¿½f
+tlo ï¿½
 tm Ì«
 tma Ì¼
 tme Ì¬ Ì«
-tmee íÈ
-tmi Ì×
-tmia Ìü
-tmo íÅ
-tmoe éå ÷Ñ
-tn Ëı
-tna àû
-tnau ‹q
-tne æÃ
-tneu Ìö
-tnu ‹à Ëı
-to ÌØ
+tmee ï¿½ï¿½
+tmi ï¿½ï¿½
+tmia ï¿½ï¿½
+tmo ï¿½ï¿½
+tmoe ï¿½ï¿½ ï¿½ï¿½
+tn ï¿½ï¿½
+tna ï¿½ï¿½
+tnau ï¿½q
+tne ï¿½ï¿½
+tneu ï¿½ï¿½
+tnu ï¿½ï¿½ ï¿½ï¿½
+to ï¿½ï¿½
 toa Í²
 toe Í¸
-toei ·r
+toei ï¿½r
 toeo Ìº
-toi Ìğ ÌØ
-toia óê
-toii Ìò
-toio ÍÇ
+toi ï¿½ï¿½ ï¿½ï¿½
+toia ï¿½ï¿½
+toii ï¿½ï¿½
+toio ï¿½ï¿½
 too Íº
 tou Í¢
-touo óÔ
+touo ï¿½ï¿½
 touu Ø±
-tp ÍÈ
-tpa ÌÅ
-tpau Ìó
-tpe ÍÑ
-tpeo ÌÚ ëø
+tp ï¿½ï¿½
+tpa ï¿½ï¿½
+tpau ï¿½ï¿½
+tpe ï¿½ï¿½
+tpeo ï¿½ï¿½ ï¿½ï¿½
 tpi Í½
-tpio ëÄ ëà
+tpio ï¿½ï¿½ ï¿½ï¿½
 tpo Í§
-tpoe –I
-tpoo Ä]
-tpu Ì¥ ÍÈ
-tq ãÙ
-tqa ê`
-tqi ãË ãÙ
-tr ÌÛ
+tpoe ï¿½I
+tpoo ï¿½]
+tpu Ì¥ ï¿½ï¿½
+tq ï¿½ï¿½
+tqa ï¿½`
+tqi ï¿½ï¿½ ï¿½ï¿½
+tr ï¿½ï¿½
 tra Í¯
 tre Ìµ
-treu ßX
+treu ï¿½X
 tri Í¤
-tro Í¥ ÌÛ
+tro Í¥ ï¿½ï¿½
 tru Í´
-trua ào
+trua ï¿½o
 true Ì±
-trui ÌÆ âÕ
+trui ï¿½ï¿½ ï¿½ï¿½
 ts Í£
 tsa Ì°
-tsae ÌÈ ÙÎ
-tsau ÙÛ ¶± ‚m µè
+tsae ï¿½ï¿½ ï¿½ï¿½
+tsau ï¿½ï¿½ ï¿½ï¿½ ï¿½m ï¿½ï¿½
 tse Í¾ Í£
 tsee Ù¢
-tsei Ù× ë
-tseo ‚„
-tsi Ìå
-tsia ÌÃ ÌÄ ÙÚ
+tsei ï¿½ï¿½ ï¿½ï¿½
+tseo ï¿½ï¿½
+tsi ï¿½ï¿½
+tsia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 tso Íµ
 tsoe Ù¬
-tsou Ù¡ ÙÃ
-tsu Ëû
-tt ÌÇ
-tta Ìê
-ttau ôÊ
-tte ÌÜ ÌÇ
-ttei Ÿl
-tto ğÃ
-ttoi ŸP
-ttou »À
-ttu Ìş
+tsou Ù¡ ï¿½ï¿½
+tsu ï¿½ï¿½
+tt ï¿½ï¿½
+tta ï¿½ï¿½
+ttau ï¿½ï¿½
+tte ï¿½ï¿½ ï¿½ï¿½
+ttei ï¿½l
+tto ï¿½ï¿½
+ttoi ï¿½P
+ttou ï¿½ï¿½
+ttu ï¿½ï¿½
 ttua Û°
-ttue Ÿ×
-ttui ìÕ
-tu ÍÁ
-tua ÌË
-tuau Ì¹ Ëú Ûí Ûô
-tue ÌÓ
-tuee Ûç
-tuei ÌÁ
-tui Ìî ÍÁ
-tuia Ëş Ø» ˆN
+ttue ï¿½ï¿½
+ttui ï¿½ï¿½
+tu ï¿½ï¿½
+tua ï¿½ï¿½
+tuau Ì¹ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+tue ï¿½ï¿½
+tuee ï¿½ï¿½
+tuei ï¿½ï¿½
+tui ï¿½ï¿½ ï¿½ï¿½
+tuia ï¿½ï¿½ Ø» ï¿½N
 tuii Ì³
-tuiu ˆd
+tuiu ï¿½d
 tuo Ì®
 tuou Ü¢
-tuu Í×
+tuu ï¿½ï¿½
 tuua ÚŒ
 tv Í³
-tva ç¾
-tve ÍÕ Í³
-tveo ç°
-tvi ÍÔ
-tvio åè
-tvo ÌĞ
-tvou À‡
-tvu ææ
+tva ï¿½
+tve ï¿½ï¿½ Í³
+tveo ï¿½
+tvi ï¿½ï¿½
+tvio ï¿½ï¿½
+tvo ï¿½ï¿½
+tvou ï¿½ï¿½
+tvu ï¿½ï¿½
 tw Í·
-twa Ìè
-twae ã®
-twe ã© Í·
+twa ï¿½ï¿½
+twae ï¿½
+twe ï¿½ Í·
 twi Í» Í·
-twii âú
-two Ëü
-twoe ñ» ş
-twoi Ìñ
-tx ÌÕ
-txe ÍÓ
-txeo ôĞ
-txo ÌÕ
-ty ÌÉ
-tya Í­ ÌÉ
-tyae ïÛ éE
-tyau îã
-tye Ìà
-tyee îè ï¦
-tyeo ïÄ
-tyi îÑ
-tyia îÊ ïâ
-tyiu ï«
-tyo Ìú
-tyoa ÆÇ
-tyoe ï¢
-tyoi îú
-v ÓĞ
-va °¡
-vaa àÅ
+twii ï¿½ï¿½
+two ï¿½ï¿½
+twoe ï¿½ ï¿½ï¿½
+twoi ï¿½ï¿½
+tx ï¿½ï¿½
+txe ï¿½ï¿½
+txeo ï¿½ï¿½
+txo ï¿½ï¿½
+ty ï¿½ï¿½
+tya Í­ ï¿½ï¿½
+tyae ï¿½ï¿½ ï¿½E
+tyau ï¿½ï¿½
+tye ï¿½ï¿½
+tyee ï¿½ï¿½ ï¿½
+tyeo ï¿½ï¿½
+tyi ï¿½ï¿½
+tyia ï¿½ï¿½ ï¿½ï¿½
+tyiu ï¿½
+tyo ï¿½ï¿½
+tyoa ï¿½ï¿½
+tyoe ï¿½
+tyoi ï¿½ï¿½
+v ï¿½ï¿½
+va ï¿½ï¿½
+vaa ï¿½ï¿½
 vae ß¹
-vaeo àÉ
-vai °¥
-vaia ßí ´ô …ş ºÇ
-vaii à»
-vaio ßÀ àÄ ò¦ †† Ïù
+vaeo ï¿½ï¿½
+vai ï¿½ï¿½
+vaia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+vaii ï¿½
+vaio ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ï¿½
 vaiu Å»
 vao Å¶
-vaoa àŞ
-vaoe àÈ
-vaoi …Ë
-vaou ğÊ
-vau °¦ °¡
-vaua ¶õ
-vaui à¸
-vb åí
-vbu åí
-vc °Ä
+vaoa ï¿½ï¿½
+vaoe ï¿½ï¿½
+vaoi ï¿½ï¿½
+vaou ï¿½ï¿½
+vau ï¿½ï¿½ ï¿½ï¿½
+vaua ï¿½ï¿½
+vaui ï¿½
+vb ï¿½ï¿½
+vbu ï¿½ï¿½
+vc ï¿½ï¿½
 vci Å½
-vcia ¶ı
-vco šG °Ä
-vcoi ›á
-vd ¶÷
-vda °»
-vdau ¬
-vde ÷ö ¶÷
-vdi °¶
-vdii °¼
-vdio X
-vdo ¶ê
-vdoi ¶ë
-ve ¶ï
-vea ÚÌ
-vee ÚÏ
+vcia ï¿½ï¿½
+vco ï¿½G ï¿½ï¿½
+vcoi ï¿½ï¿½
+vd ï¿½ï¿½
+vda ï¿½ï¿½
+vdau ï¿½ï¿½
+vde ï¿½ï¿½ ï¿½ï¿½
+vdi ï¿½ï¿½
+vdii ï¿½ï¿½
+vdio ï¿½X
+vdo ï¿½ï¿½
+vdoi ï¿½ï¿½
+ve ï¿½ï¿½
+vea ï¿½ï¿½
+vee ï¿½ï¿½
 vei Ú©
-veo °À ¶ï
-veu ÚÀ
-vf èñ
-vfe èñ
-vg °¬
-vga İì
-vgau İà
-vge °ª
+veo ï¿½ï¿½ ï¿½ï¿½
+veu ï¿½ï¿½
+vf ï¿½ï¿½
+vfe ï¿½ï¿½
+vg ï¿½ï¿½
+vga ï¿½ï¿½
+vgau ï¿½ï¿½
+vge ï¿½ï¿½
 vgi Åº
-vgio ÜÃ
-vgo İ­ °¬
-vh ¶ñ
+vgio ï¿½ï¿½
+vgo İ­ ï¿½ï¿½
+vh ï¿½ï¿½
 vha Ø¬
-vhe °° ¶ñ
-vhi ¶ú
-vhia ÛÑ
+vhe ï¿½ï¿½ ï¿½ï¿½
+vhi ï¿½ï¿½
+vhia ï¿½ï¿½
 vhii Ø¬
-vi ¶ù
-via ¶û öù
-viau öù
-vie ¶û åÇ
-vieu åÇ
-vii ¶ü
-viii áí
-viio öÜ
-vio ¶ö
-viu …n ¶ù
-vj °´
-vja Şô
-vje ö° °´
-vjei Şî
-vji ¶ó
-vjio Şß
-vju °¤
-vjuu ŞÖ
-vk °µ
-vke ¶ô °µ
-vki ·¡
-vkio éî
-vkiu ê±
+vi ï¿½ï¿½
+via ï¿½ï¿½ ï¿½ï¿½
+viau ï¿½ï¿½
+vie ï¿½ï¿½ ï¿½ï¿½
+vieu ï¿½ï¿½
+vii ï¿½ï¿½
+viii ï¿½ï¿½
+viio ï¿½ï¿½
+vio ï¿½ï¿½
+viu ï¿½n ï¿½ï¿½
+vj ï¿½ï¿½
+vja ï¿½ï¿½
+vje ï¿½ï¿½ ï¿½ï¿½
+vjei ï¿½ï¿½
+vji ï¿½ï¿½
+vjio ï¿½ï¿½
+vju ï¿½ï¿½
+vjuu ï¿½ï¿½
+vk ï¿½ï¿½
+vke ï¿½ï¿½ ï¿½ï¿½
+vki ï¿½ï¿½
+vkio ï¿½ï¿½
+vkiu ï¿½
 vko Å·
-vkoe êÓ Çø
-vkou °º Å¸ Å¹
-vl ¶ş
-vla ñî
-vlau òü å
-vle °¾
-vleu åÛ
-vli éá ¶ş
-vlia çí ñú
-vlii ­H
-vlo °½
-vloe è¨ …¥ öË
-vlou ÷¡
-vlu æñ
-vm ¶ø
-vma °­ ¶ø ÓĞ
-vmau ŠS
-vmi ŠC
-vmia íÁ
-vmio ŠS
-vmo ğ¹
-vmoo ÂY
-vmou ğÆ
-vmu ¶ò
-vn ¶ğ
-vna æÁ
-vno æÈ ¶ğ
-vnoe Š´
-vnu æ¹
-vo °«
-voa á®
-voe °±
-voo ¶ì °«
-vp °·
-vpa ëñ
-vpe °¹ °·
-vpi ëç
-vr °©
-vra °§ °©
-vri âÖ
-vrii âÚ
-vro °§ ÷é
-vroe ÷é
+vkoe ï¿½ï¿½ ï¿½ï¿½
+vkou ï¿½ï¿½ Å¸ Å¹
+vl ï¿½ï¿½
+vla ï¿½ï¿½
+vlau ï¿½ï¿½ ï¿½ï¿½
+vle ï¿½ï¿½
+vleu ï¿½ï¿½
+vli ï¿½ï¿½ ï¿½ï¿½
+vlia ï¿½ï¿½ ï¿½ï¿½
+vlii ï¿½H
+vlo ï¿½ï¿½
+vloe ï¿½ ï¿½ï¿½ ï¿½ï¿½
+vlou ï¿½ï¿½
+vlu ï¿½ï¿½
+vm ï¿½ï¿½
+vma ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+vmau ï¿½S
+vmi ï¿½C
+vmia ï¿½ï¿½
+vmio ï¿½S
+vmo ï¿½
+vmoo ï¿½Y
+vmou ï¿½ï¿½
+vmu ï¿½ï¿½
+vn ï¿½ï¿½
+vna ï¿½ï¿½
+vno ï¿½ï¿½ ï¿½ï¿½
+vnoe ï¿½ï¿½
+vnu ï¿½
+vo ï¿½ï¿½
+voa ï¿½
+voe ï¿½ï¿½
+voo ï¿½ï¿½ ï¿½ï¿½
+vp ï¿½ï¿½
+vpa ï¿½ï¿½
+vpe ï¿½ï¿½ ï¿½ï¿½
+vpi ï¿½ï¿½
+vr ï¿½ï¿½
+vra ï¿½ï¿½ ï¿½ï¿½
+vri ï¿½ï¿½
+vrii ï¿½ï¿½
+vro ï¿½ï¿½ ï¿½ï¿½
+vroe ï¿½ï¿½
 vs Å¼
-vsa ±Q Å¼
-vse ±Q
-vsi °³
+vsa ï¿½Q Å¼
+vse ï¿½Q
+vsi ï¿½ï¿½
 vsia Ù¦
-vsii °Á
-vso ¶í
-vu °®
-vua ˆ¥
-vue ˆ
-vui Ûû °®
-vuu °£
-vuuu Ûê š±
-vw °²
-vwa ãµ
-vwi ¶î
-vwia °¸
-vwiu âæ
-vwo °Ã
-vwu °²
-vx °¢
-vxe °¯
-vxi êz °¢
-vy °Â
-vya °¨
-vyau ïÉ
-vye ï§
-vyei ïÍ
-vyi îï °Â
-vyo ï°
-vyu ï¹
-vyue °¿
-w ÎÒ
-wa ÍÛ
+vsii ï¿½ï¿½
+vso ï¿½ï¿½
+vu ï¿½ï¿½
+vua ï¿½ï¿½
+vue ï¿½ï¿½
+vui ï¿½ï¿½ ï¿½ï¿½
+vuu ï¿½ï¿½
+vuuu ï¿½ï¿½ ï¿½ï¿½
+vw ï¿½ï¿½
+vwa ï¿½
+vwi ï¿½ï¿½
+vwia ï¿½ï¿½
+vwiu ï¿½ï¿½
+vwo ï¿½ï¿½
+vwu ï¿½ï¿½
+vx ï¿½ï¿½
+vxe ï¿½ï¿½
+vxi ï¿½z ï¿½ï¿½
+vy ï¿½ï¿½
+vya ï¿½ï¿½
+vyau ï¿½ï¿½
+vye ï¿½
+vyei ï¿½ï¿½
+vyi ï¿½ï¿½ ï¿½ï¿½
+vyo ï¿½
+vyu ï¿½
+vyue ï¿½ï¿½
+w ï¿½ï¿½
+wa ï¿½ï¿½
 waa Î¹
-wai Î¶ ÍÛ
-waia ßí
-waii Îâ àí
-wao ÎÇ
+wai Î¶ ï¿½ï¿½
+waia ï¿½ï¿½
+waii ï¿½ï¿½ ï¿½ï¿½
+wao ï¿½ï¿½
 waoa Î¨
-waoe ÎË
-waoi Ûb
-waou ÎØ
-wau à¸
-wb Îİ
-wba ÏG
+waoe ï¿½ï¿½
+waoi ï¿½b
+waou ï¿½ï¿½
+wau ï¿½
+wb ï¿½ï¿½
+wba ï¿½G
 wbe Î¿
-wbi Î¾ Îİ
+wbi Î¾ ï¿½ï¿½
 wbo Î²
-wc ÎÂ
-wca ÎĞ ÎÂ
-wcau Î¼ œÕ ä¶
-wce Íå
-wcee ›ğ
-wcei ãë
-wceo ãí
-wci Íô
-wcia Íİ ä´
-wcii ÎÛ
-wcio ä¢
-wco ÎÖ
-wcoe öÈ
-wcou ğÍ ›”
-wcu ä×
-wcue ›W
-wcuo æÄ
-wcuu Î« æğ
-wd Íø
+wc ï¿½ï¿½
+wca ï¿½ï¿½ ï¿½ï¿½
+wcau Î¼ ï¿½ï¿½ ï¿½
+wce ï¿½ï¿½
+wcee ï¿½ï¿½
+wcei ï¿½ï¿½
+wceo ï¿½ï¿½
+wci ï¿½ï¿½
+wcia ï¿½ï¿½ ï¿½
+wcii ï¿½ï¿½
+wcio ï¿½
+wco ï¿½ï¿½
+wcoe ï¿½ï¿½
+wcou ï¿½ï¿½ ï¿½ï¿½
+wcu ï¿½ï¿½
+wcue ï¿½W
+wcuo ï¿½ï¿½
+wcuu Î« ï¿½ï¿½
+wd ï¿½ï¿½
 wda Î¸
-wdau ÎÏ òÚ
-wde ÎÃ
-wdee òê îµ
-wdeo Øè
-wdeu ÒÅ
+wdau ï¿½ï¿½ ï¿½ï¿½
+wde ï¿½ï¿½
+wdee ï¿½ï¿½ ï¿½
+wdeo ï¿½ï¿½
+wdeu ï¿½ï¿½
 wdi Î§
-wdia ÍÜ
-wdii àø °¼
-wdio áË
+wdia ï¿½ï¿½
+wdii ï¿½ï¿½ ï¿½ï¿½
+wdio ï¿½ï¿½
 wdiu Î·
-wdo Î¡ Íø
-wdoa á¡ áÍ
-wdoo ®|
-wdou _
-wdu á¢
-we Îó
-wea Î½ Îó
-wei Íà
-weia ÎÜ
-weo ÚÃ
-wf Í÷
-wfe —µ
-wfi Îà Í÷
-wfio è»
+wdo Î¡ ï¿½ï¿½
+wdoa ï¿½ ï¿½ï¿½
+wdoo ï¿½|
+wdou ï¿½_
+wdu ï¿½
+we ï¿½ï¿½
+wea Î½ ï¿½ï¿½
+wei ï¿½ï¿½
+weia ï¿½ï¿½
+weo ï¿½ï¿½
+wf ï¿½ï¿½
+wfe ï¿½ï¿½
+wfi ï¿½ï¿½ ï¿½ï¿½
+wfio ï¿½
 wfo Î¦
-wfu ö»
+wfu ï¿½ï¿½
 wg Ş±
-wga Âû
+wga ï¿½ï¿½
 wgau İ«
-wge Æ[
-wgee İÒ İ¸
+wge ï¿½[
+wgee ï¿½ï¿½ İ¸
 wgei Ş³
 wgi Î­
-wgii Îß
-wgio İÚ
+wgii ï¿½ï¿½
+wgio ï¿½ï¿½
 wgo Î® Ş±
-wgoe İî
-wgou ÜÌ
+wgoe ï¿½ï¿½
+wgou ï¿½ï¿½
 wgu Îµ
 wguo Ü¹
-wh Îå
-wha Îá
-whau ê¦
-whe ¶ñ
-whi ì} Îå
-who Î×
-whoe ÎÓ
-whou ûc
-wi Íâ
-wia ØØ Íâ
-wiau â« â¬ ÷—
-wie Íã
-wii ÎÚ
-wiio öÛ
-wio Îğ
+wh ï¿½ï¿½
+wha ï¿½ï¿½
+whau ï¿½
+whe ï¿½ï¿½
+whi ï¿½} ï¿½ï¿½
+who ï¿½ï¿½
+whoe ï¿½ï¿½
+whou ï¿½c
+wi ï¿½ï¿½
+wia ï¿½ï¿½ ï¿½ï¿½
+wiau ï¿½ ï¿½ ï¿½ï¿½
+wie ï¿½ï¿½
+wii ï¿½ï¿½
+wiio ï¿½ï¿½
+wio ï¿½ï¿½
 wiu Î£
-wiua Úù
-wiui ÷
-wiuo Îñ
-wj ÍÚ
-wje ö© ÍÚ
-wji Îæ
-wjia ÎÎ
-wjo Îí
-wjou Íì
-wju ÎÕ
-wjui ìG
-wk Íò
-wka ÎÔ
-wkau éş
-wke Íß
-wki Íú
-wkia Îî
-wkii è¸
-wko Íí Íò
-wkoi •J
-wl Íæ
-wla Îä
+wiua ï¿½ï¿½
+wiui ï¿½ï¿½
+wiuo ï¿½ï¿½
+wj ï¿½ï¿½
+wje ï¿½ï¿½ ï¿½ï¿½
+wji ï¿½ï¿½
+wjia ï¿½ï¿½
+wjo ï¿½ï¿½
+wjou ï¿½ï¿½
+wju ï¿½ï¿½
+wjui ï¿½G
+wk ï¿½ï¿½
+wka ï¿½ï¿½
+wkau ï¿½ï¿½
+wke ï¿½ï¿½
+wki ï¿½ï¿½
+wkia ï¿½ï¿½
+wkii ï¿½
+wko ï¿½ï¿½ ï¿½ï¿½
+wkoi ï¿½J
+wl ï¿½ï¿½
+wla ï¿½ï¿½
 wlaa Î¤
 wle Î´
-wlee çş
-wlei çä
+wlee ï¿½ï¿½
+wlei ï¿½ï¿½
 wleu Î¥
-wli Íõ Íæ
-wlii çâ
-wlio Íç
-wlo ğÄ
-wlu ÎŞ
-wm Íë
-wma ³}
-wme Îì Íë
-wmi Íá
-wmii Œ¶
-wmiu Íş
-wmo íÒ
+wli ï¿½ï¿½ ï¿½ï¿½
+wlii ï¿½ï¿½
+wlio ï¿½ï¿½
+wlo ï¿½ï¿½
+wlu ï¿½ï¿½
+wm ï¿½ï¿½
+wma ï¿½}
+wme ï¿½ï¿½ ï¿½ï¿½
+wmi ï¿½ï¿½
+wmii ï¿½ï¿½
+wmiu ï¿½ï¿½
+wmo ï¿½ï¿½
 wmu Ø£
-wn ÍŞ
-wna æ´
-wne Íè
-wnee Íñ Šş
-wni åü ÍŞ
-wnii Š€
-wno Š¹
-wnu æ¸
-wo ÎÈ
-woa Îç
-woe åÔ ÎÒ
-woeu åÃ
-woi Îç êõ
-woia êõ
-woo Îï ÎÈ
+wn ï¿½ï¿½
+wna ï¿½
+wne ï¿½ï¿½
+wnee ï¿½ï¿½ ï¿½ï¿½
+wni ï¿½ï¿½ ï¿½ï¿½
+wnii ï¿½ï¿½
+wno ï¿½ï¿½
+wnu ï¿½
+wo ï¿½ï¿½
+woa ï¿½ï¿½
+woe ï¿½ï¿½ ï¿½ï¿½
+woeu ï¿½ï¿½
+woi ï¿½ï¿½ ï¿½ï¿½
+woia ï¿½ï¿½
+woo ï¿½ï¿½ ï¿½ï¿½
 wooa Îº
-woou Îè
+woou ï¿½ï¿½
 wou Î¯
-wp Íù
+wp ï¿½ï¿½
 wpa Î¢
-wpau ëğ
-wpe Íó Íù
-wpee ëä
-wpi ë¿
-wpu ôº
-wq ÎÊ
-wqa ÎÊ
-wqi ÎÅ
-wqii ãÇ
-wqo ãÓ
-wr ÎÄ
-wra ÎÁ
-wre Íü ÎÄ
-wri Íû
-wria ğí
-wrii âĞ
-wro ğô
-wroe ì¶
-wru Íä
-wruo Íı
-wruu Íö ÎÉ
+wpau ï¿½ï¿½
+wpe ï¿½ï¿½ ï¿½ï¿½
+wpee ï¿½ï¿½
+wpi ï¿½
+wpu ï¿½ï¿½
+wq ï¿½ï¿½
+wqa ï¿½ï¿½
+wqi ï¿½ï¿½
+wqii ï¿½ï¿½
+wqo ï¿½ï¿½
+wr ï¿½ï¿½
+wra ï¿½ï¿½
+wre ï¿½ï¿½ ï¿½ï¿½
+wri ï¿½ï¿½
+wria ï¿½ï¿½
+wrii ï¿½ï¿½
+wro ï¿½ï¿½
+wroe ï¿½
+wru ï¿½ï¿½
+wruo ï¿½ï¿½
+wruu ï¿½ï¿½ ï¿½ï¿½
 ws Î»
-wsa ÙË
+wsa ï¿½ï¿½
 wse Î± Î»
-wsei ö¿
+wsei ï¿½ï¿½
 wsi Î°
-wsia Îé
-wsiu Øô
-wso ÙÁ
-wsoi Îê Øõ
-wsu ‚¬
+wsia ï¿½ï¿½
+wsiu ï¿½ï¿½
+wso ï¿½ï¿½
+wsoi ï¿½ï¿½ ï¿½ï¿½
+wsu ï¿½ï¿½
 wt Îª
-wta ìĞ
-wtau Ÿ£
-wte Íé Îª
-wtei É
-wti ì¿
-wtia ìÉ
-wu ÎÌ
-wue ‰G
-wui ÎÍ
-wuii Û× ÛØ
-wuo Îë
-wuou ûl
-wuu ÎÌ
+wta ï¿½ï¿½
+wtau ï¿½ï¿½
+wte ï¿½ï¿½ Îª
+wtei ï¿½ï¿½
+wti ï¿½
+wtia ï¿½ï¿½
+wu ï¿½ï¿½
+wue ï¿½G
+wui ï¿½ï¿½
+wuii ï¿½ï¿½ ï¿½ï¿½
+wuo ï¿½ï¿½
+wuou ï¿½l
+wuu ï¿½ï¿½
 wv Î¬
-wve ÎÆ
-wvee çº
+wve ï¿½ï¿½
+wvee ï¿½
 wvi Î³
-wvii Îã
+wvii ï¿½ï¿½
 wvo Î¬
-wvu æı
-ww Íê
-wwa ÎÑ
-wwaa Øà
-wwau ã¯
-wwe Íï
-wwi Îò Íê
-wwii âä
+wvu ï¿½ï¿½
+ww ï¿½ï¿½
+wwa ï¿½ï¿½
+wwaa ï¿½ï¿½
+wwau ï¿½
+wwe ï¿½ï¿½
+wwi ï¿½ï¿½ ï¿½ï¿½
+wwii ï¿½ï¿½
 wwo Î©
-wwoi âè
-wwoo ·“
-wwou Íğ
-wwu å»
-wx ÎÀ
-wxa Úñ
-wxi Úã ÎÀ
-wxo Úó
-wy Íî
-wya ÷Í
-wye Íî
-wyi è·
-wyia ÷ù
-wyo ÎÙ
-x Ïë
-xa ÏÅ
-xaa ÏÍ
-xaai Ğê àå »£
-xaau ßÈ
-xae Ğú
-xaei õó
-xai Îû ÏÅ
-xaia Ïø …î Ò¶ †I ßÒ
-xaii Óõ
-xaio Ïù
-xaiu ßØ
-xao Ïì
-xaoa ßİ Ğá
-xaoe ßñ õè
-xaoi õÑ õĞ
-xaou ĞÖ û^
-xau Îü
-xaui Ğ¥ ‡e
+wwoi ï¿½ï¿½
+wwoo ï¿½ï¿½
+wwou ï¿½ï¿½
+wwu ï¿½
+wx ï¿½ï¿½
+wxa ï¿½ï¿½
+wxi ï¿½ï¿½ ï¿½ï¿½
+wxo ï¿½ï¿½
+wy ï¿½ï¿½
+wya ï¿½ï¿½
+wye ï¿½ï¿½
+wyi ï¿½
+wyia ï¿½ï¿½
+wyo ï¿½ï¿½
+x ï¿½ï¿½
+xa ï¿½ï¿½
+xaa ï¿½ï¿½
+xaai ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+xaau ï¿½ï¿½
+xae ï¿½ï¿½
+xaei ï¿½ï¿½
+xai ï¿½ï¿½ ï¿½ï¿½
+xaia ï¿½ï¿½ ï¿½ï¿½ Ò¶ ï¿½I ï¿½ï¿½
+xaii ï¿½ï¿½
+xaio ï¿½ï¿½
+xaiu ï¿½ï¿½
+xao ï¿½ï¿½
+xaoa ï¿½ï¿½ ï¿½ï¿½
+xaoe ï¿½ï¿½ ï¿½ï¿½
+xaoi ï¿½ï¿½ ï¿½ï¿½
+xaou ï¿½ï¿½ ï¿½^
+xau ï¿½ï¿½
+xaui Ğ¥ ï¿½e
 xauo Ñ«
 xb Ñ°
 xba Ğ¼
 xbae Ï¬
-xbau ŒÁ
-xbe ÏÒ
-xbeu Ñ¸ åÚ
-xbi Ùã Ñ°
-xbo åï
-xbu …­
+xbau ï¿½ï¿½
+xbe ï¿½ï¿½
+xbeu Ñ¸ ï¿½ï¿½
+xbi ï¿½ï¿½ Ñ°
+xbo ï¿½ï¿½
+xbu ï¿½ï¿½
 xc Ï´
-xca Ïû
-xcai å¬
-xcau ²œ
-xce ĞÜ
-xcee äÖ
-xcei äö ãù ›©
-xceu Ğº ä°
+xca ï¿½ï¿½
+xcai ï¿½
+xcau ï¿½ï¿½
+xce ï¿½ï¿½
+xcee ï¿½ï¿½
+xcei ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+xceu Ğº ï¿½
 xci Ï·
-xcia Ïæ Ğ¹ äì äÀ äÍ – 
+xcia ï¿½ï¿½ Ğ¹ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 xcii Ï°
-xciu œœ
+xciu ï¿½ï¿½
 xco Ïª Ï´
-xcoa äå ÏÑ äª œú
-xcoe ä» Ïı ĞÚ äÓ
-xcou Ï« ä­ Ê
+xcoa ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½
+xcoe ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+xcou Ï« ï¿½ ï¿½ï¿½
 xcu Ñ´
-xcue ¿£
-xcui ä±
-xd ÏØ
+xcue ï¿½ï¿½
+xcui ï¿½
+xd ï¿½ï¿½
 xda Ğ«
-xdae òÙ
-xdau á¶ ò¹ á­ Í›
+xdae ï¿½ï¿½
+xdau ï¿½ ï¿½ ï¿½ Í›
 xde Ï¹
 xdei Ñ£
-xdeu Ğü
+xdeu ï¿½ï¿½
 xdi Ïº
-xdia òá ÷ï Ï]
+xdia ï¿½ï¿½ ï¿½ï¿½ ï¿½]
 xdie Ï¿
-xdii íì
-xdo ó¬
-xdoa ó£
-xdoe áÅ 
-xdou á¾ ó­ ±] ¼û
-xdu ÏØ
-xe ĞÄ
-xea Ğä
-xeai ÚÊ
-xeau ¶P ñÓ ×œ
-xee Ïé ĞÄ
-xeeo Ïê
+xdii ï¿½ï¿½
+xdo ï¿½
+xdoa ï¿½
+xdoe ï¿½ï¿½ ï¿½ï¿½
+xdou ï¿½ ï¿½ ï¿½] ï¿½ï¿½
+xdu ï¿½ï¿½
+xe ï¿½ï¿½
+xea ï¿½ï¿½
+xeai ï¿½ï¿½
+xeau ï¿½P ï¿½ï¿½ ×œ
+xee ï¿½ï¿½ ï¿½ï¿½
+xeeo ï¿½ï¿½
 xei Ğ´
-xeia ìû
-xeii ìì ìù
+xeia ï¿½ï¿½
+xeii ï¿½ï¿½ ï¿½ï¿½
 xeiu Ğ³
 xeo Ğ»
 xeoa Ñµ
-xeoe ÚÎ ×›
-xeoi Ğí
+xeoe ï¿½ï¿½ ×›
+xeoi ï¿½ï¿½
 xeou Ñ¯
 xeu Ñ¶
 xeue Ú¼
 xf Ğ©
-xfa Ïà
-xfaa Ğé
-xfau ĞÓ èÔ èÕ
-xfe Ğ£ Ïë
-xfee é¸
+xfa ï¿½ï¿½
+xfaa ï¿½ï¿½
+xfau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+xfe Ğ£ ï¿½ï¿½
+xfee ï¿½
 xfi Ğµ Ğ©
-xfia ÆÜ
+xfia ï¿½ï¿½
 xfii Ğ¨
-xfiu Ğà
-xfo Îö
-xfoa é¿ ğª Ï­
-xfou Ïğ
-xfu èò
-xfui éØ éÇ
+xfiu ï¿½ï¿½
+xfo ï¿½ï¿½
+xfoa ï¿½ ï¿½ Ï­
+xfou ï¿½ï¿½
+xfu ï¿½ï¿½
+xfui ï¿½ï¿½ ï¿½ï¿½
 xg Ğ¡
-xga ÜÈ
-xgau Ê¡ İß Üş
+xga ï¿½ï¿½
+xgau Ê¡ ï¿½ï¿½ ï¿½ï¿½
 xge Ğ¾ Ğ¡
-xgee İæ Ş£ Æ‹
-xgei Ğ½ Ğî İ·
-xgi Üç
-xgia Ş¦ İÙ İ¾
+xgee ï¿½ï¿½ Ş£ Æ‹
+xgei Ğ½ ï¿½ï¿½ İ·
+xgi ï¿½ï¿½
+xgia Ş¦ ï¿½ï¿½ İ¾
 xgio Ş¯
 xgo Ñ¦
 xgoe İ²
 xgoi Ş¹
-xgoo Üô İû
-xgou Ü÷ Şº ËZ
-xgu Ïô
+xgoo ï¿½ï¿½ ï¿½ï¿½
+xgou ï¿½ï¿½ Şº ï¿½Z
+xgu ï¿½ï¿½
 xgui Üº İ¡
 xguu Ü¼
-xh ÏÂ
-xha ĞÑ
-xhau Îô êê
-xhe õµ ÏÂ
-xhi Î÷
+xh ï¿½ï¿½
+xha ï¿½ï¿½
+xhau ï¿½ï¿½ ï¿½ï¿½
+xhe ï¿½ï¿½ ï¿½ï¿½
+xhi ï¿½ï¿½
 xhia Ğ¬
-xhio Ïî Ï×
+xhio ï¿½ï¿½ ï¿½ï¿½
 xho Ñ¥
-xhoa ÷Û
-xhoe Ğï
-xhoi õ£ õ¸
+xhoa ï¿½ï¿½
+xhoe ï¿½ï¿½
+xhoi ï¿½ï¿½ ï¿½ï¿½
 xhu Ğ¢
-xhua õ¯
-xhui Ïï
+xhua ï¿½ï¿½
+xhui ï¿½ï¿½
 xhuo Ğ­
 xi Ïµ
-xia Ïó Ïµ
-xiai ªV
-xiau Ğ· Ñ® ĞÉ áò
-xie ÏÊ
+xia ï¿½ï¿½ Ïµ
+xiai ï¿½V
+xiau Ğ· Ñ® ï¿½ï¿½ ï¿½ï¿½
+xie ï¿½ï¿½
 xiee Ï¦
-xiei ğœ
-xieo âÊ
-xieu åâ
-xii çô
-xiia èÉ
-xiie ÏÁ ÷¨
-xio ÏÚ
-xioa âÃ
-xioe ĞÙ áı
-xioi â¾ â´
-xiou â³ ÷€ ªA
-xiu öà
+xiei ï¿½
+xieo ï¿½ï¿½
+xieu ï¿½ï¿½
+xii ï¿½ï¿½
+xiia ï¿½ï¿½
+xiie ï¿½ï¿½ ï¿½ï¿½
+xio ï¿½ï¿½
+xioa ï¿½ï¿½
+xioe ï¿½ï¿½ ï¿½ï¿½
+xioi ï¿½ ï¿½
+xiou ï¿½ ï¿½ï¿½ ï¿½A
+xiu ï¿½ï¿½
 xiua Û¨
-xiuo ½â â¼
-xj Ğè
-xja Ïö
-xjau õ½
-xje Şï
-xji Ğ® Ğè
-xjia ß¢ ö±
+xiuo ï¿½ï¿½ ï¿½
+xj ï¿½ï¿½
+xja ï¿½ï¿½
+xjau ï¿½ï¿½
+xje ï¿½ï¿½
+xji Ğ® ï¿½ï¿½
+xjia ß¢ ï¿½ï¿½
 xjo Ğ¯
 xjoa ß©
-xjoo ÏÆ
+xjoo ï¿½ï¿½
 xju Ñ©
-xjui Ï¼ ’¦
-xk ĞÇ
-xka ÏÔ
+xjui Ï¼ ï¿½ï¿½
+xk ï¿½ï¿½
+xka ï¿½ï¿½
 xkau Ï»
-xke Îõ
-xkee Ï½ ìã êÑ
-xkei •] •Ã
-xkeo êØ
-xkeu åß
-xki Ïş
-xkia Îú
-xkii Ğù
-xko Ğª ĞÇ
-xkoe •„
-xkoi êÖ
-xkoo ê¿
-xkou •d
+xke ï¿½ï¿½
+xkee Ï½ ï¿½ï¿½ ï¿½ï¿½
+xkei ï¿½] ï¿½ï¿½
+xkeo ï¿½ï¿½
+xkeu ï¿½ï¿½
+xki ï¿½ï¿½
+xkia ï¿½ï¿½
+xkii ï¿½ï¿½
+xko Ğª ï¿½ï¿½
+xkoe ï¿½ï¿½
+xkoi ï¿½ï¿½
+xkoo ï¿½
+xkou ï¿½d
 xku Ğ°
 xkui Ï¾
-xkuo ÛÃ
-xl ÏÖ
-xla ĞÌ ÏÖ
-xlau ¬K
-xle è¯
-xlee ¬u
-xli ĞÍ
-xlio Æõ çï «‹ í¹
-xlo ĞÎ
-xloa «“
-xlou «‘
-xlu ĞÏ
-xlue «
-xlui è¦
-xm ÏÄ
-xma Ïõ
+xkuo ï¿½ï¿½
+xl ï¿½ï¿½
+xla ï¿½ï¿½ ï¿½ï¿½
+xlau ï¿½K
+xle ï¿½
+xlee ï¿½u
+xli ï¿½ï¿½
+xlio ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+xlo ï¿½ï¿½
+xloa ï¿½ï¿½
+xlou ï¿½ï¿½
+xlu ï¿½ï¿½
+xlue ï¿½ï¿½
+xlui ï¿½
+xm ï¿½ï¿½
+xma ï¿½ï¿½
 xme Ï®
-xmee íÛ
-xmeo ìŞ
-xmi ÏÌ
-xmia Ïá Îø
-xmie íÌ
-xmii Ğç íÊ
-xmio ÏÃ
-xmo ĞÛ ÏÄ
-xmoe Øg
-xmou Ñ³ Îù
-xmu ³w
-xn ĞÕ
-xna Ğñ
-xnau ÛÄ ‹Ö
-xne ÏÓ
-xnea æµ
-xni æÒ
-xno Ï± ĞÕ
-xnoe ‹ü
-xnu Ğõ
-xnua Ğö
-xo ÏÈ
-xoa Ïã
-xoai óÁ
-xoau ë¯
+xmee ï¿½ï¿½
+xmeo ï¿½ï¿½
+xmi ï¿½ï¿½
+xmia ï¿½ï¿½ ï¿½ï¿½
+xmie ï¿½ï¿½
+xmii ï¿½ï¿½ ï¿½ï¿½
+xmio ï¿½ï¿½
+xmo ï¿½ï¿½ ï¿½ï¿½
+xmoe ï¿½g
+xmou Ñ³ ï¿½ï¿½
+xmu ï¿½w
+xn ï¿½ï¿½
+xna ï¿½ï¿½
+xnau ï¿½ï¿½ ï¿½ï¿½
+xne ï¿½ï¿½
+xnea ï¿½
+xni ï¿½ï¿½
+xno Ï± ï¿½ï¿½
+xnoe ï¿½ï¿½
+xnu ï¿½ï¿½
+xnua ï¿½ï¿½
+xo ï¿½ï¿½
+xoa ï¿½ï¿½
+xoai ï¿½ï¿½
+xoau ï¿½
 xoe Ñ¡
 xoee Ñ¬
-xoi Ïä
-xoia Îş
-xoo Ğ¦ ÏÈ
-xooa óã
+xoi ï¿½ï¿½
+xoia ï¿½ï¿½
+xoo Ğ¦ ï¿½ï¿½
+xooa ï¿½ï¿½
 xooe Ï¡
-xooi óÚ
-xou Ğã
+xooi ï¿½ï¿½
+xou ï¿½ï¿½
 xoua Ğ¶
-xoui óï
-xp ĞĞ
-xpa ĞÈ
-xpai áã
-xpe ÏÏ
-xpei Ğf
-xpi Ğë ĞĞ
-xpia Ï¥ À° ô¸
-xpo ĞØ
-xpoa ÏÙ
-xpoe Ğì
-xpoi ÏÎ
+xoui ï¿½ï¿½
+xp ï¿½ï¿½
+xpa ï¿½ï¿½
+xpai ï¿½ï¿½
+xpe ï¿½ï¿½
+xpei ï¿½f
+xpi ï¿½ï¿½ ï¿½ï¿½
+xpia Ï¥ ï¿½ï¿½ ï¿½ï¿½
+xpo ï¿½ï¿½
+xpoa ï¿½ï¿½
+xpoe ï¿½ï¿½
+xpoi ï¿½ï¿½
 xpoo Ñ­
-xpou ĞÀ áß
+xpou ï¿½ï¿½ ï¿½ï¿½
 xpu Ğ²
-xq ÏĞ
-xqi ÏĞ
-xqo ãÒ
-xqou ğÂ
-xr ĞÂ
+xq ï¿½ï¿½
+xqi ï¿½ï¿½
+xqo ï¿½ï¿½
+xqou ï¿½ï¿½
+xr ï¿½ï¿½
 xra Ï¯
-xraa ĞÁ
-xrau Ïå Ğó
-xre Ğş ğï
-xrea ğï
-xrei ğç
-xreo âÔ
-xri ĞÁ Ùô
-xria Ùô
-xro Ğ§ ĞÂ
-xroa âÓ
-xroi Ğı Ùş
-xrou ì§ Ñ¢ âİ
-xru Ïí
-xrue Ğò ÛÆ
-xruu Ğş
-xs Ïñ
-xsa ÏÉ
-xsaa Ï÷
-xsau Ğ¤ ÙØ
-xse ĞÅ
+xraa ï¿½ï¿½
+xrau ï¿½ï¿½ ï¿½ï¿½
+xre ï¿½ï¿½ ï¿½ï¿½
+xrea ï¿½ï¿½
+xrei ï¿½ï¿½
+xreo ï¿½ï¿½
+xri ï¿½ï¿½ ï¿½ï¿½
+xria ï¿½ï¿½
+xro Ğ§ ï¿½ï¿½
+xroa ï¿½ï¿½
+xroi ï¿½ï¿½ ï¿½ï¿½
+xrou ï¿½ Ñ¢ ï¿½ï¿½
+xru ï¿½ï¿½
+xrue ï¿½ï¿½ ï¿½ï¿½
+xruu ï¿½ï¿½
+xs ï¿½ï¿½
+xsa ï¿½ï¿½
+xsaa ï¿½ï¿½
+xsau Ğ¤ ï¿½ï¿½
+xse ï¿½ï¿½
 xsee Ğ±
-xsei ƒ¨
-xseu åĞ
-xsi Ğİ
-xsia ÙÒ ğ¼
-xsie ÏÀ
-xsiu ÙÉ
-xso ĞŞ Ïñ
-xsoe ‚İ
-xsou Ã‘ ì¨ Á›
-xsu Ğğ
-xsue ôâ
-xt Ïè
-xta ôÌ
-xtau Ÿ“
-xte ìÅ
-xtee ìÓ
-xtei ÏÛ ŸÀ
-xti Ÿ@
-xtia ôÑ
+xsei ï¿½ï¿½
+xseu ï¿½ï¿½
+xsi ï¿½ï¿½
+xsia ï¿½ï¿½ ï¿½
+xsie ï¿½ï¿½
+xsiu ï¿½ï¿½
+xso ï¿½ï¿½ ï¿½ï¿½
+xsoe ï¿½ï¿½
+xsou Ã‘ ï¿½ ï¿½ï¿½
+xsu ï¿½ï¿½
+xsue ï¿½ï¿½
+xt ï¿½ï¿½
+xta ï¿½ï¿½
+xtau ï¿½ï¿½
+xte ï¿½ï¿½
+xtee ï¿½ï¿½
+xtei ï¿½ï¿½ ï¿½ï¿½
+xti ï¿½@
+xtia ï¿½ï¿½
 xto Ï¨
 xtoe Ï©
-xtoi ôË
-xtoo Ô
-xtou öß šH
-xtu Ğß Ïè
-xtua ôÚ
+xtoi ï¿½ï¿½
+xtoo ï¿½ï¿½
+xtou ï¿½ï¿½ ï¿½H
+xtu ï¿½ï¿½ ï¿½ï¿½
+xtua ï¿½ï¿½
 xtuo È¯
 xu Ï²
-xua Ğæ Ï²
-xuau Û÷
-xue ĞÒ Ï²
-xuee ìä
-xuei ˆ¦
-xueu Ï¤ ‘ƒ
+xua ï¿½ï¿½ Ï²
+xuau ï¿½ï¿½
+xue ï¿½ï¿½ Ï²
+xuee ï¿½ï¿½
+xuei ï¿½ï¿½
+xueu Ï¤ ï¿½ï¿½
 xui Ï£
-xuii Û×
-xuio ò¡
-xuiu Ùâ
+xuii ï¿½ï¿½
+xuio ï¿½
+xuiu ï¿½ï¿½
 xuo Ü°
-xuoa õ÷
-xuoe ØG
-xuou ì¤
-xuu Ğ×
+xuoa ï¿½ï¿½
+xuoe ï¿½G
+xuou ï¿½
+xuu ï¿½ï¿½
 xuua Û­ Û§
-xuuu ŞÉ
-xv Ïß
+xuuu ï¿½ï¿½
+xv ï¿½ï¿½
 xva Ï¸
-xvae ç¯
+xvae ï¿½
 xve Ñ²
-xvei æø óU
-xvi Ğø Ïß
-xvia Ğ÷ ç½ çÓ ç¥
-xviu æç
-xvo Ïç
+xvei ï¿½ï¿½ ï¿½U
+xvi ï¿½ï¿½ ï¿½ï¿½
+xvia ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½
+xviu ï¿½ï¿½
+xvo ï¿½ï¿½
 xvoa Ñ±
-xvoe ÷Ï
-xvoi Ğå ÏË
+xvoe ï¿½ï¿½
+xvoi ï¿½ï¿½ ï¿½ï¿½
 xvou Ñ¤
 xw Ñ§
-xwa Ïü
-xwau ĞÊ í´ N
-xwe Ñ¨ ñ¿
-xwee Ë
-xwei ñ¿ k
-xwi Ğû
-xwia Ï§ ã¬ j
-xwo ĞÔ
-xwoa Ğô ËŞ
-xwoe ĞË Ñ¨ ¸O
-xwoi ÏÜ ”¬
-xwoo ĞÃ
-xwou Ğ¸ âş ñ¶
+xwa ï¿½ï¿½
+xwau ï¿½ï¿½ ï¿½ï¿½ ï¿½N
+xwe Ñ¨ ï¿½
+xwee ï¿½ï¿½
+xwei ï¿½ ï¿½k
+xwi ï¿½ï¿½
+xwia Ï§ ï¿½ ï¿½j
+xwo ï¿½ï¿½
+xwoa ï¿½ï¿½ ï¿½ï¿½
+xwoe ï¿½ï¿½ Ñ¨ ï¿½O
+xwoi ï¿½ï¿½ ï¿½ï¿½
+xwoo ï¿½ï¿½
+xwou Ğ¸ ï¿½ï¿½ ï¿½
 xwu Ñ§
-xx ÏŞ
-xxa ñã
+xx ï¿½ï¿½
+xxa ï¿½ï¿½
 xxao Ï¶
-xxau Úô
+xxau ï¿½ï¿½
 xxe Ñ·
-xxo ÏÕ
-xxou Ïİ ½µ
-xxu Úê ÏŞ
-xy Ïò
-xya Ïú Ïò
-xyae ÷Ì
-xyau Îı
+xxo ï¿½ï¿½
+xxou ï¿½ï¿½ ï¿½ï¿½
+xxu ï¿½ï¿½ ï¿½ï¿½
+xy ï¿½ï¿½
+xya ï¿½ï¿½ ï¿½ï¿½
+xyae ï¿½ï¿½
+xyau ï¿½ï¿½
 xye Ï¢
-xyei Ğ¿ Ïâ îç ïà
-xyeo ĞÆ
+xyei Ğ¿ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+xyeo ï¿½ï¿½
 xyi Ñª
-xyia ïâ
+xyia ï¿½ï¿½
 xyii Ø¶
-xyio ³ô
-xyiu ôq
-xyo Ğâ
-xyoa °~
-xyoe öÎ Ø¶ ÷û
+xyio ï¿½ï¿½
+xyiu ï¿½q
+xyo ï¿½ï¿½
+xyoa ï¿½~
+xyoe ï¿½ï¿½ Ø¶ ï¿½ï¿½
 xyoi Ï³
-xyoo ÏÇ
-xyou ôª
+xyoo ï¿½ï¿½
+xyou ï¿½ï¿½
 y Ò»
 ya Ñ½
 yaa Ô±
-yaau ÑÊ ‡S ßÜ àÓ à¯
+yaau ï¿½ï¿½ ï¿½S ï¿½ï¿½ ï¿½ï¿½ ï¿½
 yae Ò§
-yaei à¡ àæ à³ Ñä ßâ
-yaeo ß¹ àÉ
+yaei ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ï¿½
+yaeo ß¹ ï¿½ï¿½
 yaeu Ó½
 yai Ò¶ Ñ½
-yaia ÑÆ Ò­ ß½
-yaii Òµ Óõ
-yaiu ß× ‡¨
+yaia ï¿½ï¿½ Ò­ ß½
+yaii Òµ ï¿½ï¿½
+yaiu ï¿½ï¿½ ï¿½ï¿½
 yao Ô¾
-yaoa ßŞ
-yaoe Ó÷ Ò÷
+yaoa ï¿½ï¿½
+yaoe ï¿½ï¿½ ï¿½ï¿½
 yau Ó´
-yaua ÒØ Û« Úş ÔÇ
+yaua ï¿½ï¿½ Û« ï¿½ï¿½ ï¿½ï¿½
 yaue Ó»
-yaui ßÅ
-yauu ßÏ ßº
-yb ÒÑ
-yba Òı
-ybaa í²
-ybe ìÙ
-ybeo Öà
-ybi Òì
-ybia å÷ Î¾
-ybo Òü
+yaui ï¿½ï¿½
+yauu ï¿½ï¿½ ßº
+yb ï¿½ï¿½
+yba ï¿½ï¿½
+ybaa ï¿½ï¿½
+ybe ï¿½ï¿½
+ybeo ï¿½ï¿½
+ybi ï¿½ï¿½
+ybia ï¿½ï¿½ Î¾
+ybo ï¿½ï¿½
 yboi Î²
-ybu åò ÒÑ
-yc ÓÖ
-yca ÓÍ
-ycaa Óè
-ycau Òí ğ® ãó ä¦ ›Å ²œ ›s ›é
-yce ÓÎ ÓÖ
-ycee Ñİ ›ğ
-ycei Òº ÓÙ å­ Òî
-yceo Ñó Òç Ñú
-yceu Ó¾ ÓÁ
+ybu ï¿½ï¿½ ï¿½ï¿½
+yc ï¿½ï¿½
+yca ï¿½ï¿½
+ycaa ï¿½ï¿½
+ycau ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½s ï¿½ï¿½
+yce ï¿½ï¿½ ï¿½ï¿½
+ycee ï¿½ï¿½ ï¿½ï¿½
+ycei Òº ï¿½ï¿½ ï¿½ ï¿½ï¿½
+yceo ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+yceu Ó¾ ï¿½ï¿½
 yci Ô´
-ycia äŞ äÎ äë œ»
-ycii ãä äÙ ›V
-ycio Ô¤ ÑÄ ÑÍ ôà
-yco ÒÔ
-ycoa ›¥
-ycoe Ô¡ Òù Óå Ô¨ å®
-ycoi ÒÓ
-ycoo ÒÊ
-ycou ÑØ Óæ ÔÊ Ô¥ äô ğÖ šõ
-ycu ÓÂ
-ycue Óğ Ó¿ ›W
-ycuu ÔÊ
-yd ÑÛ
+ycia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+ycii ï¿½ï¿½ ï¿½ï¿½ ï¿½V
+ycio Ô¤ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+yco ï¿½ï¿½
+ycoa ï¿½ï¿½
+ycoe Ô¡ ï¿½ï¿½ ï¿½ï¿½ Ô¨ ï¿½
+ycoi ï¿½ï¿½
+ycoo ï¿½ï¿½
+ycou ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ Ô¥ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+ycu ï¿½ï¿½
+ycue ï¿½ï¿½ Ó¿ ï¿½W
+ycuu ï¿½ï¿½
+yd ï¿½ï¿½
 yda Ô²
-ydaa •õ
-ydau Ó¬ à÷ òÄ òæ Í› ók
-yde Óö
-ydee Ñë Ø® Éß
-ydei òö
-ydeo ÒÏ òÕ òø
-ydeu ÒÅ ÓŞ
-ydi ÓÉ
-ydia àö áÊ àô
+ydaa ï¿½ï¿½
+ydau Ó¬ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ Í› ï¿½k
+yde ï¿½ï¿½
+ydee ï¿½ï¿½ Ø® ï¿½ï¿½
+ydei ï¿½ï¿½
+ydeo ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+ydeu ï¿½ï¿½ ï¿½ï¿½
+ydi ï¿½ï¿½
+ydia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 ydii Ô°
-ydio Òò ÑÒ ÑÂ àó áÃ íı ó¢ î»
-ydiu Óì ÑÁ á¬ òâ
+ydio ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½
+ydiu ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½
 ydo Ñ¼
-ydoa ÑÑ
-ydoe Óø áÎ òõ
-ydoi ÒÙ ó¿
+ydoa ï¿½ï¿½
+ydoe ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+ydoi ï¿½ï¿½ ï¿½
 ydoo Ò·
-ydou áÚ Ñì ğĞ ÷ğ
-ydu Ò° ÑÛ
-ydua ÓÊ Ó_
-ydue êİ Ó¼ á» íô
-ydui ò¾
+ydou ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+ydu Ò° ï¿½ï¿½
+ydua ï¿½ï¿½ ï¿½_
+ydue ï¿½ï¿½ Ó¼ ï¿½ ï¿½ï¿½
+ydui ï¿½
 yduo Ó¤
-yduu ÓÄ òÊ ÷î
-ye Óï
-yea ÚË
-yee ÓÀ
-yeee Òê
-yeei Ñè ‘ı
-yeeo Òé Ëµ
-yei µv Óï
-yeia Úİ µš
-yeii µt
-yeiu ÑÈ
+yduu ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+ye ï¿½ï¿½
+yea ï¿½ï¿½
+yee ï¿½ï¿½
+yeee ï¿½ï¿½
+yeei ï¿½ï¿½ ï¿½ï¿½
+yeeo ï¿½ï¿½ Ëµ
+yei ï¿½v ï¿½ï¿½
+yeia ï¿½ï¿½ ï¿½ï¿½
+yeii ï¿½t
+yeiu ï¿½ï¿½
 yeo Ô©
-yeoe Ô£ Ò¥ ÚÍ
-yeoi ÓÕ ÚÄ
-yeou Òè
-yeu Òë
+yeoe Ô£ Ò¥ ï¿½ï¿½
+yeoi ï¿½ï¿½ ï¿½ï¿½
+yeou ï¿½ï¿½
+yeu ï¿½ï¿½
 yeua Û©
 yeue Ú±
-yf Ñù
+yf ï¿½ï¿½
 yfa Ó£
 yfai Ìš
-yfau èÖ Óİ èÃ ØÕ
-yfe —¦ Ñù
-yfei —à
-yfeu –Ô
-yfi ÒÎ
-yfia Ò¬ éĞ èâ ö¹ ˜©
-yfii –— ØÕ
-yfiu —§ –p
-yfo éÜ
-yfoa —{
-yfoe ÓÜ
-yfou èİ
-yfu Ñî
-yfui ö¸
-yfuo éº
-yfuu éÚ
+yfau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+yfe ï¿½ï¿½ ï¿½ï¿½
+yfei ï¿½ï¿½
+yfeu ï¿½ï¿½
+yfi ï¿½ï¿½
+yfia Ò¬ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+yfii ï¿½ï¿½ ï¿½ï¿½
+yfiu ï¿½ï¿½ ï¿½p
+yfo ï¿½ï¿½
+yfoa ï¿½{
+yfoe ï¿½ï¿½
+yfou ï¿½ï¿½
+yfu ï¿½ï¿½
+yfui ï¿½ï¿½
+yfuo ï¿½
+yfuu ï¿½ï¿½
 yg Ò©
 yga Ó¢
-ygau Óª Òğ Ó©
+ygau Óª ï¿½ï¿½ Ó©
 yge Ó«
-ygee İÒ
-ygei Ş² İÎ
+ygee ï¿½ï¿½
+ygei Ş² ï¿½ï¿½
 ygi Ó¨
-ygia Üã
-ygii Ü¿ Óó Ü¾
-ygiu Ñ¿ Üè
+ygia ï¿½ï¿½
+ygii Ü¿ ï¿½ï¿½ Ü¾
+ygiu Ñ¿ ï¿½ï¿½
 ygo Ô·
-ygoa İ¯ İÇ
-ygoe °¬ İö
+ygoa İ¯ ï¿½ï¿½
+ygoe ï¿½ï¿½ ï¿½ï¿½
 ygoi İ¬
-ygou İº Üá İµ
-ygu ÒÕ Ò©
-ygua Òñ
-ygue ÜÓ İ÷
+ygou İº ï¿½ï¿½ İµ
+ygu ï¿½ï¿½ Ò©
+ygua ï¿½ï¿½
+ygue ï¿½ï¿½ ï¿½ï¿½
 ygui Îµ
-yguu ÔÌ İÓ
+yguu ï¿½ï¿½ ï¿½ï¿½
 yh Òª
-yha Ñà
-yhau ÷±
-yhe Óê
-yhi ÑÇ
-yhia õ¦
-yhii ÓÏ ÔÍ
-yhiu ÑÉ
-yho ÑÏ
-yhou šP
+yha ï¿½ï¿½
+yhau ï¿½ï¿½
+yhe ï¿½ï¿½
+yhi ï¿½ï¿½
+yhia ï¿½ï¿½
+yhii ï¿½ï¿½ ï¿½ï¿½
+yhiu ï¿½ï¿½
+yho ï¿½ï¿½
+yhou ï¿½P
 yhu Ò® Òª
-yhua Û³ Û´ ôı
-yhuu ì‰
-yi ÓÃ
-yia Óã íó ÓÃ
-yiau íó
+yhua Û³ Û´ ï¿½ï¿½
+yhuu ï¿½
+yi ï¿½ï¿½
+yia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+yiau ï¿½ï¿½
 yie Ó­
-yiee ÀÖ â¹
-yiei ÔÈ ÷« áş
-yieu Ô¹ Òİ Óü
-yii Óã Ó± Ò»
-yiia Ô³ ñ@
-yiio Ó± ÓÌ ò£ â¢ öÏ
-yio Òû
-yioe âÅ ÷¥ áü
-yioi âÀ
+yiee ï¿½ï¿½ ï¿½
+yiei ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+yieu Ô¹ ï¿½ï¿½ ï¿½ï¿½
+yii ï¿½ï¿½ Ó± Ò»
+yiia Ô³ ï¿½@
+yiio Ó± ï¿½ï¿½ ï¿½ ï¿½ ï¿½ï¿½
+yio ï¿½ï¿½
+yioe ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+yioi ï¿½ï¿½
 yiou Ô§
 yiu Ó¡
-yiue ÒÉ âÂ áñ
-yiui ÒŞ
-yiuo ïr
+yiue ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+yiui ï¿½ï¿½
+yiuo ï¿½r
 yj Ò¡
 yja Ñº
-yjau Ò¾ ŞÚ Şü ×§
+yjau Ò¾ ï¿½ï¿½ ï¿½ï¿½ ×§
 yje Ò´
-yjee ö¯
-yji ÑÚ
-yjia ŞŞ
-yjii ö§
-yjiu Şë
+yjee ï¿½ï¿½
+yji ï¿½ï¿½
+yjia ï¿½ï¿½
+yjii ï¿½ï¿½
+yjiu ï¿½ï¿½
 yjo Óµ Ò¡
-yjoe Ô® Şí
-yjou ÒÖ
-yju Ñï
-yjuu Şò
-yk Óë
+yjoe Ô® ï¿½ï¿½
+yjou ï¿½ï¿½
+yju ï¿½ï¿½
+yjuu ï¿½ï¿½
+yk ï¿½ï¿½
 yka Ó³
-ykau ª
-yke êÌ
-ykee ß® ÒÄ
-ykei êÅ
-ykeu åÂ
-yki ÔÎ Óë
+ykau ï¿½ï¿½
+yke ï¿½ï¿½
+ykee ß® ï¿½ï¿½
+ykei ï¿½ï¿½
+ykeu ï¿½ï¿½
+yki ï¿½ï¿½ ï¿½ï¿½
 ykia Ô¯
 ykii Ô»
-ykio Ò¢ ÒÃ
-yko ÑÀ
-ykoa ÑÅ êÊ
-ykoi Ò½ éó
+ykio Ò¢ ï¿½ï¿½
+yko ï¿½ï¿½
+ykoa ï¿½ï¿½ ï¿½ï¿½
+ykoi Ò½ ï¿½ï¿½
 ykoo Ó°
-ykou Ò× Ñ» ğ° êÀ ì£
-yku ê×
+ykou ï¿½ï¿½ Ñ» ï¿½ ï¿½ï¿½ ï¿½
+yku ï¿½ï¿½
 ykua Û± Ğ°
-ykue ôè
-ykuo é÷ •D
-ykuu Ôş
+ykue ï¿½ï¿½
+ykuo ï¿½ï¿½ ï¿½D
+ykuu ï¿½ï¿½
 yl Ôª
-yla ÓÚ
-ylau ÓÛ è¬ è¹ ö½
+yla ï¿½ï¿½
+ylau ï¿½ï¿½ ï¿½ ï¿½ ï¿½ï¿½
 yle Ô¶
-ylee Óñ
-yleo çü ô
-yleu ÔË ÓØ
-yli çø
-ylii ÔÅ
-yliu çğ «e «_
-ylo ÑŞ Ôª
-yloa ¬r
-yloe Ñş è¤ è¥ çò
-ylou «h
-ylu ÔÆ
+ylee ï¿½ï¿½
+yleo ï¿½ï¿½ ï¿½ï¿½
+yleu ï¿½ï¿½ ï¿½ï¿½
+yli ï¿½ï¿½
+ylii ï¿½ï¿½
+yliu ï¿½ï¿½ ï¿½e ï¿½_
+ylo ï¿½ï¿½ Ôª
+yloa ï¿½r
+yloe ï¿½ï¿½ ï¿½ ï¿½ ï¿½ï¿½
+ylou ï¿½h
+ylu ï¿½ï¿½
 ylua ß
-ym ÓÒ
-yma Ò³ ÓÒ
-ymau Ñâ Ñê ÑÙ éæ ØÉ ØÍ
+ym ï¿½ï¿½
+yma Ò³ ï¿½ï¿½
+ymau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 yme Ô¸
-ymee ÓÈ
+ymee ï¿½ï¿½
 ymi Ó²
-ymia Ñ¹ éì
-ymii ÑĞ
-ymio Ñá ØÌ
-ymiu í¼
+ymia Ñ¹ ï¿½ï¿½
+ymii ï¿½ï¿½
+ymio ï¿½ï¿½ ï¿½ï¿½
+ymiu ï¿½ï¿½
 ymo Ô­
-ymoa Ñã ÷Ê
-ymoe ÷Ğ
-ymu ÓÑ
-ymua Óô
-ymui ³w
-ymuu ŞÌ
-yn ÒÌ
+ymoa ï¿½ï¿½ ï¿½ï¿½
+ymoe ï¿½ï¿½
+ymu ï¿½ï¿½
+ymua ï¿½ï¿½
+ymui ï¿½w
+ymuu ï¿½ï¿½
+yn ï¿½ï¿½
 yna Ó¯
-ynau Óé Òö
-yni åû ÒÌ
-ynia æ« æÌ ‹÷ ‹k
-ynii Š€ Šu
-ynio ‹
-yniu åı
-yno Ñı
-ynoe Ò¦ æÂ ‹„ Š´
-ynu ÔĞ
-ynue æ¥
-yo ÒÆ
-yoa Ñí
-yoau ëµ ë³
-yoe Ñõ
-yoee Ø² óî
+ynau ï¿½ï¿½ ï¿½ï¿½
+yni ï¿½ï¿½ ï¿½ï¿½
+ynia ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½k
+ynii ï¿½ï¿½ ï¿½u
+ynio ï¿½ï¿½
+yniu ï¿½ï¿½
+yno ï¿½ï¿½
+ynoe Ò¦ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+ynu ï¿½ï¿½
+ynue ï¿½
+yo ï¿½ï¿½
+yoa ï¿½ï¿½
+yoau ï¿½ ï¿½
+yoe ï¿½ï¿½
+yoee Ø² ï¿½ï¿½
 yoei Ø¹
-yoeu åÆ
-yoi óŞ
-yoia ë²
-yoii óÄ
-yoo óÛ ÒÆ
-yooi ºm
+yoeu ï¿½ï¿½
+yoi ï¿½ï¿½
+yoia ï¿½
+yoii ï¿½ï¿½
+yoo ï¿½ï¿½ ï¿½ï¿½
+yooi ï¿½m
 you Ø·
-yp ÔÂ
-ypa ëÙ
-ypaa ë¾
-ype ÑÜ
-ypei Ò¸ ÒÜ Ó·
-ypeo áà ô¯ ëô
-ypi Ñü ÔÂ
-ypia ÑÃ
-ypio ëç
-ypiu ÒÈ
-ypo Òó
-ypoa ëé
-ypoe áæ Å„
-ypoi Óù
-ypou ÒÛ
-yq ÔÄ
-yqe ãÕ ÔÄ
+yp ï¿½ï¿½
+ypa ï¿½ï¿½
+ypaa ï¿½
+ype ï¿½ï¿½
+ypei Ò¸ ï¿½ï¿½ Ó·
+ypeo ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+ypi ï¿½ï¿½ ï¿½ï¿½
+ypia ï¿½ï¿½
+ypio ï¿½ï¿½
+ypiu ï¿½ï¿½
+ypo ï¿½ï¿½
+ypoa ï¿½ï¿½
+ypoe ï¿½ï¿½ Å„
+ypoi ï¿½ï¿½
+ypou ï¿½ï¿½
+yq ï¿½ï¿½
+yqe ï¿½ï¿½ ï¿½ï¿½
 yqei Ó
-yqi ãÆ
-yqio ÑË
-yqiu ãĞ
-yqo ÑÖ
+yqi ï¿½ï¿½
+yqio ï¿½ï¿½
+yqiu ï¿½ï¿½
+yqo ï¿½ï¿½
 yr Ó®
-yra Òô Ó®
-yrau Óı Òá Ùø âß ñ¨ Ñ` ÚS
-yre ÒÂ
-yree Ó¦ Òà
-yrei ğö ñ¯
-yreo Ñ÷
-yreu Òâ
-yri ÑÔ
-yria ÛÕ ğé
-yrie ğù
-yrio ÑÕ ŞÈ ğà ŞÄ
-yriu ğê Å±
+yra ï¿½ï¿½ Ó®
+yrau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½` ï¿½S
+yre ï¿½ï¿½
+yree Ó¦ ï¿½ï¿½
+yrei ï¿½ï¿½ ï¿½
+yreo ï¿½ï¿½
+yreu ï¿½ï¿½
+yri ï¿½ï¿½
+yria ï¿½ï¿½ ï¿½ï¿½
+yrie ï¿½ï¿½
+yrio ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+yriu ï¿½ï¿½ Å±
 yro Ò¹ Ó®
-yroa â× ğõ
-yroe ì¶ Ùğ ÷Ó
-yroi ì½
-yroo Ñå
-yrou Ó¥ Òã ÔÏ Òß Ùø Ó¸
-yru ñ«
-yrue Óı Ò± ñ´ Ùğ
+yroa ï¿½ï¿½ ï¿½ï¿½
+yroe ï¿½ ï¿½ï¿½ ï¿½ï¿½
+yroi ï¿½
+yroo ï¿½ï¿½
+yrou Ó¥ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ Ó¸
+yru ï¿½
+yrue ï¿½ï¿½ Ò± ï¿½ ï¿½ï¿½
 yrui Ó¹
-yruo Ññ
+yruo ï¿½ï¿½
 yruu Óº
-ys Óà
-ysa Óá
-ysau êì Ùß Ù¶
-yse ÒÀ
-yseo ÒÇ Ñğ
-yseu ÓÆ Óú Óâ
-ysi ÓÅ Óà
-ysia Ù² ‚œ
-ysio ÒĞ ÓÓ Ù§ m
-ysiu Øó ÙÈ ½Ä Øñ
-yso Ñö
+ys ï¿½ï¿½
+ysa ï¿½ï¿½
+ysau ï¿½ï¿½ ï¿½ï¿½ Ù¶
+yse ï¿½ï¿½
+yseo ï¿½ï¿½ ï¿½ï¿½
+yseu ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+ysi ï¿½ï¿½ ï¿½ï¿½
+ysia Ù² ï¿½ï¿½
+ysio ï¿½ï¿½ ï¿½ï¿½ Ù§ ï¿½m
+ysiu ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+yso ï¿½ï¿½
 ysoe Ù«
-ysoi Øü Øı Øî
+ysoi ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 ysou Ó¶
-ysu ÒÚ
+ysu ï¿½ï¿½
 ysue Ò« Ù¸
-ysui ÒÁ
-yt Ñø
-yta ÑÌ
-ytaa Ñò Ñ¾ Øß
-ytau Òæ ìÏ Ÿ±
-yte Òå
-yteo Ñ× ìÍ  D ìÈ
-yteu í¦
-yti Ñò éà
-ytio éà Á~
-yto Ñæ Ñø
-ytoa ìÇ ìÛ ŸS
-ytou Áh ûo
-ytu ìÚ
-ytuo ì¾
+ysui ï¿½ï¿½
+yt ï¿½ï¿½
+yta ï¿½ï¿½
+ytaa ï¿½ï¿½ Ñ¾ ï¿½ï¿½
+ytau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+yte ï¿½ï¿½
+yteo ï¿½ï¿½ ï¿½ï¿½ ï¿½D ï¿½ï¿½
+yteu ï¿½ï¿½
+yti ï¿½ï¿½ ï¿½ï¿½
+ytio ï¿½ï¿½ ï¿½~
+yto ï¿½ï¿½ ï¿½ï¿½
+ytoa ï¿½ï¿½ ï¿½ï¿½ ï¿½S
+ytou ï¿½h ï¿½o
+ytu ï¿½ï¿½
+ytuo ï¿½
 yu Ô½
-yua ÑÎ
-yuaa Ø×
-yuau Ô¬ ÓÔ Ûü ¹È
+yua ï¿½ï¿½
+yuaa ï¿½ï¿½
+yuau Ô¬ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 yue Ò£
-yuee Ûù V
-yuei Ü² Ü­ ˆÖ
-yui Óò Ô½
-yuia Ò¼ Ô« ˆ Ûë Ü§
-yuii ë¼
-yuio Ü« ëÈ
-yuiu Ñß
-yuo Óû
+yuee ï¿½ï¿½ ï¿½V
+yuei Ü² Ü­ ï¿½ï¿½
+yui ï¿½ï¿½ Ô½
+yuia Ò¼ Ô« ï¿½ï¿½ ï¿½ï¿½ Ü§
+yuii ï¿½
+yuio Ü« ï¿½ï¿½
+yuiu ï¿½ï¿½
+yuo ï¿½ï¿½
 yuoa Ò¨
 yuoe Ø³
-yuoo Ûß
-yuou ğÁ ğÎ ôí
+yuoo ï¿½ï¿½
+yuou ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 yuu Ò¯
 yuua ÚŒ
-yuui Ûó Ûİ
-yuuu ÒÒ
+yuui ï¿½ï¿½ ï¿½ï¿½
+yuuu ï¿½ï¿½
 yv Ô¼
 yva Ó§
-yvau çß
-yve çÛ
-yveo ÒÍ çË
-yvi æú
-yvii ç¡
-yvio ÒÍ
-yvo Ñé Ô¼
+yvau ï¿½ï¿½
+yve ï¿½ï¿½
+yveo ï¿½ï¿½ ï¿½ï¿½
+yvi ï¿½ï¿½
+yvii ï¿½
+yvio ï¿½ï¿½
+yvo ï¿½ï¿½ Ô¼
 yvu Ôµ
-yvue æä Ô¦ Òï
-yvuo Ó×
-yw Óî
-ywa ÒË
-ywau Ñç Ô¢ ã³ ã¨ âó
-ywe ÔÃ
-ywei Óş ã¼ ñ¿
-yweu ã¢
-ywi ÓÇ Óî
-ywia Òú
-ywio âû å¶
-ywiu ‘î Œh
+yvue ï¿½ï¿½ Ô¦ ï¿½ï¿½
+yvuo ï¿½ï¿½
+yw ï¿½ï¿½
+ywa ï¿½ï¿½
+ywau ï¿½ï¿½ Ô¢ ï¿½ ï¿½ ï¿½ï¿½
+ywe ï¿½ï¿½
+ywei ï¿½ï¿½ ï¿½ ï¿½
+yweu ï¿½
+ywi ï¿½ï¿½ ï¿½ï¿½
+ywia ï¿½ï¿½
+ywio ï¿½ï¿½ ï¿½
+ywiu ï¿½ï¿½ ï¿½h
 ywo Ò¤
-ywoe Óä ñ¾
-ywoo ñÁ
-ywu âù
-ywue âø
-ywuu Òä ñº
+ywoe ï¿½ï¿½ ï¿½
+ywoo ï¿½ï¿½
+ywu ï¿½ï¿½
+ywue ï¿½ï¿½
+ywuu ï¿½ï¿½ ï¿½
 yx Ò²
-yxa Ñô
-yxai Úç
-yxau Óç ÔÉ
+yxa ï¿½ï¿½
+yxai ï¿½ï¿½
+yxau ï¿½ï¿½ ï¿½ï¿½
 yxe Ôº
-yxee ñâ
-yxo Òõ
-yxoa ëT
-yxou Òş ÌÕ
+yxee ï¿½ï¿½
+yxo ï¿½ï¿½
+yxoa ï¿½T
+yxou ï¿½ï¿½ ï¿½ï¿½
 yxu Ò²
-yy Òø
-yya ÔÀ
-yyaa Øæ
-yyau ÓË ÷ø î÷ ÷ú
-yye Ñû
-yyee Óí ô§
-yyei ïŞ ïî Ò¿
-yyeo ï×
-yyeu ë»
-yyi ÔÁ
-yyii îÚ
-yyio îğ ô¨
-yyiu îá îô
-yyo Óß
-yyoe ï¢
+yy ï¿½ï¿½
+yya ï¿½ï¿½
+yyaa ï¿½ï¿½
+yyau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+yye ï¿½ï¿½
+yyee ï¿½ï¿½ ï¿½ï¿½
+yyei ï¿½ï¿½ ï¿½ï¿½ Ò¿
+yyeo ï¿½ï¿½
+yyeu ï¿½
+yyi ï¿½ï¿½
+yyii ï¿½ï¿½
+yyio ï¿½ï¿½ ï¿½ï¿½
+yyiu ï¿½ï¿½ ï¿½ï¿½
+yyo ï¿½ï¿½
+yyoe ï¿½
 yyou Ô¿ Ç¦
-yyu ÑÓ Òø
-yyua àh
-yyuo è–
-yyuu îÆ
-z ÔÚ
+yyu ï¿½ï¿½ ï¿½ï¿½
+yyua ï¿½h
+yyuo ï¿½
+yyuu ï¿½ï¿½
+z ï¿½ï¿½
 za Ö»
-zaa ×ì
-zaai ×ã Öº ßÚ
-zaau Ôê Ôë ¾× àÜ õî
-zae ×Ù
-zaee ßå
-zaeo Ôä íé õÜ †ê
-zai ßõ
-zaia Ö¨ Ôû ßî à© ³° †¨
-zaio …ø ×Ä õÅ
-zaiu ßÆ ßù
+zaa ï¿½ï¿½
+zaai ï¿½ï¿½ Öº ï¿½ï¿½
+zaau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zae ï¿½ï¿½
+zaee ï¿½ï¿½
+zaeo ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zai ï¿½ï¿½
+zaia Ö¨ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zaio ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zaiu ï¿½ï¿½ ï¿½ï¿½
 zao Õ¦ Ö»
-zaoa ÔÛ ßğ
-zaoe ßò
-zaoi ß¸ õà õò
-zaoo õÙ
-zaou Öä ßú
-zau Öö
-zb ÕÅ
-zba Öç
-zbau Öã åë
-zbe Öà
+zaoa ï¿½ï¿½ ï¿½ï¿½
+zaoe ï¿½ï¿½
+zaoi ß¸ ï¿½ï¿½ ï¿½ï¿½
+zaoo ï¿½ï¿½
+zaou ï¿½ï¿½ ï¿½ï¿½
+zau ï¿½ï¿½
+zb ï¿½ï¿½
+zba ï¿½ï¿½
+zbau ï¿½ï¿½ ï¿½ï¿½
+zbe ï¿½ï¿½
 zbi Õ¹
-zbo Êô ÕÅ
-zc ÕÇ
-zca Ôè
-zcai Õ´ ä¥ ›
-zcau ×Ç Ôé ä·
+zbo ï¿½ï¿½ ï¿½ï¿½
+zc ï¿½ï¿½
+zca ï¿½ï¿½
+zcai Õ´ ï¿½ ï¿½ï¿½
+zcau ï¿½ï¿½ ï¿½ï¿½ ï¿½
 zce ×¢
-zcee ×Ò
-zcei ÕÄ
-zceo ÖŞ ×Ì œÑ
+zcee ï¿½ï¿½
+zcei ï¿½ï¿½
+zceo ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 zci Ö­
-zcia Ôü Õã ÖÍ Õ¿ ä¾
-zcii ×Õ äÚ
-zcio äÃ
-zciu ãç
-zco µÔ
-zcoi ä¨
-zcou äó šõ
-zcu ÖÎ ÕÇ
-zcua œí
-zcue Ôó åª …¬
-zcuo ÕÓ
-zcuu ×Í
-zd ÖĞ
-zda Ôò ÖĞ
-zdai ×ï Ö¡ ÕÖ íö
-zdau áÌ ÖÑ ëĞ ÖÄ
+zcia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ Õ¿ ï¿½
+zcii ï¿½ï¿½ ï¿½ï¿½
+zcio ï¿½ï¿½
+zciu ï¿½ï¿½
+zco ï¿½ï¿½
+zcoi ï¿½
+zcou ï¿½ï¿½ ï¿½ï¿½
+zcu ï¿½ï¿½ ï¿½ï¿½
+zcua ï¿½ï¿½
+zcue ï¿½ï¿½ ï¿½ ï¿½ï¿½
+zcuo ï¿½ï¿½
+zcuu ï¿½ï¿½
+zd ï¿½ï¿½
+zda ï¿½ï¿½ ï¿½ï¿½
+zdai ï¿½ï¿½ Ö¡ ï¿½ï¿½ ï¿½ï¿½
+zdau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 zde ×¬
-zdee Öü
-zdei ´± Ôß Öû áÖ ó¯ á¤ Œ
-zdeo Ôù îÀ áÑ
-zdeu ÖÒ
-zdi Ôô
-zdia ÖÃ ÖÅ
-zdii àı
-zdio êâ ò§
-zdiu òÎ Õ¸
-zdo ÕË
-zdoe Õ£ î³
-zdoi ÕÊ Öë àù Ö© òÆ
-zdou Õö Õ° á¿ ÚQ
-zdu Öú
-zdua ÍI
-zdui Öõ
+zdee ï¿½ï¿½
+zdei ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ ï¿½ï¿½
+zdeo ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zdeu ï¿½ï¿½
+zdi ï¿½ï¿½
+zdia ï¿½ï¿½ ï¿½ï¿½
+zdii ï¿½ï¿½
+zdio ï¿½ï¿½ ï¿½
+zdiu ï¿½ï¿½ Õ¸
+zdo ï¿½ï¿½
+zdoe Õ£ ï¿½
+zdoi ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ Ö© ï¿½ï¿½
+zdou ï¿½ï¿½ Õ° ï¿½ ï¿½Q
+zdu ï¿½ï¿½
+zdua ï¿½I
+zdui ï¿½ï¿½
 ze Ö®
 zea ×£
-zeai ìõ ìí
-zeau ×æ ×ç ¶A Ê¶
-zee ÚØ Ö®
-zeei ÚÑ ×»
-zeeo ìú
+zeai ï¿½ï¿½ ï¿½ï¿½
+zeau ï¿½ï¿½ ï¿½ï¿½ ï¿½A Ê¶
+zee ï¿½ï¿½ Ö®
+zeei ï¿½ï¿½ ×»
+zeeo ï¿½ï¿½
 zei Ö¤
-zeia Öî ¶G ÚÁ
+zeia ï¿½ï¿½ ï¿½G ï¿½ï¿½
 zeii ×
-zeio Ú£ ÚÂ
-zeiu ÚÚ
-zeo Õï
-zeoi Öï Õ© ìñ
-zeou ìó Úº Öß ğ² ÚŞ µo
+zeio Ú£ ï¿½ï¿½
+zeiu ï¿½ï¿½
+zeo ï¿½ï¿½
+zeoi ï¿½ï¿½ Õ© ï¿½ï¿½
+zeou ï¿½ï¿½ Úº ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½o
 zeu Ú¯
-zeue ñŞ
-zeui ÕØ
-zf ×À
-zfa Õ¼ ×À
-zfai èå èş ö·
-zfau Õê ×¿ è× ²é êß –Ç
-zfe Öù
-zfee ×Ø Õ¥ Êõ
-zfei ×® è÷ ÕÁ ö¤
-zfeo é×
-zfeu Õí éÆ
-zfi Õ½ ×À
-zfia ×¿ Ö¦ Ö² èÎ é« é© ˜u —„
-zfii Ö¹ Õ» é»
-zfio ÕÈ èÏ íÎ
-zfiu èä
-zfo Öê
+zeue ï¿½ï¿½
+zeui ï¿½ï¿½
+zf ï¿½ï¿½
+zfa Õ¼ ï¿½ï¿½
+zfai ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zfau ï¿½ï¿½ ×¿ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zfe ï¿½ï¿½
+zfee ï¿½ï¿½ Õ¥ ï¿½ï¿½
+zfei ×® ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zfeo ï¿½ï¿½
+zfeu ï¿½ï¿½ ï¿½ï¿½
+zfi Õ½ ï¿½ï¿½
+zfia ×¿ Ö¦ Ö² ï¿½ï¿½ ï¿½ ï¿½ ï¿½u ï¿½ï¿½
+zfii Ö¹ Õ» ï¿½
+zfio ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zfiu ï¿½ï¿½
+zfo ï¿½ï¿½
 zfoa ×µ
-zfoe èÈ
-zfoi ×õ
-zfoo èÙ
-zfou õş Õ¤ –° —¹
-zfu ×Ï
-zfue èÌ
-zfuu Ôı
-zg Öø
-zga ÜÆ
-zgai Üë
+zfoe ï¿½ï¿½
+zfoi ï¿½ï¿½
+zfoo ï¿½ï¿½
+zfou ï¿½ï¿½ Õ¤ ï¿½ï¿½ ï¿½ï¿½
+zfu ï¿½ï¿½
+zfue ï¿½ï¿½
+zfuu ï¿½ï¿½
+zg ï¿½ï¿½
+zga ï¿½ï¿½
+zgai ï¿½ï¿½
 zgau Ş©
-zge Õô Ö¥
-zgee Ôå ÜÑ İÏ Ær
-zgei Õá
+zge ï¿½ï¿½ Ö¥
+zgee ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½r
+zgei ï¿½ï¿½
 zgeu Ö¥
-zgi ²Ø Öø
+zgi ï¿½ï¿½ ï¿½ï¿½
 zgia Õº
-zgii İè
-zgio Ôá Èœ
-zgo Üï
+zgii ï¿½ï¿½
+zgio ï¿½ï¿½ Èœ
+zgo ï¿½ï¿½
 zgoa Æ 
 zgou Æ‡
-zgu Õô ×Â
-zgua ×Â
+zgu ï¿½ï¿½ ï¿½ï¿½
+zgua ï¿½ï¿½
 zguu İ§
-zh ÔÙ
+zh ï¿½ï¿½
 zha Ö±
-zhai ÷Ú
-zhau Õß Ö° ÔÕ
-zhe Öó
-zhee Ôæ Õå ××
-zhei ×í
-zheu Ôâ
-zhi Õı ÔÙ
-zhia Õû ÔÔ ôü ôI
-zhiu ÔØ Õç
-zho Õæ
-zhoi Õş õ¡
-zhou ³¯ õ¥ ×Ã
+zhai ï¿½ï¿½
+zhau ï¿½ï¿½ Ö° ï¿½ï¿½
+zhe ï¿½ï¿½
+zhee ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zhei ï¿½ï¿½
+zheu ï¿½ï¿½
+zhi ï¿½ï¿½ ï¿½ï¿½
+zhia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½I
+zhiu ï¿½ï¿½ ï¿½ï¿½
+zho ï¿½ï¿½
+zhoi ï¿½ï¿½ ï¿½ï¿½
+zhou ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 zhu Ö§
 zhua Û¸
-zhue ôã
-zi ÖÜ
+zhue ï¿½ï¿½
+zi ï¿½ï¿½
 zia Ö¼
-ziai ïs
-ziau êÃ ó® ÷Œ
+ziai ï¿½s
+ziau ï¿½ï¿½ ï¿½ ï¿½ï¿½
 zie Õ²
-ziei â¯ ø@
-zieo ÖË ö£ ÷®
-zii Öí ÖÜ
-ziia éÍ öí âª
-ziii öë
-zio Õø
-zioi ÷‡
-ziu Õù
-ziua ×Ş
-ziui âÍ
-ziuo Öå
-ziuu öö ÊÏ
-zj ÕÒ
+ziei ï¿½ ï¿½@
+zieo ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zii ï¿½ï¿½ ï¿½ï¿½
+ziia ï¿½ï¿½ ï¿½ï¿½ ï¿½
+ziii ï¿½ï¿½
+zio ï¿½ï¿½
+zioi ï¿½ï¿½
+ziu ï¿½ï¿½
+ziua ï¿½ï¿½
+ziui ï¿½ï¿½
+ziuo ï¿½ï¿½
+ziuu ï¿½ï¿½ ï¿½ï¿½
+zj ï¿½ï¿½
 zja ×§
-zjau ×½ ÕÜ Õİ òØ êŞ ´é
+zjau ×½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 zje ×²
-zjee ’Ÿ
-zjei Õª Öô Şı ë
-zjeo ÖÀ ß¤
-zji Õğ ÕÒ
-zjia ÎÎ Şê
-zjii ×á
-zjio Õñ
+zjee ï¿½ï¿½
+zjei Õª ï¿½ï¿½ ï¿½ï¿½ ï¿½
+zjeo ï¿½ï¿½ ß¤
+zji ï¿½ï¿½ ï¿½ï¿½
+zjia ï¿½ï¿½ ï¿½ï¿½
+zjii ï¿½ï¿½
+zjio ï¿½ï¿½
 zjo Ö¸
-zjoi ÔÜ ß¬ Ö¿ ’€
-zjoo ×¥ ÕÛ
-zjou Õõ ğº ’W
-zju ÕĞ
-zjua ×¾ Õü
-zjue Ôñ ßª ß¡
-zjui ×« Şø
+zjoi ï¿½ï¿½ ß¬ Ö¿ ï¿½ï¿½
+zjoo ×¥ ï¿½ï¿½
+zjou ï¿½ï¿½ ï¿½ ï¿½W
+zju ï¿½ï¿½
+zjua ×¾ ï¿½ï¿½
+zjue ï¿½ï¿½ ßª ß¡
+zjui ×« ï¿½ï¿½
 zjuo Ö´
-zjuu Ôú ŞÙ ôê
-zk Ôç
-zka Ôİ
-zkau Öá ÔÑ éò
-zke ÕÕ
-zkee •×
-zkei ÕŞ
+zjuu ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zk ï¿½ï¿½
+zka ï¿½ï¿½
+zkau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zke ï¿½ï¿½
+zkee ï¿½ï¿½
+zkei ï¿½ï¿½
 zkeu Ş„
-zki ×î Ôç
-zkia ÖÁ éü
-zkii ×ª Õé ØÓ
-zkio ê¾
-zkiu éù
-zko ×ò
-zkoe éô öÉ
-zkoi ÖÂ
-zkoo Õ¶ Şb
-zku Ôş
+zki ï¿½ï¿½ ï¿½ï¿½
+zkia ï¿½ï¿½ ï¿½ï¿½
+zkii ×ª ï¿½ï¿½ ï¿½ï¿½
+zkio ï¿½
+zkiu ï¿½ï¿½
+zko ï¿½ï¿½
+zkoe ï¿½ï¿½ ï¿½ï¿½
+zkoi ï¿½ï¿½
+zkoo Õ¶ ï¿½b
+zku ï¿½ï¿½
 zkua Û¤
 zkui Õ·
-zkuo ÕÑ
-zkuu ê¢ ÍÍ
+zkuo ï¿½ï¿½
+zkuu ï¿½ ï¿½ï¿½
 zl ×¨
-zla Ôğ
+zla ï¿½ï¿½
 zlau Õµ ×¸
-zle è° ×¨
-zli ×à
-zlii ¬‘
-zlio ×Á
-zlo Öé
-zloe Õä
-zloi è¶
-zlu ñè
-zluu ¬ƒ
-zm ×ó
-zma Õè
-zme Öğ
-zmee ÕÉ
+zle ï¿½ ×¨
+zli ï¿½ï¿½
+zlii ï¿½ï¿½
+zlio ï¿½ï¿½
+zlo ï¿½ï¿½
+zloe ï¿½ï¿½
+zloi ï¿½
+zlu ï¿½ï¿½
+zluu ï¿½ï¿½
+zm ï¿½ï¿½
+zma ï¿½ï¿½
+zme ï¿½ï¿½
+zmee ï¿½ï¿½
 zmei Ô€
-zmi ÔÒ ÔÚ ×ó
-zmia Ö³ ê°
-zmii ×© íØ
-zmo ØÆ
-zmoi íÄ
-zmoo í½
-zmou íİ
-zn ÔÓ
-zna ÕÙ
-znau æ¨
-zne æÑ
-zni ÔÓ
-zno æ¢
-znou ‹B
-zo ÖÖ
-zoa Öª ÖÖ
-zoaa ÖÆ
+zmi ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zmia Ö³ ï¿½
+zmii ×© ï¿½ï¿½
+zmo ï¿½ï¿½
+zmoi ï¿½ï¿½
+zmoo ï¿½ï¿½
+zmou ï¿½ï¿½
+zn ï¿½ï¿½
+zna ï¿½ï¿½
+znau ï¿½
+zne ï¿½ï¿½
+zni ï¿½ï¿½
+zno ï¿½
+znou ï¿½B
+zo ï¿½ï¿½
+zoa Öª ï¿½ï¿½
+zoaa ï¿½ï¿½
 zoai Õ§ Õ±
-zoau ×â ÔŞ ÖÇ
-zoe Ôõ
-zoee Öì ³¤
-zoei ·r
-zoeu Ôì åÅ
-zoi ÖØ
-zoia Öş óç ğ¡ ô¦
-zoii Õ§ óÃ óå
-zoio óğ
-zoiu ô¢
-zoo Öñ
-zooa ÖÉ ïô
-zooi ÖÈ óĞ ºr
-zooo óÉ
-zoou óİ óÊ ïö
+zoau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zoe ï¿½ï¿½
+zoee ï¿½ï¿½ ï¿½ï¿½
+zoei ï¿½r
+zoeu ï¿½ï¿½ ï¿½ï¿½
+zoi ï¿½ï¿½
+zoia ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½
+zoii Õ§ ï¿½ï¿½ ï¿½ï¿½
+zoio ï¿½ï¿½
+zoiu ï¿½ï¿½
+zoo ï¿½ï¿½
+zooa ï¿½ï¿½ ï¿½ï¿½
+zooi ï¿½ï¿½ ï¿½ï¿½ ï¿½r
+zooo ï¿½ï¿½
+zoou ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 zou ×­
 zoua Û¥
-zouu ×ë
-zp Ôà
-zpa Ö×
-zpau áç ô¶ ô±
-zpe ëŞ Ôà
-zpee ×¦ ÖÛ ëê ëù
-zpi ÖÊ
-zpia Õ÷ Öâ Ö« Ğq
-zpiu ëÆ
-zpo ÕÍ
-zpoe ëÓ
-zpoi ô· ëÑ ÅH
-zpou Ö¬ ëÕ
+zouu ï¿½ï¿½
+zp ï¿½ï¿½
+zpa ï¿½ï¿½
+zpau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zpe ï¿½ï¿½ ï¿½ï¿½
+zpee ×¦ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zpi ï¿½ï¿½
+zpia ï¿½ï¿½ ï¿½ï¿½ Ö« ï¿½q
+zpiu ï¿½ï¿½
+zpo ï¿½ï¿½
+zpoe ï¿½ï¿½
+zpoi ï¿½ï¿½ ï¿½ï¿½ ï¿½H
+zpou Ö¬ ï¿½ï¿½
 zpu Ø´
 zq Õ¢
 zqa Õ¢
-zr Õâ
+zr ï¿½ï¿½
 zra Õ¾
-zrau ÕÂ ×Ê ÖÔ ×É
-zre ×° Õâ
-zrei ÕÎ ÷æ ğæ
-zreo ôÒ
-zreu ÕÚ í§ í° ß
-zri Ö÷
-zria ÕÂ ×³ ×¯ Ö¢ ğë
-zrii ÖÌ
-zrio ×´ Õ« ²ü ğñ
-zriu ¯b
+zrau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zre ×° ï¿½ï¿½
+zrei ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zreo ï¿½ï¿½
+zreu ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ß
+zri ï¿½ï¿½
+zria ï¿½ï¿½ ×³ ×¯ Ö¢ ï¿½ï¿½
+zrii ï¿½ï¿½
+zrio ×´ Õ« ï¿½ï¿½ ï¿½ï¿½
+zriu ï¿½b
 zro ×¼
-zroe ×ù ×ä Õî ¯S
-zroi ×å ì¹ ğä
-zroo ÕÃ
-zrou ÖÔ ğÑ ñ©
+zroe ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½S
+zroi ï¿½ï¿½ ï¿½ ï¿½ï¿½
+zroo ï¿½ï¿½
+zrou ï¿½ï¿½ ï¿½ï¿½ ï¿½
 zru ×±
 zrua Ûµ
-zruo ×Ë
-zs ×ö
-zsa ÖÙ
-zsai Õì Ù¾
-zsau ÙŞ ²à
+zruo ï¿½ï¿½
+zs ï¿½ï¿½
+zsa ï¿½ï¿½
+zsai ï¿½ï¿½ Ù¾
+zsau ï¿½ï¿½ ï¿½ï¿½
 zse ×¡
-zsee Øù ‚
-zsei ö¿ Ù×
-zseo ƒV
-zsi ×ø ×ö
+zsee ï¿½ï¿½ ï¿½ï¿½
+zsei ï¿½ï¿½ ï¿½ï¿½
+zseo ï¿½V
+zsi ï¿½ï¿½ ï¿½ï¿½
 zsia Öµ
-zsii Õ® ´«
-zsio ÕÌ ×ô
+zsii Õ® ï¿½ï¿½
+zsio ï¿½ï¿½ ï¿½ï¿½
 zsiu Ö¶
-zso ×÷
-zsoa ÙÕ
-zsoe ÖÚ
-zsoi ÕÆ Ùª
-zsou ÙÌ Øë
-zsu ×Ğ
-zsui ƒQ
-zt ×Å
-zta Ôø ×Å
-ztaa Öİ
-ztai Õ³ ìÌ
-ztau Ôï Öò ³ã
-zte ×Ü
-ztee ôÕ
-ztei ìÄ
-zteu ×ñ
-zti ×ğ
-ztia Ôã Ôî
-ztiu êµ
+zso ï¿½ï¿½
+zsoa ï¿½ï¿½
+zsoe ï¿½ï¿½
+zsoi ï¿½ï¿½ Ùª
+zsou ï¿½ï¿½ ï¿½ï¿½
+zsu ï¿½ï¿½
+zsui ï¿½Q
+zt ï¿½ï¿½
+zta ï¿½ï¿½ ï¿½ï¿½
+ztaa ï¿½ï¿½
+ztai Õ³ ï¿½ï¿½
+ztau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zte ï¿½ï¿½
+ztee ï¿½ï¿½
+ztei ï¿½ï¿½
+zteu ï¿½ï¿½
+zti ï¿½ï¿½
+ztia ï¿½ï¿½ ï¿½ï¿½
+ztiu ï¿½
 zto Õ¨
-ztoa ŸĞ
-ztou ×Æ ôØ
+ztoa ï¿½ï¿½
+ztou ï¿½ï¿½ ï¿½ï¿½
 ztu Ö£
-ztua ×Ñ æÜ
-ztuu ×È
-zu ×ß
-zua Ö· ×ß
-zuau ó§
+ztua ï¿½ï¿½ ï¿½ï¿½
+ztuu ï¿½ï¿½
+zu ï¿½ï¿½
+zua Ö· ï¿½ï¿½
+zuau ï¿½
 zue Ö¾
-zuei ôô
-zueo Ôö
-zui †´
-zuia ô÷ Ûú
-zuio î\
-zuo ÕÔ
-zuoa ÛÚ
-zuoi ôõ
-zuoo õô
-zuou ôí
-zuu Õ×
-zv ×é
-zva Ö¯ ×é
-zvau çŞ æà çØ
+zuei ï¿½ï¿½
+zueo ï¿½ï¿½
+zui ï¿½ï¿½
+zuia ï¿½ï¿½ ï¿½ï¿½
+zuio ï¿½\
+zuo ï¿½ï¿½
+zuoa ï¿½ï¿½
+zuoi ï¿½ï¿½
+zuoo ï¿½ï¿½
+zuou ï¿½ï¿½
+zuu ï¿½ï¿½
+zv ï¿½ï¿½
+zva Ö¯ ï¿½ï¿½
+zvau ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
 zve ×¤
-zvee ×Û ÕÀ
-zveo çÕ
-zvi Öè
-zvia æû çÇ
+zvee ï¿½ï¿½ ï¿½ï¿½
+zveo ï¿½ï¿½
+zvi ï¿½ï¿½
+zvia ï¿½ï¿½ ï¿½ï¿½
 zvo Ö½
-zvoa æí çÄ ½É
-zvoe ×İ
-zvoi åé çÚ
-zvou ÖÕ ç§ æã
+zvoa ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zvoe ï¿½ï¿½
+zvoi ï¿½ï¿½ ï¿½ï¿½
+zvou ï¿½ï¿½ ï¿½ ï¿½ï¿½
 zvu ×º
-zvui Àƒ
-zvuu ç»
-zw ×Ö
-zwa Öæ
-zwau ã·
-zwe ÔÖ
-zwei Ô×
-zweo Ô÷
-zwi ×Ú
-zwia Õ¯ Õú âå
-zwiu ÖÏ ñ¸
+zvui ï¿½ï¿½
+zvuu ï¿½
+zw ï¿½ï¿½
+zwa ï¿½ï¿½
+zwau ï¿½
+zwe ï¿½ï¿½
+zwei ï¿½ï¿½
+zweo ï¿½ï¿½
+zwi ï¿½ï¿½
+zwia Õ¯ ï¿½ï¿½ ï¿½ï¿½
+zwiu ï¿½ï¿½ ï¿½
 zwo Õ¬
-zwoe âì
-zwoi Õ­ âô ‘V
-zwu ×Ö
-zx ×Ó
-zxa ×è
-zxai Úì
-zxe ÕÏ
-zxeo  ™
-zxi Õó ×Ó
-zxia ×¹ Úî
-zxio ŞÊ
-zxo ×Î
-zxoi Úè
-zxu ŒI
-zxuu æï
-zy ×Ô
-zya ÖÓ
-zyaa îÈ
-zyai ×ê
-zyau ïí Õ¡ ï­
+zwoe ï¿½ï¿½
+zwoi Õ­ ï¿½ï¿½ ï¿½V
+zwu ï¿½ï¿½
+zx ï¿½ï¿½
+zxa ï¿½ï¿½
+zxai ï¿½ï¿½
+zxe ï¿½ï¿½
+zxeo ï¿½ï¿½
+zxi ï¿½ï¿½ ï¿½ï¿½
+zxia ×¹ ï¿½ï¿½
+zxio ï¿½ï¿½
+zxo ï¿½ï¿½
+zxoi ï¿½ï¿½
+zxu ï¿½I
+zxuu ï¿½ï¿½
+zy ï¿½ï¿½
+zya ï¿½ï¿½
+zyaa ï¿½ï¿½
+zyai ï¿½ï¿½
+zyau ï¿½ï¿½ Õ¡ ï¿½
 zye ×·
-zyei ïß
-zyeo éC
-zyi Õò ×Ô
-zyia Õë Õà îÛ ÷ş
-zyii Öı
-zyiu Ôí
+zyei ï¿½ï¿½
+zyeo ï¿½C
+zyi ï¿½ï¿½ ï¿½ï¿½
+zyia ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½
+zyii ï¿½ï¿½
+zyiu ï¿½ï¿½
 zyo ×¶
-zyoi ïñ îù
-zyoo é@
-zyou ï£
-zyu ïÅ
-^ba ßÁ
-^bc ²´
-^be ±â
-^bf —”
-^bf è¼
+zyoi ï¿½ï¿½ ï¿½ï¿½
+zyoo ï¿½@
+zyou ï¿½
+zyu ï¿½ï¿½
+^ba ï¿½ï¿½
+^bc ï¿½ï¿½
+^be ï¿½ï¿½
+^bf ï¿½ï¿½
+^bf ï¿½
 ^bg Ë‘
-^bj “s
-^bj °Ç
-^bk ÆØ
-^bk ±©
-^bl çã
-^bm °õ
-^bp °ò
-^bs ±¤
-^bs ±ã
-^bx Úé
-^ca ßÚ
-^ca àÜ
-^ca †®
-^ca ³°
-^ca Ôû
-^cc ³Î
-^cc ²Î
-^cd ´±
-^cf ²é
-^cg ²Ø
-^ch ³¯
-^ch õ¡
-^cj ´é
-^cj ²ô
-^ck ³µ
-^ck ³×
-^cm ²Ş
-^cn ‹S
-^cn ‹B
-^co ³Ë
-^co ³¤
-^cr Ğó
-^cr ²ü
-^cs ´«
-^cs ³ğ
-^cs ²à
-^cs ‚m
-^cs ÉÑ
-^cs ËÅ
-^ct Ôø
-^ct ìÌ
-^ct ŸĞ
-^cw ã®
-^cy ³ô
+^bj ï¿½s
+^bj ï¿½ï¿½
+^bk ï¿½ï¿½
+^bk ï¿½ï¿½
+^bl ï¿½ï¿½
+^bm ï¿½ï¿½
+^bp ï¿½ï¿½
+^bs ï¿½ï¿½
+^bs ï¿½ï¿½
+^bx ï¿½ï¿½
+^ca ï¿½ï¿½
+^ca ï¿½ï¿½
+^ca ï¿½ï¿½
+^ca ï¿½ï¿½
+^ca ï¿½ï¿½
+^cc ï¿½ï¿½
+^cc ï¿½ï¿½
+^cd ï¿½ï¿½
+^cf ï¿½ï¿½
+^cg ï¿½ï¿½
+^ch ï¿½ï¿½
+^ch ï¿½ï¿½
+^cj ï¿½ï¿½
+^cj ï¿½ï¿½
+^ck ï¿½ï¿½
+^ck ï¿½ï¿½
+^cm ï¿½ï¿½
+^cn ï¿½S
+^cn ï¿½B
+^co ï¿½ï¿½
+^co ï¿½ï¿½
+^cr ï¿½ï¿½
+^cr ï¿½ï¿½
+^cs ï¿½ï¿½
+^cs ï¿½ï¿½
+^cs ï¿½ï¿½
+^cs ï¿½m
+^cs ï¿½ï¿½
+^cs ï¿½ï¿½
+^ct ï¿½ï¿½
+^ct ï¿½ï¿½
+^ct ï¿½ï¿½
+^cw ï¿½
+^cy ï¿½ï¿½
 ^da ß¶
-^da ¶×
-^da ´ô
-^da àª
-^dc í³
-^dc µÔ
-^dd á¼
-^dd î®
-^dd àü
-^dd ¶Ú
-^de µ÷
-^df èŞ
-^df ˜J
-^dj µ§
-^dl ìâ
-^ds µè
-^dt µ¥
-^du Ûæ
-^dv ææ
-^dy îõ
-^dy ï¢
-^dy îú
-^fe ·¿
-^fm ·ñ
-^fo ·±
-^fp áİ
-^fp ¸¬
-^fr ·ë
-^fu ·¬
-^fu ˆ¡
-^ga …î
-^ga †y
-^ga ¿§
-^gc ñæ
-^gd ¸ò
-^gf ¹ñ
-^gf èí
+^da ï¿½ï¿½
+^da ï¿½ï¿½
+^da ï¿½
+^dc ï¿½ï¿½
+^dc ï¿½ï¿½
+^dd ï¿½
+^dd ï¿½
+^dd ï¿½ï¿½
+^dd ï¿½ï¿½
+^de ï¿½ï¿½
+^df ï¿½ï¿½
+^df ï¿½J
+^dj ï¿½ï¿½
+^dl ï¿½ï¿½
+^ds ï¿½ï¿½
+^dt ï¿½ï¿½
+^du ï¿½ï¿½
+^dv ï¿½ï¿½
+^dy ï¿½ï¿½
+^dy ï¿½
+^dy ï¿½ï¿½
+^fe ï¿½ï¿½
+^fm ï¿½ï¿½
+^fo ï¿½ï¿½
+^fp ï¿½ï¿½
+^fp ï¿½ï¿½
+^fr ï¿½ï¿½
+^fu ï¿½ï¿½
+^fu ï¿½ï¿½
+^ga ï¿½ï¿½
+^ga ï¿½y
+^ga ï¿½ï¿½
+^gc ï¿½ï¿½
+^gd ï¿½ï¿½
+^gf ï¿½ï¿½
+^gf ï¿½ï¿½
 ^gg İ¸
-^gh ØÅ
-^gm ³M
-^gm íÑ
-^gr í°
-^gs ¿ş
+^gh ï¿½ï¿½
+^gm ï¿½M
+^gm ï¿½ï¿½
+^gr ï¿½ï¿½
+^gs ï¿½ï¿½
 ^gs Ù¤
-^gu ¹È
-^gv ¸ø
-^gv æü
-^ha ºÙ
-^ha ßÜ
-^ha ºÇ
-^ha …Ë
-^hc ›²
-^hc ä«
-^hd ºç
-^hd à÷
-^hd ÷½
-^hg »ç
-^hm º»
-^hn ‹Ö
-^ho ğÀ
-^hs »á
-^hs ºÏ
-^hs ò¢
-^hv ºì
-^hy ¸ä
-^ja àå
-^ja ¾×
-^ja õí
-^jc ¾±
-^jc äĞ
-^jc šğ
-^jc ¿£
-^jd ¼û
-^je ñÊ
-^jf ¼÷
-^jf èÛ
+^gu ï¿½ï¿½
+^gv ï¿½ï¿½
+^gv ï¿½ï¿½
+^ha ï¿½ï¿½
+^ha ï¿½ï¿½
+^ha ï¿½ï¿½
+^ha ï¿½ï¿½
+^hc ï¿½ï¿½
+^hc ï¿½
+^hd ï¿½ï¿½
+^hd ï¿½ï¿½
+^hd ï¿½ï¿½
+^hg ï¿½ï¿½
+^hm ï¿½ï¿½
+^hn ï¿½ï¿½
+^ho ï¿½ï¿½
+^hs ï¿½ï¿½
+^hs ï¿½ï¿½
+^hs ï¿½
+^hv ï¿½ï¿½
+^hy ï¿½ï¿½
+^ja ï¿½ï¿½
+^ja ï¿½ï¿½
+^ja ï¿½ï¿½
+^jc ï¿½ï¿½
+^jc ï¿½ï¿½
+^jc ï¿½ï¿½
+^jc ï¿½ï¿½
+^jd ï¿½ï¿½
+^je ï¿½ï¿½
+^jf ï¿½ï¿½
+^jf ï¿½ï¿½
 ^jg Èš
-^jg ½æ
-^jh ¼Ö
-^ji ¾ä
-^ji ½â
-^jk êÁ
-^jo óŞ
-^jo »ü
-^jo êù
-^jr ½«
-^jr âÛ
-^js ‚Š
-^jt Ÿa
-^ju ôò
-^ju ò¡
-^jv ½É
-^jv ½Ë
-^jv ¼©
-^jw k
-^jx ½µ
+^jg ï¿½ï¿½
+^jh ï¿½ï¿½
+^ji ï¿½ï¿½
+^ji ï¿½ï¿½
+^jk ï¿½ï¿½
+^jo ï¿½ï¿½
+^jo ï¿½ï¿½
+^jo ï¿½ï¿½
+^jr ï¿½ï¿½
+^jr ï¿½ï¿½
+^js ï¿½ï¿½
+^jt ï¿½a
+^ju ï¿½ï¿½
+^ju ï¿½
+^jv ï¿½ï¿½
+^jv ï¿½ï¿½
+^jv ï¿½ï¿½
+^jw ï¿½k
+^jx ï¿½ï¿½
 ^jx Ø½
-^ka ¿È
-^ka ¿Ô
-^kc À£
-^kf ¿¨
-^kf ¿¬
-^kf èé
-^kf ö¸
-^kj ¿¸
-^kj À¨
-^kq ãÛ
-^kr ¸l
-^ku ¿Ç
-^la †U
-^la ¿©
-^lc äğ
-^lf èİ
+^ka ï¿½ï¿½
+^ka ï¿½ï¿½
+^kc ï¿½ï¿½
+^kf ï¿½ï¿½
+^kf ï¿½ï¿½
+^kf ï¿½ï¿½
+^kf ï¿½ï¿½
+^kj ï¿½ï¿½
+^kj ï¿½ï¿½
+^kq ï¿½ï¿½
+^kr ï¿½l
+^ku ï¿½ï¿½
+^la ï¿½U
+^la ï¿½ï¿½
+^lc ï¿½ï¿½
+^lf ï¿½ï¿½
 ^li Øª
-^li ÀÖ
-^ll ö¦
-^ln ÀÑ
-^lp À°
-^lr ÂÊ
-^lv ÂÚ
-^lw ã¦
-^mc ÃÚ
-^me ìò
-^mg Âû
-^mo ÃØ
-^na ßö
-^nb Äò
-^ng Ær
-^ni Äñ
+^li ï¿½ï¿½
+^ll ï¿½ï¿½
+^ln ï¿½ï¿½
+^lp ï¿½ï¿½
+^lr ï¿½ï¿½
+^lv ï¿½ï¿½
+^lw ï¿½
+^mc ï¿½ï¿½
+^me ï¿½ï¿½
+^mg ï¿½ï¿½
+^mo ï¿½ï¿½
+^na ï¿½ï¿½
+^nb ï¿½ï¿½
+^ng ï¿½r
+^ni ï¿½ï¿½
 ^nl Åª
 ^ns Ù¦
 ^nv Ø¿
-^pb ÆÁ
-^pb ±Ù
-^pc ÆÙ
-^pd î¢
-^pe ñÔ
-^pg ÜÅ
+^pb ï¿½ï¿½
+^pb ï¿½ï¿½
+^pc ï¿½ï¿½
+^pd ï¿½
+^pe ï¿½ï¿½
+^pg ï¿½ï¿½
 ^pg İ³
-^pi ÅÙ
-^pl °Ò
-^pt ÅÚ
-^pv æô
-^pv çÂ
-^py ÆÇ
-^qa õè
+^pi ï¿½ï¿½
+^pl ï¿½ï¿½
+^pt ï¿½ï¿½
+^pv ï¿½ï¿½
+^pv ï¿½ï¿½
+^py ï¿½ï¿½
+^qa ï¿½ï¿½
 ^qb Ç¿
 ^qc Ç³
 ^qd È¦
-^qd ÇÒ
-^qd òø
+^qd ï¿½ï¿½
+^qd ï¿½ï¿½
 ^qd Ç¶
-^qd öÄ
-^qd á½
-^qe µo
-^qg Üù
-^qg Üç
-^qg ÜÄ
-^qg ÇÑ
+^qd ï¿½ï¿½
+^qd ï¿½
+^qe ï¿½o
+^qg ï¿½ï¿½
+^qg ï¿½ï¿½
+^qg ï¿½ï¿½
+^qg ï¿½ï¿½
 ^qg İ¡
-^qh ÇÊ
+^qh ï¿½ï¿½
 ^qh Ç¬
-^qk Çø
-^ql Æõ
-^qm Ææ
+^qk ï¿½ï¿½
+^ql ï¿½ï¿½
+^qm ï¿½ï¿½
 ^qt È¯
 ^qt È²
-^qv Æï
+^qv ï¿½ï¿½
 ^qy Ç¦
-^rg İØ
-^sb Êô
-^sc äÅ
-^sc Éò
-^sd Éß
+^rg ï¿½ï¿½
+^sb ï¿½ï¿½
+^sc ï¿½ï¿½
+^sc ï¿½ï¿½
+^sd ï¿½ï¿½
 ^se Ê¶
 ^se Ëµ
-^se ìø
-^sf Êõ
+^se ï¿½ï¿½
+^sf ï¿½ï¿½
 ^sg Ê¡
 ^sg İ·
-^si ÊÏ
-^si ø@
-^sj Şé
+^si ï¿½ï¿½
+^si ï¿½@
+^sj ï¿½ï¿½
 ^sm Ê¯
 ^sm Ê¢
-^sn Éï
-^sp ëş
+^sn ï¿½ï¿½
+^sp ï¿½ï¿½
 ^ss Ù¹
 ^su É²
-^su ó§
-^sv çØ
-^sw ËŞ
-^sw âì
+^su ï¿½
+^sv ï¿½ï¿½
+^sw ï¿½ï¿½
+^sw ï¿½ï¿½
 ^ta ß¾
-^tb µ¯
-^tc å£
-^tc ÌÀ
-^td ÷»
-^te ¶A
-^tg Üè
-^tg Üæ
-^th ñû
-^tj Ìá
-^tk ÍÍ
-^tn ‹à
-^to ·r
-^ts ÌÈ
-^ts ¶±
-^tu Ûí
-^tu Ëş
+^tb ï¿½ï¿½
+^tc ï¿½
+^tc ï¿½ï¿½
+^td ï¿½ï¿½
+^te ï¿½A
+^tg ï¿½ï¿½
+^tg ï¿½ï¿½
+^th ï¿½ï¿½
+^tj ï¿½ï¿½
+^tk ï¿½ï¿½
+^tn ï¿½ï¿½
+^to ï¿½r
+^ts ï¿½ï¿½
+^ts ï¿½ï¿½
+^tu ï¿½ï¿½
+^tu ï¿½ï¿½
 ^tu ÚŒ
-^tv ÍÔ
-^tx ÌÕ
-^va àÅ
-^va àÉ
-^va àÄ
-^va à¸
-^vd °¼
-^vg °¬
-^vh ¶ñ
-^vi áí
-^vj ŞÖ
-^vn Š´
-^wa ßí
+^tv ï¿½ï¿½
+^tx ï¿½ï¿½
+^va ï¿½ï¿½
+^va ï¿½ï¿½
+^va ï¿½ï¿½
+^va ï¿½
+^vd ï¿½ï¿½
+^vg ï¿½ï¿½
+^vh ï¿½ï¿½
+^vi ï¿½ï¿½
+^vj ï¿½ï¿½
+^vn ï¿½ï¿½
+^wa ï¿½ï¿½
 ^wb Î²
 ^wb Î¾
-^wc ÎĞ
-^wc ›ğ
+^wc ï¿½ï¿½
+^wc ï¿½ï¿½
 ^wg Îµ
-^wk Íò
-^wl çä
-^wn Š€
-^wx Úó
-^xa ÏÅ
-^xa Ğê
-^xa »£
-^xa Ïù
-^xc ä°
-^xd òÙ
+^wk ï¿½ï¿½
+^wl ï¿½ï¿½
+^wn ï¿½ï¿½
+^wx ï¿½ï¿½
+^xa ï¿½ï¿½
+^xa ï¿½ï¿½
+^xa ï¿½ï¿½
+^xa ï¿½ï¿½
+^xc ï¿½
+^xd ï¿½ï¿½
 ^xd Ïº
-^xe ñÓ
+^xe ï¿½ï¿½
 ^xf Ğ£
-^xf ÆÜ
-^xh Ïï
+^xf ï¿½ï¿½
+^xh ï¿½ï¿½
 ^xi Ïµ
 ^xi Û¨
-^xi â¼
+^xi ï¿½
 ^xj Ğ®
 ^xk Ğ°
-^xl í¹
-^xm ÏÃ
-^xp ĞĞ
-^xs ì¨
-^xs Á›
-^xu Û×
+^xl ï¿½ï¿½
+^xm ï¿½ï¿½
+^xp ï¿½ï¿½
+^xs ï¿½
+^xs ï¿½ï¿½
+^xu ï¿½ï¿½
 ^xu Û­
 ^xu Û§
-^xv ÏË
-^xy ïâ
+^xv ï¿½ï¿½
+^xy ï¿½ï¿½
 ^ya Ò¶
-^ya Óõ
+^ya ï¿½ï¿½
 ^yc Ó¿
-^yd ÒÅ
-^yg İÒ
-^yp ëç
+^yd ï¿½ï¿½
+^yg ï¿½ï¿½
+^yp ï¿½ï¿½
 ^yr Å±
-^yr ì¶
-^ys Óá
-^ys ½Ä
-^ys Øî
-^yt Øß
-^yu Ûß
-^yu ôí
-^yw ñ¿
-^yx Úç
-^za à©
-^zb Öà
-^zc äÚ
-^zc ãç
-^zd ÖÅ
-^zf é«
-^zf é©
+^yr ï¿½
+^ys ï¿½ï¿½
+^ys ï¿½ï¿½
+^ys ï¿½ï¿½
+^yt ï¿½ï¿½
+^yu ï¿½ï¿½
+^yu ï¿½ï¿½
+^yw ï¿½
+^yx ï¿½ï¿½
+^za ï¿½
+^zb ï¿½ï¿½
+^zc ï¿½ï¿½
+^zc ï¿½ï¿½
+^zd ï¿½ï¿½
+^zf ï¿½
+^zf ï¿½
 ^zf ×µ
-^zf èÈ
+^zf ï¿½ï¿½
 ^zf Õ¤
-^zg Üë
+^zg ï¿½ï¿½
 ^zg Èœ
-^zi öë
+^zi ï¿½ï¿½
 ^zj ×§
-^zj ÎÎ
-^zj ÔÜ
-^zj ÕÛ
-^zk Ôş
+^zj ï¿½ï¿½
+^zj ï¿½ï¿½
+^zj ï¿½ï¿½
+^zk ï¿½ï¿½
 ^zm Ö³
-^zn ÕÙ
-^zo ÖØ
-^zr ×ä
-^zs Ù×
+^zn ï¿½ï¿½
+^zo ï¿½ï¿½
+^zr ï¿½ï¿½
+^zs ï¿½ï¿½
 ^zt Õ³
-^zt ×È
+^zt ï¿½ï¿½

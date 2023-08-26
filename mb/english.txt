@@ -1,8 +1,10 @@
 name=”¢”Ô
-key=abcdefghijklmnopqrstuvwxyz '
+key=abcdefghijklmnopqrstuvwxyz';
 len=32
+commit=1 0 0
 english=1
 wildcard=;
+push=_
 [data]
 a
 AA

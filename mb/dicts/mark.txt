@@ -1,0 +1,142 @@
+,. ,$SPACE
+,, 、$SPACE
+,b ～$SPACE
+,q #$SPACE
+
+,t (($SPACE
+,r ($SPACE
+,g [[$SPACE
+,f [$SPACE
+,c {{$SPACE
+,kt (($|))$SPACE
+,kr ($|)$SPACE
+,kg [[$|]]$SPACE
+,kf [$|]$SPACE
+,k. {{$|}}$SPACE
+,kc {$|}$SPACE
+,lt （$|）$SPACE
+,lr （$SPACE
+,lg 「$SPACE
+,lf 「$|」$SPACE
+,l. 」$SPACE
+,lc ）$SPACE
+,mt ))$SPACE
+,mr )$SPACE
+,mg ]]$SPACE
+,mf ]$SPACE
+,m. }}$SPACE
+,mc }$SPACE
+
+,e ：$SPACE
+,d ，$SPACE
+,x ･$SPACE
+,ke :$SPACE
+,kd ;$SPACE
+,kx ・$SPACE
+,le 
+,ld 
+,lx 
+
+,w ！$SPACE
+,s 。$SPACE
+,z ？$SPACE
+,kw !$SPACE
+,ks ．$SPACE
+,kz ?$SPACE
+,lw $SPACE
+,ls …$SPACE
+,lz ：$SPACE
+
+
+,a ー$SPACE
+,ka 
+,la ～$SPACE
+,lq ―$SPACE
+
+.. .$SPACE
+., ．$SPACE
+.y $BACKSPACE$BACKSPACE$BACKSPACE$BACKSPACE
+.p 
+
+.x $DELETE$DELETE$SPACE 
+.u $BACKSPACE$BACKSPACE$BACKSPACE$SPACE
+.n $_$_$SPACE
+.v $LAST$SPACE 
+.m 　$SPACE
+
+
+.l $RIGHT$SPACE
+.k $UP$SPACE
+.j $DOWN$SPACE
+.h $LEFT$SPACE
+#.fl $RIGHT$_$RIGHT$SPACE
+#.fk $UP$UP$SPACE
+#.fj $DOWN$DOWN$SPACE
+#.fh $LEFT$SPACE$LEFT$SPACE
+#.dl $RIGHT$SPACE$RIGHT$SPACE$RIGHT$SPACE
+#.dk $UP$UP$UP$SPACE
+#.dj $DOWN$DOWN$DOWN$SPACE
+#.dh $LEFT$LEFT$LEFT$SPACE
+#.dv $RIGHT$RIGHT$RIGHT$RIGHT$SPACE
+#.dn $UP$UP$UP$UP$SPACE
+#.dm $DOWN$DOWN$DOWN$DOWN$SPACE
+#.d, $LEFT$LEFT$LEFT$LEFT$SPACE
+
+.du '$|'$SPACE
+.di "$|"$SPACE
+.do `$|`$SPACE
+.dh 〔$|〕$SPACE
+.dj ‘$|’$SPACE
+.dk “$|”$SPACE
+.dl 〈$|〉$SPACE
+.d; 『$|』$SPACE
+.d, 【$|】$SPACE
+.dm '$SPACE
+.dn "$SPACE
+.dv `$SPACE
+
+.sy ＜$SPACE
+.su ◀$SPACE
+.si ▶$SPACE
+.so ＞$SPACE
+.sp ▲$SPACE
+.sh ←$SPACE
+.sj ↓$SPACE
+.sk ↑$SPACE
+.sl →$SPACE
+.s; △$SPACE
+.s, ↔$SPACE
+.sm ↕$SPACE
+.sn ◯$SPACE
+.sv □$SPACE
+
+
+
+.ij ($|)$SPACE
+.il {$|}$SPACE
+.iu <$|>$SPACE
+.oj ($SPACE
+.ok )$SPACE
+.ou {$SPACE
+.oi }$SPACE
+.ui %$SPACE
+.uo &$SPACE
+.uk -$SPACE
+.ul _$SPACE
+
+.cy |$SPACE
+.cu @$SPACE
+.ci +$SPACE
+.co ^$SPACE
+.cp *$SPACE
+.ch ?$SPACE
+.cj !$SPACE
+.ck )$SPACE
+.cl ]$SPACE
+.c, <$SPACE
+.cm >$SPACE
+.cn /$SPACE
+.cv \$SPACE
+
+
+iammark 読み込み確認

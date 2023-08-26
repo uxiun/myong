@@ -1,15 +1,16 @@
 name=拼音
 key=abcdefghijklmnopqrstuvwxyz
 len=63
-wildcard=?
+wildcard=.
 pinyin=1
-split='
+split=,
 hint=0
 update=1
 user=pinyin.usr
 assist=mb/assist/yong.txt 2
 code_a1=p..
 [DATA]
+
 a 啊 阿 呵 腌 嗄 锕 吖
 aba 阿爸
 adou 阿斗
@@ -639,7 +640,7 @@ banfengjianbanzhimindi 半封建半殖民地
 banfu 板斧
 bangfei 绑匪
 bangfu 帮扶
-bang 帮 棒 绑 邦 膀 榜 傍 磅 谤 浜 梆 镑 蚌 稖 𠳐
+bang 帮 棒 绑 邦 膀 榜 傍 磅 谤 浜 梆 镑 蚌 稖 ?4?6
 bangban 帮办
 bangbang 帮帮
 bangcheng 磅秤
@@ -2962,7 +2963,7 @@ cezhongyu 侧重于
 cezhuan 侧转
 cezi 册子
 ch 出 吃 成 车 处
-cha 查 差 茶 察 插 刹 叉 诧 茬 碴 喳 岔 嚓 衩 杈 楂 槎 檫 镲 搽 锸 猹 馇 汊 姹 𥻗 嵖
+cha 查 差 茶 察 插 刹 叉 诧 茬 碴 喳 岔 嚓 衩 杈 楂 槎 檫 镲 搽 锸 猹 馇 汊 姹 ?1?5 嵖
 chaban 查办
 chabei 茶杯
 chabie 差别
@@ -3942,7 +3943,7 @@ chouyun 愁云
 chouzhe 瞅着
 couzhun 瞅准
 chouzi 筹资 抽资 绸子
-chu 出 处 除 楚 初 触 储 础 厨 畜 躇 橱 雏 矗 怵 锄 杵 搐 绌 黜 褚 蜍 蹰 刍 滁 楮 憷 亍 樗 诎 㤘 俶
+chu 出 处 除 楚 初 触 储 础 厨 畜 躇 橱 雏 矗 怵 锄 杵 搐 绌 黜 褚 蜍 蹰 刍 滁 楮 憷 亍 樗 诎 ?` 俶
 chuai 揣 踹 啜 膪 搋
 chuaice 揣测
 chuaiduo 揣度
@@ -4249,7 +4250,7 @@ chumoping 触摸屏
 chumouhuace 出谋划策
 chumu 触目
 chumujingxin 触目惊心
-chun 春 纯 唇 淳 蠢 醇 椿 鹑 蝽 莼 䏝
+chun 春 纯 唇 淳 蠢 醇 椿 鹑 蝽 莼 ?z
 chuna 出纳
 chunan 处男
 chunbaise 纯白色
@@ -4641,7 +4642,7 @@ couqu 凑趣
 coushou 凑手
 coushu 凑数
 couzu 凑足
-cu 粗 促 簇 醋 卒 猝 蹴 蹙 徂 殂 蔟 酢 㤘
+cu 粗 促 簇 醋 卒 猝 蹴 蹙 徂 殂 蔟 酢 ?`
 cuan 攒 窜 篡 蹿 撺 镩 汆 爨
 cuandong 攒动
 cuanduo 篡夺
@@ -5699,7 +5700,7 @@ dayaodabai 大摇大摆
 dayazhitang 大雅之堂
 daye 大业 大爷
 dayi 大意 答疑 大义
-dayilinran 大义凛然	
+dayilinran 大义凛然
 dayin 打印 大印
 daying 答应 打赢
 dayingxiong 大英雄
@@ -15810,7 +15811,7 @@ kanzheban 看着办
 kanzhong 看重 看中
 kanzhun 看准
 kanzuo 看作
-kao 靠 考 烤 拷 铐 犒 栲 尻 㸆
+kao 靠 考 烤 拷 铐 犒 栲 尻 ?1?1
 kaoan 靠岸
 kaobei 拷贝 靠背
 kaobian 靠边
@@ -15860,7 +15861,7 @@ kaoping 考评
 kaopu 靠谱
 kaoqi 烤漆
 kaoqian 靠前 考前
-kaoqiang 靠墙 
+kaoqiang 靠墙
 kaoqin 考勤
 kaoqinbu 考勤簿
 kaoqinzhidu 考勤制度
@@ -22735,7 +22736,7 @@ nvzi 女子
 nvzidanda 女子单打
 nvzu 女足
 o 哦 噢 喔
-ou 欧 偶 殴 呕 鸥 讴 瓯 藕 沤 耦 怄 区 吽 
+ou 欧 偶 殴 呕 鸥 讴 瓯 藕 沤 耦 怄 区 吽 ??
 ouban 欧版
 ouda 殴打
 ouduansilian 藕断丝连
@@ -43370,7 +43371,7 @@ zhemezuo 这么做
 zhemian 这面
 zheming 这名
 zhemo 折磨
-zhen 真 镇 阵 震 针 珍 帧 圳 振 诊 枕 斟 贞 侦 赈 甄 臻 箴 疹 砧 桢 缜 畛 轸 稹 祯 浈 溱 蓁 椹 榛 朕 鸩 胗
+zhen 真 镇 阵 震 针 珍 帧 圳 振 诊 枕 斟 贞 侦 赈 甄 臻 箴 疹 砧 桢 缜 畛 轸 稹 祯 浈 溱 蓁 椹 榛 朕 鸩 胗 姫
 zhenai 真爱 珍爱
 zhenan 浙南 镇安
 zhenba 镇巴
@@ -44761,7 +44762,7 @@ zhongzui 重罪 中最
 zhongzuqishi 种族歧视
 zhongzuzhengce 种族政策
 zhongzuzhuyi 种族主义
-zhou 周 州 舟 轴 皱 洲 粥 骤 宙 咒 昼 肘 帚 诌 纣 胄 绉 妯 碡 啁 荮 籀 繇 酎 舳 诪 诹 赒 驺 鬻 㤘
+zhou 周 州 舟 轴 皱 洲 粥 骤 宙 咒 昼 肘 帚 诌 纣 胄 绉 妯 碡 啁 荮 籀 繇 酎 舳 诪 诹 赒 驺 鬻 ?`
 zhoubao 周报
 zhoubian 周边 骤变
 zhoubianshebei 周边设备
@@ -44856,7 +44857,7 @@ zhuaju 抓举
 zhuakuang 抓狂
 zhuale 抓了
 zhuamiaotou 抓苗头
-zhuan 转 专 传 赚 撰 砖 篆 啭 馔 颛 䏝
+zhuan 转 专 传 赚 撰 砖 篆 啭 馔 颛 ?z
 zhuanan 专案
 zhuananzu 专案组
 zhuanban 专版 转办
@@ -46750,3 +46751,5 @@ time $hour点$min分 $HOUR点$MIN分
 ^zhe 着
 ^zhe 这
 ^zhu 著
+
+mei 躾

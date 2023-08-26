@@ -1,0 +1,10 @@
+Code ACCESS_VIOLATION
+Addr 6190312C C:\Users\itmik\OneDrive - ’}”g‘åŠw\0z\CJSYS\libmb.so 0001:0000212c
+Op read
+Data 00000004
+
+Call stack:
+Address   Frame     Logical addr  Module
+6190312C  02EDFDD0  0001:0000212C C:\Users\itmik\OneDrive - ’}”g‘åŠw\0z\CJSYS\libmb.so
+01040200  02EDFE60  0000:00000000 unknown3
+01040300  02EDFEF0  0000:00000000 unknown3

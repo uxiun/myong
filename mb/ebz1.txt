@@ -14,14 +14,26 @@ wildcard=]
 dwf=1
 auto_move=2
 assist=] mb/fc.txt
-dicts=mb/ciz1.txt mb/ziz1.txt mb/dicts.txt dictz mb/ja.txt
-code_e1=p..
+dicts=mb/ciz1.txt mb/ziz1.txt mb/dicts.txt mb/dicts/xxyx.txt dictz mb/ja.txt
+
+#code_e1=p..
 code_e2=p11+p12+p21+p22
 code_e3=p11+p21+p31+;
 code_e4=p11+p21+p31+p41
 code_a4=p11+p21+p31+'
 
 [data]
+jsu Å¢
+yda É“
+zfou ñò
+yru ﬁz
+zsioe ◊¥
+kca õr
+ddia µ˚
+ydou ∆F
+fhau ∏±
+cseu Ç}
+sreo ’h
 jvi ΩY
 vheu êô
 yrui ‘U

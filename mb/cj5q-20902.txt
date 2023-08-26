@@ -1,13 +1,17 @@
 encode=UTF-8
-name=韓文綴三
-key=ykdjflsierumcownxvz
+key=ykdjflsierumcownxvzahg.,
 len=3
-
 commit=0 0 0
+push=yahg.,
 
 [DATA]
-ydi $yyyy/$mon/$day $YYYY0-$MON-$DAY
-ydn $hour:$min $HOUR:$MIN
+td $yyyy/$mon/$day $YYYY0-$MON-$DAY
+ti $hour:$min $HOUR:$MIN
+a ·
+h '
+g '
+. .
+, ,
 
 k ㄴ
 d ㄱ
@@ -28,7 +32,7 @@ x ㄲ
 v ㅆ
 z ㅍ
 
-kd  니
+kd 니
 kf 너
 kj 느
 ks 나
@@ -408,16 +412,16 @@ kuw 눕
 kuo 눛
 kux 눆
 kuz 눞
-kxj 녱
+kxj 넁
 kxf 냳
 kxl 냿
 kxs 냼
 kxm 냱
 kxc 냲
-kxo 녳
+kxo 넃
 kxu 넂
 kxv 넀
-kxz 녶
+kxz 넆
 kzd 녝
 kzj 녱
 kzf 녣
@@ -546,7 +550,7 @@ dof 갿
 doj 걍
 dos 걈
 doi 걀
-doc 쟎
+doc 갾
 dor 걑
 dow 걉
 dou 걎
@@ -572,7 +576,7 @@ dur 곁
 duw 겹
 duo 겿
 duz 곂
-dnf 갣
+dnf 걛
 dnj 걩
 dns 걤
 dnl 걧
@@ -627,7 +631,7 @@ jko 읓
 jkx 윾
 jkz 읖
 jkv 읐
-jfk 먼
+jfk 언
 jfd 억
 jfl 엇
 jfs 엄
@@ -1331,8 +1335,8 @@ ird 력
 irj 령
 irl 렷
 irs 렴
-ire 옄
-iro 옃
+ire 렼
+iro 렻
 irw 렵
 iru 렺
 iwd 략
@@ -2265,7 +2269,7 @@ njr 흩
 njw 흡
 njx 흒
 njz 흪
-njv 릈
+njv 흤
 nsd 학
 nsj 항
 nsf 핟
@@ -2372,11 +2376,11 @@ xjf 껃
 xjs 껌
 xjl 껏
 xji 껄
-xjc 꼲
+xjc 껂
 xjo 껓
 xjn 껗
 xjz 껖
-xjv 꽀
+xjv 껐
 xfk 끈
 xfj 끙
 xfl 끗
@@ -2723,3 +2727,4 @@ zvc 폖
 zvm 폕
 zvx 폒
 zvn 폫
+

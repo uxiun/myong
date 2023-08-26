@@ -9,12 +9,16 @@ encode=UTF-8
 name=五倉通用
 key=;axcdefghijklmnopqrstuvwbzy+
 len=6
-wildcard=; ]
-commit=0 0 0
-dicts=mb/cj5-ftzk-zx.txt mb/ciz.txt mb/ziz.txt mb/dicts.txt dictz
-assist=mb/assist/pinyin.txt
+wildcard=]
+commit=0 1 0
+compact=0
+dicts=mb/cj5-ftzk-zx.txt dictz
+assist=mb/cj5-ebz.txt
 nomove=y
 pull=y
+assist=' mb/cj5-ebz.txt
+
+
 code_e2=p11+p12+p21+p22
 code_e2=p11+p12+p21
 code_e2=p11+p21+p22

@@ -1,8 +1,9 @@
 encode=UTF-8
-key=;abcdefghijklmnopqrstuvwxyz+'
+key=;abcdefghijklmnopqrstuvwxyz+[‘
+
 len=5
 #yong=1 #itodayds -> ayds を防ぎ、-> s のみ返す ことはできた
-commit=0 1 1
+commit=0 1 0
 auto_clear=1
 compact=1
 match=0
@@ -11,11 +12,13 @@ pull=;
 nomove=;
 wildcard=] #memo here ok
 dwf=0
+zi_switch=[
 
 auto_move=2
 assist=' mb/fc.txt
-dicts=mb/ciz.txt mb/ziz.txt mb/dicts.txt dictz mb/cj5-ftzk-zx.txt mb/ja.txt
-assist=mb/assist/pinyin.txt
+dicts=mb/ciz1.txt mb/ziz.txt mb/dicts-escape.txt dictz mb/cj5-ftzk-zx.txt mb/ja.txt mb/dicts/xxyx.txt
+
+#assist=mb/assist/pinyin.txt
 
 code_e2=p11+p12+p21+p22
 code_e2=p11+p12+p21
@@ -52,6 +55,18 @@ no+wf $HOUR時$MIN分
 li+f [
 li+d [[
 
+
+jsu 仮
+yda 円
+yru 込
+zfou 枠
+kca 況
+ddia 蝶
+ydou 艶
+fhau 副
+i 了
+cseu 倉
+sreo 説
 jvi 結
 vheu 悪
 yrui 訳
@@ -1202,7 +1217,8 @@ fsio 伏
 fsiu 伐
 fso 份
 fsoe 俘
-fsu 佛
+fsu 仅
+fsui 佛
 ft 烦
 fti 粪 烦
 fto 粉
