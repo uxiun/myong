@@ -12,6 +12,7 @@
 {0}bojueo 笔记
 {1}byau 钡
 {0}byio 钚
+{0}bqmqgdiai 闭幕曲
 {0}btqidi 并且
 {0}btlami 并列
 {0}brgehu 变更
@@ -51,6 +52,7 @@
 {0}yircsoieo 一人称
 {0}yiwaqu 疑问
 {0}yixaiu 印象
+{0}ybsota 引数
 {0}ybjuvu 已经
 {1}yyau 铟
 {0}ypeztimteiie 月之美兔
@@ -229,7 +231,6 @@
 {0}rnqoha 如其
 {0}rngeda 如果
 {0}wadeti 味道
-{0}wiyuya 外延
 {0}wixoxu 危险
 {0}woyaau 委员
 {0}woyhasuai 委员会
@@ -272,7 +273,6 @@
 {0}grcjryaou 高次键
 {0}gwdusa 割当
 {0}ggsagu 归省
-{0}ggsobu 归属
 {0}gfia 杠
 {0}gfwero 构文
 {0}gfgifi 杠杆
@@ -331,6 +331,7 @@
 {0}fpwuiu 服务
 {0}fpfunu 反发
 {0}fpzihu 反正
+{0}fro 放
 {0}fryiro 方言
 {0}frquru 废弃
 {0}frwcseoeu 方位词
@@ -351,10 +352,13 @@
 {0}d.yim. 的压
 {0}deziho 调整
 {0}dudetu 地道
+{0}diau 独
 {0}digida 岛国
+{0}dilera 独立
 {0}doreso 敌人
 {0}dyei 镝
 {0}dyzixi 钉子
+{0}dylivo 锻练
 {0}dtwesa 单位
 {0}dtdipe 道德
 {0}dtdiwo 断定
@@ -413,9 +417,11 @@
 {0}stjujo 数据
 {0}stlako 数量
 {0}srlefe 深思熟虑
-{0}swia 塞
+{0}swia 守
+{1}swia 塞
 {0}swtise 实体
 {0}swdiwa 审定
+{0}swheji 守护
 {0}swjixe 实际
 {0}sgoa 蒐
 {0}sgjiso 蒐集
@@ -432,6 +438,7 @@
 {0}sdcqlheao 思春期
 {0}sseo 僧
 {0}ssia 仕
+{1}ssia 侍
 {0}ssyopi 使役
 {0}ssqiai 仕器
 {0}ssfupu 舒服
@@ -535,7 +542,6 @@
 {0}xwcisi 宣传
 {0}xwxefu 学校
 {0}xwxicu 学习
-{-}xwz..o 性在
 {0}xwzipo 性质
 {0}xwnoco 性能
 {0}xgexrlyxgeao 小小音形
@@ -654,6 +660,7 @@
 {0}hiau 猾
 {0}hizipa 画质
 {0}hihaca 画滑
+{0}honaoa 和牛
 {0}hpzida 后置
 {0}hpkvhuuai 很可爱
 {0}httoci 糊涂
@@ -686,7 +693,9 @@
 {0}hchaia 滑画
 {0}hxsotu 函数
 {0}hzalzzgnziaa ひらがな
+{0}hhzuwi 韩字
 {0}hhlago 胡萝
+{0}hjsise 护侍
 {0}hketrrljcieo 互通立交
 {0}hkzada 或则
 {0}hkzaha 或者
@@ -744,6 +753,7 @@
 {0}jgcowe 警察
 {0}jfsuho 検索
 {0}jfcafo 检查
+{0}jdtiso 具体
 {0}jsquou 健气
 {0}jsqohe 今期
 {0}jstidi 集团
@@ -784,6 +794,7 @@
 {0}kojije 科技
 {0}komide 科目
 {0}kwibrwwzyieu 空白文字
+{0}kwbiyi 空白
 {0}kwseou 快适
 {0}kwxaxi 空隙
 {0}kwhoeo 客户

@@ -10,10 +10,12 @@ encode=UTF-8
 #assist=[ mb/fc.txt
 #add=RCTRL #no effect...
 key=+.,aeuiobyqptrwgfdscxzhjklmnv;'`
+#qwertyuiopasdfghjklmxcvbnz
 len=20
 commit=1 0 0
 auto_clear=0
-compact=2
+;compact=0
+simple=2
 match=0
 push=aeiou
 #push=.,byqptrwgfdscxzhjlkmnv #これらの文字から始まる綴で造詞できなくなる
@@ -22,7 +24,7 @@ nomove=;
 wildcard=] #memo here ok
 dwf=0
 auto_move=2
-user=cj5ebz.txt
+user=user/cj5ebz.txt
 dicts=mb/ziz.txt dictz/rongcuo.txt mb/dicts/mark.txt mb/ciz-prefix-a.txt mb/dicts-escape.txt mb/dicts/grammar-prefix-ie.txt
 #dicts=の指定に非ASCII文字が含まれていると、たとえencode=UTF-8であろうと、あるいはむしろそのせいでその辞書は読み込まれない
 #mb/char/cj-prefix-ie.txt mb/ja.txt
@@ -118,36 +120,40 @@ code_e4=p11+p12+p23+p21+.+.+p31+p41+p22+p13+.+.
 code_e4=p11+p12+.+p21+.+.+p31+p41+.+p13+.+.
 
 #---------------------------------
-code_a4=p11+p12+p23+p33+p22+p32+n22+n12+n21+n11+p21+p31
+code_a4=p11+p12+p23+p21+n22+n12+n21+n11+p22+p13+n23+n13
 
 
-code_a4=p11+.+p23+p33+p22+p32+n22+n12+n21+n11+p21+p31
-code_a4=p11+p12+.+p33+.+p32+n22+n12+n21+n11+p21+p31
-code_a4=p11+p12+p23+.+p22+.+n22+n12+n21+n11+p21+p31
-
-code_a4=p11+.+.+p33+.+p32+n22+n12+n21+n11+p21+p31
-code_a4=p11+.+p23+.+p22+.+n22+n12+n21+n11+p21+p31
-code_a4=p11+.+p23+p33+p22+p32+.+n12+n21+n11+p21+p31
-code_a4=p11+.+p23+p33+p22+p32+n22+.+n21+n11+p21+p31
+#---------------------------------
+#code_a4=p11+p12+p23+p33+p22+p32+n22+n12+n21+n11+p21+p31
 
 
+#code_a4=p11+.+p23+p33+p22+p32+n22+n12+n21+n11+p21+p31
+#code_a4=p11+p12+.+p33+.+p32+n22+n12+n21+n11+p21+p31
+#code_a4=p11+p12+p23+.+p22+.+n22+n12+n21+n11+p21+p31
 
-code_a4=p11+p12+.+.+.+.+n22+n12+n21+n11+p21+p31
-code_a4=p11+p12+.+p33+.+p32+.+n12+n21+n11+p21+p31
-code_a4=p11+p12+.+p33+.+p32+n22+.+n21+n11+p21+p31
+#code_a4=p11+.+.+p33+.+p32+n22+n12+n21+n11+p21+p31
+#code_a4=p11+.+p23+.+p22+.+n22+n12+n21+n11+p21+p31
+#code_a4=p11+.+p23+p33+p22+p32+.+n12+n21+n11+p21+p31
+#code_a4=p11+.+p23+p33+p22+p32+n22+.+n21+n11+p21+p31
 
 
 
-code_a4=p11+p12+p23+.+p22+.+.+n12+n21+n11+p21+p31
-code_a4=p11+p12+p23+.+p22+.+n22+.+n21+n11+p21+p31
+#code_a4=p11+p12+.+.+.+.+n22+n12+n21+n11+p21+p31
+#code_a4=p11+p12+.+p33+.+p32+.+n12+n21+n11+p21+p31
+#code_a4=p11+p12+.+p33+.+p32+n22+.+n21+n11+p21+p31
 
 
-code_a4=p11+p12+p23+p33+p22+p32+.+n12+n21+n11+p21+p31
 
-code_a4=p11+p12+p23+p33+p22+p32+.+.+n21+n11+p21+p31
+#code_a4=p11+p12+p23+.+p22+.+.+n12+n21+n11+p21+p31
+#code_a4=p11+p12+p23+.+p22+.+n22+.+n21+n11+p21+p31
 
 
-code_a4=p11+p12+p23+p33+p22+p32+n22+.+n21+n11+p21+p31
+#code_a4=p11+p12+p23+p33+p22+p32+.+n12+n21+n11+p21+p31
+
+#code_a4=p11+p12+p23+p33+p22+p32+.+.+n21+n11+p21+p31
+
+
+#code_a4=p11+p12+p23+p33+p22+p32+n22+.+n21+n11+p21+p31
 
 
 
@@ -171,12 +177,14 @@ to+tu $hour時$min分
 to+to $HOUR時$MIN分
 
 # 独自定義！-----------
-# 小小音形の最初の二字（子音＋一画目と二画目の形）
-# 次の一画の形:母音
-# 韻母
-# :f
 
 # added plus head
+fpoi 復
+fpoie 復
+feoi 複
+feoie 複
+ggaue 菓
+caiie 喫
 deau 褍
 deaua 褍
 pmou 靤
@@ -242,7 +250,7 @@ chui 車
 goau 観
 jfoe 検
 lheu 連
-gqe 関
+gqeo 関
 
 
 jza あ
@@ -745,7 +753,6 @@ fzzzzaio ヮ
 
 #----xxyx----
 b 不
-^b 不
 ba 吧
 baa 别
 baae 卟
@@ -1073,7 +1080,6 @@ byoo 钣
 byou 鹎
 byu 钯
 c 才
-^c 才
 ca 吃
 caa 唱
 caai 踔 跐 呲
@@ -1471,7 +1477,6 @@ cyoi 锸
 cyou 囱 镵
 cyu 钗
 d 的
-^d 的
 da 呆
 daa 吊
 dae 蹲
@@ -1793,7 +1798,6 @@ dyou 钓 兜
 dyu 铎
 dyue 镫
 f 发
-^f 发
 fa 吠
 faa 啡
 fai 呋 吠
@@ -2023,7 +2027,6 @@ fyo 钒 锋
 fyoe 鼢
 fyu 镄
 g 个
-^g 个
 ga 跟
 gaa 剐
 gaae 咣
@@ -2332,7 +2335,6 @@ gyu 躬 鬼
 ^gyu 鬼
 gyuu 钆
 h 好
-^h 好
 ha 号
 haa 喝
 haai 唬
@@ -2657,7 +2659,6 @@ hyoa 铧 皞
 hyoe 铪 锾
 hyou 齁 锪
 j 就
-^j 就
 ja 叫
 jaa 旧
 jaai 噱
@@ -3094,7 +3095,6 @@ jyou 钧
 jyu 键
 jyui 锯 锔
 k 看
-^k 看
 ka 口
 kaa 啃
 kaai 咔
@@ -3329,7 +3329,6 @@ kyi 铐
 kyia 钶
 kyiu 锴
 l 了
-^l 了
 la 路
 laa 吕
 laau 哩 览 啰
@@ -3719,7 +3718,6 @@ lyou 镏 镥
 lyu 钌
 lyuu 镴
 m 没
-^m 没
 ma 吗
 maa 黾
 maau 嘿 槑
@@ -4005,7 +4003,6 @@ myo 铆 铭
 myu 锰
 myua 镅
 n 你
-^n 你
 na 呢
 naa 呐
 naai 啮
@@ -4203,7 +4200,6 @@ nyua 衄
 nyui 铌
 nyuo 钕
 p 怕
-^p 怕
 pa 跑
 paa 品
 paaa 噗 蹼
@@ -4480,7 +4476,6 @@ pyu 铍 片
 ^pyu 片
 pyua 郫
 q 去
-^q 去
 qa 器
 qae 吣
 qai 跷 器
@@ -4811,7 +4806,6 @@ qyui 镪 锓
 qyuo 鼽
 qyuu 钆
 r 人
-^r 人
 ra 嚷
 rae 嚷
 rai 嚅
@@ -4951,7 +4945,6 @@ rye 镕 锐
 ^rye 锐
 ryu 铷
 s 是
-^s 是
 sa 啥
 saa 虽
 saae 哨 唢
@@ -5352,7 +5345,6 @@ syou 铯
 syu 鼠
 syue 叟
 t 他
-^t 他
 ta 听
 taa 踢
 taae 蹚
@@ -5662,7 +5654,6 @@ tyoa 魄
 tyoe 铫
 tyoi 铤
 v 有
-^v 有
 va 啊
 vaa 嗯
 vae 吖
@@ -5839,7 +5830,6 @@ vyo 锇
 vyu 锕
 vyue 翱
 w 我
-^w 我
 wa 哇
 waa 喂
 wai 味 哇
@@ -6090,7 +6080,6 @@ wyi 璺
 wyia 鼯
 wyo 钨
 x 想
-^x 想
 xa 吓
 xaa 贤
 xaai 嘘 噱 唬
@@ -6488,7 +6477,6 @@ xyoi 铣
 xyoo 锨
 xyou 舄
 y 一
-^y 一
 ya 呀
 yaa 员
 yaau 咽 嘢 哕 嘤 喁
@@ -6930,7 +6918,6 @@ yyua 鄅
 yyuo 钖
 yyuu 钇
 z 在
-^z 在
 za 只
 zaa 嘴
 zaai 足 趾 呲

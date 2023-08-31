@@ -2,7 +2,7 @@ name=”¢”Ô
 key=abcdefghijklmnopqrstuvwxyz';
 len=32
 commit=1 0 0
-english=1
+english=0
 wildcard=;
 push=_
 [data]

@@ -1,5 +1,5 @@
 ,. ,$SPACE
-,, 、$SPACE
+,, ,,$SPACE
 ,b ～$SPACE
 ,q #$SPACE
 
@@ -27,7 +27,7 @@
 ,m. }}$SPACE
 ,mc }$SPACE
 
-,e ：$SPACE
+,e 、$SPACE
 ,d ，$SPACE
 ,x ･$SPACE
 ,ke :$SPACE
@@ -53,13 +53,13 @@
 ,la ～$SPACE
 ,lq ―$SPACE
 
-.. .$SPACE
-., ．$SPACE
-.y $BACKSPACE$BACKSPACE$BACKSPACE$BACKSPACE
-.p 
+., .$SPACE
+.y $HOME$SPACE
+.p $END$SPACE
+.a =$SPACE
+.e ．$SPACE
 
-.x $DELETE$DELETE$SPACE 
-.u $BACKSPACE$BACKSPACE$BACKSPACE$SPACE
+.x $DELETE
 .n $_$_$SPACE
 .v $LAST$SPACE 
 .m 　$SPACE
@@ -138,5 +138,4 @@
 .cn /$SPACE
 .cv \$SPACE
 
-
-iammark 読み込み確認
+iammark mark.txtLoaded
