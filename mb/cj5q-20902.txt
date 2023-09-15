@@ -1,15 +1,18 @@
 encode=UTF-8
-key=ykdjflsierumcownxvzahg.,
+key=ykdjflsierumcownxvzahg.,;pq
 len=3
 commit=0 0 0
-push=yahg.,
+push=yahg.,;pq
 
 [DATA]
 td $yyyy/$mon/$day $YYYY0-$MON-$DAY
 ti $hour:$min $HOUR:$MIN
 a ·
-h '
-g '
+; '
+p '
+q `
+g :
+h ;
 . .
 , ,
 
