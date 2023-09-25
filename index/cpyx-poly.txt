@@ -10,7 +10,7 @@ match=0
 push=aeiou
 #push=.,byqptrwgfdscxzhjlkmnv #これらの文字から始まる綴で造詞できなくなる
 #pull=;
-nomove=;
+nomove=; #これらの文字を含む綴の言葉は移動しない
 wildcard=[ #memo here ok
 dwf=0
 auto_move=2
@@ -19,7 +19,7 @@ dicts=mb/dicts/mark.txt mb/ciz-prefix-a.txt mb/dicts-escape.txt mb/dicts/grammar
 #dictsのencode: gb18030必須
 #dicts=の指定に非ASCII文字が含まれていると、たとえencode=UTF-8であろうと、あるいはむしろそのせいでその辞書は読み込まれない
 #mb/char/cj-prefix-ie.txt mb/ja.txt
-assist=q index/cj5-20902.txt
+assist=q index/cj5-20000.txt
 
 code_e1=p..
 code_e2=p11+p12+p21+p23+p22+p13+p16+p17+p18+p26+p27+p28
@@ -38,7 +38,6 @@ ape $yyyy-$mon0-$day0
 apu $hour时$min分$sec秒
 apo $hour時$min分
 apwo $HOUR時$MIN分
-
 
 
 
