@@ -8443,7 +8443,7 @@ afsi 딀$SPACE
 afse 딐$SPACE
 afsm 듽$SPACE
 afso 딏$SPACE
-afsu 븾$SPACE
+afsu 딎$SPACE
 afsn 딓$SPACE
 afsx 듺$SPACE
 afsv 딌$SPACE

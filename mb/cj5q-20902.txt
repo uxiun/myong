@@ -830,7 +830,7 @@ fsi 딀
 fse 딐
 fsm 듽
 fso 딏
-fsu 븾
+fsu 딎
 fsn 딓
 fsx 듺
 fsv 딌
