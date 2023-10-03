@@ -10,7 +10,7 @@ td $yyyy/$mon/$day $YYYY0-$MON-$DAY
 ti $hour:$min $HOUR:$MIN
 a ¡¤
 ; '
-p '
+p "
 q `
 g :
 h ;
