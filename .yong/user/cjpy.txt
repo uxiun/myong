@@ -37,6 +37,7 @@
 {0}omkcsz.xmrjuo 显然
 {0}bu 击
 {0}bouujf.tiiuoi 提出
+{0}bojjsjf.tiuioe 提示
 {0}bqhjiof.oidkue 指定
 {0}br 払
 {0}brenjrx.koohei 拡張
@@ -134,6 +135,7 @@
 {0}hjj.u 完
 {0}jerkqlq.kenguo 可能
 {0}juj.kf 顾
+{0}jyf+re 琴
 {0}jtdhdjew.wudrue 五段
 {0}jdo+s 原
 {0}jdffnos.yrzooe 原作
@@ -143,9 +145,11 @@
 {0}jvbjxrzwrs.srsuie 酸素
 {0}jvtwmhk.baqreo 覇权
 {0}jvtfcmhky.baqreo 覇権
+{0}ku+ldjydofsre.zimkqbeoo 自鳴琴
 {0}ku+nudodqr.zijideeua 自己的
 {0}kuskkdhjuu.uvjteo 睡覚
 {0}kfdbqqrdd.gzwuee 购物
+{0}kcimicl.whojue 网站
 {0}kcs 然
 {0}kk.mzstbmiwth.uzyelneee 授業料
 {0}laeefzjvvs.hvfwbnoii 回飞鏢
