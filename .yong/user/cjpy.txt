@@ -23,6 +23,7 @@
 {0}icimoh.wfohoi 文章
 {0}icwyr.wffaou 文法
 {0}ichet.wfzioe 文字
+{0}izsxfdwc.bmuuee 変数
 {0}izxjlcz.jnoiii 交织
 {0}ihxsdvhwl.lmlooe 連絡
 {0}ij 上
@@ -85,6 +86,7 @@
 {0}tdrqjwl.geuioe 格式
 {0}tciljjljl.yiyuuu 椅語
 {1}tj 本
+{0}tjdfjjsj.bnqmii 标签
 {0}tjj.s 标
 {0}tmidymkl.gzzcee 構造
 {0}tmisrcu.ldjqoe 来就
@@ -127,13 +129,14 @@
 {0}fjgj.rfgsoi 人工
 {0}fjftjy.qrtiou 全体
 {0}fjfrelgr.mklkee 命令
+{0}fjjyryhw.qrqqoo 全球
 {0}fjl 合
 {0}fjlkuyz.qryroo 全員
 {0}fkbgjfi.rzpdeo 肉排
 {0}fvikyirl.mwozui 每週
 {0}fvoir.mwriue 每日
 {0}fvfeogkf.vzxlue 偶像
-{1}d 的
+{0}d 的
 {0}doilsrg.jpdmou 節点
 {0}dbilnjjl.ugciio 生詞
 {0}dbyfnkuu.kjqieu 看起
@@ -146,6 +149,7 @@
 {0}dfwtduucw.wwboii 微波
 {0}dxxsirsru.xitseu 系統
 {0}dhegqdewqo.drjpei 段階
+{0}dhvmmhu.fjtsei 範囲
 {0}dku 自
 {0}dkidyuu.zixreu 自选
 {0}dkj+l 筒
@@ -194,6 +198,7 @@
 {0}jihrhvh.xxzdee 下載
 {0}jyf+re 琴
 {0}jtdhdjew.wudrue 五段
+{0}jgitdvcjg.ggxbei 更新
 {0}jgkjlv.yifuio 一幅
 {0}jdo+s 原
 {0}jdffnos.yrzooe 原作
@@ -242,9 +247,11 @@
 {0}njjuvs.lkhxoe 灵画
 {0}nljgjmb.qygsoi 群工
 {0}nlm+b 群
+{0}vys 黑
 {0}vg+oilmneu.mgrijieee 夢日記
 {0}vfg,g 界
 {0}vfjvnggg.jpmmee 界面
 {0}vlqimq.hvyioe 回憶
 {0}vltuq.hvxlou 回想
 {0}vmkjlz.yitseo 異同
+{0}vmm 囲
