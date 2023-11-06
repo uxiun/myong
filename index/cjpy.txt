@@ -7,7 +7,7 @@ commit=1 0 0
 auto_clear=0
 compact=2
 match=0
-; push=aeiou
+#push=a
 #push=.,byqptrwgfdscxzhjlkmnv #これらの文字から始まる綴で造詞できなくなる
 #pull=;
 nomove=; #これらの文字を含む綴の言葉は移動しない
@@ -16,11 +16,16 @@ wildcard=[ #memo here ok
 dwf=0
 auto_move=2
 user=user/cjpy.txt
-dicts=mb/dicts/mark.txt mb/ciz-prefix-a.txt mb/dicts-escape.txt mb/dicts/grammar-prefix-ie.txt mb/dicts/hangul-prefixed-a.txt
+dicts=mb/dicts/mark.txt mb/ciz-prefix-a.txt mb/dicts-escape.txt mb/dicts/hangul-prefixed-a.txt
+# mb/dicts/grammar-prefix-ie.txt
 #dictsのencode: gb18030必須
 #dicts=の指定に非ASCII文字が含まれていると、たとえencode=UTF-8であろうと、あるいはむしろそのせいでその辞書は読み込まれない
 #mb/char/cj-prefix-ie.txt mb/ja.txt
-assist=] index/cj5-20000.txt
+assist=] mb/ziz.txt 
+
+# code_e2 は2字熟語の綴規則を表す。規則の定義が複数あるときは前から順に適用可能なものが探される。
+# 例えばp27が規則に現れれば2文字目の缀长が7以上ないとその規則は適用不能。
+# これのおかげで、一つの字に打ち込むための短い綴と後ろに双拼が付いた長い正規の綴があるとき、後者が優先され、熟語の綴の後ろに確認用の双拼部を付け足せる
 
 ; code_e1=p..
 ; code_e2=p11+p12+p21+p23+p22+p13+p16+p17+p18+p26+p27+p28
@@ -187,18 +192,18 @@ code_e3=p11+p12+e+p21+p31+.+p13+p14+p23+p24+p33+p34+p15+p25+p35
 ; code_e3=p11+p12+p21+p22+p23+p13+p16+p17+p26+p27+p18+p28
 
 [DATA]
-atwe $yyyy/$mon0/$day0$SPACE
+atua $yyyy/$mon0/$day0$SPACE
 ata $yyyy年$mon月$day日$hour時$min分$sec秒$SPACE
-ati $yyyy年$mon月$day日$SPACE
-atwi $YYYY0年$MON月$DAY日$SPACE
-ate $yyyy-$mon0-$day0$SPACE
-atu $hour時$min分$sec秒$SPACE
-ato $hour時$min分$SPACE
-atwo $HOUR時$MIN分$SPACE
+atja $yyyy年$mon月$day日$SPACE
+atha $YYYY0年$MON月$DAY日$SPACE
+atma $yyyy-$mon0-$day0$SPACE
+atla $hour時$min分$sec秒$SPACE
+atka $hour時$min分$SPACE
+atia $HOUR時$MIN分$SPACE
 
-fk 内
-fkanwe 内
-#main generated spells 
+# fk 内
+# fkanwe 内
+# main generated spells 
 b 手
 c 乂 大
 d 丿 竹
