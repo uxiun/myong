@@ -706,6 +706,7 @@
 {0}jaedifqdew.yibjhxiie 一般化
 {0}jaezntjd.veffmueie 二分木
 {0}jeiinqt.siyzuo 死遊
+{0}jeixq.siwhuo 死亡
 {0}jerkqlq.kenguo 可能
 {0}jexrfl.keyiuu 可以
 {0}jehcoq.sioeuu 死者
