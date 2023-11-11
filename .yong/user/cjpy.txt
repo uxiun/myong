@@ -8,6 +8,8 @@
 {0}eoegfdujt.mmiuuo 免除
 {0}etetixf.hdzioa 孩子
 {0}er 夕
+{0}erileig.wdbuee 外部
+{0}erwkdiu.wdgrei 外观
 {0}ersder.douciu 多少
 {0}eg 引
 {0}egiutr.ybdcuu 引導
@@ -23,7 +25,9 @@
 {0}ezey.xnizuu 小丑
 {0}ezilrqj.xnuiue 小試
 {0}ezilzlu.xnuoui 小説
+{0}ejfqerj.rohxee 弱化
 {0}ekbjkff.fuzeeo 负责
+{0}ektdjndbg.jpxiui 解析
 {0}ekjmndb.jpkdui 解开
 {0}ekmfjuzl.fuheeo 負荷
 {0}el+brqdjbj.kekoxkuee 可扩性
@@ -36,6 +40,7 @@
 {0}i 与
 {1}i ㄹ$SPACE
 {0}iuuutr.dciuui 導出
+{0}iuf+rr 龄
 {0}iiojicf.oeuiee 这是
 {0}iiqndzk.uiqpee 適切
 {0}iy+imjywogqe.ouyidceee 注意到
@@ -57,6 +62,7 @@
 {0}igj+f 遗
 {0}iglxqk.uimbeo 市民
 {0}ifoilecs.yejkeu 夜景
+{0}ifg,e 刻
 {0}idbwbyu.xrzeuo 选择
 {0}idtdwnl.fhgeio 方格
 {0}idwyrn.fhfaiu 方法
@@ -70,6 +76,7 @@
 {1}ic 达
 {0}ic+grllwkreducl.lqljqioue 浏览器
 {0}icimoh.wfohoi 文章
+{0}icyimnu.bmjkie 边境
 {0}icrsjfc.xnykei 效应
 {0}icwyr.wffaou 文法
 {0}icfdb.wfjmoe 文件
@@ -102,6 +109,7 @@
 {0}ikk.l 過
 {0}il 高
 {0}ilentr.ojogei 战争
+{0}ilirhnuz.jiuuee 記述
 {0}ilickl.gcdaio 高达
 {0}ililfjshjk.pklyoe 評論
 {0}ilofjvtkz.ketieo 課題
@@ -124,10 +132,12 @@
 {0}imo 音
 {0}imrfto.ybleie 音楽
 {0}imdhdujkew.drdrie 端段
+{0}imhrkmr.jbboeo 进博
 {0}imjmdodd.ybxkio 音形
 {0}imkjjduz.dcjuee 道具
 {0}imlhtoq.yiwwee 意味
-{1}imm 进
+{0}imlm.bgkzeu 迸口
+{0}imm 进
 {0}immngo.ybjpio 音节
 {0}immngoh.ohjpio 章节
 {0}imndjoqg.yijlee 意匠
@@ -170,6 +180,7 @@
 {0}bouujf.tiiuoi 提出
 {0}borxrjfc.tiyioe 提议
 {0}bojjsjf.tiuioe 提示
+{0}bqsxfoc.oiuuue 指数
 {0}bqhjiof.oidkue 指定
 {1}br 找
 {0}breqf.koohei 扩张
@@ -177,10 +188,13 @@
 {0}brqbjsk.reqkeo 热情
 {0}brs 热
 {0}brljxxwn.bohcie 拨号
+{0}bgeoqvf.izxlie 抽象
 {0}bgtmbv.izyhie 抽样
 {0}bgrerjie.pdxuoe 排序
 {0}bgdwji.pdfjou 排反
 {0}bgxsfvjr.izhvie 抽絵
+{0}bf 夫
+{0}bfxnjk.fufuie 夫婦
 {0}bfj+l 捨
 {0}bfkfgkdue.gvzeio 规则
 {0}bfkzgkuue.gvzeio 規則
@@ -190,11 +204,14 @@
 {0}bdfdhg.iaruie 挿入
 {0}bddikqm.topjio 托盘
 {0}bdc 契
+{0}bdxsqcr.qiytei 契約
 {0}bdxjqcr.qiytei 契约
 {0}bdhdew.uzdrue 手段
 {0}bxsyku.uzxuue 手続
 {0}bxjhec.uzxuue 手续
 {0}bhrtw.jiuuee 技术
+{0}bhdkgzje.ksoiee 控制
+{0}bj+jekddhokjw.ugoixmioe 生殖腺
 {0}bjbfojx.oftiee 振替
 {0}bjfdykf.zerfoe 责任
 {0}bjfjyee.dadcue 打倒
@@ -207,6 +224,8 @@
 {0}bkwizjux.ycgyou 揺滾
 {0}bkmzkw.uzyeee 授业
 {0}bkmzmkwt.uzyeee 授業
+{0}blhbjkzl.syhdue 損害
+{0}bnilshl.judmeu 据点
 {0}bnilzhllu.juuoei 据説
 {0}bndylgw.bcgcee 报告
 {0}bnsbbjy.woqreo 握拳
@@ -218,11 +237,15 @@
 {1}ytd+ew 穀
 {0}yr 去
 {0}yrigkdn.iguioe 城市
+{0}yf 越
+{0}yfqfrx.ytoheu 越长
+{0}ys+dtbhviwh.hwkejiiie 黑科技
 {0}yhdylngw.bcgcee 報告
 {0}yhdgbcer.oibiou 執筆
 {0}ylwefml.xihrui 喜欢
 {0}ymskliwb.guohuu 鼔掌
 {0}yvify.mdyuoi 埋込
+{0}qo+sxfibfmcl.oiuubwuee 指数倍
 {0}qbyhnjkgw.qkbcoe 情報
 {0}qq 比
 {0}qqhhizc.bijnue 比較
@@ -238,6 +261,7 @@
 {0}qvnjdhzo.grxieo 慣習
 {0}taecnlr.uulikzeeu 术力口
 {0}te+oiltnru.mgrijieee 梦日記
+{0}ti+skhjdenhtf.kextjxioi 科学家
 {0}tirgrdeg.hhozoi 杭州
 {0}toilfrujk.gdlyee 概論
 {0}twdtge.qrlioe 权利
@@ -245,6 +269,7 @@
 {0}tfdxrcls.oixiie 椥系
 {0}tfhrtcl.oizdii 椥栽
 {0}tfhkfjjs.jmiauo 检察
+{0}tfj+f 検
 {0}tdrqjwl.geuioe 格式
 {0}tdf+e 桁
 {0}tdkbfw.pifuoi 皮肤
@@ -252,6 +277,7 @@
 {0}tciljjljl.yiyuuu 椅語
 {0}txtmmrrk.jigzie 機構
 {0}tj 本
+{0}tjtm.bflduo 本来
 {0}tjrjfjsy.bnoyiu 标准
 {0}tjdfjjsj.bnqmii 标签
 {0}tjdhkf.bfoiue 本质
@@ -260,6 +286,7 @@
 {0}tkxsyuku.xlxuie 相続
 {0}tmidymkl.gzzcee 構造
 {0}tmisrcu.ldjqoe 来就
+{0}tmicmk.gzwfeo 構文
 {0}tmbxrocf.moniou 模拟
 {0}tmrqidx.ldxioo 来袭
 {0}tmrqjoc.mouioe 模式
@@ -286,6 +313,7 @@
 {0}rxyodcw.faugii 发声
 {0}rxqenu.jiyiee 记忆
 {0}rxrxrkylqj.dnuiee 调试
+{0}rxrxftrq.tclyue 讨论
 {0}rxrxfjshq.pklyoe 评论
 {0}rxrxzdjir.sussee 诉讼
 {0}rxwyrnu.jifaeu 记法
@@ -301,6 +329,7 @@
 {0}rjwdngc.isjiii 冲激
 {0}rjfytqcf.nkjioo 凝集
 {0}rjhzrgc.istuii 冲突
+{0}rk+grfjhkjrdur.boljhvoue 博览会
 {0}rkcnqq.nglioe 能力
 {0}rlq 感
 {0}rlqdbqj.gjxkue 感性
@@ -313,6 +342,7 @@
 {0}wiimoyq.ouyiee 注意
 {0}wiy 注
 {0}wir+u 流
+{0}wigrkcedu.lqljou 浏览
 {0}widtwyb.ouuiee 注释
 {0}wic+g 济
 {0}winffc.uvzuuo 水族
@@ -341,6 +371,7 @@
 {0}whj.z 演
 {0}wjbjkcn.liqkei 沥青
 {0}wjmwdzvl.saloue 洒落
+{0}wkd+u 观
 {0}wmkqfhk.oiohee 滞胀
 {0}gaevjilyjrjl.osgoyuiou 中国語
 {0}geggdcvh.jlpduo 奖牌
@@ -352,8 +383,10 @@
 {0}grjudjw.hsxxoe 虹夏
 {0}grngjn.mfwwoe 门卫
 {0}gwidxxrs.jbyiui 紧衣
+{0}ggotrfo.lbuioo 临时
 {0}ggtsnnjj.gvdhie 归档
 {0}ggdfjgzje.uyxkeo 順行
+{0}ggxjqnjr.gvytii 归约
 {0}ggkc.osyhii 中央
 {0}ggndgnjk.gvuuiu 归属
 {0}gfdeiowdx.fuoiee 複製
@@ -380,9 +413,11 @@
 {0}fuxrlge.iluieu 创始
 {0}fidyl.rfzcoe 人造
 {0}fidrqgjij.qiveuo 企鹅
+{0}fisle.tkhoou 停火
 {0}fbilzerlu.iruooi 传説
 {0}fbtwjf.odqreo 债权
 {0}fbrxzerlu.iruooi 传说
+{0}fyfjlt.jiheoo 集合
 {0}fqumjilxf.xlqmie 镶嵌
 {0}fqqlurh.qmbcoi 钱包
 {0}fqfjnjfg.qkxpie 倾卸
@@ -409,6 +444,7 @@
 {0}fgf.gerfeo 个人
 {0}fgno.rfjmoi 人间
 {0}fficn.zowfeo 作文
+{0}ffrcens.zowwee 作為
 {0}ffg 价
 {0}ffdbcfr.osizeo 众筹
 {0}ffllln.zopbeu 作品
@@ -416,12 +452,15 @@
 {0}fderlw.fjmkuo 仮名
 {0}fdedfycn.rfwuee 任務
 {0}fdimoyq.rfyiee 任意
+{0}fdqxnbrj.vewuoi 俄乌
 {0}fdfjeyl.rfheeo 任何
+{1}fs 伙
 {0}fsxfc.rfuuoe 人数
 {0}fcililro.oiuiio 知識
 {0}fhiwfrx.wucjui 午餐
 {0}fhmkge.wuqmuo 午前
 {0}fj 会
+{0}fj+exmzlndljjg.hamasiiui 哈马斯
 {0}fje 气
 {0}fje+ 气
 {0}fje+e 例
@@ -450,6 +489,8 @@
 {0}fvoir.mwriue 每日
 {0}fvfeogkf.vzxlue 偶像
 {0}d 的
+{0}dewyridx.oifaeu 製法
+{0}dejtjgd.diwueu 第五
 {0}dejjjgd.disjei 第三
 {0}durxnkfjl.zjcieo 赞词
 {0}dilkfide.hhyroo 航员
@@ -462,20 +503,25 @@
 {0}dbtfcqddy.wuqreo 物権
 {0}dbwderw.womwuo 我没
 {0}dbwdhjl.ughoio 生活
+{0}dbfjljg.ugmkie 生命
 {0}dbdoqrr.wodeua 我的
 {0}dbdbqjdd.ugwuie 生物
 {0}dbdpdj.ugufii 生身
 {0}dbhjiytrf.tedkee 特定
+{0}dbjehjkj.ugoiio 生殖
 {0}dblllqdd.wupbeu 物品
 {0}dy 先
+{0}dyblkdewz.hvsyuu 毀損
 {0}dyrqqcn.dstdee 動態
 {0}dywovcnw.dsmjee 動漫
 {0}dyjuvcn.dshxee 動画
 {0}dtilqlqo.hexpoo 和諧
+{0}dtimmere.yijboe 移进
 {0}dtrerljye.igxuoe 程序
 {0}dtwyrr.sifaiu 私法
 {0}dtdoqrr.sideia 私的
 {0}dtstcg.oslwue 种类
+{0}dtskeiht.kextio 科学
 {0}dthqdqdu.mimiee 秘密
 {0}dtjjkerez.yixloe 移項
 {0}dtkbge.liysee 利用
@@ -484,12 +530,13 @@
 {0}dwildlhl.gehxee 各話
 {0}dwfdbt.tnjmoe 条件
 {0}dwdtgl.geoseu 各种
+{0}dfrcejjes.xkwwoe 行為
 {0}dfwtduucw.wwboii 微波
 {0}dfggnfowjk.fugvei 復帰
 {0}dffhgjjec.xkuiou 行使
 {0}dfdycjjen.xkdsoe 行動
 {0}dfdfjxrwje.hzxkeo 後行
-{0}dfj+ 行
+{0}dfj 行
 {0}dfjjfjjec.xkogoe 行政
 {0}dd 物
 {0}ddbtr.ueuzeu 射手
@@ -509,6 +556,7 @@
 {0}dkj+l 筒
 {0}dkkcsu.zirjeo 自然
 {0}dknuu.zijieu 自己
+{0}dnd 所
 {0}dnckdjg.soyzuu 所有
 {0}sosfnmw.bcoaee 爆炸
 {0}sonjy.hoycue 火曜
@@ -517,14 +565,17 @@
 {0}stc 类
 {0}stjeyc.lwxkeo 类型
 {0}stjyvihy.lnlieu 料理
+{0}stjlfbjkky.jkqtie 精確
 {0}stmgkbjkc.jkykii 精英
 {0}stnjsbjk.jklkio 精灵
 {0}sg+xjjjreuvgfj.ufjkyroio 神经元
 {0}sdcnku.ugliue 省力
 {0}sdmke.hojmue 火箭
 {0}sxbnhfcl.uujuee 数据
+{0}sxfimfcl.uubwee 数倍
 {0}sxskefct.uuxteo 数学
 {0}sktizetc.xtxnoe 学校
+{0}skfbet.xtnmoo 学年
 {0}sknrjet.xtxioo 学习
 {0}sknjdeto.xtxioo 学習
 {0}snhggje.dhuiie 当事
@@ -532,6 +583,7 @@
 {0}svfimh.djwwie 単位
 {0}c 大
 {0}caewirmmyw.grouduiee 关注度
+{0}ce+jjncnuf.vzyrquioi 欧元区
 {0}ceoqf.daxlee 大象
 {0}cu+tddbjeqdd.wujiwuoie 无机物
 {0}cbizwber.orbmue 转变
@@ -558,6 +610,7 @@
 {0}ckdwt.yztnuo 有条
 {0}cknbeg.yznaue 有那
 {0}cl 右
+{0}cnwsdl.jxuaii 加沙
 {0}cnhqdlu.jxmiie 加密
 {0}xet.nvziua 女子
 {0}xeddct.hcxnue 好笑
@@ -565,6 +618,7 @@
 {0}xrijf.yiuhue 以上
 {0}xrosdndd.hrykeu 幻影
 {0}xrjif.yixxue 以下
+{0}xrkcbf.yijyui 以军
 {0}xgfytw.uzjiio 収集
 {0}xseouejw.lvseee 緑色
 {0}xsimudwijk.osdrii 終端
@@ -605,15 +659,19 @@
 {0}heiyic.mdoueu 卖主
 {0}hevirt.zimueu 字母
 {0}hiinfcqt.uiuioi 实施
+{0}higyicdx.uioloi 实装
 {0}hidfjcje.uixkoo 实行
 {0}hikbc.uiysoe 实用
+{0}hinrjc.uixioo 实习
 {0}hbwyrjq.xmfaeu 憲法
 {0}hbftjc.uitiou 実体
 {0}hbnjdco.uixioo 実習
 {0}ht 未
 {0}htrcfc.jnyiee 教义
+{0}hrgrkkrdu.boljou 博览
 {0}hw+ezilhzylu.oixnuoeui 軽小説
 {0}hwbr.oifjiu 支払
+{0}hgqbjgek.uiqkeo 事情
 {0}hghicge.uiuieo 事实
 {0}hf+fdwyhrje.uurufaieu 輸入法
 {0}hfiyjo.suoueu 宿主
@@ -631,8 +689,10 @@
 {0}hhfdfje.uuruie 輸入
 {0}hjeeju.wjleoa 完了
 {0}hjinfnffc.jxzuio 家族
+{0}hjrcif.dkyiee 定义
 {0}hjfjyju.wjqroo 完全
 {0}hjfjjojr.xryyio 宣伝
+{0}hjsxfifc.dkuuee 定数
 {0}hjhgvt.yuozue 宇宙
 {0}hjj.u 完
 {0}hjjeyif.dkxkeo 定型
@@ -644,6 +704,7 @@
 {0}hmwhhzik.hjicoo 寒潮
 {0}hmz+f 赛
 {0}jaedifqdew.yibjhxiie 一般化
+{0}jaezntjd.veffmueie 二分木
 {0}jeiinqt.siyzuo 死遊
 {0}jerkqlq.kenguo 可能
 {0}jexrfl.keyiuu 可以
@@ -692,6 +753,7 @@
 {0}jshjilf.fzdkue 否定
 {0}jcfhgc.tmuiiu 天使
 {0}jcfje.tmqiie 天气
+{0}jcn 功
 {0}jxe 互
 {0}jxnhmejc.hulmeo 互联
 {0}jhyhngegw.kjbcie 刊報
@@ -725,6 +787,7 @@
 {0}jvtfcmhky.baqreo 覇権
 {0}jvwjzizxv.nljqeu 醸酒
 {0}jvfdbx.ycjmee 要件
+{0}kaeicqdccbnj.yzxnxkuee 有効性
 {0}ku 目
 {0}ku+ldjydofsre.zimkqbeoo 自鳴琴
 {0}ku+nudodqr.zijideeua 自己的
@@ -732,6 +795,7 @@
 {0}kuskkdhjuu.uvjteo 睡覚
 {0}kumhyefmy.dgxpeo 瞪鞋
 {0}konjy.ytycee 月曜
+{0}kymzkl.ozqiii 周期
 {0}ktilidn.cdfhuu 采訪
 {0}ktbwb.cdzeuo 采择
 {0}krgul.tdveio 胎儿
@@ -743,10 +807,12 @@
 {0}kcs 然
 {0}kzcgktd.cdbuoe 財布
 {0}kk.mzstbmiwth.uzyelneee 授業料
+{0}kkilmwmk.uzjleu 受講
 {0}kkkkdkwl.gugeuo 骨骼
 {0}laeefzjvvs.hvfwbnoii 回飞鏢
 {0}lu+jvwjrjszw.tjsruveiu 碳酸水
 {0}lrffy.kzzoue 口座
+{1}lfj+l 哈
 {0}ldrsjkl.xlykui 响应
 {0}lcjn.lkyiei 另一
 {0}lcn 另
@@ -767,11 +833,13 @@
 {0}lldxtrcl.qileee 器乐
 {0}lldhklf.pboiue 品质
 {0}lm+tdgrjwjzv.dzbjjleue 豆板醤
+{0}lnxdbgej.bpxkoe 别姓
 {0}me 艺
 {0}mert.yiuuee 艺术
 {0}mewjzwsv.ogjqiu 蒸酒
 {0}meg+d 萨
 {0}memktju.uucdie 蔬菜
+{0}myimomlq.ujyiee 善意
 {0}myrlqc.mwgjuu 美感
 {0}myvjycr.mwgouo 美国
 {0}mwmkerrs.bcjmoi 薄煎
@@ -782,6 +850,7 @@
 {0}mgiljkcjl.ykyuiu 英語
 {0}mf+zrhvyglk.tagsyuuie 塔公寓
 {0}mfj+l 荷
+{0}mdngvku.uzjpue 首届
 {0}mc 关
 {1}mce+g 鄭
 {0}mcihvh.grlmio 关連
@@ -794,6 +863,7 @@
 {0}mzjjuy.jiyrio 基元
 {0}mzk 期
 {0}mjimcqm.zhssee 葬送
+{0}mjt 某
 {0}mjhicjz.qiuioo 其实
 {0}mjmyc.gjmwiu 甘美
 {0}mkexmesm.jmbkiu 煎饼
@@ -823,6 +893,7 @@
 {0}nsimowgr.scybii 騒音
 {0}nsf+jf 験
 {0}nc 区
+{0}ncjjuef.vzyrio 欧元
 {0}nxjigfcj.gdogue 改正
 {0}nzjvnu.pipwue 匹配
 {0}nh 耳
@@ -847,6 +918,8 @@
 {0}vfyl.tmueoe 田舎
 {0}vfg,g 界
 {0}vfjvnggg.jpmmee 界面
+{0}vdegdwlwb.ltjlee 略降
+{0}vdw+l 略
 {0}vj 国
 {0}vjrxjyrjl.goyuou 国语
 {0}vjlxqyr.gomboo 国民
