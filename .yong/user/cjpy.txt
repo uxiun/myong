@@ -115,6 +115,7 @@
 {0}ilofjvtkz.ketieo 課題
 {0}ilqimnuq.jiyiee 記憶
 {0}iltoxjjl.yugfui 語根
+{0}ilrtr.ojuuee 战术
 {0}ilrgeh.jihxee 計划
 {0}ilwokklm.gcwfii 高温
 {0}ilgjghe.jihxee 計劃
@@ -909,6 +910,7 @@
 {0}nl+rxrqrcjw.qifauiuie 启发式
 {0}nljgjmb.qygsoi 群工
 {0}nlm+b 群
+{0}nnilelg.jubuoe 局部
 {0}vyiwfererx.yecjui 野餐
 {0}vys 黑
 {0}vyzs.hwjbii 黑金
