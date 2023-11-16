@@ -106,6 +106,7 @@
 {0}ichet.wfzioe 文字
 {0}icvtcn.xngoeu 効果
 {0}izierck.jntsii 交通
+{0}izoqdcd.jnyiie 交易
 {0}izbekdwc.bmhree 変换
 {0}izbekcc.jnhrie 交换
 {0}izbfoc.jntiie 交替
@@ -131,6 +132,7 @@
 {0}ikdbfkl.gouiei 過失
 {0}ikdychhn.yydsee 運動
 {0}ikk.l 過
+{0}ikmkffyc.lisjoe 離散
 {0}il 高
 {0}ilentr.ojogei 战争
 {0}ilirhnuz.jiuuee 記述
@@ -198,6 +200,7 @@
 {0}oyfrqtr.uiddoe 時代
 {0}oyhggtre.uiuioe 時事
 {0}oymzktr.uiqioi 時期
+{0}oqd+d 易
 {0}otj.ribfeu 日本
 {0}ogfeokcf.ykxlee 映像
 {0}ok 明
@@ -272,6 +275,7 @@
 {0}bhxgfc.fguzii 丰收
 {0}bj+jekddhokjw.ugoixmioe 生殖腺
 {0}bjbfojx.oftiee 振替
+{0}bjfbk.qknmio 青年
 {0}bjfdykf.zerfoe 责任
 {0}bjfjyee.dadcue 打倒
 {0}bjstzwnd.mdffeu 麦粉
@@ -588,6 +592,7 @@
 {0}fjjyflc.heoioe 合致
 {0}fjl 合
 {0}fjlkuyz.qryroo 全員
+{0}fjmddd.rfxkoo 人形
 {1}fk 内
 {0}fkbgjfi.rzpdeo 肉排
 {0}flbrnt.bchuue 保护
@@ -609,6 +614,7 @@
 {0}dilkfide.hhyroo 航员
 {0}doilsrg.jpdmou 節点
 {0}dofroeox.jmuiuo 簡食
+{0}db 牛
 {0}dbilfytrh.texueu 特許
 {0}dbilnjjl.ugciio 生詞
 {0}dbimdj.ugijiu 生产
@@ -623,6 +629,7 @@
 {0}dbdpdj.ugufii 生身
 {0}dbhjiytrf.tedkee 特定
 {0}dbjehjkj.ugoiio 生殖
+{0}dbktu.nqruou 牛乳
 {0}dblllqdd.wupbeu 物品
 {0}dy 先
 {0}dybkecnnt.dsjkee 動静
@@ -714,6 +721,7 @@
 {0}skilzetlu.xtuooi 学説
 {0}sktizetc.xtxnoe 学校
 {0}skfbet.xtnmoo 学年
+{0}skdbjet.xtugoi 学生
 {0}sknrjet.xtxioo 学习
 {0}sknjdeto.xtxioo 学習
 {0}smz 烘
@@ -872,6 +880,7 @@
 {0}jeiinqt.siyzuo 死遊
 {0}jeixq.siwhuo 死亡
 {0}jerkqlq.kenguo 可能
+{0}jedfxqrw.sihzue 死後
 {0}jexrfl.keyiuu 可以
 {0}jehcoq.sioeuu 死者
 {0}jejmgqe.sixkuo 死刑
@@ -933,6 +942,7 @@
 {0}jxe 互
 {0}jxnhmejc.hulmeo 互联
 {0}jhyhngegw.kjbcie 刊報
+{0}jj.jrfjicjrnr.yydshveee 运动会
 {0}jjyfc.yioiie 一致
 {0}jjq 悪
 {0}jjfecu.yrqioe 元気
@@ -944,6 +954,7 @@
 {0}jkksuvuc.dmnceu 電脳
 {0}jklllf.gspbeu 贡品
 {0}jl+frxsfedgrow.mklkxmeee 命令線
+{0}jlirffkyh.qtlvee 確率
 {0}jlirmtdwt.poqiee 破棄
 {0}jliltjmr.yjtcou 研討
 {0}jlilnfkyrq.qtrfee 確認
@@ -955,6 +966,7 @@
 {0}jmwyrge.xkfaou 刑法
 {0}jmg+e 刑
 {0}jmdhvzdy.yjosoe 严重
+{0}jmxrl.kduiiu 开始
 {0}jmhgggee.xkuioe 刑事
 {0}jmkcsddd.xkrjoo 形然
 {0}jmvgigele.xkfaoo 刑罰
@@ -985,6 +997,7 @@
 {0}kddtgbje.ugliee 胜利
 {0}kc+rskcgkcdu.yhuiwhieu 央视网
 {0}kcimicl.whojue 网站
+{0}kcdjls.rjhzoe 然后
 {0}kcs 然
 {0}kzcgktd.cdbuoe 財布
 {0}kjijl.tsuhoe 同上
@@ -1122,6 +1135,7 @@
 {0}vdegdwlwb.ltjlee 略降
 {0}vdw+l 略
 {0}vj 国
+{0}vjegjyrjs.gojioe 国际
 {0}vjimdyr.goijou 国产
 {0}vjrxjyrjl.goyuou 国语
 {0}vjhjnyrf.gojxoi 国家
