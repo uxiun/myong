@@ -1,4 +1,4 @@
-encode=UTF-8
+# encode=UTF-8
 key=ykdjflsierumcownxvzahg.,;pq
 len=3
 commit=0 0 0

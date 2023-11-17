@@ -15,12 +15,14 @@
 {0}ersder.douciu 多少
 {0}ersziljl.mkyuoe 名誉
 {0}erzri.wdgsei 外公
+{0}ervjyir.wdgoeo 外国
 {0}eg 引
 {0}egiutr.ybdcuu 引導
 {0}egyrnkjg.zuqtue 阻却
 {0}egtdeick.svjioi 随机
 {0}egfjgickc.svbmoe 随便
 {0}egdftidnbe.fhwwoe 防衛
+{0}egsxfc.ybuuue 引数
 {0}eghbjimhl.ohhdee 障害
 {0}egkb.ybysue 引用
 {0}ef 飞
@@ -29,6 +31,7 @@
 {0}efdikm.fwpjio 飞盘
 {0}edmhntc.rzrfoe 柔靱
 {0}ecdjdgbe.jmouee 建筑
+{0}ecnmxdix.yjojou 延展
 {0}ezey.xnizuu 小丑
 {0}ezilrqj.xnuiue 小試
 {0}ezilzlu.xnuoui 小説
@@ -101,6 +104,7 @@
 {0}icyimnu.bmjkie 边境
 {0}icrsjfc.xnykei 效应
 {0}icwyr.wffaou 文法
+{0}icftj.wftiou 文体
 {0}icfdb.wfjmoe 文件
 {0}icsket.wfxtoo 文学
 {0}ichet.wfzioe 文字
@@ -234,6 +238,7 @@
 {0}bqsxfoc.oiuuue 指数
 {0}bqhjiof.oidkue 指定
 {0}btejedburj.hcroee 耗弱
+{0}btde.uzjiui 手机
 {1}br 找
 {0}breqf.koohei 扩张
 {0}brenjrx.koohei 拡張
@@ -251,6 +256,7 @@
 {0}bgrerjie.pdxuoe 排序
 {0}bgdwji.pdfjou 排反
 {0}bgdjiji.pdiioe 排斥
+{0}bgskelt.oextoo 哲学
 {0}bgxsfvjr.izhvie 抽絵
 {0}bf 夫
 {0}bfxnjk.fufuie 夫婦
@@ -405,6 +411,7 @@
 {0}rxfijcwl.faxbie 发信
 {0}rxffgjshg.pkjxoe 评价
 {0}rxdkuhm.jisree 计算
+{0}rxhjidewf.uedkee 设定
 {0}rzidndur.mofhoi 魔方
 {0}rzxdur.monvou 魔女
 {0}rzjydur.mowhoo 魔王
@@ -506,6 +513,7 @@
 {0}gvimou.dmybei 电音
 {0}gvjyr.osgoio 中国
 {0}gvjlmuxr.dmcieo 电磁
+{0}gvkiuuc.dmnceu 电脑
 {0}feftrc.qifuee 気付
 {0}fezndc.qiffei 気分
 {0}fevbnznd.ffwwio 氛围
@@ -560,6 +568,7 @@
 {0}fderlw.fjmkuo 仮名
 {0}fdedfycn.rfwuee 任務
 {0}fdimoyq.rfyiee 任意
+{0}fdbqdd.rfwuoe 人物
 {0}fdqxnbrj.vewuoi 俄乌
 {0}fdfjeyl.rfheeo 任何
 {1}fs 伙
@@ -616,6 +625,7 @@
 {0}dofroeox.jmuiuo 簡食
 {0}db 牛
 {0}dbilfytrh.texueu 特許
+{0}dbiljqddjl.wuyueu 物語
 {0}dbilnjjl.ugciio 生詞
 {0}dbimdj.ugijiu 生产
 {0}dby 特
@@ -635,8 +645,10 @@
 {0}dybkecnnt.dsjkee 動静
 {0}dyblkdewz.hvsyuu 毀損
 {0}dyqqtr.dgbiuu 等比
+{0}dytxrcnr.dsjiei 動機
 {0}dyrqqcn.dstdee 動態
 {0}dywovcnw.dsmjee 動漫
+{0}dyfjgtrv.dgsiue 等価
 {0}dydklcn.dsxlee 動向
 {0}dyjuvcn.dshxee 動画
 {0}dtilqlqo.hexpoo 和諧
@@ -668,6 +680,7 @@
 {0}dffhgjjec.xkuiou 行使
 {0}dfdycjjen.xkdsoe 行動
 {0}dfdfjxrwje.hzxkeo 後行
+{0}dfskeiret.xrxteo 衒学
 {0}dfj 行
 {0}dfjjufow.fuyreo 復元
 {0}dfjjfjjec.xkogoe 行政
@@ -683,7 +696,9 @@
 {0}dhnjjr.qmcgio 千层
 {0}dhvmmhu.fjtsei 範囲
 {0}dku 自
+{0}dkuuum.sriuei 算出
 {0}dkidyuu.zixreu 自选
+{0}dkojvly.xlllee 向量
 {0}dkrmwge.oiduee 制度
 {0}dkwyrum.srfaeu 算法
 {0}dkwrlu.zioiee 自治
@@ -697,6 +712,7 @@
 {0}dnd 所
 {0}dnckdjg.soyzuu 所有
 {0}saehjmzjikf.budkqieei 不定期
+{0}saejeimjlu.bukenieue 不可逆
 {0}sosfnmw.bcoaee 爆炸
 {0}sonjy.hoycue 火曜
 {0}sbwtcge.pjjteo 判決
@@ -711,6 +727,7 @@
 {0}stnjsbjk.jklkio 精灵
 {0}sg+xjjjreuvgfj.ufjkyroio 神经元
 {0}sdfb.ucnmuo 少年
+{0}sdfqcn.lphxee 劣化
 {0}sdcnku.ugliue 省力
 {0}sdmke.hojmue 火箭
 {0}scbfyjkz.lwtvei 類推
@@ -746,6 +763,7 @@
 {0}ctjeq.uasiiu 杀死
 {0}crerer.tddoei 太多
 {0}crvxrs.tdlwee 太累
+{0}cgxjryh.zdxmee 在线
 {0}cdflggjre.duiloe 独創
 {0}cdxjjodj.xkhsio 猩红
 {0}cdvggnuji.fjzvee 犯罪
@@ -786,6 +804,7 @@
 {0}xxttrd.xlcyii 乡村
 {0}xjeouejw.lvseee 绿色
 {0}xjqfwww.ovoheu 缀长
+{0}xjtqryl.jpgzoe 结构
 {0}xjr+h 线
 {0}xjwicefjg.jkjiie 经济
 {0}xjwtreou.jtdvoe 绝对
@@ -818,9 +837,11 @@
 {0}znwrld.ffoiie 分治
 {0}znd 分
 {0}znstcd.fflwie 分类
+{0}znhlgde.ffgeii 分割
 {0}znjvndu.ffpwie 分配
 {0}heiyic.mdoueu 卖主
 {0}heqlt.zijuee 字句
+{0}hedtgt.zioseu 字种
 {0}hesxftc.ziuuee 字数
 {0}hevirt.zimueu 字母
 {0}hiinfcqt.uiuioi 实施
@@ -879,6 +900,7 @@
 {0}jaezntjd.veffmueie 二分木
 {0}jeiinqt.siyzuo 死遊
 {0}jeixq.siwhuo 死亡
+{0}jeimul.keniue 可逆
 {0}jerkqlq.kenguo 可能
 {0}jedfxqrw.sihzue 死後
 {0}jexrfl.keyiuu 可以
@@ -888,6 +910,7 @@
 {0}jenscqjl.siqiuo 死騎
 {0}ju.hjhgjtv.yryuozoue 元宇宙
 {0}juttdv.hxcdeo 画材
+{0}jufkzke.llceue 両側
 {0}juhjnvf.hxjxei 画家
 {0}juj.kf 顾
 {0}jiwkkk.xxhxeo 下滑
@@ -908,6 +931,7 @@
 {0}jyfrqkdu.xmddee 现代
 {0}jyhickdu.xmuieo 现实
 {0}jtdhdjew.wudrue 五段
+{0}jwtr.yidvie 一对
 {0}jgitdvcjg.ggxbei 更新
 {0}jgkjlv.yifuio 一幅
 {0}jgmzj.gsyeie 工业
@@ -931,10 +955,12 @@
 {0}jsoythr.pkuioo 平時
 {0}jsojif.buuiee 不是
 {0}jsyqrhj.pkjyoi 平均
+{0}jsrxhec.budueo 不读
 {0}jsfcl.buoiei 不知
 {0}jsdythr.pkdgou 平等
 {0}jshjif.budkee 不定
 {0}jshjilf.fzdkue 否定
+{0}jsjel.bukeeu 不可
 {0}jcfu.wurfoo 无人
 {0}jcfhgc.tmuiiu 天使
 {0}jcfje.tmqiie 天气
@@ -1070,6 +1096,7 @@
 {0}mjt 某
 {0}mjhicjz.qiuioo 其实
 {0}mjmyc.gjmwiu 甘美
+{0}mjmjtt.mzmzuu 某某
 {0}mkexmesm.jmbkiu 煎饼
 {0}mkildgehl.qmhxoe 前話
 {0}mkt 菜
@@ -1119,6 +1146,7 @@
 {0}nle+g 郡
 {0}nljgjmb.qygsoi 群工
 {0}nlm+b 群
+{0}nmjmx.ojkdui 展开
 {0}nnilelg.jubuoe 局部
 {0}vyiwfererx.yecjui 野餐
 {0}vys 黑
@@ -1136,6 +1164,7 @@
 {0}vdw+l 略
 {0}vj 国
 {0}vjegjyrjs.gojioe 国际
+{0}vjiljyrjl.goyuou 国語
 {0}vjimdyr.goijou 国产
 {0}vjrxjyrjl.goyuou 国语
 {0}vjhjnyrf.gojxoi 国家
