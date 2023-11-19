@@ -32,6 +32,7 @@
 {0}edmhntc.rzrfoe 柔靱
 {0}ecdjdgbe.jmouee 建筑
 {0}ecnmxdix.yjojou 延展
+{0}exlllfgk.uipbeu 饰品
 {0}ezey.xnizuu 小丑
 {0}ezilrqj.xnuiue 小試
 {0}ezilzlu.xnuoui 小説
@@ -314,6 +315,7 @@
 {0}yfqonhw.quoieu 趣旨
 {0}yfqfrx.ytoheu 越长
 {0}ys+dtbhviwh.hwkejiiie 黑科技
+{0}yc+sdxm.mwucnvuuu 美少女
 {0}yhdylngw.bcgcee 報告
 {0}yhdgbcer.oibiou 執筆
 {0}ylwefml.xihrui 喜欢
@@ -380,6 +382,7 @@
 {0}tnmkthg.yecdie 椰菜
 {0}tvils.dsjkii 東京
 {0}r 我
+{0}regnof.oijmii 之间
 {0}ri+sbdnhgddxejg.cdpjsooeu 裁判所
 {0}rofzfxl.llsuoo 良俗
 {1}rq 応
@@ -440,6 +443,7 @@
 {0}wigrkcedu.lqljou 浏览
 {0}widtwyb.ouuiee 注释
 {0}wic+g 济
+{0}wizfljf.segueu 渋谷
 {0}winffc.uvzuuo 水族
 {0}wojuvvw.mjhxee 漫画
 {0}wy 圣
@@ -458,6 +462,9 @@
 {0}ww 汉
 {1}ww 双
 {0}wwbihh.ulpbii 双拼
+{0}wfdbvi.hdnquo 海牛
+{0}wfcdhvico.hdouui 海猪
+{0}wfkjnvif.hdtyuo 海豚
 {0}wd 没
 {0}wdigjdxl.pdqmeu 派遣
 {0}wddbjdx.pdugei 派生
@@ -571,7 +578,7 @@
 {0}fdbqdd.rfwuoe 人物
 {0}fdqxnbrj.vewuoi 俄乌
 {0}fdfjeyl.rfheeo 任何
-{1}fs 伙
+{0}fs 伙
 {0}fsxfc.rfuuoe 人数
 {0}fcililro.oiuiio 知識
 {0}fcfdtx.vdrfuo 矮人
@@ -859,6 +866,7 @@
 {0}hrsbgidxe.cdpjoe 裁判
 {0}hw+ezilhzylu.oixnuoeui 軽小説
 {0}hwbr.oifjiu 支払
+{0}hgizdgew.uibmee 事変
 {0}hgqbjgek.uiqkeo 事情
 {0}hggvge.uiyzeo 事由
 {0}hghicge.uiuieo 事实
@@ -915,6 +923,7 @@
 {0}juj.kf 顾
 {0}jiwkkk.xxhxeo 下滑
 {0}jifim.xxwwee 下位
+{0}jiftjgj.ogtieu 正体
 {0}jisnjgj.ogdhei 正当
 {0}jihrcb.xxzdee 下载
 {0}jihrhvh.xxzdee 下載
@@ -930,7 +939,9 @@
 {0}jyf+re 琴
 {0}jyfrqkdu.xmddee 现代
 {0}jyhickdu.xmuieo 现实
+{0}jyjyitdwuk.boliio 玻璃
 {0}jtdhdjew.wudrue 五段
+{0}jtmb.yiyhie 一样
 {0}jwtr.yidvie 一对
 {0}jgitdvcjg.ggxbei 更新
 {0}jgkjlv.yifuio 一幅
@@ -975,6 +986,7 @@
 {0}jjfbu.yrnmoo 元年
 {0}jjhbjnl.lihdee 厉害
 {0}jk+jkbjbfxvirs.qkmwsuioe 青霉素
+{0}jkozjljlkz.luxmeu 露顕
 {0}jkf 页
 {0}jkhrtvu.dmzdei 電栽
 {0}jkksuvuc.dmnceu 電脳
@@ -986,6 +998,7 @@
 {0}jlilnfkyrq.qtrfee 確認
 {0}jlw 泵
 {0}jldikmxrm.cipjoo 磁盘
+{0}jljlitdwfh.posvee 破碎
 {0}jljvrujszw.tjsrei 碳酸
 {0}jmyytr.kdfgii 开封
 {0}jmrqjddd.xkuioe 形式
@@ -1037,6 +1050,7 @@
 {0}lrffy.kzzoue 口座
 {1}lfj+l 哈
 {0}ldrsjkl.xlykui 响应
+{0}ldzegud.xsdiie 兄弟
 {0}lcjn.lkyiei 另一
 {0}lcn 另
 {0}lxiyq.mbouou 民主
@@ -1092,6 +1106,7 @@
 {0}mzdwkym.jipjio 基盤
 {0}mzjjuy.jiyrio 基元
 {0}mzk 期
+{0}mhckkgk.ddyzeu 带有
 {0}mjimcqm.zhssee 葬送
 {0}mjt 某
 {0}mjhicjz.qiuioo 其实
@@ -1149,12 +1164,15 @@
 {0}nmjmx.ojkdui 展开
 {0}nnilelg.jubuoe 局部
 {0}vyiwfererx.yecjui 野餐
-{0}vys 黑
+{0}vys 黒
+{1}vys 黑
 {0}vyzs.hwjbii 黑金
+{0}vyndcsw.hwfaie 黒髪
 {0}vqwjds.siyrio 思源
 {0}vt 果
 {0}vg+oilmneu.mgrijieee 夢日記
 {0}vgerlhco.uumkuo 署名
+{0}vgxjsmhjb.jibjie 羁绊
 {0}vgzile.fajboi 罰金
 {0}vgjmggjie.zvxkeo 罪刑
 {0}vfyl.tmueoe 田舎
