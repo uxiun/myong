@@ -6,8 +6,6 @@ push=yahg.,;pq
 user=user/hanguldisable.txt
 
 [DATA]
-td $yyyy/$mon/$day $YYYY0-$MON-$DAY
-ti $hour:$min $HOUR:$MIN
 a ¡¤
 ; '
 p "

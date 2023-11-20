@@ -1,7 +1,6 @@
 encode=UTF-8
 key=;abcdefghijklmnopqrstuvwxyz+'
 len=63 #max
-#yong=1 #itodayds -> ayds §Ú∑¿§Æ°¢-> s §Œ§ﬂ∑µ§π §≥§»§œ§«§≠§ø
 commit=0 1 0
 auto_clear=1
 #compact=
@@ -10,7 +9,7 @@ match=0
 #push=aeiou
 pull=;
 nomove=;
-wildcard=]
+wildcard=[
 dwf=0
 dicts=mb/dicts/jp.txt
 auto_move=2
@@ -40,12 +39,8 @@ code_a3=p11+p21+n21+n11
 
 [DATA]
 
+li „Çä$SPACE
 to+day $yyyy/$mon/$day
-to+dayd $yyyyƒÍ$mon‘¬$day»’
-to+days $YYYY0ƒÍ$MON‘¬$DAY»’
-to+daye $yyyy-$mon0-$day0
-no+w $hour:$min:$sec
-no+wd $hourïr$min∑÷
-no+wf $HOURïr$MIN∑÷
 li+f [
 li+d [[
+to „ÅÇ$SPACE

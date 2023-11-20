@@ -1,11 +1,11 @@
 
 
 encode=UTF-8
-key=+.,aeuiobyqptrwgfdscxzhjklmnv;'`
+key=.,abyqptrwgfdscxzhjklmnveuio+;'`
 len=32
 commit=1 0 0
 auto_clear=0
-compact=2
+;compact=2
 match=0
 #push=a
 #push=.,byqptrwgfdscxzhjlkmnv #これらの文字から始まる綴で造詞できなくなる
