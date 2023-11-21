@@ -123,6 +123,7 @@
 {0}qij 鸟
 {0}qo+sxfibfmcl.oiuubwuee 指数倍
 {0}taecnlr.uulikzeeu 术力口
+{0}ttkbjjs.jbysee 禁用
 {0}ttvhljjs.jbguee 禁固
 {0}ttigjjjs.jboieu 禁止
 {0}twdtge.qrlioe 权利
@@ -531,6 +532,7 @@
 {0}sdfqcn.lphxee 劣化
 {0}sdcnku.ugliue 省力
 {0}sdmke.hojmue 火箭
+{0}sdvdwkul.ugltue 省略
 {0}scbfyjkz.lwtvei 類推
 {0}sxbnhfcl.uujuee 数据
 {0}sxfimfcl.uubwee 数倍
@@ -820,6 +822,7 @@
 {0}jufkzke.llceue 両側
 {0}juhjnvf.hxjxei 画家
 {0}juj.kf 顾
+{0}jirqjgj.oguiee 正式
 {0}jiwkkk.xxhxeo 下滑
 {0}jiftjgj.ogtieu 正体
 {0}jifim.xxwwee 下位
@@ -827,6 +830,7 @@
 {0}jihrcb.xxzdee 下载
 {0}jihrhvh.xxzdee 下載
 {0}kaeicqdccbnj.yzxnxkuee 有効性
+{0}ka+ililjjjljl.ytyuyueuu 月語語
 {0}kymzkl.ozqiii 周期
 {0}ktbwb.cdzeuo 采择
 {0}ktilidn.cdfhuu 采訪
@@ -1090,6 +1094,7 @@
 {0}itinfkuufc.qbzuio 親族
 {0}iryrnmtg.qiqtee 棄却
 {0}irf 率
+{0}iriljsjl.uuyuou 熟語
 {0}iwjjefrx.cjtkii 餐厅
 {0}igyojkd.uiiheu 市場
 {0}igdbjjf.tcugoi 逃生
