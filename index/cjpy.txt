@@ -202,6 +202,244 @@ atla $hour時$min分$sec秒$SPACE
 atka $hour時$min分$SPACE
 atia $HOUR時$MIN分$SPACE
 
+
+jza あ
+jzi い
+jzu う
+jze え
+jzo お
+jzai ぁ
+jzii ぃ
+jzui ぅ
+jzui ぇ
+jzoi ぉ
+
+kza か
+kzi き
+kzu く
+kze け
+kzo こ
+gza が
+gzi ぎ
+gzu ぐ
+gze げ
+gzo ご
+kzai きゃ
+kzui きゅ
+kzoi きょ
+gzai ぎゃ
+gzui ぎゅ
+gzoi ぎょ
+
+xza さ
+xzi し
+xzu す
+xze せ
+xzo そ
+zza ざ
+zzi じ
+zzu ず
+zze ぜ
+zzo ぞ
+xzai しゃ
+xzui しゅ
+xzoi しょ
+zzai じゃ
+zzui じゅ
+zzoi じょ
+
+tza た
+tzi ち
+tzu つ
+tze て
+tzo と
+dza だ
+dzi ぢ 
+dzu づ
+dze で
+dzo ど
+tzai ちゃ
+tzui ちゅ
+tzoi ちょ
+dzai ぢゃ
+dzui ぢゅ 
+dzoi ぢょ
+
+nza な
+nzi に
+nzu ぬ
+nze ね
+nzo の
+nzai にゃ
+nzui にゅ
+nzoi にょ
+
+hza は
+hzi ひ
+hzu ふ
+hze へ
+hzo ほ
+vza ば
+vzi び
+vzu ぶ
+vze べ
+vzo ぼ
+hzai ひゃ
+hzui ひゅ
+hzoi ひょ
+vzai びゃ
+vzui びゅ
+vzoi びょ
+
+mza ま
+mzi み
+mzu む
+mze め
+mzo も
+mzai みゃ
+mzui みゅ
+mzoi みょ
+
+yza や
+yzu ゆ
+yzo よ
+yzai ゃ
+yzui ゅ
+yzoi ょ
+
+lza ら
+lzi り
+lzu る
+lze れ
+lzo ろ
+lzai りゃ
+lzui りゅ
+lzoi りょ
+
+fza わ
+fzo を
+fzu ん
+fzai ゎ
+
+jzao ア
+jzio イ
+jzuo ウ
+jzeo エ
+jzoo オ
+jzaio ァ
+jziio ィ
+jzuio ゥ
+jzuio ェ
+jzoio ォ
+
+kzao カ
+kzio キ
+kzuo ク
+kzeo ケ
+kzoo コ
+gzao ガ
+gzio ギ
+gzuo グ
+gzeo ゲ
+gzoo ゴ
+kzaio キャ
+kzuio キュ
+kzoio キョ
+gzaio ギャ
+gzuio ギュ
+gzoio ギョ
+
+xzao サ
+xzio シ
+xzuo ス
+xzeo セ
+xzoo ソ
+zzao ザ
+zzio ジ
+zzuo ズ
+zzeo ゼ
+zzoo ゾ
+xzaio シャ
+xzuio シュ
+xzoio ショ
+zzaio ジャ
+zzuio ジュ
+zzoio ジョ
+
+tzao タ
+tzio チ
+tzuo ツ
+tzeo テ
+tzoo ト
+dzao ダ
+dzi ヂ 
+dzuo ヅ
+dzeo デ
+dzoo ド
+tzaio チャ
+tzuio チュ
+tzoio チョ
+dzaio ヂャ
+dzui ヂュ 
+dzoio ヂョ
+
+nzao ナ
+nzio ニ
+nzuo ヌ
+nzeo ネ
+nzoo ノ
+nzaio ニャ
+nzuio ニュ
+nzoio ニョ
+
+hzao ハ
+hzio ヒ
+hzuo フ
+hzeo ヘ
+hzoo ホ
+vzao バ
+vzio ビ
+vzuo ブ
+vzeo ベ
+vzoo ボ
+hzaio ヒャ
+hzuio ヒュ
+hzoio ヒョ
+vzaio ビャ
+vzuio ビュ
+vzoio ビョ
+
+mzao マ
+mzio ミ
+mzuo ム
+mzeo メ
+mzoo モ
+mzaio ミャ
+mzuio ミュ
+mzoio ミョ
+
+yzao ヤ
+yzuo ユ
+yzoo ヨ
+yzaio ャ
+yzuio ュ
+yzoio ョ
+
+lzao ラ
+lzio リ
+lzuo ル
+lzeo レ
+lzoo ロ
+lzaio リャ
+lzuio リュ
+lzoio リョ
+
+fzao ワ
+fzoo ヲ
+fzuo ン
+fzaio ヮ
+
+
 f= success
 
 # fk 内
