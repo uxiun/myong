@@ -412,6 +412,7 @@
 {0}rfimoqq.ziyiee 恣意
 {0}rft 楽
 {0}rffrgrkjr.fuuiuo 腐蝕
+{0}rfstikfh.zilnie 资料
 {0}rdicn.igwfoo 成文
 {0}rdimn.iglioe 成立
 {0}rsizwj.ykbmie 应变
@@ -479,8 +480,8 @@
 {0}wthjicf.jtdkoe 決定
 {0}wrdecgg.ozfgii 洲风
 {0}wrsddl.jmucuu 減少
-{0}ww 汉
-{1}ww 双
+{0}ww 双
+{1}ww 汉
 {0}wwbihh.ulpbii 双拼
 {0}wfdbvi.hdnquo 海牛
 {0}wfcdhvico.hdouui 海猪
@@ -688,6 +689,7 @@
 {0}dydfjduje.xmxkio 先行
 {0}dydklcn.dsxlee 動向
 {0}dyjuvcn.dshxee 動画
+{0}dqnkgnge.ybuxei 印刷
 {0}dtilqlqo.hexpoo 和諧
 {0}dtimmere.yijboe 移进
 {0}dtrerljye.igxuoe 程序
@@ -833,6 +835,7 @@
 {0}xrosdndd.hrykeu 幻影
 {0}xrjif.yixxue 以下
 {0}xrkcbf.yijyui 以军
+{0}xrmkgfe.yiqmuo 以前
 {0}xgfytw.uzjiio 収集
 {0}xf+bnrhshvclh.uujukueee 数据庫
 {0}xseouejw.lvseee 緑色
@@ -976,6 +979,7 @@
 {0}jy 王
 {0}jyeknvydb.lijpuu 理解
 {0}jyicge.dcdaeo 到达
+{0}jyilfvyjk.lilyue 理論
 {0}jyimofre.jmybii 玪音
 {0}jyyrdn.whigoo 王城
 {0}jytmge.dcldeo 到来
@@ -1085,6 +1089,8 @@
 {0}kfdbqqrdd.gzwuee 购物
 {0}kf+jewymgrce.sjlpfaeeu 散列法
 {0}kddtgbje.ugliee 胜利
+{0}ksb,j 腾
+{0}ksrxebjh.tgxyoe 腾讯
 {0}kcimicl.whojue 网站
 {0}kcdjls.rjhzoe 然后
 {0}kcs 然
@@ -1097,6 +1103,7 @@
 {0}kk.mzstbmiwth.uzyelneee 授業料
 {0}kkilmwmk.uzjleu 受講
 {0}kkkkdkwl.gugeuo 骨骼
+{0}kndwcgwn.fuwuoe 服务
 {0}laeefzjvvs.hvfwbnoii 回飞鏢
 {0}lu+jvwjrjszw.tjsruveiu 碳酸水
 {0}lqlhclut.pcxnoi 咆哮
