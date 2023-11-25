@@ -184,12 +184,12 @@ code_e3=p11+p12+++p21+p22+p31+.+p13+p14+p23+p24+p33+p34+p15+p25+p35
 [DATA]
 # "[DATA]"以降が定義部。; や # をkey= の指定に含めていれば以降その文字を前置しても無視されず定義行として扱われるので注意
 atua $yyyy/$mon0/$day0$SPACE
-ata $yyyy年$mon月$day日$hour時$min分$sec秒$SPACE
-atja $yyyy年$mon月$day日$SPACE
+ata $yyyy年$mon0月$day0日$hour0時$min分$sec秒$SPACE
+atja $yyyy年$mon0月$day0日$SPACE
 atha $YYYY0年$MON月$DAY日$SPACE
 atma $yyyy-$mon0-$day0$SPACE
 atla $hour時$min分$sec秒$SPACE
-atka $hour時$min分$SPACE
+atka $hour0時$min分$SPACE
 atia $HOUR時$MIN分$SPACE
 
 # yong-trans copy start
