@@ -5,6 +5,7 @@
 {0}em+fdoxcs.grxiie 関係
 {0}uq+yftnu.xlqiuu 想起
 {0}ud+skkkhjdu.uvjteo 睡觉
+{0}ic+dfhjje.uixkoo 实行
 {0}ih+bizmhx.lmjpei 鏈接
 {0}ils 点
 {0}imo 音
@@ -13,6 +14,7 @@
 {0}oa+ilnu.rijiee 日記
 {0}oa+tj.ribfeu 日本
 {0}oa+tjaf.ribfrfeuo 日本人
+{0}oe+svdho.jmdjui 簡単
 {0}be,drng.nameea 那么
 {0}bq,ildjddjl.wuyueu 物語
 {0}bj+yfdnu.ugqiiu 生起
@@ -25,6 +27,7 @@
 {0}yk+ggjnjk.zdgvei 再帰
 {0}ti+skdeht.kextio 科学
 {0}tr+olws.dvocee 对照
+{0}tfj+f 検
 {1}tj 本
 {0}ro+ylfjlkz.chxpio 倉頡
 {0}wa+rxwjjl.hjyueu 汉语
@@ -32,18 +35,23 @@
 {1}ww 汉
 {0}wd+jydvey.iuliuu 処理
 {0}ga+vjyr.osgoio 中国
+{0}ged,w 版
 {0}gg,dtgvz.uyfjei 順番
 {0}gg,zmfo.jpcoee 介錯
 {0}gv+xsbfjr.izhvie 抽絵
 {0}fa+fjlg.rfmkoe 人命
 {0}fe+ljddfjwl.jkluee 径路
 {0}fre+r 令
+{0}fg,jvvngg.jpmmee 界面
 {0}ff,wddhowl.fuhoeo 復活
+{0}fj+fctlf.jmoiui 検知
 {1}d ㄱ
 {0}do+ 的
 {0}do+jujvs.yrhxoe 原画
 {0}db+rxdnuu.bijiue 笔记
 {0}dd 物
+{0}dl+ilinlu.ovjiie 追記
+{0}dl+ljiilgz.ovjiii 追跡
 {0}dn+jving.fhmmie 方面
 {0}dn+lkrf.igyroo 成员
 {0}sa+ojjif.buuiee 不是
@@ -53,7 +61,9 @@
 {0}sr+hl+llxhrnknhcl.bmjiqiioe 編輯器
 {0}szb 挙
 {0}ske+t 学
+{0}ca+fdib.wfjmoe 文件
 {0}cc,irifnh.xnlvee 効率
+{0}cc,xjkdwl.whloue 网络
 {0}cj 左
 {0}cj+dnfdlmjg.drsouu 短所
 {0}ck 有
@@ -67,6 +77,8 @@
 {0}zj+oeho.ksjmii 空間
 {0}zv+cnylo.zgjxii 増加
 {0}hb+ichn.hjwfoo 韩文
+{0}hw+wsnk.quxnui 取消
+{0}hjj.u 完
 {0}ja+tmb.yiyhie 一样
 {0}ja+ky+slerc.yijnuziue 一角獣
 {0}ja+nd+tjz.vrffmueie 二分木
@@ -74,6 +86,7 @@
 {0}jx+dnndjg.ohsouu 長所
 {0}jx+jybkuu.bnxmue 表現
 {0}jh.krky.gjzhie 肝脏
+{0}jj.fjhyu.wjqroo 完全
 {0}jk+dyfdwu.yzxmii 優先
 {0}jk+dtfewdn.yzxqie 優秀
 {0}jl+re+rxjffrgrh.mklkxmeee 命令线
