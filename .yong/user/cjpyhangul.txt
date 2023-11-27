@@ -2,8 +2,10 @@
 {0}eo+egojlk.jmgeio 間隔
 {0}eg+szjbe.lpjueu 列挙
 {0}es+xeft.nihcuu 你好
+{0}ej+lddlgr.fglviu 風呂
 {0}em+fdoxcs.grxiie 関係
 {0}uq+yftnu.xlqiuu 想起
+{0}ut+fdlr.dcruue 导入
 {0}ud+skkkhjdu.uvjteo 睡觉
 {0}ic+dfhjje.uixkoo 实行
 {0}ih+bizmhx.lmjpei 鏈接
@@ -62,6 +64,7 @@
 {0}szb 挙
 {0}ske+t 学
 {0}ca+fdib.wfjmoe 文件
+{0}ca+heit.wfzioe 文字
 {0}cc,irifnh.xnlvee 効率
 {0}cc,xjkdwl.whloue 网络
 {0}cj 左
@@ -78,6 +81,7 @@
 {0}zv+cnylo.zgjxii 増加
 {0}hb+ichn.hjwfoo 韩文
 {0}hw+wsnk.quxnui 取消
+{0}hd+egdqewqo.drjpei 段階
 {0}hjj.u 完
 {0}ja+tmb.yiyhie 一样
 {0}ja+ky+slerc.yijnuziue 一角獣
