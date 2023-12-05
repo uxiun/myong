@@ -26,6 +26,7 @@
 {0}imo 音
 {0}imo+ 音
 {0}im+idwjkz.qiyjeo 泣顔
+{0}im+vgfhkj.wwoiee 位置
 {0}o 日
 {0}oa+ilnu.rijiee 日記
 {0}oa+tj.ribfeu 日本
@@ -36,6 +37,7 @@
 {0}bq,ildjddjl.wuyueu 物語
 {0}bj+yfdnu.ugqiiu 生起
 {0}bj+yhqnkgw.qkbcoe 情報
+{0}bj+dbdqdd.ugwuie 生物
 {0}ya+ofijkz.outiuo 主題
 {0}ya+fj+jlioekzf.outigeuoi 主題歌
 {0}ya+myidbr.ouyiue 主義
@@ -44,6 +46,7 @@
 {0}yt+znbdr.iiffoi 持分
 {0}yr+fw.farfuo 法人
 {0}yd+rsdkuj.xmzuiu 先祖
+{0}yc+ildnnjl.dscieo 動詞
 {0}yc+vjmyr.mwgouo 美国
 {0}yj.im+iimjyosu.hrjkyboei 环境音
 {0}yj.yijmsu.hrjkoe 环境
@@ -51,7 +54,6 @@
 {0}qa+kbr.ykysie 応用
 {0}qt+ff.tarfio 他人
 {0}qr+rdtn.gzigeo 构成
-{-}qj 性
 {0}qj+ 性
 {0}qk+infjuz.ddyueu 貸与
 {0}qm+fmisz.xuwuio 虚無
@@ -62,12 +64,14 @@
 {0}tg,kbde.liysee 利用
 {0}tfj+f 検
 {0}tc,fxsrf.lwuiee 类似
+{0}thk+j 植
 {1}tj 本
 {0}tj+igtjjs.jboieu 禁止
 {0}ra+dmzfdf.gsosie 公衆
 {0}ro+ylfjlkz.chxpio 倉頡
 {0}rq 応
 {0}rh+hjgjku.buwjuo 補完
+{0}rl+ilenjl.mkcioo 名詞
 {0}wa+rxwjjl.hjyueu 汉语
 {0}wa+mbku.uvoeua 水着
 {1}ww 汉
@@ -146,6 +150,7 @@
 {0}za+doeis.xnnnuu 小鳥
 {0}zd+jgivwc.bmggee 変更
 {0}zj+oeho.ksjmii 空間
+{0}zj+doh.ksbdio 空白
 {0}zlq+ 总
 {0}zv+cnylo.zgjxii 増加
 {0}hb+ichn.hjwfoo 韩文
@@ -157,15 +162,19 @@
 {0}hc+fn+ftfmfcoy.ouzoqreeo 著作権
 {0}hz+ilbdjji.kssuee 控訴
 {0}hjj.u 完
+{0}hk+dbtqjdd.oiwuoe 植物
 {0}hv+bcdjyc.oszzee 重奏
 {0}ja+ileg.yibuie 一部
 {0}ja+tmb.yiyhie 一样
+{0}ja+fjee.yiliie 一例
 {0}ja+dyil.uhgcee 上告
 {0}ja+ky+slerc.yijnuziue 一角獣
 {0}ja+nd+tjz.vrffmueie 二分木
 {0}je+erfie.liwdee 例外
+{0}jy.ekfy.qrjnou 全角
 {0}jyk 再
 {0}jt+ilrrc.jtojoe 决战
+{0}js+lrjzw.uisoei 示唆
 {0}jx+dnndjg.ohsouu 長所
 {0}jx+jybkuu.bnxmue 表現
 {0}jh.krky.gjzhie 肝脏
@@ -204,6 +213,7 @@
 {0}ll.ffbnt.cczoie 操作
 {0}lm+weyfl.xihrui 喜欢
 {0}ln+irihuz.jiuuee 記述
+{0}lv.ofijtkz.ketieo 課題
 {0}mo+kuidqu.yijmee 意見
 {0}mc+fiijl.ssxbee 送信
 {0}mx+iknjy.ojwhue 展望
