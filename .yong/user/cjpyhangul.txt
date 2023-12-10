@@ -30,7 +30,6 @@
 {0}ud+skkkhjdu.uvjteo 睡觉
 {0}i ㄹ
 {0}ia+hrjhvh.xxzdee 下載
-{-}it 新
 {0}itd 新
 {0}ir+imvo.muybui 母音
 {0}ir+rlwqu.lqgjou 流感
@@ -46,6 +45,7 @@
 {0}id+cgfext.yicyio 依存
 {1}ic 文
 {0}ic+dfhjje.uixkoo 实行
+{0}ih 斗
 {0}ih+bizmhx.lmjpei 鏈接
 {0}ij 上
 {0}ils+ 京
@@ -61,6 +61,7 @@
 {0}oa+tjaf.ribfrfeuo 日本人
 {0}oe+svdho.jmdjui 簡単
 {0}ou 巴
+{0}od 星
 {0}ox+dgrkuz.lloioe 良質
 {0}oj+dnyddjg.ihsouu 場所
 {0}ok 明
@@ -120,7 +121,6 @@
 {1}r ㅌ
 {0}ra+dmzfdf.gsosie 公衆
 {0}ri 我
-{-}ri+ 我
 {0}ro+ylfjlkz.chxpio 倉頡
 {0}rq 応
 {0}rqj 式
@@ -128,6 +128,7 @@
 {0}rq+hcno.rfoeuu 忍者
 {0}rh+hjgjku.buwjuo 補完
 {0}rj+fcolxu.jioiei 既知
+{0}rk+rsgkmdu.jmuiie 监视
 {0}rlq 感
 {0}rl+ilenjl.mkcioo 名詞
 {0}rn+tuxq.hrxleu 幻想
@@ -153,9 +154,11 @@
 {0}gg,dtgvz.uyfjei 順番
 {0}gg,zmfo.jpcoee 介錯
 {0}gg,jj.jfjjijjrr.yayyhveee 亞运会
+{0}gj+odnbj.wwxkei 卫星
 {0}gj+ffmqi.fwlyio 菲伦
 {0}gj+dw+dergflg.pmfjmkeuo 片仮名
 {0}gk+ilmjcjl.ykyuiu 英語
+{0}gk+juovc.ykhxee 映画
 {0}gv+xsbfjr.izhvie 抽絵
 {0}f ㄷ
 {0}fa+fjlg.rfmkoe 人命
@@ -183,6 +186,7 @@
 {0}do+ 的
 {0}do+jujvs.yrhxoe 原画
 {0}do+vcjs.yryboi 原因
+{0}db,dxorjs.xkxiie 星系
 {0}dbr 我
 {0}db+qxfnrj.vewuoi 俄乌
 {0}db+rxdnuu.bijiue 笔记
@@ -241,6 +245,7 @@
 {0}xa+hjhif.vjdkie 安定
 {0}xa+kkiixf.whhdoo 亡骸
 {0}xrn 幻
+{0}xr+xjdisru.xitseu 系统
 {0}xf+bnshcl.uujuee 数据
 {0}xf+nh+nrcsbbcl.uujukueee 数据库
 {0}xsd+ff 縦
@@ -296,6 +301,7 @@
 {0}jo 유
 {0}jy.ekfy.qrjnou 全角
 {0}jy.ilvjrjl.goyuou 国語
+{0}jq+ihg.bwdzue 北斗
 {0}jq+immcm.zhssee 葬送
 {0}jt+ilrrc.jtojoe 决战
 {0}jw 야
@@ -306,8 +312,6 @@
 {0}jf+dtjkc.ogceee 政策
 {1}jd 이
 {0}jdo+s 原
-{1}js 不
-{2}js 아
 {0}js+junv.lkhxoe 灵画
 {0}js+lrjzw.uisoei 示唆
 {0}jc 에
