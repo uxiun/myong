@@ -1,6 +1,6 @@
-,. ,$SPACE
+,b ,$SPACE
 ,, ,,$SPACE
-,b бл$SPACE
+,. бл$SPACE
 ,q #$SPACE
 
 ,t (($SPACE
@@ -53,8 +53,8 @@
 ,la бл$SPACE
 ,lq иD$SPACE
 
-., .$SPACE
-.y $HOME$SPACE
+.b .$SPACE
+.y \t$SPACE
 .p $END$SPACE
 .a =$SPACE
 .e го$SPACE
@@ -138,4 +138,3 @@
 .cn /$SPACE
 .cv \$SPACE
 
-iammark mark.txtLoaded

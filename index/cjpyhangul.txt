@@ -1,7 +1,7 @@
 
 # 基本的に#でcommentを書くと良い。;だと位置によっては挙動がおかしくなる
 encode=UTF-8
-key=.,=aeuiobyqptrwgfdscxzhjklmnv+;'`
+key==byqptrewgfdscxzuiohjklmnv.,a+;'`
 len=63 ;max
 commit=1 0 0
 auto_clear=0
@@ -192,7 +192,8 @@ atla $hour時$min分$sec秒$SPACE
 atka $hour0時$min分$SPACE
 atia $HOUR時$MIN分$SPACE
 
-# yong-trans copy startb 手
+# yong-trans copy start
+b 手
 c 大 乂
 d 丿 竹
 e 弓
