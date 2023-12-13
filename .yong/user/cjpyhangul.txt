@@ -9,6 +9,7 @@
 {0}be,drng.nameea 那么
 {0}be,nhmqy.xqiiiu 羞恥
 {0}bg,oyster.pjuieo 判時
+{0}bfj+l 捨
 {0}bf+dt+dmimmceb.fulilmoeo 芙莉莲
 {0}bj+yfdnu.ugqiiu 生起
 {0}bj+yhqnkgw.qkbcoe 情報
@@ -21,6 +22,7 @@
 {0}yt+fjfl.jiheoo 集合
 {0}yt+znbdr.iiffoi 持分
 {0}yt+oeoor.uijmoi 時間
+{1}yr 去
 {0}yr+fw.farfuo 法人
 {0}yr+jywvy.faliuu 法理
 {0}yf+imjorr.lkyboi 玲音
@@ -43,6 +45,7 @@
 {0}yl+td+tsxkwfwc.ozbouuiie 周波数
 {0}yl+wtkdw.ozboii 周波
 {0}yl+mzkk.ozqiii 周期
+{0}yv.tujqy.lixluu 理想
 {0}yv.gjjnyi.lifwui 理非
 {0}ya+ftij.outiuu 主体
 {0}ya+fj+jlioekzf.outigeuoi 主題歌
@@ -58,10 +61,12 @@
 {0}qk+infjuz.ddyueu 貸与
 {0}qk+oigls.bwjkeu 背景
 {0}qm+fmisz.xuwuio 虚無
+{0}qnd 切
 {0}qa+wjvds.siyrio 思源
 {0}qa+ggmjg.xbpmie 芯片
 {0}qa+kbr.ykysie 応用
 {0}pd+indd.ufbmii 身辺
+{0}pd+njdx.ufohiu 身長
 {0}tb,kksijkck.jksviu 精髓
 {0}tr+rswj.dvykei 对应
 {0}tr+dodqr.sideia 私的
@@ -100,6 +105,7 @@
 {0}re+wkezee.yuceue 予測
 {0}re+dkeuem.yusrue 予算
 {0}rft 楽
+{0}rf,djxl.yihzue 以后
 {0}ri 我
 {0}ri+kuedu.wdjmee 外見
 {0}ro+ylfjlkz.chxpio 倉頡
@@ -114,6 +120,7 @@
 {0}rl+szeijl.mkyuoe 名誉
 {0}rl+ilenjl.mkcioo 名詞
 {0}rn+tuxq.hrxleu 幻想
+{0}rn+mbfjk.pmiaie 偏差
 {0}ra+egcojd.tdyheo 太陽
 {0}ra+dyrl.glgcue 広告
 {0}ra+dmzfdf.gsosie 公衆
@@ -122,6 +129,7 @@
 {0}er+fqikkuz.tshoie 通貨
 {0}er+fiijkl.tsxbie 通信
 {0}er+kbb.orysie 专用
+{0}er+mbjjh.cjiaoe 残差
 {0}ee 了
 {0}ew+sxufc.hjuuoe 函数
 {0}eg+szjbe.lpjueu 列挙
@@ -170,6 +178,7 @@
 {0}gk+juovc.ykhxee 映画
 {0}gv+tmbb.izyhie 抽样
 {0}gv+xsbfjr.izhvie 抽絵
+{0}gv+uub.iziuii 抽出
 {0}ga+ffod.osuhii 中傷
 {0}ga+idn.osfhii 中方
 {0}ga+jy.ilvjrjl.osgoyuiou 中国語
@@ -189,6 +198,7 @@
 {0}fo+bjgxwrs.fusuee 複素
 {0}fo+el+ekkdjcxw.hfkevduue 很可爱
 {0}fo+degiwdx.fuoiee 複製
+{0}fo+sxgfwc.fuuuee 複数
 {1}fj 仝
 {0}fje+ 气
 {0}fj+ 会
@@ -209,6 +219,7 @@
 {0}fa+jgj.rfgsoi 人工
 {0}d ㄱ
 {0}dbr 我
+{0}db,rkqqjq.xkngeo 性能
 {0}db,dxorjs.xkxiie 星系
 {0}db+qxfnrj.vewuoi 俄乌
 {0}db+rxdnuu.bijiue 笔记
@@ -218,6 +229,7 @@
 {0}dt+tl+terddirjy.ueigwdeoe 射程外
 {0}dt+dtdlrjy.ueigeo 射程
 {0}de,mvcw.yimneo 疫苗
+{0}de,njkx.rsohuu 冗長
 {0}dwt 条
 {0}dw+tufq.fjxluu 仮想
 {0}dw+erfl.fjmkuo 仮名
@@ -228,14 +240,18 @@
 {0}df+ 很
 {0}dd 物
 {0}dd,dbwjx.pdugei 派生
+{0}dx,sxffsc.xiuuee 係数
 {0}dx,knigw.yifuio 衣服
 {0}dx,nzfvro.dicgio 低層
+{0}duq 息
 {0}do+ 的
 {0}do+jujvs.yrhxoe 原画
+{0}do+kzjgse.yrzeoo 原則
 {0}do+vcjs.yryboi 原因
 {0}dh+rqtjt.ouuiie 株式
 {0}dh+fdbbg.iajmie 挿件
 {0}dh+dtiere.qmyiio 迁移
+{0}dlu+ 乱
 {0}dl+cnill.ovjxii 追加
 {0}dl+ilinlu.ovjiie 追記
 {0}dl+ljiilgz.ovjiii 追跡
@@ -245,17 +261,20 @@
 {0}dn+jving.fhmmie 方面
 {0}dn+lkrf.igyroo 成员
 {0}da+fbs.ucnmuo 少年
+{0}da+jvqx.biycee 必要
 {0}sbn+u 巻
 {0}sb,lofo.bjihee 伴唱
 {0}sy+fjrjr.uehvee 社会
 {0}sy+lkrf.ueyreo 社员
 {0}sy+njrx.ueoheu 社長
 {0}sy+vtrr.uetreo 社団
+{0}sy+vtxl.jpgoou 結果
 {0}sr+dtxlnkjy.bmigio 編程
 {0}sr+hhxlnknh.bmjiio 編輯
 {0}sr+hl+llxhrnknhcl.bmjiqiioe 編輯器
 {0}se+sxxfdwc.jiuuoe 級数
 {0}sw,ikxkyl.jkgoie 経過
+{0}sd+jmxdowdd.xmxkeo 線形
 {0}ss 炎
 {0}sx+xsxystku.jixuee 継続
 {0}si+ilxhru.tsjiue 統計
@@ -263,10 +282,13 @@
 {0}sh+rdjn.pkigoo 平成
 {0}sh+dtjknq.pkwfou 平穏
 {0}ske+t 学
+{0}sk+yrw.xnquie 消去
 {0}sk+imxj.zuliue 組立
 {0}sa+ymjh.buxkee 不幸
 {0}sa+rkjqq.bungeo 不能
+{0}sa+dyjtr.budgeu 不等
 {0}sa+xejt.buhceu 不好
+{0}sa+itjr.bugoee 不过
 {0}sa+ojjif.buuiee 不是
 {0}sa+jejq.busieu 不死
 {0}sa+lijf.buzueo 不足
@@ -299,11 +321,13 @@
 {0}ca+xskmu.daghei 大綱
 {0}ca+heit.wfzioe 文字
 {0}ca+hljl.tmgsii 天宫
+{0}ca+vizr.fumueu 父母
 {0}x ㄲ
 {0}xrn 幻
 {0}xr+tmtmrk.jigzie 機構
 {0}xr+xjdisru.xitseu 系统
 {0}xf+bnshcl.uujuee 数据
+{0}xf+izndcw.gdbmue 改変
 {0}xf+hestc.uuziee 数字
 {0}xf+nh+nrcsbbcl.uujukueee 数据库
 {0}xsd+ff 縦
@@ -318,6 +342,7 @@
 {1}zd+beikwc.bmhree 変换
 {0}zd+sxifwc.bmuuee 変数
 {0}zd+jgivwc.bmggee 変更
+{0}zc 父
 {0}zc+beikc.jnhrie 交换
 {0}zj+doh.ksbdio 空白
 {0}zj+oeho.ksjmii 空間
@@ -354,6 +379,7 @@
 {0}ig+bfjkjuu.oggvei 正規
 {0}ig+eijxjr.ogxmeo 正弦
 {0}ig+fk+ffqjbjuu.oggvhxeie 正規化
+{0}ig+fk+fjmjbdjuudd.oggvxkeio 正規形
 {0}ig+sxjfjc.oguuee 正数
 {0}ig+ix+iwtjedjrw.ogxmboeoi 正弦波
 {0}ig+jljfjky.ogqtee 正確
@@ -370,6 +396,7 @@
 {0}ih 斗
 {0}ih+bizmhx.lmjpei 鏈接
 {0}ij 上
+{0}ij+dufql.xbxiei 信息
 {0}ij+kbfl.xbysee 信用
 {0}ij+ljfxln.xbhcee 信号
 {0}ilf+jk 論
@@ -383,6 +410,7 @@
 {0}in.wrwt.yzxioe 游戏
 {0}ia+hrjhvh.xxzdee 下載
 {1}o ㅊ
+{0}oq+dlwuq.hylree 混乱
 {0}oe+svdho.jmdjui 簡単
 {0}od 星
 {0}ox+dgrkuz.lloioe 良質
@@ -417,12 +445,15 @@
 {0}hv+bcdjyc.oszzee 重奏
 {0}hv+xsiyhku.lmxuoe 連続
 {0}hv+xsiyhl.lmjpoo 連結
+{0}hv+ildsy.osdmeu 重点
 {0}hv+imdoy.osybei 重音
+{0}hv+vlaggdnyjk.oshvgveoi 重回帰
 {0}ha+ffbn.fgzoie 丰作
 {0}jy.egvjrjs.gojioe 国际
 {0}jy.ekfy.qrjnou 全角
 {0}jy.fyft.qrjioo 全集
 {0}jy.ilvjrjl.goyuou 国語
+{0}jy.vtxl.jpgoou 结果
 {0}jq+ihg.bwdzue 北斗
 {0}jq+ilgs.bwjkui 北京
 {0}jq+immcm.zhssee 葬送
@@ -446,6 +477,7 @@
 {0}jdo+s 原
 {0}jd+dowws.yrqroo 源泉
 {0}js 不
+{0}js+ojiif.hduioe 还是
 {0}js+junv.lkhxoe 灵画
 {0}js+lrjzw.uisoei 示唆
 {1}jx 얘
@@ -467,27 +499,33 @@
 {0}jk+fdbyf.zerfoe 责任
 {0}jk+dyfdwu.yzxmii 優先
 {0}jk+dtfewdn.yzxqie 優秀
+{0}jk+cgxejwt.hrcyuo 缓存
 {0}jl+re+rxjffrgrh.mklkxmeee 命令线
 {0}jl+frfegr.mklkee 命令
 {0}jl+fruol.yjchoi 岩倉
 {0}jl+kjfl.hetsoo 合同
+{0}jl+mzkk.tsqioi 同期
 {0}jn 万
 {0}jn+ejxjuw.jiluee 纪录
 {0}jn+cc,cirgifinh.fwxnlviee 非効率
 {0}jn+iulcnk.julieo 距离
 {0}jv+tjts.bnbfiu 標本
+{0}jv+wyths.bnoyiu 標準
+{0}jv+dtieure.qmyiio 遷移
 {0}jv+imody.llijeu 量产
 {0}ja+tmb.yiyhie 一样
 {0}ja+fjee.yiliie 一例
 {0}ja+flfo.tsoioe 仝智
 {0}ja+dyil.uhgcee 上告
 {0}ja+dwt.yitnio 一条
+{0}ja+ct,jir.yidvyiiei 一対一
 {0}ja+ileg.yibuie 一部
 {0}ja+jyfc.yioiie 一致
 {0}ja+ky+slerc.yijnuziue 一角獣
 {0}ja+mzjk.vrqiei 二期
 {0}ja+nd+tjz.vrffmueie 二分木
 {0}kt+dtbv.cdfjui 採番
+{0}kt+kbb.cdysue 採用
 {0}ke+dobqntr.jkdeea 静的
 {0}ke+oq+jebdyntr.jkdexkeao 静的型
 {0}ke+njsdto.xtxioo 学習
@@ -496,6 +534,8 @@
 {0}kg+egdoex.oixmee 制限
 {0}kg+vjiykr.digoeo 帝国
 {0}kf+mkifyc.lisjoe 離散
+{0}kde 冗
+{0}kd+ilwsu.grdmiu 观点
 {0}kc+rsgkdu.yhuiie 央视
 {0}kc+fdsynn.lcdsoe 労働
 {0}kc+dy+dhcsfonn.lcdsoeoeu 労働者
@@ -532,6 +572,7 @@
 {0}le+llilg.bupbeu 部品
 {0}lg+iliijikn.fwbhue 誹謗
 {0}ld+dflruze.ozuuee 呪術
+{0}ld+ilihew.uejiee 設計
 {0}lc+cijn.kxdaie 誇大
 {0}lz+okilu.uomkio 説明
 {0}lh+dkium.jisree 計算
@@ -543,6 +584,7 @@
 {0}ll.ffbnt.cczoie 操作
 {0}lm+weyfl.xihrui 喜欢
 {0}lm+dw+dgrjtjzv.dzbjjleue 豆板醤
+{0}ln+wyiru.jifaeu 記法
 {0}ln+irihuz.jiuuee 記述
 {0}lv.ofijtkz.ketieo 課題
 {0}la+wirze.tdwjoi 台湾
@@ -561,6 +603,7 @@
 {0}mo+rfit.ybleie 音楽
 {0}mo+ilikyl.ybdnie 音調
 {0}mo+ilikl.ybgcii 音高
+{0}mo+jetyc.moxkoo 模型
 {0}mo+kuidqu.yijmee 意見
 {0}mh.rsyjlv.xkfueo 幸福
 {0}mj.cnujfr.qmtcee 嵌套
@@ -578,17 +621,20 @@
 {0}nt+qlgud.bibcei 闭包
 {0}nt+mogcdk.bimuee 闭幕
 {0}nf+irimct.fhqiee 放棄
+{0}nd+bfqjl.qpueeu 切捨
 {0}nd+tdzjg.ffxiii 分析
 {0}nd+rezf.ffoiii 分之
 {0}nd+rldqjg.sogjuu 所感
 {0}nd+ef+ejzr.ffoiyiiii 分之一
 {0}nd+dtoll.ocheio 昭和
 {0}nd+stzc.fflwie 分类
+{0}nd+zk+zfqgm.iuqihxiie 初期化
 {0}nd+hlzge.ffgeii 分割
 {0}nd+mzgk.iuqiii 初期
 {0}nc+jvtx.uuycie 枢要
 {0}nc+mkfsw.yitgio 伊藤
 {0}nu 己
+{0}nh.dfoxwrw.zvhzee 最後
 {0}nh.sbogwe.zvpjee 最判
 {0}nh.ilokwl.zvgcei 最高
 {0}nj+rqij.yuuiue 与式
