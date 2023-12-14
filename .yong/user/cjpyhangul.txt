@@ -9,10 +9,12 @@
 {0}be,drng.nameea 那么
 {0}be,nhmqy.xqiiiu 羞恥
 {0}bg,oyster.pjuieo 判時
+{0}bf 夫
 {0}bfj+l 捨
 {0}bf+dt+dmimmceb.fulilmoeo 芙莉莲
 {0}bj+yfdnu.ugqiiu 生起
 {0}bj+yhqnkgw.qkbcoe 情報
+{0}bj+qfd.ugohiu 生长
 {0}bj+dbdqdd.ugwuie 生物
 {0}bj+dfdyif.ugtuio 生徒
 {0}ba+thf.nmmooe 年末
@@ -56,6 +58,8 @@
 {0}qt+jiy.dixxee 地下
 {0}qt+jkyjjx.diofee 地震
 {0}qr+rdtn.gzigeo 构成
+{0}qr+iewrk.gztsii 沟通
+{0}qf 长
 {0}qi+lljrgjcl.wuqiue 武器
 {0}qj+ 性
 {0}qk+infjuz.ddyueu 貸与
@@ -67,6 +71,7 @@
 {0}qa+kbr.ykysie 応用
 {0}pd+indd.ufbmii 身辺
 {0}pd+njdx.ufohiu 身長
+{0}tb,rssgjkvg.jkufio 精神
 {0}tb,kksijkck.jksviu 精髓
 {0}tr+rswj.dvykei 对应
 {0}tr+dodqr.sideia 私的
@@ -78,6 +83,7 @@
 {0}tf,hjhrcy.jnuiee 教室
 {0}tdw 板
 {0}td+gninjgh.xbwfio 新闻
+{0}td+mjwjw.boljio 波兰
 {0}tc,bhqgf.kkjpeo 快捷
 {0}tc,fxsrf.lwuiee 类似
 {0}tc,hg+hzeqbcfb.kkjpjmeoe 快捷鍵
@@ -125,7 +131,11 @@
 {0}ra+dyrl.glgcue 広告
 {0}ra+dmzfdf.gsosie 公衆
 {0}ra+vyzlx.gsyrio 公園
-{0}e ㅋ
+{0}e 弓
+{1}e ㅋ
+{0}eq+qcjgk.ksbuue 恐怖
+{0}eq+jkjjjz.silkuo 死霊
+{0}eq+kj+kfrjjhjzll.silkgruou 死霊館
 {0}er+fqikkuz.tshoie 通貨
 {0}er+fiijkl.tsxbie 通信
 {0}er+kbb.orysie 专用
@@ -148,7 +158,9 @@
 {0}em+dx,dviofccs.grxituieo 関係図
 {0}ent 争
 {0}ea+rtm.yiuuee 艺术
-{0}w ㅂ
+{0}w 水
+{1}w ㅂ
+{0}wqr 沟
 {0}wr 戏
 {0}ww 汉
 {0}wd+jydvey.iuliuu 処理
@@ -158,6 +170,7 @@
 {0}wa+byhtr.oiiiio 支持
 {0}wa+rxwjjl.hjyueu 汉语
 {0}wa+dkdl.fjxlue 反向
+{0}wa+sy+fjdrjr.fjuehvuee 反社会
 {0}wa+hewt.hjziee 汉字
 {0}wa+hldfc.fjguue 反故
 {0}wa+mbku.uvoeua 水着
@@ -171,6 +184,8 @@
 {0}gg,zmfo.jpcoee 介錯
 {0}gg,jj.jfjjijjrr.yayyhveee 亞运会
 {0}gf,dfemtrif.fucseo 附従
+{0}gf,jkejjtjz.iulkoo 除霊
+{0}gi+jleomhjr.ohvdee 障碍
 {0}gj+ffmqi.fwlyio 菲伦
 {0}gj+dw+dergflg.pmfjmkeuo 片仮名
 {0}gj+odnbj.wwxkei 卫星
@@ -213,11 +228,16 @@
 {0}fn+rtyu.qiiluo 起床
 {0}fn+jufv.zohxee 作画
 {0}fv+jxftir.wuruuu 侮辱
+{0}fv+kjwnif.hdtyuo 海豚
+{0}fa+tdwl.rfgeoo 人格
+{0}fa+evs.rfyuoo 人魚
 {0}fa+fjlg.rfmkoe 人命
 {0}fa+dbqdd.rfwuoe 人物
 {0}fa+stc.rflwoe 人类
+{0}fa+xnbjk.fufuie 夫婦
 {0}fa+jgj.rfgsoi 人工
-{0}d ㄱ
+{0}d 竹
+{1}d ㄱ
 {0}dbr 我
 {0}db,rkqqjq.xkngeo 性能
 {0}db,dxorjs.xkxiie 星系
@@ -250,11 +270,14 @@
 {0}do+vcjs.yryboi 原因
 {0}dh+rqtjt.ouuiie 株式
 {0}dh+fdbbg.iajmie 挿件
+{0}dh+fjfktk.ouruio 侏儒
 {0}dh+dtiere.qmyiio 迁移
+{0}dh+jk+jcjffitkj.ouruogioe 侏儒症
 {0}dlu+ 乱
 {0}dl+cnill.ovjxii 追加
 {0}dl+ilinlu.ovjiie 追記
 {0}dl+ljiilgz.ovjiii 追跡
+{0}dn+bjwxcrs.jisuie 激素
 {0}dn+rcrnr.igwwoe 成为
 {0}dn+wyir.fhfaiu 方法
 {0}dn+ijijl.fhyjio 方言
@@ -265,10 +288,12 @@
 {0}sbn+u 巻
 {0}sb,lofo.bjihee 伴唱
 {0}sy+fjrjr.uehvee 社会
+{0}sy+jj.jqdrfbrj.uehvxkeee 社会性
 {0}sy+lkrf.ueyreo 社员
 {0}sy+njrx.ueoheu 社長
 {0}sy+vtrr.uetreo 社団
 {0}sy+vtxl.jpgoou 結果
+{0}st 米
 {0}sr+dtxlnkjy.bmigio 編程
 {0}sr+hhxlnknh.bmjiio 編輯
 {0}sr+hl+llxhrnknhcl.bmjiqiioe 編輯器
@@ -294,6 +319,7 @@
 {0}sa+lijf.buzueo 不足
 {0}sa+vqailjmyr.busiyieie 不思議
 {1}c ㄸ
+{0}ce 九
 {0}ce+rgnrfg.vzozii 欧州
 {0}cg,dcdggg.qnqnoo 乔乔
 {0}cf,rsijc.xnykei 效应
@@ -322,7 +348,8 @@
 {0}ca+heit.wfzioe 文字
 {0}ca+hljl.tmgsii 天宫
 {0}ca+vizr.fumueu 父母
-{0}x ㄲ
+{0}x 女
+{1}x ㄲ
 {0}xrn 幻
 {0}xr+tmtmrk.jigzie 機構
 {0}xr+xjdisru.xitseu 系统
@@ -335,7 +362,8 @@
 {0}xl+lnrgze.uibpoo 识別
 {0}xa+hjhif.vjdkie 安定
 {0}xa+kkiixf.whhdoo 亡骸
-{0}z ㅍ
+{0}z 金
+{1}z ㅍ
 {0}zy+wymh.jioyiu 基準
 {0}zr 公
 {0}zd+beikwc.bmhree 変換
@@ -347,6 +375,7 @@
 {0}zj+doh.ksbdio 空白
 {0}zj+oeho.ksjmii 空間
 {0}zk+dfmytr.qiddie 期待
+{0}zl+idkxu.toyiii 脱衣
 {0}zv+erygor.zgqlio 増強
 {0}zv+cnylo.zgjxii 增加
 {1}zv+cnylo.zgjxii 増加
@@ -366,6 +395,7 @@
 {0}u=. $_->$_
 {0}uq+yftnu.xlqiuu 想起
 {0}ut+fdlr.dcruue 导入
+{0}ut+drfecf.qtfaio 缺乏
 {0}ud+skkkhjdu.uvjteo 睡觉
 {0}uc+mkifkc.lisjoe 离散
 {0}uu 出
@@ -381,9 +411,11 @@
 {0}ig+fk+ffqjbjuu.oggvhxeie 正規化
 {0}ig+fk+fjmjbdjuudd.oggvxkeio 正規形
 {0}ig+sxjfjc.oguuee 正数
+{0}ig+xhxtk.zimwue 姉妹
 {0}ig+ix+iwtjedjrw.ogxmboeoi 正弦波
 {0}ig+jljfjky.ogqtee 正確
 {0}ig+mzfj.qiyeue 企业
+{0}ifg,e 劇
 {0}id+bdfwxe.yijuie 依拠
 {0}id+rgtreg.hhozoi 杭州
 {0}id+ge+gjefcyxt.yicyxkioo 依存型
@@ -481,12 +513,14 @@
 {0}js+junv.lkhxoe 灵画
 {0}js+lrjzw.uisoei 示唆
 {1}jx 얘
+{0}jx+whbjz.bnyjuu 表演
 {0}jx+dnndjg.ohsouu 長所
 {0}jx+jybkuu.bnxmue 表現
 {0}jx+jjbs.bnuiue 表示
 {0}ju.jt+jhgjhv.yryuozoue 元宇宙
 {0}ji 우
 {0}ji+rchf.dkyiee 定义
+{0}ji+fihmf.dkwwee 定位
 {0}ji+dkhgfe.dkoiee 定制
 {0}ji+jyhvfy.dklieu 定理
 {0}jh.krky.gjzhie 肝脏
@@ -587,6 +621,7 @@
 {0}ln+wyiru.jifaeu 記法
 {0}ln+irihuz.jiuuee 記述
 {0}lv.ofijtkz.ketieo 課題
+{0}la+yovd.hvugoi 回声
 {0}la+wirze.tdwjoi 台湾
 {0}la+ggvnjk.hvgvoi 回帰
 {0}la+cdhylx.guyruo 古猿
@@ -640,6 +675,7 @@
 {0}nj+rqij.yuuiue 与式
 {0}nj+os.dhriie 当日
 {0}nj+hbfjwl.qbhdie 侵害
+{1}nlg+e 剧
 {0}nl+yrcs.jxreie 加熱
 {0}na+fbj.wjnmeo 万年
 {0}na+hrjkr.wjboeo 万博
