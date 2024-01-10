@@ -33,9 +33,9 @@
 ,ke :$SPACE
 ,kd ;$SPACE
 ,kx ・$SPACE
-,le 
-,ld 
-,lx 
+,le
+,ld
+,lx
 
 ,w ！$SPACE
 ,s 。$SPACE
@@ -49,7 +49,7 @@
 
 
 ,a ー$SPACE
-,ka 
+,ka
 ,la ～$SPACE
 ,lq ―$SPACE
 
@@ -61,7 +61,7 @@
 
 .x $DELETE
 .n $_$_$SPACE
-.v $LAST$SPACE 
+.v $LAST$SPACE
 .m 　$SPACE
 
 
@@ -89,6 +89,7 @@
 .dj ‘$|’$SPACE
 .dk “$|”$SPACE
 .dl 〈$|〉$SPACE
+.ds 《$|》$SPACE
 .d; 『$|』$SPACE
 .d, 【$|】$SPACE
 .dm '$SPACE
