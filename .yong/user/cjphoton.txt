@@ -133,6 +133,7 @@
 {0}pk+dwfudhz.miemau 密码
 {0}pl+kjfnfgd.jyihgo 均衡
 {0}pa+tdksv.siiyro 思源
+{0}pa+ewded.xbioge 心証
 {0}pa+wq+gv+ewjdojdg.xbioieliulye 心智理論
 {0}pa+gv+sofcdg.xbiliuxto 心理学
 {0}pa+dgvg.xbiliu 心理
@@ -389,6 +390,7 @@
 {0}wj+ewrlpdog.qterfe 確認
 {0}wj+eljhdog.qtelve 確率
 {0}wj+hmmfhn.gueuie 故事
+{0}wj+jedwdog.qtexbe 確信
 {0}wk+qjdoxehw.hxetio 話題
 {0}wk+ewheft.ueejie 設計
 {0}wk+wf+kqlmrgenu.ugedjejpo 聖誕節
@@ -528,6 +530,7 @@
 {0}fc,kcmh.zieosu 字种
 {0}fc,velh.ziemuu 字母
 {0}fi+cvqn.gridsi 関東
+{0}fi+jkusqn.grixie 関係
 {1}fon+r 勇
 {0}fj+ynknw.ivizze 吹奏
 {0}fj+ekumt.hriyko 欢迎
@@ -1603,8 +1606,10 @@
 {0}lr+kowjo.pmixle 偏向
 {0}lr+lrm.mfohue 门户
 {0}lr+lwdqm.jiohoe 即或
+{0}le+ym.hwmwhkusf.cdopjegri 裁判官
 {0}le+qkydf.wdexki 外星
 {0}le+pwzf.wdebci 外包
+{0}le+symfhku.cdopje 裁判
 {0}le+ozkzf.wdejme 外見
 {0}le+hktwf.wdekee 外客
 {0}le+ky+jfqd.wdexkirfo 外星人
@@ -1744,11 +1749,13 @@
 {0}ml+fqzii.ljosee 蓝色
 {0}ml+hqfmjr.mfadzi 们都
 {0}mm 串
+{0}mm.yn.fi+jkushfhqn.uieuiogrixie 事実関係
 {0}mm.ewrdwj.jpecio 介詞
 {0}mm.fqpjhf.uiexle 事象
 {0}mm.dfmfmx.uyelpe 順列
 {0}mm.ixhf.uieyee 事业
 {0}mm.odnryo.bhioue 帮助
+{0}mm.hynhf.uieuio 事実
 {0}mm.jkyhf.uiejme 事件
 {0}mm.ky+so+vjmmhfjlzz.uiejmeuiejpe 事件視界
 {0}mv+eckdmdn.ggexbi 更新
