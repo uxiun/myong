@@ -249,6 +249,7 @@
 {0}rm+ozi.jpomue 节目
 {0}rm+kk.wwlnwotftr.fuowueqie 服務器
 {0}rm+mrqi.jpojmi 节间
+{0}rm+mgekuot.fuooli 服装
 {0}rn+iostj.yiitgo 伊藤
 {0}ra+qdvgn.lielle 力量
 {0}ra+sj+usoiudug.wjewwowhu 万維網
@@ -256,7 +257,9 @@
 {0}e 是
 {0}ep+ewkum.bwivdi 悲哀
 {0}er+exlec.yzohui 遊戯
+{0}er+od+jgcodhx.xpuofijio 写真集
 {0}er+hfcod.xpuzie 写字
+{0}er+hodxod.xpuofi 写真
 {0}ee,dnkkf.hhotmi 航天
 {0}ee,na+un+kc+gfrkkkfdltkl.hhotmifaiueeihu 航天发射场
 {0}ewf+m 部
@@ -687,6 +690,7 @@
 {0}du+uskdr.qnumne 巧妙
 {0}du+ipnpr.ohucsi 長葱
 {0}du+ky+qewsrrz.ohuwwujku 長尾景
+{0}du+mmvr.ohuxqe 長袖
 {0}di+yhfqzfy.xmiyje 鲜艳
 {0}di+da+ndjodld.iuovrebke 厨二病
 {0}doz+x 頁
