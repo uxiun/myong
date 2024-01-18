@@ -300,6 +300,7 @@
 {0}ei+ootyu.jpiuze 接受
 {0}ei+jmvmy.laiufi 拉伸
 {0}ei+ky+kweihyurz.jpiwwucio 接尾辞
+{0}ei+vjmmgz.jkejpe 境界
 {0}eoo.w 過
 {0}eh 斗
 {0}eh+yeiuxh.lmejpi 鏈接
@@ -647,6 +648,7 @@
 {0}dd,ewddwew.yjoyuu 言語
 {0}dd,ejyu.ofeyui 振込
 {0}dd,gfrkjl.hveihu 会场
+{0}dd,foyd.sjijnu 三角
 {0}dd,sj+ljudug.sjiwwozii 三維姿
 {0}dd,chtd.sjioii 三枝
 {0}dd,usjgd.sjiwwo 三維
@@ -675,6 +677,7 @@
 {0}dc+hmvh.yuuoze 宇宙
 {0}dc+nd+gn+gv+jhjidg.yuuzoumwuliurfo 宇佐美理人
 {0}dc+nd+ignhj.yuuzoumwu 宇佐美
+{0}dzo 両
 {0}dz+du+ewrzdy.yrobnujie 元表記
 {0}du+yd+ha+hdwvypoy.bnuqkofgifue 表情丰富
 {0}du+pydoy.bnuqko 表情
@@ -987,6 +990,7 @@
 {0}zc+klfjjn.qtifao 缺乏
 {0}zz 出
 {0}zi+enjwg.gretzo 罐头
+{0}zo+yd.lluuzu 両手
 {0}zo+ozchoot.vdemoe 瞹眜
 {0}zj+exktrn.gdubme 改変
 {0}zj+ekgwrn.gduzce 改造
