@@ -925,6 +925,7 @@
 {0}xq+fkti.puujio 普及
 {0}xq+kt+eljhif.puujiolve 普及率
 {0}xp+eiqpd.veeyie 恶意
+{0}xp+dwfje.lmegei 恋歌
 {0}xt+kjqdle.bmedeo 变得
 {0}xrk 分
 {0}xr+lrodu.ohehue 賬户
@@ -1147,6 +1148,7 @@
 {0}ia+iqnod.kdimue 开幕
 {0}ia+odi.bkeqpu 并且
 {0}ia+jddld.kdihve 开会
+{0}ia+jm.jgozzpvm.uiejpegri 世界観
 {0}ia+jm.md+ekkydpvmex.uiejpeyioiju 世界遺産
 {0}ia+kyozc.ldokje 来看
 {0}ia+kozc.ldozie 来自
@@ -1273,6 +1275,7 @@
 {0}oa+iq+vpnep.yzuyiesii 有意思
 {0}oa+hxjwj.nwerso 内容
 {0}oa+kqq.mkobdo 明白
+{0}oa+lloq.mkolhu 明朗
 {0}ht+tsor.quuxni 取消
 {0}ht+ejr.quuyui 取込
 {0}ht+jcdo.oiitiu 肢体
@@ -1284,6 +1287,7 @@
 {0}hw+gv+hnqkwdg.gruliuoeu 管理者
 {0}hw+dgvgkw.gruliu 管理
 {0}hw+dfpc.kuisiu 枯死
+{0}hw+shli.kuuoje 苦戦
 {0}hw+onsv.guerjo 固然
 {0}hw+hdejv.guedke 固定
 {0}hf+gc+ewhozql.wjeuiojie 腕時計
@@ -1623,6 +1627,7 @@
 {0}le+ky+jfqd.wdexkirfo 外星人
 {0}lw+wa+rdlgfh.mkoguuwui 名古屋
 {0}lw+iomff.mkoqmo 名前
+{0}lw+hfcf.mkozie 名字
 {0}lw+kcfsf.mkoigi 名称
 {0}lg+skd.oieucu 至少
 {0}lg+jlfd.oiejbi 至今
