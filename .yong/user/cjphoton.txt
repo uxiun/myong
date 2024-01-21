@@ -779,8 +779,6 @@
 {0}scn 类
 {0}sc+ra Scrapbox$_
 {0}sc+ldfjru.lvucie 屡次
-{0}sxy 挙
-{1}sxy 举
 {0}sz,kypkkl.liuwue 礼物
 {0}su+usgozusc.jiexue 継続
 {0}si+fk+tmvfyur.xminduyzo 鮮奶油
@@ -950,6 +948,7 @@
 {0}xd,qfqh.ksijmi 空間
 {0}xd,tixzh.ksighu 空港
 {0}xd,jfnh.ksiqie 空気
+{0}xd,kjddfh.ksixko 空行
 {0}xd,limoh.ksixio 空席
 {0}xo+cegs.jiooue 脊柱
 {0}xo+xa+jpewi.uhiyeehxe 商业化
@@ -1416,6 +1415,7 @@
 {0}jd+ofwi.dgiyte 登月
 {0}jd+ov.krkdmfnpdz.faidmesou 発電所
 {0}jd+hdejcj.jmudke 検定
+{-}jd+hxdkdf.xkok 行空
 {0}jd+huckw.daovje 答案
 {0}jd+jdwmhq.suemke 宿命
 {0}jd+kgnrkdf.xkodse 行動
@@ -1578,6 +1578,7 @@
 {0}ko+ewozww.xlulle 响亮
 {0}ko+hojssz.uguiao 省察
 {0}ko+ldfjiz.uzucie 首次
+{0}ko+vktwsz.ugulte 省略
 {0}kh+dlnrtw.hoodse 活动
 {0}kh+scvsxt.drelme 鍛煉
 {0}kh+jdwew.uieheo 适合
@@ -1866,6 +1867,7 @@
 {0}na+cn+xehhrg.quikkelme 区块鏈
 {0}na+ufc.daehcu 大好
 {0}na+jpe.wfohxe 文化
+{0}na+jfnd.tmiqie 天気
 {0}na+jkye.wfojme 文件
 {0}na+ky+niej.wfojmejxi 文件夹
 {0}na+kulsi.grixie 关系
