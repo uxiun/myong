@@ -1,0 +1,24 @@
+at $yyyy年$mon0月$day0日$hour0時$min分$sec秒$SPACE
+
+atm $yyyy年$mon0月$day0日$SPACE
+atv $yyyy/$mon0/$day0$SPACE
+atn $yyyy-$mon0-$day0$SPACE
+
+ath $yyyy年$mon0月$SPACE
+atj $mon0月$day0日$SPACE
+atk $hour0時$min分$SPACE
+atl $hour0時$min分$sec秒$SPACE
+ath $YYYY0年$MON月$DAY日$SPACE
+
+aty $yyyy$SPACE
+atys $yyyy年$SPACE
+atu $mon0$SPACE
+atus $mon0月$SPACE
+ati $day0
+ato $hour0$SPACE
+atos $hour0時$SPACE
+atp $min$SPACE
+atps $min分$SPACE
+
+ats $hour0:$min$SPACE
+
