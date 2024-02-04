@@ -1,1 +1,5 @@
 .yong/history.txt
+*.bak
+*yongcopy.exe
+/.dict/
+/.table/
