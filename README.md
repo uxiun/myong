@@ -1,20 +1,30 @@
 # 概要
 使っている [《倉頡平台2012》正式推出（19-09-2011更新） - 倉頡程式下載及技術支援 - 康熙字典与倉頡之友 - Powered by Discuz!](https://chinesecj.com/forum/forum.php?mod=viewthread&tid=2596) の「外掛版本 (= portable version)」の中身です。 portable なおかげで Windows 組み込みの `Win + Space`で切り替えて使うIMEと併用できます。
 
-書式・挙動等の詳しい仕様は、公式に当たるのもいいですが、各 file に書き込まれたメモも参照してください。
+書式・挙動等の詳しい仕様は、公式に当たるのもいいですが（情報が少ないし中国語でつらかったので）、各 file に書き込まれたメモも参照してください。
 
 # 機能
 - 表切り替え
-- 表辞書。入力できる語句を拡張する
-- 造詞。直前に入力した語句にその場で綴を割り当てて辞書に追加する(SKKに似ている)。予め規則を定めてはじめから割り当てる綴が入力された状態にしておける。
--
+- 表ごとに10?までの辞書。入力できる語句を拡張する
+- 造詞
+	- 直前に入力した語句にその場で綴を割り当てて辞書に追加する（SKKに似ている）。予め規則を定めてはじめから割り当てる綴が入力された状態にしておける。
+- 同時打鍵の検知
+	- 表ごとに間隔の設定
+	- `+` として綴に使える
+- 候補語句検索
+	- `Alt + Enter` で `%s` に選択中の候補語句が入って設定したURLに遷移
 
+等等
 
 # 周辺
-候補の表示には、拼音が確認できる[jeffreyxuan/toneoz-font-pinyin-wenkai: This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko.](https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai)を使っている。
+
+## 書体
+
+候補の表示には、拼音が確認できる[jeffreyxuan/toneoz-font-pinyin-wenkai: This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko.](https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai)を使っています。
 
 その派生元である [lxgw/LxgwWenKai: An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。](https://github.com/lxgw/LxgwWenKai) も簡体字、ひらがな・カタカナ、主要なハングルとCJK全体に対応した教科書体として大変おすすめ。
-# 他
+
+# credit
 
 
 以下は本家様の README (Yong_README.txt)
