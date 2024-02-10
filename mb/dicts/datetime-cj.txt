@@ -1,4 +1,6 @@
 at $yyyy年$mon0月$day0日$hour0時$min分$sec秒$SPACE
+att $yyyy$mon0$day0$hour0$min$sec$SPACE
+atenl $yyyy-$mon0-$day0T$hour0:$min.$sec
 
 atm $yyyy年$mon0月$day0日$SPACE
 atv $yyyy/$mon0/$day0$SPACE
