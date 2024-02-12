@@ -408,6 +408,7 @@
 {0}tx+iftp.kkelee 快楽
 {0}tx+wu+hsxbpbf.kkejpojme 快捷鍵
 {0}tx+dgtp.kkelee 快乐
+{0}tt,nhfln.lboyue 淋浴
 {0}tt,ua+fp+lexte.sfiosihxixne 森中花咲
 {0}tr+bwndw.keijie 科技
 {0}tr+gimdw.keihre 科幻
@@ -440,6 +441,7 @@
 {0}tf,dtrwwx.jnekei 教科
 {0}tj+otrdlok.cuicci 粗糙
 {0}tj+idrkorcc.qbiqii 親戚
+{0}tj+wjewnc.xlinjo 湘南
 {0}tj+ejtnc.xlicde 湘菜
 {0}tc,nrfxj.ruuyee 乳液
 {0}tc,imrdmj.ruufho 乳房
@@ -1046,6 +1048,7 @@
 {0}fl+ozc.qiuhou 起火
 {0}fl+sfzc.qiufwi 起飞
 {0}fkl 合
+{0}fkk.i 伝
 {0}fkz 全
 {0}fk+bjwwsxp.faihvi 発揮
 {0}fk+njfstk.jmucee 检测
