@@ -29,6 +29,7 @@
 {0}bs,wvtd.uiilme 失恋
 {0}bs,wjdcd.uiiwhe 失望
 {0}bs,sdxkf.uuirue 输入
+{0}bs,lk+xkwkdwkl.uiiyuuoge 失語症
 {0}bs,du+ewxbeef.fuolielmo 芙莉莲
 {0}bs,jvsxd.uiibde 失敗
 {0}bi+srimd.woumfa 我们
@@ -160,6 +161,7 @@
 {0}pa+jl+cw+kcdyuocktg.dsithohuupoe 東堂琥珀
 {0}yp+kgpnn.mjehxe 漫画
 {0}yy.sizllh.ihigru 娼館
+{0}yy.klfsl.ihegei 唱歌
 {0}yx+yfyej.muejmi 幕間
 {0}yt+pwiwik.yyemuu 韵母
 {0}yt+zizpzbt.jpizde 掲載
@@ -235,6 +237,7 @@
 {0}nl+xjd.geeyzu 各有
 {0}nl+dmdkrd.geesou 各所
 {0}nl+djgd.geezie 各自
+{0}neg+j 満
 {0}ni.esuei.bcoiao 薄茶
 {0}nd+mbmoel.loemau 落馬
 {0}nd+wlkklel.loeyuu 落語
@@ -387,6 +390,7 @@
 {0}xa+stw.wfohxe 文化
 {0}xa+stfxbe.grijme 关键
 {0}xa+sukk.tmitiu 天体
+{0}xa+szrxk.tmiuiu 天使
 {0}xa+sdbw.wfojme 文件
 {0}xa+sfxk.tmiqie 天気
 {0}xa+lmrfm.quibpo 区別
@@ -434,6 +438,7 @@
 {0}tg,jzvkjx.xsiqli 胸腔
 {0}tz+ixmis.hxowwe 华为
 {0}tw+bgidh.xiojii 袭击
+{0}tw+bwehsxb.lmejpi 链接
 {0}tw+tsl.zrixbi 钻心
 {0}tw+ta+lldfsl.zrixbioze 钻心咒
 {0}tw+rcwdhkrk.wuuoli 武装
@@ -771,6 +776,7 @@
 {0}gf,kejmu.ogikdi 睁开
 {0}gj+bk.lluuzu 両手
 {0}gj+wujggk.lluqbi 両親
+{0}gj+sjvfk.llucee 両側
 {0}gj+jguzjjn.vdemoe 瞹眜
 {0}ga+ba+hodyn.ujiuzuxme 山手線
 {0}ga+nzkvg.iuiyju 出演
@@ -808,6 +814,7 @@
 {0}ht+wcl.mboouu 民主
 {0}ht+ejlll.mboyko 民营
 {0}hr+ixmil.jnewwe 叫为
+{0}hu.frsd.leedve 乐队
 {0}hu+sdbz.vjejme 案件
 {0}hu+ihstii.tculye 讨论
 {0}hu+frsd.leedve 乐队
@@ -922,6 +929,7 @@
 {0}cu+yfyyi.uiojmi 時間
 {0}cu+rmudci.fgibie 封闭
 {0}cu+rs.jioosi 集中
+{0}cu+hkzfxbi.iioxue 持续
 {0}cu+wlzyi.uiojie 時計
 {0}cu+weys.jioybi 集音
 {0}cu+ojlyi.uiouhe 時尚
@@ -948,6 +956,7 @@
 {0}cl+sbj.ozinmo 周年
 {0}cl+evjj.oziqii 周期
 {0}cl+fuu.juozia 桔子
+{1}ci 去
 {0}ci+pkcin.faugoo 法国
 {0}ci+yd+ka+lkhmkfik.yuetuevrehce 玉兔二号
 {0}ci+xmk.yailie 压力
@@ -1123,6 +1132,7 @@
 {0}zr+hsx.uiunvu 使女
 {0}zr+ssx.uiurfo 使人
 {0}zr+jbsx.uiuyse 使用
+{0}zu 未
 {0}zu+pkcizkb.hjogoo 韓国
 {0}zu+nojb.mwexni 抺消
 {0}zu+uwezh.mweziu 妹梓
@@ -1292,6 +1302,7 @@
 {0}va+fu+io+wlkklpzw.siezieuuoyuu 四字熟語
 {0}va+fi+dh+rcwdhewjw.gsetsiyiioli 共通衣装
 {0}wp+fx+kkfsuksb.tjojmecie 檀健次
+{0}wy+weebz.dnejbe 掉进
 {0}wx+pcw.oeeliu 这里
 {0}wx+yuiz.uiouio 实时
 {0}wx+rrkrw.oeepme 这片
@@ -1343,6 +1354,7 @@
 {0}wz,bwehvz.lmejpi 鏈接
 {0}wz,weybz.pbiybi 拼音
 {0}wz,dnuvz.lmetno 鏈条
+{0}wz,furpz.bwezia 輩子
 {0}wv+kwrkux.xneoge 校正
 {0}ww,xa+hx+du+cfmdddfkindi.hhotmifaiueeihu 航天发射场
 {0}ww,zvkddf.hhoksi 航空
@@ -1355,7 +1367,7 @@
 {0}ws,fa+ee,cicfw.zzuleajbeque 走了进去
 {0}wl 这
 {0}wl+wrksf.tkooiu 停止
-{1}wee 进
+{0}wee 进
 {0}we+bc,mb+ti+ewjjbduihrej.laiteenaepuodie 拉特娜葡蒂
 {0}we+przjks.wweoie 位置
 {0}we+psrrcg.jkejpe 境界
@@ -1410,7 +1422,9 @@
 {0}ou 米
 {0}ou+lkdnlw.miolue 迷路
 {0}ou+ikfsmh.lvucie 屡次
+{-}og+lk+zevcjxkrx.ncuykesdi 脳硬塞
 {0}og+dbtddi.liuwue 礼物
+{0}og+kr+zevcjxux.ncuggusdi 脳梗塞
 {0}oh+hocjghou.jiexue 継続
 {0}oh+ffbshou.jieigo 継承
 {0}oc+puhl.jpogou 結果
@@ -1486,6 +1500,7 @@
 {0}oj+szrxsl.thuuiu 倘使
 {0}oj+exlsl.thuroe 倘若
 {0}oj+ilksl.thuhoe 倘或
+{0}oj+dbsn.xniuii 消失
 {0}oj+dgtn.xnixii 消息
 {0}oj+fj+zxynrs.xnifweoeu 消费者
 {0}oj+jxosl.thurjo 倘然
@@ -1547,6 +1562,7 @@
 {0}sy+xyhsd.uhihfo 傷痕
 {0}sy+xuscrn.fuezao 複雑
 {0}sy+xfijdh.hfutse 很痛
+{0}sy+ubxbdh.hfubhe 很棒
 {0}sy+hs+srnox.fueuuerfo 複数人
 {0}sy+hfudh.hfuhcu 很好
 {0}sy+ohsxrn.fueuue 複数
@@ -1564,6 +1580,7 @@
 {0}st+ope.hxitmo 花畑
 {0}st+dbke.hxiugi 花生
 {0}st+kcpcs.lyoliu 伦理
+{0}sr 个
 {0}sr+yk+rrdnwfcd.jueihubju 劇場版
 {0}sr+udnlsr.jxegeo 价格
 {0}sr+cykdwf.jueihu 劇場
@@ -1804,12 +1821,14 @@
 {0}lk+rrrvwkl.yuuuye 語順
 {0}lk+hkjpuwkl.yuuhve 語彙
 {0}lk+zvxfke.yjojqi 研究
+{0}lk+zevckrx.ykesdi 硬塞
 {0}lk+ojfuwkl.yuuxto 語学
 {0}lk+skrpwoz.pkosie 評価
 {0}lk+sfxwkl.yuuqie 語気
 {0}lk+lf+howdmwklwr.yuubuefhu 語部紡
 {0}lk+ihszi.hoexuu 或许
 {0}lk+dhuhx.yuolee 娱乐
+{0}lf+bks.geiuzu 歌手
 {0}lf+yy.xmksl.geiihelie 歌唱力
 {0}lf+up+hojkksd.geifjizuu 歌番組
 {0}lf+cydks.geiugi 歌声
@@ -1891,6 +1910,7 @@
 {0}ey+lzuwt.yiewwe 意味
 {0}ey+ls.jpekzu 借口
 {0}ey+emrw.ybijpo 音节
+{0}ey+ixwt.yieyie 意义
 {0}ey+itkux.moouie 模式
 {0}ey+isuw.ybilee 音楽
 {0}ey+dbsv.coeuii 錯失
@@ -1907,10 +1927,12 @@
 {0}er+fu+io+wlkklnszw.hjezieuuoyuu 漢字熟語
 {0}eg+bwehw.niejpi 逆接
 {0}eg+xbbfiw.nieoru 逆转
+{0}eg+lwsnj.mjuzuo 満足
 {0}eg+ka+uewkjw.driuheldo 端上来
 {0}eh+yfkem.ojukdi 展開
 {0}eh+kem.ojukdi 展开
 {0}ez+ojlbcn.guuohu 鼓掌
+{0}ez+sefibcn.guuwuu 鼓舞
 {0}ez+ezlw.xbikuu 辛苦
 {0}ez+ioklpc.xkefuo 幸福
 {0}evj 期
@@ -2249,6 +2271,7 @@
 {0}de,xuxy.lpeuai 猎杀
 {0}de,hofdny.ugijio 昇級
 {0}de,mzxp.mcivru 猫耳
+{0}dd 物
 {0}dk+ywr.jberie 近日
 {0}dk+yf+cx+dn+fuxcepenl.kloljomwuloezia 狂蘭美洛子
 {0}dk+tedclr.tkidsu 听懂
@@ -2279,6 +2302,7 @@
 {0}df+fygj.jiisee 肌色
 {0}df+fkxmnn.mwojbe 没劲
 {0}df+jbni.fjeyse 汎用
+{0}djg 自
 {0}dj+btteg.uzupii 首批
 {0}dj+pdnlog.ugulte 省略
 {0}dj+ujgeg.uzuxli 首相
@@ -2325,6 +2349,7 @@
 {0}kt+ka+kpwluwsck.ciovreiyo 雌二醇
 {0}kr+bweci.isiole 冲撞
 {0}kr+zvixi.isitui 冲突
+{0}kr+zevcux.ggusdi 梗塞
 {0}kr+zjksx.bmeyio 便宜
 {0}kr+sefiblks.tnewuu 跳舞
 {0}kr+kcii.isiyai 冲压
@@ -2601,12 +2626,14 @@
 {0}fx+kfrfvb.jmelpe 鍵列
 {0}fx+fytss.qiexle 気象
 {0}fx+frskkd.fgixmu 风险
+{0}ft,pxk.siuybi 死因
 {0}ft,xr+xkwkktj.ksubueoge 恐怖症
 {0}ft,txrjk.ksubue 恐怖
 {0}ft,tdyk.ksupae 恐怕
 {0}ft,tjkvk.ksujue 恐惧
 {0}ft,whk.siuwho 死亡
 {0}ft,iorprk.siuufo 死神
+{0}ft,ffk.siulea 死了
 {0}fr+ba+kk.sk+pdnwkfxwidkf.lpeieiyyexkotuo 列车运行图
 {0}fr+xbkf.lpeiei 列车
 {0}fr+rj+ur+fifinxdf.dgebueliedoi 邓布利多
@@ -2679,6 +2706,7 @@
 {0}fd+frln.xiiybu 吸引
 {0}fd+fuhm.nduzia 奶子
 {0}fd+jxosm.rgorjo 仍然
+{0}fk+yx+epyeej.kdimuequi 開幕曲
 {0}fk+hilye.kdiuiu 開始
 {0}fk+mijggfjv.yuelju 預覧
 {0}fk+vfjv.yuejbi 預金
@@ -2721,6 +2749,7 @@
 {0}jt+kzit.ngogje 能干
 {0}jr+pkciwj.diegoo 帝国
 {0}jr+ndmxuf.ciejii 刺激
+{0}jr+wdcldf.oiezce 制造
 {0}jr+ssxmuf.cieuhi 刺伤
 {0}jr+ssmdf.oiezoe 制作
 {0}jr+sklkki.rsoheo 融合
@@ -2737,6 +2766,7 @@
 {0}jg+pkcid.ziegoo 自国
 {0}jg+nuiu.xlidve 相对
 {0}jg+nild.zieoie 自治
+{0}jg+xvdfnd.zieuai 自殺
 {0}jg+xscidi.credoo 篡奪
 {0}jg+ttu.xlibiu 相比
 {0}jg+tdbku.xlixke 相性
@@ -2802,6 +2832,7 @@
 {0}jl+ya+efsxd.xleriekvo 向日葵
 {0}jl+xld.xleyze 向右
 {0}jl+edjgodg.dhuuzu 党首
+{0}jl+kgpkls.lkohxe 靈画
 {0}jl+kwd.xlexxe 向下
 {0}je+ba+kciznzzo.njobjeqqo 南半球
 {0}je+pccv.huoliu 壶里
