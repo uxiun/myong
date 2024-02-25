@@ -52,6 +52,7 @@
 {0}bd+okpclx.iiiyji 喫煙
 {0}bd+ka+odjgnrn.oeejliugu 浙江省
 {0}bd+ka+la+irirnrni.oeejlitdoozi 浙江台州
+{0}bk+bt,ojfudddd.ugiwuexto 生物学
 {0}bk+bmrntj.qkobce 情报
 {0}bk+peve.iaeyie 差異
 {0}bk+nnj.qkiuvu 清水
@@ -268,6 +269,7 @@
 {0}yk+km+fd+esudczshm.hlojxinduiao 皇家奶茶
 {0}yk+filbs.tiomko 提名
 {0}yf+wrjzr.dziuie 都市
+{0}yf+opzdy.jmudji 簡単
 {0}yf+ebjgku.hzeoea 厚着
 {0}yj 明
 {0}yj.rrpe.mgoxqe 萌袖
@@ -657,6 +659,7 @@
 {0}rp+sukev.hlotiu 黄体
 {0}rp+skkii.mnehve 庙会
 {0}rp+dnun.yzotno 油条
+{0}rp+fytsb.izixle 抽象
 {0}rp+fur.xqezia 袖子
 {0}rp+flrikx.ggeqlo 更强
 {0}rp+fifikx.ggedoi 更多
@@ -1457,6 +1460,7 @@
 {0}zp+kyfudc.osehze 重厚
 {0}zp+kcdc.oseyai 重圧
 {0}zp+klfhkdc.osemau 重码
+{0}zp+jobmwz.lmouge 連勝
 {0}zyo 煮
 {0}zn+nojm.quuxni 取消
 {0}zn+wsm.quuyui 取込
@@ -1495,6 +1499,7 @@
 {0}zv+yjmlt.csimko 聪明
 {0}zv+nrpiv.maoyzo 麻油
 {0}zv+okjsiv.maofjo 麻烦
+{0}zv+siyliv.maochi 麻倉
 {0}zv+djrfbk.kseoie 控制
 {0}zv+fjmdbnl.rsojpu 溶解
 {0}zw,swemiy.oiowwe 職位
@@ -1887,6 +1892,7 @@
 {0}oc+wlskjhl.jpolye 結論
 {0}oc+sklhl.jpoheo 結合
 {0}oc+skkii.ueehve 社会
+{0}oc+db,lmrfitk.ueexkebpo 社性別
 {0}om+zhuuk.dhevje 档案
 {0}om+wetsmx.quisve 駆遂
 {0}om+srrhdl.ucejpe 紹介
@@ -2360,6 +2366,7 @@
 {0}ls+hudkrwdd.ofudre 診断
 {0}ls+zbxkjc.qteuio 確実
 {0}ls+zrrfzx.gueuie 故事
+{0}ls+zdnlwkj.lyekee 論客
 {0}ls+zkwskjc.qtedke 確定
 {0}ls+wxwkj.lyewfo 論文
 {0}ls+wlmitkjc.qterfe 確認
@@ -2514,6 +2521,7 @@
 {0}ep+jwmkb.mnoxpu 描写
 {0}ey+bhisux.mooniu 模拟
 {0}ey+ptwt.yiesii 意思
+{0}ey+ykpcw.ybille 音量
 {0}ey+hrweyw.ybixlu 音響
 {0}ey+hl+kcrfwtiv.yieuiodce 意识到
 {0}ey+cydw.ybiugi 音声
@@ -2543,6 +2551,7 @@
 {0}ex,lscl.xnewwo 咲唯
 {0}ex,kcrfw.ssedce 送到
 {0}ex,filml.niemko 匿名
+{0}er+zzukbns.hjehjo 漢韓
 {0}er+zfuns.hjezie 漢字
 {0}er+frskujf.ujiiuo 刪除
 {0}er+fu+io+wlkklnszw.hjezieuuoyuu 漢字熟語
@@ -2789,6 +2798,7 @@
 {0}ie+wmdnn.duebmi 渡辺
 {0}ie+eojxwo.oeibie 遮蔽
 {0}ie+kclmnwo.oeixxo 遮瑕
+{0}ii 広
 {0}ii.xb.koedae 拡大
 {0}ii.mk+hi+ijttbfhui.koeohijiingo 拡張機能
 {0}ii.kcjggb.koexme 拡現
@@ -2841,6 +2851,7 @@
 {0}ia+sidnf.xiifje 夕飯
 {0}ia+evv.gsigse 公共
 {0}ia+itkv.gsiuie 公式
+{0}ia+dcli.glugce 広告
 {0}ia+desdsv.gsiose 公衆
 {0}ia+kcrfb.ocudce 找到
 {0}ia+kev.gsikdi 公开
@@ -2861,7 +2872,9 @@
 {0}db,obbxkj.cdiqro 猜拳
 {0}db,sitws.dpodde 迭代
 {0}db,lmrftk.xkebpo 性別
+{0}db,llmftk.xkebai 性哵
 {0}db,lkdnlvs.oiolue 鉄路
+{0}db,ebktk.xkeiae 性差
 {0}db,ep+jwmktkb.xkemnoxpu 性描写
 {0}db,ihmgdg.biujie 笔记
 {0}db,isscyk.xkizoe 星座
@@ -3104,6 +3117,8 @@
 {0}da+kpht.bieyce 必要
 {0}da+kjkjrt.biexui 必需
 {0}da+jdgo.ucujme 少见
+{0}kp+wlwiyuo.bniuio 標識
+{0}kp+lw+rrkruowiy.bniuiopme 標識片
 {0}kp+emrh.xiejpo 细节
 {0}kp+dufifwg.qmiyio 遷移
 {0}ky+ydbktk.hgoxki 恒星
