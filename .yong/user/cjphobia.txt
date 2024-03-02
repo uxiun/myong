@@ -97,6 +97,7 @@
 {0}bj+oa+tedcdgk.kjebuedsu 看不懂
 {0}bj+oa+csmgdgk.kjebueqiu 看不起
 {0}bj+sl+uedgcg.kjeqiuldo 看起来
+{0}bj+kludndg.kjepoe 看破
 {0}bj+frcvceg.oealue 着陸
 {0}ba+yfys.nmojmi 年間
 {0}ba+ncij.ysefau 用法
@@ -240,6 +241,7 @@
 {0}yh+mggw.tvequi 退屈
 {0}yh+fygv.ybosee 銀色
 {0}yc 量
+{0}ym.yodddbn.coiyku 撮影
 {0}yz 早
 {0}yz+zhue.ccuvje 草案
 {0}yz+duwlje.ccugcu 草稿
@@ -864,6 +866,7 @@
 {0}up+usxld.fjioii 番椥
 {0}up+hojkd.fjizuu 番組
 {0}uy.nrpd.xliyzo 香油
+{0}uy.sfxd.xliqie 香気
 {0}uy.lzud.xliwwe 香味
 {0}un+yjdb.uiemko 释明
 {0}ux+bzrst.kkejpo 快捷
@@ -1253,6 +1256,7 @@
 {0}cx+kgpdm.dsehxe 動画
 {0}cx+kcsiie.mwulko 美玲
 {0}cx+kkjije.mwulie 美丽
+{0}cr,uekf.dceldo 到来
 {0}cr,idtkkf.dcediu 到底
 {0}cr,idhikf.dcediu 到底
 {0}cr,ffkf.dcelea 到了
@@ -1501,10 +1505,13 @@
 {0}mk+yuio.dhiuio 当时
 {0}mk+xrjjd.jnibue 膠布
 {0}mk+xluuc.klijxe 框架
+{0}mk+rr,zxyozf.dhiuieoeu 当事者
 {0}mk+rmdo.dhiiui 当初
 {0}mk+ro.dhiosi 当中
 {0}mk+ctuo.dhidie 当地
+{0}mk+zrrfo.dhiuie 当事
 {0}mk+wktw.yuuciu 与此
+{0}mk+ojljvve.jmeuhu 鑑賞
 {0}mk+shj.fuerfo 婦人
 {0}mk+ekkvw.yuuqio 与其
 {0}mk+ejrfo.dhiqmo 当前
@@ -1861,6 +1868,7 @@
 {0}wz,weybz.pbiybi 拼音
 {0}wz,dnuvz.lmetno 鏈条
 {0}wz,furpz.bwezia 輩子
+{0}wv+bwyzbj.odidne 摘掉
 {0}wv+pm+llixlwjkg.uiepweqie 適配器
 {0}wv+tmdwj.uieqpe 適切
 {0}wv+ggbj.odiiui 摘出
@@ -2191,8 +2199,10 @@
 {0}stu 他
 {0}st+bk+mxled.hxiugijyi 花生君
 {0}st+pa+le+wd+wkweoclsh.hxitmojxiyiikau 花畑嘉依卡
+{0}st+uv+xkwkeomd.hxiffuoge 花粉症
 {0}st+mirbk.ziesie 恣肆
 {0}st+ope.hxitmo 花畑
+{0}st+ouvmde.hxiffu 花粉
 {0}st+dbke.hxiugi 花生
 {0}st+kcpcs.lyoliu 伦理
 {0}sr 个
@@ -2266,8 +2276,6 @@
 {0}sm+kf+tu+kcizncdlhdnc.icijiodieqqo 超级地球
 {0}sm+ffcg.qiulea 起了
 {0}sm+jbs.zoeyse 作用
-{1}sz 午
-{2}sz 什
 {0}sz,pkcidpt.deogoo 德国
 {0}sz,we+duwzdptb.deolaikei 德拉科
 {0}sw,ojlrjdc.whuiho 往常
@@ -2519,6 +2527,7 @@
 {0}ll.fjmdbwkx.wuejpu 誤解
 {0}le+nk.rikvpdkbpr.tmommejle 甜麺醤
 {0}le+nfscl.xiuhri 喜欢
+{0}le+hopwb.xloxie 詳細
 {0}le+mdxnwsn.huefae 護髪
 {0}le+zskvcl.jxibbi 嘉宾
 {0}le+zkdvcl.jxibbi 嘉賓
@@ -2609,6 +2618,7 @@
 {0}lj+ikfswl.gcicie 高次
 {0}lj+dsrbwcl.dnelve 調律
 {0}lj+kkjjtwl.gcilie 高麗
+{0}la+prwyz.kzuoce 口罩
 {0}la+nyenk.uiopue 石瀑
 {0}la+nwvfi.tdowji 台湾
 {0}la+xbbfip.hvooru 回转
@@ -2786,6 +2796,7 @@
 {0}ek+da+tk+ra+jbgssif.qmerueuieybuyse 嵌入式引用
 {0}ek+da+itkgss.qmerueuie 嵌入式
 {0}ek+jguk.ljomue 栏目
+{0}ek+jjjxjv.jxoguu 頬骨
 {0}ef+lkfijsib.wuuysu 舞踊
 {0}ef+lkjdqsib.wuudcu 舞蹈
 {0}ef+ilsib.wuutdo 舞台
