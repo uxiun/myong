@@ -379,6 +379,7 @@
 {0}na+itd.fjuyki 反応
 {0}na+ihkkln.hjeyuu 汉语
 {0}na+iznd.fjuqqo 反求
+{0}na+iltd.fjugju 反感
 {0}na+dbkn.uliugi 双生
 {0}na+db,vt+zxyntkw.ulixkelmeoeu 双性恋者
 {0}na+db,wvtntk.ulixkelme 双性恋
@@ -730,6 +731,7 @@
 {0}rm+odjgrkj.gviugu 帰省
 {0}rm+dufody.jmuigi 简称
 {0}rm+kurk.gviyuo 归于
+{0}rz+sklre.geomke 革命
 {0}rz+filpxy.uuumko 署名
 {0}rw+ykvpfdm.fhoude 防晒
 {0}rw+ua+oa+csmgmik.woeilobueqiu 卧床不起
@@ -914,6 +916,7 @@
 {0}us+uudzx.jnecdo 教材
 {0}us+uw+rcyzxdz.jnekeiuui 教科書
 {0}us+wlctxc.zaooie 雑誌
+{0}us+wlmgxc.zaojie 雑記
 {0}us+wijzx.jneyue 教育
 {0}us+duwzzx.jnekei 教科
 {0}ul+wlmsd.heoyie 和訳
@@ -1549,6 +1552,7 @@
 {0}zn+wsm.quuyui 取込
 {0}zn+sukj.oiitiu 肢体
 {0}zn+iub.jieuue 技术
+{0}zn+iojggzc.oieuie 軽視
 {0}zn+ienzc.oiedue 軽度
 {0}zn+ikuxm.quujto 取决
 {0}zn+dsykim.quudeo 取得
@@ -1687,6 +1691,7 @@
 {0}vn+db,zxywtk.bmexkeoeu 变性者
 {0}vn+dsykiw.bmedeo 变得
 {0}vn+fygw.bmesee 变色
+{0}vx+weydgzf.jqijke 究竟
 {0}vx+wfijw.jnitsi 交通
 {0}vx+frjsow.jnijie 交際
 {0}vx+fi+rr,zlsxwwjzf.jnitsiuiegue 交通事故
@@ -1752,6 +1757,7 @@
 {0}vk+nspwz.ksihdu 空海
 {0}vk+nevgz.ksighu 空港
 {0}vk+gt,kftzicd.oiexiisiu 窒息死
+{0}vk+wtevz.ksixui 空虚
 {0}vk+sfxz.ksiqie 空気
 {0}vk+ebjgzhd.irioea 穿着
 {0}vk+ierjz.ksixio 空席
@@ -2345,6 +2351,7 @@
 {0}sk+zjhious.jmusou 検索
 {0}sk+vfknfle.dgilue 登録
 {0}sk+wskudwk.ogituo 征途
+{0}sk+wlsddus.jmuofu 検診
 {0}sk+wfijwu.tuotsi 途通
 {0}sk+sklrzy.suemke 宿命
 {0}sk+ldkrsf.tzitki 偷听
@@ -2451,6 +2458,7 @@
 {0}lu+xrfus.bcucyo 保存
 {0}lu+xa+ewhgkdnk.poetmihli 破天荒
 {0}lu+hpwis.bcumuu 保姆
+{0}lu+czphkdn.poehke 破壊
 {0}lu+oe+sljesfb.bcuxmiheo 保鮮盒
 {0}lu+srdds.bcuxqi 保修
 {0}lu+exdxkdn.poehoe 破获
@@ -2980,6 +2988,7 @@
 {0}if+xfi.doidae 多大
 {0}if+udfi.doicdo 多才
 {0}if+hwvhsi.lkenlo 令嬢
+{0}if+hotkff.yuuyti 予約
 {0}if+ctufi.doidie 多地
 {0}if+mvpyfi.doicgo 多層
 {0}if+zojs.jbixni 今宵
@@ -3013,6 +3022,7 @@
 {0}ia+ry+okgxfkd.tdeyhogli 太陽光
 {0}ia+hktiv.gsiyti 公约
 {0}ia+csmgt.gziqiu 勾起
+{0}ia+cixmc.queuie 去勢
 {0}ia+mklv.gsisii 公司
 {0}ia+va+jvudve.gsigsecdo 公共財
 {0}ia+wuic.quegoe 去过
@@ -3101,6 +3111,7 @@
 {0}dx,du+ewxbeef.vculielmo 芺莉莲
 {0}dx,dcuiom.lpedgu 劣等
 {0}dx,kftd.xnesiu 笑死
+{0}dt+bwdfbk.diukhe 抵抗
 {0}dt+ndzlhy.hyihoo 婚活
 {0}dt+hotkhy.hyiyti 婚約
 {0}dt+sjsxl.gzurze 狗肉
@@ -3342,6 +3353,7 @@
 {0}kr+zvixi.isitui 冲突
 {0}kr+zevcux.ggusdi 梗塞
 {0}kr+zjksx.bmeyio 便宜
+{0}kr+zj+scjggspsh.sieoiogri 価値観
 {0}kr+wuilks.tnegoe 跳过
 {0}kr+szjhsp.sieoio 価値
 {0}kr+sefiblks.tnewuu 跳舞
@@ -3478,6 +3490,7 @@
 {0}ks+neyxiii.lgumoe 冷漠
 {0}ks+nilkx.ogeoie 政治
 {0}ks+hdxjxj.bkejni 病嬌
+{0}ks+zxmvkx.ogexpo 政协
 {0}ks+szrxhs.zseuiu 纵使
 {0}ks+sifihs.zselke 纵令
 {0}ks+sfxxj.bkeqie 病気
@@ -3626,6 +3639,7 @@
 {0}kf+dx,rrdpzbur.dauqnopdo 打桥牌
 {0}kf+drkzb.dauhji 打鼾
 {0}kf+djgeb.dausre 打算
+{0}kf+krkb.daugsi 打工
 {0}kf+kotz.nkoyre 宁愿
 {0}kf+kflz.nkokeu 宁可
 {0}kf+jzpzrii.jlijyi 将軍
