@@ -10,13 +10,14 @@ ath $yyyy年$mon0月$SPACE
 atj $mon0月$day0日$SPACE
 atk $hour0時$min分$SPACE
 atl $hour0時$min分$sec秒$SPACE
-ath $YYYY0年$MON月$DAY日$SPACE
+aths $YYYY0年$MON月$DAY日$SPACE
 
 aty $yyyy$SPACE
 atys $yyyy年$SPACE
 atu $mon0$SPACE
 atus $mon0月$SPACE
 ati $day0
+atis $day0日$SPACE
 ato $hour0$SPACE
 atos $hour0時$SPACE
 atp $min$SPACE
