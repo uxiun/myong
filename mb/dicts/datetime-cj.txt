@@ -16,7 +16,7 @@ aty $yyyy$SPACE
 atys $yyyyÄê$SPACE
 atu $mon0$SPACE
 atus $mon0ÔÂ$SPACE
-ati $day0
+ati $day0$SPACE
 atis $day0ÈÕ$SPACE
 ato $hour0$SPACE
 atos $hour0•r$SPACE
