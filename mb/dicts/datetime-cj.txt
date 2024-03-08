@@ -10,7 +10,7 @@ ath $yyyy年$mon0月$SPACE
 atj $mon0月$day0日$SPACE
 atk $hour0時$min分$SPACE
 atl $hour0時$min分$sec秒$SPACE
-aths $YYYY0年$MON月$DAY日$SPACE
+atz $YYYY0年$MON月$DAY日$SPACE
 
 aty $yyyy$SPACE
 atys $yyyy年$SPACE
