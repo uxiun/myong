@@ -1,7 +1,7 @@
 ,b ,$SPACE
 ,, ,,$SPACE
 ,. ¡«$SPACE
-,q #$SPACE
+,q £¡$SPACE
 
 ,t (($SPACE
 ,r ($SPACE
@@ -37,7 +37,7 @@
 ,ld
 ,lx
 
-,w £¡$SPACE
+,w #$SPACE
 ,s ¡£$SPACE
 ,z £¿$SPACE
 ,kw !$SPACE
