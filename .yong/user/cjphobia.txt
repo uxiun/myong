@@ -53,7 +53,8 @@
 {0}bs,du+ewxbeef.fuolielmo 芙莉莲
 {0}bs,dlkrjdx.mueuii 牧師
 {0}bs,jvsxd.uiibde 失敗
-{0}bi 找
+{0}bi 扩
+{1}bi 找
 {0}bi+srimd.woumfa 我们
 {0}bdt 托
 {0}bdz+r 挿
@@ -72,10 +73,13 @@
 {0}bk+nldgtj.qkokle 情況
 {0}bk+ndzld.ugihoo 生活
 {0}bk+uufwsnj.qkiiuu 清楚
+{0}bk+ued.ugildo 生来
 {0}bk+czmrntj.qkobce 情報
 {0}bk+mr+mmltjbn.qkobcejuo 情报局
 {0}bk+mkhd.ugiohu 生長
 {0}bk+zm+ykpctjcrn.qkobcelle 情報量
+{0}bk+vmdvnj.qkipbo 清貧
+{0}bk+vlfstj.qkoyue 情欲
 {0}bk+wljgnj.qkille 清亮
 {0}bk+wedd.ugiiju 生产
 {0}bk+wddbkd.ugiiju 生産
@@ -90,6 +94,7 @@
 {0}bk+idmd.ugiigo 生成
 {0}bk+ikldgtj.qkokle 情况
 {0}bk+dbtddd.ugiwue 生物
+{0}bk+kfzjkd.ugioio 生殖
 {0}bk+frskunj.qkiiuo 清除
 {0}bfm+u 挣
 {0}bfj+x 換
@@ -131,6 +136,7 @@
 {0}ba+ca+epduej.yhoduejyi 羊肚菌
 {0}ba+za+ba+hilsus.nmomoenmouiu 年末年始
 {0}ba+vzkso.bjedke 半錠
+{0}ba+va+yuiof.bjexnuuio 半小时
 {0}ba+wgsiis.nmolko 年齢
 {0}ba+sits.nmodde 年代
 {0}ba+imj.ysehue 用户
@@ -143,11 +149,13 @@
 {0}ba+jzjzd.nqonju 牛腩
 {0}qh+ukkodwh.uuubni 鼠标
 {0}qv+szlxe.jmizoe 兼做
+{0}qv+sedje.jmibwe 兼備
 {0}qd+yodddd.ufiyku 身影
 {0}qd+uk+jv+zkwsdsnf.ufitiuceedke 身体測定
 {0}qd+mkhd.ufiohu 身長
 {0}qd+wkd.ufiuhe 身上
 {0}qd+sukd.ufitiu 身体
+{0}py+mg+tpeh.ccofwidmi 曹妃甸
 {0}py+wuikdk.xkugoe 醒过
 {0}px+esto.yjihxi 烟花
 {0}pr+ya+wlmgef.mgeriejie 夢日記
@@ -177,6 +185,7 @@
 {0}ph+bkhiok.ycesue 要素
 {0}ph+wjkck.ycewhe 要望
 {0}ph+oa+jxokk.ycebuerjo 要不然
+{0}ph+sdbk.ycejme 要件
 {0}ph+iznk.yceqqo 要求
 {0}ph+dik.ycemea 要么
 {0}ph+kok.ycebue 要不
@@ -227,6 +236,7 @@
 {0}pd+ecjeksn.fuegde 覆盖
 {0}pk+uuiekh.nsocyi 農村
 {0}pk+wddbkekh.nsoiju 農産
+{0}pk+ssmele.liuzoe 豊作
 {0}pk+lhtekh.nsombo 農民
 {0}pk+eveuekh.nsoyee 農業
 {0}pk+dd,dbtddekhwbk.nsoijuwue 農産物
@@ -285,6 +295,7 @@
 {0}yo+jkmsz.ouutyo 煮豚
 {0}ye+okgyn.puegli 曝光
 {0}ye+kfwdhon.bcelpe 爆裂
+{0}ye+kjlklyn.puelue 曝露
 {0}ye+fw+hiyhonkdh.bcelpenlo 爆裂娘
 {0}yi 时
 {0}yi+bdzlug.gdekoe 概括
@@ -459,6 +470,8 @@
 {0}xb,wvnnr.jmebme 渐变
 {0}xb,oj.jyihou 军火
 {0}xb,oa+evj.jyihouyee 军火业
+{0}xb,kjlklgr.ojulue 崭露
+{0}xb,jl+xa+fjcgrkklw.ojuluetzojnu 崭露头角
 {0}xy+yb.iyirie 春日
 {0}xy+yfygb.iyiwju 春晚
 {0}xy+mr+vj+rmybee.iyijpoqiijmi 春节期间
@@ -499,9 +512,11 @@
 {0}xr+ihdfnfb.jmeuee 建设
 {0}xr+dkdffb.jmeoue 建筑
 {0}xr+jeyxj.xiilae 希腊
+{0}xu 东
 {0}xu+gcuiwi.dveoie 対峙
 {0}xu+wldzlwi.dvehxe 対話
 {0}xu+swi.dverfo 対人
+{0}xu+sklrbi.uzemke 寿命
 {0}xu+sa+ft,xr+xkwkwiktj.dverfoksubueoge 対人恐怖症
 {0}xu+itwi.dveyki 対応
 {0}xu+dujwi.dvecee 対策
@@ -533,6 +548,7 @@
 {0}xm+wlecizm.xpoyie 協議
 {0}xm+sp.njorfo 男人
 {0}xm+stuii.wwetai 为他
+{0}xm+sukp.njotiu 男体
 {0}xm+lrkwll.kaifwi 咖啡
 {0}xm+ijttk.gsingo 功能
 {0}xm+dcln.qregce 劝告
@@ -735,6 +751,7 @@
 {0}tw+rcwdhkrk.wuuoli 武装
 {0}tw+znbwdh.xiojii 襲撃
 {0}tw+llixlkrk.wuuqie 武器
+{0}tw+epnk.jiimno 鸡苗
 {0}to+ykpcsj.xnille 销量
 {0}to+zkwssjs.soudke 锁定
 {0}to+sclsj.xniuze 销售
@@ -804,7 +821,9 @@
 {0}rp+ba+vj+rw+klykikxsefez.ggenmoqiiohevde 更年期障碍
 {0}rp+ba+evjkxs.ggenmoqii 更年期
 {0}rp+pn.yzotmo 油田
+{0}rp+xmlkx.ggejxi 更加
 {0}rp+tuxkx.ggekke 更快
+{0}rp+tskx.ggeohu 更长
 {0}rp+hfukx.ggehcu 更好
 {0}rp+mkhsr.ufiohu 伸長
 {0}rp+vd+ta+su+pclhwekrmi.diosiinioleeyro 迪斯尼楽園
@@ -892,6 +911,7 @@
 {0}rs+kfrff.dvelpe 队列
 {0}rs+fffku.iuolea 除了
 {0}rl+ojfub.oeoxto 哲学
+{0}rl+kcpcb.oeoliu 哲理
 {0}rl+kozb.oeopko 哲平
 {0}rl+klfjv.yyuuio 隕石
 {0}rl+jf+zxybou.oeoxtooeu 哲学者
@@ -908,6 +928,7 @@
 {0}rd+ha+ld+kj+kdscsdzgep.xqinvukeelwuyau 修女克蕾雅
 {0}rd+mgsxsd.xqigdu 修改
 {0}rd+sisrjsd.xqiuie 修飾
+{0}rd+imjefnk.lsouge 隆盛
 {0}rd+kcpcsd.xqiliu 修理
 {0}rd+kwrksd.xqioge 修正
 {0}rd+kjmkfnb.jlextu 降雪
@@ -925,6 +946,7 @@
 {0}rk+wsrfrr.pmekee 片刻
 {0}rk+wedgwd.buedce 歩道
 {0}rk+wddbkwv.yioiju 遺産
+{0}rk+wjclflj.geoozi 隔週
 {0}rk+ozibs.tnioje 挑戦
 {0}rk+sr+zskvewdb.fwilvebbi 菲律宾
 {0}rk+sr+dklrrwf.pmekeehze 片刻后
@@ -1003,6 +1025,7 @@
 {0}ra+wdm.osifhi 中方
 {0}ra+sxkle.osidru 中短
 {0}ra+stz.osihxo 中华
+{0}ra+suks.geetiu 个体
 {0}ra+ss.geerfo 个人
 {0}ra+ecx.osimwu 中美
 {0}ra+ekez.osihxo 中華
@@ -1056,6 +1079,7 @@
 {0}ug+nwsxj.ruuyee 乳液
 {0}ug+edjgj.ruuuzu 乳首
 {0}ug+imwdmj.ruufho 乳房
+{0}ug+jdynj.ruuxme 乳腺
 {0}uh.ljgvd.wwuyro 委員
 {0}uh.jg+mkhdlv.wwuyroohu 委員長
 {0}uh.jg+skkidlv.wwuyrohve 委員会
@@ -1072,6 +1096,7 @@
 {0}uw+ceslsz.xpotau 斜塔
 {0}uw+zusxdz.keijne 科教
 {0}uw+ojfudz.keixto 科学
+{0}uw+slrfdz.keiile 科創
 {0}uw+im+tu+ezjrjdzhc.keihrediedde 科幻地带
 {0}uw+kcpcoz.lneliu 料理
 {0}uw+klkedz.keiyjo 科研
@@ -1142,6 +1167,7 @@
 {0}ud+vp+ekkwkrk.xbixiiljo 新西兰
 {0}ud+wxfho.syiwfo 孫文
 {0}ud+weynn.boiybi 波音
+{0}ud+oxkjvdzc.osulwe 種類
 {0}ud+ouwzu.cdolne 材料
 {0}ud+sbwkr.xbinmo 新年
 {0}ud+sukp.trotiu 团体
@@ -1156,6 +1182,7 @@
 {0}ud+dbcuinn.boitee 波特
 {0}ud+drjgvwkr.xbioie 新質
 {0}ud+kg+df+tbkjwkrjixn.xbigriyieqko 新冠疫情
+{0}ud+kfcwkr.xbixko 新型
 {0}ud+kfwdhhkr.drelpe 断裂
 {0}ud+kjlklbn.piilue 披露
 {0}ud+frsp.trodve 团队
@@ -1177,6 +1204,7 @@
 {0}uk+dhios.tiuxie 体系
 {0}uk+dzpcs.tiuose 体重
 {0}uk+dzdfnk.wuudre 五段
+{0}uk+keddds.tiuxko 体形
 {0}uk+judddk.wuucdu 五彩
 {0}uk+jswls.tiutpi 体贴
 {0}uf+ugtui.mgexlu 梦想
@@ -1267,6 +1295,7 @@
 {0}gs+ecelmx.gduuje 改善
 {0}gs+jwmkmx.gduxpu 改写
 {0}ge+wxslc.gretzo 罐头
+{0}gd+ojjdgjzk.uvejto 睡觉
 {0}gd+kickn.xxeoie 夏至
 {0}gd+jglhtjzk.uvemmo 睡眠
 {0}gkc+c 崖
@@ -1295,6 +1324,7 @@
 {0}ga+ouxf.yiugve 乙炔
 {0}ga+sj.ujinwe 山内
 {0}ga+ejrfj.mueqmo 目前
+{0}ga+is+kr+zvixyhi.baiyiuisitui 巴以冲突
 {0}ga+dbkg.iuiugi 出生
 {0}ga+dytij.muedea 目的
 {0}ga+kcjggg.iuixme 出現
@@ -1383,6 +1413,7 @@
 {0}hs+we+hx+eh+wlfroxsinm.uuewwefaiojubue 数位发展部
 {0}hs+ojfuox.uuexto 数学
 {0}hs+sxli.rfeoii 认知
+{0}hs+lllfrj.uiepbu 饰品
 {0}hs+iyhmx.gdullo 改良
 {0}hs+ixmii.rfewwe 认为
 {0}hs+ihlvi.rfeuio 认识
@@ -1411,6 +1442,7 @@
 {0}hi+skkiui.jiihve 機会
 {0}hi+llixlui.jiiqie 機器
 {0}hi+ebjgpo.lweoea 累着
+{0}hi+ioebet.cioxlo 慈祥
 {0}hi+ie+jf+mkdyuiuou.jiixpextoxio 機械学習
 {0}hi+ijttui.jiingo 機能
 {0}hi+dytiss.uiedea 似的
@@ -1552,6 +1584,7 @@
 {0}co+sp.hwirfo 黒人
 {0}co+lo.hw+ihooswidm.jnidmufhutjo 焦点访谈
 {0}co+ea+wtupe.hwijkuido 黒井柴
+{0}co+fpkpc.moeyuo 墨鱼
 {0}co+fygp.hwisee 黒色
 {0}cs+rkjskdd.ofigve 珍贵
 {0}cs+sklrkx.oiemke 致命
@@ -1728,6 +1761,7 @@
 {0}ms+wieuwx.fheqie 放棄
 {0}ms+wkwr.ujukau 闪卡
 {0}ms+ek+klfswfskjv.xrotzogei 旋頭歌
+{0}ms+kjpgwx.fhedme 放電
 {0}mle+b 群
 {0}mlf+r 郡
 {0}mlj+gg 覗
@@ -1736,6 +1770,7 @@
 {0}ml+nscwz.bienjo 避难
 {0}ml+tuxx.jxikke 加快
 {0}ml+cixmm.juouie 局勢
+{0}ml+wurx.jxisue 加速
 {0}ml+obmgr.wfejru 问卷
 {0}ml+okgwz.biegli 避光
 {0}ml+sdx.jxirue 加入
@@ -1757,6 +1792,7 @@
 {0}md+bv.ffiuzu 分手
 {0}md+bfjxt.qpehre 切换
 {0}md+xrcdkr.souzde 所在
+{0}md+xrjv.ffibue 分布
 {0}md+xjdkr.souyzu 所有
 {0}md+rr.iuiosi 初中
 {0}md+uznv.ffioii 分枝
@@ -1779,8 +1815,10 @@
 {0}md+lzr.iuiyee 初叶
 {0}md+eyxmbl.ocimue 招募
 {0}md+emrv.ffijpo 分节
+{0}md+evjr.iuiqii 初期
 {0}md+eidmdkr.souzhi 所蔵
 {0}md+ejsxv.ffisje 分散
+{0}md+ixmiv.ffiwwe 分为
 {0}md+ihzfxr.iuiduo 初读
 {0}md+kpmgv.ffipwe 分配
 {0}md+kkfsr.iuicie 初次
@@ -1827,6 +1865,7 @@
 {0}zp+hoclwz.lmojpo 連結
 {0}zp+hocjgwz.lmoxue 連続
 {0}zp+hodnlwz.lmoloe 連絡
+{0}zp+zrrfjz.jyiuie 軍事
 {0}zp+vojvwz.lmosou 連鎖
 {0}zp+wudkrdc.osexbi 重新
 {0}zp+wlodc.osedmu 重点
@@ -1962,6 +2001,7 @@
 {0}zj+sduk.oiorue 植入
 {0}zj+dzpctv.ufeose 慎重
 {0}zj+kp+sk+njsfdsycuk.oiellejmucee 质量检测
+{0}zj+kixmerj.ddedse 带动
 {0}zj+foebz.icoxmi 朝鮮
 {0}za+nurvy.zculde 早瀬
 {0}za+ur+cwsynv.zculdezzu 早瀬走
@@ -1999,6 +2039,7 @@
 {0}vn+bfjxw.bmehre 变换
 {0}vn+tdbkw.bmexke 变性
 {0}vn+stw.bmehxe 变化
+{0}vn+idmw.bmeigo 变成
 {0}vn+db,zxywtk.bmexkeoeu 变性者
 {0}vn+dsykiw.bmedeo 变得
 {0}vn+fygw.bmesee 变色
@@ -2047,6 +2088,7 @@
 {0}vi+jo+km+zjezuenmik.ssitgoyuunjo 松藤羽南
 {0}vd+bfjxwn.bmehre 変換
 {0}vd+psrrigi.moojpe 魔界
+{0}vd+ykpcwn.bmelle 変量
 {0}vd+nciigi.moofau 魔法
 {0}vd+xmigi.moolie 魔力
 {0}vd+rp+lm+vfknwnkxwg.bmeggejielue 変更記録
@@ -2171,6 +2213,7 @@
 {0}wr+xrckk.ogezde 正在
 {0}wr+uk+oa+yjkksk.ogetiubuemko 正体不明
 {0}wr+sukkk.ogetiu 正体
+{0}wr+ecdbikk.ogeyie 正義
 {0}wr+evsk.qiuyee 企业
 {0}wr+eveusk.qiuyee 企業
 {0}wr+itkkk.ogeuie 正式
@@ -2244,6 +2287,7 @@
 {0}wl+wmsxsf.tkofhe 停放
 {0}wl+wloyo.jkudmu 景点
 {0}wl+osf.tkohou 停火
+{0}wl+ijttsy.iuungo 儲能
 {0}wee 进
 {0}we+bc,mb+ti+ewjjbduihrej.laiteenaepuodie 拉特娜葡蒂
 {0}we+przjks.wweoie 位置
@@ -2319,9 +2363,11 @@
 {0}on+xekjvhc.jkijxo 経頬
 {0}on+udnhc.jkipio 経皮
 {0}on+moskshc.jkiyje 経験
+{0}on+wjjlhc.jkigoe 経過
 {0}on+lhc.jkikzu 経口
 {0}on+lkdnlhc.jkilue 経路
 {0}ox+kkjjthkl.qiulie 綺麗
+{0}ot+ywlok.yrejku 愿景
 {0}ot+ux+cp+db,tt,obrfhgofzkctkb.iyocveliuxkepiipje 純粋理性批判
 {0}ot+ouxfzhg.iyocve 純粋
 {0}ot+skkihk.ytihve 約会
@@ -2371,6 +2417,7 @@
 {0}oz+ilk.pkotdo 平台
 {0}oz+dn+filks.pkofjumko 平仮名
 {0}oz+dulk.pkoheo 平和
+{0}oz+dcuik.pkodgu 平等
 {0}oz+dm+oukw.pkofhimiu 平方米
 {0}oz+dskkfk.pkoxko 平行
 {0}oz+dfik.pkofjo 平凡
@@ -2411,6 +2458,7 @@
 {0}oi+duldchmj.bmiigo 編程
 {0}oi+dskkfwxg.jqexko 就行
 {0}oi+kphwxg.jqeyce 就要
+{0}oi+fpofxg.yzoyuo 魷魚
 {0}od+bnkpro.icumme 炒麺
 {0}od+neyxn.uaimoe 沙漠
 {0}od+rrkrydd.ykupme 影片
@@ -2419,6 +2467,7 @@
 {0}od+hrweyydd.ykuxlu 影響
 {0}od+cydhnw.osiugi 終声
 {0}od+cidmydd.ykuigo 影城
+{0}od+sbhnw.osinmo 終年
 {0}od+skn.uaiqqi 沙丘
 {0}od+dbcuin.uaitee 沙特
 {0}od+fuydd.ykuzia 影子
@@ -2445,6 +2494,7 @@
 {0}of+wxuihyg.jtodve 絶対
 {0}of+sghkn.lvexmi 緑仙
 {0}of+fyghkn.lvesee 緑色
+{0}of+ja+frwezhkns.lvenweohe 緑内障
 {1}ojl 尚
 {0}oj+budbgn.xnihce 消耗
 {0}oj+psrrigg.uiejpe 視界
@@ -2500,6 +2550,7 @@
 {0}oa+ob+xa+dhiosse.houbjegrixie 伙伴关系
 {0}oa+omm.houjue 火炬
 {0}oa+omkk.buedhi 不当
+{0}oa+oz+dcuikk.buepkodgu 不平等
 {0}oa+odk.bueucu 不少
 {0}oa+okgk.buegli 不光
 {0}oa+ok.mpehou 灭火
@@ -2524,6 +2575,7 @@
 {0}oa+kphk.bueyce 不要
 {0}oa+kr+zjkksx.buebmeyio 不便宜
 {0}oa+kcjk.buezde 不再
+{0}oa+kwrkk.bueoge 不正
 {0}oa+kw+evjkzs.buedkeqii 不定期
 {0}oa+kl+udnlks.bueheogeo 不合格
 {0}oa+kk.skckzg.buewjoqro 不完全
@@ -2578,6 +2630,7 @@
 {0}sx+xksjx.jiobke 疾病
 {0}sx+ohsxu.mwouue 枚数
 {0}sx+ojfum.yiixto 医学
+{0}sx+eisum.yiiyce 医薬
 {0}sx+dbkm.yiiugi 医生
 {0}sx+dlkrjm.yiiuii 医師
 {0}sx+frzkgm.yiiyre 医院
@@ -2719,6 +2772,7 @@
 {0}si+zxteyh.yhulcu 養老
 {0}si+wujggeyh.yhuqbi 養親
 {0}si+sl+duoviv.lkoguuqqi 鈴谷秋
+{0}si+ihxnch.ytefai 越发
 {0}si+dy+jl+kjlklvikokkl.lkoyroluelue 鈴原露露
 {0}si+fueyh.yhuzia 養子
 {0}sdf 믇
@@ -2850,6 +2904,7 @@
 {0}ly+ijtts.oiengo 智能
 {0}lx+wlttywo.hvixpo 詼諧
 {0}lt 叱
+{0}lt+ykpcv.zsulle 总量
 {0}lt+ykwsv.zsuuie 总是
 {0}lt+yjgi.gjumce 感冒
 {0}lt+nfui.gjurju 感染
@@ -2929,6 +2984,7 @@
 {0}lw+ejvdez.ciodmu 辞典
 {0}lw+idmss.cueigo 促成
 {0}lw+fs+cx+dryiwouie.miooiimwutue 謎之美兎
+{0}lo.rb,rtpevwn.jkijbijie 京津冀
 {0}lo.ujgy.ocexli 照相
 {0}lo.zyfrw.jkidzi 京都
 {0}lo.wldzlwo.tjohxe 談話
@@ -2964,6 +3020,7 @@
 {0}ll.sm+hi+hkwigbusdo.ccizoexietsu 操作系统
 {0}ll.ssmbu.ccizoe 操作
 {0}ll.lzul.pbuwwe 品味
+{0}ll.dbsch.sheuii 喪失
 {0}ll.durl.pbuosu 品种
 {0}ll.dudzcl.pbuosu 品種
 {0}ll.fjmdbwkx.wuejpu 誤解
@@ -3128,6 +3185,7 @@
 {0}e 是
 {0}eb 羊
 {0}eb,siyhn.yhouio 洋食
+{0}ep 苗
 {0}ep+pa+ja+nilwcy.tsotmomkooie 童田明治
 {0}ep+yk+epuiwgj.lsodjuzyi 竜胆尊
 {0}ep+txfiswy.zciyio 遭疑
@@ -3163,6 +3221,8 @@
 {0}ey+dyirw.ybijpo 音節
 {0}ey+kcw.ybiyai 音圧
 {0}ey+kfcux.mooxko 模型
+{0}ey+fpowz.ohiyuo 章魚
+{0}ey+fpkwz.ohiyuo 章鱼
 {0}ey+fiwwt.yiewde 意外
 {0}ey+jxowdg.jkerjo 竟然
 {0}ey+jgdgwt.yiejme 意見
@@ -3198,7 +3258,8 @@
 {0}ec+itkun.yheuie 様式
 {0}ec+itksi.yiouie 儀式
 {0}ec+fuun.yhezia 様子
-{0}ezj+rj 帯
+{0}ezj+rj 带
+{1}ezj+rj 帯
 {0}ez+ojlbcn.guuohu 鼓掌
 {0}ez+sefibcn.guuwuu 鼓舞
 {0}ez+ezlw.xbikuu 辛苦
@@ -3286,6 +3347,7 @@
 {0}ek+nekjnj.mjumju 满满
 {0}ek+xmkigs.qmetce 嵌套
 {0}ek+xfijkjv.tzotse 頭痛
+{0}ek+ws,oxkjvkjvl.tzozuolwe 頭足類
 {0}ek+wlfrkjv.tzobue 頭部
 {0}ek+sukhu.mwotiu 媒体
 {0}ek+sdgs.qmerue 嵌入
@@ -3381,6 +3443,7 @@
 {0}it+siftj.xronme 悬念
 {0}it+kcpcs.ddeliu 代理
 {0}it+jbs.ddeyse 代用
+{0}ir+xmfi.qlolie 強力
 {0}ir+wljclfi.qlodne 強調
 {0}ir+ienfi.qlodue 強度
 {0}ir+dlkrjrii.isouii 蟲師
@@ -3430,6 +3493,7 @@
 {0}iw+wlfrf.wdebue 外部
 {0}iw+wdhf.wdeyii 外衣
 {0}iw+obrfzdh.cdopje 裁判
+{0}iw+scjggf.wdegri 外観
 {0}iw+ebjgf.wdeoea 外着
 {0}iw+ea+wlkklfu.wdeldoyuu 外来語
 {0}iw+dbuyf.wdejio 外籍
@@ -3463,6 +3527,7 @@
 {0}is+fdnh.yiujio 以及
 {0}il 台
 {0}ilt 感
+{0}ilt+ 感
 {0}il+nn.oieuvu 治水
 {0}il+xxvon.oielno 治療
 {0}il+zfuf.mkozie 名字
@@ -3487,6 +3552,7 @@
 {0}ii.mk+hi+ijttbfhui.koeohijiingo 拡張機能
 {0}ii.kcjggb.koexme 拡現
 {0}ii.fmkhb.koeohi 拡張
+{0}id 戊
 {0}idm 成
 {0}id+cslenl.jmuyjo 減塩
 {0}id+vzjvcm.igoofe 城鎮
@@ -3584,6 +3650,7 @@
 {0}db,sitws.dpodde 迭代
 {0}db,lmrftk.xkebpo 性別
 {0}db,llmftk.xkebai 性哵
+{0}db,llixltk.xkeqie 性器
 {0}db,lkdnlvs.oiolue 鉄路
 {0}db,ebktk.xkeiae 性差
 {0}db,ep+jwmktkb.xkemnoxpu 性描写
@@ -3596,11 +3663,13 @@
 {0}db,djltk.xkexle 性向
 {0}db,kciznyk.xkiqqo 星球
 {0}db,kl+ka+db,rw+klykitkjtkfez.xketsoyiixkeohevde 性同一性障碍
+{0}db,jg+wlmittkd.xkezierfe 性自認
 {0}dq+zjhiobn.szisou 搜索
 {0}dp+xjd.lqoyzu 留有
 {0}dp+ojfud.lqoxto 留学
 {0}dp+kwd.lqoxxe 留下
 {0}dy+pxko.yroybi 原因
+{0}dy+ueko.yroldo 原来
 {0}dy+ukko.yrobfu 原本
 {0}dy+ua+xmkof.yrozialie 原子力
 {0}dy+ua+ma+sk+kjpgkofxfxt.yrozialiefaidme 原子力発電
@@ -3617,6 +3686,7 @@
 {0}dn+bkjw.fjuqki 返青
 {0}dn+plw.fjuhvo 返回
 {0}dn+yfkeiul.geodze 格闘
+{0}dn+xebxw.tgoyhu 疼痒
 {0}dn+ugts.fjuxlu 仮想
 {0}dn+uhiizl.keejii 客機
 {0}dn+um.fhzllpwi.tuouuigru 图书馆
@@ -3715,6 +3785,7 @@
 {0}dc+ovbwg.xrujuu 选举
 {0}dc+scdfs.rfepko 任凭
 {0}dc+sklrs.rfemke 任命
+{0}dc+skfls.rfeheo 任何
 {0}dc+epwg.xruqui 选曲
 {0}dc+idmwl.zceigo 造成
 {0}dc+dnxms.rfewue 任务
@@ -3809,6 +3880,7 @@
 {0}dk+wedgwjs.pbodce 频道
 {0}dk+sbwr.jbenmo 近年
 {0}dk+sxhiowjv.pbofjo 頻繁
+{0}dk+shiswr.jbeuie 近似
 {0}dk+sitwr.jbedde 近代
 {0}dk+ihxnvjs.bjifai 颁发
 {0}dk+ihxnwjs.pbofai 频发
@@ -3828,6 +3900,7 @@
 {0}df+tbkjxn.yieqko 疫情
 {0}df+rudnnn.mwobwe 没被
 {0}df+mkhj.rsuohu 冗長
+{0}df+ws,nwigvinx.fjuyeelqo 釩液流
 {0}df+ssrrjn.guujxe 股价
 {0}df+skkiu.jiihve 机会
 {0}df+sjsj.jiirze 肌肉
@@ -3853,6 +3926,7 @@
 {0}dj+ytdddgv.mceyie 貿易
 {0}dj+xa+ur+kevnxdf.vcedaelieyae 澳大利亚
 {0}dj+ujgeg.uzuxli 首相
+{0}dj+zyfreg.uzudzi 首都
 {0}dj+zjsoog.uguiao 省察
 {0}dj+wljgll.xlulle 响亮
 {0}dj+sreg.uzugee 首个
@@ -3862,6 +3936,7 @@
 {0}dj+kjseg.uzuyee 首页
 {0}da+bs.rueuzu 入手
 {0}da+bdupw.gluboi 广播
+{0}da+pi+kt+ka+kpwluikvnwsck.wuesriciovreiyo 戊酸雌二醇
 {0}da+xms.ruelie 入力
 {0}da+ri+wrjwir.gluoziuie 广州市
 {0}da+ho.ucunvu 少女
@@ -3875,6 +3950,7 @@
 {0}da+ddkjvt.biexui 必須
 {0}da+djgeo.ucusre 少算
 {0}da+kpht.bieyce 必要
+{0}da+kpivni.wuesri 戊酸
 {0}da+kjkjrt.biexui 必需
 {0}da+jdgo.ucujme 少见
 {0}kp+wlwiyuo.bniuio 標識
@@ -3922,6 +3998,7 @@
 {0}kt+dsdfnk.veeyie 悪役
 {0}kt+ka+csojlllg.pcuyiithe 跑一趟
 {0}kt+ka+kpwluwsck.ciovreiyo 雌二醇
+{0}kt+fiww.ciuwde 此外
 {0}krr,k 亜
 {0}kr+bzrssx.bmejpo 便捷
 {0}kr+bweci.isiole 冲撞
@@ -3945,6 +4022,7 @@
 {0}ku+zrpz.yuuoze 宇宙
 {0}ku+zkwsix.jtodke 决定
 {0}ku+wyljvs.yuoyye 余韻
+{0}ku+sre.mzugee 某个
 {0}ku+kw+kw+kolixzsys.jtodkeuiefzu 决定是否
 {0}ku+koix.jtobue 决不
 {0}kgk+jv 頋
@@ -3981,6 +4059,7 @@
 {0}kh+klfhklm.hcemau 号码
 {0}kh+kkob.bnuuie 表示
 {0}kh+fytsb.bnuxle 表象
+{0}kc 圧
 {0}kc+bwzzs.qropbi 全拼
 {0}kc+psrrpi.goojpe 国界
 {0}kc+pkcis.qrogoo 全国
@@ -4071,6 +4150,8 @@
 {0}kw+dupzs.dkefji 定番
 {0}kw+djrfzs.dkeoie 定制
 {0}kw+kolys.uiefzu 是否
+{0}kw+fjmdbfig.uuijpu 疏解
+{0}ko 不
 {0}ko+bfxcw.hdotku 还挺
 {0}ko+puez.pkogou 苹果
 {0}ko+ykwsw.hdouie 还是
@@ -4110,6 +4191,7 @@
 {0}kl+yuij.tsouio 同时
 {0}kl+ycuij.tsouio 同時
 {0}kl+tdbkj.tsoxke 同性
+{0}kl+rvslzp.fueyue 富裕
 {0}kl+uyhj.tsogfi 同根
 {0}kl+uhiim.siijii 司機
 {0}kl+udnls.heogeo 合格
@@ -4148,6 +4230,7 @@
 {0}kl+kftwp.biisiu 逼死
 {0}kl+kj.tsoyii 同一
 {0}kl+ka+tdbkj.tsoyiixke 同一性
+{0}kl+filsr.mkemko 命名
 {0}kl+jkidg.kleqpu 况且
 {0}ke+bzfygfb.xmiyje 鲜艳
 {0}ke+imwdmki.iuofho 厨房
@@ -4252,6 +4335,7 @@
 {0}kf+skcfb.daudce 打倒
 {0}kf+sfvmds.qieffi 气氛
 {0}kf+lgexl.qioyie 奇异
+{0}kf+lkwrvxl.qiojii 奇跡
 {0}kf+ejvhsk.jkidmu 经典
 {0}kf+ikldgsl.heokle 何况
 {0}kf+dx,rrdpzbur.dauqnopdo 打桥牌
@@ -4270,11 +4354,13 @@
 {0}kj+zkwsw.kfudke 肯定
 {0}kj+vk+xa+izpzbzw.qkiksiwfokue 青空文庫
 {0}kj+wnjgme.jmidui 監督
+{0}kj+okgb.qkigli 青光
 {0}kj+okjvtn.yzufjo 懮煩
 {0}kj+sbb.qkinmo 青年
 {0}kj+idmhk.zuuigo 组成
 {0}kj+dcdgsn.yzixmi 優先
 {0}kj+kusn.yziyuo 優于
+{0}kj+kg+jgyhbo.qkigliyju 青光眼
 {0}kj+kw+kedddwzs.kfudkexko 肯定形
 {0}kj+jgkv.xlemue 項目
 {0}ka+bw.uheuzu 上手
@@ -4283,6 +4369,7 @@
 {0}ka+pzjgv.yiigre 一貫
 {0}ka+ydew.uheugi 上昇
 {0}ka+nspwn.jlihdu 江海
+{0}ka+nspww.uhehdu 上海
 {0}ka+xy+ms+kkzb.vreoeuzeoyii 二者択一
 {0}ka+xlx.zouyze 左右
 {0}ka+tmd.yiiqpe 一切
@@ -4319,6 +4406,7 @@
 {0}ka+ly+ey+itkssux.tsooiemoouie 仝智模式
 {0}ka+ebjgw.uheoea 上着
 {0}ka+ij+tdbkmgg.yiiljuxke 一覧性
+{0}ka+dqdu.bfuufi 本身
 {0}ka+dqdw.uheufi 上身
 {0}ka+dcuiw.uhedgu 上等
 {0}ka+dwdfn.yiibji 一般
@@ -4336,6 +4424,7 @@
 {0}fy+wnsihyg.wjucji 晚餐
 {0}fy+frkljy.jmigeo 間隔
 {0}fnk 丞
+{0}fn+wclhi.ysuyru 永遠
 {0}fn+wegkjuk.jiodri 極端
 {0}fn+ohsxg.hjouue 函数
 {0}fn+fd+iocddyc.fgehlouee 凤凰社
@@ -4448,6 +4537,7 @@
 {0}fe+sdhoyx.grixie 関係
 {0}fii 多
 {0}fi+ycuiwj.tsiuio 通時
+{0}fi+xrfukz.cjocyo 残存
 {0}fi+ub+bc,wudkrbokjdui.orijkiteexbi 专精特新
 {0}fi+czmrnwj.tsibce 通報
 {0}fi+zkmsb.orijxi 专家
@@ -4480,6 +4570,7 @@
 {0}fd+jxosm.rgorjo 仍然
 {0}fd+je+dgilnd.xiixtegvu 吸血鬼
 {0}fkm+g 危
+{0}fkw+ig 疏
 {0}fk+yx+epyeej.kdimuequi 開幕曲
 {0}fk+yx+itkyeej.kdimueuie 開幕式
 {0}fk+udnldri.fgigeo 風格
@@ -4504,6 +4595,7 @@
 {0}fjc 角
 {0}fj+cidmrs.fweigo 费城
 {0}fj+jbrgv.fweyse 費用
+{0}fa+evjd.jiuqii 几期
 {0}fa+doud.jiuhui 几乎
 {0}fa+ks+twmkdhc.jiuwwonnu 几维鸟
 {0}fa+kkgs.yieyro 亿元
@@ -4674,6 +4766,7 @@
 {0}js+kcizns.rzeqqo 肉球
 {0}js+kwkii.lkoxxe 零下
 {0}js+kl+nrpkg.yeeyjoyzo 页岩油
+{0}js+fuwc.liozia 離子
 {0}jl+ya+efsxd.xleriekvo 向日葵
 {0}jl+xld.xleyze 向右
 {0}jl+usxlob.ohuoii 掌椥
@@ -4765,6 +4858,7 @@
 {0}ja+wtkkx.yzuxpi 有些
 {0}ja+wlzjkx.yzuyie 有誼
 {0}ja+wlox.yzudmu 有点
+{0}ja+wlfrs.nwebue 内部
 {0}ja+wa+dzekpk.wwexxeivo 胃下垂
 {0}ja+obmgs.nwejru 内卷
 {0}ja+ouwzx.yzulne 有料
