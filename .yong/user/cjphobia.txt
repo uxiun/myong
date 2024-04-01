@@ -687,6 +687,7 @@
 {0}xl+csplw.lbesee 吝嗇
 {0}xl+wedgs.oiidce 知道
 {0}xl+ed,ffswg.oiidcelea 知道了
+{0}xl+fils.oiimko 知名
 {0}xi 太
 {0}xi+njdgz.hsogri 宏观
 {0}xd,bkfmfn.vzidau 殴打
@@ -971,6 +972,7 @@
 {0}ta+lskht.biuyue 比喩
 {0}ta+lkdnlp.siilue 思路
 {0}ta+ei+na+xlujmz.xbizheoiijxe 心臓支架
+{0}ta+ei+klnjm.xbizhebge 心臓泵
 {0}ta+dqds.hxeufi 化身
 {0}ta+dytiz.taidea 它的
 {0}ta+dzpct.biuose 比重
@@ -1416,6 +1418,7 @@
 {0}ud+le+wsrfwkrcl.xbixiujue 新喜劇
 {0}ud+ljsp.troyro 团员
 {0}ud+ekknn.boiljo 波兰
+{0}ud+iogjdd.cduliu 彩礼
 {0}ud+ik.oc+jskkojddri.cduhsoueejie 彩虹社祭
 {0}ud+ik.iocjddr.cduhsouee 彩虹社
 {0}ud+ififdbs.oiexue 秩序
@@ -2525,6 +2528,7 @@
 {0}vk+yfyz.ksijmi 空間
 {0}vk+nspwz.ksihdu 空海
 {0}vk+nevgz.ksighu 空港
+{0}vk+udnlz.ksigeo 空格
 {0}vk+gt,kftzicd.oiexiisiu 窒息死
 {0}vk+wtevz.ksixui 空虚
 {0}vk+sfxz.ksiqie 空気
@@ -3703,6 +3707,7 @@
 {0}lj+mvpywl.gcicgo 高層
 {0}lj+zlrlwl.gcigri 高官
 {0}lj+zldgwg.hcokee 毫克
+{0}lj+zlkjvwl.gciveo 高額
 {0}lj+zj+ykpcwlds.gcioielle 高质量
 {0}lj+vdbswl.gcioio 高鉄
 {0}lj+wurwl.gcisue 高速
@@ -3986,6 +3991,7 @@
 {0}ef+kg+xl+srrsibki.wuuyroqiujpe 舞元啓介
 {0}ef+kkjjteyg.yjelie 艶麗
 {0}ef+kf+skkisiblij.wuuysuhve 舞踊会
+{0}ej 前
 {0}eju 菜
 {0}ej+fjmdbzg.krijpu 寛解
 {0}ea+psrrt.uiejpe 世界
