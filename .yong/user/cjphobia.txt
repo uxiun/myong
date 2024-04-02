@@ -2457,7 +2457,9 @@
 {0}vx+fi+rr,zlsxwwjzf.jnitsiuiegue 交通事故
 {0}vx+fi+wkwwwj.jnitsikau 交通卡
 {0}vx+fi+jxxwwj.jnitsiwhu 交通网
+{0}vt+cydw.lmeugi 恋声
 {0}vt+weytk.veeyie 恶意
+{0}vt+weyw.lmeybi 恋音
 {0}vt+klfsw.lmegei 恋歌
 {0}vt+jjtnw.lmevde 恋愛
 {0}vh+rydgj.ykivro 嬰児
@@ -3762,6 +3764,7 @@
 {0}la+sj.kzunwe 口内
 {0}la+lc+wlotwjg.jueduodmu 句読点
 {0}la+exlh.ruoroe 如若
+{0}la+ecie.kzugde 口蓋
 {0}la+ekkvh.ruoqio 如其
 {0}la+ejvz.guudmu 古典
 {0}la+ickjvp.hvogue 回顧
