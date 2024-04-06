@@ -326,6 +326,7 @@
 {0}ytd+d 易
 {0}yt+pwiwik.yyemuu 韵母
 {0}yt+udxrewk.qteqno 鹊桥
+{0}yt+cydnt.hyeugi 混声
 {0}yt+zizpzbt.jpizde 掲載
 {0}yt+sr+wm+wviwikdbwu.yyelveyzohui 韵律遊戯
 {0}yt+eteueh.geoyee 葛葉
@@ -453,8 +454,6 @@
 {0}ya+jm.ygdkk.bdoxtubai 白雪巴
 {0}ya+je+kcizndd.bdoxteqqo 白血球
 {0}nyt+t 混
-{0}nn 双
-{1}nn 汉
 {0}nn.fulu.shuzia 嗓子
 {0}nxi 汰
 {0}nx+xmhm.nuulie 努力
@@ -869,6 +868,7 @@
 {0}tu+pm+wewlckr.diemmeoje 地面站
 {0}tu+pwxc.dietuo 地図
 {0}tu+pkcis.taigoo 他国
+{0}tu+cydc.dieugi 地声
 {0}tu+mxc.diequi 地区
 {0}tu+vdbsc.dieoio 地鉄
 {0}tu+wloc.diedmu 地点
@@ -1010,6 +1010,7 @@
 {0}rp+hfukx.ggehcu 更好
 {0}rp+cydd.diougi 笛声
 {0}rp+mkhsr.ufiohu 伸長
+{0}rp+zkwszr.ufudke 审定
 {0}rp+vev.hlojbi 黄金
 {0}rp+vd+ta+su+pclhwekrmi.diosiinioleeyro 迪斯尼楽園
 {0}rp+vd+mtwekr.diosiinio 迪斯尼
@@ -1326,6 +1327,7 @@
 {0}uh.ljgvd.wwuyro 委員
 {0}uh.jg+mkhdlv.wwuyroohu 委員長
 {0}uh.jg+skkidlv.wwuyrohve 委員会
+{0}uh.js+skkidl.wwuyrohve 委员会
 {0}uzn 枝
 {0}uz+uy.fowlobd.mouxlijki 抹香鯨
 {0}uz+edufe.moelie 茉莉
@@ -2835,6 +2837,7 @@
 {0}wa+ba+dqdko.xxebjeufi 下半身
 {0}wa+tyk.xxexyo 下旬
 {0}wa+ctuk.xxedie 下地
+{0}wa+zixbk.xxezde 下载
 {0}wa+zizpzk.xxezde 下載
 {0}wa+wxrrr.buuqio 补齐
 {0}wa+wdmk.xxefhi 下方
@@ -3871,12 +3874,14 @@
 {0}ey+itkux.moouie 模式
 {0}ey+ihnbw.ybiyie 音译
 {0}ey+isuw.ybilee 音楽
+{0}ey+ienw.ybidue 音度
 {0}ey+dbsv.coeuii 錯失
 {0}ey+dyirw.ybijpo 音節
 {0}ey+kcw.ybiyai 音圧
 {0}ey+kfcux.mooxko 模型
 {0}ey+fpowz.ohiyuo 章魚
 {0}ey+fpkwz.ohiyuo 章鱼
+{0}ey+frttyw.ybijpi 音階
 {0}ey+fiwwt.yiewde 意外
 {0}ey+jp+uknkjxkg.moodmejio 膜電極
 {0}ey+jxowdg.jkerjo 竟然
@@ -4234,6 +4239,7 @@
 {0}il+la+mkicfz.mkoguuwui 名古屋
 {0}il+la+ki.wrjfzmc.mkoguuwuiuie 名古屋市
 {0}il+ejrff.mkoqmo 名前
+{0}il+ihmklf.mkocio 名词
 {0}il+dbtddf.mkowue 名物
 {0}il+db,la+wwrvfjkz.mkougeguujie 名胜古迹
 {0}il+dufof.mkoigi 名称
