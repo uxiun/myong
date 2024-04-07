@@ -1061,6 +1061,7 @@
 {0}rr,kkjvzf.uiexle 事項
 {0}rr,kfrfrv.uyelpe 順列
 {0}rr,fytszf.uiexle 事象
+{0}rr,fdsxmzf.uiewue 事務
 {0}rr,jkxmbj.bhioue 帮助
 {0}ru 被
 {0}rc,pkkgfvn.lkoyro 陵园
@@ -1462,6 +1463,7 @@
 {0}ud+jkgiwkr.xbigri 新冠
 {0}uk 本
 {0}uk+nciwb.wwofau 違法
+{0}uk+xms.tiulie 体力
 {0}uk+ul+iltwbd.wwoheogju 違和感
 {0}uk+moskss.tiuyje 体験
 {0}uk+wrkuko.jbeoiu 禁止
@@ -2700,6 +2702,7 @@
 {0}wh+tus.heoxbi 核心
 {0}wh+ta+dwsmgus.heoxbichi 核心舱
 {0}wh+rpgus.heodme 核电
+{0}wh+ebjgt.mhooea 忙着
 {0}wh+dndfli.jruiuu 呟処
 {0}wh+jr+skluskki.heorsoheo 核融合
 {0}wh+jfi.xmoyte 弦月
@@ -4402,6 +4405,7 @@
 {0}dp+kwd.lqoxxe 留下
 {0}dy+bgw.poejii 迫击
 {0}dy+pxko.yroybi 原因
+{0}dy+ylob.pdioce 拍照
 {0}dy+ueko.yroldo 原来
 {0}dy+ukko.yrobfu 原本
 {0}dy+ua+xmkof.yrozialie 原子力
@@ -5698,6 +5702,7 @@
 {0}js+wkwk.yeekau 页卡
 {0}js+sdbkii.lkojme 零件
 {0}js+endlkii.lkoloe 零落
+{0}js+estuh.ykihxi 樱花
 {0}js+ekezex.sjehxo 散華
 {0}js+ejsxwc.liosje 離散
 {0}js+dn+dx,eikskculn.hoegeowoecio 霍格沃茨
