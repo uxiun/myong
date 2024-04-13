@@ -240,8 +240,6 @@
 {0}ph+kok.ycebue 要不
 {0}ph+kkjvk.ycexle 要項
 {0}ph+fwxk.ycemdu 要买
-{0}pco 黑
-{1}pco 黒
 {0}pc+ndfnc.mdomwo 埋没
 {0}pc+xfidez.gciwjo 睾丸
 {0}pc+wsc.mdoyui 埋込
@@ -264,6 +262,7 @@
 {0}pm+kfrfkg.pwelpe 配列
 {0}pz+bgv.djijii 单击
 {0}pz+ba+ky+skffsstk.mwunmohgolie 毎年恒例
+{0}pz+pls.mwuhvo 毎回
 {0}pz+ys.mwurie 毎日
 {0}pz+nu+rjmkhdld.geetnoohe 箇条帳
 {0}pz+xbxfv.djigvu 单轨
@@ -351,6 +350,7 @@
 {0}yg+bkhiof.seesue 色素
 {0}yg+tbkjf.seeqko 色情
 {0}yg+ujgf.seexli 色相
+{0}yg+wljclf.seedne 色調
 {0}yg+kh+rj+ebjgfbiong.seesueufuoea 色素沈着
 {0}yg+judddf.seecdu 色彩
 {0}yh+bmzlu.gfijue 根据
@@ -593,6 +593,7 @@
 {0}xy+bueeb.iyiggi 春耕
 {0}xy+yb.iyirie 春日
 {0}xy+yfygb.iyiwju 春晚
+{0}xy+rmdb.iyiiui 春初
 {0}xy+ueb.iyildo 春来
 {0}xy+ufseb.iyiigo 春橙
 {0}xy+mr+vj+rmybee.iyijpoqiijmi 春节期间
@@ -1151,6 +1152,7 @@
 {0}ri+yg+ky+ydbkeeftk.ljoseehgoxki 蓝色恒星
 {0}ri+cofsphf.faokru 罚款
 {0}ri+zyfrsm.mfadzi 们都
+{0}ri+khudee.ljoyao 蓝牙
 {0}ri+fygee.ljosee 蓝色
 {0}ri+fkwloee.ljojki 蓝鲸
 {0}ri+jbg.ljuyte 揽月
@@ -1432,8 +1434,6 @@
 {0}ui+kpmrn.dvemme 对面
 {0}ui+kun.dveyuo 对于
 {0}ui+fytsn.dvexle 对象
-{0}udn 皮
-{1}udn 板
 {0}ud+yfmzwkr.xbiwfo 新聞
 {0}ud+ndqowkr.xbixie 新潟
 {0}ud+xmkiwkr.xbitce 新套
@@ -2822,10 +2822,12 @@
 {0}we+sjcg.jkenwe 境内
 {0}we+lbh.jpikzu 接口
 {0}we+ek+dlwezbhkjv.jpitzocio 接頭辞
+{0}we+ea+js+eyxjbkrc.laikdiwwomue 拉开帷幕
 {0}we+db,dlwezbhmg.jpiwwucio 接尾辞
 {0}we+dlwezbh.jpicio 接辞
 {0}we+dkdfnbc.olehvu 撞毁
 {0}we+kus.wweyuo 位于
+{0}we+keb.laikdi 拉开
 {0}we+kekjvbh.jpitzo 接頭
 {0}we+kixmb.laidse 拉动
 {0}we+kkoyy.vjeuie 暗示
@@ -2930,6 +2932,7 @@
 {0}ou+zldlw.miogsi 迷宮
 {0}ou+lkdnlw.miolue 迷路
 {0}ou+ikfsmh.lvucie 屡次
+{0}og+nudnjx.ncuboi 脳波
 {0}og+uhiijx.ncujii 脳機
 {0}og+ecdbii.liuyie 礼義
 {0}og+dbtddi.liuwue 礼物
@@ -3063,6 +3066,7 @@
 {0}of+mdxnhkn.lvefae 緑髪
 {0}of+wxuihyg.jtodve 絶対
 {0}of+sghkn.lvexmi 緑仙
+{0}of+esuhkn.lveiao 緑茶
 {0}of+kjpghkn.lvedme 緑電
 {0}of+fyghkn.lvesee 緑色
 {0}of+ja+frwezhkns.lvenweohe 緑内障
@@ -3348,6 +3352,7 @@
 {0}sm+eveus.zoeyee 作業
 {0}sm+ixmis.zoewwe 作为
 {0}sm+iucg.qiuilo 起床
+{0}sm+dbgcg.qiumco 起毛
 {0}sm+dqdcg.qiuufi 起身
 {0}sm+dskls.zoedao 作答
 {0}sm+dfkris.zoefgi 作風
@@ -3781,6 +3786,7 @@
 {0}lf+wlmklks.geicio 歌詞
 {0}lf+wljsgks.geiyco 歌謡
 {0}lf+svmdwr.bueffe 部份
+{0}lf+swewr.buewwe 部位
 {0}lf+sdbwr.buejme 部件
 {0}lf+lyyks.geiihe 歌唱
 {0}lf+ljgvwr.bueyro 部員
@@ -3816,6 +3822,7 @@
 {0}lj+zlkjvwl.gciveo 高額
 {0}lj+zj+ykpcwlds.gcioielle 高质量
 {0}lj+vdbswl.gcioio 高鉄
+{0}lj+wxsxwl.gcixne 高效
 {0}lj+wurwl.gcisue 高速
 {0}lj+wgsiiwl.gcilko 高齢
 {0}lj+wlowg.lledmu 亮点
@@ -3973,9 +3980,11 @@
 {0}eg+jsynnj.mjufue 満腹
 {0}ehk+i 药
 {0}eh+yfkem.ojukdi 展開
+{0}eh+mxm.ojuqui 展区
 {0}eh+mijggm.ojulju 展覧
 {0}eh+wjkcm.ojuwhe 展望
 {0}eh+kem.ojukdi 展开
+{0}eh+fhzllm.ojugru 展馆
 {0}ec+lllun.yhepbu 様品
 {0}ec+itkun.yheuie 様式
 {0}ec+itksi.yiouie 儀式
@@ -3986,8 +3995,8 @@
 {0}ez+sefibcn.guuwuu 鼓舞
 {0}ez+ezlw.xbikuu 辛苦
 {0}ez+ioklpc.xkefuo 幸福
-{0}ev 业
-{1}ev 共
+{0}ev 共
+{1}ev 业
 {0}evj 期
 {0}ev+nw+skkikd.yaedsihve 亚冬会
 {0}ev+nirrk.yaeozi 亚洲
@@ -4241,6 +4250,7 @@
 {0}iw+pkcif.wdegoo 外国
 {0}iw+ydbkf.wdexki 外星
 {0}iw+njdgf.wdegri 外观
+{0}iw+xmkif.wdetce 外套
 {0}iw+tsf.wdeohu 外长
 {0}iw+tlgf.wdebci 外包
 {0}iw+uef.wdeldo 外来
@@ -4825,6 +4835,7 @@
 {0}kn.jm.ms+nwmuikkwdh.bkixtulvuyzo 冰雪旅游
 {0}kx+nspwlkm.kxehdu 跨海
 {0}kx+xmlnt.tmijxi 添加
+{0}kx+xmjm.ouelie 助力
 {0}kx+tdbklkm.kxexke 跨性
 {0}kx+cx+wlmkljmdm.ouedsecio 助動詞
 {0}kx+csihlkm.kxeyte 跨越
@@ -5165,13 +5176,16 @@
 {0}kk.hosck.sjiwwo 三維
 {0}kk.hl+dsuiuoiv.bniuiofuo 标识符
 {0}kk.hksck.sjiwwo 三维
+{0}kk.cykdsi.hveihu 会場
 {0}kk.cfmdsi.hveihu 会场
 {0}kk.mzkcizg.wjobie 完璧
+{0}kk.mehsi.hveoju 会展
 {0}kk.md+hisevdkr.qiosouyiu 其所以
 {0}kk.zn+ja+mbfrkuy.sjioiimkonae 三枝明那
 {0}kk.ztdgozx.yjomie 厳密
 {0}kk.zwxev.qiouio 其实
 {0}kk.zs,zpzkzkj.sjilyoiei 三輪車
+{0}kk.wguisi.yyodcu 伝導
 {0}kk.wsbh.ofeyui 振込
 {0}kk.wlouo.bnidmu 标点
 {0}kk.wloosi.hvetjo 会談
@@ -5187,6 +5201,7 @@
 {0}kk.lo.su+lkhmuowdi.bnidmufuohce 标点符号
 {0}kk.lk+ojfuwlwkl.yjoyuuxto 言語学
 {0}kk.enfdbh.ofedhe 振荡
+{0}kk.eh+ra+tsim.hveojuosixbi 会展中心
 {0}kk.ecvnk.sjilko 三菱
 {0}kk.ix+skkiwikm.yyedsehve 运动会
 {0}kk.ihlvuo.bniuio 标识
@@ -5777,6 +5792,7 @@
 {0}js+we+evdkrkcb.hoelaisii 霍拉斯
 {0}js+wkwk.yeekau 页卡
 {0}js+sdbkii.lkojme 零件
+{0}js+eyxjrc.wwomue 帷幕
 {0}js+endlkii.lkoloe 零落
 {0}js+estuh.ykihxi 樱花
 {0}js+ekezex.sjehxo 散華
@@ -5858,6 +5874,7 @@
 {0}jk+kgpkkv.lkohxe 霊画
 {0}jk+kgdnzv.ofixxe 真夏
 {0}jk+kcrfzk.oiodce 直到
+{0}jk+kwrkzv.ofioge 真正
 {0}jk+kscvzv.ofiyje 真贋
 {0}jk+jkxmbn.yrooue 援助
 {0}jf+bk+os+ui+bc,skffoudhjsdui.xtouginaefueteelie 学生納付特例
@@ -5895,6 +5912,7 @@
 {0}jj.dsykiodg.jtodeo 觉得
 {0}jj.kpydkogg.jtoxku 覚醒
 {0}jj.kpdclwl.goekue 過酷
+{0}jj.kk.wguijsi.guuyyodcu 骨伝導
 {0}jj.jjnbn.uzeuze 授受
 {0}ja+yy.mkorie 明日
 {0}ja+yuix.yzuuio 有时
