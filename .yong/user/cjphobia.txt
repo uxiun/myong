@@ -128,6 +128,7 @@
 {0}bf,uebmr.naeyhe 那样
 {0}bf,hkwigsi.irotsu 传统
 {0}bf,wtkkmr.naexpi 那些
+{0}bf,sx+ecxxskm.qkiyiimwu 轻医美
 {0}bf,sdbxs.rrujme 软件
 {0}bf,ihnbsi.iroyie 传译
 {0}bf,dbgxs.rrumco 软毛
@@ -435,6 +436,7 @@
 {0}ya+ymkc.rieyce 日曜
 {0}ya+ywlok.bdujku 百景
 {0}ya+nprid.bdoooo 白濁
+{0}ya+ntid.bdogzi 白沟
 {0}ya+ti+ts+nkvpdejeg.bdopuotcojqu 白葡萄酒
 {0}ya+ti+etsgdej.bdopuotco 白葡萄
 {0}ya+rfjsd.bdofwe 白费
@@ -556,6 +558,7 @@
 {0}na+wxuid.fjudve 反対
 {0}na+wlzjkx.yzuyie 友誼
 {0}na+odjgd.fjuugu 反省
+{0}na+okg.uvugli 水光
 {0}na+suiz.oiifue 支付
 {0}na+lz+zevvxwjk.yzuyiesde 友誼賽
 {0}na+ezccn.ulixpo 双鞋
@@ -1528,6 +1531,7 @@
 {0}ujk 査
 {0}uj+pdnld.ceelte 策略
 {0}uj+tmdwgg.qbiqpe 親切
+{0}uj+tlgdg.xlibci 箱包
 {0}uj+ztdgwgg.qbimie 親密
 {0}uj+ouwdlok.cuicci 粗糙
 {0}uj+ejung.xlicde 湘菜
@@ -2050,6 +2054,7 @@
 {0}ca+ctu.tuudie 土地
 {0}ca+cu+swbi.ouuiiorfo 主持人
 {0}ca+cd+zxywebi.ouuyieoeu 主義者
+{0}ca+zrrfs.uieuie 仕事
 {0}ca+wguiw.ouudcu 主導
 {0}ca+wsdfnk.whoyie 王毅
 {0}ca+wlkklw.ouuyuu 主語
@@ -2241,6 +2246,7 @@
 {0}md+dqdt.qpeufi 切身
 {0}md+kphdkr.souyce 所要
 {0}md+kpmgv.ffipwe 分配
+{0}md+kgdnr.iuixxe 初夏
 {0}md+kkfsr.iuicie 初次
 {0}md+frskut.qpeiuo 切除
 {0}md+fjmdbv.ffijpu 分解
@@ -2418,6 +2424,7 @@
 {0}zl+jxop.guerjo 固然
 {0}ze+bdupmx.lmoboi 联播
 {0}ze+yjjemx.lmomgo 联盟
+{0}ze+wmsxx.bfifhe 奔放
 {0}ze+sklmx.lmoheo 联合
 {0}ze+dhiomx.lmoxie 联系
 {0}ze+kl+pkcimxs.lmoheogoo 联合国
@@ -2650,6 +2657,7 @@
 {0}va+mkicf.xnuwui 小屋
 {0}va+za+ehzlv.jbiofigui 金針菇
 {0}va+vr+zk+djgepjfnv.siezeoyjusre 四則演算
+{0}va+wh+kcsifwfi.lqexmoqbo 六弦琴
 {0}va+wsfxf.xnuyee 小夜
 {0}va+wlvlgf.xnuuoi 小説
 {0}va+wlfue.gsexlu 共享
@@ -2722,6 +2730,7 @@
 {0}wr+uk+oa+yjkksk.ogetiubuemko 正体不明
 {0}wr+heqvnd.ueexmo 涉嫌
 {0}wr+zrrfnd.ueeuie 涉事
+{0}wr+zhkk.ogevji 正安
 {0}wr+sukkk.ogetiu 正体
 {0}wr+ecdbikk.ogeyie 正義
 {0}wr+evsk.qiuyee 企业
@@ -4073,6 +4082,7 @@
 {0}eid+m 蔵
 {0}ei+llixljm.zheqie 臓器
 {0}ei+li+yk+sevjmlxlbs.zheqietiogsi 臓器提供
+{0}ed,ykpcw.ijulle 产量
 {0}ed,tk+xa+ncikddiw.xkouiewfofau 形式文法
 {0}ed,tk+stkddi.xkouiehxe 形式化
 {0}ed,ggw.ijuiui 产出
@@ -4362,6 +4372,7 @@
 {0}if+ctufi.doidie 多地
 {0}if+mvpyfi.doicgo 多層
 {0}if+zojs.jbixni 今宵
+{0}if+zkwsff.yuudke 予定
 {0}if+wdkrsr.lbojbe 邻近
 {0}if+ouwzss.ybulne 飲料
 {0}if+ohsxfi.doiuue 多数
@@ -4810,6 +4821,7 @@
 {0}da+kpivni.wuesri 戊酸
 {0}da+kjkjrt.biexui 必需
 {0}da+fpom.dciyuo 刀魚
+{0}da+fu.ouozia 竹子
 {0}da+fkwcs.rueoue 入驻
 {0}da+jdgo.ucujme 少见
 {0}kp+wlwiyuo.bniuio 標識
@@ -4884,6 +4896,7 @@
 {0}kr+kcii.isiyai 冲压
 {0}kr+kixmlks.tnedse 跳动
 {0}kr+frskujf.ujiiuo 删除
+{0}ku+ylmns.yuoxxo 余暇
 {0}ku+xk+cx+cp+szsekc.yuuzoumwuliurfo 宇佐美理人
 {0}ku+xk+ecxzs.yuuzoumwu 宇佐美
 {0}ku+rp+hodynzz.yuuozexme 宇宙線
@@ -5285,6 +5298,7 @@
 {0}kj+okjvtn.yzufjo 懮煩
 {0}kj+sbb.qkinmo 青年
 {0}kj+erpvb.qkihlo 青黄
+{0}kj+irirrs.gveozi 贵州
 {0}kj+ihxnst.yuefai 愈发
 {0}kj+iojggme.jmiuie 監視
 {0}kj+idmhk.zuuigo 组成
@@ -5725,6 +5739,7 @@
 {0}jg+dnu.xlifju 相反
 {0}jg+dufou.xliigi 相称
 {0}jg+dcxmd.ziedse 自動
+{0}jg+dsrbd.zielve 自律
 {0}jg+khfku.xlihue 相互
 {0}jg+km+md+lzumikr.xliyuuiuiyee 相羽初叶
 {0}jg+kekjvy.mcetzo 冒頭
@@ -5888,6 +5903,7 @@
 {0}jf+weybmu.jkeybi 静音
 {0}jf+wknu.fuouhe 浮上
 {0}jf+eg+jghobmuj.jkeghixme 静岡県
+{0}jf+eveuou.xtoyee 学業
 {0}jf+ikwpobmu.jkelbu 静凛
 {0}jf+dbkou.xtougi 学生
 {0}jf+dsivfou.xtouue 学術
@@ -5947,6 +5963,7 @@
 {0}ja+ey+ptxwt.yzuyiesii 有意思
 {0}ja+ieny.mkodue 明度
 {0}ja+iijy.mkolhu 明朗
+{0}ja+ififx.yzuxue 有序
 {0}ja+dyy.mkobdo 明白
 {0}ja+durfx.yzulie 有利
 {0}ja+duwzs.nwekei 内科
