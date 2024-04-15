@@ -13,6 +13,7 @@
 {0}bx,mkdyz.uioxio 実習
 {0}bx,zkmsz.uiojxi 実家
 {0}bx,wedgxf.gvudce 轨道
+{0}bx,sukz.uiotiu 実体
 {0}bx,kcjggz.uioxme 実現
 {0}bx,klfhkdi.izomau 筹码
 {0}bt,ze+jxxdddmx.wuelmowhu 物联网
@@ -215,7 +216,8 @@
 {0}pr+kcrfwj.yuedce 遇到
 {0}pr+fy+xa+rrkjsjss.vzuxledaeuii 偶像大师
 {0}pr+jxosj.vzurjo 偶然
-{0}pu 困
+{0}pu 果
+{1}pu 困
 {0}pu+uecnei.zyiyhe 尊様
 {0}pu+hr.lounvu 裸女
 {0}pu+swcwh.gououe 裹住
@@ -1088,6 +1090,7 @@
 {0}rr,fdsxmzf.uiewue 事務
 {0}rr,jkxmbj.bhioue 帮助
 {0}ru 被
+{0}rc,bu+zm+dclxdycrn.zdejiobcegce 在籍報告
 {0}rc,pkkgfvn.lkoyro 陵园
 {0}rc,mb+rgxlr.zdenauvro 在哪儿
 {0}rc,zvkfvc.lueksi 陸空
@@ -1095,6 +1098,7 @@
 {0}rc,stzx.zdehxo 在华
 {0}rc,lmbrx.zdenau 在哪
 {0}rc,izpzx.zdekue 在庫
+{0}rc,dbuyx.zdejio 在籍
 {0}rc,krkpi.baegsi 罢工
 {0}rc,kux.zdeyuo 在于
 {0}rc,ka+csmgx.zdeyiiqiu 在一起
@@ -1550,6 +1554,7 @@
 {0}ua+ma+lix.uueliekzu 术力口
 {0}ua+zbxp.gouuio 果実
 {0}ua+zl+su+llixldli.muegruleeqie 木管楽器
+{0}ua+za+emrzk.ssegjejpo 宋干节
 {0}ua+vdyjz.ssejbu 宋錦
 {0}ua+wrks.xqioiu 休止
 {0}ua+wfijz.wwetsi 未通
@@ -2253,6 +2258,7 @@
 {0}mk+bepb.scumno 扫描
 {0}mk+bf,kc+dywgwmrpi.yuunaegoodcu 与那国島
 {0}mk+pdnlsn.qbilte 侵略
+{0}mk+yyc.ycerie 曜日
 {0}mk+yuio.dhiuio 当时
 {0}mk+nspwee.ljohdu 藍海
 {0}mk+xrjjd.jnibue 膠布
@@ -2441,11 +2447,13 @@
 {0}zd+ebkdfn.dreiae 段差
 {0}zd+endldfn.dreloe 段落
 {0}zd+kxmdr.lnotmi 聊天
+{0}zd+frttydfn.drejpi 段階
 {0}zk+bxdxnv.yjuzze 演奏
 {0}zk+bxkxnv.yjuzze 演奏
 {0}zk+bznnv.yjujie 演技
 {0}zk+bfjxzki.oruhre 転換
 {0}zk+ggnv.yjuiui 演出
+{0}zk+mkdynv.yjuxio 演習
 {0}zk+zxynv.yjuoeu 演者
 {0}zk+wrrfvs.dkejie 錠剤
 {0}zk+wsrfnv.yjujue 演劇
@@ -2754,6 +2762,7 @@
 {0}wh+ta+dwsmgus.heoxbichi 核心舱
 {0}wh+rpgus.heodme 核电
 {0}wh+ebjgt.mhooea 忙着
+{0}wh+ijttus.heongo 核能
 {0}wh+dndfli.jruiuu 呟処
 {0}wh+jr+skluskki.heorsoheo 核融合
 {0}wh+jfi.xmoyte 弦月
@@ -2799,7 +2808,8 @@
 {0}ws,iiirc.zzulho 走廊
 {0}ws,ffc.zzulea 走了
 {0}ws,fa+ee,cicfw.zzuleajbeque 走了进去
-{0}wl 这
+{0}wl 高
+{-}wl 这
 {0}wlo 京
 {0}wlo. 京
 {0}wls+kj 論
@@ -3093,6 +3103,7 @@
 {0}oj+hlsl.thuruo 倘如
 {0}oj+hdbihj.ihoveo 嫦娥
 {0}oj+cin.xnique 消去
+{0}oj+mzzptigg.uietki 視聴
 {0}oj+wloigg.uiedmu 視点
 {0}oj+wdkjsidg.uiepbo 视频
 {0}oj+ojjggigg.uiejto 視覚
@@ -3114,6 +3125,7 @@
 {0}oj+jj.xx,puiggoggwm.uiejtoxnegou 視覚効果
 {0}oa+bf,dikmr.buenaemea 不那么
 {0}oa+bf+dikmr.buenaemea 不那么
+{0}oa+ymkc.houyce 火曜
 {0}oa+ykwsk.bueuie 不是
 {0}oa+yjk.buemko 不明
 {0}oa+nzx.hvioii 灰汁
@@ -3136,6 +3148,7 @@
 {0}oa+ha+zkwskz.buevjidke 不安定
 {0}oa+ctkkk.buejyi 不均
 {0}oa+cezk.buexke 不幸
+{0}oa+mk+yyc.houycerie 火曜日
 {0}oa+zkwsk.buedke 不定
 {0}oa+vpzk.buedji 不单
 {0}oa+wrkk.bueoiu 不止
@@ -3431,6 +3444,7 @@
 {0}skf+f 例
 {0}sk+buznu.tuomou 涂抹
 {0}sk+bjzzfxt.faihvi 発揮
+{0}sk+yskjvzy.suetio 宿題
 {0}sk+ydbkdkf.xkoxki 行星
 {0}sk+njsfuk.jmucee 检测
 {0}sk+xbnf.qieiei 汽车
@@ -4078,6 +4092,7 @@
 {0}ee,eyxjm.pkomue 屏幕
 {0}ee,idmuj.gzeigo 構成
 {0}ee,dskkfw.jbexko 进行
+{0}ee,dkfuuj.gzeoue 構築
 {0}ee,kjrrw.jbevro 进而
 {0}eid+m 蔵
 {0}ei+llixljm.zheqie 臓器
@@ -4222,6 +4237,8 @@
 {0}ir+dlkrjrii.isouii 蟲師
 {0}ir+djrffi.qlooie 強制
 {0}ir+kfofi.qlolpe 強烈
+{0}ih+nnn.poiuvu 泼水
+{0}ih+na+emrnn.poiuvujpo 泼水节
 {0}ih+rpgsy.iuudme 储电
 {0}ih+dnpsy.iuubwe 储备
 {0}ic+odk.oieucu 至少
@@ -5340,6 +5357,7 @@
 {0}ka+zj+tdbkpgv.yiigrexke 一貫性
 {0}ka+zj+ka+lkdnlerj.yiiddeyiilue 一帯一路
 {0}ka+vj+dbke.yiiqiiugi 一期生
+{0}ka+wxu.bfuwfo 本文
 {0}ka+wtkk.yiixpi 一些
 {0}ka+wmdw.uhebmi 上辺
 {0}ka+wlo.yiidmu 一点
@@ -5670,6 +5688,7 @@
 {0}jr+uekr.vroldo 而来
 {0}jr+zkwsdf.oiedke 制定
 {0}jr+wscef.qmojbe 前進
+{0}jr+wskuef.qmotuo 前途
 {0}jr+wegkjef.qmodri 前端
 {0}jr+wdcldf.oiezce 制造
 {0}jr+obef.qmobje 前半
@@ -5719,6 +5738,7 @@
 {0}jg+mgd.ziejiu 自己
 {0}jg+mitd.ziewwe 自慰
 {0}jg+mkmiku.xliyuu 相羽
+{0}jg+mkdyd.ziexio 自習
 {0}jg+vmdd.zieffi 自分
 {0}jg+wukbu.xliwwo 相違
 {0}jg+wlmitd.zierfe 自認
@@ -5932,6 +5952,7 @@
 {0}jj.jjnbn.uzeuze 授受
 {0}ja+yy.mkorie 明日
 {0}ja+yuix.yzuuio 有时
+{0}ja+ymkc.yteyce 月曜
 {0}ja+yevy.mkoxmu 明显
 {0}ja+ydbky.mkoxki 明星
 {0}ja+yfdnls.nwegeo 内閣
@@ -5944,6 +5965,7 @@
 {0}ja+hi+ta+kl+dbtddxuiss.yzujiihxeheowue 有機化合物
 {0}ja+hkizx.yzuxme 有线
 {0}ja+csmznx.yzuque 有趣
+{0}ja+mk+yyc.yteycerie 月曜日
 {0}ja+zvsls.nwerso 内容
 {0}ja+wxxmx.yzuxne 有効
 {0}ja+wtkkx.yzuxpi 有些
