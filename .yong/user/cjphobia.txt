@@ -224,6 +224,7 @@
 {0}pg+ua+ek+sukrfhu.dmeziamwotiu 电子媒体
 {0}pg+hd+kh+klfhkrizllm.dmehxehcemau 电话号码
 {0}pg+wg+wm+wvirjxwu.dmencuyzohui 电脑遊戯
+{0}pg+wvjlr.dmeuhi 电商
 {0}pg+wewlr.dmeoje 电站
 {0}pg+oj+mr+jgridge.dmeuiejpomue 电视节目
 {0}pg+oj+mlrfridg.dmeuiejue 电视剧
@@ -337,6 +338,7 @@
 {0}yt+cydnt.hyeugi 混声
 {0}yt+zizpzbt.jpizde 掲載
 {0}yt+sr+wm+wviwikdbwu.yyelveyzohui 韵律遊戯
+{0}yt+sklnt.hyeheo 混合
 {0}yt+eteueh.geoyee 葛葉
 {0}yt+ejoneh.geotgo 葛藤
 {0}yt+ihdzldi.deahxe 的话
@@ -513,6 +515,7 @@
 {0}nd+prwlfdf.iuufao 処罰
 {0}nd+mbmoel.loemau 落馬
 {0}nd+wlkklel.loeyuu 落語
+{0}nd+opzel.loedji 落単
 {0}nd+scumds.juejio 聚集
 {0}nd+ddbgel.loebiu 落笔
 {0}nd+kcpcdf.iuuliu 処理
@@ -1636,6 +1639,7 @@
 {0}gd+ukjg.jmebfu 見本
 {0}gd+mdbgwyo.jqewwu 鷲尾
 {0}gd+ojjdgjzk.uvejto 睡觉
+{0}gd+evjkn.xxeqii 夏期
 {0}gd+db,dk+ecxwyomgdjv.jqewwuxuimwu 鷲尾須美
 {0}gd+kickn.xxeoie 夏至
 {0}gd+jglhtjzk.uvemmo 睡眠
@@ -2649,6 +2653,7 @@
 {0}vj+uwco.jiooue 脊柱
 {0}vj+ve+stwleu.uhiyeehxe 商業化
 {0}vj+va+stwle.uhiyeehxe 商业化
+{0}vj+lllwl.uhipbu 商品
 {0}vj+evwl.uhiyee 商业
 {0}vj+eveuwl.uhiyee 商業
 {0}vj+dscuie.qiidde 期待
@@ -3802,6 +3807,7 @@
 {0}lk+wxzjs.veotzo 额头
 {0}lk+wlfxkmc.ugedje 聖誕
 {0}lk+ojfuwkl.yuuxto 語学
+{0}lk+sdbkrx.ykejme 硬件
 {0}lk+skrpwoz.pkosie 評価
 {0}lk+sfxwkl.yuuqie 語気
 {0}lk+lf+howdmwklwr.yuubuefhu 語部紡
@@ -4103,6 +4109,7 @@
 {0}ee,bmznm.pkouee 屏摄
 {0}ee,bkfs.bkedau 併打
 {0}ee,xrfus.bkecyo 併存
+{0}ee,ga+lwg.jbeiuikzu 进出口
 {0}ee,ciw.jbeque 进去
 {0}ee,wxuj.gzewfo 構文
 {0}ee,wdcluj.gzezce 構造
@@ -4517,6 +4524,7 @@
 {0}dq+zjhiobn.szisou 搜索
 {0}dp+xjd.lqoyzu 留有
 {0}dp+ojfud.lqoxto 留学
+{0}dp+sbd.lqonmo 留年
 {0}dp+ecxd.lqomwu 留美
 {0}dp+kwd.lqoxxe 留下
 {0}dy+bgw.poejii 迫击
@@ -4850,6 +4858,7 @@
 {0}da+cfmds.rueihu 入场
 {0}da+ma+ncisx.rueliefau 入力法
 {0}da+zzskj.ouolyo 竹輪
+{0}da+vx+skkiww.glujnihve 广交会
 {0}da+ohsxo.ucuuue 少数
 {0}da+irirw.gluozi 广州
 {0}da+ijttu.cdongo 才能
@@ -4890,8 +4899,10 @@
 {0}kx+xmjm.ouelie 助力
 {0}kx+tdbklkm.kxexke 跨性
 {0}kx+cx+wlmkljmdm.ouedsecio 助動詞
+{0}kx+cweglkm.kxejke 跨境
 {0}kx+csihlkm.kxeyte 跨越
 {0}kx+wlmkljm.ouecio 助詞
+{0}kx+we+pg+wvjllkmcgr.kxejkedmeuhi 跨境电商
 {0}kx+suint.tmifue 添付
 {0}kt+ba+kciznro.bwubjeqqo 北半球
 {0}kt+nild.igooie 惩治
@@ -5525,7 +5536,8 @@
 {0}fo+bi+stusd.niuwoutai 你我他
 {0}fo+xbskfs.niuuui 你输
 {0}fo+zkk.lpeuie 烈士
-{0}fs 久
+{0}fs 欠
+{1}fs 久
 {0}fs+bxdxl.ivizze 吹奏
 {0}fs+bxkxl.ivizze 吹奏
 {0}fs+xd,su+wlfrlbxi.ivizzeleebue 吹奏楽部
@@ -5665,6 +5677,7 @@
 {0}jn+bljsj.uzesyu 受损
 {0}jn+zbzlj.uzehde 受害
 {0}jn+wlsddj.uzeofu 受診
+{0}jn+wleejj.uzejlu 受講
 {0}jn+oa+ffjk.uzebuelea 受不了
 {0}jn+dcxmj.uzedse 受動
 {0}jn+kcpcj.uzeliu 受理
@@ -5949,6 +5962,7 @@
 {0}jf+wwmunu.fuoyzo 浮遊
 {0}jf+weybmu.jkeybi 静音
 {0}jf+wknu.fuouhe 浮上
+{0}jf+oxkjvou.xtolwe 学類
 {0}jf+eg+jghobmuj.jkeghixme 静岡県
 {0}jf+eveuou.xtoyee 学業
 {0}jf+ikwpobmu.jkelbu 静凛
