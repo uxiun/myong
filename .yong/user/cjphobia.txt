@@ -66,6 +66,7 @@
 {0}bs,dbtddd.uiiwue 失物
 {0}bs,du+ewxbeef.fuolielmo 芙莉莲
 {0}bs,dlkrjdx.mueuii 牧師
+{0}bs,da+ncixkfs.uuiruefau 输入法
 {0}bs,jvsxd.uiibde 失敗
 {0}bs,jilxt.lyotdi 轮胎
 {0}bi 找
@@ -261,6 +262,7 @@
 {0}pm+swklkg.pwexbe 配信
 {0}pm+lm+wlmkldkkws.fjiyiecio 翻訳詞
 {0}pm+ejrfkr.mmeqmo 面前
+{0}pm+ihnbdkk.fjiyie 翻译
 {0}pm+dubkvkr.mmejii 面積
 {0}pm+kfrfkg.pwelpe 配列
 {0}pz+bgv.djijii 单击
@@ -910,8 +912,8 @@
 {0}tu+srims.taimfa 他们
 {0}tu+swec.diewwe 地位
 {0}tu+ss.tairfo 他人
-{0}tu+ezjrjc.diedde 地帯
-{1}tu+ezjrjc.diedde 地带
+{0}tu+ezjrjc.diedde 地带
+{1}tu+ezjrjc.diedde 地帯
 {0}tu+kpmrc.diemme 地面
 {0}tu+kciznc.dieqqo 地球
 {0}tu+kwc.diexxe 地下
@@ -1450,6 +1452,7 @@
 {0}ui+smgoyh.llochi 粮仓
 {0}ui+swrkd.siiqiu 私企
 {0}ui+siyhoyh.llouio 粮食
+{0}ui+sifiy.uiolke 时令
 {0}ui+sju.cyinwe 村内
 {0}ui+ebjgw.goeoea 过着
 {0}ui+ezjrjs.fuedde 付帯
@@ -1460,6 +1463,7 @@
 {0}ui+kpmrn.dvemme 对面
 {0}ui+kun.dveyuo 对于
 {0}ui+fytsn.dvexle 对象
+{0}udn 板
 {0}ud+yfmzwkr.xbiwfo 新聞
 {0}ud+ndqowkr.xbixie 新潟
 {0}ud+xmkiwkr.xbitce 新套
@@ -1579,6 +1583,7 @@
 {0}ua+vdyjz.ssejbu 宋錦
 {0}ua+wrks.xqioiu 休止
 {0}ua+wfijz.wwetsi 未通
+{0}ua+esuj.cduiao 采茶
 {0}ua+esscp.kyenjo 困難
 {0}ua+ihwdmj.cdufhu 采访
 {0}ua+ijttt.yeungo 也能
@@ -1672,6 +1677,7 @@
 {0}ga+pa+jl+fuo.ujitmouhezia 山田尚子
 {0}ga+yt+wlkkljdi.muedeayuu 目的語
 {0}ga+nzkvg.iuiyju 出演
+{0}ga+nspw.ujihdu 山海
 {0}ga+rrdng.iuibju 出版
 {0}ga+rd+iocgrn.iuibjuuee 出版社
 {0}ga+ux+kt+ka+kpwlufowsck.yiugveciovreiyo 乙炔雌二醇
@@ -3336,6 +3342,7 @@
 {0}sr+kfowf.juelpe 劇烈
 {0}sr+frpkhpr.jpewwi 界隈
 {0}su+bk+yfydbfd.wweugijmi 衛生間
+{0}su+pclhe.iaoyro 茶園
 {0}su+pclhi.leeyro 楽園
 {0}su+ydbkdbf.wwexki 衛星
 {0}su+hkfskjd.cdojki 财经
@@ -3347,6 +3354,7 @@
 {0}su+dbkdbf.wweugi 衛生
 {0}su+kf+dk+wedgjdhskwjs.cdojkipbodce 财经频道
 {0}su+fretsi.leedve 楽隊
+{0}su+fhfse.iaoybu 茶饮
 {0}sg+xk+mlrfdgxsle.wwidrujue 微短剧
 {0}sg+hopdgx.wwixie 微細
 {0}sg+md+ub+vmddgxvdkv.wwiffijiiffi 微分積分
@@ -5342,6 +5350,7 @@
 {0}kf+pevxl.qioyie 奇異
 {0}kf+pa+za+izvvpd.tkitmoqmimao 町田千麻
 {0}kf+nwxrhsk.jkijie 经济
+{0}kf+njdgxl.qiogri 奇观
 {0}kf+tncxl.qiogke 奇怪
 {0}kf+rmts.qiemfe 气闷
 {0}kf+rktnl.heobwu 河北
@@ -5425,6 +5434,7 @@
 {0}ka+mijgg.yiilju 一覧
 {0}ka+mdbg.yiiwwu 一尾
 {0}ka+zkws.yiidke 一定
+{0}ka+zfu.yiizie 一字
 {0}ka+zjkk.yiioio 一直
 {0}ka+zj+tdbkpgv.yiigrexke 一貫性
 {0}ka+zj+ka+lkdnlerj.yiiddeyiilue 一帯一路
@@ -5930,10 +5940,12 @@
 {0}jl+esrrel.ykoyhu 营养
 {0}jl+edjgodg.dhuuzu 党首
 {0}jl+ejrfd.xleqmo 向前
+{0}jl+ejllkkl.lueyko 露营
 {0}jl+durfodl.ykolie 営利
 {0}jl+dswcd.xlewhu 向往
 {0}jl+kgpkls.lkohxe 靈画
 {0}jl+kwd.xlexxe 向下
+{0}jl+jborj.ihoyse 常用
 {0}jl+jdgorj.ihojme 常见
 {0}jei+m 臓
 {0}je+ba+kciznzzo.njobjeqqo 南半球
@@ -6003,6 +6015,7 @@
 {0}jf+weybmu.jkeybi 静音
 {0}jf+wknu.fuouhe 浮上
 {0}jf+oxkjvou.xtolwe 学類
+{0}jf+sw,udnedjl.jmutpibju 剪贴板
 {0}jf+eg+jghobmuj.jkeghixme 静岡県
 {0}jf+eveuou.xtoyee 学業
 {0}jf+ikwpobmu.jkelbu 静凛
@@ -6010,6 +6023,7 @@
 {0}jf+dsivfou.xtouue 学術
 {0}jf+kd+db,eo+fx+xmoumytkss.xtoxioxkewuoqielie 学習性無気力
 {0}jf+frjsoou.xtojie 学際
+{0}jf+jswled.jmutpi 剪贴
 {0}jf+jegbmu.jkeghi 静岡
 {0}jj 朋
 {0}jj.bdkrj.guuoeo 骨折
