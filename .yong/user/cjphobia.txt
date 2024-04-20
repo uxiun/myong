@@ -5,6 +5,7 @@
 {0}bb,kfcxfi.oruxko 转型
 {0}bxn 泰
 {0}bxn+ 泰
+{0}bx,nldgz.uiokle 実況
 {0}bx,xrcz.uiozde 実在
 {0}bx,xmz.uiolie 実力
 {0}bx,rcwdhz.uiooli 実装
@@ -1005,6 +1006,7 @@
 {0}ta+ui+wa+ctusock.hxeolixxedie 化粧下地
 {0}ta+ui+lllsoc.hxeolipbu 化粧品
 {0}ta+cp+ojfukc.xbiliuxto 心理学
+{0}ta+zbxr.osiuio 忠実
 {0}ta+zxkhmp.siikcu 思考
 {0}ta+zzwvxt.biujne 比較
 {0}ta+wtptp.siilve 思慮
@@ -1464,10 +1466,12 @@
 {0}ui+kun.dveyuo 对于
 {0}ui+fytsn.dvexle 对象
 {0}udn 板
+{0}ud+yd+frzkgfhsrg.guivroyre 孤児院
 {0}ud+yfmzwkr.xbiwfo 新聞
 {0}ud+ndqowkr.xbixie 新潟
 {0}ud+xmkiwkr.xbitce 新套
 {0}ud+tz+iocwkrs.xbihxouee 新华社
+{0}ud+rydgfhs.guivro 孤児
 {0}ud+rmmzwkr.xbiwfo 新闻
 {0}ud+rz+it+wlddiwkrfpzs.xbiofeddexpe 新陣代謝
 {0}ud+rikjdd.cduhso 彩虹
@@ -1918,6 +1922,7 @@
 {0}cy+dp+llixlrd.uuilqoqie 書留器
 {0}cx+prfie.mwuloo 美罗
 {0}cx+pkcie.mwugoo 美国
+{0}cx+nspwe.mwuhdu 美海
 {0}cx+njdge.mwugri 美观
 {0}cx+xmdm.dselie 動力
 {0}cx+tduudm.dsejie 動悸
@@ -1955,6 +1960,7 @@
 {0}cu+rs.jioosi 集中
 {0}cu+uukkoci.fgijbe 封禁
 {0}cu+hsi.uienvu 侍女
+{0}cu+hi+kfrfyido.uioxielpe 時系列
 {0}cu+hkzfxbi.iioxue 持续
 {0}cu+cw+oz+hosckdnkgjhiv.boilioxmiwwo 玻璃繊維
 {0}cu+mlebs.jioqyo 集群
@@ -4238,6 +4244,7 @@
 {0}ea+djgu.ldozie 来自
 {0}ea+kicd.ugioie 升至
 {0}ea+fili.jpemko 戒名
+{0}ea+jg+jv+nrorudnu.ldozieufiyri 来自深渊
 {0}ea+jke.bkeqpu 并且
 {0}i 我
 {0}ip+rirrjrho.loosii 螺蛳
@@ -4781,6 +4788,7 @@
 {0}dsz,pt 德
 {0}ds+uu.rcymnkk.lvulieuui 履歴書
 {0}ds+mkdymn.lvuxio 履習
+{0}ds+ow+wz,fnkebhiyez.lveoiilmoigo 葎織蓮丞
 {0}ds+kuukmn.lvulie 履歴
 {0}dlg 乱
 {0}dl+plm.ocehvo 召回
@@ -5085,6 +5093,7 @@
 {0}kc+kcizns.qroqqo 全球
 {0}kc+km+rj+fm+zl+lt+mmlpizswcddlv,ooxiiehurusuuo 国家市场监管总局
 {0}kc+km+rj+fm+lt+mmlpizswcdv.goojxiuieihuzsujuo 国家市场监管总局
+{0}kc+klzi.bcuuio 宝石
 {0}kc+kjspwsf.dcemwo 倒霉
 {0}kc+frkkopi.goojie 国际
 {0}kc+frjsopi.goojie 国際
@@ -5586,6 +5595,7 @@
 {0}fo+zkk.lpeuie 烈士
 {0}fs+bxdxl.ivizze 吹奏
 {0}fs+bxkxl.ivizze 吹奏
+{0}fs+nidokik.jmimpe 殲滅
 {0}fs+xd,su+wlfrlbxi.ivizzeleebue 吹奏楽部
 {0}fs+xd,isulbx.ivizzelee 吹奏楽
 {0}fs+xk+su+wlfrlbxi.ivizzeleebue 吹奏楽部
