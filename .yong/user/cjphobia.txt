@@ -109,6 +109,7 @@
 {0}bk+wddbkd.ugiiju 生産
 {0}bk+oa+fifiek.iaebuedoi 差不多
 {0}bk+stj.qkorfo 情人
+{0}bk+sc+skkiddws.ugituohve 生徒会
 {0}bk+slltj.qkolvu 情侣
 {0}bk+sklrd.ugimke 生命
 {0}bk+lmrfe.iaebpo 差別
@@ -123,6 +124,7 @@
 {0}bk+ikldgtj.qkokle 情况
 {0}bk+dbtddd.ugiwue 生物
 {0}bk+dqdd.ugiufi 生身
+{0}bk+dscwsd.ugituo 生徒
 {0}bk+kfzjkd.ugioio 生殖
 {0}bk+frskunj.qkiiuo 清除
 {0}bk+jjtntj.qkovde 情愛
@@ -245,6 +247,7 @@
 {0}ph+kok.ycebue 要不
 {0}ph+kkjvk.ycexle 要項
 {0}ph+fwxk.ycemdu 要买
+{0}pco 黒
 {0}pc+ndfnc.mdomwo 埋没
 {0}pc+xfidez.gciwjo 睾丸
 {0}pc+wsc.mdoyui 埋込
@@ -253,6 +256,7 @@
 {0}pc+jp+ntuvkg.liudmeiio 鋰電池
 {0}pm+nuikr.mmedve 面对
 {0}pm+xmkikg.pwetce 配套
+{0}pm+ui+uedkkw.fjigoeldo 翻过来
 {0}pm+ui+kpmrkrn.mmedvemme 面对面
 {0}pm+vmdkg.pweffi 配分
 {0}pm+wtptkg.pwelve 配慮
@@ -403,6 +407,7 @@
 {0}yd+skjnc.ugiyzi 声優
 {0}yd+drjgvc.ugioie 声質
 {0}yd+dskkfg.mmuqmi 免签
+{0}yd+fygc.ugisee 声色
 {0}yd+frskufg.mmuiuo 免除
 {0}yk 星
 {0}ykj+i 曇
@@ -624,6 +629,7 @@
 {0}xn+pkcib.tdegoo 泰国
 {0}xx,puwm.xnegou 効果
 {0}xx,xnj.whuyzu 网友
+{0}xx,ua+weywmp.xnegouybi 効果音
 {0}xx,hkdnlj.whuloe 网络
 {0}xx,hkkj.whuhso 网红
 {0}xx,wewlj.whuoje 网站
@@ -657,6 +663,7 @@
 {0}xr+dkfufb.jmeoue 建築
 {0}xr+jeyxj.xiilae 希腊
 {0}xu 东
+{0}xu+nuxwi.dvejto 対決
 {0}xu+gcuiwi.dveoie 対峙
 {0}xu+wldzlwi.dvehxe 対話
 {0}xu+wewi.dvelie 対立
@@ -665,6 +672,7 @@
 {0}xu+sa+ft,xr+xkwkwiktj.dverfoksubueoge 対人恐怖症
 {0}xu+itwi.dveyki 対応
 {0}xu+dujwi.dvecee 対策
+{0}xu+kpmrwi.dvemme 対面
 {0}xu+fytswi.dvexle 対象
 {0}xg+ncik.wuofau 无法
 {0}xg+txfisk.wuoyio 无疑
@@ -1223,6 +1231,7 @@
 {0}rk+estus.tcohxi 桃花
 {0}rk+efk.gsiyie 工艺
 {0}rk+ihvlgli.sviuoi 虽说
+{0}rk+imwdmk.gsifho 工房
 {0}rk+dbtddwv.yiowue 遺物
 {0}rk+dbkfy.moeugi 陌生
 {0}rk+dn+filrrs.pmefjumko 片仮名
@@ -1482,6 +1491,7 @@
 {0}ud+mm.hj.ujkwkrrzicl.xbiwfodneoai 新闻调査
 {0}ud+mm.ze+bdupwkrrzmx.xbiwfolmoboi 新闻联播
 {0}ud+mm.dk+wedgwkrrzwjs.xbiwfopbodce 新闻频道
+{0}ud+mvpyhkr.drecgo 断層
 {0}ud+ml+cudnwkrx.xbijxipoi 新加坡
 {0}ud+zs,hodynwkrzkz.xbigjexme 新幹線
 {0}ud+zfuwkr.xbizie 新字
@@ -1489,6 +1499,7 @@
 {0}ud+za+wkidowkrd.xbiqmisve 新千歳
 {0}ud+vp+ekkwkrk.xbixiiljo 新西兰
 {0}ud+wxfho.syiwfo 孫文
+{0}ud+wldfnwkr.xbiuee 新設
 {0}ud+weynn.boiybi 波音
 {0}ud+oxkjvdzc.osulwe 種類
 {0}ud+ouwzu.cdolne 材料
@@ -1562,6 +1573,7 @@
 {0}uf+kixmdif.yiodse 移动
 {0}ujk 査
 {0}uj+pdnld.ceelte 策略
+{0}uj+xnwgg.qbiyzu 親友
 {0}uj+tmdwgg.qbiqpe 親切
 {0}uj+tlgdg.xlibci 箱包
 {0}uj+ztdgwgg.qbimie 親密
@@ -1659,6 +1671,7 @@
 {0}ge+wxslc.gretzo 罐头
 {0}gd+ukjg.jmebfu 見本
 {0}gd+mdbgwyo.jqewwu 鷲尾
+{0}gd+zn+pwxjgm.jmequutuo 見取図
 {0}gd+ojjdgjzk.uvejto 睡觉
 {0}gd+evjkn.xxeqii 夏期
 {0}gd+db,dk+ecxwyomgdjv.jqewwuxuimwu 鷲尾須美
@@ -1985,6 +1998,7 @@
 {0}cc,wdhb.gxeyii 挂衣
 {0}cm+yp+mk+im+jgdgsxtnwsj.vcemjeyuupmijme 傲慢与偏見
 {0}cm+typnsx.vcemje 傲慢
+{0}cm+jl+jl+izpzkbokklkkl.maulueluekue 瑪露露庫
 {0}cz+sedjn.oyubwe 準備
 {0}cvp+y 增
 {0}cw+przjkrdh.olioie 装置
@@ -2264,6 +2278,7 @@
 {0}md+rr.iuiosi 初中
 {0}md+uznv.ffioii 分枝
 {0}md+udkrv.ffixii 分析
+{0}md+ht+dsccfvvl.pbombojpi 貧民街
 {0}md+hudkrt.qpedre 切断
 {0}md+hofdnr.iuijio 初級
 {0}md+hisdkr.souyiu 所以
@@ -2281,6 +2296,7 @@
 {0}md+ouxv.ffilwe 分类
 {0}md+stv.ffihxe 分化
 {0}md+lr+fx+dnjevzfvb.ffigeijmepjo 分割鍵盤
+{0}md+lhtvv.pbombo 貧民
 {0}md+lmrfv.ffibpo 分別
 {0}md+lzr.iuiyee 初叶
 {0}md+ldkrr.iuitki 初听
@@ -2324,6 +2340,7 @@
 {0}mk+lkdnlxi.tcelue 套路
 {0}mk+ekkvw.yuuqio 与其
 {0}mk+ejrfo.dhiqmo 当前
+{0}mk+dcdgljv.veexmi 顎先
 {0}mk+kt+kl+yuiwwj.yuuciutsouio 与此同时
 {0}mk+kolw.yuufzu 与否
 {0}mk+klfhkb.scumau 扫码
@@ -2420,6 +2437,7 @@
 {0}zz,nfinj.icoxii 潮汐
 {0}zz,cvpynr.jmezgi 漸増
 {0}zz,cionj.icoree 潮熱
+{0}zz,wudkrnr.jmexbi 漸新
 {0}zz,wdkrnr.jmejbe 漸近
 {0}zz,ojjggmpt.tkijto 聴覚
 {0}zz,dp+cx+nspwnjde.icolqomwuhdu 潮留美海
@@ -2618,6 +2636,7 @@
 {0}vw+oj+vjelsv.pwoihojbi 賠償金
 {0}vw+sojvjel.pwoiho 賠償
 {0}vs+ytddzl.rsoyie 容易
+{0}vs+rktjx.bdebwu 敗北
 {0}vs+zxyjx.bdeoeu 敗者
 {0}vs+ozijx.bdeoje 敗戦
 {0}vs+llixlzl.rsoqie 容器
@@ -3234,6 +3253,7 @@
 {0}oa+lwsk.buezuo 不足
 {0}oa+ls+zkwskkjc.bueqtedke 不確定
 {0}oa+lf+jmrnksif.bueuuifuo 不舒服
+{0}oa+ekte.houzhe 火葬
 {0}oa+ihstk.buelye 不论
 {0}oa+ijttk.buengo 不能
 {0}oa+durfk.buelie 不利
@@ -3542,6 +3562,7 @@
 {0}sk+ixmidkf.xkowwe 行为
 {0}sk+ix+hz+irfdkfkmi.xkodsejiehxe 行动计划
 {0}sk+ihkwkdk.qmioge 签证
+{0}sk+iolgjko.jiesie 祭祀
 {0}sk+ioebfxt.faixlo 発祥
 {0}sk+iokdl.daoyki 答应
 {0}sk+durfll.hailie 哈利
@@ -3648,6 +3669,7 @@
 {0}lt+uk+ea+dbjgvsu.zsutiuldokje 总体来看
 {0}lt+hkwigv.zsutsu 总统
 {0}lt+mmlv.zsujuo 总局
+{0}lt+wlddii.gjuxpe 感謝
 {0}lt+ojjggi.gjujto 感覚
 {0}lt+ojjdgi.gjujto 感觉
 {0}lt+sxli.gjuoii 感知
@@ -3720,6 +3742,7 @@
 {0}lv 只
 {0}lv.yjwlg.uoimko 説明
 {0}lw+bkjgvwrl.qmuzeo 譴責
+{0}lw+yflwdm.fhuwfe 訪問
 {0}lw+rrkrksz.svepme 碎片
 {0}lw+rcydez.ciouui 辞書
 {0}lw+rwdm.fhuosi 訪中
@@ -3959,6 +3982,7 @@
 {0}la+wlmkli.tdocio 台詞
 {0}la+wldzl.kzuhxe 口話
 {0}la+wlkkl.kzuyuu 口語
+{0}la+wljcl.kzudne 口調
 {0}la+or+wjdckipr.uioufowhe 石神望
 {0}la+oe+dbtddcib.jioxlowue 吉祥物
 {0}la+stwdh.kzudde 口袋
@@ -4250,6 +4274,7 @@
 {0}ip+rirrjrho.loosii 螺蛳
 {0}ip+wkzev.ddeuhe 戴上
 {0}iy+ba+ekpzshj.uioysexye 食用蕈
+{0}iy+nypnnh.lhemje 浪漫
 {0}iy+rfjgvnh.lhefwe 浪費
 {0}iy+cu+zu+kd+dbcuislbihlnl.chiiiomweluetee 倉持妹路特
 {0}iy+clkjvsl.chixpo 倉頡
@@ -4678,6 +4703,7 @@
 {0}du+db,jk+zyfreomgwc.qqiwwuwhedzi 萩尾望都
 {0}du+dudzcbp.boiosu 播種
 {0}du+du+hpwiefef.lieliemuu 莉莉姆
+{0}du+kflef.liekeu 莉可
 {0}dg 看
 {0}dg+vfrdl.xsidie 兄弟
 {0}dg+wlszi.yyuxuu 允許
@@ -4801,9 +4827,11 @@
 {0}dl+dsewswl.ovicso 追従
 {0}dl+kem.ocekdi 召开
 {0}de,xuxy.lpeuai 猎杀
+{0}de,rd+uhiiyfnb.ugijlejii 昇降機
 {0}de,hofdny.ugijio 昇級
 {0}de,mzxp.mcivru 猫耳
 {0}de,wscy.ugijbe 昇進
+{0}de,frdnby.ugijle 昇降
 {0}di 得
 {0}dit+wk 鹅
 {0}dd 物
@@ -5031,6 +5059,7 @@
 {0}kh+rrpm.ohuxqe 長袖
 {0}kh+uudbio.suecdo 素材
 {0}kh+hodkm.qnumne 巧妙
+{0}kh+mdxnm.ohufae 長髪
 {0}kh+zxtm.ohulcu 長老
 {0}kh+zlsxhfs.yrogue 缘故
 {0}kh+wxb.bnudao 表达
@@ -5319,6 +5348,7 @@
 {0}kk.skczg.wjoqro 完全
 {0}kk.lo.su+lkhmuowdi.bnidmufuohce 标点符号
 {0}kk.lk+ojfuwlwkl.yjoyuuxto 言語学
+{0}kk.endlxo.ndeloe 奈落
 {0}kk.enfdbh.ofedhe 振荡
 {0}kk.eh+ra+tsim.hveojuosixbi 会展中心
 {0}kk.ecvnk.sjilko 三菱
@@ -5490,6 +5520,7 @@
 {0}ka+fy+jl+ya+efsxuyd.bfujmixleriekvo 本間向日葵
 {0}ka+fryhw.uhexme 上限
 {0}ka+frcvns.qqilko 丘陵
+{0}ka+fil.yiimko 一名
 {0}fb,jjnfs.igouze 承受
 {0}fp+lhtno.yuombo 漁民
 {0}fy+bwehy.jmijpi 間接
@@ -5891,6 +5922,7 @@
 {0}jz+jl+wdmwzodl.yyeykofhi 運営方
 {0}jvs+x 敗
 {0}jvl.g 脱
+{0}jv+psrrnu.ufijpe 深界
 {0}jv+nnu.ufiuvu 深水
 {0}jv+nrornu.ufiyri 深渊
 {0}jv+njsfbu.tjecee 探测
@@ -5997,6 +6029,7 @@
 {0}jk+rjxzv.ofiyhi 真央
 {0}jk+gp+stkkvk.lkohxehxe 霊画化
 {0}jk+hhokkh.ofezdi 震災
+{0}jk+hodynzk.oioxme 直線
 {0}jk+hkizzk.oioxme 直线
 {0}jk+zbxzv.ofiuio 真実
 {0}jk+zvmggnl.dsekui 洞窟
