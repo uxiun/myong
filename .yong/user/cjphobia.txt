@@ -96,7 +96,6 @@
 {0}bk+nnj.qkiuvu 清水
 {0}bk+nclnj.qkijpo 清洁
 {0}bk+ncizt.xmefau 憲法
-{-}bk+nldgtj.qkokle 情況
 {0}bk+ndzld.ugihoo 生活
 {0}bk+xbclhxz.xriyro 轩辕
 {0}bk+xrfud.ugicyo 生存
@@ -536,8 +535,6 @@
 {0}nw+kk.skkidwi.dsiyyehve 冬运会
 {0}nw+kjmkd.dsixtu 冬雪
 {0}nw+jglhtd.dsimmo 冬眠
-{0}nsc 难
-{1}nsc 淮
 {0}nsk+f 汽
 {0}ns+bjknix.jqeyro 救援
 {0}ns+ggix.jqeiui 救出
@@ -692,6 +689,7 @@
 {0}xr+brlxj.xiioeo 希哲
 {0}xr+xa+ea+weewrwe.qiotzobkejbe 齐头并进
 {0}xr+tdbkjf.ghixke 刚性
+{0}xr+hi+drfswfet.lqocioxbi 刘慈欣
 {0}xr+wxwr.qiotzo 齐头
 {0}xr+wldfnfb.jmeuee 建設
 {0}xr+wefb.jmelie 建立
@@ -904,6 +902,7 @@
 {0}xa+ld+tkzl.tmigsixbi 天宮心
 {0}xa+lf+vmdwr.daebueffi 大部分
 {0}xa+eb,nirrn.daeyhoozi 大洋洲
+{0}xa+ey+itkux.daemoouie 大模式
 {0}xa+eciek.tmigde 天蓋
 {0}xa+ixmip.ybiwwe 因为
 {0}xa+iumw.wfouui 文书
@@ -2526,6 +2525,7 @@
 {0}zyo 煮
 {0}znb 撃
 {0}zn+nojm.quuxni 取消
+{0}zn+urkjvi.qqolde 求頼
 {0}zn+wsm.quuyui 取込
 {0}zn+sprji.qqovzu 求偶
 {0}zn+sukj.oiitiu 肢体
@@ -3032,6 +3032,7 @@
 {0}ws,tlfifl.zuogze 足够
 {0}ws,ta+skfnxs.yeehxeqie 液化气
 {0}ws,rkixnx.yeeole 液状
+{0}ws,suknx.yeetiu 液体
 {0}ws,iiirc.zzulho 走廊
 {0}ws,ffc.zzulea 走了
 {0}ws,fa+ee,cicfw.zzuleajbeque 走了进去
@@ -3583,6 +3584,7 @@
 {0}sc+bdws.tuouzu 徒手
 {0}sc+nkfln.hkoheo 淮河
 {0}sc+njvfb.tvicee 推測
+{0}sc+xmb.tvilie 推力
 {0}sc+tl.wwoxbi 唯心
 {0}sc+rixb.tvijlu 推奨
 {0}sc+ra Scrapbox$_
@@ -3602,6 +3604,7 @@
 {0}sc+stw.jbehxe 進化
 {0}sc+sukv.ovitiu 錐体
 {0}sc+sdw.jberue 進入
+{0}sc+ldkrn.njotki 难听
 {0}sc+ld+du+weyiozlef.ykigsilieybi 鷹宮莉音
 {0}sc+exrub.tvijme 推荐
 {0}sc+ezjrjbm.xpodde 携帯
@@ -4083,6 +4086,7 @@
 {0}lk+zevckrx.ykesdi 硬塞
 {0}lk+vx+zxykezf.yjojqioeu 研究者
 {0}lk+vx+dmdkrkezf.yjojqisou 研究所
+{0}lk+vx+frzkgkezf.yjojqiyre 研究院
 {0}lk+wxzjs.veotzo 额头
 {0}lk+wlfxkmc.ugedje 聖誕
 {0}lk+ojfuwkl.yuuxto 語学
@@ -4396,6 +4400,8 @@
 {0}esk+l 荷
 {0}es+csmgbl.daiqiu 搭起
 {0}es+zizpzbl.daizde 搭載
+{0}es+wlecidds.oseyie 衆議
+{0}es+le+frzkgddswci.oseyieyre 衆議院
 {0}es+la+zldgclc.taujiokee 塔吉克
 {0}es+la+ld+vd+cykclczgekr.taujiokeesiitju 塔吉克斯坦
 {0}els+x 敬
@@ -4476,6 +4482,7 @@
 {0}ea+uu.bg,wdhkrod.kdijbimcoyii 开襟毛衣
 {0}ea+hx+xy+ey+itkkinzux.kdifaioeumoouie 开发者模式
 {0}ea+hx+zxykin.kdifaioeu 开发者
+{0}ea+ht+ojldgwl.liembodhu 立民党
 {0}ea+hilk.kdiuiu 开始
 {0}ea+hkfdnd.ugijio 升级
 {0}ea+cykdw.lieihu 立場
@@ -4483,6 +4490,7 @@
 {0}ea+ms+xd,mznkwxex.kdifhehoequu 开放获取
 {0}ea+ms+rf,mznkwxxu.kdifhecyoquu 开放存取
 {0}ea+mehk.kdioju 开展
+{0}ea+zbktw.liexme 立憲
 {0}ea+zvdpxk.kdiili 开窗
 {0}ea+wmsxk.kdifhe 开放
 {0}ea+sy+fdnudki.ldodeojio 来得及
@@ -4523,6 +4531,7 @@
 {0}iy+jbsh.uioyse 食用
 {0}ix+bixmsg.yziuie 优势
 {0}ix+xbmzgkm.dseoeo 动辄
+{0}ix+xmkm.dselie 动力
 {0}ix+xitkm.dsetde 动态
 {0}ix+tu+ivdgisc.fuodiemoo 伏地魔
 {0}ix+ruzrb.kuewae 裤袜
@@ -4604,6 +4613,7 @@
 {0}iz+xmdu.mwelie 魅力
 {0}iz+riteurlj.huodpo 蝴蝶
 {0}iz+zkkgrj.buuwjo 補完
+{0}iz+wlgvrj.buuxru 補選
 {0}iz+wlkklwv.uueyuu 述語
 {0}iz+szpz.zderfo 載人
 {0}iz+lwsrj.buuzuo 補足
@@ -5557,6 +5567,7 @@
 {0}kl+dbjgd.hzekje 后看
 {0}kl+db,jjtnjtk.tsoxkevde 同性愛
 {0}kl+dn+ihkwksul.heogeooge 合格证
+{0}kl+dcuij.tsodgu 同等
 {0}kl+kpmrd.hzemme 后面
 {0}kl+kxd.hzetmi 后天
 {0}kl+kuj.tsoyuo 同于
@@ -6183,6 +6194,7 @@
 {0}jg+ttu.xlibiu 相比
 {0}jg+tdbku.xlixke 相性
 {0}jg+rpd.zieyzo 自由
+{0}jg+ht+ojldgdl.ziembodhu 自民党
 {0}jg+hocjgu.xlixue 相続
 {0}jg+cydu.xliugi 相声
 {0}jg+cx+zpzddm.ziedseiei 自動車
@@ -6211,6 +6223,7 @@
 {0}jg+swkld.ziexbe 自信
 {0}jg+ssydfv.fueuhi 負傷
 {0}jg+sk+xbddkf.ziexkoiei 自行车
+{0}jg+lhtd.ziembo 自民
 {0}jg+epuid.ziezyi 自尊
 {0}jg+exu.xligri 相关
 {0}jg+ied.ziejpe 自戒
