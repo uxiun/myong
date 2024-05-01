@@ -133,6 +133,7 @@
 {0}bk+ihwdmdbz.bdefhu 拜访
 {0}bk+idmd.ugiigo 生成
 {0}bk+ikldgtj.qkokle 情况
+{0}bk+dbtddnv.ziewue 漬物
 {0}bk+dbtddd.ugiwue 生物
 {0}bk+dqdd.ugiufi 生身
 {0}bk+dscwsd.ugituo 生徒
@@ -322,6 +323,7 @@
 {0}pi+stkvn.srihxe 酸化
 {0}pdn+l 略
 {0}pd+ecjeksn.fuegde 覆盖
+{0}pk+ydhrfy.luuvho 鲁昂
 {0}pk+uuiekh.nsocyi 農村
 {0}pk+uhiiekh.nsojii 農機
 {0}pk+zklpele.liufue 豊富
@@ -501,6 +503,7 @@
 {0}ya+dwwdf.riehho 日航
 {0}ya+djl.riexle 日向
 {0}ya+kcid.bdoyue 白玉
+{0}ya+kkg.rieyro 日元
 {0}ya+kjmkd.bdoxtu 白雪
 {0}ya+ka+nkvpu.riebfujqu 日本酒
 {0}ya+ka+wlkklu.riebfuyuu 日本語
@@ -755,6 +758,7 @@
 {0}xm+sukp.njotiu 男体
 {0}xm+skflii.wweheo 为何
 {0}xm+lrkwll.kaifwi 咖啡
+{0}xm+ihixzv.xpoyie 协议
 {0}xm+ijttk.gsingo 功能
 {0}xm+dcln.qregce 劝告
 {0}xm+kl.lkeyii 另一
@@ -867,6 +871,7 @@
 {0}xa+rcyw.wfouui 文書
 {0}xa+rmude.gribie 关闭
 {0}xa+rjklp.daefuo 大幅
+{0}xa+uyh.daegfi 大根
 {0}xa+uyig.daegde 大概
 {0}xa+ux+vwzzmc.quikkelme 区块鏈
 {0}xa+uw+odjgwdz.wfokeiugu 文科省
@@ -1386,6 +1391,7 @@
 {0}ra+rkip.jxuiso 甲虫
 {0}ra+rjx.osiyhi 中央
 {0}ra+rjwlr.iretpi 串帖
+{0}ra+up.osidsi 中東
 {0}ra+udnp.jxubju 甲板
 {0}ra+hohou.osijie 中継
 {0}ra+hoijiu.uuefue 束縛
@@ -1797,7 +1803,9 @@
 {0}ga+pa+jl+fuo.ujitmouhezia 山田尚子
 {0}ga+yt+wlkkljdi.muedeayuu 目的語
 {0}ga+nzkvg.iuiyju 出演
+{0}ga+nspwg.iuihdu 出海
 {0}ga+nspw.ujihdu 山海
+{0}ga+xu.ujidsi 山东
 {0}ga+rrdng.iuibju 出版
 {0}ga+rd+iocgrn.iuibjuuee 出版社
 {0}ga+ux+kt+ka+kpwlufowsck.yiugveciovreiyo 乙炔雌二醇
@@ -2222,8 +2230,10 @@
 {0}cj+wlosgg.gridmu 観点
 {0}cj+swcle.yeioue 噎住
 {0}cj+sitkgg.xmedde 現代
+{0}cj+sitkdg.xmedde 现代
 {0}cj+siftsgg.grinme 観念
 {0}cj+it+stkggs.xmeddehxe 現代化
+{0}cj+it+sk+xbkdgsnf.xmeddeqieiei 现代汽车
 {0}cj+dbkk.zdeugi 再生
 {0}cj+kczljkjk.ujihuo 珊瑚
 {0}cj+kkkk.zdesji 再三
@@ -2651,6 +2661,7 @@
 {0}ze+yjjemx.lmomgo 联盟
 {0}ze+zjkkdk.ivooio 垂直
 {0}ze+wmsxx.bfifhe 奔放
+{0}ze+olv.pfihou 噴火
 {0}ze+sklmx.lmoheo 联合
 {0}ze+dhiomx.lmoxie 联系
 {0}ze+kl+pkcimxs.lmoheogoo 联合国
@@ -2769,6 +2780,7 @@
 {0}vx+uknkzf.jqijio 究極
 {0}vx+weydgzf.jqijke 究竟
 {0}vx+wfijw.jnitsi 交通
+{0}vx+ebkw.jniiae 交差
 {0}vx+frjsow.jnijie 交際
 {0}vx+fi+rr,zlsxwwjzf.jnitsiuiegue 交通事故
 {0}vx+fi+wkwwwj.jnitsikau 交通卡
@@ -3040,11 +3052,13 @@
 {0}wv+kwrkux.xneoge 校正
 {0}wv+jbwj.uieyse 適用
 {0}ww 这
+{0}ww,pwiddf.hhomuu 航母
 {0}ww,xa+hx+du+cfmdddfkindi.hhotmifaiueeihu 航天发射场
 {0}ww,xa+ljgvddfk.hhotmiyro 航天員
 {0}ww,mehddf.hhooju 航展
 {0}ww,zvkddf.hhoksi 航空
 {0}ww,vk+ia+mklddfzv.hhoksigsisii 航空公司
+{0}ww,dskkfddf.hhoxko 航行
 {0}ww,kxddf.hhotmi 航天
 {0}wo 点
 {0}ws,tlfifl.zuogze 足够
@@ -3346,6 +3360,7 @@
 {0}ok+ihwhsi.ykigdi 应该
 {0}ok+dywgilp.fuodcu 福島
 {0}ok+fbrkih.hsoxpe 紅蟹
+{0}ok+fxrbilp.fuojme 福建
 {0}ok+jbi.ykiyse 应用
 {0}of+yhks.yrorie 縁日
 {0}of+mdxnhkn.lvefae 緑髪
@@ -3440,6 +3455,7 @@
 {0}oa+steyk.buecoe 不错
 {0}oa+sobs.houbje 伙伴
 {0}oa+ssyd.houuhi 火傷
+{0}oa+ssmk.buezoe 不作
 {0}oa+sdtkk.buedii 不低
 {0}oa+sdhik.buedii 不低
 {0}oa+skrxk.buebme 不便
@@ -3749,6 +3765,7 @@
 {0}skf+f 例
 {0}sk+buznu.tuomou 涂抹
 {0}sk+bjzzfxt.faihvi 発揮
+{0}sk+przxydk.qmiuuu 签署
 {0}sk+yskjvzy.suetio 宿題
 {0}sk+ydbkdkf.xkoxki 行星
 {0}sk+njsfuk.jmucee 检测
@@ -3779,6 +3796,7 @@
 {0}sk+wczy.sueouu 宿主
 {0}sk+wskudwk.ogituo 征途
 {0}sk+wlsddus.jmuofu 検診
+{0}sk+wlkwkus.jmuoge 検証
 {0}sk+wfijwu.tuotsi 途通
 {0}sk+sklrzy.suemke 宿命
 {0}sk+ldkrsf.tzitki 偷听
@@ -4447,6 +4465,7 @@
 {0}ee,dc+stujwl.gzezcehxe 構造化
 {0}ee,dskkfw.jbexko 进行
 {0}ee,dkfuuj.gzeoue 構築
+{0}ee,ksxw.jbegsi 进攻
 {0}ee,kjrrw.jbevro 进而
 {0}eid+m 蔵
 {0}ei+llixljm.zheqie 臓器
@@ -4545,6 +4564,7 @@
 {0}iy+ba+ekpzshj.uioysexye 食用蕈
 {0}iy+nypnnh.lhemje 浪漫
 {0}iy+rfjgvnh.lhefwe 浪費
+{0}iy+uudsh.uiocdo 食材
 {0}iy+cu+zu+kd+dbcuislbihlnl.chiiiomweluetee 倉持妹路特
 {0}iy+clkjvsl.chixpo 倉頡
 {0}iy+zrrfsh.uiouie 食事
@@ -4908,6 +4928,7 @@
 {0}dy+ouwzko.yrolne 原料
 {0}dy+sgrfko.yroile 原创
 {0}dy+duwljko.yrogcu 原稿
+{0}dy+dd,pkcikowbk.yroijugoo 原産国
 {0}dy+kedddko.yroxko 原形
 {0}dy+fopcvj.jbuliu 錦鯉
 {0}dy+jvrfko.yrozeo 原則
@@ -5114,6 +5135,7 @@
 {0}do+dufolu.huiigi 呼称
 {1}dsg+ox 徽
 {0}dsz,pt 德
+{0}dsk 行
 {0}ds+yjdn.liomko 黎明
 {0}ds+uu.rcymnkk.lvulieuui 履歴書
 {0}ds+mkdymn.lvuxio 履習
@@ -5143,6 +5165,7 @@
 {0}dd 物
 {0}dd,ykpcwbk.ijulle 産量
 {0}dd,rp+pkciwbkn.ijuyzogoo 産油国
+{0}dd,ufseur.lquigo 柳橙
 {0}dd,ggnh.pdeiui 派出
 {0}dd,ve+vwzzwbkeu.ijuyeelme 産業鏈
 {0}dd,lllwbk.ijupbu 産品
@@ -5413,6 +5436,7 @@
 {0}kc+rj+ud+ififpifsodbs.goojieoiexue 国際秩序
 {0}kc+utihl.jpogze 结构
 {0}kc+urhl.jpouue 结束
+{0}kc+uk+sfysss.qrotiuxle 全体像
 {0}kc+hoimjs.qrobmi 全編
 {0}kc+hodyns.qroxme 全線
 {0}kc+hdtyhl.jpohyi 结婚
@@ -5990,6 +6014,7 @@
 {0}fs+bxdxl.ivizze 吹奏
 {0}fs+bxkxl.ivizze 吹奏
 {0}fs+pkcii.oiigoo 之国
+{0}fs+nzue.igooii 橙汁
 {0}fs+nidokik.jmimpe 殲滅
 {0}fs+xd,su+wlfrlbxi.ivizzeleebue 吹奏楽部
 {0}fs+xd,isulbx.ivizzelee 吹奏楽
@@ -6105,7 +6130,9 @@
 {0}fk+fskxtye.kdifai 開発
 {0}fk+jprisx.hzojto 侯爵
 {0}fk+jr+ejufjsdf.yueoiecde 预制菜
+{0}ff,zkfw.lnonko 辽宁
 {0}ff,ijttssk.qkingo 氢能
+{0}ff,kf+lkhmwz.lnonkohce 辽宁号
 {1}fjx+m 勇
 {0}fjc 角
 {0}fj+cidmrs.fweigo 费城
