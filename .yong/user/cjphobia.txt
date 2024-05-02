@@ -1864,6 +1864,7 @@
 {0}ht+yfyl.mbojmi 民間
 {0}ht+ca+ojldglw.mboouudhu 民主党
 {0}ht+ca+stlw.mboouuhxe 民主化
+{0}ht+zskyl.mbosue 民宿
 {0}ht+wcl.mboouu 民主
 {0}ht+wmssxl.mbozuo 民族
 {0}ht+sc+ojldglw.mbojbedhu 民進党
@@ -2874,6 +2875,7 @@
 {0}vf+dbkwu.lrougi 孪生
 {0}vj+yfye.qiijmi 期間
 {0}vj+rmye.qiijmi 期间
+{0}vj+uze.qiimoe 期末
 {0}vj+uwco.jiooue 脊柱
 {0}vj+ve+stwleu.uhiyeehxe 商業化
 {0}vj+va+stwle.uhiyeehxe 商业化
@@ -3275,7 +3277,8 @@
 {0}oz+dskkfk.pkoxko 平行
 {0}oz+dfik.pkofjo 平凡
 {0}oz+kpmrk.pkomme 平面
-{0}ovb 举
+{0}ovb 挙
+{1}ovb 举
 {0}ov.cu+hoimjhits.zsujiobmi 総集編
 {0}ov.scuhit.zsujio 総集
 {0}ov.dufohit.zsuigi 総称
@@ -5870,6 +5873,7 @@
 {0}ka+wkpgx.zouqmi 左遷
 {0}ka+wa+nwmuwk.uhexxeyzo 上下游
 {0}ka+obw.uhebje 上半
+{0}ka+ovb.yiijuu 一挙
 {0}ka+os+klmbokhc.vrewwomau 二維碼
 {0}ka+sr.yiigee 一个
 {0}ka+suku.bfutiu 本体
@@ -5969,6 +5973,7 @@
 {0}fr+ka+dufuddk.dievrejie 第二季
 {0}fr+fuvd.diezia 弟子
 {0}fu+pwiz.ziemuu 字母
+{0}fu+yx+epydej.biemuequi 閉幕曲
 {0}fu+xkflh.hcuqio 好奇
 {0}fu+th.hcuxbi 好心
 {0}fu+ueh.hculdo 好来
