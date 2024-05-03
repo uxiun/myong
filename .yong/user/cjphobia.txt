@@ -3,8 +3,10 @@
 {0}bb,wvnxfi.orubme 转变
 {0}bb,wkkixfi.oruyye 转运
 {0}bb,stizxfi.oruqmo 转钱
+{0}bb,dufifxfi.oruyio 转移
 {0}bb,kfcxfi.oruxko 转型
 {0}bxn+ 泰
+{0}bx,bx,jsdyoubub.bhebhejii 棒棒鶏
 {0}bx,nldgz.uiokle 実況
 {0}bx,xrcz.uiozde 実在
 {0}bx,xmz.uiolie 実力
@@ -352,6 +354,7 @@
 {0}pa+jl+cw+kcdyuocktg.dsithohuupoe 東堂琥珀
 {0}pa+je+krrkuzz.dsinjoyae 東南亜
 {0}yp+kgpnn.mjehxe 漫画
+{0}yy 昌
 {0}yyy 晶
 {0}yy.sizllh.ihigru 娼館
 {0}yy.ihixs.iheyie 倡议
@@ -472,6 +475,7 @@
 {0}yf+ebjgku.hzeoea 厚着
 {0}yj 明
 {0}yjk+n 暖
+{0}yj.tbkjne.wfiqko 温情
 {0}yj.rrpe.mgoxqe 萌袖
 {0}yj.ienne.wfidue 温度
 {0}yj.kktkx.yjevee 厭悪
@@ -854,6 +858,7 @@
 {0}xa+pup.ybigou 因果
 {0}xa+pwiv.fuemuu 父母
 {0}xa+pkci.daegoo 大国
+{0}xa+yyw.wfoihi 文昌
 {0}xa+ykpc.daelle 大量
 {0}xa+nciw.wfofau 文法
 {0}xa+nwce.grioue 关注
@@ -948,6 +953,7 @@
 {0}xa+jddhw.wfomde 文脈
 {0}xa+jk+hhokkh.daeofezdi 大震災
 {0}tp+xosco.ddehvi 黛灰
+{0}ty 旨
 {0}ty+bzvkb.oiukse 指控
 {0}ty+bjzzb.oiuhvi 指揮
 {0}ty+nzljsh.ybohuo 银湖
@@ -998,6 +1004,7 @@
 {0}tg,peejx.xsitsi 胸囲
 {0}tg,rw+tk+ka+wdhjxpyziw.xsioceuieuheyii 胸罩式上衣
 {0}tg,wlfrjx.xsibue 胸部
+{0}tg,sjsjx.xsirze 胸肉
 {0}tg,jzvkjx.xsiqli 胸腔
 {0}th+na+yyywio.ziuuvujki 紫水晶
 {0}th+ezrfwio.ziujki 紫荆
@@ -1145,6 +1152,7 @@
 {0}rp+ejun.yzocde 油菜
 {0}rp+dbkbzw.diobde 迪拜
 {0}rp+dnun.yzotno 油条
+{0}rp+dhisev.hlogxi 黄瓜
 {0}rp+fytsb.izixle 抽象
 {0}rp+fygev.hlosee 黄色
 {0}rp+fur.xqezia 袖子
@@ -1260,6 +1268,7 @@
 {0}rl+kozb.oeopko 哲平
 {0}rl+klfjv.yyuuio 隕石
 {0}rl+jf+zxybou.oeoxtooeu 哲学者
+{0}re+mkhfts.dveohu 隊長
 {0}ri 将
 {0}ri+pdnwee.ljotuo 蓝图
 {0}ri+yg+ky+ydbkeeftk.ljoseehgoxki 蓝色恒星
@@ -1327,6 +1336,7 @@
 {0}rk+fygus.tcosee 桃色
 {0}rk+frsbw.pdodve 排队
 {0}rk+filbw.pdomko 排名
+{0}rk+fkmnswd.bueoze 步骤
 {0}rk+ffflj.geolea 隔了
 {0}rk+jxoli.svirjo 虽然
 {0}rk+jvlgws.tcotoi 逃脱
@@ -1438,6 +1448,7 @@
 {0}up+usxld.fjioii 番椥
 {0}up+hojkd.fjizuu 番組
 {0}up+lkhmd.fjihce 番号
+{0}up+exmld.fjijxi 番茄
 {0}uy.nrpd.xliyzo 香油
 {0}uy.nevgd.xlighu 香港
 {0}uy.sfxd.xliqie 香気
@@ -1853,6 +1864,7 @@
 {0}hx+ssmin.faizoe 发作
 {0}hx+eh+ta+cp+ojfuinmkc.faiojuxbiliuxto 发展心理学
 {0}hx+ejsxin.faisje 发散
+{0}hx+ix+udfinkm.faidsejii 发动机
 {0}hx+dbkin.faiugi 发生
 {0}hx+du+cfmdindi.faiueeihu 发射场
 {0}hx+dskkfin.faixko 发行
@@ -2583,6 +2595,7 @@
 {0}zr+jbmpm.pbeyse 聘用
 {0}zr+jbsx.uiuyse 使用
 {0}zu 未
+{0}zu+bkhiol.wwesue 味素
 {0}zu+pkcizkb.hjogoo 韓国
 {0}zu+nojb.mwexni 抺消
 {0}zu+uwezh.mweziu 妹梓
@@ -2950,6 +2963,7 @@
 {0}wy+njgbz.dnelwe 掉泪
 {0}wy+weebz.dnejbe 掉进
 {0}wy+sifttz.dcenme 悼念
+{0}wy+sjsjh.tvurze 腿肉
 {1}wx 头
 {0}wx+pcw.oeeliu 这里
 {0}wx+yuiz.uiouio 实时
@@ -2988,6 +3002,7 @@
 {0}wt+lersr.bwitje 悲嘆
 {0}wr 部
 {0}wrr,f 剤
+{0}wrk+d 步
 {0}wr+pdnwsk.qiutuo 企图
 {0}wr+xrckk.ogezde 正在
 {0}wr+uk+oa+yjkksk.ogetiubuemko 正体不明
@@ -3101,6 +3116,7 @@
 {0}we+zdnlbh.jpikee 接客
 {0}we+wlmgyy.vjejie 暗記
 {0}we+wijcl.pwoyue 培育
+{0}we+wdkrbh.jpijbe 接近
 {0}we+oc+wlmklbhhjg.jpixuecio 接続詞
 {0}we+srprb.laiufi 拉伸
 {0}we+sklbh.jpiheo 接合
@@ -3171,6 +3187,7 @@
 {0}wj+wyhbx.ieetve 撤退
 {0}wj+jjnsm.bheuze 傍受
 {0}wa+ba+dqdko.xxebjeufi 下半身
+{0}wa+xmlr.buujxi 补加
 {0}wa+tyk.xxexyo 下旬
 {0}wa+ctuk.xxedie 下地
 {0}wa+zixbk.xxezde 下载
@@ -3277,8 +3294,6 @@
 {0}oz+dskkfk.pkoxko 平行
 {0}oz+dfik.pkofjo 平凡
 {0}oz+kpmrk.pkomme 平面
-{0}ovb 挙
-{1}ovb 举
 {0}ov.cu+hoimjhits.zsujiobmi 総集編
 {0}ov.scuhit.zsujio 総集
 {0}ov.dufohit.zsuigi 総称
@@ -3524,6 +3539,7 @@
 {0}sp+jzpznw.hdujyi 海軍
 {0}sp+jviznw.hduzwo 海賊
 {0}sp+jdtinw.hdubce 海豹
+{0}sy 像
 {0}sy+xyhsd.uhihfo 傷痕
 {0}sy+xuscrn.fuezao 複雑
 {0}sy+xfijdh.hfutse 很痛
@@ -3752,9 +3768,11 @@
 {0}si+kfzjkeyh.yhuoio 養殖
 {0}si+fueyh.yhuzia 養子
 {0}sdf 믇
+{0}sd+tg,sjsjyojx.jiixsirze 鶏胸肉
 {0}sd+uhiifes.fwijii 飛機
 {0}sd+zvixdcf.isitui 衝突
 {0}sd+zlrfdfn.yiegei 役割
+{0}sd+wy+sjsjyojh.jiitvurze 鶏腿肉
 {0}sd+szjkjis.bmuoio 贬值
 {0}sd+sk+llixlfesdkf.fwixkoqie 飛行器
 {0}sd+dcxmdcf.isidse 衝動
@@ -3787,6 +3805,7 @@
 {0}sk+hm.evdkrllfk.haimausii 哈马斯
 {0}sk+cp+ojfusjkc.lyoliuxto 倫理学
 {0}sk+cykdfle.dgiihu 登場
+{0}sk+cx+uhiifxtdm.faidsejii 発動機
 {0}sk+cuxdkf.xkokke 行块
 {0}sk+cwscz.gjuzzu 赶走
 {0}sk+cicz.gjuque 赶去
@@ -3815,6 +3834,7 @@
 {0}sk+iokdl.daoyki 答应
 {0}sk+durfll.hailie 哈利
 {0}sk+dcxmdkf.xkodse 行動
+{0}sk+dcxmfxt.faidse 発動
 {0}sk+kcpcsj.lyoliu 倫理
 {0}sk+kedddjk.lmuxko 脸形
 {0}sk+kixmdkf.xkodse 行动
@@ -3894,6 +3914,7 @@
 {0}sa+dur.rfoosu 人种
 {0}sa+dscwsp.qqotuo 囚徒
 {0}sa+dswcf.fwiwhu 飞往
+{0}sa+dskwkt.ohuogi 长征
 {0}sa+krk.rfogsi 人工
 {0}sa+keddd.rfoxko 人形
 {0}sa+kjrrs.csovro 从而
@@ -3974,6 +3995,7 @@
 {0}lh 跟
 {0}lc+rcywjg.duouui 読書
 {0}lc+wlowjg.duodmu 読点
+{0}lm 号
 {0}lmr+f 別
 {0}lm+nciwg.jiefau 記法
 {0}lm+xy+skkiwgz.jieoeuhve 記者会
@@ -4077,6 +4099,8 @@
 {0}le+wd+wkwclsh.jxiyiikau 嘉依卡
 {0}le+scfscl.xiuhri 喜歓
 {0}le+sssmb.qyoose 群众
+{0}le+epk.dzemno 豆苗
+{0}le+ekhdk.dzeyao 豆芽
 {0}le+isscwej.jluzoe 講座
 {0}le+isijk.dzefuu 豆腐
 {0}le+dywgmb.qyodcu 群島
@@ -4281,6 +4305,7 @@
 {0}eq+xf+shvtis.xmoyiorfo 嫌疑人
 {0}eq+txfishv.xmoyio 嫌疑
 {0}eq+kkthv.xmovee 嫌悪
+{0}ep 苗
 {2}epr+f 夢
 {0}ep+pa+ja+nilwcy.tsotmomkooie 童田明治
 {0}ep+yk+epuiwgj.lsodjuzyi 竜胆尊
@@ -4340,6 +4365,7 @@
 {0}en+wuii.duegoe 度过
 {0}ex 关
 {0}ex,weew.ssejbe 送进
+{0}ex,sdw.sserue 送入
 {0}ex,lscl.xnewwo 咲唯
 {0}ex,kcrfw.ssedce 送到
 {0}ex,filml.niemko 匿名
@@ -5376,6 +5402,7 @@
 {0}ku+ylmns.yuoxxo 余暇
 {0}ku+xk+cx+cp+szsekc.yuuzoumwuliurfo 宇佐美理人
 {0}ku+xk+ecxzs.yuuzoumwu 宇佐美
+{0}ku+rp+ur+ienzzw.yuuozesuedue 宇宙速度
 {0}ku+rp+hodynzz.yuuozexme 宇宙線
 {0}ku+rvsls.yuoyue 余裕
 {0}ku+hoclip.dsejpo 凍結
@@ -5695,6 +5722,7 @@
 {0}kk.ztdgozx.yjomie 厳密
 {0}kk.zwxev.qiouio 其实
 {0}kk.zs,zpzkzkj.sjilyoiei 三輪車
+{0}kk.zixbwi.yyezde 运载
 {0}kk.wguisi.yyodcu 伝導
 {0}kk.wsbh.ofeyui 振込
 {0}kk.wlouo.bnidmu 标点
@@ -6136,6 +6164,7 @@
 {0}fk+jprisx.hzojto 侯爵
 {0}fk+jr+ejufjsdf.yueoiecde 预制菜
 {0}ff,zkfw.lnonko 辽宁
+{0}ff,sfebssk.qkiyhu 氢氧
 {0}ff,ijttssk.qkingo 氢能
 {0}ff,kf+lkhmwz.lnonkohce 辽宁号
 {1}fjx+m 勇
@@ -6437,6 +6466,7 @@
 {0}jd+poixng.ifomoe 沉默
 {0}jd+ncing.grifau 观法
 {0}jd+nmknng.ifojbe 沉浸
+{0}jd+udnrfi.fjibju 帆板
 {0}jd+mk+itkngnn.ifojbeuie 沉浸式
 {0}jd+wlong.gridmu 观点
 {0}jd+sssng.griose 观众
