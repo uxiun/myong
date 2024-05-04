@@ -79,7 +79,8 @@
 {0}bs,da+ncixkfs.uuiruefau 输入法
 {0}bs,jvsxd.uiibde 失敗
 {0}bs,jilxt.lyotdi 轮胎
-{0}bi 找
+{0}bi 扩
+{1}bi 找
 {0}bi+srimd.woumfa 我们
 {0}bdt 托
 {0}bdz+r 挿
@@ -329,6 +330,7 @@
 {0}pk+uuiekh.nsocyi 農村
 {0}pk+uhiiekh.nsojii 農機
 {0}pk+zklpele.liufue 豊富
+{0}pk+wmssxvl.uzezuo 兽族
 {0}pk+wddbkekh.nsoiju 農産
 {0}pk+ssmele.liuzoe 豊作
 {0}pk+lhtekh.nsombo 農民
@@ -985,6 +987,7 @@
 {0}tu+wloc.diedmu 地点
 {0}tu+wdmc.diefhi 地方
 {0}tu+wa+vdbsck.diexxeoio 地下鉄
+{0}tu+oubkjc.diejki 地精
 {0}tu+srimh.taimfa 她们
 {0}tu+srims.taimfa 他们
 {0}tu+swec.diewwe 地位
@@ -1787,6 +1790,7 @@
 {0}gl+sfxjht.mmoqie 眠気
 {0}ge+wxslc.gretzo 罐头
 {0}ge+ikscjp.mnooyu 瞄准
+{0}gi+kidgid.gvuhyo 鬼魂
 {0}gd+ukjg.jmebfu 見本
 {0}gd+mdbgwyo.jqewwu 鷲尾
 {0}gd+zn+pwxjgm.jmequutuo 見取図
@@ -1992,6 +1996,7 @@
 {0}hi+ks+cfmditkfkk.uieyjeihu 试验场
 {0}hi+ks+mxitkfkk.uieyjequi 试验区
 {0}hi+kfrfdo.xielpe 系列
+{0}hi+kjkkvgi.yzilko 幽霊
 {0}hi+fxrbbs.niujme 拟建
 {0}hi+fkskkitk.uieyje 试验
 {0}hd+wmstuifn.ueeuii 设施
@@ -2060,6 +2065,7 @@
 {0}cp+cwegkrh.hrojke 環境
 {0}cp+wlskjkc.liulye 理論
 {0}cp+we+vd+ohsxkrhcgwn.hrojkebmeuue 環境変数
+{0}cp+we+ee,dkfukrhcguj.hrojkegzeoue 環境構築
 {0}cp+omkkc.liudhi 理当
 {0}cp+siftkc.liunme 理念
 {0}cp+kciznkrh.hroqqo 環球
@@ -2531,6 +2537,8 @@
 {0}ma+os+hojehkhc.wjewwowhu 万維網
 {0}ma+ojfux.liexto 力学
 {0}ma+suk.uiitiu 尸体
+{0}ma+sm.juerfo 巨人
+{0}ma+ivdgim.juemoo 巨魔
 {0}ma+dbuyi.huejio 户籍
 {0}ma+fiwi.huewde 户外
 {0}ma+jugm.jueruu 巨乳
@@ -2818,6 +2826,7 @@
 {0}vc+klgge.jiiiuu 基础
 {0}vc+jl+xa+vd+ceslcrvkkleekr.heeluevdesiitau 赫露艾斯塔
 {0}vm+nzkvbd.bjeyju 扮演
+{0}vm+ca+foedp.ffiliuvru 芬里尔
 {0}vm+imjkh.ohehue 賬户
 {0}vwi+g 銃
 {0}vw+xrjjl.tpibue 貼布
@@ -2941,6 +2950,7 @@
 {0}va+lsff.xnuiii 小吃
 {0}va+ihvlgf.xnuuoi 小说
 {0}va+ilte.gsegju 共感
+{0}va+dx,oubkjfh.xnuycijki 小妖精
 {0}va+dule.gseheo 共和
 {0}va+dufup.siejie 四季
 {0}va+kphl.oiuyce 只要
@@ -3219,6 +3229,7 @@
 {0}on+lkdnlhc.jkilue 経路
 {0}on+kcpchc.jkiliu 経理
 {0}oxr+j 幣
+{0}ox+zkmkl.qiouie 騎士
 {0}ox+dskkfmkl.qioxko 騎行
 {0}ox+kkjjthkl.qiulie 綺麗
 {0}ot+ywlok.yrejku 愿景
@@ -3732,6 +3743,7 @@
 {0}ss,rj+puiicx.zoebuetro 座布団
 {0}ss,ukkj.llubfu 两本
 {0}ss,gkkzkj.lluvje 两岸
+{0}ss,hdxk.wuiyci 巫妖
 {0}ss,hk.wuinvu 巫女
 {0}ss,mkhic.zoeohu 座長
 {0}ss,wsrfdyn.fuekee 復刻
@@ -4075,6 +4087,7 @@
 {0}ls+fl+wlkwkwzk.xuukeuoge 許可証
 {0}lli+x 哭
 {0}ll.rrdpzl.pbupdo 品牌
+{0}ll.mkftch.sheuii 喪屍
 {0}ll.wlmkll.pbucio 品詞
 {0}ll.wlkozl.pbupko 品評
 {0}ll.ojlcnu.zcutho 澡堂
@@ -4456,6 +4469,7 @@
 {0}eo+ohsxs.wuouue 無数
 {0}eo+sxls.wuooii 無知
 {0}eo+ed,xa+ta+rk+wddbkskddwswv.wuoxkowfohxeyioiju 無形文化遺産
+{0}eo+ek+ox+zkskjvmkl.wuotzoqiouie 無頭騎士
 {0}eo+iojggs.wuouie 無視
 {0}eo+db,zxystk.wuoxkeoeu 無性者
 {0}eo+db,kltlgsvs.wuooiopce 無鉄砲
@@ -4599,6 +4613,7 @@
 {0}iy+zrrfsh.uiouie 食事
 {0}iy+vlfssh.uioyue 食欲
 {0}iy+wlevysh.uiopuu 食譜
+{0}iy+sa+ivdgish.uiorfomoo 食人魔
 {0}iy+lllsh.uiopbu 食品
 {0}iy+lk+zs,da+ncislcjvzkfs.chixpouuiruefau 倉頡輸入法
 {0}iy+lk+klmboslcjv.chixpomau 倉頡碼
@@ -4872,6 +4887,7 @@
 {0}ia+hktiv.gsiyti 公约
 {0}ia+csmgt.gziqiu 勾起
 {0}ia+cixmc.queuie 去勢
+{0}ia+mehb.koeoju 扩展
 {0}ia+mklv.gsisii 公司
 {0}ia+zvkx.tdeksi 太空
 {0}ia+va+jvudve.gsigsecdo 公共財
@@ -4966,6 +4982,7 @@
 {0}dn+plw.fjuhvo 返回
 {0}dn+yfkeiul.geodze 格闘
 {0}dn+xebxw.tgoyhu 疼痒
+{0}dn+tk+llixluli.geouieqie 格式器
 {0}dn+ugts.fjuxlu 仮想
 {0}dn+uhiizl.keejii 客機
 {0}dn+um.fhzllpwi.tuouuigru 图书馆
@@ -5002,6 +5019,7 @@
 {0}dx,wlod.xnedmu 笑点
 {0}dx,wljjmn.faegci 髪膏
 {0}dx,wdkjvd.xneyjo 笑顔
+{0}dx,oubkjh.ycijki 妖精
 {0}dx,du+ewxbeef.vculielmo 芺莉莲
 {0}dx,dcuiom.lpedgu 劣等
 {0}dx,kftd.xnesiu 笑死
@@ -5137,6 +5155,7 @@
 {0}dz+nwsxlk.toeyee 唾液
 {0}dz+rr,mkheczf.dsuuieohu 董事長
 {0}dz+ug+klvcj.osiruuuio 鍾乳石
+{0}dz+mkftnl.hoouii 活屍
 {0}dz+zrrfec.dsuuie 董事
 {0}dz+wldzlbr.iaihxe 挿話
 {0}dz+oupovn.drelme 鍛煉
@@ -5321,6 +5340,7 @@
 {0}kp+yt+lj+ujkycdiwcl.lledeadneoai 量的調査
 {0}kp+nczuo.bnioyu 標準
 {0}kp+na+yyyoc.yjiuvujki 煙水晶
+{0}kp+msk.jliuii 僵尸
 {0}kp+wlwiyuo.bniuio 標識
 {0}kp+wljgno.pnille 漂亮
 {0}kp+lw+rrkruowiy.bniuiopme 標識片
@@ -5615,6 +5635,7 @@
 {0}kl+bwehj.tsojpi 同接
 {0}kl+yuij.tsouio 同时
 {0}kl+ycuij.tsouio 同時
+{0}kl+njklg.yjodse 岩洞
 {0}kl+tdbkj.tsoxke 同性
 {0}kl+rvslzp.fueyue 富裕
 {0}kl+uyhj.tsogfi 同根
@@ -5667,6 +5688,7 @@
 {0}kl+filsr.mkemko 命名
 {0}kl+jxxhrg.ugowhu 绳网
 {0}kl+jkidg.kleqpu 况且
+{0}kl+jk+ma+tncgnlm.yjodsejuegke 岩洞巨怪
 {0}ke+bzfygfb.xmiyje 鲜艳
 {0}ke+imwdmki.iuofho 厨房
 {0}ke+ka+xksjkik.iuovrebke 厨二病
@@ -6484,6 +6506,7 @@
 {0}jk+hodynzk.oioxme 直線
 {0}jk+hkizzk.oioxme 直线
 {0}jk+zbxzv.ofiuio 真実
+{0}jk+zvnl.dsexto 洞穴
 {0}jk+zvmggnl.dsekui 洞窟
 {0}jk+wvxzk.oiojni 直交
 {0}jk+su+wlfrsvi.jueleebue 俱楽部
