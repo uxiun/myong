@@ -12,6 +12,7 @@
 {0}bx,xmz.uiolie 実力
 {0}bx,rcwdhz.uiooli 実装
 {0}bx,rc,wlskjzx.uiozdelye 実在論
+{0}bx,hobkvz.uiojii 実績
 {0}bx,mosksz.uioyje 実験
 {0}bx,mkdyz.uioxio 実習
 {0}bx,zkmsz.uiojxi 実家
@@ -203,6 +204,7 @@
 {0}ba+weytj.yseyie 用意
 {0}ba+sits.nmodde 年代
 {0}ba+sdbj.ysejme 用件
+{0}ba+en+lmrfsi.nmoduebpo 年度別
 {0}ba+imj.ysehue 用户
 {0}ba+iens.nmodue 年度
 {0}ba+dqdo.bjeufi 半身
@@ -430,6 +432,7 @@
 {0}ye+fw+hiyhonkdh.bcelpenlo 爆裂娘
 {0}yi 时
 {0}yi+bdzlug.gdekoe 概括
+{0}yi+wlodr.jpodmu 節点
 {0}yi+wlskjug.gdelye 概論
 {0}yi+siftug.gdenme 概念
 {0}yi+kphug.gdeyce 概要
@@ -961,6 +964,7 @@
 {0}xa+ka+kg+ukkowuo.wfobfuglibni 文本光标
 {0}xa+frcvc.daelue 大陸
 {0}xa+frdn.daebju 大阪
+{0}xa+fu+kfrfwz.wfozielpe 文字列
 {0}xa+jxok.tmirjo 天然
 {0}xa+jvktkk.tmifue 天賦
 {0}xa+jwgx.daencu 大脑
@@ -1045,9 +1049,11 @@
 {0}tw+epnk.jiimno 鸡苗
 {0}tw+klsl.zriuio 钻石
 {0}to+ykpcsj.xnille 销量
+{0}to+uki.xsobfu 熊本
 {0}to+zkwssjs.soudke 锁定
 {0}to+sclsj.xniuze 销售
 {0}to+iqtiu.miolue 麋鹿
+{0}to+ka+jghoiu.xsobfuxme 熊本県
 {0}ts 长
 {0}tsk+f 愉
 {0}ts+nxing.tcotde 淘汰
@@ -1200,6 +1206,7 @@
 {0}rr,zlsxzf.uiegue 事故
 {0}rr,wlmkls.jpecio 介詞
 {0}rr,wlesns.jpehue 介護
+{0}rr,wdcgdj.udixru 筛选
 {0}rr,sdbzf.uiejme 事件
 {0}rr,sfobj.bhiniu 帮你
 {0}rr,evzf.uieyee 事业
@@ -1472,6 +1479,7 @@
 {0}up+hojkd.fjizuu 番組
 {0}up+lkhmd.fjihce 番号
 {0}up+exmld.fjijxi 番茄
+{0}up+jgd.fjimue 番目
 {0}uy.nrpd.xliyzo 香油
 {0}uy.nevgd.xlighu 香港
 {0}uy.sfxd.xliqie 香気
@@ -1742,6 +1750,7 @@
 {0}ua+ihwdmj.cdufhu 采访
 {0}ua+ijttt.yeungo 也能
 {0}ua+ijttz.wwengo 未能
+{0}ua+dbtddp.gouwue 果物
 {0}ua+dgts.xqixii 休息
 {0}ua+dzll.muegru 木管
 {0}ua+dsdfnf.ziayie 子役
@@ -1752,6 +1761,7 @@
 {0}ua+kw+doukys.yuouiehui 于是乎
 {0}ua+kot.yeubue 也不
 {0}ua+kftx.uaisiu 杀死
+{0}ua+fudhof.ziasyi 子孫
 {0}ua+fhdno.miufje 米饭
 {0}ua+jxop.gourjo 果然
 {0}ua+jglhts.xqimmo 休眠
@@ -1973,6 +1983,8 @@
 {0}hs+we+hx+eh+wlfroxsinm.uuewwefaiojubue 数位发展部
 {0}hs+ojfuox.uuexto 数学
 {0}hs+sxli.rfeoii 认知
+{0}hs+szjhox.uueoio 数値
+{0}hs+szjkox.uueoio 数值
 {0}hs+lllfrj.uiepbu 饰品
 {0}hs+iyhmx.gdullo 改良
 {0}hs+ixmii.rfewwe 认为
@@ -2250,12 +2262,15 @@
 {0}cd+fdsxmebi.yiewue 義務
 {0}ck+uscnjv.jkuivo 頚椎
 {0}ck+cwegko.hrojke 环境
+{0}ck+zdnlijv.guekee 顧客
 {0}ck+sluko.hrobcu 环保
 {0}ck+sj+mf+kpjklkokfu.hrobkuyyetso 环丙孕酮
+{0}ck+dn+up+lkhmijvzld.guekeefjihce 顧客番号
 {0}cf,tpif.yeuxbi 野心
 {0}cf,cydss.hriugi 歓声
 {0}cf,clelss.hrixiu 歓喜
 {0}cf,ojldgpif.yeudhu 野党
+{0}cf,ejupif.yeucde 野菜
 {0}cf,kciznpif.yeuqqo 野球
 {0}cjd+g 売
 {0}cjk+s 塚
@@ -2755,6 +2770,7 @@
 {0}zk+dbkzki.oruugi 転生
 {0}zk+djgenv.yjusre 演算
 {0}zk+djlzki.oruxle 転向
+{0}zk+jg+funvde.yjusrezia 演算子
 {0}zk+jwmkzki.oruxpu 転写
 {0}zf 事
 {0}zf+teytg.wjuxii 惋惜
@@ -2902,6 +2918,7 @@
 {0}vd+ci+bk+dbtddigind.moofauugiwue 魔法生物
 {0}vd+ci+dlkrjigin.moofauuii 魔法師
 {0}vd+ci+da+higino.moofauucunvu 魔法少女
+{0}vd+cjdgjn.fjemde 販売
 {0}vd+ca+uecnigik.moowhoyhe 魔王様
 {0}vd+zbzlxfn.uaihde 殺害
 {0}vd+zr+jk+rjxigisxzv.moouiuofiyhi 魔使真央
@@ -2917,6 +2934,7 @@
 {0}vd+dcxmwn.bmedse 変動
 {0}vd+krpxwn.bmegge 変更
 {0}vd+kcigi.moowho 魔王
+{0}vd+jd+bx,hobkvjncgz.fjemdeuiojii 販売実績
 {0}vd+ja+evyekrs.siinwepuu 斯内普
 {0}vk+yfyz.ksijmi 空間
 {0}vk+nspwz.ksihdu 空海
@@ -2987,6 +3005,7 @@
 {0}va+lv.zkmsfwlg.xnuuoijxi 小説家
 {0}va+lsff.xnuiii 小吃
 {0}va+ihvlgf.xnuuoi 小说
+{0}va+ihitkf.xnuuie 小试
 {0}va+ilte.gsegju 共感
 {0}va+dx,oubkjfh.xnuycijki 小妖精
 {0}va+dule.gseheo 共和
@@ -5636,6 +5655,7 @@
 {0}kw+xmd.iielie 斥力
 {0}kw+tlgw.kaubci 卡包
 {0}kw+rkixxk.ogeole 症状
+{0}kw+ueys.uieldo 是来
 {0}kw+mb+edufhohr.yjinaelie 嫣娜莉
 {0}kw+za+diyss.uieufomea 是什么
 {0}kw+vj+li+moskszsewtk.dkeqiiuieyje 定期試験
@@ -5800,6 +5820,7 @@
 {0}kk.hksck.sjiwwo 三维
 {0}kk.cykdsi.hveihu 会場
 {0}kk.ctuo.bnioie 标志
+{0}kk.cidmes.cioigo 茨城
 {0}kk.cfmdsi.hveihu 会场
 {0}kk.mzkcizg.wjobie 完璧
 {0}kk.mehsi.hveoju 会展
@@ -5835,6 +5856,7 @@
 {0}kk.ihlvuo.bniuio 标识
 {0}kk.ihixsi.hveyie 会议
 {0}kk.idmzg.wjoigo 完成
+{0}kk.id+jghoescm.cioigoxme 茨城県
 {0}kk.dy+jvrfkko.sjiyrozeo 三原則
 {0}kk.dn+filbhs.ofefjumko 振仮名
 {0}kk.duldcwg.yruigo 远程
@@ -5912,6 +5934,8 @@
 {0}kj+njvfme.jmicee 監測
 {0}kj+nj+ssmmewg.jmiduizoe 監督作
 {0}kj+rp+oa+bwehbevk.qkihlobuejpi 青黄不接
+{0}kj+uuub.qkisfi 青森
+{0}kj+uu.jghobu.qkisfixme 青森県
 {0}kj+cd+iensndg.yzixmidue 優先度
 {0}kj+zvkb.qkiksi 青空
 {0}kj+zkwsw.kfudke 肯定
@@ -6388,6 +6412,7 @@
 {0}jg+xmde.srelie 算力
 {0}jg+xmd.zielie 自力
 {0}jg+xvdfnd.zieuai 自殺
+{0}jg+xo+oc+skldjhl.zierjojpoheo 自然結合
 {0}jg+xscidi.credoo 篡奪
 {0}jg+ttu.xlibiu 相比
 {0}jg+tdbku.xlixke 相性
@@ -6526,6 +6551,7 @@
 {0}jl+wvjlodl.ykouhi 営商
 {0}jl+ojlcoc.thotho 堂堂
 {0}jl+swcorj.ihooue 常住
+{0}jl+eveuodl.ykoyee 営業
 {0}jl+estojs.uhuhxi 赏花
 {0}jl+esrrel.ykoyhu 营养
 {0}jl+edjgodg.dhuuzu 党首
@@ -6586,8 +6612,10 @@
 {0}jk+zvmggnl.dsekui 洞窟
 {0}jk+wvxzk.oiojni 直交
 {0}jk+su+wlfrsvi.jueleebue 俱楽部
+{0}jk+sixozv.ofiwwu 真偽
 {0}jk+ejrfzk.oioqmo 直前
 {0}jk+ea+udfzkd.oiougijii 直升机
+{0}jk+ix+szjhzvso.ofiwwuoio 真偽値
 {0}jk+iznkjr.xuiqqo 需求
 {0}jk+dnwzv.ofidsi 真冬
 {0}jk+kphkjr.xuiyce 需要
