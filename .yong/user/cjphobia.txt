@@ -793,6 +793,7 @@
 {0}xw+mrkekl.jkuwwe 警卫
 {0}xw+zjsoekl.jkuiao 警察
 {0}xw+vwecekl.jkuosi 警鐘
+{0}xw+dclekl.jkugce 警告
 {0}xo 灰
 {0}xo+dssynt.hvifue 恢復
 {0}xo+dklj.rjohze 然后
@@ -1020,6 +1021,7 @@
 {0}tu+kjkkhc.dieofe 地震
 {0}tu+ka+nudncw.dieuheboi 地上波
 {0}tu+filc.diemko 地名
+{0}tgx 匈
 {0}tg,pbmjx.xsiwwo 胸围
 {0}tg,prwyzjx.xsioce 胸罩
 {0}tg,peejx.xsitsi 胸囲
@@ -1778,6 +1780,7 @@
 {0}gy+vwegjh.yjujke 眼鏡
 {0}gy+kciznjh.yjuqqo 眼球
 {0}gy+ki.ddbgjhhz.yjuxmebiu 眼线笔
+{0}gx+hu.durftkd.xsiyaolie 匈牙利
 {0}gx+oa+kewjk.liobuekdi 离不开
 {0}gx+kewj.liokdi 离开
 {0}gx+fkniiwj.liosci 离骚
@@ -2810,6 +2813,7 @@
 {0}za+dkls.wuuhze 午后
 {0}za+kmd.qmiwje 千万
 {0}za+fkxmk.gjejbe 干劲
+{0}za+ffkjsk.gjeyue 干预
 {0}za+jgdzks.wuuuve 午睡
 {0}vb+bdti.mootoi 摩托
 {0}vb+xmvo.juubje 举办
@@ -2949,6 +2953,7 @@
 {0}vk+dskkfz.ksixko 空行
 {0}vk+devnzjs.dmibou 颠簸
 {0}vk+fiffjtk.fueyuu 賦予
+{0}vk+jdgjz.hjujme 罕见
 {0}vf+ikcvnes.qiilko 欺凌
 {0}vf+dbkwu.lrougi 孪生
 {0}vj+yfye.qiijmi 期間
@@ -3685,6 +3690,7 @@
 {0}su+pclhe.iaoyro 茶園
 {0}su+pclhi.leeyro 楽園
 {0}su+ydbkdbf.wwexki 衛星
+{0}su+tsjd.cdoohu 财长
 {0}su+hkfskjd.cdojki 财经
 {0}su+scjggi.leegri 楽観
 {0}su+skldi.fuoheo 符合
@@ -4173,6 +4179,7 @@
 {0}le+mdxnwsn.huefae 護髪
 {0}le+zskvcl.jxibbi 嘉宾
 {0}le+zkdvcl.jxibbi 嘉賓
+{0}le+wvjlkbk.coiuhi 磋商
 {0}le+wsrfcl.xiujue 喜劇
 {0}le+wlodk.tmodmu 甜点
 {0}le+wlskjwci.yielye 議論
@@ -4512,6 +4519,7 @@
 {0}ev+siyhyn.bceuio 暴食
 {0}ev+lktlgzs.sdepcu 赛跑
 {0}ev+ea+psrrpt.yieuiejpe 異世界
+{0}ev+ir+va+jr+km+uhiiknrkkifg.yaeozijbirsowwijii 亚洲金融危機
 {0}ev+ioks.gsiyki 供应
 {0}ev+db,rcwdhptk.yiexkeoli 異性装
 {0}ev+dulkczs.sdeigo 赛程
@@ -4870,6 +4878,7 @@
 {0}ii.xb.koedae 拡大
 {0}ii.mk+hi+ijttbfhui.koeohijiingo 拡張機能
 {0}ii.mk+cj+zbxbfhkgg.koeohixmeuio 拡張現実
+{0}ii.mk+fubfh.koeohizia 拡張子
 {0}ii.kcjggb.koexme 拡現
 {0}ii.fmkhb.koeohi 拡張
 {0}id 戊
@@ -5362,6 +5371,7 @@
 {0}df+ksjgvbn.tzozii 投資
 {0}df+fygj.jiisee 肌色
 {0}df+fkxmnn.mwojbe 没劲
+{0}df+jbnn.mwoyse 没用
 {0}df+jbni.fjeyse 汎用
 {0}df+jskknn.mwolmu 没脸
 {0}djx 奥
@@ -5682,6 +5692,7 @@
 {0}ko+ndfnw.hdomwo 还没
 {0}ko+xrcw.hdozde 还在
 {0}ko+xjw.hdoyzu 还有
+{0}ko+hfuw.hdohcu 还好
 {0}ko+idkhk.uiewwi 示威
 {0}ko+ijttw.hdongo 还能
 {0}ko+df+xjwnn.hdomwoyzu 还没有
@@ -5799,7 +5810,8 @@
 {0}kd+exwkllnl.luejku 路警
 {0}kd+dk+kozmywr.xiojbepko 習近平
 {0}kd+kuhnw.osiyuo 终于
-{0}kd+klmbono.yromau 源碼
+{-}kd+klmbono.yromau 源碼
+{0}kd+klfhkno.yromau 源码
 {0}kkh+m 巧
 {0}kk.bm+iqtkmo.sjimaulue 三馬鹿
 {0}kk.ba+sj+dzllkobgg.sjibjegvigru 三半規管
@@ -6028,6 +6040,7 @@
 {0}ka+dqdu.bfuufi 本身
 {0}ka+dqdw.uheufi 上身
 {0}ka+dnu.yiitno 一条
+{0}ka+drju.bfubie 本币
 {0}ka+dcuiw.uhedgu 上等
 {0}ka+dwdfn.yiibji 一般
 {0}ka+dskkf.yiixko 一行
@@ -6275,6 +6288,7 @@
 {0}fk+kgpvn.luehxe 録画
 {0}fk+kk.itkyesi.kdihveuie 開会式
 {0}fk+frwdmfjv.yuefho 預防
+{0}fk+frwdmfjs.yuefho 预防
 {0}fk+fskxtye.kdifai 開発
 {0}fk+jprisx.hzojto 侯爵
 {0}fk+jr+ejufjsdf.yueoiecde 预制菜
@@ -6680,6 +6694,7 @@
 {0}ja+yfdnls.nwegeo 内閣
 {0}ja+nily.mkooie 明治
 {0}ja+xnj.pgoyzu 朋友
+{0}ja+xx,stxwm.yzuxnehxe 有効化
 {0}ja+xx,dm+vmdxwmi.yzuxneigoffi 有効成分
 {0}ja+tbkjx.yzuqko 有情
 {0}ja+tk+sxwk.yzuxpirfo 有些人
