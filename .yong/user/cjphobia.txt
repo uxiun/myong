@@ -2452,6 +2452,7 @@
 {0}ms+wexwx.fhesse 放送
 {0}ms+wieuwx.fheqie 放棄
 {0}ms+wkwr.ujukau 闪卡
+{0}ms+odhur.ujuuoe 闪烁
 {0}ms+ebjgwx.fheoea 放着
 {0}ms+ek+klfswfskjv.xrotzogei 旋頭歌
 {0}ms+dujwtu.uiicee 施策
@@ -2657,6 +2658,7 @@
 {0}zr+jbsx.uiuyse 使用
 {0}zu 未
 {0}zu+bkhiol.wwesue 味素
+{0}zu+phtwkd.ouihro 朱鹮
 {0}zu+pkcizkb.hjogoo 韓国
 {0}zu+nojb.mwexni 抺消
 {0}zu+uwezh.mweziu 妹梓
@@ -4896,6 +4898,7 @@
 {0}id+szjkwg.isioio 充值
 {0}id+sidbisf.jiivee 飢餓
 {0}id+ijttsn.fjengo 飯能
+{0}id+dywornz.fginnu 蜂鳥
 {0}id+dy+zf+wddddhikobr.jiuyrobhiyje 幾原邦彦
 {0}id+kjpgwg.isidme 充電
 {0}id+jp+homkewgkg.isidmeljo 充電繿
@@ -4948,6 +4951,7 @@
 {0}ij+bt,wlctziddd.boowueoie 博物誌
 {0}ij+bt,sizllziddd.boowuegru 博物館
 {0}ij+bzvkre.jmikse 监控
+{0}ij+njsfre.jmicee 监测
 {0}ij+rgw.yuevro 育儿
 {0}ij+mijggzi.boolju 博覧
 {0}ij+zkzi.boouie 博士
@@ -5391,6 +5395,7 @@
 {0}dj+sreg.uzugee 首个
 {0}dj+skffeg.uzulie 首例
 {0}dj+ihwdmeg.uzufhu 首访
+{0}dj+ileg.uzutdo 首台
 {0}dj+ikfseg.uzucie 首次
 {0}dj+dcdgeg.uzuxmi 首先
 {0}dj+kkfseg.uzucie 首次
@@ -5810,7 +5815,6 @@
 {0}kd+exwkllnl.luejku 路警
 {0}kd+dk+kozmywr.xiojbepko 習近平
 {0}kd+kuhnw.osiyuo 终于
-{-}kd+klmbono.yromau 源碼
 {0}kd+klfhkno.yromau 源码
 {0}kkh+m 巧
 {0}kk.bm+iqtkmo.sjimaulue 三馬鹿
@@ -6621,9 +6625,11 @@
 {0}jk+hhokkh.ofezdi 震災
 {0}jk+hodynzk.oioxme 直線
 {0}jk+hkizzk.oioxme 直线
+{0}jk+cl+vwegwcwh.wheyrujke 望遠鏡
 {0}jk+zbxzv.ofiuio 真実
 {0}jk+zvnl.dsexto 洞穴
 {0}jk+zvmggnl.dsekui 洞窟
+{0}jk+wclhwc.wheyru 望遠
 {0}jk+wvxzk.oiojni 直交
 {0}jk+su+wlfrsvi.jueleebue 俱楽部
 {0}jk+sixozv.ofiwwu 真偽
