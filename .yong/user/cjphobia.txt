@@ -1496,6 +1496,7 @@
 {0}ux+zkwsn.jtodke 決定
 {0}ux+wurt.kkesue 快速
 {0}ux+wvfdt.kkedie 快递
+{0}ux+wlecin.jtoyie 決議
 {0}ux+isut.kkelee 快楽
 {0}ux+dhut.kkelee 快乐
 {0}ut 想
@@ -1573,6 +1574,7 @@
 {0}uej+s 檬
 {0}ue+zdnld.igokee 乗客
 {0}ue+ljgvd.igoyro 乗員
+{0}ue+djged.igosre 乗算
 {0}ui 对
 {0}ui+bi+ea+ihvlgndu.dvewouldouoi 对我来说
 {0}ui+bk+ndzldd.siiugihoo 私生活
@@ -1955,6 +1957,7 @@
 {0}hm.frsfk.maudve 马队
 {0}hm.fkknig.jielue 记录
 {0}hm.jzpztk.wuijyi 乌軍
+{0}hzk+s 嫁
 {0}hz+wuiifx.duogoe 读过
 {0}hz+irfi.jiehxe 计划
 {0}hz+djgei.jiesre 计算
@@ -2327,6 +2330,7 @@
 {0}ca+wlkklw.ouuyuu 主語
 {0}ca+weytw.ouuyie 主意
 {0}ca+sukw.ouutiu 主体
+{0}ca+su+sy+sucnddndki.ugebiudeobcu 圣彼得堡
 {0}ca+sgscw.ouucvi 主催
 {0}ca+scjggw.ouugri 主観
 {0}ca+skf.tuuqie 土气
@@ -3665,6 +3669,7 @@
 {0}st+pa+le+wd+wkweoclsh.hxitmojxiyiikau 花畑嘉依卡
 {0}st+rfjse.hxifwe 花费
 {0}st+uv+xkwkeomd.hxiffuoge 花粉症
+{0}st+hzkse.hxijxe 花嫁
 {0}st+cixmcgg.quiuie 趨勢
 {0}st+mirbk.ziesie 恣肆
 {0}st+ope.hxitmo 花畑
@@ -3959,6 +3964,7 @@
 {0}sj+wddbkkgv.ziiiju 資産
 {0}sj+ouwzigv.ziilne 資料
 {0}sj+irfbdg.gvihxe 规划
+{0}sj+idmbgv.zjeigo 賛成
 {0}sj+dzzgbgg.gvifje 規範
 {0}sj+dsrbbgg.gvilve 規律
 {0}sj+djrfbgg.gvioie 規制
@@ -3995,6 +4001,7 @@
 {0}sa+la+bxkxfk.jquuiozze 久石奏
 {0}sa+im+frskktb.ohuhuexmu 长护险
 {0}sa+ient.ohudue 长度
+{0}sa+ienm.iiudue 尺度
 {0}sa+ierjf.qmexio 欠席
 {0}sa+dur.rfoosu 人种
 {0}sa+dscwsp.qqotuo 囚徒
@@ -4084,6 +4091,7 @@
 {0}lmr+f 別
 {0}lm+nciwg.jiefau 記法
 {0}lm+xy+skkiwgz.jieoeuhve 記者会
+{0}lm+twetwg.jieyie 記憶
 {0}lm+hlsn.jxuruo 假如
 {0}lm+hkjpuwkl.ciohve 詞彙
 {0}lm+mdxnsn.jxufae 假髪
@@ -4303,6 +4311,7 @@
 {0}lj+gs+stwlwii.gcilkohxe 高齢化
 {0}lj+gdnzwl.gcifgi 高峰
 {0}lj+hofdnwl.gcijio 高級
+{0}lj+hi+fpozds.huogxiyuo 胡瓜魚
 {0}lj+ccvpwl.gciqlo 高墙
 {0}lj+csmgwg.lleqiu 亮起
 {0}lj+mvpywl.gcicgo 高層
@@ -4328,6 +4337,7 @@
 {0}lj+dn+evjwlgz.gcifgiqii 高峰期
 {0}lj+dn+kj+xkkowlckjt.gcibjuliende 高坂麗奈
 {0}lj+dulwcl.dneheo 調和
+{0}lj+dhisz.huogxi 胡瓜
 {0}lj+dzllwl.gcigru 高管
 {0}lj+dzjswl.gcioie 高质
 {0}lj+dsrbwcl.dnelve 調律
@@ -4596,6 +4606,7 @@
 {0}ed,ykpcw.ijulle 产量
 {0}ed,tk+xa+ncikddiw.xkouiewfofau 形式文法
 {0}ed,tk+stkddi.xkouiehxe 形式化
+{0}ed,rkixkdd.xkoole 形状
 {0}ed,ggw.ijuiui 产出
 {0}ed,cixmkdd.xkouie 形勢
 {0}ed,zvslkdd.xkorso 形容
@@ -4860,6 +4871,7 @@
 {0}il+wlmklf.mkocio 名詞
 {0}il+la+mkicfz.mkoguuwui 名古屋
 {0}il+la+ki.wrjfzmc.mkoguuwuiuie 名古屋市
+{0}il+ecdbif.mkoyie 名義
 {0}il+ejrff.mkoqmo 名前
 {0}il+ihmklf.mkocio 名词
 {0}il+dbtddf.mkowue 名物
@@ -4871,6 +4883,7 @@
 {0}il+jdbkf.mkouge 名胜
 {0}ie 戒
 {0}ie+bomkwo.oeidhu 遮挡
+{0}ie+usxcwu.qieqro 棄権
 {0}ie+cl+wljjwokmn.oeixxogci 遮瑕膏
 {0}ie+vvn.duejbi 鍍金
 {0}ie+wmdnn.duebmi 渡辺
@@ -4900,6 +4913,7 @@
 {0}id+ijttsn.fjengo 飯能
 {0}id+dywornz.fginnu 蜂鳥
 {0}id+dy+zf+wddddhikobr.jiuyrobhiyje 幾原邦彦
+{0}id+djgenl.jmusre 減算
 {0}id+kjpgwg.isidme 充電
 {0}id+jp+homkewgkg.isidmeljo 充電繿
 {0}id+jxbwg.isijyi 充军
@@ -4912,6 +4926,7 @@
 {0}ik.lguisjs.lkudcu 领导
 {0}ik.dwwdfsjs.lkuhho 领航
 {0}if+bwefi.doilai 多拉
+{0}if+pkcifi.doigoo 多国
 {0}if+ys.jbirie 今日
 {0}if+ntunn.ysuiio 泳池
 {0}if+nss.ybuuvu 飲水
@@ -4971,6 +4986,7 @@
 {0}ia+xa+rcyvw.gsiwfouui 公文書
 {0}ia+ry+mkpevxfkd.tdeyhoyie 太陽翼
 {0}ia+ry+okgxfkd.tdeyhogli 太陽光
+{0}ia+hopx.tdexie 太細
 {0}ia+hktiv.gsiyti 公约
 {0}ia+csmgt.gziqiu 勾起
 {0}ia+cixmc.queuie 去勢
@@ -5555,6 +5571,7 @@
 {0}kh+wxb.bnudao 表达
 {0}kh+wlmgb.bnujie 表記
 {0}kh+weyb.bnuybi 表音
+{0}kh+sxklem.ohudru 長短
 {0}kh+slmnm.ohujxu 長假
 {0}kh+siyhbio.sueuio 素食
 {0}kh+etxtm.ohucsi 長葱
@@ -6014,6 +6031,7 @@
 {0}ka+zjkk.yiioio 一直
 {0}ka+zj+tdbkpgv.yiigrexke 一貫性
 {0}ka+zj+ka+lkdnlerj.yiiddeyiilue 一帯一路
+{0}ka+vb+ms+wexowx.yiijuufhesse 一挙放送
 {0}ka+vj+dbke.yiiqiiugi 一期生
 {0}ka+wxu.bfuwfo 本文
 {0}ka+wtkk.yiixpi 一些
@@ -6117,6 +6135,7 @@
 {0}fr+xbkf.lpeiei 列车
 {0}fr+rj+ur+fifinxdf.dgebueliedoi 邓布利多
 {0}fr+zpzkf.lpeiei 列車
+{0}fr+weyzdd.dieohi 第章
 {0}fr+sdkf.lperue 列入
 {0}fr+ixmikf.lpewwe 列为
 {0}fr+kdd.dieyii 第一
@@ -6740,6 +6759,7 @@
 {0}ja+kcpcx.yzuliu 有理
 {0}ja+kcizn.yteqqo 月球
 {0}ja+klsjcy.mkoqte 明確
+{0}ja+kkoy.mkouie 明示
 {0}ja+kjkjrs.nwexui 内需
 {0}ja+fryhx.yzuxme 有限
 {0}ja+frcvcs.nwelue 内陸
