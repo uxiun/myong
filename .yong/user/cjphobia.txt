@@ -619,6 +619,7 @@
 {0}na+xtlg.uvupce 水疱
 {0}na+xrjm.nnebue 尿布
 {0}na+xluz.oiijxe 支架
+{0}na+tbkjx.yzuqko 友情
 {0}na+tc,hudkrdi.fjulsudre 反垄断
 {0}na+ur+iodkrnv.uvuldeqio 水瀬祈
 {0}na+ui+zkcizs.oiifuebcu 支付宝
@@ -1590,6 +1591,7 @@
 {0}ui+cofss.fuekru 付款
 {0}ui+ciw.goeque 过去
 {0}ui+mddbgy.uiomco 时髦
+{0}ui+zldgy.jiiguu 稽古
 {0}ui+wmks.fueyuu 付与
 {0}ui+wloy.uiodmu 时点
 {0}ui+wdmn.dvefhi 对方
@@ -1825,6 +1827,8 @@
 {0}gl+sfxjht.mmoqie 眠気
 {0}ge+wxslc.gretzo 罐头
 {0}ge+ikscjp.mnooyu 瞄准
+{0}gi+nidod.gvumpe 鬼滅
+{0}gi+id+fs+mdidnoi.gvumpeoiirfe 鬼滅之刃
 {0}gi+kidgid.gvuhyo 鬼魂
 {0}gd+ukjg.jmebfu 見本
 {0}gd+mdbgwyo.jqewwu 鷲尾
@@ -2803,6 +2807,7 @@
 {0}za+nurvy.zculde 早瀬
 {0}za+ur+cwsynv.zculdezzu 早瀬走
 {0}za+uhiim.vrujii 耳機
+{0}za+ui+jv+jwunu.uiocyiufiyte 辻村深月
 {0}za+udfm.vrujii 耳机
 {0}za+mdbgu.moewwu 末尾
 {0}za+mkklid.qmixyo 千尋
@@ -3116,6 +3121,7 @@
 {0}wh+jr+skluskki.heorsoheo 核融合
 {0}wh+jfi.xmoyte 弦月
 {0}wh+ja+jo+ka+iifrfienz.xmoytetgouielho 弦月藤士郎
+{0}wc+ui+la+hoimjudgyz.ouejiiguubmi 柱稽古編
 {0}wc+weyn.oueybi 注音
 {0}wc+weytn.oueyie 注意
 {0}wc+sdn.ouerue 注入
@@ -3133,7 +3139,8 @@
 {0}wm+dskkfwu.yzoxko 遊行
 {0}wm+kckkgnu.yzowjo 游玩
 {0}wm+jk+scujkzv.xpuofijio 写真集
-{0}wz 斗
+{0}wz 辻
+{1}wz 斗
 {0}wz,bwehvz.lmejpi 鏈接
 {0}wz,weybz.pbiybi 拼音
 {0}wz,dnuvz.lmetno 鏈条
@@ -4011,6 +4018,7 @@
 {0}sa+keddd.rfoxko 人形
 {0}sa+kjrrs.csovro 从而
 {0}sa+kjsiis.csolko 从零
+{0}sa+fy+fe+sdhoyyx.rfojmigrixie 人間関係
 {0}sa+fil.rfomko 人名
 {0}sa+jogx.rfoncu 人脳
 {0}lb+kokjvwkj.qkuyre 請願
@@ -4798,6 +4806,7 @@
 {0}iz+blwsbj.buuooi 捕捉
 {0}iz+xmdu.mwelie 魅力
 {0}iz+riteurlj.huodpo 蝴蝶
+{0}iz+uwcrt.ueooue 蛇柱
 {0}iz+zkkgrj.buuwjo 補完
 {0}iz+wlgvrj.buuxru 補選
 {0}iz+wlkklwv.uueyuu 述語
@@ -4867,6 +4876,7 @@
 {0}il+nn.oieuvu 治水
 {0}il+xxvon.oielno 治療
 {0}il+hodnwh.uiuosi 始終
+{0}il+cidmf.mkoigo 名城
 {0}il+zfuf.mkozie 名字
 {0}il+wlmklf.mkocio 名詞
 {0}il+la+mkicfz.mkoguuwui 名古屋
@@ -5714,6 +5724,7 @@
 {0}ko+ndfnw.hdomwo 还没
 {0}ko+xrcw.hdozde 还在
 {0}ko+xjw.hdoyzu 还有
+{0}ko+rb,furjn.oiujbizia 襧津子
 {0}ko+hfuw.hdohcu 还好
 {0}ko+idkhk.uiewwi 示威
 {0}ko+ijttw.hdongo 还能
@@ -6288,6 +6299,7 @@
 {0}fk+nzkvfjs.yueyju 预演
 {0}fk+njsffjs.yuecee 预测
 {0}fk+ugtfjs.yuexlu 预想
+{0}fk+uwcdri.fgioue 風柱
 {0}fk+udnldri.fgigeo 風格
 {0}fk+hilye.kdiuiu 開始
 {0}fk+mijggfjv.yuelju 預覧
