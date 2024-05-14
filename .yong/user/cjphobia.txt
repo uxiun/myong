@@ -12,6 +12,7 @@
 {0}bx,xmz.uiolie 実力
 {0}bx,rcwdhz.uiooli 実装
 {0}bx,rc,wlskjzx.uiozdelye 実在論
+{0}bx,uk+fe+zp+pwxzsyxwz.uiotiugrilmotuo 実体関連図
 {0}bx,hobkvz.uiojii 実績
 {0}bx,mosksz.uioyje 実験
 {0}bx,mkdyz.uioxio 実習
@@ -107,6 +108,7 @@
 {0}bk+uufwsnj.qkiiuu 清楚
 {0}bk+ued.ugildo 生来
 {0}bk+czmrntj.qkobce 情報
+{0}bk+csmgd.ugiqiu 生起
 {0}bk+ciotj.qkoree 情熱
 {0}bk+mr+mmltjbn.qkobcejuo 情报局
 {0}bk+mr+stelf.iaebpohxe 差別化
@@ -350,6 +352,7 @@
 {0}pa+zjezu.dsinjo 東南
 {0}pa+wlou.dsijki 東京
 {0}pa+wljcle.quidne 曲調
+{0}pa+wdmu.dsifhi 東方
 {0}pa+lo.rp+vd+ta+su+pclhuwwekrmi,sikiioiiioeero 東京迪斯尼楽園
 {0}pa+lo.zyfruw.dsijkidzi 東京都
 {0}pa+kpmre.quimme 曲面
@@ -1931,6 +1934,7 @@
 {0}ht+dbkl.mbougi 民生
 {0}ht+ks+wlfrlkx.mboogebue 民政部
 {0}ht+kksxl.mbooge 民政
+{0}ht+fild.uiemko 氏名
 {0}ht+ffflg.bculea 饱了
 {0}hr+ixmil.jnewwe 叫为
 {0}hu.sdbz.vjejme 案件
@@ -2427,6 +2431,7 @@
 {0}mz+sdhiyn.zvedii 最低
 {0}mz+lj+ziwdhynwl.zvegcicdo 最高裁
 {0}mz+evjyn.zveqii 最期
+{0}mz+ixgyn.zveyzo 最尤
 {0}mz+ihvlgbl.jueuoi 据说
 {0}mz+dutbl.juexii 据悉
 {0}mz+dcdgyn.zvexmi 最先
@@ -2937,6 +2942,7 @@
 {0}vd+ca+uecnigik.moowhoyhe 魔王様
 {0}vd+zbzlxfn.uaihde 殺害
 {0}vd+zr+jk+rjxigisxzv.moouiuofiyhi 魔使真央
+{0}vd+wurwn.bmesue 変速
 {0}vd+ohsxwn.bmeuue 変数
 {0}vd+sxfn.uairfo 殺人
 {0}vd+stwn.bmehxe 変化
@@ -3139,8 +3145,6 @@
 {0}wm+dskkfwu.yzoxko 遊行
 {0}wm+kckkgnu.yzowjo 游玩
 {0}wm+jk+scujkzv.xpuofijio 写真集
-{0}wz 辻
-{1}wz 斗
 {0}wz,bwehvz.lmejpi 鏈接
 {0}wz,weybz.pbiybi 拼音
 {0}wz,dnuvz.lmetno 鏈条
@@ -3744,6 +3748,7 @@
 {0}sc+hofdnw.jbejio 進級
 {0}sc+mehw.jbeoju 進展
 {0}sc+zldlio.ykigsi 鷹宮
+{0}sc+zkwsb.tvidke 推定
 {0}sc+wrkdw.jbebue 進歩
 {0}sc+whtn.njowhe 难忘
 {0}sc+wmsb.tviiio 推迟
@@ -3768,6 +3773,7 @@
 {0}sc+dbjgn.njokje 难看
 {0}sc+dskkfw.jbexko 進行
 {0}sc+kcpcb.tviliu 推理
+{0}sc+kw+ncibzs.tvidkefau 推定法
 {0}sc+ksxw.jbegsi 進攻
 {0}sc+kl.wwoyii 唯一
 {0}sc+kixmb.tvidse 推动
@@ -3990,6 +3996,7 @@
 {0}sa+mleb.rfoqyo 人群
 {0}sa+zrrfs.csouie 从事
 {0}sa+zrhb.fuiqii 夫妻
+{0}sa+za+evdkrjl.bweyeesii 贝叶斯
 {0}sa+wx+pcsw.csooeeliu 从这里
 {0}sa+wedg.rfodce 人道
 {0}sa+we+bc,ca+ld+evdkrjbduipzg.bwelaiteeliukeesii 贝拉特里克斯
@@ -4205,6 +4212,7 @@
 {0}le+scfscl.xiuhri 喜歓
 {0}le+sssmb.qyoose 群众
 {0}le+epk.dzemno 豆苗
+{0}le+ecdbiwej.jluyie 講義
 {0}le+ekhdk.dzeyao 豆芽
 {0}le+isscwej.jluzoe 講座
 {0}le+isijk.dzefuu 豆腐
@@ -5433,6 +5441,7 @@
 {0}da+yfs.ruemfo 入門
 {0}da+xuw.gludsi 广东
 {0}da+xms.ruelie 入力
+{0}da+tmds.rueqpe 入切
 {0}da+ri+wrjwir.gluoziuie 广州市
 {0}da+ua+odjgwx.gludsiugu 广东省
 {0}da+ho.ucunvu 少女
@@ -5825,6 +5834,7 @@
 {0}ki.mznfmj.pmequu 骗取
 {0}ki.zjhiohz.xmesou 线索
 {0}ki.scjgvmc.wuilbe 屋賃
+{0}ki.lkhmmc.wuihce 屋号
 {0}ki.ittrx.oletde 状態
 {0}ki.fpkfxg.yzoyuo 鱿鱼
 {0}ki.fiwmc.wuiwde 屋外
@@ -6235,6 +6245,7 @@
 {0}fl+tsiik.keulmo 可怜
 {0}fl+teyk.keuxii 可惜
 {0}fl+hisk.keuyiu 可以
+{0}fl+mkicy.wfewui 問屋
 {0}fl+wvdnk.keubme 可変
 {0}fl+oj+stkigg.keuuiehxe 可視化
 {0}fl+iojggk.keuuie 可視
@@ -6351,6 +6362,7 @@
 {0}jp+zldgk.lwokee 雷克
 {0}jp+wldzlkg.dmehxe 電話
 {0}jp+oj+wsrfkgigg.dmeuiejue 電視劇
+{0}jp+ld+up+lkhmkgwzld.dmehxefjihce 電話番号
 {0}jp+ld+ds+ja+evdkrkzgkcs.lwokeeyaunwesii 雷克雅内斯
 {0}jp+ey+wlfrkgw.dmeybibue 電音部
 {0}jp+iojggkg.dmeuie 電視
