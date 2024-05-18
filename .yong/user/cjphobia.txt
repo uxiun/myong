@@ -211,6 +211,7 @@
 {0}ba+en+lmrfsi.nmoduebpo 年度別
 {0}ba+imj.ysehue 用户
 {0}ba+iens.nmodue 年度
+{0}ba+dbks.nmougi 年生
 {0}ba+dqdo.bjeufi 半身
 {0}ba+dywgo.bjedcu 半島
 {0}ba+dn+hodhteu.yhopiooiu 羊皮紙
@@ -552,6 +553,7 @@
 {0}nwx+r 济
 {0}nwr+d 涉
 {0}nwc 注
+{0}nwe+g 滝
 {0}nw+uf+kk.ix+skkidduwikm.dsijieyyedsehve 冬季运动会
 {0}nw+va+bkndf.dsixnumde 冬小麦
 {0}nw+wkkid.dsiyye 冬运
@@ -1208,6 +1210,7 @@
 {0}rx+kvpfe.ujuxii 陕西
 {0}rt,mvpyfty.jpicgo 階層
 {0}rt,zxyr.hreoeu 患者
+{0}rt,llixlfsg.tcoqie 陶器
 {0}rt,kwftc.biexxe 陛下
 {0}rro+r 肃
 {0}rr,bx,fe+sdhozfzyx.uieuiogrixie 事実関係
@@ -1406,6 +1409,7 @@
 {0}rj+pkciex.ykigoo 英国
 {0}rj+yt+lj+ujkdgvdiwcl.oiedeadneoai 質的調査
 {0}rj+ykpcdgv.oielle 質量
+{0}rj+yfldgv.oiewfe 質問
 {0}rj+rrtfmt.ybuhre 隠患
 {0}rj+uu.va+wsfxkwuf.yuusfixnuyee 雨森小夜
 {0}rj+gp+sizllyxk.ykehxegru 映画館
@@ -1422,6 +1426,7 @@
 {0}rj+lk+jr+kc+ca+ecdbiexwklwjpiw.ykiyuudiegooouuyie 英語帝国主義
 {0}rj+ebjgng.ufuoea 沈着
 {0}rj+eidmfmt.ybuzhi 隠蔵
+{0}rj+iltdgv.oiegju 質感
 {0}rj+dbtddpgv.mduwue 買物
 {0}rj+dbgfmt.ybumco 隠毛
 {0}rj+duifmt.ybusii 隠私
@@ -1558,6 +1563,7 @@
 {0}uw+ojfudz.keixto 科学
 {0}uw+slrfdz.keiile 科創
 {0}uw+im+tu+ezjrjdzhc.keihrediedde 科幻地带
+{0}uw+iltoe.liegju 粒感
 {0}uw+kcpcoz.lneliu 料理
 {0}uw+klkedz.keiyjo 科研
 {0}uw+fufhs.hdozia 孩子
@@ -1626,6 +1632,7 @@
 {0}ui+kun.dveyuo 对于
 {0}ui+fytsn.dvexle 对象
 {0}udn 板
+{0}udf+i 楓
 {0}ud+yd+frzkgfhsrg.guivroyre 孤児院
 {0}ud+yfmzwkr.xbiwfo 新聞
 {0}ud+ndqowkr.xbixie 新潟
@@ -1906,6 +1913,7 @@
 {0}ga+jk+kjlmngkki.iuiyyoxxo 出雲霞
 {0}hb+rmlikj.qkuwfe 请问
 {0}hb+slmnikj.qkujxu 请假
+{0}hp+ukiu.keebfu 课本
 {0}hp+hkjxiu.keeghi 课纲
 {0}hx+bmggin.faijto 发掘
 {0}hx+bkhin.faibnu 发表
@@ -2561,6 +2569,7 @@
 {0}md+ixmiv.ffiwwe 分为
 {0}md+ihzfxr.iuiduo 初读
 {0}md+idmv.ffiigo 分成
+{0}md+db,jf+pclhrykou.iuixkixtoyro 初星学園
 {0}md+dqdt.qpeufi 切身
 {0}md+dyirv.ffijpo 分節
 {0}md+kphdkr.souyce 所要
@@ -3253,7 +3262,7 @@
 {0}wi+iltng.lqogju 流感
 {0}wi+dbsng.lqouii 流失
 {0}wi+duldcng.lqoigo 流程
-{0}wdk+jv 頻
+{1}wdk+jv 頻
 {0}wdk+js 频
 {0}wd+pi+ta+sm+jbbfkvnss.khesrihxezoeyse 抗酸化作用
 {0}wd+xrfush.yiicyo 依存
@@ -3338,9 +3347,11 @@
 {0}ot+kh+iy+zxyhgbiosh.iyosueuiooeu 純素食者
 {0}or+pa+dx,kiprd.ufotmoxneyii 神田笑一
 {0}or+nkvpipr.ufojqu 神酒
+{0}or+udnlipr.ufogeo 神格
 {0}or+honcipr.ufojki 神経
 {0}or+mvdfnipr.ufodme 神殿
 {0}or+mdrjcn.lieuuu 隷属
+{0}or+dn+stiprul.ufogeohxe 神格化
 {0}or+dutdipr.ufomie 神秘
 {0}or+djwiipr.ufoozi 神舟
 {0}ou 米
@@ -3693,6 +3704,7 @@
 {0}stu 他
 {0}st+bk+mxled.hxiugijyi 花生君
 {0}st+pclhe.hxiyro 花園
+{0}st+pa+za+ogjzze.hxitmouiohvi 花田十輝
 {0}st+pa+le+wd+wkweoclsh.hxitmojxiyiikau 花畑嘉依卡
 {0}st+rfjse.hxifwe 花费
 {0}st+uv+xkwkeomd.hxiffuoge 花粉症
@@ -3762,6 +3774,7 @@
 {0}sc+ggb.tviiui 推出
 {0}sc+ht+if+zojnws.njowhejbixni 难忘今宵
 {0}sc+hofdnw.jbejio 進級
+{0}sc+hisn.njoyiu 难以
 {0}sc+mehw.jbeoju 進展
 {0}sc+zldlio.ykigsi 鷹宮
 {0}sc+zkwsb.tvidke 推定
@@ -4871,6 +4884,7 @@
 {0}iw+dujgf.wdexli 外箱
 {0}iw+ksjgvf.wdezii 外資
 {0}iw+jgdgf.wdejme 外見
+{0}io+tbkjc.reeqko 熱情
 {0}io+mdxnm.yyefae 熨髪
 {0}io+wloc.reedmu 熱点
 {0}io+wlkklw.uuoyuu 熟語
@@ -5203,6 +5217,7 @@
 {0}du+nprzef.liezeo 莉澤
 {0}du+nwigdi.ueelqo 射流
 {0}du+xbfsf.rzorru 柔软
+{0}du+znbdi.ueejii 射撃
 {0}du+wmsxbp.boifhe 播放
 {0}du+weybp.boiybi 播音
 {0}du+oj+ud+uw+bznwmidgwkrdz.tzeuiexbikeijie 透视新科技
@@ -5365,6 +5380,7 @@
 {0}dd,ve+vwzzwbkeu.ijuyeelme 産業鏈
 {0}dd,lllwbk.ijupbu 産品
 {0}dd,eveuwbk.ijuyee 産業
+{0}dd,dbknh.pdeugi 派生
 {0}dd,jf+zlrlwbkou.ijuxtogri 産学官
 {0}dk 生
 {0}dkj 깅
@@ -5589,12 +5605,14 @@
 {0}kgk+jv 頋
 {0}kgk+js 顾
 {0}kg+bzrsji.grijpo 冠捷
+{0}kg+njjjo.glihxo 光滑
 {0}kg+rimkn.uaemfo 厦门
 {0}kg+ukkoo.glibni 光标
 {0}kg+cl+xksjwouj.iiuozibke 歯周病
 {0}kg+ojfuo.glixto 光学
 {0}kg+oj+dyirkz.yroxnijpo 元宵節
 {0}kg+sixo.glifuo 光伏
+{0}kg+sfxk.yroqie 元気
 {0}kg+efskwou.iiujki 歯茎
 {0}kg+ku+zrpkz.yroyuuoze 元宇宙
 {0}kg+kh+wlmgkb.yrobnujie 元表記
@@ -5722,6 +5740,7 @@
 {0}km+fx+us+dlkrjzsiczx.jxitkojneuii 家庭教師
 {0}km+frsksfg.wwixmu 危険
 {0}km+fkknhg.jielue 纪录
+{0}km+js+iltlmwc.jueliogju 距離感
 {0}kz+iojdgwn.qiouie 歧视
 {0}kz+dimjhfx.xuepmi 续篇
 {0}kz+jwmkhsy.soixpu 缩写
@@ -5920,6 +5939,7 @@
 {0}kk.wldzlsi.hvehxe 会話
 {0}kk.wlkklwl.yjoyuu 言語
 {0}kk.wi+zkkvg.sjiiseuie 三銃士
+{0}kk.wdnbh.ofefju 振返
 {0}kk.wdmwg.yrufhi 远方
 {0}kk.os+ishkhc.sjiwwozii 三維姿
 {0}kk.sbkh.ifonmo 辰年
@@ -5953,6 +5973,7 @@
 {0}kk.dskkuo.bniqmi 标签
 {0}kk.dskkfwi.yyexko 运行
 {0}kk.djgewi.yyesre 运算
+{0}kk.ks+jk+kgpkhckkv.sjiwwolkohxe 三维霊画
 {0}kk.klodkh.ifouai 辰砂
 {0}kk.kixmwi.yyedse 运动
 {0}kk.kiceh.ufeoie 甚至
@@ -6049,6 +6070,7 @@
 {0}ka+bw.uheuzu 上手
 {0}ka+ba+sbwo.uhebjenmo 上半年
 {0}ka+ba+dbks.yiinmougi 一年生
+{0}ka+ba+dbkks.vrenmougi 二年生
 {0}ka+ba+dqdwo.uhebjeufi 上半身
 {0}ka+pzjgv.yiigre 一貫
 {0}ka+yskjvu.bfutio 本題
