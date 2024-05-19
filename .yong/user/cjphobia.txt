@@ -2536,6 +2536,7 @@
 {0}md+xjdkr.souyzu 所有
 {0}md+ta+zxyr.iuixbioeu 初心者
 {0}md+rr.iuiosi 初中
+{0}md+rkrfv.ffihxe 分劃
 {0}md+uznv.ffioii 分枝
 {0}md+udkrv.ffixii 分析
 {0}md+ht+dsccfvvl.pbombojpi 貧民街
@@ -2976,6 +2977,7 @@
 {0}vd+ittwn.bmetde 変態
 {0}vd+ieigi.moojpe 魔戒
 {0}vd+dqdwn.bmeufi 変身
+{0}vd+dn+ia+zldgekrnls.siiloefaokee 斯洛伐克
 {0}vd+dcxmwn.bmedse 変動
 {0}vd+krpxwn.bmegge 変更
 {0}vd+kcigi.moowho 魔王
@@ -3104,6 +3106,7 @@
 {0}wx+kcjdgz.uioxme 实现
 {0}wx+kw.oeeyii 这一
 {0}wx+ks+zkiczfkk.uioyjeuie 实验室
+{0}wx+kedddp.tuoxko 図形
 {0}wx+frkkoz.uiojie 实际
 {0}wx+fkskkz.uioyje 实验
 {0}wx+jbz.uioyse 实用
@@ -3888,6 +3891,7 @@
 {0}se+il+oulormn.fuuxximiu 嘸蝦米
 {0}se+dr+vd+ohsxdwsmjwn.csouuubmeuue 従属変数
 {0}si 会
+{1}si 伐
 {0}sif+s 飲
 {0}si+xmlch.ytejxi 越加
 {0}si+uvi.lkomue 鈴木
