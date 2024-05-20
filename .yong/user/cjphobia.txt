@@ -2408,6 +2408,7 @@
 {0}mr+wloe.jpodmu 节点
 {0}mr+odjge.jpougu 节省
 {0}mr+slf.bporfo 別人
+{0}mr+skfe.jpoqie 节气
 {0}mr+ihvlglf.bpouoi 别说
 {0}mr+dnxmjn.fuowue 服务
 {0}mr+dclbn.bcegce 报告
@@ -2912,8 +2913,10 @@
 {0}vt+klfsw.lmegei 恋歌
 {0}vt+jjtnw.lmevde 恋愛
 {0}vh+rydgj.ykivro 嬰児
+{0}vc+pxe.jiiybi 基因
 {0}vc+ncze.jiioyu 基準
 {0}vc+xbizje.jiifuu 基辅
+{0}vc+xa+hkjkep.jiiybizuu 基因组
 {0}vc+uke.jiibfu 基本
 {0}vc+ctue.jiidie 基地
 {0}vc+ve.jiijbi 基金
@@ -3052,6 +3055,7 @@
 {0}va+sf+dfdrifwx.xnuyeefgi 小夜風
 {0}va+lv.zkmsfwlg.xnuuoijxi 小説家
 {0}va+lsff.xnuiii 小吃
+{0}va+ek+mr+skffnje.xnumjujpoqie 小满节气
 {0}va+ihvlgf.xnuuoi 小说
 {0}va+ihitkf.xnuuie 小试
 {0}va+ilte.gsegju 共感
@@ -3080,7 +3084,8 @@
 {0}wy+weebz.dnejbe 掉进
 {0}wy+sifttz.dcenme 悼念
 {0}wy+sjsjh.tvurze 腿肉
-{1}wx 头
+{1}wx 达
+{2}wx 头
 {0}wx+pcw.oeeliu 这里
 {0}wx+yuiz.uiouio 实时
 {0}wx+xrcz.uiozde 实在
@@ -3202,7 +3207,7 @@
 {0}ws,iiirc.zzulho 走廊
 {0}ws,ffc.zzulea 走了
 {0}ws,fa+ee,cicfw.zzuleajbeque 走了进去
-{1}wl 高
+{0}wl 高
 {0}wlo 京
 {0}wlo. 京
 {0}wls+kj 論
@@ -3948,6 +3953,7 @@
 {0}sk+cicz.gjuque 赶去
 {0}sk+cfmdfle.dgiihu 登场
 {0}sk+mehfxt.faioju 発展
+{0}sk+mkftdkf.xkouii 行屍
 {0}sk+zhudl.daovje 答案
 {0}sk+zkwsus.jmudke 検定
 {0}sk+zjhious.jmusou 検索
@@ -4372,6 +4378,7 @@
 {0}lj+zlkjvwl.gciveo 高額
 {0}lj+zj+ykpcwlds.gcioielle 高质量
 {0}lj+vdbswl.gcioio 高鉄
+{0}lj+wxwl.gcidao 高达
 {0}lj+wxsxwl.gcixne 高效
 {0}lj+wurwl.gcisue 高速
 {0}lj+wgsiiwl.gcilko 高齢
@@ -6012,6 +6019,7 @@
 {0}kf+vfxbb.daujme 打鍵
 {0}kf+wxsf.liewfo 例文
 {0}kf+wtwdhxl.qioxio 奇襲
+{0}kf+wlofik.roedmu 弱点
 {0}kf+wdclb.dauzce 打造
 {0}kf+wkjz.nkokfu 宁肯
 {0}kf+okgo.dgigli 灯光
@@ -6538,6 +6546,7 @@
 {0}jg+rpd.zieyzo 自由
 {0}jg+ht+ojldgdl.ziembodhu 自民党
 {0}jg+hocjgu.xlixue 相続
+{0}jg+hi+ienuss.xliuiedue 相似度
 {0}jg+cydu.xliugi 相声
 {0}jg+cx+zpzddm.ziedseiei 自動車
 {0}jg+cx+dc+wlmklddmwl.ziedsezcecio 自動造詞
@@ -6562,6 +6571,7 @@
 {0}jg+ojjggd.ziejto 自覚
 {0}jg+stud.zietai 自他
 {0}jg+sukd.zietiu 自体
+{0}jg+shisu.xliuie 相似
 {0}jg+sc+zxydixi.credoooeu 篡奪者
 {0}jg+swklu.xlixbe 相信
 {0}jg+swkld.ziexbe 自信
