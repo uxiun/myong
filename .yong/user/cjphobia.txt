@@ -297,6 +297,7 @@
 {0}pm+wlitkkr.mmeuie 面試
 {0}pm+wexkg.pwesse 配送
 {0}pm+swklkg.pwexbe 配信
+{0}pm+skcfkr.mmedce 面倒
 {0}pm+lm+wlmkldkkws.fjiyiecio 翻訳詞
 {0}pm+ejrfkr.mmeqmo 面前
 {0}pm+ihnbdkk.fjiyie 翻译
@@ -418,6 +419,7 @@
 {0}yh+suw.tvexqi 退休
 {0}yh+sk+wkwvdkf.yboxkokau 銀行卡
 {0}yh+lkdnlw.tvelue 退路
+{0}yh+isscv.ybozoe 銀座
 {0}yh+dskkfv.yboxko 銀行
 {0}yh+dskkfw.tvexko 退行
 {0}yh+fygv.ybosee 銀色
@@ -439,6 +441,7 @@
 {0}ye+fw+hiyhonkdh.bcelpenlo 爆裂娘
 {0}yi 时
 {0}yi+bdzlug.gdekoe 概括
+{0}yi+ueejug.gdegze 概構
 {0}yi+wlodr.jpodmu 節点
 {0}yi+wlskjug.gdelye 概論
 {0}yi+siftug.gdenme 概念
@@ -853,6 +856,7 @@
 {0}xk+wttzhm.kculve 考虑
 {0}xk+wlkklojv.lweyuu 類語
 {0}xk+wedgsle.drudce 短道
+{0}xk+ohsxuwk.oguuue 整数
 {0}xk+oj+wdkjssleidg.druuiepbo 短视频
 {0}xk+sruwk.ogugee 整个
 {0}xk+sukuwk.ogutiu 整体
@@ -1137,6 +1141,7 @@
 {0}ta+zbxr.osiuio 忠実
 {0}ta+zxkhmp.siikcu 思考
 {0}ta+zzwvxt.biujne 比較
+{0}ta+zw,zk+jg+futzvxnvde.biujneyjusrezia 比較演算子
 {0}ta+wtptp.siilve 思慮
 {0}ta+wlidmr.osiigo 忠誠
 {0}ta+wlkwk.xbioge 心証
@@ -1684,6 +1689,7 @@
 {0}ud+drjgvwkr.xbioie 新質
 {0}ud+dh+rcwdhwkrw.xbiyiioli 新衣装
 {0}ud+da+dbkwkrs.xbirueugi 新入生
+{0}ud+kpdsnrn.bwefue 被覆
 {0}ud+kg+df+tbkjwkrjixn.xbigriyieqko 新冠疫情
 {0}ud+kv+ia+mklwkrov.xbixkigsisii 新兴公司
 {0}ud+kfcwkr.xbixko 新型
@@ -2727,6 +2733,7 @@
 {0}zv+yjmlt.csimko 聪明
 {0}zv+yjmit.csimko 聡明
 {0}zv+nrpiv.maoyzo 麻油
+{0}zv+xrjiv.maobue 麻布
 {0}zv+gklol.rsoyjo 熔岩
 {0}zv+okjsiv.maofjo 麻烦
 {0}zv+stnl.rsohxe 溶化
@@ -3037,6 +3044,7 @@
 {0}va+uepif.xnuzyi 小樽
 {0}va+gr+kljf.jbighiuio 金剛石
 {0}va+hmt.jbinii 金妮
+{0}va+hs+wlofox.xnuuuedmu 小数点
 {0}va+hk+xdsfxh.jbisiihzo 金丝猴
 {0}va+hk+hiyhfei.xnuycenlo 小药娘
 {0}va+cf,kf+xy+duyfpifpb.xnuyeutkiiyixli 小野町春香
@@ -3051,6 +3059,7 @@
 {0}va+wfije.gsetsi 共通
 {0}va+wfjse.gseyko 共赢
 {0}va+ouf.xnumiu 小米
+{0}va+ohsxf.xnuuue 小数
 {0}va+sk+ydbkfdkf.xnuxkoxki 小行星
 {0}va+sf+dfdrifwx.xnuyeefgi 小夜風
 {0}va+lv.zkmsfwlg.xnuuoijxi 小説家
@@ -3084,8 +3093,6 @@
 {0}wy+weebz.dnejbe 掉进
 {0}wy+sifttz.dcenme 悼念
 {0}wy+sjsjh.tvurze 腿肉
-{1}wx 达
-{2}wx 头
 {0}wx+pcw.oeeliu 这里
 {0}wx+yuiz.uiouio 实时
 {0}wx+xrcz.uiozde 实在
@@ -3779,6 +3786,7 @@
 {0}sc+ra Scrapbox$_
 {0}sc+uxkls.zoeyiu 坐椅
 {0}sc+uk+oj+op+jtlgvsiggh.ovitiuuiexiebci 錐体視細胞
+{0}sc+uf+dsrbbdif.tviyiolve 推移律
 {0}sc+ggb.tviiui 推出
 {0}sc+ht+if+zojnws.njowhejbixni 难忘今宵
 {0}sc+hofdnw.jbejio 進級
@@ -3808,6 +3816,7 @@
 {0}sc+ierjs.zoexio 坐席
 {0}sc+dbtddl.wwowue 唯物
 {0}sc+dbjgn.njokje 难看
+{0}sc+dufifb.tviyio 推移
 {0}sc+dskkfw.jbexko 進行
 {0}sc+kcpcb.tviliu 推理
 {0}sc+kw+ncibzs.tvidkefau 推定法
@@ -4203,6 +4212,7 @@
 {0}ls+xa+yt+iz+ouwzwkjwbtzpz.lyewfojpizdelne 論文掲載料
 {0}ls+ud+rcywddhkr.ofudreuui 診断書
 {0}ls+hudkrwdd.ofudre 診断
+{0}ls+cp+zk+jg+fuwkjkcnvde.lyeliuyjusrezia 論理演算子
 {0}ls+cwpkwkj.lyetjo 論壇
 {0}ls+zbxkjc.qteuio 確実
 {0}ls+zrrfzx.gueuie 故事
@@ -5135,6 +5145,7 @@
 {0}dy+ua+ma+sk+kjpgkofxfxt.yrozialiefaidme 原子力発電
 {0}dy+ua+ma+sk+jp+dmdkrkofxfxtkg.yrozialiefaidmesou 原子力発電所
 {0}dy+hilko.yrouiu 原始
+{0}dy+zskyko.yrosue 原宿
 {0}dy+zfwxb.pdimde 拍卖
 {0}dy+vxs.boofue 伯父
 {0}dy+wloko.yrodmu 原点
@@ -5536,6 +5547,7 @@
 {0}kn.bkjly.taeqki 踏青
 {0}kn.twmgi.bkidcu 冰岛
 {0}kn.zwxly.taeuio 踏实
+{0}kn.va+ud+kpdsnukfrn.jioxnubwefue 極小被覆
 {0}kn.wegkjuk.jiodri 極端
 {0}kn.wedguk.jiodce 極道
 {0}kn.ienuk.jiodue 極度
@@ -5965,6 +5977,7 @@
 {0}kk.enfdbh.ofedhe 振荡
 {0}kk.eh+ra+tsim.hveojuosixbi 会展中心
 {0}kk.ecvnk.sjilko 三菱
+{0}kk.ejus.rfocde 仁菜
 {0}kk.ix+skkiwikm.yyedsehve 运动会
 {0}kk.ihstwl.yjolye 言论
 {0}kk.ihlvuo.bniuio 标识
@@ -6172,6 +6185,7 @@
 {0}fy+bwehy.jmijpi 間接
 {0}fy+rk+na+dssynyfljd.jmigeofjufue 間隔反復
 {0}fy+wnsihyg.wjucji 晚餐
+{0}fy+sjsbg.wjurze 挽肉
 {0}fy+ddpbg.wjulqo 挽留
 {0}fy+frkljy.jmigeo 間隔
 {0}fnk 丞
@@ -6407,7 +6421,7 @@
 {0}ff,sfebssk.qkiyhu 氢氧
 {0}ff,ijttssk.qkingo 氢能
 {0}ff,kf+lkhmwz.lnonkohce 辽宁号
-{1}fjx+m 勇
+{0}fjx+m 勇
 {0}fjc 角
 {0}fj+cidmrs.fweigo 费城
 {0}fj+mkmikbx.hreyuu 換羽
@@ -6586,6 +6600,7 @@
 {0}jg+dufou.xliigi 相称
 {0}jg+dcxmd.ziedse 自動
 {0}jg+dsrbd.zielve 自律
+{0}jg+dsivfde.sreuue 算術
 {0}jg+djrfd.zieoie 自制
 {0}jg+khfku.xlihue 相互
 {0}jg+km+md+lzumikr.xliyuuiuiyee 相羽初叶
@@ -6765,6 +6780,8 @@
 {0}jf+xitbmu.jketde 静态
 {0}jf+rk+kgpbmuw.jkeoiuhxe 静止画
 {0}jf+uwvxou.xtoxne 学校
+{0}jf+cx+va+hs+lo.ohsxnudmfoxw.fuodsexnuuuedmuuue 浮動小数点数
+{0}jf+cx+va+lo.hs+kfcnudmfwox.fuodsexnudmuuuexko 浮動小数点数型
 {0}jf+cl+mkhouph.xtoyroohu 学園長
 {0}jf+mkdyou.xtoxio 学習
 {0}jf+zxyou.xtooeu 学者
@@ -6779,6 +6796,7 @@
 {0}jf+eveuou.xtoyee 学業
 {0}jf+ikwpobmu.jkelbu 静凛
 {0}jf+dbkou.xtougi 学生
+{0}jf+dcxmnu.fuodse 浮動
 {0}jf+dsivfou.xtouue 学術
 {0}jf+kd+db,eo+fx+xmoumytkss.xtoxioxkewuoqielie 学習性無気力
 {0}jf+frjsoou.xtojie 学際
