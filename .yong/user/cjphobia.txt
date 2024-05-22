@@ -763,6 +763,7 @@
 {0}xg+sa+lf+fkrxkxhk.wuorfojxeuiu 无人驾驶
 {0}xg+ekkvi.yzoqio 尤其
 {0}xg+ihstk.wuolye 无论
+{0}xg+ieni.yzodue 尤度
 {0}xg+kjkjrk.wuoxui 无需
 {0}xh+uk+zfusios.fjotiuzie 繁体字
 {0}xh+drmysio.fjojmu 繁简
@@ -952,6 +953,7 @@
 {0}xa+szrxk.tmiuiu 天使
 {0}xa+sdbw.wfojme 文件
 {0}xa+sfxk.tmiqie 天気
+{0}xa+sj+ueyxbgg.daegvimoo 大規模
 {0}xa+lmrfm.quibpo 区別
 {0}xa+ld+tkzl.tmigsixbi 天宮心
 {0}xa+lf+vmdwr.daebueffi 大部分
@@ -980,6 +982,7 @@
 {0}xa+kjrrp.ybivro 因而
 {0}xa+kjmk.daextu 大雪
 {0}xa+kjlkle.vdelue 艾露
+{0}xa+kjkkh.daeofe 大震
 {0}xa+ka+kg+ukkowuo.wfobfuglibni 文本光标
 {0}xa+frcvc.daelue 大陸
 {0}xa+frdn.daebju 大阪
@@ -1205,6 +1208,7 @@
 {0}rp+jr+sa+cx+fueveffe.hloqmojqumwuzia 黄前久美子
 {0}ry+ycuiz.zjeuio 暫時
 {0}ry+zkwsz.zjedke 暫定
+{0}ry+zkwsfh.xmedke 限定
 {0}ry+okgfkd.yhogli 陽光
 {0}ry+djrffh.xmeoie 限制
 {0}ry+kufh.xmeyuo 限于
@@ -2187,6 +2191,7 @@
 {0}cu+puis.jiotro 集団
 {0}cu+puds.jiotro 集团
 {0}cu+yfyyi.uiojmi 時間
+{0}cu+nwigyi.uiolqo 時流
 {0}cu+rmudci.fgibie 封闭
 {0}cu+rs.jioosi 集中
 {0}cu+uukkoci.fgijbe 封禁
@@ -2213,6 +2218,7 @@
 {0}cu+djklci.fgitsu 封筒
 {0}cu+kudi.dguyuo 等于
 {0}cu+kcwgjkdn.boilio 玻璃
+{0}cu+fy+zlrfyiy.uiojmigei 時間割
 {0}cu+fy+ezjrjyiy.uiojmidde 時間帯
 {0}cg,ejvkkj.rvedmu 瑞典
 {0}cc,bnkprbw.gxemme 掛麺
@@ -2955,6 +2961,7 @@
 {0}vl.za+td+wlmgtgmyd.ytevruyiejie 悦耳易記
 {0}vl.vtijg.toigzi 脱鈎
 {0}vl.fjbvg.rvejnu 鋭角
+{0}ve+wlcjgjej.gzeduo 購読
 {0}ve+ivdgieu.yeemoo 業魔
 {0}vi+ggzx.tuiiui 突出
 {0}vi+lzt.ilikzu 窓口
@@ -3347,6 +3354,7 @@
 {0}on+wjjlhc.jkigoe 経過
 {0}on+lhc.jkikzu 経口
 {0}on+lkdnlhc.jkilue 経路
+{0}on+kuukhc.jkilie 経歴
 {0}on+kcpchc.jkiliu 経理
 {0}oxr+j 幣
 {0}ox+zkmkl.qiouie 騎士
@@ -3501,6 +3509,7 @@
 {0}ok+bntouh.hsoqui 紅麹
 {0}ok+ya+lf+kl+ozihdkss.hsobdogeiheooje 紅白歌合戦
 {0}ok+nuii.ykidve 应对
+{0}ok+gilp.fuouji 福山
 {0}ok+ga+ds+nililpkc.fuoujiyauoie 福山雅治
 {0}ok+hodynh.hsoxme 紅線
 {0}ok+mzrpmi.ykipbe 应聘
@@ -4111,6 +4120,7 @@
 {0}lt+fjrkii.gjuiue 感触
 {0}lrr,r 啸
 {0}lr+ui+nwigfin.qlodvelqo 强对流
+{0}lr+ggsf.ileiui 創出
 {0}lr+houpowrr.xyelme 訓練
 {0}lr+wudkrsf.ilexbi 創新
 {0}lr+wlcjgwrr.xyeduo 訓読
@@ -4127,6 +4137,7 @@
 {0}lu+nyevs.bcuuii 保湿
 {0}lu+xrfus.bcucyo 保存
 {0}lu+xa+ewhgkdnk.poetmihli 破天荒
+{0}lu+rs+mkicsfks.bcuxmuwui 保険屋
 {0}lu+hpwis.bcumuu 保姆
 {0}lu+czphkdn.poehke 破壊
 {0}lu+wlskjwi.tculye 討論
@@ -4522,6 +4533,7 @@
 {0}ey+ienw.ybidue 音度
 {0}ey+dbsv.coeuii 錯失
 {0}ey+dyirw.ybijpo 音節
+{0}ey+dzzgux.moofje 模範
 {0}ey+kcw.ybiyai 音圧
 {0}ey+kfcux.mooxko 模型
 {0}ey+fpowz.ohiyuo 章魚
@@ -4658,6 +4670,7 @@
 {0}ee,bkfs.bkedau 併打
 {0}ee,xrfus.bkecyo 併存
 {0}ee,xa+jm.udkrujwfdb.gzewfojpuxii 構文解析
+{0}ee,ugtuj.gzexlu 構想
 {0}ee,ga+lwg.jbeiuikzu 进出口
 {0}ee,ciw.jbeque 进去
 {0}ee,wxuj.gzewfo 構文
@@ -5222,6 +5235,7 @@
 {0}dr+bizjbs.oxibuu 抓捕
 {0}dr+xmxki.duolie 独力
 {0}dr+tdbkmj.uuuxke 属性
+{0}dr+mznbs.oxiquu 抓取
 {0}dr+wlxki.duooje 独占
 {0}dr+wexki.duolie 独立
 {0}dr+slrfxki.duoile 独創
@@ -5778,6 +5792,7 @@
 {0}kw+ueys.uieldo 是来
 {0}kw+mb+edufhohr.yjinaelie 嫣娜莉
 {0}kw+za+diyss.uieufomea 是什么
+{0}kw+vj+ve+wlcjgzsejej.dkeqiigzeduo 定期購読
 {0}kw+vj+li+moskszsewtk.dkeqiiuieyje 定期試験
 {0}kw+wlkklzs.dkeyuu 定語
 {0}kw+oa+ykwsysk.uiebueuie 是不是
@@ -6626,6 +6641,7 @@
 {0}jm.id+jk+mkklikkcmzv.xtuigoofixyo 雪城真尋
 {0}jm.ikupfdb.jpudse 解凍
 {0}jm.dunbfdb.jpuuie 解释
+{0}jm.dsklfdb.jpudao 解答
 {0}jm.dk+llixlfdbur.jpuxiiqie 解析器
 {0}jm.kjejxkk.xtuxme 雪霰
 {0}jm.jvlgfdb.jputoi 解脱
