@@ -159,6 +159,7 @@
 {0}bf,sdbxs.rrujme 软件
 {0}bf,ihnbsi.iroyie 传译
 {0}bf,dbgxs.rrumco 软毛
+{0}bf,db,tlgxss.rrujmebci 软件包
 {0}bf,durmr.naeosu 那种
 {0}bf,dimr.naemea 那么
 {0}bf+bdupsi.iroboi 传播
@@ -249,6 +250,7 @@
 {0}pr+dl+ebmkkefwl.mgeovixlo 夢追翔
 {0}pr+kcrfwj.yuedce 遇到
 {0}pr+fy+xa+rrkjsjss.vzuxledaeuii 偶像大师
+{0}pr+fy+xa+dlkrjsjss.vzuxledaeuii 偶像大師
 {0}pr+jxosj.vzurjo 偶然
 {0}pu+uecnei.zyiyhe 尊様
 {0}pu+hr.lounvu 裸女
@@ -983,6 +985,7 @@
 {0}xa+duwzw.wfokei 文科
 {0}xa+dgjs.daezje 大赞
 {0}xa+dhioe.grixie 关系
+{0}xa+dlkrj.daeuii 大師
 {0}xa+di+ydbkkxyh.tmilhoxki 天狼星
 {0}xa+krkk.tmigsi 天工
 {0}xa+kue.griyuo 关于
@@ -1214,6 +1217,7 @@
 {0}rp+dbkbzw.diobde 迪拜
 {0}rp+dnun.yzotno 油条
 {0}rp+dhisev.hlogxi 黄瓜
+{0}rp+djxmb.izijbi 抽筋
 {0}rp+fytsb.izixle 抽象
 {0}rp+fygev.hlosee 黄色
 {0}rp+fur.xqezia 袖子
@@ -1596,6 +1600,7 @@
 {0}uw+fjbsz.xpojnu 斜角
 {0}uw+jb+dj+mjrfszfyg.xpojnumwouxi 斜角眉刷
 {0}uw+jgdz.keimue 科目
+{0}uw+jswlol.ojitpi 粘贴
 {0}uw+jeyxol.ojimoo 粘膜
 {0}uw+jf+zkmsdzou.keixtojxi 科学家
 {0}uw+jf+sizlldzou.keixtogru 科学館
@@ -1750,6 +1755,7 @@
 {0}uk+kcjggs.tiuxme 体現
 {0}uk+keddds.tiuxko 体形
 {0}uk+ka+lm+evjksn.wuuyiijxuqii 五一假期
+{0}uk+jbuko.jbeyse 禁用
 {0}uk+judddk.wuucdu 五彩
 {0}uk+jswls.tiutpi 体贴
 {0}uf+ugtui.mgexlu 梦想
@@ -2177,6 +2183,7 @@
 {0}cy+dp+llixlrd.uuilqoqie 書留器
 {0}cx+prfie.mwuloo 美罗
 {0}cx+pkcie.mwugoo 美国
+{0}cx+nudne.mwuboi 美波
 {0}cx+nspwe.mwuhdu 美海
 {0}cx+njdge.mwugri 美观
 {0}cx+xmdm.dselie 動力
@@ -2666,6 +2673,7 @@
 {0}ma+ojfux.liexto 力学
 {0}ma+suk.uiitiu 尸体
 {0}ma+sm.juerfo 巨人
+{0}ma+it+je+uf+zllkszzui.wjeddenjomgegsi 万代南梦宫
 {0}ma+ivdgim.juemoo 巨魔
 {0}ma+dbuyi.huejio 户籍
 {0}ma+fiwi.huewde 户外
@@ -2685,6 +2693,7 @@
 {0}zp+vdc.osejbi 重金
 {0}zp+wudkrdc.osexbi 重新
 {0}zp+wlodc.osedmu 重点
+{0}zp+oc+tdbkwzhjg.lmoxuexke 連続性
 {0}zp+od+dcdgwzhnl.lmoloexmi 連絡先
 {0}zp+sy+rr,kfrfdcrnrv.osefueuyelpe 重複順列
 {0}zp+sdcwz.lmorfe 連任
@@ -2861,6 +2870,7 @@
 {0}zf+wljjzs.rrugci 軟膏
 {0}zf+sdbzs.rrujme 軟件
 {0}zf+ecxbyg.yjemwu 艳美
+{0}zf+db,tlgzss.rrujmebci 軟件包
 {0}zj+ykpcds.oielle 质量
 {0}zj+ya+je+ekvpzzz.icorienjoqme 朝日南茜
 {0}zj+ueerj.ddeldo 带来
@@ -4770,6 +4780,7 @@
 {0}ek+xfijkjv.tzotse 頭痛
 {0}ek+ufdju.gjijuo 柑橘
 {0}ek+gy+vweggsjh.qmeyjujke 嵌眼鏡
+{0}ek+ziscbk.ljojpo 拦截
 {0}ek+ws,oxkjvkjvl.tzozuolwe 頭足類
 {0}ek+wlfrkjv.tzobue 頭部
 {0}ek+wkkjv.tzouhe 頭上
@@ -5324,6 +5335,7 @@
 {0}du+du+hpwiefef.lieliemuu 莉莉姆
 {0}du+kflef.liekeu 莉可
 {0}dg 看
+{0}dg+hs+uw+jswliizol.yyuxuuojitpi 允许粘贴
 {0}dg+vfrdl.xsidie 兄弟
 {0}dg+wlszi.yyuxuu 允許
 {0}dg+oot.xiihou 熄火
@@ -5890,6 +5902,7 @@
 {0}ko+kphw.hdoyce 还要
 {0}ko+kgpm.lkohxe 灵画
 {0}ko+kidgim.lkohyo 灵魂
+{0}ko+kdyow.hdoyro 还原
 {0}ko+fifiw.hdodoi 还多
 {0}ks 次
 {0}ks+bc,yh+vd+cykhcduiuekr.wwoteegfisiitju 维特根斯坦
@@ -5983,7 +5996,9 @@
 {0}ki.xblmzhmj.bmijio 编辑
 {0}ki.xitrx.oletde 状态
 {0}ki.mznfmj.pmequu 骗取
+{0}ki.mkiczc.uiewui 室屋
 {0}ki.zjhiohz.xmesou 线索
+{0}ki.wkhz.xmeuhe 线上
 {0}ki.scjgvmc.wuilbe 屋賃
 {0}ki.lkhmmc.wuihce 屋号
 {0}ki.ittrx.oletde 状態
@@ -6239,6 +6254,7 @@
 {0}ka+sikjvu.bfulku 本領
 {0}ka+ly+ey+itkssux.tsooiemoouie 仝智模式
 {0}ka+ebjgw.uheoea 上着
+{0}ka+iifr.yiilho 一郎
 {0}ka+ijttu.bfungo 本能
 {0}ka+ij+tdbkmgg.yiiljuxke 一覧性
 {0}ka+dqdu.bfuufi 本身
@@ -6782,6 +6798,7 @@
 {0}jl+ya+efsxd.xleriekvo 向日葵
 {0}jl+xt+xa+uttykmnfwkw.xxowuewfokdu 霞鹜文楷
 {0}jl+xld.xleyze 向右
+{0}jl+ub+or+eisudokjipr.xlejkiufoyce 向精神薬
 {0}jl+usxlob.ohuoii 掌椥
 {0}jl+hfud.xlehcu 向好
 {0}jl+wvjlodl.ykouhi 営商
@@ -6811,14 +6828,17 @@
 {0}je+uknkzz.njojio 南極
 {0}je+ufnkzz.njojio 南極
 {0}je+ufdnzz.njojio 南极
+{0}je+uf+zllzzui.njomgegsi 南梦宫
 {0}je+hofksd.xteyro 血縁
 {0}je+va+udndf.xtexnubju 血小板
 {0}je+wlozz.njojki 南京
 {0}je+wdmzz.njofhi 南方
 {0}je+oscd.xteqte 血雀
 {0}je+sk+xkwkduc.xteurioge 血栓症
+{0}je+sk+oa+iyhddkfk.xtexkobuello 血行不良
 {0}je+ecxzz.njomwu 南美
 {0}je+eekhfvg.ghipko 鋼瓶
+{0}je+dskkfd.xtexko 血行
 {0}je+kn.klzzuk.njojiouio 南極石
 {0}je+krrkzz.njoyae 南亜
 {0}je+kcsifvg.ghiqbo 鋼琴
