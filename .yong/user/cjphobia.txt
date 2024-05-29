@@ -24,6 +24,7 @@
 {0}bx,lkizz.uiojme 実践
 {0}bx,kcjggz.uioxme 実現
 {0}bx,klfhkdi.izomau 筹码
+{0}bt,nwigddd.wuelqo 物流
 {0}bt,cp+dytidddkc.wueliudea 物理的
 {0}bt,ze+jxxdddmx.wuelmowhu 物联网
 {0}bt,wlkklddd.wueyuu 物語
@@ -476,7 +477,6 @@
 {0}yd+dskkfg.mmuqmi 免签
 {0}yd+fygc.ugisee 声色
 {0}yd+frskufg.mmuiuo 免除
-{0}yk 旦
 {1}yk 星
 {0}ykj+i 曇
 {0}yk+ykwss.djeuie 但是
@@ -849,6 +849,7 @@
 {0}xl+csplw.lbesee 吝嗇
 {0}xl+wedgs.oiidce 知道
 {0}xl+ed,ffswg.oiidcelea 知道了
+{0}xl+ijtts.oiingo 知能
 {0}xl+dups.oiifji 知番
 {0}xl+fils.oiimko 知名
 {0}xi 太
@@ -1002,6 +1003,7 @@
 {0}xa+dgjs.daezje 大赞
 {0}xa+dhioe.grixie 关系
 {0}xa+dlkrj.daeuii 大師
+{0}xa+desds.daeose 大衆
 {0}xa+di+ydbkkxyh.tmilhoxki 天狼星
 {0}xa+krkk.tmigsi 天工
 {0}xa+kue.griyuo 关于
@@ -2395,6 +2397,7 @@
 {0}cj+zxkhmk.zdekcu 再考
 {0}cj+zwxkdg.xmeuio 现实
 {0}cj+zjsosgg.griiao 観察
+{0}cj+vsgv.lbejbi 賃金
 {0}cj+vkgg.xmejbi 現金
 {0}cj+wx+ea+psrrkdgzt.xmeuiouiejpe 现实世界
 {0}cj+wlosgg.gridmu 観点
@@ -2527,6 +2530,7 @@
 {0}mz+od+plynhnw.zveosihvo 最終回
 {0}mz+od+wldzlynhnw.zveosihxe 最終話
 {0}mz+od+weyzynhnw.zveosiohi 最終章
+{0}mz+sdtkyn.zvedii 最低
 {0}mz+sdhiyn.zvedii 最低
 {0}mz+lj+ziwdhynwl.zvegcicdo 最高裁
 {0}mz+evjyn.zveqii 最期
@@ -2644,6 +2648,7 @@
 {0}md+lzr.iuiyee 初叶
 {0}md+ldkrr.iuitki 初听
 {0}md+eyxmbl.ocimue 招募
+{0}md+ey+ua+uerwz.iuiybiwweldo 初音未来
 {0}md+emrv.ffijpo 分节
 {0}md+evjr.iuiqii 初期
 {0}md+eidmdkr.souzhi 所蔵
@@ -2763,6 +2768,7 @@
 {0}zx+prdyoom.kcuyai 烤鴨
 {0}zx+zxyey.oueoeu 著者
 {0}zx+wedgzf.gvudce 軌道
+{0}zx+sm+usxceys.ouezoeqro 著作権
 {0}zx+ssmey.ouezoe 著作
 {0}zx+siftcfi.oionme 執念
 {0}zx+sfifxy.ueiiiu 奢侈
@@ -4166,6 +4172,7 @@
 {0}sa+pcfiff.jquyeu 久野
 {0}sa+yfy.rfojmi 人間
 {0}sa+ri+zyfrsm.rfomfadzi 人们都
+{0}sa+rk+xl+ijttks.rfogsioiingo 人工知能
 {0}sa+rk+ly+ijttks.rfogsioiengo 人工智能
 {0}sa+rk+kk.wlkklkwl.rfogsiyjoyuu 人工言語
 {0}sa+udnl.rfogeo 人格
@@ -4465,11 +4472,13 @@
 {0}lk+vx+dmdkrkezf.yjojqisou 研究所
 {0}lk+vx+frzkgkezf.yjojqiyre 研究院
 {0}lk+wxzjs.veotzo 额头
+{0}lk+wlskjwoz.pkolye 評論
 {0}lk+wlfxkmc.ugedje 聖誕
 {0}lk+ojfuwkl.yuuxto 語学
 {0}lk+sdbkrx.ykejme 硬件
 {0}lk+skrpwoz.pkosie 評価
 {0}lk+sfxwkl.yuuqie 語気
+{0}lk+ls+zkmswozwkj.pkolyejxi 評論家
 {0}lk+lf+howdmwklwr.yuubuefhu 語部紡
 {0}lk+ihxnke.yjofai 研发
 {0}lk+ihszi.hoexuu 或许
@@ -5065,6 +5074,7 @@
 {0}iw+ksjgvf.wdezii 外資
 {0}iw+fxdwkf.wdeyjo 外延
 {0}iw+jgdgf.wdejme 外見
+{0}io+nzzjc.reeico 熱潮
 {0}io+tbkjc.reeqko 熱情
 {0}io+mdxnm.yyefae 熨髪
 {0}io+wloc.reedmu 熱点
@@ -5103,6 +5113,7 @@
 {0}il+hodnwh.uiuosi 始終
 {0}il+cidmf.mkoigo 名城
 {0}il+zfuf.mkozie 名字
+{0}il+wlmsf.mkoyie 名訳
 {0}il+wlmklf.mkocio 名詞
 {0}il+la+mkicfz.mkoguuwui 名古屋
 {0}il+la+ki.wrjfzmc.mkoguuwuiuie 名古屋市
@@ -5336,6 +5347,7 @@
 {0}dn+uhiizl.keejii 客機
 {0}dn+um.fhzllpwi.tuouuigru 图书馆
 {0}dn+ukc.bjubfu 坂本
+{0}dn+gt,stsu.fjuxluhxe 仮想化
 {0}dn+hosjul.geonae 格納
 {0}dn+zkwss.fjudke 仮定
 {0}dn+wtpju.piofui 皮膚
@@ -5640,6 +5652,7 @@
 {0}df+exu.jiigri 机关
 {0}df+ihdkwbn.tzosue 投诉
 {0}df+dqdbn.tzoufi 投身
+{0}df+duwljbn.tzogcu 投稿
 {0}df+dskkfnn.mwoxko 没行
 {0}df+ds+urksxfoxfx.miohzotco 猕猴桃
 {0}df+dk+kcrfnnlr.mwotkidce 没听到
@@ -5719,6 +5732,7 @@
 {0}ky+xrjzk.xribue 宣布
 {0}ky+wkklzk.xriyjo 宣言
 {0}ky+sbfizk.xriiro 宣传
+{0}ky+skkizk.xriyyo 宣伝
 {0}ky+skfftk.hgolie 恒例
 {0}kn.bkjly.taeqki 踏青
 {0}kn.twmgi.bkidcu 冰岛
@@ -6351,6 +6365,7 @@
 {0}ka+swew.uhewwe 上位
 {0}ka+slys.tsooie 仝智
 {0}ka+sikjvu.bfulku 本領
+{0}ka+sfxu.bfuqie 本気
 {0}ka+ly+ey+itkssux.tsooiemoouie 仝智模式
 {0}ka+ebjgw.uheoea 上着
 {0}ka+iifr.yiilho 一郎
@@ -6876,6 +6891,7 @@
 {0}jv+js+llixlbunf.tjeceeqie 探测器
 {0}jw+cymkc.tjitai 坍塌
 {0}job+o 騰
+{0}jo+pa+lexen.tgotmoxne 藤田咲
 {0}js+pkciwx.diogoo 敵国
 {0}js+xrjex.sjebue 散布
 {0}js+rj+pwxexx.sjebuetuo 散布図
@@ -6948,6 +6964,7 @@
 {0}je+krrkzz.njoyae 南亜
 {0}je+kcsifvg.ghiqbo 鋼琴
 {0}je+kciznd.xteqqo 血球
+{0}ji+ejvzx.xmedmu 献典
 {0}jdf 冗
 {0}jd+poixng.ifomoe 沉默
 {0}jd+ncing.grifau 观法
