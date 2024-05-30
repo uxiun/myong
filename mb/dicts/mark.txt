@@ -46,6 +46,7 @@
 ,lw $SPACE
 ,ls …$SPACE
 ,lz ：$SPACE
+,o *$SPACE
 
 
 ,a ー$SPACE
@@ -54,12 +55,12 @@
 ,lq ―$SPACE
 
 .b .$SPACE
-.y \t$SPACE
+.y $HOME$SPACE
 .p $END$SPACE
 .a =$SPACE
 .e ．$SPACE
 
-.x $DELETE
+.x $BACK
 .n $_$_$SPACE
 .v $LAST$SPACE
 .m 　$SPACE
@@ -110,10 +111,12 @@
 .sm ↕$SPACE
 .sn ◯$SPACE
 .sv □$SPACE
-
+.sx ✕$SPACE
+.ss ♪$SPACE
 
 
 .ij ($|)$SPACE
+.io (^$|)$SPACE
 .il {$|}$SPACE
 .iu <$|>$SPACE
 .oj ($SPACE
