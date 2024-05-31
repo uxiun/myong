@@ -327,6 +327,7 @@
 {0}pz+xdrkio.djiduo 単独
 {0}pz+ra+sss.mwugeerfo 毎个人
 {0}pz+hotgo.djiiyo 単純
+{0}pz+mkdytv.grexio 慣習
 {0}pz+zzkgjz.ieille 車輌
 {0}pz+wjcls.mwuozi 毎週
 {0}pz+sbs.mwunmo 毎年
@@ -341,6 +342,7 @@
 {0}pz+dnudl.geetno 箇条
 {0}pz+ko.djiyii 単一
 {0}pz+kkgo.djiyro 単元
+{0}po+fuf.yuozia 魚子
 {0}psr+r 界
 {0}ps+kpivnkm.cuesri 酢酸
 {0}pee 囲
@@ -1353,6 +1355,7 @@
 {0}rs+dzdfnfrr.jpidre 阶段
 {0}rs+dssynsd.xqifue 修復
 {0}rs+kcpcsd.xqiliu 修理
+{0}rs+kcrfhx.uzidce 收到
 {0}rs+kwrksd.xqioge 修正
 {0}rs+kfrff.dvelpe 队列
 {0}rs+fffku.iuolea 除了
@@ -1585,6 +1588,7 @@
 {0}ur+mgdf.liejiu 利己
 {0}ur+wmssxd.osuzuo 种族
 {0}ur+wiszdf.lielve 利率
+{0}ur+ouxd.osulwe 种类
 {0}ur+studf.lietai 利他
 {0}ur+evjedf.lieyie 利益
 {0}ur+ienw.suedue 速度
@@ -1940,6 +1944,7 @@
 {0}gj+zxyk.lluoeu 両者
 {0}gj+wujggk.lluqbi 両親
 {0}gj+wdmk.llufhi 両方
+{0}gj+sk.llurfo 両人
 {0}gj+sjvfk.llucee 両側
 {0}gj+db,jjtnktk.lluxkevde 両性愛
 {0}gj+jgzujjn.vdemwe 瞹眛
@@ -2144,6 +2149,7 @@
 {0}hi+fxrbbs.niujme 拟建
 {0}hi+fkskkitk.uieyje 试验
 {0}hd+przjkifn.ueeoie 设置
+{0}hd+pudfn.fjetro 饭团
 {0}hd+wmstuifn.ueeuii 设施
 {0}hd+ihxnium.yzefai 诱发
 {0}hd+ihzifn.ueejie 设计
@@ -3096,6 +3102,7 @@
 {0}vd+dqdwn.bmeufi 変身
 {0}vd+dn+ia+zldgekrnls.siiloefaokee 斯洛伐克
 {0}vd+dcxmwn.bmedse 変動
+{0}vd+dsivfigi.moouue 魔術
 {0}vd+krpxwn.bmegge 変更
 {0}vd+kcigi.moowho 魔王
 {0}vd+jd+bx,hobkvjncgz.fjemdeuiojii 販売実績
@@ -3309,6 +3316,7 @@
 {0}wm+dsykijk.xpudeo 写得
 {0}wm+dskkfwu.yzoxko 遊行
 {0}wm+kckkgnu.yzowjo 游玩
+{0}wm+jkkvwu.yzojue 遊具
 {0}wm+jk+scujkzv.xpuofijio 写真集
 {0}wz,bwehvz.lmejpi 鏈接
 {0}wz,weybz.pbiybi 拼音
@@ -3520,6 +3528,7 @@
 {0}oh+oj+fs+lkdnlhiohcli.siiizooiilue 絲綢之路
 {0}oh+ffbshou.jieigo 継承
 {0}oc+puhl.jpogou 結果
+{0}oc+po+fufcf.gviyuozia 鮭魚子
 {0}oc+mxi.ueequi 社区
 {0}oc+mkhi.ueeohu 社長
 {0}oc+wm+hmbrhsprkk.seefwunae 繬翡娜
@@ -4130,11 +4139,13 @@
 {0}sk+vfknfle.dgilue 登録
 {0}sk+wczy.sueouu 宿主
 {0}sk+wskudwk.ogituo 征途
+{0}sk+wluius.jmutcu 検討
 {0}sk+wlsddus.jmuofu 検診
 {0}sk+wlkwkus.jmuoge 検証
 {0}sk+wfijwu.tuotsi 途通
 {0}sk+ofxt.faihou 発火
 {0}sk+sklrzy.suemke 宿命
+{0}sk+lu+ruswi.jmutcuosi 検討中
 {0}sk+ldkrsf.tzitki 偷听
 {0}sk+exmvll.haisui 哈苏
 {0}sk+evdkf.xkoyee 行业
@@ -4377,6 +4388,7 @@
 {0}lo.za+klkubl.lboyeeuio 磷叶石
 {0}lo.wldzlwo.tjohxe 談話
 {0}lo.ow.dmuhou 点火
+{0}lo.ecdbiwo.tjoyie 談義
 {0}lo.khkjsy.ocegue 照顾
 {0}lo.jg+uhiiyu.ocexlijii 照相機
 {0}lsk+l 哈
@@ -4405,6 +4417,7 @@
 {0}ls+slukjc.qtebcu 確保
 {0}ls+ey+shiszxwt.gueyieuie 故意似
 {0}ls+evfswm.oaeqii 詐欺
+{0}ls+dx,bkhiowcnmn.luifaesue 謢髪素
 {0}ls+kcpcwkj.lyeliu 論理
 {0}ls+kflwz.xuukeu 許可
 {0}ls+frwezzx.gueohe 故障
@@ -5372,7 +5385,6 @@
 {0}dy+fuko.yrozia 原子
 {0}dy+fopcvj.jbuliu 錦鯉
 {0}dy+jvrfko.yrozeo 原則
-{0}dnw 冬
 {0}dn+bkjw.fjuqki 返青
 {0}dn+plw.fjuhvo 返回
 {0}dn+yfkeiul.geodze 格闘
@@ -5514,6 +5526,7 @@
 {0}dc+epwg.xruqui 选曲
 {0}dc+idmwl.zceigo 造成
 {0}dc+dnxms.rfewue 任务
+{0}dc+dx,wrrfngmn.xiufaejie 洗髪剤
 {0}dc+kedddwl.zcexko 造形
 {0}dc+kfcwl.zcexko 造型
 {0}dc+fddnms.rfewue 任務
@@ -5626,6 +5639,7 @@
 {0}dd,lllwbk.ijupbu 産品
 {0}dd,eveuwbk.ijuyee 産業
 {0}dd,dbknh.pdeugi 派生
+{0}dd,fuxlj.uiizia 獅子
 {0}dd,jf+zlrlwbkou.ijuxtogri 産学官
 {0}dk 生
 {0}dkj 깅
@@ -6121,6 +6135,7 @@
 {0}kl+evj.tsoyee 同业
 {0}kl+ixj.tsoyie 同义
 {0}kl+iltj.tsogju 同感
+{0}kl+il+sj+jvrfsrfbgg.mkemkogvizeo 命名規則
 {0}kl+idms.heoigo 合成
 {0}kl+dbjgd.hzekje 后看
 {0}kl+db,jjtnjtk.tsoxkevde 同性愛
@@ -6463,6 +6478,7 @@
 {0}fx+rf,vd+dcxmssxwn.qiehzebmedse 気候変動
 {0}fx+vmds.qieffi 気分
 {0}fx+wlmklvb.jmecio 鍵詞
+{0}fx+wlkklvb.jmeyuu 鍵語
 {0}fx+sy+wcrdki.jludeoouu 奖得主
 {0}fx+srfxs.qiehze 気候
 {0}fx+szjkvb.jmeoio 鍵值
@@ -6527,6 +6543,7 @@
 {0}fu+emrz.ziejpo 字节
 {0}fu+iknu.liubki 李冰
 {0}fu+dbjgh.hcukje 好看
+{0}fu+dnwh.hcuiue 好处
 {0}fu+durz.zieosu 字种
 {0}fu+dsuiz.ziefuo 字符
 {0}fu+kpmrz.ziemme 字面
@@ -6588,6 +6605,7 @@
 {0}fl+hisk.keuyiu 可以
 {0}fl+mkicy.wfewui 問屋
 {0}fl+wvdnk.keubme 可変
+{0}fl+wlgvk.keuxru 可選
 {0}fl+oj+stkigg.keuuiehxe 可視化
 {0}fl+iojggk.keuuie 可視
 {0}fl+ijttk.keungo 可能
@@ -6618,6 +6636,7 @@
 {0}fi+oubkjb.orijki 专精
 {0}fi+ojlrjwj.tsiiho 通常
 {0}fi+swklwj.tsixbe 通信
+{0}fi+skukz.cjoyuo 残余
 {0}fi+lkdnlwj.tsilue 通路
 {0}fi+ezlxj.tsekuu 痛苦
 {0}fi+evb.oriyee 专业
@@ -6999,6 +7018,7 @@
 {0}je+ufnkzz.njojio 南極
 {0}je+ufdnzz.njojio 南极
 {0}je+uf+zllzzui.njomgegsi 南梦宫
+{0}je+howigd.xtetsu 血統
 {0}je+hofksd.xteyro 血縁
 {0}je+va+udndf.xtexnubju 血小板
 {0}je+wlozz.njojki 南京
@@ -7033,6 +7053,7 @@
 {0}jk+nwvhbg.ycogyu 揺滾
 {0}jk+rpzv.ofiyzo 真由
 {0}jk+rjxzv.ofiyhi 真央
+{0}jk+uvfdkki.yyotii 雲梯
 {0}jk+gp+stkkvk.lkohxehxe 霊画化
 {0}jk+hhokkh.ofezdi 震災
 {0}jk+hodynzk.oioxme 直線
@@ -7156,6 +7177,7 @@
 {0}ja+ieny.mkodue 明度
 {0}ja+iijy.mkolhu 明朗
 {0}ja+ififx.yzuxue 有序
+{0}ja+ia+fuyx.mkotdezia 明太子
 {0}ja+dyy.mkobdo 明白
 {0}ja+durfx.yzulie 有利
 {0}ja+duwzs.nwekei 内科
@@ -7172,8 +7194,6 @@
 {0}ja+frcvcs.nwelue 内陸
 {0}ja+fs+cx+dryiie.yteoiimwutue 月之美兎
 {0}ja+filx.yzumko 有名
-{-}.sx ✕
-{-}.ss ♪
 {0}.sa ――
 {0}auu ǔ
 {0}auo ǒ
