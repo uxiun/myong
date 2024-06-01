@@ -30,6 +30,7 @@
 {0}bt,cp+dytidddkc.wueliudea 物理的
 {0}bt,ze+jxxdddmx.wuelmowhu 物联网
 {0}bt,wlkklddd.wueyuu 物語
+{0}bt,sfysddd.wuexle 物像
 {0}bt,isjgvddd.wuezii 物資
 {0}bt,drjgvddd.wueoie 物質
 {0}bt,durddd.wueosu 物种
@@ -249,6 +250,7 @@
 {0}px+esto.yjihxi 烟花
 {0}pr+ya+wlmgef.mgeriejie 夢日記
 {0}pr+nscwj.yuenjo 遇难
+{0}pr+ugtef.mgexlu 夢想
 {0}pr+cf,ia+ifsnzpiff.zeoyeuhsooii 澤野弘之
 {0}pr+wsb.yaiyui 押込
 {0}pr+wsr.ufiyui 申込
@@ -317,6 +319,7 @@
 {0}pm+ihnbdkk.fjiyie 翻译
 {0}pm+dnpkg.pwebwe 配备
 {0}pm+dubkvkr.mmejii 面積
+{0}pm+djlkr.mmexle 面向
 {0}pm+kfrfkg.pwelpe 配列
 {0}pz+bgv.djijii 单击
 {0}pz+ba+ky+skffsstk.mwunmohgolie 毎年恒例
@@ -342,6 +345,7 @@
 {0}pz+dnudl.geetno 箇条
 {0}pz+ko.djiyii 単一
 {0}pz+kkgo.djiyro 単元
+{0}pz+fuo.djizia 単子
 {0}po+fuf.yuozia 魚子
 {0}psr+r 界
 {0}ps+kpivnkm.cuesri 酢酸
@@ -885,6 +889,7 @@
 {0}xk+zhuzhm.kcuvje 考案
 {0}xk+zlzhm.kcuguu 考古
 {0}xk+zjsozhm.kcuiao 考察
+{0}xk+wxrruwk.oguqio 整齐
 {0}xk+wtptzhm.kculve 考慮
 {0}xk+wttzhm.kculve 考虑
 {0}xk+wlkklojv.lweyuu 類語
@@ -894,6 +899,7 @@
 {0}xk+sruwk.ogugee 整个
 {0}xk+sukuwk.ogutiu 整体
 {0}xk+shisojv.lweuie 類似
+{0}xk+sedjuwk.ogubwe 整備
 {0}xk+skluwk.oguheo 整合
 {0}xk+lmrfojv.lwebpo 類別
 {0}xk+la+frszhmz.kcuguudve 考古队
@@ -1257,6 +1263,7 @@
 {0}rn+bizjw.ddubuu 逮捕
 {0}rn+hosjh.uzinae 収納
 {0}rn+mdbgh.uziwwu 収尾
+{0}rn+scuh.uzijio 収集
 {0}rn+sdh.uzirue 収入
 {0}rx+kvpfe.ujuxii 陕西
 {0}rt,mvpyfty.jpicgo 階層
@@ -1348,6 +1355,7 @@
 {0}rs+zveehfii.ybinho 陰嚢
 {0}rs+wdkrfui.fuejbe 附近
 {0}rs+wktfku.iuociu 除此
+{0}rs+scuhx.uzijio 收集
 {0}rs+sisrjsd.xqiuie 修飾
 {0}rs+efskfii.ybijki 陰茎
 {0}rs+dbuyfku.iuojio 除籍
@@ -1474,6 +1482,7 @@
 {0}rj+cykdw.uieihu 市場
 {0}rj+cfmdw.uieihu 市场
 {0}rj+mmlx.buejuo 布局
+{0}rj+zfuex.ykizie 英字
 {0}rj+wxex.ykiwfo 英文
 {0}rj+wrkfk.zuuoiu 阻止
 {0}rj+wsng.ufuyui 沈込
@@ -1488,6 +1497,7 @@
 {0}rj+dbtddpgv.mduwue 買物
 {0}rj+dbgfmt.ybumco 隠毛
 {0}rj+duifmt.ybusii 隠私
+{0}rj+dduiyx.ykeuee 映射
 {0}rj+kp+ul+hs+ykpcdgvycdox.oielleheouuelle 質量和数量
 {0}rj+kgpyx.ykehxe 映画
 {0}rj+klykifk.zuuvde 阻碍
@@ -1579,6 +1589,7 @@
 {0}ux+wlecin.jtoyie 決議
 {0}ux+isut.kkelee 快楽
 {0}ux+dhut.kkelee 快乐
+{0}ux+kfco.lwexko 类型
 {0}ut 想
 {0}ut+mtd.xiinio 悉尼
 {0}ut+ztdgdd.miemie 秘密
@@ -1943,6 +1954,7 @@
 {0}gj+gz+tdbkjjnju.vdemwexke 瞹眛性
 {0}gj+zxyk.lluoeu 両者
 {0}gj+wujggk.lluqbi 両親
+{0}gj+wek.llulie 両立
 {0}gj+wdmk.llufhi 両方
 {0}gj+sk.llurfo 両人
 {0}gj+sjvfk.llucee 両側
@@ -2084,6 +2096,7 @@
 {0}hs+ykpcox.uuelle 数量
 {0}hs+ya+sweloxk.uuebdubwe 数百倍
 {0}hs+xfox.uuejqu 数九
+{0}hs+hojkox.uuezuu 数組
 {0}hs+ckkiit.lyetjo 论坛
 {0}hs+mz+ixboxbl.uuejuekue 数据库
 {0}hs+mz+izpzoxbl.uuejuekue 数据庫
@@ -2148,6 +2161,7 @@
 {0}hi+kjkkvgi.yzilko 幽霊
 {0}hi+fxrbbs.niujme 拟建
 {0}hi+fkskkitk.uieyje 试验
+{0}hi+jk+kfcgikkv.yzilkoxko 幽霊型
 {0}hd+przjkifn.ueeoie 设置
 {0}hd+pudfn.fjetro 饭团
 {0}hd+wmstuifn.ueeuii 设施
@@ -3419,6 +3433,7 @@
 {0}wdk+js 频
 {0}wd+pi+ta+sm+jbbfkvnss.khesrihxezoeyse 抗酸化作用
 {0}wd+xrfush.yiicyo 依存
+{0}wd+rf,kfcshxu.yiicyoxko 依存型
 {0}wd+urkjvsh.yiilde 依頼
 {0}wd+cx+jk+zzjbfebn.khemwuyroico 抗美援朝
 {0}wd+zjkvsm.fhuofi 仿真
@@ -3633,6 +3648,7 @@
 {0}od+sfysydd.ykuxle 影像
 {0}od+ed,lz+kgphynkddw.xmexkojiehxe 線形計画
 {0}od+ed,it+ohsxhynkdds.xmexkoddeuue 線形代数
+{0}od+ed,kfchynkdd.xmexkoxko 線形型
 {0}od+dbcuin.uaitee 沙特
 {0}od+kwrohnw.osiyji 終焉
 {0}od+kedddhyn.xmexko 線形
@@ -4036,6 +4052,7 @@
 {0}ss 从
 {0}sst 伦
 {0}ssr+f 剣
+{0}ss,nsckj.llunjo 两难
 {0}ss,xm+dy+ka+iyhdkrslkon.yuegaiyrojlillo 御伽原江良
 {0}ss,tlgs.osebci 众包
 {0}ss,rj+puiicx.zoebuetro 座布団
@@ -4589,6 +4606,7 @@
 {0}lj+weywl.gciybi 高音
 {0}lj+wdfwl.gcikhe 高亢
 {0}lj+stdbswl.gcitpu 高铁
+{0}lj+swlfwcl.dnetko 調停
 {0}lj+sdhiwl.gcidii 高低
 {0}lj+ekezws.hcohxo 豪華
 {0}lj+izvvz.huomao 胡麻
@@ -4608,6 +4626,7 @@
 {0}lj+kkfswl.gcicie 高次
 {0}lj+kkjjtwl.gcilie 高麗
 {0}lj+fjcps.yrojnu 圆角
+{0}lj+fjmdbwcl.dnejpu 調解
 {0}lj+jbwcl.dneyse 調用
 {0}lj+jobowl.gcitgo 高騰
 {0}la+prwyz.kzuoce 口罩
@@ -4670,7 +4689,7 @@
 {0}eq+xf+shvtis.xmoyiorfo 嫌疑人
 {0}eq+txfishv.xmoyio 嫌疑
 {0}eq+kkthv.xmovee 嫌悪
-{2}epr+f 夢
+{1}epr+f 夢
 {0}ep+pa+ja+nilwcy.tsotmomkooie 童田明治
 {0}ep+yk+epuiwgj.lsodjuzyi 竜胆尊
 {0}ep+txfiswy.zciyio 遭疑
@@ -5034,6 +5053,7 @@
 {0}it+ohsxs.ddeuue 代数
 {0}it+oa+swcmk.rfubueoue 忍不住
 {0}it+siftj.xronme 悬念
+{0}it+sds.dderue 代入
 {0}it+skrps.ddesie 代価
 {0}it+kh+pudsb.ddebnutro 代表团
 {0}it+kcpcs.ddeliu 代理
@@ -5231,6 +5251,7 @@
 {0}if+uknkfi.doijio 多極
 {0}if+hwvhsi.lkenlo 令嬢
 {0}if+hotkff.yuuyti 予約
+{0}if+hoscfi.doiwwo 多維
 {0}if+ctufi.doidie 多地
 {0}if+mvpyfi.doicgo 多層
 {0}if+md+kedddfiw.doibmixko 多辺形
@@ -5292,6 +5313,7 @@
 {0}ia+mehb.koeoju 扩展
 {0}ia+mklv.gsisii 公司
 {0}ia+zvkx.tdeksi 太空
+{0}ia+zfux.tdezie 太字
 {0}ia+va+jvudve.gsigsecdo 公共財
 {0}ia+wuic.quegoe 去过
 {0}ia+wvxv.gsijni 公交
@@ -5437,6 +5459,7 @@
 {0}dt+bwdfbk.diukhe 抵抗
 {0}dt+ndzlhy.hyihoo 婚活
 {0}dt+hotkhy.hyiyti 婚約
+{0}dt+mvpysk.diicgo 低層
 {0}dt+wvdnji.bcebme 豹変
 {0}dt+sjsxl.gzurze 狗肉
 {0}dt+ey+lkhmskw.diiybihce 低音号
@@ -6002,6 +6025,7 @@
 {0}km+ojlrjrw.fwiiho 非常
 {0}km+sykrw.fwidje 非但
 {0}km+scjgvzs.jxilbe 家賃
+{0}km+sc+rixrwb.fwitvijlu 非推奨
 {0}km+szs.jxirfo 家人
 {0}km+sjsjs.tyorze 豚肉
 {0}km+ifxczs.jxitko 家庭
@@ -6507,6 +6531,7 @@
 {0}fr 引
 {0}frw+xj 随
 {0}frs+ks 険
+{0}fr+bkhkf.lpebnu 列表
 {0}fr+ba+kk.sk+pdnwkfxwidkf.lpeieiyyexkotuo 列车运行图
 {0}fr+xbkf.lpeiei 列车
 {0}fr+rj+ur+fifinxdf.dgebueliedoi 邓布利多
@@ -6577,6 +6602,7 @@
 {0}fs+pkcii.oiigoo 之国
 {0}fs+nzue.igooii 橙汁
 {0}fs+nidokik.jmimpe 殲滅
+{0}fs+xrfuit.fwecyo 廃存
 {0}fs+xd,su+wlfrlbxi.ivizzeleebue 吹奏楽部
 {0}fs+xd,isulbx.ivizzelee 吹奏楽
 {0}fs+xk+su+wlfrlbxi.ivizzeleebue 吹奏楽部
@@ -6585,6 +6611,7 @@
 {0}fs+md+hisidkr.oiisouyiu 之所以
 {0}fs+wrkit.fweoiu 廃止
 {0}fs+wdhrn.hriyko 欢迎
+{0}fs+ouwzit.fwelne 廃料
 {0}fs+okgy.ujugli 閃光
 {0}fs+sji.oiinwe 之内
 {0}fs+ldjll.ivixlu 吹响
@@ -6785,6 +6812,7 @@
 {0}jt+fu+zxyjnh.vdehcuoeu 愛好者
 {0}jr+byksef.qmotio 前提
 {0}jr+bfki.iueuzu 触手
+{0}jr+przjkef.qmooie 前置
 {0}jr+pkciwj.diegoo 帝国
 {0}jr+ywloef.qmojku 前景
 {0}jr+yef.qmorie 前日
@@ -7146,6 +7174,7 @@
 {0}ja+xnj.pgoyzu 朋友
 {0}ja+xx,stxwm.yzuxnehxe 有効化
 {0}ja+xx,dm+vmdxwmi.yzuxneigoffi 有効成分
+{0}ja+xrfus.nwecyo 内存
 {0}ja+tbkjx.yzuqko 有情
 {0}ja+tlgs.nwebci 内包
 {0}ja+tk+sxwk.yzuxpirfo 有些人
