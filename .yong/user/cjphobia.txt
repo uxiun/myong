@@ -95,6 +95,7 @@
 {0}bs,da+ncixkfs.uuiruefau 输入法
 {0}bs,jvsxd.uiibde 失敗
 {0}bs,jilxt.lyotdi 轮胎
+{0}bi 找
 {0}bi+srimd.woumfa 我们
 {0}bdt 托
 {0}bdz+r 挿
@@ -471,6 +472,7 @@
 {0}yz 早
 {0}yz+zhue.ccuvje 草案
 {0}yz+duwlje.ccugcu 草稿
+{0}yz+kpmrw.ooomme 卓面
 {0}yz+kciznw.oooqqo 卓球
 {0}yz+kdyoe.ccuyro 草原
 {0}yw+gdqvdg.dcuyuu 島嶼
@@ -544,6 +546,7 @@
 {0}yj.rrpe.mgoxqe 萌袖
 {0}yj.ienne.wfidue 温度
 {0}yj.dynne.wfiqro 温泉
+{0}yj.dulne.wfiheo 温和
 {0}yj.kktkx.yjevee 厭悪
 {0}ya+pr+nwsxdni.bdooooyee 白濁液
 {0}ya+ymkc.rieyce 日曜
@@ -690,6 +693,7 @@
 {0}na+ui+zkcizs.oiifuebcu 支付宝
 {0}na+ukkon.ulibni 双标
 {0}na+hk+na+oz+xk+ihitkniklkzhm.hjeyuuuvupkokcuuie 汉语水平考试
+{0}na+hfux.yzuhcu 友好
 {0}na+zyo.uvuouu 水煮
 {0}na+znbd.fjujii 反撃
 {0}na+zn+rk+duldcdik.fjuqqogsiigo 反求工程
@@ -872,6 +876,7 @@
 {0}xw+vwecekl.jkuosi 警鐘
 {0}xw+dclekl.jkugce 警告
 {0}xo 灰
+{0}xo+il+iifrgn.tjeoielho 炭治郎
 {0}xo+dssynt.hvifue 恢復
 {0}xo+dklj.rjohze 然后
 {0}xo+ko+vfknpk.moeuielue 黙示録
@@ -2013,6 +2018,7 @@
 {0}gd+ukjg.jmebfu 見本
 {0}gd+mdbgwyo.jqewwu 鷲尾
 {0}gd+zn+pwxjgm.jmequutuo 見取図
+{0}gd+wdmjg.jmefhi 見方
 {0}gd+ojjdgjzk.uvejto 睡觉
 {0}gd+evjkn.xxeqii 夏期
 {0}gd+db,dk+ecxwyomgdjv.jqewwuxuimwu 鷲尾須美
@@ -2375,6 +2381,7 @@
 {0}cu+wlzs.jiojie 集計
 {0}cu+wloyi.uiodmu 時点
 {0}cu+weys.jioybi 集音
+{0}cu+wdumyi.uiotze 時透
 {0}cu+ojlyi.uiouhe 時尚
 {0}cu+suks.jiotiu 集体
 {0}cu+sityi.uiodde 時代
@@ -2383,6 +2390,7 @@
 {0}cu+evjyi.uioqii 時期
 {0}cu+itkdi.dguuie 等式
 {0}cu+dbtddbi.iiowue 持物
+{0}cu+du+eo+ka+iifryiwms.uiotzewuoyiilho 時透無一郎
 {0}cu+dcuidi.dgudgu 等等
 {0}cu+dscuidi.dgudde 等待
 {0}cu+djrfyi.uiooie 時制
@@ -2575,6 +2583,7 @@
 {0}ca+kphw.ouuyce 主要
 {0}ca+kpmrp.liumme 里面
 {0}ca+kixmw.ouudse 主动
+{0}ca+kkgw.ouuyro 主元
 {0}ca+fmkhw.ouuohi 主張
 {0}ca+fjcw.ouujnu 主角
 {0}mb+tdylr.naupae 哪怕
@@ -2759,6 +2768,7 @@
 {0}md+ht+dsccfvvl.pbombojpi 貧民街
 {0}md+hudkrt.qpedre 切断
 {0}md+hofdnr.iuijio 初級
+{0}md+hojkv.ffizuu 分組
 {0}md+hisdkr.souyiu 所以
 {0}md+hilr.iuiuiu 初始
 {0}md+cydr.iuiugi 初声
@@ -2776,6 +2786,7 @@
 {0}md+wgxjv.ffilio 分离
 {0}md+wlpjdkr.souwwe 所謂
 {0}md+wlfuv.ffixlu 分享
+{0}md+wjscv.ffilio 分離
 {0}md+oxkjvv.ffilwe 分類
 {0}md+ouxv.ffilwe 分类
 {0}md+stv.ffihxe 分化
@@ -3157,6 +3168,7 @@
 {0}vu+zklpjd.cdofue 財富
 {0}vh+rydgj.ykivro 嬰児
 {0}vc+pxe.jiiybi 基因
+{0}vc+yfzlg.zcemfo 竈門
 {0}vc+ncze.jiioyu 基準
 {0}vc+xbizje.jiifuu 基辅
 {0}vc+xa+hkjkep.jiiybizuu 基因组
@@ -3172,6 +3184,7 @@
 {0}vc+kue.jiiyuo 基于
 {0}vc+kluuse.jiiiuu 基礎
 {0}vc+klgge.jiiiuu 基础
+{0}vc+fa+xo+il+iifrzlgygn.zcemfotjeoielho 竈門炭治郎
 {0}vc+jl+xa+vd+ceslcrvkkleekr.heeluevdesiitau 赫露艾斯塔
 {0}vmd+e 盆
 {0}vm+nzkvbd.bjeyju 扮演
@@ -4551,6 +4564,7 @@
 {0}lw+ra+pudwdm.fhuositro 訪中团
 {0}lw+cy+sk+vfkndezrfle.ciouuidgilue 辞書登録
 {0}lw+cy+kfcdezr.ciouuixko 辞書型
+{0}lw+mr+fuwiylf.uiobpozia 識別子
 {0}lw+mzwiydez.ciooio 辞職
 {0}lw+mzlvdez.ciooio 辞职
 {0}lw+vojss.cuexni 促銷
@@ -4886,6 +4900,7 @@
 {0}ey+tk+hl+lmrfuxiiv.moouieuiobpo 模式识别
 {0}ey+tk+va+kpmguxim.moouiepiupwe 模式匹配
 {0}ey+uecnux.mooyhe 模様
+{0}ey+ueejux.moogze 模構
 {0}ey+udnux.moobju 模板
 {0}ey+hrweyw.ybixlu 音響
 {0}ey+hl+kcrfwtiv.yieuiodce 意识到
@@ -4986,6 +5001,7 @@
 {0}ev+xmyn.bcelie 暴力
 {0}ev+tdbkp.yiexke 異性
 {0}ev+rimb.gsumfo 拱门
+{0}ev+udnlkd.yjogeo 严格
 {0}ev+hoskls.gsigwu 供給
 {0}ev+cwsyn.bcezzu 暴走
 {0}ev+ca+ka+if+dszptkpzfi.yaeliuuiedoideo 亚里士多德
@@ -6433,6 +6449,7 @@
 {0}kk.ra+ka+wtkkev.qioosiyiixpi 其中一些
 {0}kk.uxkwkzg.wjoogu 完整
 {0}kk.uznk.sjioii 三枝
+{0}kk.udnlozx.yjogeo 厳格
 {0}kk.uk+skffjvs.juetiulie 具体例
 {0}kk.gxek.sjixxo 三峡
 {0}kk.howigsi.yyotsu 伝統
@@ -7199,6 +7216,7 @@
 {0}jz+ojldlwz.yyeyko 運営
 {0}jz+dcxmwz.yyedse 運動
 {0}jz+dskkfwz.yyexko 運行
+{0}jz+djgewz.yyesre 運算
 {0}jz+jl+wdmwzodl.yyeykofhi 運営方
 {0}jvs+x 敗
 {0}jvl.g 脱
@@ -7354,6 +7372,7 @@
 {0}jk+kscvzv.ofiyje 真贋
 {0}jk+jzpzbn.yrojyi 援軍
 {0}jk+jkxmbn.yrooue 援助
+{0}jf+bu+up+lkhmoudyd.xtojiofjihce 学籍番号
 {0}jf+bk+os+ui+bc,skffoudhjsdui.xtouginaefueteelie 学生納付特例
 {0}jf+pclhou.xtoyro 学園
 {0}jf+xitbmu.jketde 静态
