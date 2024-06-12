@@ -477,6 +477,8 @@
 {0}yh+fygv.ybosee 銀色
 {0}yc 量
 {0}ym.yodddbn.coiyku 撮影
+{0}ym.od+uhiibnydd.coiykujii 撮影機
+{0}ym.od+hi+ja+oj+wxxmbnydduisigg.coiykujiinweuiexne 撮影機内視効
 {0}yz 早
 {0}yz+zhue.ccuvje 草案
 {0}yz+duwlje.ccugcu 草稿
@@ -1846,6 +1848,7 @@
 {0}ud+mm.jk+du+rmywkrrzzkbp.xbiwfooioboijmi 新闻直播间
 {0}ud+mvpyhkr.drecgo 断層
 {0}ud+ml+cudnwkrx.xbijxipoi 新加坡
+{0}ud+zskywkr.xbisue 新宿
 {0}ud+zs,hodynwkrzkz.xbigjexme 新幹線
 {0}ud+zfuwkr.xbizie 新字
 {0}ud+zj+bk+ed,xmwkrdsdw.xbioieugiijulie 新质生产力
@@ -3967,6 +3970,7 @@
 {0}oj+hdbihj.ihoveo 嫦娥
 {0}oj+cin.xnique 消去
 {0}oj+mzzptigg.uietki 視聴
+{0}oj+wxxmigg.uiexne 視効
 {0}oj+wloigg.uiedmu 視点
 {0}oj+wdkjsidg.uiepbo 视频
 {0}oj+op+jtlgiggh.uiexiebci 視細胞
@@ -5547,8 +5551,6 @@
 {0}il+kcpcn.oieliu 治理
 {0}il+filck.yuemko 域名
 {0}il+jdbkf.mkouge 名胜
-{0}ie 弁
-{1}ie 戒
 {0}ie+bomkwo.oeidhu 遮挡
 {0}ie+usxcwu.qieqro 棄権
 {0}ie+cl+wljjwokmn.oeixxogci 遮瑕膏
@@ -7337,6 +7339,7 @@
 {0}jg+tl+rk+ififyngbw.mcepcepdoxue 冒泡排序
 {0}jg+tdbku.xlixke 相性
 {0}jg+rpd.zieyzo 自由
+{0}jg+ga+wc+dduidmn.ziejiuoueuee 自己注射
 {0}jg+ht+ojldgdl.ziembodhu 自民党
 {0}jg+hocjgu.xlixue 相続
 {0}jg+hi+tdbkuss.xliuiexke 相似性
