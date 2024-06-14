@@ -164,6 +164,7 @@
 {0}bk+dbtddnv.ziewue 漬物
 {0}bk+dbtddd.ugiwue 生物
 {0}bk+dqdd.ugiufi 生身
+{0}bk+dm+sj+jvrfdibgg.ugiigogvizeo 生成規則
 {0}bk+dscwsd.ugituo 生徒
 {0}bk+kud.ugiyuo 生于
 {0}bk+kfzjkd.ugioio 生殖
@@ -1091,6 +1092,7 @@
 {0}xa+dlkrj.daeuii 大師
 {0}xa+desds.daeose 大衆
 {0}xa+di+ydbkkxyh.tmilhoxki 天狼星
+{0}xa+dd,jg+pa+xa+nciwjhdrw.wfomdezieyzowfofau 文脈自由文法
 {0}xa+krkk.tmigsi 天工
 {0}xa+kue.griyuo 关于
 {0}xa+kcrfw.daodce 达到
@@ -1443,6 +1445,7 @@
 {0}ro+bwehfub.lbojpi 隣接
 {0}ro+sfub.lborfo 隣人
 {0}rs+plhx.uzihvo 收回
+{0}rs+nyevfku.iuouii 除湿
 {0}rs+rkmwfku.iuofwi 除非
 {0}rs+rfjshx.uzifwe 收费
 {0}rs+cifku.iuoque 除去
@@ -1850,6 +1853,7 @@
 {0}ud+rmmzwkr.xbiwfo 新闻
 {0}ud+rz+it+wlddiwkrfpzs.xbiofeddexpe 新陣代謝
 {0}ud+rikjdd.cduhso 彩虹
+{0}ud+rfjsbbg.hcefwe 耗费
 {0}ud+rj+bk+dd,xmwkrdgvdwbk.xbioieugiijulie 新質生産力
 {0}ud+uw+bznwkrdz.xbikeijie 新科技
 {0}ud+hs+ixmirni.bwerfewwe 被认为
@@ -2589,6 +2593,7 @@
 {0}cj+xrckgg.xmezde 現在
 {0}cj+xrckdg.xmezde 现在
 {0}cj+rrmkjk.zdegvi 再帰
+{0}cj+rm+wa+xa+jm.udkrkrkjkwfdb.zdegvixxewfojpuxii 再帰下降構文解析
 {0}cj+rm+wa+frdnbkrkjk.zdegvixxejle 再帰下降
 {0}cj+rkixkgg.xmeole 現状
 {0}cj+ur+jbkdf.zdelieyse 再利用
@@ -2596,6 +2601,7 @@
 {0}cj+uek.zdeldo 再来
 {0}cj+ctukgg.xmedie 現地
 {0}cj+cz+klscokjkklj.ujihuojni 珊瑚礁
+{0}cj+ciok.zderee 再熱
 {0}cj+cfmdkdg.xmeihu 现场
 {0}cj+cj+wiszkkgg.zdexmelve 再現率
 {0}cj+zbxkgg.xmeuio 現実
@@ -2614,6 +2620,7 @@
 {0}cj+ee,dkfukuj.zdegzeoue 再構築
 {0}cj+it+stkggs.xmeddehxe 現代化
 {0}cj+it+sk+xbkdgsnf.xmeddeqieiei 现代汽车
+{0}cj+io+rs+nyevkcfku.zdereeiuouii 再熱除湿
 {0}cj+dbkk.zdeugi 再生
 {0}cj+kczljkjk.ujihuo 珊瑚
 {0}cj+kcjggk.zdexme 再現
@@ -3921,9 +3928,11 @@
 {0}od+hrweyydd.ykuxlu 影響
 {0}od+cydhnw.osiugi 終声
 {0}od+cidmydd.ykuigo 影城
+{0}od+wegkjhnw.osidri 終端
 {0}od+sbhnw.osinmo 終年
 {0}od+skn.uaiqqi 沙丘
 {0}od+sfysydd.ykuxle 影像
+{0}od+eg+lm+lkhmhnwwkjwg.osidrijiehce 終端記号
 {0}od+ed,lz+gp+ncihynkddwk.xmexkojiehxefau 線形計画法
 {0}od+ed,lz+gp+fl+yskjvhynkddwky.xmexkojiehxewfetio 線形計画問題
 {0}od+ed,lz+kgphynkddw.xmexkojiehxe 線形計画
@@ -4262,6 +4271,7 @@
 {0}sc+rixb.tvijlu 推奨
 {0}sc+ra Scrapbox$_
 {0}sc+uxkls.zoeyiu 坐椅
+{0}sc+uizc.dvioje 堆栈
 {0}sc+uk+oj+op+jtlgvsiggh.ovitiuuiexiebci 錐体視細胞
 {0}sc+uf+dsrbbdif.tviyiolve 推移律
 {0}sc+ggb.tviiui 推出
@@ -4289,6 +4299,7 @@
 {0}sc+eiqob.tvijme 推薦
 {0}sc+iq+rkixbeo.tvijmeole 推薦状
 {0}sc+ihsn.njorfe 难认
+{0}sc+iz+hi+llixlcuui.dviojejiiqie 堆栈機器
 {0}sc+il+ua+uswjufu.ivomkolboqbo 椎名林檎
 {0}sc+il+sc+ekezufl.ivomkowwohxo 椎名唯華
 {0}sc+ienw.jbedue 進度
@@ -4589,6 +4600,7 @@
 {0}sa+ierjf.qmexio 欠席
 {0}sa+dbtdd.rfowue 人物
 {0}sa+dbk.rfougi 人生
+{0}sa+dt+cr,wljlsskkf.csodiidcegci 从低到高
 {0}sa+dur.rfoosu 人种
 {0}sa+dscwsp.qqotuo 囚徒
 {0}sa+dswcf.fwiwhu 飞往
@@ -5625,6 +5637,7 @@
 {0}id+jxbwg.isijyi 充军
 {0}id+jxxrzu.ouiwhu 蛛网
 {0}ik 让
+{0}iki 冷
 {0}ik.csjv.lkutuu 領土
 {0}ik.cilksjv.lkuyue 領域
 {0}ik.zkwsyhg.jiedke 既定
@@ -6328,6 +6341,7 @@
 {0}ku+kw+kw+kolixzsys.jtodkeuiefzu 决定是否
 {0}ku+koix.jtobue 决不
 {0}ku+fwhis.yuoxmo 余弦
+{0}kg 電
 {0}kgk+jv 頋
 {0}kgk+js 顾
 {0}kg+bzrsji.grijpo 冠捷
@@ -6465,6 +6479,7 @@
 {0}km+wrksrw.fwiyio 非遗
 {0}km+wmssxzs.jxizuo 家族
 {0}km+wjsclm.juelio 距離
+{0}km+od+eg+lm+lkhmrwhnwwkjwg.fwiosidrijiehce 非終端記号
 {0}km+ojlrjrw.fwiiho 非常
 {0}km+sykrw.fwidje 非但
 {0}km+srws.ouogee 逐个
@@ -6556,6 +6571,7 @@
 {0}ks+sfxxj.bkeqie 病気
 {0}ks+evchc.wwojii 维基
 {0}ks+eidmiii.lguzhi 冷蔵
+{0}ks+imwdmiii.lgufho 冷房
 {0}ks+isuikx.ogefuu 政府
 {0}ks+id+izpziiiem.lguzhikue 冷蔵庫
 {0}ks+dnpic.oyubwe 准备
@@ -7250,12 +7266,14 @@
 {0}jp+wvjlkg.dmeuhi 電商
 {0}jp+wldzlkg.dmehxe 電話
 {0}jp+oj+wsrfkgigg.dmeuiejue 電視劇
+{0}jp+sfxkg.dmeqie 電気
 {0}jp+ld+up+lkhmkgwzld.dmehxefjihce 電話番号
 {0}jp+ld+ds+ja+evdkrkzgkcs.lwokeeyaunwesii 雷克雅内斯
 {0}jp+ey+wlfrkgw.dmeybibue 電音部
 {0}jp+iojggkg.dmeuie 電視
 {0}jp+dcxmkg.dmedse 電動
 {0}jp+dkfrkg.dmeyzo 電郵
+{0}jp+fx+sitkgs.dmeqiedde 電気代
 {0}jp+fukg.dmezia 電子
 {0}jp+jx+vd+xa+uu.dbcuikdekrwu.lwovcesiiwfosfitee 雷奥斯文森特
 {0}jp+jx+evdkrkd.lwovcesii 雷奥斯
@@ -7452,6 +7470,7 @@
 {0}jc+fygf.jnusee 角色
 {0}jm.nuxfdb.jpujto 解決
 {0}jm.ncifdb.jpufau 解法
+{0}jm.un+llixlfdbdb.jpuuieqie 解释器
 {0}jm.udkrfdb.jpuxii 解析
 {0}jm.ma+djrfrkhi.ohehueoie 帳户制
 {0}jm.wmsxfdb.jpufhe 解放
@@ -7629,6 +7648,7 @@
 {0}jk+dubkvzk.oiojii 直積
 {0}jk+dcxmbg.ycodse 揺動
 {0}jk+dm+pwxzkw.oiofhituo 直方図
+{0}jk+dshinzk.oiohze 直後
 {0}jk+kphkjr.xuiyce 需要
 {0}jk+kgpkkv.lkohxe 霊画
 {0}jk+kgdnzv.ofixxe 真夏
