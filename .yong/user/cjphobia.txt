@@ -99,11 +99,14 @@
 {0}bs,da+ncixkfs.uuiruefau 输入法
 {0}bs,jvsxd.uiibde 失敗
 {0}bs,jilxt.lyotdi 轮胎
+{0}be,bd,zxydcidbk.xiiugioeu 犠牲者
+{0}be,dbdbkdci.xiiugi 犠牲
 {0}bi 找
 {0}bi+srimd.woumfa 我们
 {0}bdt 托
 {0}bdz+r 挿
 {0}bd,nknr.oeejli 浙江
+{0}bd,xmlzno.jpopiu 潔癖
 {0}bd,tewr.uieuie 逝世
 {0}bd,exdxxkr.ojuhoe 斩获
 {0}bd+nknr.oeejli 浙江
@@ -231,6 +234,7 @@
 {0}ba+vzkso.bjedke 半錠
 {0}ba+va+yuiof.bjexnuuio 半小时
 {0}ba+wgsiis.nmolko 年齢
+{0}ba+wldzl.uzuhxe 手話
 {0}ba+weytj.yseyie 用意
 {0}ba+sits.nmodde 年代
 {0}ba+sdbj.ysejme 用件
@@ -500,6 +504,7 @@
 {0}ye+kjlklyn.puelue 曝露
 {0}ye+fw+hiyhonkdh.bcelpenlo 爆裂娘
 {0}yi 时
+{0}yi+bxkxdr.jpozze 節奏
 {0}yi+bdzlug.gdekoe 概括
 {0}yi+pdnlug.gdelte 概略
 {0}yi+ueejug.gdegze 概構
@@ -534,6 +539,7 @@
 {0}yk+uk+oj+op+jtlguzsiggh.gjutiuuiexiebci 桿体視細胞
 {0}yk+ggbs.tioiui 提出
 {0}yk+zhubs.tiovje 提案
+{0}yk+zldgc.tjukee 坦克
 {0}yk+zl+kpwlujp.djugueiyo 胆固醇
 {0}yk+zkmsdc.hlojxi 皇家
 {0}yk+wurbs.tiosue 提速
@@ -590,6 +596,7 @@
 {0}ya+wlkkl.rieyuu 日語
 {0}ya+ojlrj.rieiho 日常
 {0}ya+sui.riefue 日付
+{0}ya+sssz.riesju 日傘
 {0}ya+sklk.bduheo 百合
 {0}ya+evje.rieyie 日益
 {0}ya+ewzz.rielmo 日蓮
@@ -628,6 +635,7 @@
 {0}nc+olixt.gkeuze 怪獣
 {0}nc+dbtddt.gkewue 怪物
 {0}nm+pbmeg.fjewwo 范围
+{0}nm+fs+kedddczi.ugioiixko 聲之形
 {0}nwc 注
 {0}nwe+g 滝
 {0}nw+uf+kk.ix+skkidduwikm.dsijieyyedsehve 冬季运动会
@@ -660,6 +668,7 @@
 {0}nl+dmdkrd.geesou 各所
 {0}nl+djgd.geezie 各自
 {0}neg+j 満
+{0}nim+x 涙
 {0}ni.ma+ouvmdeix.bcolieffu 薄力粉
 {0}ni.esuei.bcoiao 薄茶
 {0}ni.fkfikei.bcoroe 薄弱
@@ -1502,6 +1511,7 @@
 {0}rk+negjj.yromju 円満
 {0}rk+nkzzn.qbuhje 寝汗
 {0}rk+xa+nvubs.tnidaello 挑大梁
+{0}rk+xa+eprrw.pmetzoqui 片头曲
 {0}rk+ul+ojfukddc.gsiigoxto 工程学
 {0}rk+ul+dlkrjkdkc.gsiigouii 工程師
 {0}rk+ud+prfifflnn.vaiboiloo 阿波罗
@@ -1539,6 +1549,7 @@
 {0}rk+ififbw.pdoxue 排序
 {0}rk+dbtddwv.yiowue 遺物
 {0}rk+dbkfy.moeugi 陌生
+{0}rk+db,eprrmg.pmewwuqui 片尾曲
 {0}rk+dn+filrrs.pmefjumko 片仮名
 {0}rk+duldck.gsiigo 工程
 {0}rk+dulkck.gsiigo 工程
@@ -1601,6 +1612,7 @@
 {0}rj+wsng.ufuyui 沈込
 {0}rj+wlkklex.ykiyuu 英語
 {0}rj+ouwekw.yuulie 雨粒
+{0}rj+ssszkw.yuusju 雨傘
 {0}rj+sfysyx.ykexle 映像
 {0}rj+lk+pobgexwkl.ykiyuuqri 英語圏
 {0}rj+lk+jr+kc+ca+ecdbiexwklwjpiw.ykiyuudiegooouuyie 英語帝国主義
@@ -1654,12 +1666,14 @@
 {0}ra+suks.geetiu 个体
 {0}ra+ss.geerfo 个人
 {0}ra+sdf.yburue 引入
+{0}ra+exbf.ybuqko 引擎
 {0}ra+erjx.osiyki 中英
 {0}ra+ecx.osimwu 中美
 {0}ra+evj.osiqii 中期
 {0}ra+ekez.osihxo 中華
 {0}ra+ihxnf.ybufai 引发
 {0}ra+ihdumf.ybuyze 引诱
+{0}ra+dywg.osidcu 中島
 {0}ra+dimj.osipmi 中篇
 {0}ra+kc+wlkklpi.osigooyuu 中国語
 {0}ra+kc+wddbkpi.osigooiju 中国産
@@ -2063,6 +2077,7 @@
 {0}gu+frfdqsx.qtixme 缺陷
 {0}gu+fvpzli.dcudje 导弹
 {0}gg 出
+{0}gg,bdkrm.quioeo 屈折
 {0}gmg+g 崛
 {0}gm+jgjdj.ouumue 瞩目
 {0}gv+cfdfnj.bweqne 貝殻
@@ -2231,6 +2246,7 @@
 {0}hv+mr+xmilgjn.uoifuolie 说服力
 {0}hv+zrrfilg.uoiuie 说事
 {0}hv+lyyilg.uoiihe 说唱
+{0}hv+ihewgilg.uoihlu 说谎
 {0}hv+ihdzlilg.uoihxe 说话
 {0}hv+dsykiilg.uoideo 说得
 {0}hv+ka+tlilg.uoiyiijue 说一句
@@ -2271,6 +2287,7 @@
 {0}hs+kyox.uuebdu 数百
 {0}hs+kcpcox.uueliu 数理
 {0}hs+kcpcit.lyeliu 论理
+{0}hs+kktmx.gduvee 改悪
 {0}hs+fu+ui+yt+kk.hl+dsuioxznfsuoiv,ueieveleniiouo 数字对象标识符
 {0}hs+fu+om+zhuoxzuk.uueziedhevje 数字档案
 {0}hs+fu+stoxz.uueziehxe 数字化
@@ -2555,6 +2572,7 @@
 {0}ci+eyxteks.xmemue 羡慕
 {0}ci+dsrbn.faulve 法律
 {0}ci+kcpcn.fauliu 法理
+{0}ci+ka+zkmsjru.jnubfujxi 脚本家
 {0}ci+fydik.yuetue 玉兔
 {0}ci+frzkgn.fauyre 法院
 {0}cd+bljvdfn.hvusyu 毀損
@@ -3120,6 +3138,7 @@
 {0}zl+kftu.kuisiu 枯死
 {0}zl+jxop.guerjo 固然
 {0}zl+ja+szjkpx.gueyzuoio 固有值
+{0}zl+ja+il+wlmklpxf.gueyzumkocio 固有名詞
 {0}ze+bdupmx.lmoboi 联播
 {0}ze+yjjemx.lmomgo 联盟
 {0}ze+zjkkdk.ivooio 垂直
@@ -3134,6 +3153,7 @@
 {0}zi+pkcio.ojegoo 戦国
 {0}zi+yfkeio.ojedze 戦闘
 {0}zi+xno.ojeyzu 戦友
+{0}zi+zpzo.ojeiei 戦車
 {0}zi+zko.ojeuie 戦士
 {0}zi+dshino.ojehze 戦後
 {0}zi+kxmo.ojegsi 戦功
@@ -3149,6 +3169,7 @@
 {0}zk+bsczki.orutvi 転推
 {0}zk+bfjxzki.oruhre 転換
 {0}zk+nfunk.xrerju 渲染
+{0}zk+tnv.yjuxbi 演心
 {0}zk+ggnv.yjuiui 演出
 {0}zk+mkdynv.yjuxio 演習
 {0}zk+zxynv.yjuoeu 演者
@@ -3515,6 +3536,7 @@
 {0}wt 意
 {0}wte+v 虚
 {0}wt+yglj.zvubai 嘴巴
+{0}wt+czmrnr.bwibce 悲報
 {0}wt+wxls.jtotzo 噱头
 {0}wt+wsrfr.bwijue 悲劇
 {0}wt+wldhr.bwivdi 悲哀
@@ -3617,6 +3639,7 @@
 {0}ww,dskkfddf.hhoxko 航行
 {0}ww,kxddf.hhotmi 航天
 {0}wo 点
+{0}wsr+f 劇
 {0}ws,bzrssx.mbujpo 敏捷
 {0}ws,tlfifl.zuogze 足够
 {0}ws,ta+skfnxs.yeehxeqie 液化气
@@ -3682,6 +3705,7 @@
 {0}we+jjnbh.jpiuze 接受
 {0}wi 率
 {0}wi+ykpcng.lqolle 流量
+{0}wi+nkmxng.lqolwe 流涙
 {0}wi+njgng.lqolwe 流泪
 {0}wi+xvdfnvg.iseuai 銃殺
 {0}wi+rrfmdng.lqoihe 流畅
@@ -3932,6 +3956,7 @@
 {0}od+sbhnw.osinmo 終年
 {0}od+skn.uaiqqi 沙丘
 {0}od+sfysydd.ykuxle 影像
+{0}od+eyxjhnw.osimue 終幕
 {0}od+eg+lm+lkhmhnwwkjwg.osidrijiehce 終端記号
 {0}od+ed,lz+gp+ncihynkddwk.xmexkojiehxefau 線形計画法
 {0}od+ed,lz+gp+fl+yskjvhynkddwky.xmexkojiehxewfetio 線形計画問題
@@ -4224,6 +4249,7 @@
 {0}sr+cykdwf.jueihu 劇場
 {0}sr+cu+da+tusfbim.jmeiiodciyeu 剣持刀也
 {0}sr+ouecofki.djegci 蛋糕
+{0}sr+sobwf.juebje 劇伴
 {0}sr+ezlwf.keekuu 刻苦
 {0}sr+kpmrpr.jpemme 界面
 {0}sr+kfowf.juelpe 劇烈
@@ -4272,6 +4298,7 @@
 {0}sc+ra Scrapbox$_
 {0}sc+uxkls.zoeyiu 坐椅
 {0}sc+uizc.dvioje 堆栈
+{0}sc+uiic.dvioje 堆棧
 {0}sc+uk+oj+op+jtlgvsiggh.ovitiuuiexiebci 錐体視細胞
 {0}sc+uf+dsrbbdif.tviyiolve 推移律
 {0}sc+ggb.tviiui 推出
@@ -4304,6 +4331,7 @@
 {0}sc+il+sc+ekezufl.ivomkowwohxo 椎名唯華
 {0}sc+ienw.jbedue 進度
 {0}sc+ierjs.zoexio 坐席
+{0}sc+ii.hi+llixlcuui.dviojejiiqie 堆棧機器
 {0}sc+dbtddl.wwowue 唯物
 {0}sc+dbjgn.njokje 难看
 {0}sc+dubkvc.dvijii 堆積
@@ -4834,6 +4862,7 @@
 {0}le+dx,wljjwsnmn.huefaegci 護髪膏
 {0}le+dsubfwsn.huewwe 護衛
 {0}le+dlkrjwej.jluuii 講師
+{0}le+jugk.dzeruu 豆乳
 {0}le+jjxncl.xiuvde 喜爱
 {0}li+pdnlw.ojelte 战略
 {0}li+hu+eplxld.qieleequi 器乐曲
@@ -4902,6 +4931,7 @@
 {0}lk+if+lk+odifii.hoedoihoeucu 或多或少
 {0}lk+dhuhx.yuolee 娱乐
 {0}lk+jsrfi.hoezeo 或则
+{0}lf 別
 {0}lf+bks.geiuzu 歌手
 {0}lf+bk+ywxkd.djeugirie 誕生日
 {0}lf+przxywr.bueuuu 部署
@@ -4999,6 +5029,7 @@
 {0}lj+jobowl.gcitgo 高騰
 {0}la+prwyz.kzuoce 口罩
 {0}la+puh.ruogou 如果
+{0}la+pa+cs+fuckii.jiotmolkozia 吉田玲子
 {0}la+nyenk.uiopue 石瀑
 {0}la+nwvfi.tdowji 台湾
 {0}la+xbbfip.hvooru 回转
@@ -5036,6 +5067,7 @@
 {0}la+lc+wlotwjg.jueduodmu 句読点
 {0}la+exlh.ruoroe 如若
 {0}la+ecie.kzugde 口蓋
+{0}la+edzcz.guudsu 古董
 {0}la+edjgk.uiouzu 石首
 {0}la+ekkvh.ruoqio 如其
 {0}la+ejvz.guudmu 古典
@@ -5258,7 +5290,6 @@
 {0}es+la+ld+vd+cykclczgekr.taujiokeesiitju 塔吉克斯坦
 {0}els+x 敬
 {0}el+zevswdg.jkesde 竞赛
-{0}ee 并
 {0}ee,bmznm.pkouee 屏摄
 {0}ee,bkfs.bkedau 併打
 {0}ee,xrfus.bkecyo 併存
@@ -5379,6 +5410,7 @@
 {0}ea+ihvlgk.kdiuoi 开说
 {0}ea+iijk.kdilhu 开朗
 {0}ea+dbjgu.ldokje 来看
+{0}ea+dk+kk.ejueers.jkuqborfocde 井芹仁菜
 {0}ea+djgu.ldozie 来自
 {0}ea+kicd.ugioie 升至
 {0}ea+fili.jpemko 戒名
@@ -5650,6 +5682,7 @@
 {0}ik.kw+szjhyhgzs.jiedkeoio 既定値
 {0}if+bwefi.doilai 多拉
 {0}if+pm+sukfikr.doimmetiu 多面体
+{0}if+pls.jbihvo 今回
 {0}if+pkcifi.doigoo 多国
 {0}if+ys.jbirie 今日
 {0}if+ntunn.ysuiio 泳池
@@ -6134,6 +6167,7 @@
 {0}dk+kuwr.jbeyuo 近于
 {0}dk+jbwjs.pboyse 频用
 {0}dk+jwmklr.tkixpu 听写
+{0}dk+jj.ssszbrpk.oeodposju 折畳傘
 {1}dfu 梨
 {0}dfd 第
 {0}df+bkfnn.mwodau 没打
@@ -6378,6 +6412,7 @@
 {0}kh+wlmgb.bnujie 表記
 {0}kh+weyb.bnuybi 表音
 {0}kh+sxklem.ohudru 長短
+{0}kh+ssszm.ohusju 長傘
 {0}kh+slmnm.ohujxu 長假
 {0}kh+sl+rrrmv.ohuguuiri 長谷川
 {0}kh+sl+rr,ya+hodhtmvrd.ohuguuiribdooiu 長谷川白紙
@@ -7252,7 +7287,8 @@
 {0}fa+doud.jiuhui 几乎
 {0}fa+ks+twmkdhc.jiuwwonnu 几维鸟
 {0}fa+kkgs.yieyro 亿元
-{0}j ㅇ
+{0}j 月
+{1}j ㅇ
 {0}jb+xjb.ysiyzu 拥有
 {0}jb+sjkvd.luejue 甪俱
 {0}jb+fygf.jnusee 角色
@@ -7463,6 +7499,7 @@
 {0}jg+jklu.xlitso 相同
 {0}jh.hm.pcziofk.soumauliu 索马里
 {0}jh.frzio.souybu 索引
+{0}jc+yg+ld+wlzffwfn.jnuseeueejie 角色設計
 {0}jc+yg+ld+lz+dlkrjffwfnw.jnuseeueejieuii 角色設計師
 {0}jc+uzwl.ozimoe 週末
 {0}jc+wdcle.suezce 塑造
