@@ -170,6 +170,7 @@
 {0}bk+dm+sj+jvrfdibgg.ugiigogvizeo 生成規則
 {0}bk+dscwsd.ugituo 生徒
 {0}bk+kud.ugiyuo 生于
+{0}bk+kcpcnj.qkiliu 清理
 {0}bk+kfzjkd.ugioio 生殖
 {0}bk+frskunj.qkiiuo 清除
 {0}bk+jjtntj.qkovde 情愛
@@ -4555,6 +4556,7 @@
 {0}sk+wexfxt.faisse 発送
 {0}sk+wfijwu.tuotsi 途通
 {0}sk+ofxt.faihou 発火
+{0}sk+oa+nzsvllf.haivrubbi 哈尔滨
 {0}sk+oa+kznuf.tuovrugje 涂尔干
 {0}sk+sklrzy.suemke 宿命
 {0}sk+lu+ruswi.jmutcuosi 検討中
@@ -5882,6 +5884,7 @@
 {0}dy+ua+ma+sk+kjpgkofxfxt.yrozialiefaidme 原子力発電
 {0}dy+ua+ma+sk+jp+dmdkrkofxfxtkg.yrozialiefaidmesou 原子力発電所
 {0}dy+ua+za+urvjd.jbumueqmiuue 錦木千束
+{0}dy+hoodlo.mkouai 鳴紗
 {0}dy+hilko.yrouiu 原始
 {0}dy+zskyko.yrosue 原宿
 {0}dy+zfwxb.pdimde 拍卖
