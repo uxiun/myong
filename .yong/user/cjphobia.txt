@@ -463,7 +463,9 @@
 {0}yt+dlgnt.hyelre 混乱
 {0}yt+djrfwh.veeoie 遏制
 {0}yt+djent.hyexte 混血
+{0}yt+ko+udnbtk.jpiuiebju 掲示板
 {0}yt+kl+ttnts.hyeheobiu 混合比
+{0}yt+kkobt.jpiuie 掲示
 {0}yt+fygrh.heesee 褐色
 {0}yt+jbnt.hyeyse 混用
 {0}yt+jklnt.hyetso 混同
@@ -695,6 +697,7 @@
 {0}nd+opzel.loedji 落単
 {0}nd+scumds.juejio 聚集
 {0}nd+sdel.loerue 落入
+{0}nd+ebjgel.loeoea 落着
 {0}nd+ddbgel.loebiu 落笔
 {0}nd+kcpcdf.iuuliu 処理
 {0}nd+jel.loeyte 落月
@@ -1848,6 +1851,7 @@
 {0}us+dlkrjzx.jneuii 教師
 {0}ul+ufdndv.jiijio 积极
 {0}ul+wlmsd.heoyie 和訳
+{0}ul+weyd.heoybi 和音
 {0}ul+siyhd.heouio 和食
 {0}ul+ienddc.igodue 程度
 {0}ul+ififdkc.igoxue 程序
@@ -1900,6 +1904,7 @@
 {0}ui+kun.dveyuo 对于
 {0}ui+kw+fe+vc+uk+kpvmdnesbee.dvehueyhujiibfuffi 对芐氧基苯酚
 {0}ui+fytsn.dvexle 对象
+{0}udn 板
 {0}udf+i 楓
 {0}ud+yd+frzkgfhsrg.guivroyre 孤児院
 {0}ud+yfmzwkr.xbiwfo 新聞
@@ -2072,6 +2077,7 @@
 {0}ua+ijttt.yeungo 也能
 {0}ua+ijttz.wwengo 未能
 {0}ua+dbtddp.gouwue 果物
+{0}ua+dgts.xqiqie 休憩
 {0}ua+dgts.xqixii 休息
 {0}ua+dzll.muegru 木管
 {0}ua+dsdfnf.ziayie 子役
@@ -2603,6 +2609,7 @@
 {0}co+fpkpc.moeyuo 墨鱼
 {0}co+fygp.hwisee 黒色
 {0}co+fhmkp.hwimau 黑马
+{0}cs+xkkokii.lkonde 玲奈
 {0}cs+rkjskdd.ofigve 珍贵
 {0}cs+sklrkx.oiemke 致命
 {0}cs+kftkx.oiesiu 致死
@@ -3812,6 +3819,7 @@
 {0}wi+duldcng.lqoigo 流程
 {0}wi+dcxmng.lqodse 流動
 {0}wi+dskkfng.lqoxko 流行
+{0}wdl 話
 {1}wdk+jv 頻
 {0}wdk+js 频
 {0}wd+pi+ta+sm+jbbfkvnss.khesrihxezoeyse 抗酸化作用
@@ -4171,6 +4179,7 @@
 {0}oa+yjk.buemko 不明
 {0}oa+nzx.hvioii 灰汁
 {0}oa+negjk.buemju 不満
+{0}oa+xm+ul+weykzmd.buexpoheoybi 不協和音
 {0}oa+xl+wedgks.bueoiidce 不知道
 {0}oa+xl+oa+ojjdgksk.bueoiibuejto 不知不觉
 {0}oa+xdrkik.bueduo 不独
@@ -5311,6 +5320,7 @@
 {0}ex,weew.ssejbe 送进
 {0}ex,sdw.sserue 送入
 {0}ex,lscl.xnewwo 咲唯
+{0}ex,il+yt+ko+udnmlfbtk.niemkojpiuiebju 匿名掲示板
 {0}ex,il+fn+ohsxmlfg.niemkohjouue 匿名函数
 {0}ex,kcrfw.ssedce 送到
 {0}ex,filml.niemko 匿名
@@ -5850,6 +5860,7 @@
 {0}if+hwvhsi.lkenlo 令嬢
 {0}if+hotkff.yuuyti 予約
 {0}if+hoscfi.doiwwo 多維
+{0}if+hs+fsfiox.doiuueqme 多数欠
 {0}if+ctufi.doidie 多地
 {0}if+mvpyfi.doicgo 多層
 {0}if+md+kedddfiw.doibmixko 多辺形
@@ -6128,6 +6139,7 @@
 {0}du+kflef.liekeu 莉可
 {0}du+ja+wv+ezjrjwmyjx.tzemkojnidde 透明胶带
 {0}dg 看
+{0}dgt, 憩
 {0}dg+hs+uw+jswliizol.yyuxuuojitpi 允许粘贴
 {0}dg+vfrdl.xsidie 兄弟
 {0}dg+wlszi.yyuxuu 允許
@@ -6159,6 +6171,7 @@
 {0}dc+hmkjh.rfefue 妊婦
 {0}dc+hkxhvng.xiulme 洗练
 {0}dc+hkkhh.rfeufi 妊娠
+{0}dc+mdxnng.xiufae 洗髪
 {0}dc+mf+tdbkhfu.rfeyyexke 妊孕性
 {0}dc+wlmklwl.zcecio 造詞
 {0}dc+wlkklwl.zceyuu 造語
@@ -6713,6 +6726,7 @@
 {0}kz+dimjhfx.xuepmi 续篇
 {0}kz+kcwxcj.gjibji 肝斑
 {0}kz+jwmkhsy.soixpu 缩写
+{0}kz+jeimj.gjizhe 肝臓
 {0}kv+bszd.gxufui 寡夫
 {0}kv+hmkjzd.gxufue 寡婦
 {0}kv+ssxmyp.udeuhi 晒伤
@@ -7719,6 +7733,7 @@
 {0}jm.ma+djrfrkhi.ohehueoie 帳户制
 {0}jm.wmsxfdb.jpufhe 解放
 {0}jm.wlcjgfdb.jpuduo 解読
+{0}jm.ejukk.xtucde 雪菜
 {0}jm.ixtkk.xtulso 雪龙
 {0}jm.ihzfxfdb.jpuduo 解读
 {0}jm.ihvlgfdb.jpuuoi 解说
