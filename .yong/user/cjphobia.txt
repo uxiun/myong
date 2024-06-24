@@ -472,6 +472,7 @@
 {0}yr 即
 {0}yg 巴
 {0}yg+bkhiof.seesue 色素
+{0}yg+xj.fwodae 肥大
 {0}yg+tbkjf.seeqko 色情
 {0}yg+ujgf.seexli 色相
 {0}yg+vk+yfyfz.seeksijmi 色空間
@@ -1466,6 +1467,7 @@
 {0}rm+kurk.gviyuo 归于
 {0}rz+sklre.geomke 革命
 {0}rz+filpxy.uuumko 署名
+{0}rv 順
 {0}rw+ycuifxj.svouio 随時
 {0}rw+ykvpfdm.fhoude 防晒
 {0}rw+nilfdm.fhooie 防治
@@ -1552,6 +1554,7 @@
 {0}rk+ul+ojfukddc.gsiigoxto 工程学
 {0}rk+ul+dlkrjkdkc.gsiigouii 工程師
 {0}rk+ud+prfifflnn.vaiboiloo 阿波罗
+{0}rk+ggbw.pdoiui 排出
 {0}rk+gkkzflj.geovje 隔岸
 {0}rk+hi+kw+kcircffleiw.vaiziikaubji 阿茲卡班
 {0}rk+ca+ga+ygfflpy.vailiubaibai 阿里巴巴
@@ -1559,6 +1562,7 @@
 {0}rk+zhj.yrovji 円安
 {0}rk+zkm.wweuie 卫士
 {0}rk+vd+bknfflekr.vaisiimde 阿斯麦
+{0}rk+wmlzws.tcobie 逃避
 {0}rk+wsrfrr.pmekee 片刻
 {0}rk+wlevyujv.ldepuu 頼譜
 {0}rk+wedgwd.buedce 歩道
@@ -2207,6 +2211,7 @@
 {0}ga+uj+xbgdk.iuizuiiei 出租车
 {0}ga+hisy.baiyiu 巴以
 {0}ga+hkfskm.yiujki 已经
+{0}ga+cykdg.iuiihu 出場
 {0}ga+mdbg.ujiwwu 山尾
 {0}ga+zx+vd+cykyemekr.bailwisiitju 巴勒斯坦
 {0}ga+zk+zxygnv.iuiyjuoeu 出演者
@@ -2767,6 +2772,7 @@
 {0}ca+kpmrp.liumme 里面
 {0}ca+kixmw.ouudse 主动
 {0}ca+kkgw.ouuyro 主元
+{0}ca+kjlkll.tuulue 吐露
 {0}ca+fmkhw.ouuohi 主張
 {0}ca+fjcw.ouujnu 主角
 {0}mb+tdylr.naupae 哪怕
@@ -2961,6 +2967,7 @@
 {0}md+ht+dsccfvvl.pbombojpi 貧民街
 {0}md+hudkrt.qpedre 切断
 {0}md+hofdnr.iuijio 初級
+{0}md+hofksw.bmiyro 辺縁
 {0}md+hojkv.ffizuu 分組
 {0}md+hisdkr.souyiu 所以
 {0}md+hilr.iuiuiu 初始
@@ -3263,6 +3270,7 @@
 {0}zk+zxynv.yjuoeu 演者
 {0}zk+wrrfvs.dkejie 錠剤
 {0}zk+wsrfnv.yjujue 演劇
+{0}zk+wlvlgnv.yjuuoi 演説
 {0}zk+wexzki.orusse 転送
 {0}zk+ouvmdns.dmeffu 淀粉
 {0}zk+skkinv.yjuhve 演会
@@ -3641,15 +3649,18 @@
 {0}wt+lersr.bwitje 悲嘆
 {0}wr 部
 {0}wrr,f 剤
+{0}wrk+s 逃
 {0}wrk+d 步
 {0}wr+bsjggkk.ogegvi 正規
 {0}wr+pdnwsk.qiutuo 企图
 {0}wr+xrckk.ogezde 正在
+{0}wr+ttkk.ogebiu 正比
 {0}wr+uk+oa+yjkksk.ogetiubuemko 正体不明
 {0}wr+heqvnd.ueexmo 涉嫌
 {0}wr+zrrfnd.ueeuie 涉事
 {0}wr+zhkk.ogevji 正安
 {0}wr+wlokk.ogedmu 正点
+{0}wr+wlskjkk.ogelye 正論
 {0}wr+sukkk.ogetiu 正体
 {0}wr+sj+md+xrjkkbggv.ogegviffibue 正規分布
 {0}wr+sj+stkkbgg.ogegvihxe 正規化
@@ -3743,6 +3754,7 @@
 {0}ws,tlfifl.zuogze 足够
 {0}ws,ta+skfnxs.yeehxeqie 液化气
 {0}ws,rkixnx.yeeole 液状
+{0}ws,ujkc.zzuoai 走査
 {0}ws,suknx.yeetiu 液体
 {0}ws,iiirc.zzulho 走廊
 {0}ws,ffc.zzulea 走了
@@ -3964,6 +3976,7 @@
 {0}oc+ljgvi.ueeyro 社員
 {0}oc+inhl.jpobki 結氷
 {0}oc+db,lmrfitk.ueexkebpo 社性別
+{0}oc+koi.ueebue 社不
 {0}oc+kl+se+dr+tdbkhlsdwsmj.jpoheocsouuuxke 結合従属性
 {0}oc+kk.ojfuisi.ueehvexto 社会学
 {0}oc+kk.dytiisi.ueehvedea 社会的
@@ -3989,6 +4002,7 @@
 {0}oz+sxklehsy.soidru 縮短
 {0}oz+sk+ss,kp+pwxkdkficuo.pkoxkozoebnituo 平行座標図
 {0}oz+sk+ea+psrrkdkft.pkoxkouiejpe 平行世界
+{0}oz+sf+ukdxf.pkohgomue 平衡木
 {0}oz+lhtk.pkombo 平民
 {0}oz+ilk.pkotdo 平台
 {0}oz+dn+filks.pkofjumko 平仮名
@@ -3996,6 +4010,7 @@
 {0}oz+dcuik.pkodgu 平等
 {0}oz+dm+oukw.pkofhimiu 平方米
 {0}oz+dskkfk.pkoxko 平行
+{0}oz+dsfxfk.pkohgo 平衡
 {0}oz+dfik.pkofjo 平凡
 {0}oz+kpmrk.pkomme 平面
 {0}oz+fvhsy.soixnu 縮小
@@ -4051,6 +4066,7 @@
 {0}oi+slummj.pmebcu 騙保
 {0}oi+lkhmhmj.bmihce 編号
 {0}oi+ihvlgwxg.jqeuoi 就说
+{0}oi+ihspx.moerfe 默认
 {0}oi+idmhmj.bmiigo 編成
 {0}oi+duldchmj.bmiigo 編程
 {0}oi+dskkfwxg.jqexko 就行
@@ -4166,6 +4182,7 @@
 {0}oj+dlgbg.jnulre 撹乱
 {0}oj+kjrkin.xnirso 消融
 {0}oj+frwdmn.xnifho 消防
+{0}oj+frskun.xniiuo 消除
 {0}oj+fjmdbhkn.hrujpu 緩解
 {0}oj+fj+zxynrs.xnifweoeu 消费者
 {0}oj+jxosl.thurjo 倘然
@@ -4351,6 +4368,7 @@
 {0}st+pa+za+ogjzze.hxitmouiohvi 花田十輝
 {0}st+pa+le+wd+wkweoclsh.hxitmojxiyiikau 花畑嘉依卡
 {0}st+nspwe.hxihdu 花海
+{0}st+xd,xkwkbufwk.toiyjooge 拖延症
 {0}st+rfjse.hxifwe 花费
 {0}st+uge.hxioao 花札
 {0}st+uv+xkwkeomd.hxiffuoge 花粉症
@@ -4690,6 +4708,7 @@
 {0}sk+fkknfle.dgilue 登录
 {0}sk+jp+dmdkrfxtkg.faidmesou 発電所
 {0}sk+jfle.dgiyte 登月
+{0}sf 例
 {0}sfi+f 侈
 {0}sf+bixmcmk.quiuie 趋势
 {0}sf+yfywx.yeejmi 夜間
@@ -5657,6 +5676,7 @@
 {0}ir+djrffi.qlooie 強制
 {0}ir+kfofi.qlolpe 強烈
 {0}iu 术
+{0}ig 祝
 {0}iht+y 询
 {0}ih+nnn.poiuvu 泼水
 {0}ih+na+emrnn.poiuvujpo 泼水节
@@ -5916,6 +5936,7 @@
 {0}ia+ndfii.glufje 広汎
 {0}ia+xbbfiv.gsioru 公转
 {0}ia+xa+rcyvw.gsiwfouui 公文書
+{0}ia+tec.queuie 去世
 {0}ia+ry+mkpevxfkd.tdeyhoyie 太陽翼
 {0}ia+ry+okgxfkd.tdeyhogli 太陽光
 {0}ia+hopx.tdexie 太細
@@ -6026,6 +6047,7 @@
 {0}dy+la+od+zzizjkon.yrokzuuaifuu 原口沙輔
 {0}dy+ecdbiko.yroyie 原義
 {0}dy+duwljko.yrogcu 原稿
+{0}dy+dothir.xliizo 郷愁
 {0}dy+dd,pkcikowbk.yroijugoo 原産国
 {0}dy+kedddko.yroxko 原形
 {0}dy+fuko.yrozia 原子
@@ -6209,6 +6231,7 @@
 {0}dm+vmdi.igoffi 成分
 {0}dm+vzw.fhiofi 方針
 {0}dm+wxsxi.igoxne 成效
+{0}dm+wr+ttikk.igoogebiu 成正比
 {0}dm+weenx.jiijbe 激进
 {0}dm+wei.igolie 成立
 {0}dm+wioi.igouuo 成熟
@@ -6667,6 +6690,7 @@
 {0}kc+dimjs.qropmi 全篇
 {0}kc+kpmrs.qromme 全面
 {0}kc+kcizns.qroqqo 全球
+{0}kc+kc+ga+cykdspig.qrogooiuiihu 全国出場
 {0}kc+km+rj+fm+zl+lt+mmlpizswcddlv,ooxiiehurusuuo 国家市场监管总局
 {0}kc+km+rj+fm+lt+mmlpizswcdv.goojxiuieihuzsujuo 国家市场监管总局
 {0}kc+klzi.bcuuio 宝石
@@ -7039,6 +7063,7 @@
 {0}kf+wlofik.roedmu 弱点
 {0}kf+wdclb.dauzce 打造
 {0}kf+wkjz.nkokfu 宁肯
+{0}kf+ohsxks.cieuue 次数
 {0}kf+okgo.dgigli 灯光
 {0}kf+ojlrjhsk.jkiiho 经常
 {0}kf+skrxdr.yzobme 郵便
