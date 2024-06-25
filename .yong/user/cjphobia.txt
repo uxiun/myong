@@ -7,6 +7,7 @@
 {0}bb,kfcxfi.oruxko 转型
 {0}bxn 泰
 {0}bxn+ 泰
+{0}bxo 熬
 {0}bx,bx,jsdyoubub.bhebhejii 棒棒鶏
 {0}bx,bkhz.uiobnu 実表
 {0}bx,ycuiz.uiouio 実時
@@ -76,6 +77,7 @@
 {0}bmz+n 摄
 {0}bm+hkztgp.wworce 围绕
 {0}bm+iqtmo.maulue 馬鹿
+{0}bm+dulvog.jrujii 卷积
 {0}bz,tdyzl.hdepae 害怕
 {0}boj+g 撹
 {0}bsk+l 捨
@@ -937,6 +939,7 @@
 {0}xw+vwecekl.jkuosi 警鐘
 {0}xw+dclekl.jkugce 警告
 {0}xo 灰
+{0}xo+wsfxc.vcoyee 熬夜
 {0}xo+il+iifrgn.tjeoielho 炭治郎
 {0}xo+dssynt.hvifue 恢復
 {0}xo+dklj.rjohze 然后
@@ -4872,6 +4875,7 @@
 {0}lg+pi+cslekxokvn.tjesriyjo 碳酸塩
 {0}lg+rcwdht.bcioli 包装
 {0}lg+ggwv.xruiui 選出
+{0}lg+zl+kcpctdl.bcigruliu 包管理
 {0}lg+zkwswv.xrudke 選定
 {0}lg+wlcjgd.lreduo 乱読
 {0}lg+oz+hosckxohiv.tjexmiwwo 碳繊維
@@ -5259,7 +5263,7 @@
 {0}eq+xf+shvtis.xmoyiorfo 嫌疑人
 {0}eq+txfishv.xmoyio 嫌疑
 {0}eq+kkthv.xmovee 嫌悪
-{1}epr+f 夢
+{0}epr+f 夢
 {0}ep+pa+ja+nilwcy.tsotmomkooie 童田明治
 {0}ep+yk+epuiwgj.lsodjuzyi 竜胆尊
 {0}ep+txfiswy.zciyio 遭疑
