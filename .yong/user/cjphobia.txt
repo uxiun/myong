@@ -242,6 +242,7 @@
 {0}ba+vzkso.bjedke 半錠
 {0}ba+va+yuiof.bjexnuuio 半小时
 {0}ba+wgsiis.nmolko 年齢
+{0}ba+wmsevo.bjeqio 半旗
 {0}ba+wldzl.uzuhxe 手話
 {0}ba+weytj.yseyie 用意
 {0}ba+sits.nmodde 年代
@@ -338,6 +339,7 @@
 {0}pc+jp+ntuvkg.liudmeiio 鋰電池
 {0}pm+przjkkg.pweoie 配置
 {0}pm+nuikr.mmedve 面对
+{0}pm+xrjkg.pwebue 配布
 {0}pm+xmkikg.pwetce 配套
 {0}pm+ui+uedkkw.fjigoeldo 翻过来
 {0}pm+ui+kpmrkrn.mmedvemme 面对面
@@ -924,6 +926,7 @@
 {0}xm+skflii.wweheo 为何
 {0}xm+lrkwll.kaifwi 咖啡
 {0}xm+lsklii.wweuao 为啥
+{0}xm+irirev.suiozi 苏州
 {0}xm+ihixzv.xpoyie 协议
 {0}xm+ijttk.gsingo 功能
 {0}xm+dcln.qregce 劝告
@@ -1096,6 +1099,7 @@
 {0}xa+cf,kcprhwpif.wfoyeuhro 文野環
 {0}xa+mrmr.daeifo 大臣
 {0}xa+mzexe.grilmo 关联
+{0}xa+zr+sizllsx.daeuiugru 大使館
 {0}xa+zevs.daesde 大赛
 {0}xa+zkms.daejxi 大家
 {0}xa+zfuw.wfozie 文字
@@ -1119,6 +1123,7 @@
 {0}xa+sukw.wfotiu 文体
 {0}xa+sukk.tmitiu 天体
 {0}xa+szrxk.tmiuiu 天使
+{0}xa+szrx.daeuiu 大使
 {0}xa+sdbw.wfojme 文件
 {0}xa+sfxk.tmiqie 天気
 {0}xa+sj+ueyxbgg.daegvimoo 大規模
@@ -2644,6 +2649,7 @@
 {0}co+fhmkp.hwimau 黑马
 {0}cs+xkkokii.lkonde 玲奈
 {0}cs+rkjskdd.ofigve 珍贵
+{0}cs+wldhkx.oievdi 致哀
 {0}cs+sklrkx.oiemke 致命
 {0}cs+kftkx.oiesiu 致死
 {0}cs+ft,yt+sx+xksjkxkdix.oiesiudeajiobke 致死的疾病
@@ -3368,6 +3374,7 @@
 {0}vb+dt+xbib.mootoiiei 摩托车
 {0}vb+dskkfo.juuxko 挙行
 {0}vp+nebk.xiiyho 西洋
+{0}vp+nidlcy.zgijmu 増減
 {0}vp+xmlcy.zgijxi 増加
 {0}vp+tscy.zgiohu 增长
 {0}vp+cu+nidlcydi.zgidgujmu 増等減
@@ -3867,6 +3874,7 @@
 {0}wi+duldcng.lqoigo 流程
 {0}wi+dcxmng.lqodse 流動
 {0}wi+dskkfng.lqoxko 流行
+{0}wi+fup.muuzia 母子
 {0}wdl 話
 {1}wdk+jv 頻
 {0}wdk+js 频
@@ -4401,7 +4409,6 @@
 {0}sx+jf+frzkgmou.yiixtoyre 医学院
 {1}st 仑
 {0}stu 他
-{0}stz 针
 {0}st+bk+mxled.hxiugijyi 花生君
 {0}st+pclhe.hxiyro 花園
 {0}st+pa+za+ogjzze.hxitmouiohvi 花田十輝
@@ -4710,6 +4717,7 @@
 {0}sk+wluius.jmutcu 検討
 {0}sk+wlsddus.jmuofu 検診
 {0}sk+wlkwkus.jmuoge 検証
+{0}sk+weyfxt.faiybi 発音
 {0}sk+wexfxt.faisse 発送
 {0}sk+wfijwu.tuotsi 途通
 {0}sk+ofxt.faihou 発火
@@ -4937,6 +4945,7 @@
 {0}lm+hkjpuwkl.ciohve 詞彙
 {0}lm+mdxnsn.jxufae 假髪
 {0}lm+zxywg.jieoeu 記者
+{0}lm+zrrfwg.jieuie 記事
 {0}lm+zkwswit.rfedke 認定
 {0}lm+vfknwg.jielue 記録
 {0}lm+wlwiywit.rfeuio 認識
@@ -6818,6 +6827,7 @@
 {0}kv+llixls.bkiqie 兵器
 {0}kv+dynnp.jquqro 酒泉
 {0}kw+xmd.iielie 斥力
+{0}kw+tz+xa+szrxfcs.ouehxodaeuiu 驻华大使
 {0}kw+tlgw.kaubci 卡包
 {0}kw+rkixxk.ogeole 症状
 {0}kw+ueys.uieldo 是来
@@ -6828,6 +6838,7 @@
 {0}kw+wlkklzs.dkeyuu 定語
 {0}kw+ohsxzs.dkeuue 定数
 {0}kw+oa+ykwsysk.uiebueuie 是不是
+{0}kw+stzfc.ouehxo 驻华
 {0}kw+srfxxk.ogehze 症候
 {0}kw+ecdbizs.dkeyie 定義
 {0}kw+ezxmfig.uuilwi 疏勒
@@ -6980,6 +6991,7 @@
 {0}ki.dulkchmj.bmiigo 编程
 {0}ki.fpkfxg.yzoyuo 鱿鱼
 {0}ki.fiwmc.wuiwde 屋外
+{0}kd 形
 {0}kdy+o 原
 {0}kd+nudndf.oueboi 筑波
 {0}kd+tpzvmy.xiogre 習慣
@@ -7322,6 +7334,7 @@
 {0}fn+ohsxg.hjouue 函数
 {0}fn+koi.ysubue 永不
 {0}fn+fd+iocddyc.fgehlouee 凤凰社
+{0}fx+qd+jr+ggbcdkr.tkuufivroiui 挺身而出
 {0}fx+yt+ikfsfs.qiexletki 気象庁
 {0}fx+nyjes.qiewfi 気温
 {0}fx+ntlgs.qiepce 気泡
@@ -7339,6 +7352,7 @@
 {0}fx+szjkvb.jmeoio 鍵值
 {0}fx+skcsb.jmeqro 健全
 {0}fx+irnsb.jmekhi 健康
+{0}fx+dqdbc.tkuufi 挺身
 {0}fx+dnjevb.jmepjo 鍵盤
 {0}fx+dsykir.jludeo 奖得
 {0}fx+ki.st+mbfrsbmce.jmewuihxinae 健屋花那
@@ -7529,6 +7543,7 @@
 {0}fi+jbb.oriyse 专用
 {0}fi+jbwj.tsiyse 通用
 {0}fi+jtswj.tsiohe 通胀
+{0}fd 降
 {0}fd+bcuism.rgoiio 仍持
 {0}fd+bwyzbm.rgidne 扔掉
 {0}fd+nrphm.nduyzo 奶油
@@ -7893,6 +7908,7 @@
 {0}jo+pa+lexen.tgotmoxne 藤田咲
 {0}js+pkciwx.diogoo 敵国
 {0}js+xrjex.sjebue 散布
+{0}js+tewc.liouie 離世
 {0}js+rj+pwxexx.sjebuetuo 散布図
 {0}js+rj+wxeoex.cdeykiwfo 蔡英文
 {0}js+ur+wiszfdf.fuelielve 负利率
