@@ -385,6 +385,7 @@
 {0}pz+ihjclv.djidne 单调
 {0}pz+ikfss.mwucie 毎次
 {0}pz+dnudl.geetno 箇条
+{0}pz+dulkcz.ieiigo 車程
 {0}pz+ko.djiyii 単一
 {0}pz+kkgo.djiyro 単元
 {0}pz+fuo.djizia 単子
@@ -546,6 +547,7 @@
 {0}yd+dskkfg.mmuqmi 免签
 {0}yd+kj+yd+yjfgbgvc.mmuzeougimko 免責声明
 {0}yd+fygc.ugisee 声色
+{0}yd+frykddcl.hceyho 皓陽
 {0}yd+frskufg.mmuiuo 免除
 {0}yk 星
 {0}ykj+i 曇
@@ -3024,6 +3026,7 @@
 {0}md+wjscv.ffilio 分離
 {0}md+oxkjvv.ffilwe 分類
 {0}md+ouxv.ffilwe 分类
+{0}md+strv.ffiosi 分钟
 {0}md+stv.ffihxe 分化
 {0}md+lr+fx+dnjevzfvb.ffigeijmepjo 分割鍵盤
 {0}md+lhtvv.pbombo 貧民
@@ -7520,6 +7523,7 @@
 {0}fii 多
 {0}fi+ycuiwj.tsiuio 通時
 {0}fi+nzwzkz.cjoziu 残滓
+{0}fi+xbwj.tsiiei 通车
 {0}fi+xrfukz.cjocyo 残存
 {0}fi+ub+bc,wudkrbokjdui.orijkiteexbi 专精特新
 {0}fi+czmrnwj.tsibce 通報
