@@ -1106,6 +1106,7 @@
 {0}xa+zkms.daejxi 大家
 {0}xa+zfuw.wfozie 文字
 {0}xa+zjkvk.tmiofi 天真
+{0}xa+vp+nebk.daexiiyho 大西洋
 {0}xa+vxmr.daeyeo 大爷
 {0}xa+vs+ykpczl.daersolle 大容量
 {0}xa+wlkklw.wfoyuu 文語
@@ -1247,6 +1248,7 @@
 {0}th+jk+bk+kgdnwiokkinj.ziuyyoqkixxe 紫雲清夏
 {0}tc,hudkri.lsudre 垄断
 {0}tm+mtdr.ybenio 印尼
+{0}tm+en+nebdri.ybedueyho 印度洋
 {0}tm+iendr.ybedue 印度
 {0}tm+fytsdr.ybexle 印象
 {0}tz+nods.hxouai 华沙
@@ -3220,13 +3222,16 @@
 {0}zv+xrjiv.maobue 麻布
 {0}zv+uiv.maomue 麻木
 {0}zv+gklol.rsoyjo 熔岩
+{0}zv+zp+epdunlwz.rsolmojyi 溶連菌
 {0}zv+okjsiv.maofjo 麻烦
 {0}zv+stnl.rsohxe 溶化
 {0}zv+siyliv.maochi 麻倉
 {0}zv+djrfbk.kseoie 控制
+{0}zv+djenl.rsoxte 溶血
 {0}zv+kl+okfolg.rsoyjodgi 熔岩灯
 {0}zv+fjmdbnl.rsojpu 溶解
 {0}zv+jr+ilbkdf.kseoietdo 控制台
+{0}zv+je+tdbknld.rsoxtexke 溶血性
 {0}zw,swemiy.oiowwe 職位
 {0}zw,ljgvmiy.oioyro 職員
 {0}zw,eveumiy.oioyee 職業
@@ -4272,6 +4277,7 @@
 {0}oa+cezk.buexke 不幸
 {0}oa+mggk.buequi 不屈
 {0}oa+mk+yyc.houycerie 火曜日
+{0}oa+zbzlz.zdihde 灾害
 {0}oa+zkwsk.buedke 不定
 {0}oa+za+vmdk.bueuioffi 不十分
 {0}oa+vpzk.buedji 不单
@@ -4651,6 +4657,7 @@
 {0}si+zxteyh.yhulcu 養老
 {0}si+zjezch.ytenjo 越南
 {0}si+wujggeyh.yhuqbi 養親
+{0}si+wlkkldvf.uueyuu 術語
 {0}si+odch.yteucu 越少
 {0}si+sl+duoviv.lkoguuqqi 鈴谷秋
 {0}si+ihxnch.ytefai 越发
@@ -5305,6 +5312,7 @@
 {0}la+dssynp.hvofue 回復
 {0}la+dsklp.hvodao 回答
 {0}la+dep.hvougi 回升
+{0}la+dfkrii.tdofgi 台風
 {0}la+kgpz.guuhxe 古画
 {0}la+khkjsp.hvogue 回顾
 {0}la+kcrfp.hvodce 回到
@@ -5442,6 +5450,7 @@
 {0}ec+itksi.yiouie 儀式
 {0}ec+fuun.yhezia 様子
 {0}ezj+rj 帯
+{1}ezj+rj 带
 {0}ez+bcn.guuuzu 鼓手
 {0}ez+ojlbcn.guuohu 鼓掌
 {0}ez+sefibcn.guuwuu 鼓舞
@@ -6016,6 +6025,7 @@
 {0}ia+wuic.quegoe 去过
 {0}ia+wvxv.gsijni 公交
 {0}ia+we+ohsxvsl.gsibweuue 公倍数
+{0}ia+oz+nebxk.tdepkoyho 太平洋
 {0}ia+oz+dywgxk.tdepkodcu 太平島
 {0}ia+oa+kcrfbk.ocubuedce 找不到
 {0}ia+sbc.quenmo 去年
@@ -7004,6 +7014,7 @@
 {0}kd+ud+xa+ojfudfnn.oueboidaexto 筑波大学
 {0}kd+ufdnhnw.osijio 终极
 {0}kd+hodynlnl.luexme 路線
+{0}kd+va+kozmy.xiojbipko 習金平
 {0}kd+wxmlnl.luebmi 路边
 {0}kd+wegkjhnw.osidri 终端
 {0}kd+sbmxfxr.jnivce 骄傲
@@ -7252,7 +7263,8 @@
 {0}ka+zfu.yiizie 一字
 {0}ka+zjkk.yiioio 一直
 {0}ka+zj+tdbkpgv.yiigrexke 一貫性
-{0}ka+zj+ka+lkdnlerj.yiiddeyiilue 一帯一路
+{0}ka+zj+ka+lkdnlerj.yiiddeyiilue 一带一路
+{1}ka+zj+ka+lkdnlerj.yiiddeyiilue 一帯一路
 {0}ka+za+va+yi+sfxkpdr.vreuiosiejpoqie 二十四節気
 {0}ka+vb+ms+wexowx.yiijuufhesse 一挙放送
 {0}ka+vp+odjgnk.jlixiiugu 江西省
@@ -7348,6 +7360,7 @@
 {0}fx+rn+fs+lkdnlsbii.jmekhioiilue 健康之路
 {0}fx+rf,vd+dcxmssxwn.qiehzebmedse 気候変動
 {0}fx+vmds.qieffi 気分
+{0}fx+wmsfss.qiexro 気旋
 {0}fx+wlmklvb.jmecio 鍵詞
 {0}fx+wlkklvb.jmeyuu 鍵語
 {0}fx+sy+wcrdki.jludeoouu 奖得主
@@ -7492,6 +7505,7 @@
 {0}fl+tsiik.keulmo 可怜
 {0}fl+teyk.keuxii 可惜
 {0}fl+hisk.keuyiu 可以
+{0}fl+cu+kz+hx+mehkbihfxin.keuiioxuefaioju 可持续发展
 {0}fl+mkicy.wfewui 問屋
 {0}fl+zx+sk+xa+sdbkcfidkfw.keuoioxkowfojme 可執行文件
 {0}fl+zx+dskkfkcfi.keuoioxko 可執行
@@ -7544,6 +7558,7 @@
 {0}fi+dufowj.tsiigi 通称
 {0}fi+dwwdfwj.tsihho 通航
 {0}fi+dskkfwj.tsixko 通行
+{0}fi+dfkridl.tdofgi 颱風
 {0}fi+jbb.oriyse 专用
 {0}fi+jbwj.tsiyse 通用
 {0}fi+jtswj.tsiohe 通胀
@@ -7570,6 +7585,7 @@
 {0}fkw+ig 疏
 {0}fk+yx+epyeej.kdimuequi 開幕曲
 {0}fk+yx+itkyeej.kdimueuie 開幕式
+{0}fk+yevndri.fgibce 風暴
 {0}fk+nzkvfjs.yueyju 预演
 {0}fk+nd+cp+llixlfjvdfkc.yueiuuliuqie 預処理器
 {0}fk+nd+kcpcfjvdf.yueiuuliu 預処理
@@ -7614,6 +7630,7 @@
 {0}fjc 角
 {0}fj+cidmrs.fweigo 费城
 {0}fj+mkmikbx.hreyuu 換羽
+{0}fj+dfkridkv.juefgi 颶風
 {0}fj+jbrgv.fweyse 費用
 {0}fa+tj+wlkklkzf.dkinkoyuu 丁寧語
 {0}fa+ztjfk.dkinko 丁寧
@@ -7984,6 +8001,7 @@
 {0}je+sk+oa+iyhddkfk.xtexkobuello 血行不良
 {0}je+ecxzz.njomwu 南美
 {0}je+eekhfvg.ghipko 鋼瓶
+{0}je+ia+oz+nebzzxk.njotdepkoyho 南太平洋
 {0}je+dzlld.xtegru 血管
 {0}je+dskkfd.xtexko 血行
 {0}je+kn.klzzuk.njojiouio 南極石
@@ -8117,6 +8135,7 @@
 {0}ja+yevy.mkoxmu 明显
 {0}ja+ydbky.mkoxki 明星
 {0}ja+yfdnls.nwegeo 内閣
+{0}ja+ngfns.nwehjo 内涵
 {0}ja+nily.mkooie 明治
 {0}ja+xnj.pgoyzu 朋友
 {0}ja+xx,zz,peexwmdg.yzuxnefjetsi 有効範囲
