@@ -143,6 +143,7 @@
 {0}bk+mr+stelf.iaebpohxe 差別化
 {0}bk+mkhd.ugiohu 生長
 {0}bk+zm+ykpctjcrn.qkobcelle 情報量
+{0}bk+zm+mk+nrpttjcrnnj.qkobcelzexpe 情報漏洩
 {0}bk+vpznj.qkidji 清单
 {0}bk+vmdvnj.qkipbo 清貧
 {0}bk+vlfstj.qkoyue 情欲
@@ -349,6 +350,7 @@
 {0}pm+wlookr.mmetjo 面談
 {0}pm+wlitkkr.mmeuie 面試
 {0}pm+wexkg.pwesse 配送
+{0}pm+wk+zxykgsl.pwexbeoeu 配信者
 {0}pm+swklkg.pwexbe 配信
 {0}pm+skcfkr.mmedce 面倒
 {0}pm+lm+wlmkldkkws.fjiyiecio 翻訳詞
@@ -378,6 +380,7 @@
 {0}pz+srs.mwugee 毎个
 {0}pz+sweo.djiwwe 単位
 {0}pz+ssl.geerfo 個人
+{0}pz+sa+bk+czmrnsltj.geerfoqkobce 個人情報
 {0}pz+sa+oi+lkhmslhmj.geerfobmihce 個人編号
 {0}pz+sa+sj+ouwzslkgv.geerfoziilne 個人資料
 {0}pz+lmrfsl.geebpo 個別
@@ -887,6 +890,7 @@
 {0}xg+rw+klykikfez.wuoohevde 无障碍
 {0}xg+ua+wrkks.wuoxqioiu 无休止
 {0}xg+hkizk.wuoxme 无线
+{0}xg+csmznk.wuoque 无趣
 {0}xg+mzddrk.wuolno 无聊
 {0}xg+wh+stkus.wuoheohxe 无核化
 {0}xg+suk.wuoxqi 无休
@@ -915,6 +919,7 @@
 {0}xm+hojkp.njozuu 男組
 {0}xm+ca+fjcpw.njoouujnu 男主角
 {0}xm+mx+zkevs.suiyiiuie 苏伊士
+{0}xm+mr+rcwdhpjn.njofuooli 男服装
 {0}xm+zwxx.hhiuio 夯实
 {0}xm+zkwszm.xpodke 協定
 {0}xm+za+diiis.wweufomea 为什么
@@ -1554,6 +1559,7 @@
 {0}ri+fygee.ljosee 蓝色
 {0}ri+fkwloee.ljojki 蓝鲸
 {0}ri+jbg.ljuyte 揽月
+{0}rd+ba+wmsevfnbo.jlebjeqio 降半旗
 {0}rd+rrrvfnb.jleuye 降順
 {0}rd+ukrn.bjubfu 版本
 {0}rd+hsd.xqinvu 修女
@@ -1937,7 +1943,8 @@
 {0}ui+kun.dveyuo 对于
 {0}ui+kw+fe+vc+uk+kpvmdnesbee.dvehueyhujiibfuffi 对芐氧基苯酚
 {0}ui+fytsn.dvexle 对象
-{0}udn 板
+{0}udn 皮
+{1}udn 板
 {0}udf+i 楓
 {0}ud+yd+frzkgfhsrg.guivroyre 孤児院
 {0}ud+yfmzwkr.xbiwfo 新聞
@@ -2637,6 +2644,7 @@
 {0}co+nmsp.hwizeo 黒沢
 {0}co+njklp.hwidse 黒洞
 {0}co+mdxnp.hwifae 黒髪
+{0}co+zdnlp.hwikee 黒客
 {0}co+vd+ncipigi.hwimoofau 黑魔法
 {0}co+vd+ci+rw+ss,iupiginfdmdkr.hwimoofaufhoyueuue 黑魔法防御术
 {0}co+wt+mxtwkplj.hwizvuvzi 黑嘴鸥
@@ -2749,6 +2757,7 @@
 {0}cj+vkgg.xmejbi 現金
 {0}cj+wx+ea+psrrkdgzt.xmeuiouiejpe 现实世界
 {0}cj+wlosgg.gridmu 観点
+{0}cj+widgkdg.xmeisi 现充
 {0}cj+sm+dcxmkcg.zdeqiudse 再起動
 {0}cj+swcle.yeioue 噎住
 {0}cj+sitkgg.xmedde 現代
@@ -2947,6 +2956,7 @@
 {0}ms+dskkfwdh.lvuxko 旅行
 {0}ms+kwwev.qioxxe 旗下
 {0}ms+kjpgwx.fhedme 放電
+{0}ms+jbic.gueyse 雇用
 {0}mlr+f 剧
 {0}mle+b 群
 {0}mlf+r 郡
@@ -3064,6 +3074,7 @@
 {0}mk+pdnlsn.qbilte 侵略
 {0}mk+yyc.ycerie 曜日
 {0}mk+yuio.dhiuio 当时
+{0}mk+nrptnj.lzexpe 漏洩
 {0}mk+nspwee.ljohdu 藍海
 {0}mk+xrjjd.jnibue 膠布
 {0}mk+xsxx.ntejio 疟疾
@@ -3165,6 +3176,7 @@
 {0}zn+kkhmb.jieqnu 技巧
 {0}zx+prdyoom.kcuyai 烤鴨
 {0}zx+zxyey.oueoeu 著者
+{0}zx+zjhioem.lwisou 勒索
 {0}zx+wedgzf.gvudce 軌道
 {0}zx+sm+usxceys.ouezoeqro 著作権
 {0}zx+ssmey.ouezoe 著作
@@ -4689,6 +4701,7 @@
 {0}sk+bkhfxt.faibnu 発表
 {0}sk+bjzzfxt.faihvi 発揮
 {0}sk+przxydk.qmiuuu 签署
+{0}sk+puzv.bbigou 宾果
 {0}sk+yskjvzy.suetio 宿題
 {0}sk+ydbkdkf.xkoxki 行星
 {0}sk+yk+sa+dbtddflecd.dgiihurfowue 登場人物
@@ -5244,6 +5257,7 @@
 {0}lj+dx,ua+kk.ecxwlujzxo.gciqnowwendemwu 高橋未奈美
 {0}lj+dulwcl.dneheo 調和
 {0}lj+dhisz.huogxi 胡瓜
+{0}lj+dcuiwl.gcidgu 高等
 {0}lj+dzllwl.gcigru 高管
 {0}lj+dzjswl.gcioie 高质
 {0}lj+dsrbwcl.dnelve 調律
@@ -5450,7 +5464,6 @@
 {0}ec+itksi.yiouie 儀式
 {0}ec+fuun.yhezia 様子
 {0}ezj+rj 帯
-{1}ezj+rj 带
 {0}ez+bcn.guuuzu 鼓手
 {0}ez+ojlbcn.guuohu 鼓掌
 {0}ez+sefibcn.guuwuu 鼓舞
@@ -5501,6 +5514,7 @@
 {0}eo+xx,stswm.wuoxnehxe 無効化
 {0}eo+tixds.wuocju 無惨
 {0}eo+hodyns.wuoxme 無線
+{0}eo+csmzns.wuoque 無趣
 {0}eo+moxis.wuotoo 無駄
 {0}eo+zrrfs.wuouie 無事
 {0}eo+vj+fryhse.wuoqiixme 無期限
@@ -5968,6 +5982,7 @@
 {0}if+sbs.jbinmo 今年
 {0}if+srfi.doigee 多个
 {0}if+ssmfi.doizoe 多作
+{0}if+lzuds.faowwe 乏味
 {0}if+evjs.jbiqii 今期
 {0}if+dbks.jbiugi 今生
 {0}if+dn+jp+evdkrfinlk.doiloelwosii 多洛雷斯
@@ -6169,6 +6184,7 @@
 {0}dx,xmlnt.tmijxi 添加
 {0}dx,xssmn.faejxi 髪夾
 {0}dx,uhiib.qiejii 契機
+{0}dx,hotkb.qieyti 契約
 {0}dx,cydd.xneugi 笑声
 {0}dx,cu+ka+dcuiomdiw.lpedguuhedgu 劣等上等
 {0}dx,cixmom.lpeuie 劣勢
@@ -6177,6 +6193,7 @@
 {0}dx,wlod.xnedmu 笑点
 {0}dx,wljjmn.faegci 髪膏
 {0}dx,wdkjvd.xneyjo 笑顔
+{0}dx,ot+rcybhk.qieytiuui 契約書
 {0}dx,oubkjh.ycijki 妖精
 {0}dx,du+ewxbeef.vculielmo 芺莉莲
 {0}dx,dcuiom.lpedgu 劣等
@@ -6324,6 +6341,7 @@
 {0}dm+ixmii.igowwe 成为
 {0}dm+itkw.fhiuie 方式
 {0}dm+ihbkjwx.yciqku 邀请
+{0}dm+dskkfxg.fjexko 犯行
 {0}dm+djlw.fhixle 方向
 {0}dm+kpmrw.fhimme 方面
 {0}dm+kxmi.igogsi 成功
@@ -6335,6 +6353,7 @@
 {0}dzu 朱
 {0}dz+nwsxlk.toeyee 唾液
 {0}dz+tdbknl.hooxke 活性
+{0}dz+tk+kk.iocuuisi.ouiuiehveuee 株式会社
 {0}dz+rr,mkheczf.dsuuieohu 董事長
 {0}dz+ug+klvcj.osiruuuio 鍾乳石
 {0}dz+mkftnl.hoouii 活屍
@@ -6348,6 +6367,7 @@
 {0}dz+lkmkcnl.hooyte 活躍
 {0}dz+lkdxnl.hooyte 活跃
 {0}dz+ebjgnl.hoooea 活着
+{0}dz+itkuu.ouiuie 株式
 {0}dz+ih+nihnnlnn.hoopoipoi 活泼泼
 {0}dz+db,stnltk.hooxkehxe 活性化
 {0}dz+durjxbq.iaiyhi 插秧
@@ -7616,6 +7636,7 @@
 {0}fk+djrffjs.yueoie 预制
 {0}fk+djgefjs.yuesre 预算
 {0}fk+kgpvn.luehxe 録画
+{0}fk+kkoye.kdiuie 開示
 {0}fk+kk.itkyesi.kdihveuie 開会式
 {0}fk+frwdmfjv.yuefho 預防
 {0}fk+frwdmfjs.yuefho 预防
@@ -7859,6 +7880,7 @@
 {0}jh.frzio.souybu 索引
 {0}jc+yg+ld+wlzffwfn.jnuseeueejie 角色設計
 {0}jc+yg+ld+lz+dlkrjffwfnw.jnuseeueejieuii 角色設計師
+{0}jc+rrrf.jnuiri 角川
 {0}jc+uzwl.ozimoe 週末
 {0}jc+wdcle.suezce 塑造
 {0}jc+ouwze.suelne 塑料
