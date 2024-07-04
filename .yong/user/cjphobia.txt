@@ -56,6 +56,7 @@
 {0}bg,xksjd.mcobke 毛病
 {0}bc,nddhdui.teepde 特派
 {0}bc,tdbkdui.teexke 特性
+{0}bc,rj+dhioduidgv.teeoiexie 特質系
 {0}bc,usxcdui.teeqro 特権
 {0}bc,hofdndui.teejio 特級
 {0}bc,mr+hoimjduilf.teebpobmi 特別編
@@ -68,6 +69,7 @@
 {0}bc,sg+ey+itkduidcxux.teeogimoouie 特徴模式
 {0}bc,skffdui.teelie 特例
 {0}bc,lmrfdui.teebpo 特別
+{0}bc,drjgvdui.teeoie 特質
 {0}bc,dupdui.teefji 特番
 {0}bc,dsgcxdui.teeogi 特徴
 {0}bc,dd,ljsduinh.teepdeyro 特派员
@@ -188,6 +190,7 @@
 {0}bf,bdupsi.iroboi 传播
 {0}bf,xbskfsi.irouui 传输
 {0}bf,xkflsi.iroqio 传奇
+{0}bf,rgmr.naevro 那儿
 {0}bf,uebmr.naeyhe 那样
 {0}bf,hkwigsi.irotsu 传统
 {0}bf,hksklsi.irogwu 传给
@@ -1117,6 +1120,7 @@
 {0}xa+mrmr.daeifo 大臣
 {0}xa+mzexe.grilmo 关联
 {0}xa+zr+sizllsx.daeuiugru 大使館
+{0}xa+zvkk.tmiksi 天空
 {0}xa+zevs.daesde 大赛
 {0}xa+zkms.daejxi 大家
 {0}xa+zfuw.wfozie 文字
@@ -1323,6 +1327,7 @@
 {0}td+zkiczg.mieuie 密室
 {0}td+wlmgyd.yiejie 易記
 {0}td+ojxoyd.yierjo 易燃
+{0}td+ojfuyd.yiexto 易学
 {0}td+lkdnlsbs.tpulue 铁路
 {0}td+ienzg.miedue 密度
 {0}td+duyidi.ueexli 麝香
@@ -1408,6 +1413,7 @@
 {0}rp+hodynev.hloxme 黄線
 {0}rp+hfukx.ggehcu 更好
 {0}rp+cydd.diougi 笛声
+{0}rp+mehsr.ufioju 伸展
 {0}rp+mkhsr.ufiohu 伸長
 {0}rp+zkwszr.ufudke 审定
 {0}rp+vev.hlojbi 黄金
@@ -2433,6 +2439,7 @@
 {0}hi+uudui.jiicdo 機材
 {0}hi+ueejui.jiigze 機構
 {0}hi+uieui.jiixpe 機械
+{0}hi+howigdo.xietsu 系統
 {0}hi+heqvui.jiixmo 機嫌
 {0}hi+hkwigdo.xietsu 系统
 {0}hi+mkpevui.jiiyie 機翼
@@ -2958,6 +2965,7 @@
 {0}ms+xrfur.ujucyo 闪存
 {0}ms+xmlwtu.uiijxi 施加
 {0}ms+twx.fhexbi 放心
+{0}ms+ggwx.fheiui 放出
 {0}ms+wldfnix.fuiuee 敷設
 {0}ms+wexwx.fhesse 放送
 {0}ms+wieuwx.fheqie 放棄
@@ -3534,6 +3542,7 @@
 {0}vd+ykpcwn.bmelle 変量
 {0}vd+nciigi.moofau 魔法
 {0}vd+xmigi.moolie 魔力
+{0}vd+ta+dhiowns.bmehxexie 変化系
 {0}vd+rp+lm+vfknwnkxwg.bmeggejielue 変更記録
 {0}vd+higi.moonvu 魔女
 {0}vd+cykekr.siitju 斯坦
@@ -3671,6 +3680,7 @@
 {0}va+fi+dh+rcwdhewjw.gsetsiyiioli 共通衣装
 {0}va+fi+kkjvewj.gsetsixle 共通項
 {0}va+jgrf.jbighi 金剛
+{0}va+jc+kedddwf.lqejnuxko 六角形
 {0}va+jkle.gsetso 共同
 {0}wp+xf+ca+ecdbithtisw.hkoyioouuyie 懐疑主義
 {0}wp+txfisth.hkoyio 懐疑
@@ -5086,6 +5096,7 @@
 {0}ll.wlkozl.pbupko 品評
 {0}ll.ojlcnu.zcutho 澡堂
 {0}ll.sm+hi+hkwigbusdo.ccizoexietsu 操作系统
+{0}ll.sm+dhiobus.ccizoexie 操作系
 {0}ll.ssmbu.ccizoe 操作
 {0}ll.lzul.pbuwwe 品味
 {0}ll.dbsch.sheuii 喪失
@@ -5778,6 +5789,7 @@
 {0}it+klfhks.ddemau 代码
 {0}it+jbs.ddeyse 代用
 {0}ir+xmfi.qlolie 強力
+{0}ir+ta+dhiofis.qlohxexie 強化系
 {0}ir+ta+jf+mkdyfisou.qlohxextoxio 強化学習
 {0}ir+zxyfi.qlooeu 強者
 {0}ir+wljclfi.qlodne 強調
@@ -6026,6 +6038,7 @@
 {0}if+kkgfi.doiyro 多元
 {0}if+kkhmfi.doikvi 多亏
 {0}if+kkfsfi.doicie 多次
+{0}if+jt+xmstit.nmengolie 念能力
 {0}ij 请
 {0}ijs 름
 {0}ij+bxfpkzi.boovco 博鳌
@@ -6408,6 +6421,7 @@
 {0}dz+jbnl.hooyse 活用
 {0}dw+cibn.bjique 搬去
 {0}dw+fnrfmkt.ziiboi 髭剥
+{0}do 系
 {0}dou 乎
 {0}do+ta+pr+wlmklluikf.huiykifuecio 呼応副詞
 {0}do+gglu.huiiui 呼出
@@ -7104,6 +7118,7 @@
 {0}kk.ctuo.bnioie 标志
 {0}kk.cidmes.cioigo 茨城
 {0}kk.cfmdsi.hveihu 会场
+{0}kk.cj+stjvkgg.juexmehxe 具現化
 {0}kk.mzkcizg.wjobie 完璧
 {0}kk.mehsi.hveoju 会展
 {0}kk.md+hisevdkr.qiosouyiu 其所以
@@ -7168,6 +7183,7 @@
 {0}kk.dskkfwi.yyexko 运行
 {0}kk.dklev.qiohze 其后
 {0}kk.djgewi.yyesre 运算
+{0}kk.kcjggjv.juexme 具現
 {0}kk.ks+jk+kgpkhckkv.sjiwwolkohxe 三维霊画
 {0}kk.klodkh.ifouai 辰砂
 {0}kk.kixmwi.yyedse 运动
@@ -7642,6 +7658,7 @@
 {0}fkt+l 驹
 {0}fkm+g 危
 {0}fkw+ig 疏
+{0}fk+bznyei.dzejie 闘技
 {0}fk+yx+epyeej.kdimuequi 開幕曲
 {0}fk+yx+itkyeej.kdimueuie 開幕式
 {0}fk+yevndri.fgibce 風暴
@@ -7655,6 +7672,7 @@
 {0}fk+udnldri.fgigeo 風格
 {0}fk+hilye.kdiuiu 開始
 {0}fk+mijggfjv.yuelju 預覧
+{0}fk+zn+cykdyeib.dzejieihu 闘技場
 {0}fk+zkwsfjv.yuedke 預定
 {0}fk+zkwsfjs.yuedke 预定
 {0}fk+vfjv.yuejbi 預金
@@ -7880,6 +7898,7 @@
 {0}jg+wcd.zieouu 自主
 {0}jg+wlmitd.zierfe 自認
 {0}jg+wieud.zieqie 自棄
+{0}jg+wdkru.xlijbe 相近
 {0}jg+wa+jr+wkdkkr.ziexxevrouhe 自下而上
 {0}jg+oc+usxcuhjg.xlixueqro 相続権
 {0}jg+omku.xlidhi 相当
