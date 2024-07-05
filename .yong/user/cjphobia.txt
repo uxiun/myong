@@ -594,6 +594,8 @@
 {0}yk+km+fd+esudczshm.hlojxinduiao 皇家奶茶
 {0}yk+filbs.tiomko 提名
 {0}yf+ytdddy.jmuyie 簡易
+{0}yf+yjdy.jmumko 簡明
+{0}yf+nbdody.jmujpo 簡潔
 {0}yf+uk+zfudys.jmutiuzie 簡体字
 {0}yf+wrjzr.dziuie 都市
 {0}yf+opzdy.jmudji 簡単
@@ -2431,6 +2433,7 @@
 {0}he+wizvie.jluuue 讲述
 {0}hix+m 幼
 {0}him 幻
+{0}hi+poixgi.yzimoe 幽默
 {0}hi+pdnwitk.uietuo 试图
 {0}hi+yfexui.jiigri 機関
 {0}hi+yfexw.xrogri 玄関
@@ -2957,6 +2960,7 @@
 {0}mo+ri+om+zhueieeuk.wweljodhevje 蔚蓝档案
 {0}mo+erieei.wweljo 蔚蓝
 {0}ms+przjkwx.fheoie 放置
+{0}ms+puiwdh.lvutro 旅団
 {0}ms+yrjxwx.fheyke 放映
 {0}ms+nwx.fheuvu 放水
 {0}ms+nwmuwdh.lvuyzo 旅游
@@ -3182,6 +3186,7 @@
 {0}zyo 煮
 {0}znb 撃
 {0}zn+nojm.quuxni 取消
+{0}zn+tuxzc.oiekke 軽快
 {0}zn+urkjvi.qqolde 求頼
 {0}zn+wsm.quuyui 取込
 {0}zn+sprji.qqovzu 求偶
@@ -3906,6 +3911,7 @@
 {0}we+jxxyy.vjewhu 暗网
 {0}we+jjnbh.jpiuze 接受
 {0}wi 率
+{0}wi+ydbkng.lqoxki 流星
 {0}wi+ykpcng.lqolle 流量
 {0}wi+nkmxng.lqolwe 流涙
 {0}wi+njgng.lqolwe 流泪
@@ -3918,6 +3924,7 @@
 {0}wi+inng.lqobki 流氷
 {0}wi+iltng.lqogju 流感
 {0}wi+dbsng.lqouii 流失
+{0}wi+db,dsccfngyk.lqoxkijpi 流星街
 {0}wi+duldcng.lqoigo 流程
 {0}wi+dcxmng.lqodse 流動
 {0}wi+dskkfng.lqoxko 流行
@@ -4556,6 +4563,7 @@
 {0}sc+mehw.jbeoju 進展
 {0}sc+zldlio.ykigsi 鷹宮
 {0}sc+zkwsb.tvidke 推定
+{0}sc+wxb.tviwfo 推文
 {0}sc+wrkdw.jbebue 進歩
 {0}sc+whtn.njowhe 难忘
 {0}sc+wmsb.tviiio 推迟
@@ -4841,6 +4849,7 @@
 {0}sj+djrfbgg.gvioie 規制
 {0}sj+klfsbgv.zjegei 賛歌
 {0}sj+jvrfbgg.gvizeo 規則
+{0}sj+jvizie.dcezwo 盗賊
 {0}sj+jkxmis.ziioue 资助
 {0}sa+pcfiff.jquyeu 久野
 {0}sa+yfy.rfojmi 人間
@@ -5815,6 +5824,7 @@
 {0}im+ugth.hrexlu 幻想
 {0}im+gt,bk+dbtddhud.hrexluugiwue 幻想生物
 {0}im+hfusj.pmihcu 偏好
+{0}im+od+ms+puihyddwdh.hreykulvutro 幻影旅団
 {0}im+ojjggh.hrejto 幻覚
 {0}im+sth.hrehxe 幻化
 {0}im+szrxyr.jiouiu 即使
@@ -6726,7 +6736,6 @@
 {0}ku+koix.jtobue 决不
 {0}ku+fwhis.yuoxmo 余弦
 {0}kg 配
-{-}kg 電
 {0}kgk+jv 頋
 {0}kgk+js 顾
 {0}kg+bzrsji.grijpo 冠捷
