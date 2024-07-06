@@ -5,7 +5,8 @@
 {0}bb,stizxfi.oruqmo 转钱
 {0}bb,dufifxfi.oruyio 转移
 {0}bb,kfcxfi.oruxko 转型
-{0}bxn 泰
+{0}bxn 抜
+{1}bxn 泰
 {0}bxn+ 泰
 {0}bxo 熬
 {0}bx,bx,jsdyoubub.bhebhejii 棒棒鶏
@@ -1748,6 +1749,7 @@
 {0}ra+ui+xa+jvrfuw.osicyiwfozeo 中村文則
 {0}ra+udnp.jxubju 甲板
 {0}ra+hudkr.osidre 中断
+{0}ra+hohouf.ybujie 引継
 {0}ra+hohou.osijie 中継
 {0}ra+hoijiu.uuefue 束縛
 {0}ra+csmgf.ybuqiu 引起
@@ -1905,6 +1907,7 @@
 {0}us+wlmgxc.zaojie 雑記
 {0}us+wijzx.jneyue 教育
 {0}us+skkizx.jnehve 教会
+{0}us+ljgvzx.jneyro 教員
 {0}us+duwzzx.jnekei 教科
 {0}us+dlkrjzx.jneuii 教師
 {0}ul+uceidkc.igouue 程樹
@@ -2179,6 +2182,8 @@
 {0}gt,tzesf.yreffe 怨愤
 {0}gt,csmgu.xluqiu 想起
 {0}gt,zkwsu.xludke 想定
+{0}gt,wfiju.xlutsi 想通
+{0}gt,oa+ugtuk.xlubuexlu 想不想
 {0}gt,oa+gguk.xlubueiui 想不出
 {0}gt,sm+ueucg.xluqiuldo 想起来
 {0}gt,sfysu.xluxle 想像
@@ -2759,6 +2764,7 @@
 {0}cj+njvfsgg.gricee 観測
 {0}cj+xrckgg.xmezde 現在
 {0}cj+xrckdg.xmezde 现在
+{0}cj+xjkdg.xmeyzu 现有
 {0}cj+rrmkjk.zdegvi 再帰
 {0}cj+rm+wa+xa+jm.udkrkrkjkwfdb.zdegvixxewfojpuxii 再帰下降構文解析
 {0}cj+rm+wa+frdnbkrkjk.zdegvixxejle 再帰下降
@@ -3142,6 +3148,7 @@
 {0}ma+xm.juedae 巨大
 {0}ma+rd+evdkrwsd.luoxqisii 卢修斯
 {0}ma+hmbrw.luonae 卢娜
+{0}ma+howjjk.huedie 戸締
 {0}ma+zijik.wjeboo 万博
 {0}ma+os+hojehkhc.wjewwowhu 万維網
 {0}ma+ojfux.liexto 力学
@@ -3343,7 +3350,7 @@
 {0}zd+endldfn.dreloe 段落
 {0}zd+kxmdr.lnotmi 聊天
 {0}zd+frttydfn.drejpi 段階
-{0}zk+bxdxnv.yjuzze 演奏
+{-}zk+bxdxnv.yjuzze 演奏
 {0}zk+bxkxnv.yjuzze 演奏
 {0}zk+bznnv.yjujie 演技
 {0}zk+bsczki.orutvi 転推
@@ -3658,6 +3665,7 @@
 {0}va+wfjse.gseyko 共赢
 {0}va+ouf.xnumiu 小米
 {0}va+ohsxf.xnuuue 小数
+{0}va+ojljv.jbiuhu 金賞
 {0}va+sctwkf.xnuhee 小鹤
 {0}va+sk+ydbkfdkf.xnuxkoxki 小行星
 {0}va+sf+dfdrifwx.xnuyeefgi 小夜風
@@ -3917,6 +3925,7 @@
 {0}wi+njgng.lqolwe 流泪
 {0}wi+xvdfnvg.iseuai 銃殺
 {0}wi+rrfmdng.lqoihe 流畅
+{0}wi+uwvxp.muuxne 母校
 {0}wi+ggng.lqoiui 流出
 {0}wi+hk+zxypikl.muuyuuoeu 母语者
 {0}wi+cilkng.lqoyue 流域
@@ -4086,6 +4095,7 @@
 {0}om+srrhdl.ucejpe 紹介
 {0}om+sifthg.jienme 紀念
 {0}om+dcxmmx.quidse 駆動
+{0}om+krjwmns.ozeyuu 驟雨
 {0}oz+yuik.pkouio 平时
 {0}oz+ycuik.pkouio 平時
 {0}oz+nook.pkodje 平淡
@@ -4298,6 +4308,7 @@
 {0}oa+yjk.buemko 不明
 {0}oa+nzx.hvioii 灰汁
 {0}oa+negjk.buemju 不満
+{0}oa+nidok.buempe 不滅
 {0}oa+xm+ul+weykzmd.buexpoheoybi 不協和音
 {0}oa+xl+wedgks.bueoiidce 不知道
 {0}oa+xl+oa+ojjdgksk.bueoiibuejto 不知不觉
@@ -4412,6 +4423,7 @@
 {0}sp+ixdddnw.hducji 海参
 {0}sp+idtknw.hdudiu 海底
 {0}sp+dbknw.hduugi 海生
+{0}sp+krjwuw.mwoyuu 梅雨
 {0}sp+khuisw.wuuruu 侮辱
 {0}sp+kj+no+qi+va+wz,estuwkjteddez,woieaivabimoxi 梅麗莎･金蓮花
 {0}sp+frcvcnw.hdulue 海陸
@@ -4578,6 +4590,7 @@
 {0}sc+sk+rwdkf.jbexkoosi 進行中
 {0}sc+ldkrn.njotki 难听
 {0}sc+ld+du+weyiozlef.ykigsilieybi 鷹宮莉音
+{0}sc+lkdnlw.jbelue 進路
 {0}sc+exrub.tvijme 推荐
 {0}sc+emzu.ivorsi 椎茸
 {0}sc+ezjrjbm.xpodde 携帯
@@ -4862,6 +4875,7 @@
 {0}sa+uk+rk+ul+ojfuskddc.rfotiugsiigoxto 人体工程学
 {0}sa+ht+ks+isuilkx.rfomboogefuu 人民政府
 {0}sa+hlf.qmeruo 欠如
+{0}sa+cx+fufe.jqumwuzia 久美子
 {0}sa+mleb.rfoqyo 人群
 {0}sa+zrrfs.csouie 从事
 {0}sa+zrhb.fuiqii 夫妻
@@ -4982,6 +4996,7 @@
 {0}lu+frwezs.bcuohe 保障
 {0}lu+frskss.bcuxmu 保険
 {0}lu+foebs.bcuxmi 保鮮
+{0}lg+bxnwv.xrubao 選抜
 {0}lg+bmswv.xruzeo 選択
 {0}lg+bdzlt.bcikoe 包括
 {0}lg+pi+cslekxokvn.tjesriyjo 碳酸塩
@@ -5001,6 +5016,7 @@
 {0}lc+mznwjg.duoquu 読取
 {0}lc+wswjg.duoyui 読込
 {0}lc+wlowjg.duodmu 読点
+{0}lc+ffwjg.duolea 読了
 {0}lm 号
 {0}lmr+f 別
 {0}lm+nciwg.jiefau 記法
@@ -5144,6 +5160,7 @@
 {0}le+jugk.dzeruu 豆乳
 {0}le+jjxncl.xiuvde 喜爱
 {0}li+pdnlw.ojelte 战略
+{0}li+nwelx.kuiqie 哭泣
 {0}li+hu+eplxld.qieleequi 器乐曲
 {0}li+moskswtk.uieyje 試験
 {0}li+zlrllxl.qiegri 器官
@@ -5192,6 +5209,7 @@
 {0}lk+hkjpuwkl.yuuhve 語彙
 {0}lk+mdbgwkl.yuuwwu 語尾
 {0}lk+zxyi.hoeoeu 或者
+{0}lk+zrrfdrj.uiiuie 師事
 {0}lk+zvxfke.yjojqi 研究
 {0}lk+zevckrx.ykesdi 硬塞
 {0}lk+vx+zxykezf.yjojqioeu 研究者
@@ -5382,7 +5400,8 @@
 {0}eq+xf+shvtis.xmoyiorfo 嫌疑人
 {0}eq+txfishv.xmoyio 嫌疑
 {0}eq+kkthv.xmovee 嫌悪
-{0}ep 苗
+{0}ep 曲
+{1}ep 苗
 {0}epr+f 夢
 {0}ep+pa+ja+nilwcy.tsotmomkooie 童田明治
 {0}ep+yk+epuiwgj.lsodjuzyi 竜胆尊
@@ -6012,6 +6031,7 @@
 {0}if+njvfff.yuucee 予測
 {0}if+xmds.faolie 乏力
 {0}if+xfi.doidae 多大
+{0}if+ugtff.yuuxlu 予想
 {0}if+udfi.doicdo 多才
 {0}if+uknkfi.doijio 多極
 {0}if+hwvhsi.lkenlo 令嬢
@@ -6295,6 +6315,7 @@
 {0}du+nprzef.liezeo 莉澤
 {0}du+nwigdi.ueelqo 射流
 {0}du+xbfsf.rzorru 柔软
+{0}du+ggbp.boiiui 播出
 {0}du+znbdi.ueejii 射撃
 {0}du+wmsxbp.boifhe 播放
 {0}du+weybp.boiybi 播音
@@ -6859,6 +6880,7 @@
 {0}kc+filpi.goomko 国名
 {0}kc+fdsxmpi.goowue 国務
 {0}kc+fjcs.qrojnu 全角
+{0}km 戸
 {0}km+pmik.yuutmo 羽田
 {0}km+pa+vk+nevgmikz.yuutmoksighu 羽田空港
 {0}km+nxbrws.ouojme 逐渐
@@ -7552,7 +7574,7 @@
 {0}fo+xbskfs.niuuui 你输
 {0}fo+zkk.lpeuie 烈士
 {0}fs 久
-{0}fs+bxdxl.ivizze 吹奏
+{-}fs+bxdxl.ivizze 吹奏
 {0}fs+bxkxl.ivizze 吹奏
 {0}fs+pkcii.oiigoo 之国
 {0}fs+yfyi.oiijmi 之間
@@ -7562,6 +7584,7 @@
 {0}fs+xd,su+wlfrlbxi.ivizzeleebue 吹奏楽部
 {0}fs+xd,isulbx.ivizzelee 吹奏楽
 {0}fs+xk+su+wlfrlbxi.ivizzeleebue 吹奏楽部
+{0}fs+xk+isulbx.ivizzelee 吹奏楽
 {0}fs+rmyi.oiijmi 之间
 {0}fs+ri.oiiosi 之中
 {0}fs+hokue.igohso 橙紅
@@ -7643,6 +7666,7 @@
 {0}fi+dwwdfwj.tsihho 通航
 {0}fi+dskkfwj.tsixko 通行
 {0}fi+dfkridl.tdofgi 颱風
+{0}fi+ffwj.tsilea 通了
 {0}fi+jbb.oriyse 专用
 {0}fi+jbwj.tsiyse 通用
 {0}fi+jtswj.tsiohe 通胀
@@ -8042,6 +8066,7 @@
 {0}js+kfrfex.sjelpe 散列
 {0}js+fr+stexkf.sjelpehxe 散列化
 {0}js+fuwc.liozia 離子
+{0}jl+ycuiorj.ihouio 常時
 {0}jl+ykpcd.xlelle 向量
 {0}jl+ya+efsxd.xleriekvo 向日葵
 {0}jl+xt+xa+uttykmnfwkw.xxowuewfokdu 霞鹜文楷
@@ -8122,6 +8147,7 @@
 {0}jk+gp+stkkvk.lkohxehxe 霊画化
 {0}jk+hhokkh.ofezdi 震災
 {0}jk+hodynzk.oioxme 直線
+{0}jk+hi+ctuzvidm.ofiigodie 真诚地
 {0}jk+hkizzk.oioxme 直线
 {0}jk+hfuzv.ofihcu 真好
 {0}jk+cl+vwegwcwh.wheyrujke 望遠鏡
@@ -8141,6 +8167,7 @@
 {0}jk+ea+rn+frdnkdlei.tsujkukhilso 筒井康隆
 {0}jk+ea+udfzkd.oiougijii 直升机
 {0}jk+ix+szjhzvso.ofiwwuoio 真偽値
+{0}jk+ihidmzv.ofiigo 真诚
 {0}jk+iznkjr.xuiqqo 需求
 {0}jk+dnwzv.ofidsi 真冬
 {0}jk+dubkvzk.oiojii 直積
