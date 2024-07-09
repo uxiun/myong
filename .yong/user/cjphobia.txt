@@ -859,6 +859,7 @@
 {0}xx,ua+weywmp.xnegouybi 効果音
 {0}xx,hkdnlj.whuloe 网络
 {0}xx,hkkj.whuhso 网红
+{0}xx,cp+stwmkc.xneliuhxe 効理化
 {0}xx,mzexj.whulmo 网联
 {0}xx,wewlj.whuoje 网站
 {0}xx,wiszwm.xnelve 効率
@@ -1735,6 +1736,7 @@
 {0}rj+ouwekw.yuulie 雨粒
 {0}rj+ssszkw.yuusju 雨傘
 {0}rj+sfysyx.ykexle 映像
+{0}rj+lhtw.uiembo 市民
 {0}rj+lk+pobgexwkl.ykiyuuqri 英語圏
 {0}rj+lk+jr+kc+ca+ecdbiexwklwjpiw.ykiyuudiegooouuyie 英語帝国主義
 {0}rj+ebjgng.ufuoea 沈着
@@ -1851,6 +1853,7 @@
 {0}ut 想
 {0}ut+mtd.xiinio 悉尼
 {0}ut+ztdgdd.miemie 秘密
+{0}ut+wluxdd.miejto 秘訣
 {0}ut+fpkydd.mieluu 秘鲁
 {0}ur+nrmcdf.lierye 利润
 {0}ur+njjjw.suehxo 速滑
@@ -3680,6 +3683,7 @@
 {0}va+rrdpz.jbipdo 金牌
 {0}va+rr,ka+nfr.xnuiriyiiuvu 小川一水
 {0}va+rfx.jbijlu 金奖
+{0}va+rj+lhtfw.xnuuiembo 小市民
 {0}va+uvif.xnussi 小松
 {0}va+ul+pkcied.gseheogoo 共和国
 {0}va+ul+ififfdkc.xnuigoxue 小程序
@@ -4053,6 +4057,7 @@
 {0}obm+g 巻
 {0}ob+bxkxs.bjezze 伴奏
 {0}ob+durfjm.ugelie 勝利
+{0}op+ztdgh.xiemie 細密
 {0}op+eyxjfz.djemue 弾幕
 {0}op+jtlgh.xiebci 細胞
 {0}on+nwxrhc.jkijie 経済
@@ -4538,6 +4543,7 @@
 {0}st+rfjse.hxifwe 花费
 {0}st+uge.hxioao 花札
 {0}st+uv+xkwkeomd.hxiffuoge 花粉症
+{0}st+uksje.hxibku 花柄
 {0}st+hzkse.hxijxe 花嫁
 {0}st+cixmcgg.quiuie 趨勢
 {0}st+mirbk.ziesie 恣肆
@@ -7660,6 +7666,7 @@
 {0}fs+bxkxl.ivizze 吹奏
 {0}fs+pkcii.oiigoo 之国
 {0}fs+yfyi.oiijmi 之間
+{0}fs+nbn.boiuvu 撥水
 {0}fs+nzue.igooii 橙汁
 {0}fs+nidokik.jmimpe 殲滅
 {0}fs+xrfuit.fwecyo 廃存
