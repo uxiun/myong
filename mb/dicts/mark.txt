@@ -89,9 +89,9 @@
 .dh 〔$|〕$SPACE
 .dj ‘$|’$SPACE
 .dk “$|”$SPACE
-.dl 〈$|〉$SPACE
+.da 〈$|〉$SPACE
 .ds 《$|》$SPACE
-.d; 『$|』$SPACE
+.dd 『$|』$SPACE
 .d, 【$|】$SPACE
 .dm '$SPACE
 .dn "$SPACE
@@ -106,13 +106,15 @@
 .sj ↓$SPACE
 .sk ↑$SPACE
 .sl →$SPACE
-.s; △$SPACE
 .s, ↔$SPACE
-.sm ↕$SPACE
+.s. ↕$SPACE
+.sm △$SPACE
 .sn ◯$SPACE
 .sv □$SPACE
 .sx ✕$SPACE
-.ss ♪$SPACE
+.sd ♪$SPACE
+.ss ≒$SPACE
+.sa ＝$SPACE
 
 
 .ij ($|)$SPACE
