@@ -3,6 +3,7 @@
 {0}bb,wvnxfi.orubme 转变
 {0}bb,wkkixfi.oruyye 转运
 {0}bb,stizxfi.oruqmo 转钱
+{0}bb,ixmixfi.oruwwe 转为
 {0}bb,dufifxfi.oruyio 转移
 {0}bb,kfcxfi.oruxko 转型
 {0}bxn+ 泰
@@ -288,6 +289,7 @@
 {0}qv+wlmse.jmiyie 兼訳
 {0}qv+szlxe.jmizoe 兼做
 {0}qv+sedje.jmibwe 兼備
+{0}qi 转
 {0}qd+yodddd.ufiyku 身影
 {0}qd+uk+jv+zkwsdsnf.ufitiuceedke 身体測定
 {0}qd+mkhd.ufiohu 身長
@@ -306,14 +308,17 @@
 {0}pr+nscwj.yuenjo 遇难
 {0}pr+ugtef.mgexlu 夢想
 {0}pr+cf,ia+ifsnzpiff.zeoyeuhsooii 澤野弘之
+{0}pr+zkji.jtouie 爵士
 {0}pr+wsb.yaiyui 押込
 {0}pr+wsr.ufiyui 申込
 {0}pr+wlbkjr.ufiqku 申請
 {0}pr+wlmklkf.fuecio 副詞
+{0}pr+ohsxsj.vzuuue 偶数
 {0}pr+sm+jbkfs.fuezoeyse 副作用
 {0}pr+sfyssj.vzuxle 偶像
 {0}pr+dl+ebmkkefwl.mgeovixlo 夢追翔
 {0}pr+kcrfwj.yuedce 遇到
+{0}pr+ka+isujiz.jtouielee 爵士楽
 {0}pr+fy+xa+rrkjsjss.vzuxledaeuii 偶像大师
 {0}pr+fy+xa+dlkrjsjss.vzuxledaeuii 偶像大師
 {0}pr+jxosj.vzurjo 偶然
@@ -785,6 +790,7 @@
 {0}na+xrjm.nnebue 尿布
 {0}na+xu+fl+yskjvnwiy.ulidvewfetio 双対問題
 {0}na+xluz.oiijxe 支架
+{0}na+xa+ojfuw.uvuwfoxto 水文学
 {0}na+tbkjx.yzuqko 友情
 {0}na+tc,hudkrdi.fjulsudre 反垄断
 {0}na+ur+iodkrnv.uvuldeqio 水瀬祈
@@ -800,6 +806,7 @@
 {0}na+vmd.uvuffi 水分
 {0}na+wxuin.ulidve 双対
 {0}na+wxuid.fjudve 反対
+{0}na+wx.uvuwfo 水文
 {0}na+wlzjkx.yzuyie 友誼
 {0}na+wlkkld.fjuyuu 反語
 {0}na+odjgd.fjuugu 反省
@@ -893,6 +900,7 @@
 {0}xr+brlxj.xiioeo 希哲
 {0}xr+xa+ea+weewrwe.qiotzobkejbe 齐头并进
 {0}xr+tdbkjf.ghixke 刚性
+{0}xr+rl+sizllxjb.xiioeogru 希哲館
 {0}xr+hi+drfswfet.lqocioxbi 刘慈欣
 {0}xr+wxwr.qiotzo 齐头
 {0}xr+wvxfb.jmejni 建交
@@ -1024,6 +1032,7 @@
 {0}xd,mkhfwk.yjoohu 延長
 {0}xd,mk+zxyiddw.cjiyuuoeu 参与者
 {0}xd,zxkhmidd.cjikcu 参考
+{0}xd,zevsidd.cjisde 参赛
 {0}xd,wmkidd.cjiyuu 参与
 {0}xd,ohsxidd.cjiuue 参数
 {0}xd,srprfwk.yjoufi 延伸
@@ -1049,6 +1058,7 @@
 {0}xk+wxrruwk.oguqio 整齐
 {0}xk+wtptzhm.kculve 考慮
 {0}xk+wttzhm.kculve 考虑
+{0}xk+wlkklul.yiuyuu 椅語
 {0}xk+wlkklojv.lweyuu 類語
 {0}xk+wedgsle.drudce 短道
 {0}xk+ohsxuwk.oguuue 整数
@@ -1335,7 +1345,9 @@
 {0}ts+nxing.tcotde 淘汰
 {0}tl+xjbg.bceyzu 抱有
 {0}tl+urb.juiuue 拘束
+{0}tl+sklbg.bceheo 抱合
 {0}tl+evfsbg.bceqme 抱歉
+{0}tl+kl+wlkklbgs.bceheoyuu 抱合語
 {0}te+bhiswv.xuiniu 虚拟
 {0}te+nmkjn.xpelze 泄漏
 {0}te+nevn.xpehso 泄洪
@@ -1944,8 +1956,10 @@
 {0}uw+jeyxol.ojimoo 粘膜
 {0}uw+jf+zkmsdzou.keixtojxi 科学家
 {0}uw+jf+sizlldzou.keixtogru 科学館
+{0}uo+nwksd.qqisee 秋渋
 {0}uo+typndj.ucimje 稍慢
 {0}uo+wurdd.mnusue 秒速
+{0}uo+wk+dhiodns.qqiseexie 秋渋系
 {0}uo+jk+kgpdkkv.qqilkohxe 秋霊画
 {0}us+rrkjzx.jneuii 教师
 {0}us+uudzx.jnecdo 教材
@@ -2052,6 +2066,7 @@
 {0}ud+wmssxdzc.osuzuo 種族
 {0}ud+wldfnwkr.xbiuee 新設
 {0}ud+weynn.boiybi 波音
+{0}ud+wefhs.guilie 孤立
 {0}ud+oxkjvdzc.osulwe 種類
 {0}ud+ouwzu.cdolne 材料
 {0}ud+okvwkr.xbixki 新兴
@@ -2067,6 +2082,7 @@
 {0}ud+ljsp.troyro 团员
 {0}ud+ekknn.boiljo 波兰
 {0}ud+ea+psrrwkrt.xbiuiejpe 新世界
+{0}ud+ea+wlkklfhsw.guilieyuu 孤立語
 {0}ud+ea+kh+fuwkrebio.xbijkusuezia 新井素子
 {0}ud+iogjdd.cduliu 彩礼
 {0}ud+ik.oc+jskkojddri.cduhsoueejie 彩虹社祭
@@ -2261,6 +2277,7 @@
 {0}gu+fvpzli.dcudje 导弹
 {0}gg 出
 {0}gg,bdkrm.quioeo 屈折
+{0}gg,dk+wlkklmbr.quioeoyuu 屈折語
 {0}gmg+g 崛
 {0}gm+jgjdj.ouumue 瞩目
 {0}gv+cfdfnj.bweqne 貝殻
@@ -2338,6 +2355,7 @@
 {0}ga+ouxf.yiugve 乙炔
 {0}ga+stjgvg.iuihoe 出貨
 {0}ga+stjsg.iuihoe 出货
+{0}ga+szrxm.yiuuiu 已使
 {0}ga+sj.ujinwe 山内
 {0}ga+esklg.iuiheo 出荷
 {0}ga+ejrfj.mueqmo 目前
@@ -2385,6 +2403,7 @@
 {0}hx+kk.uninwl.faiyjoqro 发言权
 {0}hx+kk.sinwl.faiyjorfo 发言人
 {0}ht+yfyl.mbojmi 民間
+{0}ht+uez.deoldo 悳来
 {0}ht+ca+ojldglw.mboouudhu 民主党
 {0}ht+ca+stlw.mboouuhxe 民主化
 {0}ht+zskyl.mbosue 民宿
@@ -2567,6 +2586,7 @@
 {0}hj.pdnwicl.dnetuo 调图
 {0}hj.ujkicl.dneoai 调査
 {0}hj.sljewg.mhoheo 盲盒
+{0}hj.lldfik.zuuoze 诅咒
 {0}hj.emricl.dnejpo 调节
 {0}hj.djrfwb.qmioie 牽制
 {0}ha+brkwz.vjipdo 安排
@@ -2965,6 +2985,7 @@
 {0}mr+jbjn.fuoyse 服用
 {0}mr+jge.jpomue 节目
 {0}mu.rimrd.biemfo 闭门
+{0}mu.wlskjf.ogilye 争論
 {0}mu.stojsrd.biesou 闭锁
 {0}mu.eyxjrd.biemue 闭幕
 {0}mu.ihixf.ogiyie 争议
@@ -3177,6 +3198,7 @@
 {0}md+jbv.ffiyse 分用
 {0}mk+bepb.scumno 扫描
 {0}mk+bf,kc+dywgwmrpi.yuunaegoodcu 与那国島
+{0}mk+bj+wlkkljdeg.jnioeayuu 膠着語
 {0}mk+pdnlsn.qbilte 侵略
 {0}mk+yyc.ycerie 曜日
 {0}mk+yuio.dhiuio 当时
@@ -3203,6 +3225,7 @@
 {0}mk+ssmo.dhizoe 当作
 {0}mk+sa+duwzhj.fuerfokei 婦人科
 {0}mk+lkdnlxi.tcelue 套路
+{0}mk+ebjgjd.jnioea 膠着
 {0}mk+ekkvw.yuuqio 与其
 {0}mk+ejrfo.dhiqmo 当前
 {0}mk+dcdgljv.veexmi 顎先
@@ -4079,6 +4102,7 @@
 {0}wf 剤
 {0}wf+luj.tsikzu 樋口
 {0}wf+la+udfiuj.tsikzufgi 樋口楓
+{0}wj 論
 {0}wjj.l 過
 {0}wj+wyhbx.ieetve 撤退
 {0}wj+ecvnbx.ieelko 撤菱
@@ -5085,6 +5109,7 @@
 {0}lr+wdclsf.ilezce 創造
 {0}lr+wdmzl.grifhi 官方
 {0}lr+omkzf.geidhi 割当
+{0}lr+scuzf.geijio 割集
 {0}lr+ssmsf.ilezoe 創作
 {0}lr+lw+ra+ssydwkwwjm.fwubheosiuhi 誹謗中傷
 {0}lr+is+llixlzfeu.geiyceqie 割薬器
@@ -5771,6 +5796,7 @@
 {0}ee,idmuj.gzeigo 構成
 {0}ee,dulkcw.jbeigo 进程
 {0}ee,dc+stujwl.gzezcehxe 構造化
+{0}ee,dm+ph+bkhioujik.gzeigoycesue 構成要素
 {0}ee,dskkfw.jbexko 进行
 {0}ee,dkfuuj.gzeoue 構築
 {0}ee,ksxw.jbegsi 进攻
@@ -6607,6 +6633,7 @@
 {0}dou 乎
 {0}do+ta+pr+wlmklluikf.huiykifuecio 呼応副詞
 {0}do+gglu.huiiui 呼出
+{0}do+mdxnn.thefae 燙髪
 {0}do+vsiilu.huilko 呼鈴
 {0}do+lkulu.huixui 呼吁
 {0}do+lfdnlu.huixii 呼吸
@@ -6643,6 +6670,7 @@
 {0}de,wscy.ugijbe 昇進
 {0}de,sxy.lperfo 猎人
 {0}de,sluxsn.hoebcu 獲保
+{0}de,lite 悳来(^Delite)
 {0}de,dsykixsn.hoedeo 獲得
 {0}de,frdnby.ugijle 昇降
 {0}di 得
@@ -7021,6 +7049,7 @@
 {0}kc+ld+ka+ovbswzl.qrohxeyiijuu 全話一挙
 {0}kc+la+fs+pkciziki.bcuuiooiigoo 宝石之国
 {0}kc+ea+psrrst.qrouiejpe 全世界
+{0}kc+il+usck.qroyuemue 全域木
 {0}kc+idkhpi.goowwi 国威
 {0}kc+ijtts.qrongo 全能
 {0}kc+dqds.qroufi 全身
@@ -7362,6 +7391,7 @@
 {0}kk.lk+ca+uecnwlwkls.yjoyuuuieyhe 言語仕様
 {0}kk.lk+ojfuwlwkl.yjoyuuxto 言語学
 {0}kk.lk+lr+fskxtwlwklsf.yjoyuuilefai 言語創発
+{0}kk.lk+kh+kcjggwlwklb.yjoyuubnuxme 言語表現
 {0}kk.ljgvsi.hveyro 会員
 {0}kk.endlxo.ndeloe 奈落
 {0}kk.enfdbh.ofedhe 振荡
@@ -7718,6 +7748,7 @@
 {0}fu+lythh.hcuhei 好喝
 {0}fu+ldkrh.hcutki 好听
 {0}fu+lkhmz.ziehce 字号
+{0}fu+lkdnlyd.bielue 閉路
 {0}fu+eyxjyd.biemue 閉幕
 {0}fu+eyxjz.ziemue 字幕
 {0}fu+ecdbiz.zieyie 字義
@@ -7786,15 +7817,18 @@
 {0}fs+dmdkri.oiisou 之所
 {0}fs+dzpci.oiiose 之重
 {0}fs+dkli.oiihze 之后
+{0}fs+dfxl.ivifgi 吹风
 {0}fs+kci.oiiwho 之王
 {0}fs+ki.oiiyii 之一
 {0}fs+fygue.igosee 橙色
+{0}fs+fx+udfld.ivifgijii 吹风机
 {0}fs+fiwi.oiiwde 之外
 {0}fl+yskjvy.wfetio 問題
 {0}fl+ykwsk.keuuie 可是
 {0}fl+nuxk.keujto 可決
 {0}fl+tsiik.keulmo 可怜
 {0}fl+teyk.keuxii 可惜
+{0}fl+hv+ykwskilg.keuuoiuie 可说是
 {0}fl+hisk.keuyiu 可以
 {0}fl+cu+kz+hx+mehkbihfxin.keuiioxuefaioju 可持续发展
 {0}fl+mkicy.wfewui 問屋
@@ -8130,6 +8164,7 @@
 {0}jg+ojjggd.ziejto 自覚
 {0}jg+stud.zietai 自他
 {0}jg+sukd.zietiu 自体
+{0}jg+su+skludi.xlifuoheo 相符合
 {0}jg+shisu.xliuie 相似
 {0}jg+sc+zxydixi.credoooeu 篡奪者
 {0}jg+swklu.xlixbe 相信
