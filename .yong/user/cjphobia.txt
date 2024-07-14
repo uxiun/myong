@@ -54,7 +54,8 @@
 {0}br,hudkrof.pjedre 判断
 {0}br,zkwsof.pjedke 判定
 {0}br+hudkrof.pjedre 判断
-{0}bg 扎
+{0}bg 击
+{1}bg 扎
 {0}bg,xksjd.mcobke 毛病
 {0}bc,nddhdui.teepde 特派
 {0}bc,tdbkdui.teexke 特性
@@ -72,6 +73,7 @@
 {0}bc,sg+ey+itkduidcxux.teeogimoouie 特徴模式
 {0}bc,skffdui.teelie 特例
 {0}bc,lmrfdui.teebpo 特別
+{0}bc,ij+evyduii.teelhupuu 特朗普
 {0}bc,drjgvdui.teeoie 特質
 {0}bc,dupdui.teefji 特番
 {0}bc,dsgcxdui.teeogi 特徴
@@ -516,6 +518,7 @@
 {0}yg+ujgf.seexli 色相
 {0}yg+vk+yfyfz.seeksijmi 色空間
 {0}yg+wljclf.seedne 色調
+{0}yg+escoe.baijni 芭蕉
 {0}yg+kh+rj+ebjgfbiong.seesueufuoea 色素沈着
 {0}yg+judddf.seecdu 色彩
 {0}yh+bmzlu.gfijue 根据
@@ -541,6 +544,7 @@
 {0}ym.od+uhiibnydd.coiykujii 撮影機
 {0}ym.od+hi+ja+oj+wxxmbnydduisigg.coiykujiinweuiexne 撮影機内視効
 {0}yz 早
+{0}yz+ci+ilwkzn.oooqqotdo 卓球台
 {0}yz+zhue.ccuvje 草案
 {0}yz+duwlje.ccugcu 草稿
 {0}yz+kpmrw.ooomme 卓面
@@ -699,6 +703,7 @@
 {0}nc+dbtddt.gkewue 怪物
 {0}nm+pbmeg.fjewwo 范围
 {0}nm+fs+kedddczi.ugioiixko 聲之形
+{0}nzt+g 浇
 {0}nwc 注
 {0}nwe+g 滝
 {0}nw+uf+kk.ix+skkidduwikm.dsijieyyedsehve 冬季运动会
@@ -958,6 +963,7 @@
 {0}xm+rcwdhp.njooli 男装
 {0}xm+rk+pxlllw.kaifwiybi 咖啡因
 {0}xm+rk+ukolllw.kaifwibwi 咖啡杯
+{0}xm+uznem.lieoii 荔枝
 {0}xm+hp.njonvu 男女
 {0}xm+hotkzm.xpoyti 協約
 {0}xm+hojkp.njozuu 男組
@@ -1176,6 +1182,7 @@
 {0}xa+wdcg.daexru 大选
 {0}xa+wktp.ybiciu 因此
 {0}xa+wkklw.wfoyjo 文言
+{0}xa+ow+sikjvhig.daetsulku 大統領
 {0}xa+ojljv.daeuhu 大賞
 {0}xa+ojfuw.wfoxto 文学
 {0}xa+ojfu.daexto 大学
@@ -1623,6 +1630,7 @@
 {0}rl+jf+zxybou.oeoxtooeu 哲学者
 {0}re+mkhfts.dveohu 隊長
 {0}ri 将
+{0}rik 虹
 {0}ri+pdnwee.ljotuo 蓝图
 {0}ri+yg+ky+ydbkeeftk.ljoseehgoxki 蓝色恒星
 {0}ri+cofsphf.faokru 罚款
@@ -1839,6 +1847,7 @@
 {0}ra+kc+sa+lhtpi.osigoorfombo 中国人民
 {0}ra+kc+la+stpik.osigoouiohxe 中国石化
 {0}ra+kc+itkpi.osigoouie 中国式
+{0}ra+kc+dfwdhpi.osigoooie 中国製
 {0}ra+kltlgf.dnepce 弔砲
 {0}ra+kev.osiyae 中亚
 {0}ra+ke+vjjlez.osihxogoi 中華鍋
@@ -1868,6 +1877,7 @@
 {0}uy.ouwzd.xlilne 香料
 {0}uy.sfxd.xliqie 香気
 {0}uy.lzud.xliwwe 香味
+{0}uy.escod.xlijni 香蕉
 {0}un+yjdb.uiemko 释明
 {0}un+ur+kevsdf.xuelieyae 叙利亚
 {0}ux+bzrst.kkejpo 快捷
@@ -2179,6 +2189,7 @@
 {0}ua+ylmns.xqixxo 休暇
 {0}ua+ykwsk.yuouie 于是
 {0}ua+nprzo.miuzeo 米澤
+{0}ua+nzp.gouoii 果汁
 {0}ua+nscp.kyenjo 困难
 {0}ua+negjz.wwemju 未満
 {0}ua+nkvpo.miujqu 米酒
@@ -2223,6 +2234,7 @@
 {0}ua+kftx.uaisiu 杀死
 {0}ua+fudhof.ziasyi 子孫
 {0}ua+fhdno.miufje 米饭
+{0}ua+jbj.cduyse 采用
 {0}ua+jxop.gourjo 果然
 {0}ua+jglhts.xqimmo 休眠
 {0}ua+jgdgz.wwejme 未見
@@ -2604,9 +2616,11 @@
 {0}ha+ca+urksz.vjituutco 安土桃
 {0}ha+zkwsz.vjidke 安定
 {0}ha+wx+xl+sccznrs.vjijieoiijxi 安済知佳
+{0}ha+we+vy+kkkzslk.vjibwejbesji 安倍晋三
 {0}ha+suk.nvutiu 女体
 {0}ha+su+eg+st+ozije.vjileeghihxihou 安楽岡花火
 {0}ha+su+jegzi.vjileeghi 安楽岡
+{0}ha+swelz.vjibwe 安倍
 {0}ha+sw.nvupui 女仆
 {0}ha+sluz.vjibcu 安保
 {0}ha+skrpz.vjisie 安価
@@ -2674,6 +2688,7 @@
 {0}cx+da+heo.mwuucunvu 美少女
 {0}cx+kgpdm.dsehxe 動画
 {0}cx+kcsiie.mwulko 美玲
+{0}cx+kc+lt+hkwigepiv.mwugoozsutsu 美国总统
 {0}cx+kc+ds+frzkgepifxm.mwugoowueyre 美国務院
 {0}cx+kkge.mwuyro 美元
 {0}cx+kkjije.mwulie 美丽
@@ -2708,6 +2723,7 @@
 {0}cu+sityi.uiodde 時代
 {0}cu+skrpdi.dgusie 等価
 {0}cu+skls.jioheo 集合
+{0}cu+skkis.jiohve 集会
 {0}cu+evjyi.uioqii 時期
 {0}cu+itkdi.dguuie 等式
 {0}cu+dbtddbi.iiowue 持物
@@ -2857,6 +2873,7 @@
 {0}cj+ur+jbkdf.zdelieyse 再利用
 {0}cj+ueejk.zdegze 再構
 {0}cj+uek.zdeldo 再来
+{0}cj+cykdkgg.xmeihu 現場
 {0}cj+ctukgg.xmedie 現地
 {0}cj+cz+klscokjkklj.ujihuojni 珊瑚礁
 {0}cj+ciok.zderee 再熱
@@ -2882,6 +2899,7 @@
 {0}cj+it+sk+xbkdgsnf.xmeddeqieiei 现代汽车
 {0}cj+io+rs+nyevkcfku.zdereeiuouii 再熱除湿
 {0}cj+dbkk.zdeugi 再生
+{0}cj+desdssgg.griose 観衆
 {0}cj+kczljkjk.ujihuo 珊瑚
 {0}cj+kcjggk.zdexme 再現
 {0}cj+kkkk.zdesji 再三
@@ -3222,6 +3240,7 @@
 {0}mk+wktw.yuuciu 与此
 {0}mk+ojljvve.jmeuhu 鑑賞
 {0}mk+shj.fuerfo 婦人
+{0}mk+so.dhirfo 当人
 {0}mk+ssmo.dhizoe 当作
 {0}mk+sa+duwzhj.fuerfokei 婦人科
 {0}mk+lkdnlxi.tcelue 套路
@@ -3820,8 +3839,6 @@
 {0}wy+weebz.dnejbe 掉进
 {0}wy+sifttz.dcenme 悼念
 {0}wy+sjsjh.tvurze 腿肉
-{1}wx 达
-{2}wx 头
 {0}wx+bkhp.tuobnu 図表
 {0}wx+pcw.oeeliu 这里
 {0}wx+yuiz.uiouio 实时
@@ -4007,6 +4024,7 @@
 {0}we+przjks.wweoie 位置
 {0}we+psrrcg.jkejpe 境界
 {0}we+ncib.laifau 拉法
+{0}we+xvdfnyy.vjeuai 暗殺
 {0}we+tywotc.isijku 憧憬
 {0}we+ta+hmbrbm.lainionae 拉尼娜
 {0}we+rz+bk+czmrnspjktj.wweoieqkobce 位置情報
@@ -4048,9 +4066,12 @@
 {0}wi+xvdfnvg.iseuai 銃殺
 {0}wi+rrfmdng.lqoihe 流畅
 {0}wi+uwvxp.muuxne 母校
+{0}wi+gx+bs,dmdkrngwjd.lqoliouiisou 流离失所
 {0}wi+ggng.lqoiui 流出
 {0}wi+hk+zxypikl.muuyuuoeu 母语者
 {0}wi+cilkng.lqoyue 流域
+{0}wi+znbvg.isejii 銃撃
+{0}wi+wgxjng.lqolio 流离
 {0}wi+wfijng.lqotsi 流通
 {0}wi+inng.lqobki 流氷
 {0}wi+iltng.lqogju 流感
@@ -4441,6 +4462,7 @@
 {0}oa+nzx.hvioii 灰汁
 {0}oa+negjk.buemju 不満
 {0}oa+nidok.buempe 不滅
+{0}oa+xt+pui.houlsogou 火龙果
 {0}oa+xm+ul+weykzmd.buexpoheoybi 不協和音
 {0}oa+xl+wedgks.bueoiidce 不知道
 {0}oa+xl+oa+ojjdgksk.bueoiibuejto 不知不觉
@@ -4501,6 +4523,7 @@
 {0}oa+ls+zkwskkjc.bueqtedke 不確定
 {0}oa+lf+jmrnksif.bueuuifuo 不舒服
 {0}oa+ekte.houzhe 火葬
+{0}oa+ixt.houlso 火龙
 {0}oa+ihstk.buelye 不论
 {0}oa+ijttk.buengo 不能
 {0}oa+durfk.buelie 不利
@@ -5134,6 +5157,7 @@
 {0}lu+sfxbs.bcujme 保健
 {0}lu+le+mxswsn.bcuhuequi 保護区
 {0}lu+exdxkdn.poehoe 破获
+{0}lu+ddps.bculqo 保留
 {0}lu+kfwdhkdn.poelpe 破裂
 {0}lu+fx+zkicssb.bcujmeuie 保健室
 {0}lu+fx+lllssb.bcujmepbu 保健品
@@ -5685,7 +5709,8 @@
 {0}ec+itkun.yheuie 様式
 {0}ec+itksi.yiouie 儀式
 {0}ec+fuun.yhezia 様子
-{0}ezj+rj 帯
+{0}ezj+rj 带
+{1}ezj+rj 帯
 {0}ez+bcn.guuuzu 鼓手
 {0}ez+ojlbcn.guuohu 鼓掌
 {0}ez+sefibcn.guuwuu 鼓舞
@@ -5714,6 +5739,7 @@
 {0}ev+owelo.hsibwe 烘焙
 {0}ev+ok+stwxbsi.gsiykilme 供应链
 {0}ev+ojlrjp.yieiho 異常
+{0}ev+oa+zt+nrpbng.gsuhoujniyzo 拱火浇油
 {0}ev+siyhyn.bceuio 暴食
 {0}ev+lktlgzs.sdepcu 赛跑
 {0}ev+ecdbip.yieyie 異義
@@ -5777,6 +5803,7 @@
 {0}es+la+ld+vd+cykclczgekr.taujiokeesiitju 塔吉克斯坦
 {0}els+x 敬
 {0}el+zevswdg.jkesde 竞赛
+{0}el+wdcgwdg.jkexru 竞选
 {0}ee 并
 {0}ee,bmznm.pkouee 屏摄
 {0}ee,bkfs.bkedau 併打
@@ -6004,6 +6031,7 @@
 {0}im+ugth.hrexlu 幻想
 {0}im+gt,bk+dbtddhud.hrexluugiwue 幻想生物
 {0}im+hfusj.pmihcu 偏好
+{0}im+wjwdmsj.pmipho 偏旁
 {0}im+od+ms+puihyddwdh.hreykulvutro 幻影旅団
 {0}im+ojjggh.hrejto 幻覚
 {0}im+sth.hrehxe 幻化
@@ -6184,6 +6212,7 @@
 {0}ik.dwwdfsjs.lkuhho 领航
 {0}ik.kwsjv.lkuxxe 領下
 {0}ik.kw+szjhyhgzs.jiedkeoio 既定値
+{0}ik.fygr.hsosee 虹色
 {0}if+bwefi.doilai 多拉
 {0}if+pm+sukfikr.doimmetiu 多面体
 {0}if+pls.jbihvo 今回
@@ -6311,7 +6340,6 @@
 {0}db,rsi.veoosi 俄中
 {0}db,rk+dn+udfykfkozl.xkijiekeejii 星际客机
 {0}db,rf,evdkrsipi.veoloosii 俄罗斯
-{-}db,rj+dn+uhiiykfsozl.xkijiekeejii 星際客機
 {0}db,udnltk.xkegeo 性格
 {0}db,ga+zldgyky.xkibaikee 星巴克
 {0}db,ga+ld+xm+lrkwykyzgll.xkibaikeekaifwi 星巴克咖啡
@@ -8006,6 +8034,7 @@
 {0}jn+ojljvj.uzeuhu 受賞
 {0}jn+oa+ffjk.uzebuelea 受不了
 {0}jn+swklj.uzexbe 受信
+{0}jn+ssxmj.uzeuhi 受伤
 {0}jn+ebjgj.uzeoea 受着
 {0}jn+dcxmj.uzedse 受動
 {0}jn+kcpcj.uzeliu 受理
@@ -8174,6 +8203,7 @@
 {0}jg+lhtd.ziembo 自民
 {0}jg+epuid.ziezyi 自尊
 {0}jg+exu.xligri 相关
+{0}jg+ezjrjd.ziedde 自带
 {0}jg+il+mxdn.zieoiequi 自治区
 {0}jg+ied.ziejpe 自戒
 {0}jg+if+dzjgufd.xlimcodye 相矛盾
@@ -8558,7 +8588,7 @@
 {0}ja+jbx.yzuyse 有用
 {0}ja+jk+zlses.nwemgoguu 内蒙古
 {0}ja+jk+la+jg+il+mxseszdn.nwemgoguuzieoiequi 内蒙古自治区
-{0}.sa ――
+{-}.sa ――
 {0}auu ǔ
 {0}auo ǒ
 {0}aue ě
