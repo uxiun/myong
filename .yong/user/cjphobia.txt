@@ -689,6 +689,7 @@
 {0}ya+jm.ygdkk.bdoxtubai 白雪巴
 {0}ya+je+kcizndd.bdoxteqqo 白血球
 {0}nyt+t 混
+{0}nn 汉
 {0}nn.fulu.shuzia 嗓子
 {0}nxi 汰
 {0}nx+xmhm.nuulie 努力
@@ -3330,6 +3331,7 @@
 {0}zp+oc+tdbkwzhjg.lmoxuexke 連続性
 {0}zp+od+dcdgwzhnl.lmoloexmi 連絡先
 {0}zp+ojfujz.jyixto 軍学
+{0}zp+sydndc.osefue 重复
 {0}zp+sy+rr,kfrfdcrnrv.osefueuyelpe 重複順列
 {0}zp+sdcwz.lmorfe 連任
 {0}zp+sjz.jyirfo 軍人
@@ -4593,6 +4595,7 @@
 {0}oa+ft,oa+cezkkk.buesiubuexke 不死不幸
 {0}oa+fwxk.buemdu 不买
 {0}oa+fs+ririil.houiviiso 火吹蟲
+{0}oa+fl+wvdnkk.buekeubme 不可変
 {0}oa+fl+wegkk.buekeunie 不可逆
 {0}oa+fl+sxlkk.buekeuoii 不可知
 {0}oa+fl+ijttkk.buekeungo 不可能
@@ -4651,6 +4654,7 @@
 {0}sy+sdtkdh.hfudii 很低
 {0}sy+sklrn.fueheo 複合
 {0}sy+dfwdhrn.fueoie 複製
+{0}sy+kl+tdbkrns.fueheoxke 複合性
 {0}sy+kl+wlkklrns.fueheoyuu 複合語
 {0}sy+fu+ldkrdhh.hfuhcutki 很好听
 {0}sy+fu+dbjgdhh.hfuhcukje 很好看
@@ -5566,6 +5570,7 @@
 {0}la+pa+cs+fuckii.jiotmolkozia 吉田玲子
 {0}la+nprzc.jiozeo 吉澤
 {0}la+nyenk.uiopue 石瀑
+{0}la+ncit.juefau 句法
 {0}la+nwvfi.tdowji 台湾
 {0}la+xbbfip.hvooru 回转
 {0}la+xr+jeyzxj.guuxiilae 古希腊
@@ -5668,6 +5673,7 @@
 {0}ey+cydw.ybiugi 音声
 {0}ey+ctwt.yieoie 意志
 {0}ey+cuxux.mookke 模块
+{0}ey+zu+wlskjwtl.yiewwelye 意味論
 {0}ey+zu+ebjgwtl.yiewweoea 意味着
 {0}ey+wmstub.coeuii 措施
 {0}ey+wlmswt.yieyie 意訳
@@ -5872,6 +5878,7 @@
 {0}ee,dulkcw.jbeigo 进程
 {0}ee,dc+stujwl.gzezcehxe 構造化
 {0}ee,dm+ph+bkhioujik.gzeigoycesue 構成要素
+{0}ee,dm+tdbkuji.gzeigoxke 構成性
 {0}ee,dskkfw.jbexko 进行
 {0}ee,dkfuuj.gzeoue 構築
 {0}ee,ksxw.jbegsi 进攻
@@ -5985,6 +5992,7 @@
 {0}ea+jg+jv+nrorudnu.ldozieufiyri 来自深渊
 {0}ea+jke.bkeqpu 并且
 {0}i 我
+{0}iq+sifdqnt.luexme 漉餡
 {0}ip+rirrjrho.loosii 螺蛳
 {0}ip+wkzev.ddeuhe 戴上
 {0}iy+ba+ekpzshj.uioysexye 食用蕈
@@ -6413,6 +6421,7 @@
 {0}db,eq+kkttkhv.xkexmovee 性嫌悪
 {0}db,ep+jwmktkb.xkemnoxpu 性描写
 {0}db,evjyk.xkiqii 星期
+{0}db,it+llixlwss.dpoddeqie 迭代器
 {0}db,ihmgdg.biujie 笔记
 {0}db,isscyk.xkizoe 星座
 {0}db,ijtttk.xkengo 性能
@@ -6460,6 +6469,7 @@
 {0}dy+duwljko.yrogcu 原稿
 {0}dy+dothir.xliizo 郷愁
 {0}dy+dd,pkcikowbk.yroijugoo 原産国
+{0}dy+kcpcko.yroliu 原理
 {0}dy+kedddko.yroxko 原形
 {0}dy+fuko.yrozia 原子
 {0}dy+fopcvj.jbuliu 錦鯉
@@ -6693,6 +6703,7 @@
 {0}dz+zrrfec.dsuuie 董事
 {0}dz+wldzlbr.iaihxe 挿話
 {0}dz+oupovn.drelme 鍛煉
+{0}dz+szjkbq.iaioio 插值
 {0}dz+sdbbr.iaijme 挿件
 {0}dz+sdbr.iairue 挿入
 {0}dz+skrpuu.ouisie 株価
@@ -7347,6 +7358,7 @@
 {0}kl+skuzp.fueyuo 富余
 {0}kl+skkim.siihve 司会
 {0}kl+ey+zfujw.tsoybizie 同音字
+{0}kl+ecdbij.tsoyie 同義
 {0}kl+emrd.hzejpo 后节
 {0}kl+evjj.tsoqii 同期
 {0}kl+evj.tsoyee 同业
@@ -8584,6 +8596,7 @@
 {0}jj.kpdclwl.goekue 過酷
 {0}jj.kk.wguijsi.guuyyodcu 骨伝導
 {0}jj.jjnbn.uzeuze 授受
+{0}ja+bdzqs.nweiai 内插
 {0}ja+pxs.nweybi 内因
 {0}ja+psrrx.yzujpe 有界
 {0}ja+yy.mkorie 明日
