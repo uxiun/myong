@@ -3311,6 +3311,7 @@
 {0}mf+sdrhk.ilurue 闯入
 {0}mf+kpjklfu.yyetso 孕酮
 {0}mj.rjklpi.jmifuo 肩幅
+{0}mj.gdnzi.jmifgi 肩峰
 {0}mj.oz+stiek.bmupkohxe 扁平化
 {0}mj.kpivni.jmisri 肩酸
 {0}mj.kozie.bmupko 扁平
@@ -3574,6 +3575,7 @@
 {0}zj+ykpcds.oielle 质量
 {0}zj+ya+je+ekvpzzz.icorienjoqme 朝日南茜
 {0}zj+ueerj.ddeldo 带来
+{0}zj+cilksh.oioyue 値域
 {0}zj+mm.xa+kwzrzk.icowfotmixxe 朝闻天下
 {0}zj+wfijpgv.gretsi 貫通
 {0}zj+sy+ka+dbjgskdki.oiodeoyiikje 值得一看
@@ -4060,8 +4062,6 @@
 {0}ww,dskkfddf.hhoxko 航行
 {0}ww,kxddf.hhotmi 航天
 {0}wo 点
-{0}wsr+f 刻
-{1}wsr+f 劇
 {0}ws,bzrssx.mbujpo 敏捷
 {0}ws,tlfifl.zuogze 足够
 {0}ws,ta+skfnxs.yeehxeqie 液化气
@@ -4375,8 +4375,10 @@
 {0}os+bcuihc.wwoiio 維持
 {0}os+bk+bkhiohcd.wwougisue 維生素
 {0}os+pwxhki.hvetuo 絵図
+{0}os+nwlohj.naello 納涼
 {0}os+wudkrhc.wwoxbi 維新
 {0}os+wlesnhc.wwohue 維護
+{0}os+wl+mxhjno.naelloqui 納涼区
 {0}os+ouwzhkl.gwulne 給料
 {0}os+suihj.naefue 納付
 {0}os+dsykihj.naedeo 納得
@@ -6336,6 +6338,7 @@
 {0}if+hwvhsi.lkenlo 令嬢
 {0}if+hotkff.yuuyti 予約
 {0}if+hoscfi.doiwwo 多維
+{0}if+hs+nuxfiox.doiuuejto 多数決
 {0}if+hs+fsfiox.doiuueqme 多数欠
 {0}if+ctufi.doidie 多地
 {0}if+mvpyfi.doicgo 多層
@@ -6591,6 +6594,7 @@
 {0}dt+zvksk.diiksi 低空
 {0}dt+wursk.diisue 低速
 {0}dt+wvdnji.bcebme 豹変
+{0}dt+wijb.toiyue 托育
 {0}dt+sjsxl.gzurze 狗肉
 {0}dt+ey+lkhmskw.diiybihce 低音号
 {0}dt+ehoeik.diuyye 底蘊
@@ -7950,7 +7954,8 @@
 {0}fo+bi+stusd.niuwoutai 你我他
 {0}fo+xbskfs.niuuui 你输
 {0}fo+zkk.lpeuie 烈士
-{0}fs 久
+{0}fs 欠
+{1}fs 久
 {0}fs+bxkxl.ivizze 吹奏
 {0}fs+pkcii.oiigoo 之国
 {0}fs+yfyi.oiijmi 之間
@@ -8089,6 +8094,7 @@
 {0}fk+uwcdri.fgioue 風柱
 {0}fk+udnldri.fgigeo 風格
 {0}fk+hilye.kdiuiu 開始
+{0}fk+ms+itkyewx.kdifheuie 開放式
 {0}fk+mijggfjv.yuelju 預覧
 {0}fk+zn+cykdyeib.dzejieihu 闘技場
 {0}fk+zkwsfjv.yuedke 預定
