@@ -281,6 +281,7 @@
 {0}ba+dsivf.uzuuue 手術
 {0}ba+dk+wr+fwhibrkk.uzuoeoogexmo 手折正弦
 {0}ba+df+wm+wviuwu.uzujiiyzohui 手机遊戯
+{0}ba+kpmrj.ysemme 用面
 {0}ba+kuj.yseyuo 用于
 {0}ba+kcizn.uzuqqo 手球
 {0}ba+fjco.bjejnu 半角
@@ -325,6 +326,8 @@
 {0}pr+ohsxsj.vzuuue 偶数
 {0}pr+sm+jbkfs.fuezoeyse 副作用
 {0}pr+sfyssj.vzuxle 偶像
+{0}pr+eeb.yaijku 押井
+{0}pr+ea+zuibe.yaijkuuzu 押井守
 {0}pr+dl+ebmkkefwl.mgeovixlo 夢追翔
 {0}pr+kcrfwj.yuedce 遇到
 {0}pr+ka+isujiz.jtouielee 爵士楽
@@ -1954,6 +1957,7 @@
 {0}uu.gd+sk+cx+wddddujgflee.sfijmedgimwuyje 森見登美彦
 {0}uu.os+zyfruhki.sfihvedzi 森絵都
 {0}uu.sbkk.lienmo 歴年
+{0}uu.ij+ljmkluzi.sfiboosie 森博嗣
 {0}ug 札
 {0}ug+nwsxj.ruuyee 乳液
 {0}ug+xllgj.ruuvdo 乳癌
@@ -2244,6 +2248,7 @@
 {0}ua+zr+jbzsx.wweuiuyse 未使用
 {0}ua+zl+su+llixldli.muegruleeqie 木管楽器
 {0}ua+zkwsz.wwedke 未定
+{0}ua+zkkgz.wwewjo 未完
 {0}ua+za+emrzk.ssegjejpo 宋干节
 {0}ua+vdyjz.ssejbu 宋錦
 {0}ua+wrks.xqioiu 休止
@@ -3507,6 +3512,7 @@
 {0}zl+kwd.ueoxxe 舌下
 {0}zl+kw+mkhpzs.guedkeohu 固定長
 {0}zl+kftu.kuisiu 枯死
+{0}zl+fhdnsx.zoefje 做饭
 {0}zl+fdsxms.guiwue 估務
 {0}zl+jxop.guerjo 固然
 {0}zl+ja+szjkpx.gueyzuoio 固有值
@@ -5902,7 +5908,6 @@
 {0}els+x 敬
 {0}el+zevswdg.jkesde 竞赛
 {0}el+wdcgwdg.jkexru 竞选
-{0}ee 并
 {0}ee,bmznm.pkouee 屏摄
 {0}ee,bkfs.bkedau 併打
 {0}ee,xrfus.bkecyo 併存
@@ -6346,6 +6351,7 @@
 {0}if+zojs.jbixni 今宵
 {0}if+zkwsff.yuudke 予定
 {0}if+wdkrsr.lbojbe 邻近
+{0}if+wjcls.jbiozi 今週
 {0}if+ouwzss.ybulne 飲料
 {0}if+ouirlsl.hjotho 含糖
 {0}if+ohsxfi.doiuue 多数
@@ -6374,6 +6380,7 @@
 {0}if+kj+tk+cu+yfyfikviyi.doixleuieuiojmi 多項式時間
 {0}if+kj+itkfikv.doixleuie 多項式
 {0}if+jt+xmstit.nmengolie 念能力
+{0}if+js.jbiyte 今月
 {0}ij 请
 {0}ijs 름
 {0}ij+bxfpkzi.boovco 博鳌
@@ -7954,8 +7961,6 @@
 {0}fo+bi+stusd.niuwoutai 你我他
 {0}fo+xbskfs.niuuui 你输
 {0}fo+zkk.lpeuie 烈士
-{0}fs 欠
-{1}fs 久
 {0}fs+bxkxl.ivizze 吹奏
 {0}fs+pkcii.oiigoo 之国
 {0}fs+yfyi.oiijmi 之間
