@@ -197,6 +197,7 @@
 {0}bk+kfzjkd.ugioio 生殖
 {0}bk+frweznj.qkiohe 清障
 {0}bk+frskunj.qkiiuo 清除
+{0}bk+fskledbz.bdedgi 拜登
 {0}bk+jjtntj.qkovde 情愛
 {0}bfm+u 挣
 {0}bfj+x 換
@@ -362,6 +363,7 @@
 {0}ph+iznk.yceqqo 要求
 {0}ph+dbjgk.ycekje 要看
 {0}ph+dik.ycemea 要么
+{0}ph+kh+ohsxkbio.ycesueuue 要素数
 {0}ph+kok.ycebue 要不
 {0}ph+kkjvk.ycexle 要項
 {0}ph+fwxk.ycemdu 要买
@@ -441,6 +443,7 @@
 {0}pi 国
 {0}pi+stkvn.srihxe 酸化
 {0}pdn+l 略
+{0}pd+ouxeu.jyilwe 菌类
 {0}pd+ecjeksn.fuegde 覆盖
 {0}pk+ydhrfy.luuvho 鲁昂
 {0}pk+uuiekh.nsocyi 農村
@@ -706,6 +709,7 @@
 {0}nu+skffd.tnolie 条例
 {0}nh+qd+rixbriod.jbuufikue 紧身裤
 {0}nh+qd+wdhriod.jbuufiyii 紧身衣
+{0}nh+rh+yfnpoc.pooloomfo 婆羅門
 {0}nh+dqdrio.jbuufi 紧身
 {0}nh+fmtmio.jbujio 緊急
 {0}nh+fmkhmio.jbuohi 緊張
@@ -760,6 +764,7 @@
 {0}nd 没
 {0}ndm+x 激
 {0}ndf+i 汎
+{0}nd+przjkdf.iuuoie 処置
 {0}nd+prwlfdf.iuufao 処罰
 {0}nd+cp+llixldfkc.iuuliuqie 処理器
 {0}nd+mbmoel.loemau 落馬
@@ -949,6 +954,7 @@
 {0}xu+sklrbi.uzemke 寿命
 {0}xu+sa+ft,xr+xkwkwiktj.dverfoksubueoge 対人恐怖症
 {0}xu+itwi.dveyki 対応
+{0}xu+dndfwi.dveiuu 対処
 {0}xu+dujwi.dvecee 対策
 {0}xu+kpmrwi.dvemme 対面
 {0}xu+fytswi.dvexle 対象
@@ -1073,6 +1079,7 @@
 {0}xk+bk+olixzld.jieugiuze 寄生獣
 {0}xk+ycuisle.druuio 短時
 {0}xk+ncizhm.kcufau 考法
+{0}xk+xrysle.druzje 短暂
 {0}xk+xrfuzl.jiecyo 寄存
 {0}xk+rf,llixlzlxu.jiecyoqie 寄存器
 {0}xk+hozsysle.drusoi 短縮
@@ -1411,6 +1418,7 @@
 {0}td+lkdnlsbs.tpulue 铁路
 {0}td+ienzg.miedue 密度
 {0}td+duyidi.ueexli 麝香
+{0}td+kuyd.yieyuo 易于
 {0}td+klfhkzg.miemau 密码
 {0}td+ki.rk+jvlgzgzcws.mieuietcotoi 密室逃脱
 {0}td+fuszk.ivozia 锤子
@@ -1444,6 +1452,7 @@
 {0}ta+ui+lllsoc.hxeolipbu 化粧品
 {0}ta+cp+ha+skckcz.xbiliuvjiqro 心理安全
 {0}ta+cp+ojfukc.xbiliuxto 心理学
+{0}ta+mt+nd+przjkifdf.ykijioiuuoie 応急処置
 {0}ta+zbxr.osiuio 忠実
 {0}ta+zxkhmp.siikcu 思考
 {0}ta+zzwvxt.biujne 比較
@@ -1471,6 +1480,7 @@
 {0}ta+kcpc.xbiliu 心理
 {0}ta+kokjvc.oieyre 志願
 {0}ta+kl+dbtddss.hxeheowue 化合物
+{0}ta+fmti.ykijio 応急
 {0}ta+jbi.ykiyse 応用
 {0}ta+jum.niocdu 尼采
 {0}ta+jeim.xbizhe 心臓
@@ -1533,6 +1543,7 @@
 {0}rx+kvpfe.ujuxii 陕西
 {0}rt,mvpyfty.jpicgo 階層
 {0}rt,zxyr.hreoeu 患者
+{0}rt,ohsxfty.jpiuue 階数
 {0}rt,llixlfsg.tcoqie 陶器
 {0}rt,kwftc.biexxe 陛下
 {0}rro+r 肃
@@ -1771,6 +1782,7 @@
 {0}rf,hm.ta+kevpifkm.loomaunioyae 罗马尼亚
 {0}rf,cidmcv.iieigo 赤城
 {0}rf,mznxu.cyoquu 存取
+{0}rf,md+hi+frxbivbs.hxeffiniuofe 划分拟阵
 {0}rf,vmdi.hxeffi 划分
 {0}rf,wl+llixlxusy.cyoiuuqie 存儲器
 {0}rf,wl+jj.dulkcxusywl.cyoiuugoeigo 存儲過程
@@ -1935,6 +1947,7 @@
 {0}ur+njjjw.suehxo 速滑
 {0}ur+tu+dytidfs.lietaidea 利他的
 {0}ur+ga+dytidfm.liejiudea 利己的
+{0}ur+hdbkd.osuxke 种姓
 {0}ur+hkjkdt.igozuu 乘组
 {0}ur+mgdf.liejiu 利己
 {0}ur+wmssxd.osuzuo 种族
@@ -2606,10 +2619,12 @@
 {0}hi+kfrfdo.xielpe 系列
 {0}hi+kjkkvgi.yzilko 幽霊
 {0}hi+fxrbbs.niujme 拟建
+{0}hi+frxbbs.niuofe 拟阵
 {0}hi+fkskkitk.uieyje 试验
 {0}hi+jk+kfcgikkv.yzilkoxko 幽霊型
 {0}hd+przjkifn.ueeoie 设置
 {0}hd+pudfn.fjetro 饭团
+{0}hd+xksjikl.gzebke 诟病
 {0}hd+wmstuifn.ueeuii 设施
 {0}hd+ihxnium.yzefai 诱发
 {0}hd+ihzifn.ueejie 设计
@@ -3077,6 +3092,7 @@
 {0}mz+xyn.zvedae 最大
 {0}mz+xk+lkdnlynsle.zvedrulue 最短路
 {0}mz+xjyn.zveyzu 最有
+{0}mz+xa+nwigyn.zvedaelqo 最大流
 {0}mz+xa+va+stynf.zvedaexnuhxe 最大小化
 {0}mz+xa+styn.zvedaehxe 最大化
 {0}mz+xa+fvyn.zvedaexnu 最大小
@@ -3091,6 +3107,7 @@
 {0}mz+va+nciynf.zvexnufau 最小法
 {0}mz+va+stynf.zvexnuhxe 最小化
 {0}mz+va+kc+ua+fl+yskjvynfsy.zvexnuqromuewfetio 最小全域木問題
+{0}mz+va+fj+ba+nwigynfrgvj.zvexnufweyselqo 最小費用流
 {0}mz+wudkryn.zvexbi 最新
 {0}mz+wv+stynwj.zveuiehxe 最適化
 {0}mz+wv+fjmdbynwj.zveuiejpu 最適解
@@ -3587,6 +3604,7 @@
 {0}zj+sy+ka+dbjgskdki.oiodeoyiikje 值得一看
 {0}zj+stjserj.ddehoe 带货
 {0}zj+sduk.oiorue 植入
+{0}zj+dbtdduk.oiowue 植物
 {0}zj+dbkuk.oiougi 植生
 {0}zj+dzpctv.ufeose 慎重
 {0}zj+dsykisk.oiodeo 值得
@@ -3890,6 +3908,7 @@
 {0}va+dule.gseheo 共和
 {0}va+dufup.siejie 四季
 {0}va+kphl.oiuyce 只要
+{0}va+kpmgm.piupwe 匹配
 {0}va+kn.ouvmdfb.xnumdeffu 小麦粉
 {0}va+kt+ivdgifk.xnuveemoo 小悪魔
 {0}va+kuf.xnuyuo 小于
@@ -4231,7 +4250,10 @@
 {0}wa+jsynk.xxefue 下腹
 {0}obm+g 巻
 {0}ob+bxkxs.bjezze 伴奏
+{0}ob+hi+frxbpgbs.qriniuofe 圈拟阵
+{0}ob+hf+jxxjkiz.tgoxyewhu 腾讯网
 {0}ob+ixbjk.tgokue 腾库
+{0}ob+ihfzjk.tgoxye 腾讯
 {0}ob+durfjm.ugelie 勝利
 {0}op+ztdgh.xiemie 細密
 {0}op+eyxjfz.djemue 弾幕
@@ -4445,6 +4467,7 @@
 {0}od+ed,lz+gp+fl+yskjvhynkddwky.xmexkojiehxewfetio 線形計画問題
 {0}od+ed,lz+kgphynkddw.xmexkojiehxe 線形計画
 {0}od+ed,it+ohsxhynkdds.xmexkoddeuue 線形代数
+{0}od+ed,dr+wehynkddxki.xmexkoduolie 線形独立
 {0}od+ed,kfchynkdd.xmexkoxko 線形型
 {0}od+dbcuin.uaitee 沙特
 {0}od+kwrohnw.osiyji 終焉
@@ -4932,6 +4955,7 @@
 {0}ss,nsckj.llunjo 两难
 {0}ss,xm+dy+ka+iyhdkrslkon.yuegaiyrojlillo 御伽原江良
 {0}ss,tlgs.osebci 众包
+{0}ss,td+ienecyd.njoyiedue 難易度
 {0}ss,rydyn.fuejqe 復旧
 {0}ss,rj+puiicx.zoebuetro 座布団
 {0}ss,ukpoic.zoebni 座標
@@ -5796,6 +5820,7 @@
 {0}eg+xbbfiw.nieoru 逆转
 {0}eg+uzwkj.drimoe 端末
 {0}eg+cwegw.niejke 逆境
+{0}eg+wlowkj.dridmu 端点
 {0}eg+ouwewkj.drilie 端粒
 {0}eg+szwkj.driwuu 端午
 {0}eg+lwsnj.mjuzuo 満足
@@ -6350,6 +6375,7 @@
 {0}if+md+kedddfiw.doibmixko 多辺形
 {0}if+zojs.jbixni 今宵
 {0}if+zkwsff.yuudke 予定
+{0}if+vlfssv.tjiyue 貪欲
 {0}if+wdkrsr.lbojbe 邻近
 {0}if+wjcls.jbiozi 今週
 {0}if+ouwzss.ybulne 飲料
@@ -6361,6 +6387,7 @@
 {0}if+srfi.doigee 多个
 {0}if+ssmfi.doizoe 多作
 {0}if+lzuds.faowwe 乏味
+{0}if+lf+ncisvvs.tjiyuefau 貪欲法
 {0}if+evjs.jbiqii 今期
 {0}if+dbks.jbiugi 今生
 {0}if+dn+jp+evdkrfinlk.doiloelwosii 多洛雷斯
@@ -6545,6 +6572,7 @@
 {0}dn+udfb.bjijii 扳机
 {0}dn+udfzl.keejii 客机
 {0}dn+ukc.bjubfu 坂本
+{0}dn+ukkopw.tuobni 图标
 {0}dn+gt,stsu.fjuxluhxe 仮想化
 {0}dn+hosjul.geonae 格納
 {0}dn+ma+wegkjzli.keehuedri 客户端
@@ -6624,6 +6652,8 @@
 {0}dr+wexki.duolie 独立
 {0}dr+slrfxki.duoile 独創
 {0}dr+ea+tdbkxkiw.duoliexke 独立性
+{0}dr+ea+cu+kl+wmssxxkiwss.duoliejioheozuo 独立集合族
+{0}dr+ea+scuxkiw.duoliejio 独立集
 {0}dr+dbcuixki.duotee 独特
 {0}dr+db,szjhmjtk.uuuxkeoio 属性値
 {0}dr+dqdxki.duoufi 独身
@@ -7273,6 +7303,7 @@
 {0}km+frsksfg.wwixmu 危険
 {0}km+fkknhg.jielue 纪录
 {0}km+fjgvrw.fwifue 非負
+{0}km+jg+xk+ohsxrwfvuwk.fwifueoguuue 非負整数
 {0}km+jg+jr+hotkrwfvdf.fwifueoieyti 非負制約
 {0}km+js+iltlmwc.jueliogju 距離感
 {0}km+ja+psrrrwx.fwiyzujpe 非有界
@@ -7789,6 +7820,7 @@
 {0}ka+sfxu.bfuqie 本気
 {0}ka+ly+ey+itkssux.tsooiemoouie 仝智模式
 {0}ka+lmkjvw.uhevee 上顎
+{0}ka+lf+jxxkwr.vrebuewhu 二部网
 {0}ka+ebjgw.uheoea 上着
 {0}ka+iifr.yiilho 一郎
 {0}ka+ijttu.bfungo 本能
@@ -8301,6 +8333,7 @@
 {0}jg+xmde.srelie 算力
 {0}jg+xmd.zielie 自力
 {0}jg+xvdfnd.zieuai 自殺
+{0}jg+xo+ohsxdj.zierjouue 自然数
 {0}jg+xo+oc+skldjhl.zierjojpoheo 自然結合
 {0}jg+xo+kk.wlkkldjwl.zierjoyjoyuu 自然言語
 {0}jg+xo+kk.lk+nd+kcpcdjwlwkldf.zierjoyjoyuuiuuliu 自然言語処理
@@ -8311,6 +8344,7 @@
 {0}jg+rpd.zieyzo 自由
 {0}jg+rizju.xlibuu 相補
 {0}jg+ga+wc+dduidmn.ziejiuoueuee 自己注射
+{0}jg+ga+fu+lkdnldmyd.ziejiubielue 自己閉路
 {0}jg+ht+ojldgdl.ziembodhu 自民党
 {0}jg+hocjgu.xlixue 相続
 {0}jg+hi+tdbkuss.xliuiexke 相似性
@@ -8386,6 +8420,7 @@
 {0}jc+wdcle.suezce 塑造
 {0}jc+ouwze.suelne 塑料
 {0}jc+fygf.jnusee 角色
+{0}jm.yjfdb.jpumko 解明
 {0}jm.nuxfdb.jpujto 解決
 {0}jm.ncifdb.jpufau 解法
 {0}jm.nojfdb.jpuxni 解消
