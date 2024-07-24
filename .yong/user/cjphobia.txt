@@ -293,6 +293,7 @@
 {0}ba+jzjzd.nqonju 牛腩
 {0}qx,ihstdv.yuolye 舆论
 {0}qt+pcfifi.lueyeu 鹿野
+{0}qt+th+kjkkiiwio.lueziuyyo 鹿紫雲
 {0}qh+ukkodwh.uuubni 鼠标
 {0}qz,wlskjdv.yuolye 輿論
 {0}qv+zvsle.jmirso 兼容
@@ -569,6 +570,7 @@
 {0}yz+kciznw.oooqqo 卓球
 {0}yz+kdyoe.ccuyro 草原
 {0}yw+gdqvdg.dcuyuu 島嶼
+{0}yo+nrrfz.ouufwe 煮沸
 {0}yo+jkmsz.ouutyo 煮豚
 {0}ye+xvdfnon.bceuai 爆殺
 {0}ye+cofson.bcekru 爆款
@@ -695,6 +697,8 @@
 {0}ya+kcwxcd.bdobji 白斑
 {0}ya+kcid.bdoyue 白玉
 {0}ya+kkg.rieyro 日元
+{0}ya+kk.tu+nkvpdec.bdoljodiejqu 白兰地酒
+{0}ya+kk.ctude.bdoljodie 白兰地
 {0}ya+kjmkd.bdoxtu 白雪
 {0}ya+ka+nkvpu.riebfujqu 日本酒
 {0}ya+ka+wlkklu.riebfuyuu 日本語
@@ -726,6 +730,7 @@
 {0}nm+pbmeg.fjewwo 范围
 {0}nm+fs+kedddczi.ugioiixko 聲之形
 {0}nzt+g 浇
+{0}nwr+d 涉
 {0}nwc 注
 {0}nwe+g 滝
 {0}nw+uf+kk.ix+skkidduwikm.dsijieyyedsehve 冬季运动会
@@ -820,6 +825,7 @@
 {0}na+xu+fl+yskjvnwiy.ulidvewfetio 双対問題
 {0}na+xluz.oiijxe 支架
 {0}na+xa+ojfuw.uvuwfoxto 水文学
+{0}na+xa+ihmkldi.fjuyiecio 反义词
 {0}na+tbkjx.yzuqko 友情
 {0}na+tc,hudkrdi.fjulsudre 反垄断
 {0}na+ur+wlfrdf.uvuliebue 水利部
@@ -911,6 +917,7 @@
 {0}xx,wewlj.whuoje 网站
 {0}xx,wiszwm.xnelve 効率
 {0}xx,wkj.whuuhe 网上
+{0}xx,exj.whugri 网关
 {0}xx,is+stwmwz.xnelvehxe 効率化
 {0}xx,is+kkeiwmwz.xnelveiuo 効率厨
 {0}xx,ijttwm.xnengo 効能
@@ -2066,6 +2073,7 @@
 {0}ui+bi+ea+ihvlgndu.dvewouldouoi 对我来说
 {0}ui+bk+ndzldd.siiugihoo 私生活
 {0}ui+pcu.cyiliu 村里
+{0}ui+yuiw.goeuio 过时
 {0}ui+nwign.dvelqo 对流
 {0}ui+xzed.siibfi 私奔
 {0}ui+tsy.uioohu 时长
@@ -2297,6 +2305,7 @@
 {0}ua+kw+doukys.yuouiehui 于是乎
 {0}ua+kot.yeubue 也不
 {0}ua+kftx.uaisiu 杀死
+{0}ua+kjkkv.muelko 木霊
 {0}ua+fudhof.ziasyi 子孫
 {0}ua+fhdno.miufje 米饭
 {0}ua+jbj.cduyse 采用
@@ -2499,6 +2508,7 @@
 {0}ht+kksxl.mbooge 民政
 {0}ht+fild.uiemko 氏名
 {0}ht+ffflg.bculea 饱了
+{0}hr+stul.jnetai 叫他
 {0}hr+ixmil.jnewwe 叫为
 {0}hu.sdbz.vjejme 案件
 {0}hu.sjz.vjenwe 案内
@@ -2548,6 +2558,7 @@
 {0}ho 給
 {0}ho+zbzlh.zdihde 災害
 {0}ho+ihdzlio.tjohxe 谈话
+{0}hsl 给
 {0}hs+bmzlox.uuejue 数据
 {0}hs+yox.uuerie 数日
 {0}hs+ykpcox.uuelle 数量
@@ -3196,6 +3207,7 @@
 {0}ml+mf+eisuwzfu.bieyyeyce 避孕薬
 {0}ml+zbzlx.jxihde 加害
 {0}ml+ztdgx.jximie 加密
+{0}ml+zixbx.jxizde 加载
 {0}ml+wurx.jxisue 加速
 {0}ml+wlox.jxidmu 加点
 {0}ml+obmgr.wfejru 问卷
@@ -3438,6 +3450,7 @@
 {0}ztj+f 寧
 {0}zt+uejsuf.nkomgo 檸檬
 {0}zt+hfuly.uiehcu 嗜好
+{0}zt+ej+nzufus.nkomgooii 檸檬汁
 {0}zr 都
 {0}zr+ba+ykpcsxj.uiuyselle 使用量
 {0}zr+hsx.uiunvu 使女
@@ -3556,6 +3569,7 @@
 {0}ze+olv.pfihou 噴火
 {0}ze+sklmx.lmoheo 联合
 {0}ze+dhiomx.lmoxie 联系
+{0}ze+kpuiog.ucioze 焼酎
 {0}ze+kl+pkcimxs.lmoheogoo 联合国
 {0}ze+jx.bfiyte 奔月
 {0}ze+jgdk.ivomue 垂目
@@ -4028,7 +4042,7 @@
 {0}wr+klsjckk.ogeqte 正確
 {0}wr+fwhikk.ogexmo 正弦
 {0}wr+fdnnd.ueejio 涉及
-{1}wr+fdnnd.ueejio 渉及
+{-}wr+fdnnd.ueejio 渉及
 {0}wr+fjmdbkk.ogejpu 正解
 {0}wr+jm.wiszkkfdb.ogejpulve 正解率
 {0}wr+jkk.ogeyte 正月
@@ -5001,6 +5015,7 @@
 {0}sl 何
 {0}sl+uecg.qiuldo 起来
 {0}sl+ocg.qiuhou 起火
+{0}sl+klfsv.guugei 谷歌
 {0}sl+fscg.qiufwi 起飞
 {0}se+mdrjdws.csouuu 従属
 {0}se+ve+ljgvdwseu.csoyeeyro 従業員
@@ -5308,6 +5323,7 @@
 {0}lg+pi+cslekxokvn.tjesriyjo 碳酸塩
 {0}lg+rcwdht.bcioli 包装
 {0}lg+ggwv.xruiui 選出
+{0}lg+zvslt.bcirso 包容
 {0}lg+zl+kcpctdl.bcigruliu 包管理
 {0}lg+zkwswv.xrudke 選定
 {0}lg+wlcjgd.lreduo 乱読
@@ -5324,8 +5340,6 @@
 {0}lc+wlowjg.duodmu 読点
 {0}lc+ffwjg.duolea 読了
 {0}lm 号
-{0}lmr+f 别
-{1}lmr+f 別
 {0}lm+nciwg.jiefau 記法
 {0}lm+xy+skkiwgz.jieoeuhve 記者会
 {0}lm+twetwg.jieyie 記憶
@@ -5811,6 +5825,7 @@
 {0}en 度
 {0}end+l 落
 {0}en+wuii.duegoe 度过
+{1}ex 关
 {0}ex,weew.ssejbe 送进
 {0}ex,sdw.sserue 送入
 {0}ex,lscl.xnewwo 咲唯
@@ -5952,6 +5967,7 @@
 {0}els+x 敬
 {0}el+zevswdg.jkesde 竞赛
 {0}el+wdcgwdg.jkexru 竞选
+{0}ee 并
 {0}ee,bmznm.pkouee 屏摄
 {0}ee,bkfs.bkedau 併打
 {0}ee,xrfus.bkecyo 併存
@@ -6089,6 +6105,7 @@
 {0}ea+jg+jv+nrorudnu.ldozieufiyri 来自深渊
 {0}ea+jke.bkeqpu 并且
 {0}i 我
+{0}iq+th+sifdqntwio.lueziuxme 漉紫餡
 {0}iq+sifdqnt.luexme 漉餡
 {0}ip+rirrjrho.loosii 螺蛳
 {0}ip+wkzev.ddeuhe 戴上
@@ -7190,6 +7207,7 @@
 {0}kh+tbkjb.bnuqko 表情
 {0}kh+rrpm.ohuxqe 長袖
 {0}kh+uudbio.suecdo 素材
+{0}kh+udnlb.bnugeo 表格
 {0}kh+hodkm.qnumne 巧妙
 {0}kh+cj+dhiobkgg.bnuxmexie 表現系
 {0}kh+mdxnm.ohufae 長髪
@@ -7433,7 +7451,8 @@
 {0}ks+kl+fohck.wwowuovru 维吾尔
 {0}ks+frzkgxj.bkeyre 病院
 {0}ks+jxohs.zserjo 纵然
-{0}klf+s 砍
+{0}klf+s 歌
+{1}klf+s 砍
 {0}kl+bxdxs.heozze 合奏
 {0}kl+bxkxs.heozze 合奏
 {0}kl+bwehj.tsojpi 同接
@@ -7641,6 +7660,7 @@
 {0}kk.iocsi.hveuee 会社
 {0}kk.idmzg.wjoigo 完成
 {0}kk.id+jghoescm.cioigoxme 茨城県
+{0}kk.db,csckyk.sjixkidvi 三星堆
 {0}kk.dy+jvrfkko.sjiyrozeo 三原則
 {0}kk.dn+filbhs.ofefjumko 振仮名
 {0}kk.duldcwg.yruigo 远程
@@ -8103,6 +8123,7 @@
 {0}fi 夕
 {1}fi 々
 {0}fii 多
+{0}fi+ba+xx,xa+we+lwjjjebh.tsiysewhugrijpikzu 通用网关接口
 {0}fi+ycuiwj.tsiuio 通時
 {0}fi+nzwzkz.cjoziu 残滓
 {0}fi+xbwj.tsiiei 通车
@@ -8203,6 +8224,7 @@
 {0}fjc 角
 {0}fj+cidmrs.fweigo 费城
 {0}fj+mkmikbx.hreyuu 換羽
+{0}fj+ecdbibx.hreyie 換義
 {0}fj+dfkridkv.juefgi 颶風
 {0}fj+jbrgv.fweyse 費用
 {0}fa+tj+wlkklkzf.dkinkoyuu 丁寧語
@@ -8221,6 +8243,7 @@
 {0}jp+xmkg.dmelie 電力
 {0}jp+udnlk.lwogeo 雷格
 {0}jp+uknkkg.dmejio 電極
+{0}jp+ua+kh+udnlkgfb.dmeziabnugeo 電子表格
 {0}jp+zldgk.lwokee 雷克
 {0}jp+vj+oz+ilkgwlk.dmeuhipkotdo 電商平台
 {0}jp+wvjlkg.dmeuhi 電商
