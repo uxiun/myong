@@ -83,6 +83,11 @@
 #.dm $DOWN$DOWN$DOWN$DOWN$SPACE
 #.d, $LEFT$LEFT$LEFT$LEFT$SPACE
 
+#.f delite
+.fl =}$SPACE
+.fw ##$|##$SPACE
+.fk [_$|_]$SPACE
+
 .du '$|'$SPACE
 .di "$|"$SPACE
 .do `$|`$SPACE
