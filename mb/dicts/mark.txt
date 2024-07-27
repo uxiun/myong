@@ -33,7 +33,7 @@
 ,ke :$SPACE
 ,kd ;$SPACE
 ,kx ・$SPACE
-,le
+,le │$SPACE
 ,ld
 ,lx
 

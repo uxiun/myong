@@ -609,7 +609,6 @@
 {0}yd+fygc.ugisee 声色
 {0}yd+frykddcl.hceyho 皓陽
 {0}yd+frskufg.mmuiuo 免除
-{0}yk 旦
 {1}yk 星
 {0}ykj+i 曇
 {0}yk+yy.zxybsl.tioiheoeu 提唱者
@@ -648,8 +647,10 @@
 {0}yf+xl+rr,wlgvzrszf.dzioiiuiexru 都知事選
 {0}yf+xl+zrrfzrs.dzioiiuie 都知事
 {0}yf+uk+zfudys.jmutiuzie 簡体字
+{0}yf+hotkdy.jmuyti 簡約
 {0}yf+wrjzr.dziuie 都市
 {0}yf+opzdy.jmudji 簡単
+{0}yf+ot+ca+ecdbidyhkw.jmuytiouuyie 簡約主義
 {0}yf+sukdy.jmutiu 簡体
 {0}yf+ebjgku.hzeoea 厚着
 {0}yj 明
@@ -791,6 +792,7 @@
 {0}nd+ebjgel.loeoea 落着
 {0}nd+ddbgel.loebiu 落笔
 {0}nd+kcpcdf.iuuliu 処理
+{0}nd+kjpel.loelwo 落雷
 {0}nd+jel.loeyte 落月
 {0}nkv+p 酒
 {0}nkd+o 源
@@ -994,6 +996,7 @@
 {0}xg+il+gt,tzeskff.wuomkoyreffe 无名怨愤
 {0}xg+ieni.yzodue 尤度
 {0}xg+kjkjrk.wuoxui 无需
+{0}xg+fryhk.wuoxme 无限
 {0}xh+uk+zfusios.fjotiuzie 繁体字
 {0}xh+dyfysio.fjojmu 繁簡
 {0}xh+drmysio.fjojmu 繁简
@@ -1033,6 +1036,8 @@
 {0}xm+ihixzv.xpoyie 协议
 {0}xm+ijttk.gsingo 功能
 {0}xm+dcln.qregce 劝告
+{0}xm+kp+rfkvplllc.kailiojle 咖喱酱
+{0}xm+kp+ouvmdlllc.kailioffu 咖喱粉
 {0}xm+kl.lkeyii 另一
 {0}xm+kedddsm.juuxko 矩形
 {0}xm+frxbsm.juuofe 矩阵
@@ -1245,6 +1250,7 @@
 {0}xa+szrxk.tmiuiu 天使
 {0}xa+szrx.daeuiu 大使
 {0}xa+sdbw.wfojme 文件
+{0}xa+skfk.tmiqie 天气
 {0}xa+sfxk.tmiqie 天気
 {0}xa+sj+ueyxbgg.daegvimoo 大規模
 {0}xa+lmrfm.quibpo 区別
@@ -1563,6 +1569,7 @@
 {0}rn+vfknh.uzilue 収録
 {0}rn+scuh.uzijio 収集
 {0}rn+sdh.uzirue 収入
+{0}rx+krjwfb.ofeyuu 阵雨
 {0}rx+kvpfe.ujuxii 陕西
 {0}rt,mvpyfty.jpicgo 階層
 {0}rt,zxyr.hreoeu 患者
@@ -1857,6 +1864,7 @@
 {0}rj+klykifk.zuuvde 阻碍
 {0}rj+fm+ij+dzllwcdre.uieihujmigru 市场监管
 {0}rj+filex.ykimko 英名
+{0}rj+jvdnw.uiefje 市販
 {0}ra+bkpwi.osiduo 中毒
 {0}ra+pkci.osigoo 中国
 {0}ra+ymzn.osizve 中最
@@ -1957,6 +1965,7 @@
 {0}ux+csmgzm.booqiu 勃起
 {0}ux+zr+vfxbtbs.kkejpojme 快捷鍵
 {0}ux+zkwsn.jtodke 決定
+{0}ux+wnsiht.kkecji 快餐
 {0}ux+wurt.kkesue 快速
 {0}ux+wvfdt.kkedie 快递
 {0}ux+wlecin.jtoyie 決議
@@ -1967,6 +1976,7 @@
 {0}ut+mtd.xiinio 悉尼
 {0}ut+ztdgdd.miemie 秘密
 {0}ut+wluxdd.miejto 秘訣
+{0}ut+skkidd.mieyyo 秘伝
 {0}ut+fpkydd.mieluu 秘鲁
 {0}ur+nrmcdf.lierye 利润
 {0}ur+njjjw.suehxo 速滑
@@ -1980,6 +1990,7 @@
 {0}ur+wiszdf.lielve 利率
 {0}ur+ouxd.osulwe 种类
 {0}ur+studf.lietai 利他
+{0}ur+siyhw.sueuio 速食
 {0}ur+evjedf.lieyie 利益
 {0}ur+ienw.suedue 速度
 {0}ur+idmw.sueigo 速成
@@ -2261,6 +2272,7 @@
 {0}uj+ua+eeiwggf.qbiziajku 親子丼
 {0}uj+hopok.cuixie 粗細
 {0}uj+ztdgwgg.qbimie 親密
+{0}uj+zrhdry.dceqii 稲妻
 {0}uj+ouwdlok.cuicci 粗糙
 {0}uj+sk+gdryel.dceheouji 稲荷山
 {0}uj+ed,pwxdgkdd.xlixkotuo 箱形図
@@ -3428,6 +3440,7 @@
 {0}zp+oc+tdbkwzhjg.lmoxuexke 連続性
 {0}zp+od+dcdgwzhnl.lmoloexmi 連絡先
 {0}zp+ojfujz.jyixto 軍学
+{0}zp+oj+iwlwzvv.lmosoudme 連鎖店
 {0}zp+sydndc.osefue 重复
 {0}zp+sy+rr,kfrfdcrnrv.osefueuyelpe 重複順列
 {0}zp+sdcwz.lmorfe 連任
@@ -3919,6 +3932,7 @@
 {0}va+rrdpz.jbipdo 金牌
 {0}va+rr,ka+nfr.xnuiriyiiuvu 小川一水
 {0}va+rfx.jbijlu 金奖
+{0}va+rjklpf.xnufuo 小幅
 {0}va+rj+lhtfw.xnuuiembo 小市民
 {0}va+uvif.xnussi 小松
 {0}va+ul+pkcied.gseheogoo 共和国
@@ -4409,6 +4423,7 @@
 {0}om+wetsmx.quisve 駆遂
 {0}om+srrhdl.ucejpe 紹介
 {0}om+sifthg.jienme 紀念
+{0}om+dyirfnc.jmijpo 鰹節
 {0}om+dcxmmx.quidse 駆動
 {0}om+krjwmns.ozeyuu 驟雨
 {0}oz+yuik.pkouio 平时
@@ -4958,6 +4973,7 @@
 {0}sm+bgug.qlijii 枪击
 {0}sm+pwxs.zoetuo 作図
 {0}sm+pa+zkmsse.zoequijxi 作曲家
+{0}sm+ntwko.oaejii 炸鸡
 {0}sm+ncis.zoefau 作法
 {0}sm+xcdl.icidae 超大
 {0}sm+xd,ohsxcdlidd.icicjiuue 超参数
@@ -5046,7 +5062,6 @@
 {0}ss,kp+pwxicuo.zoebnituo 座標図
 {0}ss,kp+dhioicuo.zoebnixie 座標系
 {0}ss,kkkkj.llusji 两三
-{0}ss,jvwldyn.fuetpi 復貼
 {0}sl 何
 {0}sl+uecg.qiuldo 起来
 {0}sl+ocg.qiuhou 起火
@@ -6488,6 +6503,7 @@
 {0}if+kxs.jbitmi 今天
 {0}if+kkgfi.doiyro 多元
 {0}if+kkhmfi.doikvi 多亏
+{0}if+kkifi.doiyyo 多云
 {0}if+kkfsfi.doicie 多次
 {0}if+kj+tk+cu+yfyfikviyi.doixleuieuiojmi 多項式時間
 {0}if+kj+itkfikv.doixleuie 多項式
@@ -7196,6 +7212,7 @@
 {0}kt+jwvxixs.nkojni 凝胶
 {0}kr+bzrssx.bmejpo 便捷
 {0}kr+bweci.isiole 冲撞
+{0}kr+nlks.tneuvu 跳水
 {0}kr+ur+iwlsxdf.bmeliedme 便利店
 {0}kr+udnlsp.siegeo 価格
 {0}kr+zvixi.isitui 冲突
@@ -7831,6 +7848,7 @@
 {0}kj+okgb.qkigli 青光
 {0}kj+okjvtn.yzufjo 懮煩
 {0}kj+sbb.qkinmo 青年
+{0}kj+sz,evcwdpt.kfudeojii 肯德基
 {0}kj+sdbhk.zuujme 组件
 {0}kj+sklhk.zuuheo 组合
 {0}kj+erpvb.qkihlo 青黄
@@ -8304,6 +8322,7 @@
 {0}jp+ntukg.dmeiio 電池
 {0}jp+nkdokg.dmeyro 電源
 {0}jp+xmkg.dmelie 電力
+{0}jp+rx+krjwkfb.lwoofeyuu 雷阵雨
 {0}jp+udnlk.lwogeo 雷格
 {0}jp+uknkkg.dmejio 電極
 {0}jp+ua+kh+udnlkgfb.dmeziabnugeo 電子表格
@@ -8313,6 +8332,7 @@
 {0}jp+wldzlkg.dmehxe 電話
 {0}jp+oj+wsrfkgigg.dmeuiejue 電視劇
 {0}jp+sfxkg.dmeqie 電気
+{0}jp+ldyok.lwomko 雷鳴
 {0}jp+ld+up+lkhmkgwzld.dmehxefjihce 電話番号
 {0}jp+ld+ds+ja+evdkrkzgkcs.lwokeeyaunwesii 雷克雅内斯
 {0}jp+ey+wlfrkgw.dmeybibue 電音部
@@ -8465,6 +8485,7 @@
 {0}jg+tdbku.xlixke 相性
 {0}jg+rpd.zieyzo 自由
 {0}jg+rizju.xlibuu 相補
+{0}jg+udfu.xlijii 相机
 {0}jg+ga+wc+dduidmn.ziejiuoueuee 自己注射
 {0}jg+ga+fu+lkdnldmyd.ziejiubielue 自己閉路
 {0}jg+ht+ojldgdl.ziembodhu 自民党
@@ -8582,6 +8603,7 @@
 {0}jvs+x 敗
 {0}jvl.g 脱
 {0}jv+psrrnu.ufijpe 深界
+{0}jv+yg+ey+itknufux.ufiseemoouie 深色模式
 {0}jv+nnu.ufiuvu 深水
 {0}jv+nrornu.ufiyri 深渊
 {0}jv+njsfbu.tjecee 探测
@@ -8606,6 +8628,7 @@
 {0}jv+kw+juhipo.ykilbuyte 櫻凛月
 {0}jv+kk.fygnuh.ufihsosee 深红色
 {0}jv+kfce.dmuxko 典型
+{0}jv+fygnu.ufisee 深色
 {0}jv+js+llixlbunf.tjeceeqie 探测器
 {0}jw+cymkc.tjitai 坍塌
 {0}jw+wxmwdm.phobmi 旁边
