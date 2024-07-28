@@ -121,6 +121,7 @@
 {0}bs,jilxt.lyotdi 轮胎
 {0}be,bd,zxydcidbk.xiiugioeu 犠牲者
 {0}be,dbdbkdci.xiiugi 犠牲
+{0}bi 找
 {0}bi+srimd.woumfa 我们
 {0}bdt 托
 {0}bdz+r 挿
@@ -289,6 +290,7 @@
 {0}ba+kcizn.uzuqqo 手球
 {0}ba+fjco.bjejnu 半角
 {0}ba+fjce.yhojnu 羊角
+{0}ba+jugd.nqoruu 牛乳
 {0}ba+jc+nk.tlgefbpr.yhojnummebci 羊角麺包
 {0}ba+jc+vk+dyofz.bjejnuksibdo 半角空白
 {0}ba+jzjzd.nqonju 牛腩
@@ -1853,6 +1855,7 @@
 {0}rj+lk+jr+kc+ca+ecdbiexwklwjpiw.ykiyuudiegooouuyie 英語帝国主義
 {0}rj+ebjgng.ufuoea 沈着
 {0}rj+eidmfmt.ybuzhi 隠蔵
+{0}rj+ihkklex.ykiyuu 英语
 {0}rj+iltdgv.oiegju 質感
 {0}rj+dbtddpgv.mduwue 買物
 {0}rj+dbgfmt.ybumco 隠毛
@@ -1972,6 +1975,7 @@
 {0}ux+isut.kkelee 快楽
 {0}ux+dhut.kkelee 快乐
 {0}ux+kfco.lwexko 类型
+{0}ux+fc,sk+ujkokus.lwexkojmuoai 类型検査
 {0}ut 想
 {0}ut+mtd.xiinio 悉尼
 {0}ut+ztdgdd.miemie 秘密
@@ -2396,6 +2400,7 @@
 {0}gm+jgjdj.ouumue 瞩目
 {0}gv+ua+mt+djwijn.bwemuenioozi 貝木泥舟
 {0}gv+cfdfnj.bweqne 貝殻
+{0}gw+bznweg.jkejie 競技
 {0}gw+cjdgweg.jkemde 競売
 {0}gw+fugjec.tsoksu 瞳孔
 {0}gw+fmuweg.jkeogi 競争
@@ -3400,6 +3405,7 @@
 {0}mj.kpivni.jmisri 肩酸
 {0}mj.kozie.bmupko 扁平
 {0}mj.keie.ugekdi 盛开
+{0}ma+pkcik.wjegoo 万国
 {0}ma+ykpcx.lielle 力量
 {0}ma+xm.juedae 巨大
 {0}ma+rd+evdkrwsd.luoxqisii 卢修斯
@@ -3415,6 +3421,7 @@
 {0}ma+ivdgim.juemoo 巨魔
 {0}ma+dbuyi.huejio 户籍
 {0}ma+dbuyk.huejio 戸籍
+{0}ma+kc+ij+ij+skkikpizimgg.wjegoobooljuhve 万国博覧会
 {0}ma+fiwi.huewde 户外
 {0}ma+jugm.jueruu 巨乳
 {0}zp+bwehwz.lmojpi 連接
@@ -3479,6 +3486,7 @@
 {0}zx+prdyoom.kcuyai 烤鴨
 {0}zx+zxyey.oueoeu 著者
 {0}zx+zjhioem.lwisou 勒索
+{0}zx+wlocy.duudmu 堵点
 {0}zx+wedgzf.gvudce 軌道
 {0}zx+sm+usxceys.ouezoeqro 著作権
 {0}zx+ssmey.ouezoe 著作
@@ -3536,6 +3544,7 @@
 {0}zv+yjmit.csimko 聡明
 {0}zv+nrpiv.maoyzo 麻油
 {0}zv+xrjiv.maobue 麻布
+{0}zv+rjxiv.maoyhi 麻央
 {0}zv+uiv.maomue 麻木
 {0}zv+gklol.rsoyjo 熔岩
 {0}zv+zp+epdunlwz.rsolmojyi 溶連菌
@@ -3914,6 +3923,7 @@
 {0}va+bknf.xnumde 小麦
 {0}va+bk+nfnj.xnuqkiuvu 小清水
 {0}va+bk+na+wdumfnj.xnuqkiuvutze 小清水透
+{0}va+ba+sukej.gseysetiu 共用体
 {0}va+ba+isscd.jbinqozoe 金牛座
 {0}va+po+enluf.jbiyuozcu 金魚藻
 {0}va+po+dn+ou+lkdnlfcw.jbiyuobjumiolue 金魚坂迷路
@@ -4208,6 +4218,7 @@
 {0}we+wijcl.pwoyue 培育
 {0}we+wdkrbh.jpijbe 接近
 {0}we+oc+wlmklbhhjg.jpixuecio 接続詞
+{0}we+oa+dm+cydnki.qiebueigougi 泣不成声
 {0}we+srprb.laiufi 拉伸
 {0}we+sklbh.jpiheo 接合
 {0}we+sjcg.jkenwe 境内
@@ -4378,6 +4389,7 @@
 {0}or+dn+stiprul.ufogeohxe 神格化
 {0}or+dutdipr.ufomie 神秘
 {0}or+djwiipr.ufoozi 神舟
+{0}or+fs+ceslipri.ufooiitau 神之塔
 {0}ou 米
 {0}oux+ 炔
 {0}ou+pxw.mioybi 迷因
@@ -5074,6 +5086,7 @@
 {0}se+il+oulormn.fuuxximiu 嘸蝦米
 {0}se+dr+tdbkdwsmj.csouuuxke 従属性
 {0}se+dr+vd+ohsxdwsmjwn.csouuubmeuue 従属変数
+{0}se+fubo.fuuzia 撫子
 {0}si 会
 {1}si 伐
 {0}si+xmlch.ytejxi 越加
@@ -5657,6 +5670,7 @@
 {0}lj+nzzjwl.gciico 高潮
 {0}lj+nwvjn.jridii 涓滴
 {0}lj+na+kozwl.gciuvupko 高水平
+{0}lj+xrjwcl.dnebue 調布
 {0}lj+riteuz.huodpo 胡蝶
 {0}lj+ur+stwlw.gcisuehxe 高速化
 {0}lj+uw+bznwldz.gcikeijie 高科技
@@ -5948,6 +5962,7 @@
 {0}ev+cwsyn.bcezzu 暴走
 {0}ev+cd+wlkklpebi.yieyieyuu 異義語
 {0}ev+ca+ka+if+dszptkpzfi.yaeliuuiedoideo 亚里士多德
+{0}ev+zrrfzs.sdeuie 赛事
 {0}ev+wrkdp.yiebue 異歩
 {0}ev+wkwy.xmukau 显卡
 {0}ev+wkkik.yaeyye 亚运
@@ -6037,8 +6052,10 @@
 {0}ee,lw.jbekzu 进口
 {0}ee,eyxjm.pkomue 屏幕
 {0}ee,idmuj.gzeigo 構成
+{0}ee,ij+skkiwzi.jbeboohve 进博会
 {0}ee,dulkcw.jbeigo 进程
 {0}ee,dc+stujwl.gzezcehxe 構造化
+{0}ee,dc+sukujwl.gzezcetiu 構造体
 {0}ee,dm+ph+bkhioujik.gzeigoycesue 構成要素
 {0}ee,dm+tdbkuji.gzeigoxke 構成性
 {0}ee,dskkfw.jbexko 进行
@@ -6517,6 +6534,7 @@
 {0}ij+bzvkre.jmikse 监控
 {0}ij+njsfre.jmicee 监测
 {0}ij+rgw.yuevro 育儿
+{0}ij+rijdgzi.boolju 博览
 {0}ij+mijggzi.boolju 博覧
 {0}ij+zkzi.boouie 博士
 {0}ij+wnjgre.jmidui 监督
@@ -6524,6 +6542,7 @@
 {0}ij+wlcjgi.lhuduo 朗読
 {0}ij+srddme.jmixqi 監修
 {0}ij+ihzfxi.lhuduo 朗读
+{0}ij+ij+skkizirdg.booljuhve 博览会
 {0}ij+ij+skkizimgg.booljuhve 博覧会
 {0}ij+dbrjl.woinqo 蝸牛
 {0}ij+dzllre.jmigru 监管
@@ -7376,7 +7395,6 @@
 {0}kc+filpi.goomko 国名
 {0}kc+fdsxmpi.goowue 国務
 {0}kc+fjcs.qrojnu 全角
-{0}km 戸
 {0}km+pmik.yuutmo 羽田
 {0}km+pa+vk+nevgmikz.yuutmoksighu 羽田空港
 {0}km+nxbrws.ouojme 逐渐
@@ -7829,6 +7847,7 @@
 {0}kj 電
 {0}kjr+ki 融
 {0}kjg+v 頁
+{0}kje+zj 霸
 {0}kj+bk+lu+wlesnsnds.yziugibcuhue 優生保護
 {0}kj+bk+lu+le+ncisndswsn.yziugibcuhuefau 優生保護法
 {0}kj+ba+evjbs.qkinmoqii 青年期
@@ -8053,6 +8072,7 @@
 {0}fr+xbkf.lpeiei 列车
 {0}fr+rj+ur+fifinxdf.dgebueliedoi 邓布利多
 {0}fr+zpzkf.lpeiei 列車
+{0}fr+vb+kfckfo.lpejuuxko 列挙型
 {0}fr+weyzdd.dieohi 第章
 {0}fr+ovbkf.lpejuu 列挙
 {0}fr+sdkf.lperue 列入
@@ -8369,6 +8389,7 @@
 {0}jx+ur+rf,is+xa+evdkrddfrcxw.vceliefuovdiwfosii 奥利弗埃文斯
 {0}jx+hm.scjnfk.vdemauuie 爱马仕
 {0}jx+zxyfm.ysuoeu 勇者
+{0}jx+wkkid.vceyye 奥运
 {0}jx+ouwzoo.rjolne 燃料
 {0}jx+oj+su+kf+hk+ihstridgjdhskioz,hiiedokikoye 央视财经评论
 {0}jx+oj+jxxridg.yhiuiewhu 央视网
@@ -8694,6 +8715,7 @@
 {0}je+rd.xteosi 血中
 {0}je+rktzz.njobwu 南北
 {0}je+ra+ep+iendnh.xteosinsodue 血中濃度
+{0}je+unkzj.baeqro 霸权
 {0}je+uskcd.xteuri 血栓
 {0}je+uknkzz.njojio 南極
 {0}je+ufnkzz.njojio 南極
@@ -8796,6 +8818,7 @@
 {0}jf+cx+va+lo.hs+kfcnudmfwox.fuodsexnudmuuuexko 浮動小数点数型
 {0}jf+cl+mkhouph.xtoyroohu 学園長
 {0}jf+mlebou.xtoqyo 学群
+{0}jf+mikou.xtoxio 学习
 {0}jf+mkdyou.xtoxio 学習
 {0}jf+zxyou.xtooeu 学者
 {0}jf+zkwsed.jmudke 剪定
