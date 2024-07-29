@@ -320,6 +320,7 @@
 {0}py+wuikdk.xkugoe 醒过
 {0}py+ebjgkdk.xkuoea 醒着
 {0}px+esto.yjihxi 烟花
+{0}pt+hkkj.sdihso 腮红
 {0}pr+ya+wlmgef.mgeriejie 夢日記
 {0}pr+nscwj.yuenjo 遇难
 {0}pr+ugtef.mgexlu 夢想
@@ -1674,6 +1675,7 @@
 {0}rs+rfjshx.uzifwe 收费
 {0}rs+cifku.iuoque 除去
 {0}rs+mdrjfui.fueuuu 附属
+{0}rs+zvslsd.xqirso 修容
 {0}rs+zveehfii.ybinho 陰嚢
 {0}rs+wdkrfui.fuejbe 附近
 {0}rs+wktfku.iuociu 除此
@@ -1755,6 +1757,7 @@
 {0}rk+we+sdyfflb.vailaiboo 阿拉伯
 {0}rk+wddbkwv.yioiju 遺産
 {0}rk+wjclflj.geoozi 隔週
+{0}rk+wjscflj.geolio 隔離
 {0}rk+ozibs.tnioje 挑戦
 {0}rk+ojfuk.gsixto 工学
 {0}rk+stubw.pdotai 排他
@@ -1801,6 +1804,7 @@
 {0}rk+ffflj.geolea 隔了
 {0}rk+jxoli.svirjo 虽然
 {0}rk+jvlgws.tcotoi 逃脱
+{0}rk+js+kjujgfljwc.geoliouli 隔離霜
 {0}rk+jkkvk.gsijue 工具
 {0}rk+jk+uuuffles.vaimgosfi 阿蒙森
 {0}rfd+n 版
@@ -1965,6 +1969,7 @@
 {0}ux+bzrst.kkejpo 快捷
 {0}ux+ylot.kkeoce 快照
 {0}ux+tn.jtoxbi 決心
+{0}ux+gklub.pjiyjo 攀岩
 {0}ux+csmgzm.booqiu 勃起
 {0}ux+zr+vfxbtbs.kkejpojme 快捷鍵
 {0}ux+zkwsn.jtodke 決定
@@ -2031,7 +2036,9 @@
 {0}uvi 松
 {0}uv+uzomd.ffumoe 粉末
 {0}uv+hhkomd.ffusii 粉丝
+{0}uv+idtkomd.ffudiu 粉底
 {0}uv+dh+nwsxomdii.ffudiuyee 粉底液
+{0}uv+fheeomd.ffubku 粉饼
 {0}uw+bzndz.keijie 科技
 {0}uw+nezjol.ojioie 粘滞
 {0}uw+himdz.keihre 科幻
@@ -2354,6 +2361,8 @@
 {0}gp+kpmrk.hxemme 画面
 {0}gp+kwdkr.bioxxe 鼻下
 {0}gy+pcjh.yjuliu 眼里
+{0}gy+yodddjh.yjuyku 眼影
+{0}gy+hkizjh.yjuxme 眼线
 {0}gy+vwegjh.yjujke 眼鏡
 {0}gy+kciznjh.yjuqqo 眼球
 {0}gy+ki.ddbgjhhz.yjuxmebiu 眼线笔
@@ -2398,6 +2407,8 @@
 {0}gg,dk+wlkklmbr.quioeoyuu 屈折語
 {0}gmg+g 崛
 {0}gm+jgjdj.ouumue 瞩目
+{0}gz+bg,wljjjrsd.jpomcogci 睫毛膏
+{0}gz+dbgjrs.jpomco 睫毛
 {0}gv+ua+mt+djwijn.bwemuenioozi 貝木泥舟
 {0}gv+cfdfnj.bweqne 貝殻
 {0}gw+bznweg.jkejie 競技
@@ -2421,6 +2432,7 @@
 {0}gi+kidgid.gvuhyo 鬼魂
 {0}gd+ya+zp+kcjdgkndc.xxerieosexme 夏日重现
 {0}gd+ukjg.jmebfu 見本
+{0}gd+gl+vlfsjzkjht.uvemmoyue 睡眠欲
 {0}gd+mdbgwyo.jqewwu 鷲尾
 {0}gd+zn+pwxjgm.jmequutuo 見取図
 {0}gd+wdmjg.jmefhi 見方
@@ -2570,6 +2582,7 @@
 {0}hm.frsfk.maudve 马队
 {0}hm.fkknig.jielue 记录
 {0}hm.jzpztk.wuijyi 乌軍
+{0}hz 线
 {0}hzk+s 嫁
 {0}hz+wuiifx.duogoe 读过
 {0}hz+irfi.jiehxe 计划
@@ -2627,7 +2640,9 @@
 {0}hs+fu+stoxz.uueziehxe 数字化
 {0}hs+fkimjim.oaepme 诈骗
 {0}hs+fa+ev+kxoxxzw.uuejquhjotmi 数九寒天
+{0}hs+jkli.rfetso 认同
 {0}hs+jk+ctuizv.rfeofidie 认真地
+{0}hl+wljjk.iyogci 唇膏
 {0}hl+lmrfiv.uiobpo 识别
 {0}hl+kwk.iyoxxe 唇下
 {0}he+pdnwfe.bkutuo 饼图
@@ -3354,6 +3369,7 @@
 {0}md+frskut.qpeiuo 切除
 {0}md+fjmdbv.ffijpu 分解
 {0}md+jbv.ffiyse 分用
+{0}md+ja+vlfsdkrx.souyzuyue 所有欲
 {0}mk+bepb.scumno 扫描
 {0}mk+bf,kc+dywgwmrpi.yuunaegoodcu 与那国島
 {0}mk+bj+wlkkljdeg.jnioeayuu 膠着語
@@ -3849,6 +3865,7 @@
 {0}vd+ykpcwn.bmelle 変量
 {0}vd+nciigi.moofau 魔法
 {0}vd+xmigi.moolie 魔力
+{0}vd+tdbkwn.bmexke 変性
 {0}vd+ta+dhiowns.bmehxexie 変化系
 {0}vd+rp+lm+vfknwnkxwg.bmeggejielue 変更記録
 {0}vd+higi.moonvu 魔女
@@ -5181,6 +5198,7 @@
 {0}sk+ejvjko.jiedmu 祭典
 {0}sk+ejsxfxt.faisje 発散
 {0}sk+ixmidkf.xkowwe 行为
+{0}sk+ixfodkf.xkowwe 行為
 {0}sk+ix+hz+irfdkfkmi.xkodsejiehxe 行动计划
 {0}sk+ihkwkdk.qmioge 签证
 {0}sk+iolgjko.jiesie 祭祀
@@ -5332,6 +5350,8 @@
 {0}lt+sxli.gjuoii 感知
 {0}lt+sukv.zsutiu 总体
 {0}lt+lni.gjutje 感叹
+{0}lt+lersi.gjutje 感嘆
+{0}lt+er+wlmklils.gjutjecio 感嘆詞
 {0}lt+ihzv.zsujie 总计
 {0}lt+drjgvi.gjuoie 感質
 {0}lt+kcpcv.zsuliu 总理
@@ -5521,7 +5541,8 @@
 {0}ll.durl.pbuosu 品种
 {0}ll.dudzcl.pbuosu 品種
 {0}ll.fjmdbwkx.wuejpu 誤解
-{0}lex 咲
+{0}lex 哎
+{1}lex 咲
 {0}le+nk.rikvpdkbpr.tmommejle 甜麺醤
 {0}le+nfscl.xiuhri 喜欢
 {0}le+njfukhi.ciofuo 磁浮
@@ -5703,6 +5724,7 @@
 {0}lj+wlitkwcl.dneuie 調試
 {0}lj+weywl.gciybi 高音
 {0}lj+wdfwl.gcikhe 高亢
+{0}lj+okgwl.gcigli 高光
 {0}lj+stdbswl.gcitpu 高铁
 {0}lj+swlfwcl.dnetko 調停
 {0}lj+ssydbv.syuuhi 損傷
@@ -5895,6 +5917,7 @@
 {1}ex 关
 {0}ex,weew.ssejbe 送进
 {0}ex,sdw.sserue 送入
+{0}ex,lhkil.vdiyoi 哎哟
 {0}ex,lscl.xnewwo 咲唯
 {0}ex,il+yt+ko+udnmlfbtk.niemkojpiuiebju 匿名掲示板
 {0}ex,il+fn+ohsxmlfg.niemkohjouue 匿名函数
@@ -6063,6 +6086,7 @@
 {0}ee,ksxw.jbegsi 进攻
 {0}ee,kjrrw.jbevro 进而
 {0}ee,jbs.bkeyse 併用
+{0}ei 時
 {0}eid+m 蔵
 {0}ei+llixljm.zheqie 臓器
 {0}ei+li+yk+sevjmlxlbs.zheqietiogsi 臓器提供
@@ -6297,6 +6321,7 @@
 {0}im+kcpcb.hueliu 护理
 {0}im+kflyr.jiokeu 即可
 {0}im+fl+sy+kcrfyrkdki.jiokeudeodce 即可得到
+{0}im+jbsb.huefui 护肤
 {0}im+jgdgsj.pmijme 偏見
 {0}im+jdgsj.pmijme 偏见
 {0}izn 求
@@ -6611,6 +6636,7 @@
 {0}db,ga+ld+xm+lrkwykyzgll.xkibaikeekaifwi 星巴克咖啡
 {0}db,hm.ok+jbdgigi.biujieykiyse 笔记应用
 {0}db,ceslvs.oiotau 鉄塔
+{0}db,mr+hs+jkltklfi.xkebporfetso 性別认同
 {0}db,mr+lm+kl+rw+klykitklfwitjfez,kepofesohede 性別認同障碍
 {0}db,zvkyk.xkiksi 星空
 {0}db,vlfstk.xkeyue 性欲
@@ -6636,6 +6662,7 @@
 {0}db,djevs.oioxte 鉄血
 {0}db,kciznyk.xkiqqo 星球
 {0}db,kltlgvs.oiopce 鉄砲
+{0}db,kl+ka+tdbktkj.xketsoyiixke 性同一性
 {0}db,kl+ka+db,rw+klykitkjtkfez.xketsoyiixkeohevde 性同一性障碍
 {0}db,kedddyk.xkixko 星形
 {0}db,kekjvmg.wwutzo 尾頭
@@ -6718,6 +6745,7 @@
 {0}dn+kedddpw.tuoxko 图形
 {0}dn+fiwul.geowde 格外
 {0}dn+fils.fjumko 仮名
+{0}dn+jbsu.piofui 皮肤
 {0}dn+jusnf.jioxii 及膝
 {0}dn+jjtnxw.tgovde 疼愛
 {0}dxt 懲
@@ -6772,6 +6800,7 @@
 {0}dr+wlxki.duooje 独占
 {0}dr+wexki.duolie 独立
 {0}dr+slrfxki.duoile 独創
+{0}dr+la+vlfsxkiw.duoojeyue 独占欲
 {0}dr+ea+tdbkxkiw.duoliexke 独立性
 {0}dr+ea+cu+kl+wmssxxkiwss.duoliejioheozuo 独立集合族
 {0}dr+ea+scuxkiw.duoliejio 独立集
@@ -7094,6 +7123,7 @@
 {0}dj+zyfreg.uzudzi 首都
 {0}dj+zjsoog.uguiao 省察
 {0}dj+wljgll.xlulle 响亮
+{0}dj+ouvmdyg.mwoffu 眉粉
 {0}dj+og+kk.wlooegjxsi.uzuncuhvetjo 首脳会談
 {0}dj+sreg.uzugee 首个
 {0}dj+svmdog.uguffe 省份
@@ -7103,6 +7133,7 @@
 {0}dj+ikfseg.uzucie 首次
 {0}dj+dcdgeg.uzuxmi 首先
 {0}dj+dlgbg.jnulre 攪乱
+{0}dj+ddbgyg.mwobiu 眉笔
 {0}dj+kkfseg.uzucie 首次
 {0}dj+kjseg.uzuyee 首页
 {0}dj+jogxeg.uzuncu 首脳
@@ -7195,6 +7226,8 @@
 {0}kx+we+jp+vj+oz+illkmcgkgwlk.kxejkedmeuhipkotdo 跨境電商平台
 {0}kx+oz+illkmk.kxepkotdo 跨平台
 {0}kx+suint.tmifue 添付
+{0}kx+db,zxylkmtk.kxexkeoeu 跨性者
+{0}kx+db,lmrflkmtk.kxexkebpo 跨性別
 {0}kt+ba+kciznro.bwubjeqqo 北半球
 {0}kt+nild.igooie 惩治
 {0}kt+xmlzk.veepiu 悪癖
@@ -7435,6 +7468,7 @@
 {0}km+kl+evjrwj.fwitsoqii 非同期
 {0}km+kksxzs.jxioge 家政
 {0}km+kjpgzs.jxidme 家電
+{0}km+ka+kkgrwk.fwivreyro 非二元
 {0}km+fx+us+dlkrjzsiczx.jxitkojneuii 家庭教師
 {0}km+frsksfg.wwixmu 危険
 {0}km+fkknhg.jielue 纪录
@@ -8563,6 +8597,7 @@
 {0}jg+dufou.xliigi 相称
 {0}jg+dcxmd.ziedse 自動
 {0}jg+dsrbd.zielve 自律
+{0}jg+dsuiu.xlifuo 相符
 {0}jg+dsivfde.sreuue 算術
 {0}jg+dfwdhd.zieoie 自製
 {0}jg+djrfd.zieoie 自制
@@ -8665,6 +8700,7 @@
 {0}js+cioex.sjeree 散熱
 {0}js+we+evdkrkcb.hoelaisii 霍拉斯
 {0}js+wkwk.yeekau 页卡
+{0}js+ouvmdex.sjeffu 散粉
 {0}js+sdbkii.lkojme 零件
 {0}js+eyxjrc.wwomue 帷幕
 {0}js+endlkii.lkoloe 零落
