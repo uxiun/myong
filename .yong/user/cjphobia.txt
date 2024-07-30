@@ -326,6 +326,7 @@
 {0}pr+ugtef.mgexlu 夢想
 {0}pr+cf,ia+ifsnzpiff.zeoyeuhsooii 澤野弘之
 {0}pr+zkji.jtouie 爵士
+{0}pr+wrkvr.ufiyio 申遺
 {0}pr+wsb.yaiyui 押込
 {0}pr+wsr.ufiyui 申込
 {0}pr+wlbkjr.ufiqku 申請
@@ -1872,6 +1873,7 @@
 {0}rj+fm+ij+dzllwcdre.uieihujmigru 市场监管
 {0}rj+filex.ykimko 英名
 {0}rj+jvdnw.uiefje 市販
+{0}ra+br,hkizxp.osiozoxme 中轴线
 {0}ra+bkpwi.osiduo 中毒
 {0}ra+pkci.osigoo 中国
 {0}ra+ymzn.osizve 中最
@@ -1880,6 +1882,7 @@
 {0}ra+yfy.osijmi 中間
 {0}ra+ya+na+ihkkln.osirieuliyuu 中日双语
 {0}ra+nci.osifau 中法
+{0}ra+xbrp.osiozo 中轴
 {0}ra+xmf.ybulie 引力
 {0}ra+xa+uuie.osigricyi 中关村
 {0}ra+tz+cw+ebsiiskxc.osihxobjilko 中华斑羚
@@ -3716,12 +3719,14 @@
 {0}za+zusxy.zcujne 早教
 {0}za+zzjy.zcuico 早朝
 {0}za+zklpb.fgifue 丰富
+{0}za+za+nddhsl.ufoyeepde 什叶派
 {0}za+vmd.uioffi 十分
 {0}za+wbdry.zcuuie 早逝
 {0}za+wyhy.zcutve 早退
 {0}za+woixgy.zcujqe 早就
 {0}za+wkidod.qmisve 千歳
 {0}za+sixu.moefuo 末伏
+{0}za+lzs.ufoyee 什叶
 {0}za+la+se+fudkbo.qmiuiofuuzia 千石撫子
 {0}za+ikfmuk.gjejke 干净
 {0}za+if+gfifi.uiodoisve 十多岁
@@ -5046,6 +5051,7 @@
 {0}sm+ffcg.qiulea 起了
 {0}sm+jbs.zoeyse 作用
 {0}sz 午
+{1}sz 什
 {0}sz,pkcidpt.deogoo 德国
 {0}sz,we+duwzdptb.deolaikei 德拉科
 {0}sz,jzpzdpt.deojyi 德軍
@@ -5541,8 +5547,6 @@
 {0}ll.durl.pbuosu 品种
 {0}ll.dudzcl.pbuosu 品種
 {0}ll.fjmdbwkx.wuejpu 誤解
-{0}lex 哎
-{1}lex 咲
 {0}le+nk.rikvpdkbpr.tmommejle 甜麺醤
 {0}le+nfscl.xiuhri 喜欢
 {0}le+njfukhi.ciofuo 磁浮
@@ -5784,6 +5788,8 @@
 {0}la+hok.kzuhso 口紅
 {0}la+cjksk.uioosu 石塚
 {0}la+mk+mmlio.tdodhijuo 台当局
+{0}la+zxtz.guulcu 古老
+{0}la+zusxp.hvojne 回教
 {0}la+zkmsp.hvojxi 回家
 {0}la+wmlzp.hvobie 回避
 {0}la+wmdx.yzebmi 右辺
@@ -6181,6 +6187,7 @@
 {0}ea+sy+fdnudki.ldodeojio 来得及
 {0}ea+stzu.ldohxo 来华
 {0}ea+sr+rk+wddbktprwv.uiejpeyioiju 世界遺産
+{0}ea+sr+rk+dd,il+vfkntprwvwbkf.uiejpeyioijumkolue 世界遺産名録
 {0}ea+sr+scjggtpr.uiejpegri 世界観
 {0}ea+sukw.lietiu 立体
 {0}ea+skkik.kdihve 开会
@@ -6422,6 +6429,7 @@
 {0}il+cidmf.mkoigo 名城
 {0}il+zfuf.mkozie 名字
 {0}il+vpzf.mkodji 名单
+{0}il+vfknf.mkolue 名録
 {0}il+wlmsf.mkoyie 名訳
 {0}il+wlmklf.mkocio 名詞
 {0}il+la+mkicfz.mkoguuwui 名古屋
@@ -6435,6 +6443,7 @@
 {0}il+kuh.uiuyuo 始于
 {0}il+kcpcn.oieliu 治理
 {0}il+filck.yuemko 域名
+{0}il+fkknf.mkolue 名录
 {0}il+jr+vk+yfyfefz.mkoqmoksijmi 名前空間
 {0}il+jdbkf.mkouge 名胜
 {0}ie 戒
@@ -6722,6 +6731,7 @@
 {0}dn+ukkopw.tuobni 图标
 {0}dn+gt,stsu.fjuxluhxe 仮想化
 {0}dn+hosjul.geonae 格納
+{0}dn+mmlul.geojuo 格局
 {0}dn+ma+wegkjzli.keehuedri 客户端
 {0}dn+zkwss.fjudke 仮定
 {0}dn+wtpju.piofui 皮膚
@@ -7312,6 +7322,7 @@
 {0}kg+ufdnljj.bgejio 蹦极
 {0}kg+hojkk.yrozuu 元組
 {0}kg+cl+xksjwouj.iiuozibke 歯周病
+{0}kg+zzjk.yroico 元朝
 {0}kg+ojfuo.glixto 光学
 {0}kg+oj+dyirkz.yroxnijpo 元宵節
 {0}kg+sixo.glifuo 光伏
@@ -8280,6 +8291,7 @@
 {0}fi+dufowj.tsiigi 通称
 {0}fi+dwwdfwj.tsihho 通航
 {0}fi+dskkfwj.tsixko 通行
+{0}fi+ddpkz.cjolqo 残留
 {0}fi+dfkridl.tdofgi 颱風
 {0}fi+ffwj.tsilea 通了
 {0}fi+jbb.oriyse 专用
@@ -8809,6 +8821,7 @@
 {0}jk+hfuzv.ofihcu 真好
 {0}jk+cl+vwegwcwh.wheyrujke 望遠鏡
 {0}jk+cf,gd+dbkulpifkn.tsoyeuxxeugi 桐野夏生
+{0}jk+ca+ojldgzvw.ofiouudhu 真主党
 {0}jk+zbxzv.ofiuio 真実
 {0}jk+zzzblzk.oioxxo 直轄
 {0}jk+zz,wrjzkzbl.oioxxouie 直轄市
@@ -8816,6 +8829,7 @@
 {0}jk+zvmggnl.dsekui 洞窟
 {0}jk+zizpzzk.oiozde 直載
 {0}jk+zisczk.oiojpo 直截
+{0}jk+wczv.ofiouu 真主
 {0}jk+wclhwc.wheyru 望遠
 {0}jk+wvxzk.oiojni 直交
 {0}jk+wdmzk.oiofhi 直方
@@ -8889,6 +8903,7 @@
 {0}jj.xd,mkhjfwk.guuyjoohu 骨延長
 {0}jj.tmdj.guuqpe 骨切
 {0}jj.rcyogg.jtouui 覚書
+{0}jj.udnnj.hxobju 滑板
 {0}jj.udnlj.guugeo 骨格
 {0}jj.ciwl.goeque 過去
 {0}jj.ve+ouwzbneu.uzeyeelne 授業料
