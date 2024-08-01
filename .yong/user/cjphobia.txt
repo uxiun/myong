@@ -1,3 +1,4 @@
+{0}bb,bgo.qrojii 拳击
 {0}bb,bfjxxfi.oruhre 转换
 {0}bb,xbxfxfi.orugvu 转轨
 {0}bb,xa+fu+dsuixfiiz.oruyieziefuo 转义字符
@@ -91,6 +92,7 @@
 {0}bm+hkztgp.wworce 围绕
 {0}bm+iqtmo.maulue 馬鹿
 {0}bm+dulvog.jrujii 卷积
+{0}bm+dsivfmo.mauuue 馬術
 {0}bzf+r 邦
 {0}bz,tdyzl.hdepae 害怕
 {0}bo 素
@@ -417,6 +419,7 @@
 {0}pz+xbxfv.djigvu 单轨
 {0}pz+xdrkio.djiduo 単独
 {0}pz+ra+sss.mwugeerfo 毎个人
+{0}pz+udnv.djibju 单板
 {0}pz+hotgo.djiiyo 単純
 {0}pz+mkdytv.grexio 慣習
 {0}pz+zzkgjz.ieille 車輌
@@ -471,11 +474,13 @@
 {0}pk+fkfikwh.ukiroe 衰弱
 {0}pk+jtgxele.liuxsi 豊胸
 {0}pf 野
+{0}pa+yt+kcizneut.quigyeqqo 曲棍球
 {0}pa+yrjxu.dsiyke 東映
 {0}pa+ya+uku.dsiriebfu 東日本
 {0}pa+ya+ka+xa+jk+hhouukkh.dsiriebfudaeofezdi 東日本大震災
 {0}pa+nebu.dsiyho 東洋
 {0}pa+rktu.dsibwu 東北
+{0}pa+uytte.quigye 曲棍
 {0}pa+uer.yzoldo 由来
 {0}pa+hkdume.mnoxqe 苗绣
 {0}pa+zjezu.dsinjo 東南
@@ -484,6 +489,7 @@
 {0}pa+wdmu.dsifhi 東方
 {0}pa+lo.rp+vd+ta+su+pclhuwwekrmi,sikiioiiioeero 東京迪斯尼楽園
 {0}pa+lo.zyfruw.dsijkidzi 東京都
+{0}pa+dsfsk.tmojke 田径
 {0}pa+kpmre.quimme 曲面
 {0}pa+krrku.dsiyae 東亜
 {0}pa+kur.yzoyuo 由于
@@ -511,6 +517,7 @@
 {0}ytd+d 易
 {0}yt+pwiwik.yyemuu 韵母
 {0}yt+ntgnt.hyedye 混沌
+{0}yt+xx,kciznutj.gyewhuqqo 棍网球
 {0}yt+xuscnt.hyezao 混雑
 {0}yt+udxrewk.qteqno 鹊桥
 {0}yt+cydnt.hyeugi 混声
@@ -883,6 +890,7 @@
 {0}na+djld.fjuxle 反向
 {0}na+dj+skkidog.fjuuguhve 反省会
 {0}na+kpmgz.oiipwe 支配
+{0}na+kcizn.uvuqqo 水球
 {0}na+koz.uvupko 水平
 {0}na+kf+evjinl.bkiheoqii 氷河期
 {0}na+kjrrd.fjuvro 反而
@@ -1667,6 +1675,7 @@
 {0}rw+ly+zxyfezkki.ohevdeoeu 障碍者
 {0}rw+ebjgfxj.svooea 随着
 {0}rw+ium.woeilo 卧床
+{0}rw+drbfxj.svobiu 随筆
 {0}rw+dsubffdm.fhowwe 防衛
 {0}rw+dsskrfdm.fhoyue 防御
 {0}rw+dklfxj.svohze 随后
@@ -1833,6 +1842,7 @@
 {0}rf,eikmfmt.ybucho 隐藏
 {0}rf,iz+vfxbsxrj.hzebuujme 候補鍵
 {0}rf,dufowv.yieigi 亦称
+{0}rf,dwfxci.hxetku 划艇
 {0}rf,km+te+fucvmikeu.iieyuuyeezia 赤羽葉子
 {0}rf,freefdq.xmejku 陷阱
 {0}rj+bomkfk.zuudhu 阻挡
@@ -2028,6 +2038,7 @@
 {0}ug+xllgj.ruuvdo 乳癌
 {0}ug+edjgj.ruuuzu 乳首
 {0}ug+imwdmj.ruufho 乳房
+{0}ug+kciznf.ksuqqo 孔球
 {0}ug+jdynj.ruuxme 乳腺
 {0}uh.ljgvd.wwuyro 委員
 {0}uh.jg+mkhdlv.wwuyroohu 委員長
@@ -2234,6 +2245,7 @@
 {0}ud+jl+nzkvbnkkl.piilueyju 披露演
 {0}ud+jkgiwkr.xbigri 新冠
 {0}uk 本
+{0}uk+bllus.tiucci 体操
 {0}uk+nciwb.wwofau 違法
 {0}uk+nwsxs.tiuyee 体液
 {0}uk+nfpouko.jbeyuo 禁漁
@@ -2497,6 +2509,7 @@
 {0}ga+stjgvg.iuihoe 出貨
 {0}ga+stjsg.iuihoe 出货
 {0}ga+szrxm.yiuuiu 已使
+{0}ga+skrfb.jiijme 击剑
 {0}ga+sj.ujinwe 山内
 {0}ga+esklg.iuiheo 出荷
 {0}ga+ejrfj.mueqmo 目前
@@ -3748,6 +3761,7 @@
 {0}vb+xmvo.juubje 举办
 {0}vb+mx+bweis.mooyiilai 摩伊拉
 {0}vb+dt+xbib.mootoiiei 摩托车
+{0}vb+dzpco.juuose 举重
 {0}vb+dskkfo.juuxko 挙行
 {0}vp+nebk.xiiyho 西洋
 {0}vp+nidlcy.zgijmu 増減
@@ -4158,6 +4172,7 @@
 {0}wc+ki.pwxurx.oueoletuo 柱状図
 {0}wc+jgn.ouemue 注目
 {0}wc+jjkn.ouecee 注册
+{0}wm+nifnnu.yzoysu 游泳
 {0}wm+xrcjk.xpuzde 写在
 {0}wm+zfujk.xpuzie 写字
 {0}wm+zjkvjk.xpuofi 写真
@@ -4284,6 +4299,7 @@
 {0}wi+znbvg.isejii 銃撃
 {0}wi+wgxjng.lqolio 流离
 {0}wi+wfijng.lqotsi 流通
+{0}wi+lkwvxbz.ukijni 摔跤
 {0}wi+inng.lqobki 流氷
 {0}wi+iltng.lqogju 流感
 {0}wi+dbsng.lqouii 流失
@@ -4495,6 +4511,7 @@
 {0}oz+dfik.pkofjo 平凡
 {0}oz+kpmrk.pkomme 平面
 {0}oz+fvhsy.soixnu 縮小
+{0}ovb 举
 {0}ov.cu+hoimjhits.zsujiobmi 総集編
 {0}ov.zlkjvhit.zsuveo 総額
 {0}ov.sukhit.zsutiu 総体
@@ -4784,6 +4801,7 @@
 {0}oa+fl+wegkk.buekeunie 不可逆
 {0}oa+fl+sxlkk.buekeuoii 不可知
 {0}oa+fl+ijttkk.buekeungo 不可能
+{0}oa+fl+jbkk.buekeuyse 不可用
 {0}oa+ffk.buelea 不了
 {0}oa+jxok.buerjo 不然
 {0}oa+jg+jxokd.buezierjo 不自然
@@ -4878,6 +4896,7 @@
 {0}st+rfjse.hxifwe 花费
 {0}st+uge.hxioao 花札
 {0}st+uv+xkwkeomd.hxiffuoge 花粉症
+{0}st+uebe.hxiyhe 花样
 {0}st+uksje.hxibku 花柄
 {0}st+hzkse.hxijxe 花嫁
 {0}st+cixmcgg.quiuie 趨勢
@@ -4889,7 +4908,9 @@
 {0}st+sp+xl+ekhdenws.hxihduyzeyao 花海佑芽
 {0}st+sp+ex,dufuenwl.hxihduxnejie 花海咲季
 {0}st+stize.hxiqmo 花钱
+{0}st+eb,wm+nifneunu.hxiyheyzoysu 花样游泳
 {0}st+ewzze.hxilmo 花蓮
+{0}st+imjs.ohehue 账户
 {0}st+dbke.hxiugi 花生
 {0}st+driee.hxiljo 花篮
 {0}st+kcpcs.lyoliu 伦理
@@ -5119,6 +5140,7 @@
 {0}se+fubo.fuuzia 撫子
 {0}si 会
 {1}si 伐
+{0}si+pcfifch.yteyeu 越野
 {0}si+xmlch.ytejxi 越加
 {0}si+uvi.lkomue 鈴木
 {0}si+ua+jobmvi.lkomueuge 鈴木勝
@@ -5224,6 +5246,7 @@
 {0}sk+durfll.hailie 哈利
 {0}sk+dcxmdkf.xkodse 行動
 {0}sk+dcxmfxt.faidse 発動
+{0}sk+kpzxufxt.faijne 発酵
 {0}sk+kh+sj+ouwzfxtbkgv.faibnuziilne 発表資料
 {0}sk+kcpcsj.lyoliu 倫理
 {0}sk+ks+xa+irfdkfkxm.xkoogequihxe 行政区划
@@ -5715,6 +5738,7 @@
 {0}lj+ujgwg.llexli 亮相
 {0}lj+ujkwcl.dneoai 調査
 {0}lj+ggwl.gciiui 高出
+{0}lj+gwl.gciuji 高山
 {0}lj+gs+stwlwii.gcilkohxe 高齢化
 {0}lj+gdnzwl.gcifgi 高峰
 {0}lj+hofdnwl.gcijio 高級
@@ -5945,6 +5969,7 @@
 {0}er+ud+rk+wedguvhkrwd.hgodrebuedce 横断歩道
 {0}er+hudkruv.hgodre 横断
 {0}er+hojkuv.hgozuu 横組
+{0}er+zu+wlkklnszkb.hjehjoyuu 漢韓語
 {0}er+zzrpuv.hgoozo 横軸
 {0}er+zzukbns.hjehjo 漢韓
 {0}er+zfuns.hjezie 漢字
@@ -6024,6 +6049,7 @@
 {0}ev+dulkczs.sdeigo 赛程
 {0}ev+dg+vfrdpl.yiexsidie 異兄弟
 {0}ev+dzpckd.yjoose 严重
+{0}ev+dwfxczs.sdetku 赛艇
 {0}ev+kedddp.yiexko 異形
 {0}ev+kkmkd.yjolie 严厉
 {0}ev+kkoy.xmuuie 显示
@@ -6480,6 +6506,7 @@
 {0}ii.mk+hi+ijttbfhui.koeohijiingo 拡張機能
 {0}ii.mk+cj+zbxbfhkgg.koeohixmeuio 拡張現実
 {0}ii.mk+fubfh.koeohizia 拡張子
+{0}ii.kciznic.lwuqqo 垒球
 {0}ii.kcjggb.koexme 拡現
 {0}ii.fmkhb.koeohi 拡張
 {0}id 戊
@@ -6682,6 +6709,7 @@
 {0}db,ihmgdg.biujie 笔记
 {0}db,isscyk.xkizoe 星座
 {0}db,ijtttk.xkengo 性能
+{0}db,dn+ls+hudkrtkulwdd.xkegeoofudre 性格診断
 {0}db,drjgvtk.xkeoie 性質
 {0}db,dm+bkhiotknx.xkejiisue 性激素
 {0}db,dsgcxtk.xkeogi 性徴
@@ -6738,6 +6766,7 @@
 {0}dn+yfkeiul.geodze 格闘
 {0}dn+xebxw.tgoyhu 疼痒
 {0}dn+tk+llixluli.geouieqie 格式器
+{0}dn+rf,dwfxcui.piohxetku 皮划艇
 {0}dn+uul.geomue 格木
 {0}dn+ugts.fjuxlu 仮想
 {0}dn+uhiib.bjijii 扳機
@@ -6769,6 +6798,7 @@
 {0}dn+imzl.keehue 客户
 {0}dn+dufopl.lteigi 略称
 {0}dn+kpmrs.fjumme 仮面
+{0}dn+kciznu.bjuqqo 板球
 {0}dn+kw+nciszs.fjudkefau 仮定法
 {0}dn+kedddpw.tuoxko 图形
 {0}dn+fiwul.geowde 格外
@@ -6852,12 +6882,14 @@
 {0}du+znbdi.ueejii 射撃
 {0}du+wmsxbp.boifhe 播放
 {0}du+weybp.boiybi 播音
+{0}du+wedgf.rzodce 柔道
 {0}du+oj+ud+uw+bznwmidgwkrdz.tzeuiexbikeijie 透视新科技
 {0}du+edufef.lielie 莉莉
 {0}du+iojdgwm.tzeuie 透视
 {0}du+db,jk+zyfreomgwc.qqiwwuwhedzi 萩尾望都
 {0}du+dudzcbp.boiosu 播種
 {0}du+du+hpwiefef.lieliemuu 莉莉姆
+{0}du+dejfdi.ueejme 射箭
 {0}du+kflef.liekeu 莉可
 {0}du+ja+wv+ezjrjwmyjx.tzemkojnidde 透明胶带
 {0}dg 看
@@ -7229,6 +7261,7 @@
 {0}kn.bkjly.taeqki 踏青
 {0}kn.twmgi.bkidcu 冰岛
 {0}kn.ry+jz+dcxmukfhwz.jioxmeyyedse 極限運動
+{0}kn.cjevi.bkihuo 冰壶
 {0}kn.zwxly.taeuio 踏实
 {0}kn.va+ud+kpdsnukfrn.jioxnubwefue 極小被覆
 {0}kn.wegkjuk.jiodri 極端
@@ -7293,6 +7326,7 @@
 {0}kr+bzrssx.bmejpo 便捷
 {0}kr+bweci.isiole 冲撞
 {0}kr+nlks.tneuvu 跳水
+{0}kr+niyhi.isilhe 冲浪
 {0}kr+ur+iwlsxdf.bmeliedme 便利店
 {0}kr+udnlsp.siegeo 価格
 {0}kr+zvixi.isitui 冲突
@@ -7305,6 +7339,7 @@
 {0}kr+szjhsp.sieoio 価値
 {0}kr+sozlks.tnesju 跳伞
 {0}kr+sefiblks.tnewuu 跳舞
+{0}kr+illks.tnetdo 跳台
 {0}kr+durfsx.bmelie 便利
 {0}kr+dm+kfiw.isifhidki 冲方丁
 {0}kr+kcrflks.tnedce 跳到
@@ -7361,10 +7396,12 @@
 {0}kh+uudbio.suecdo 素材
 {0}kh+udnlb.bnugeo 表格
 {0}kh+hodkm.qnumne 巧妙
+{0}kh+cu+yfymyi.ohuuiojmi 長時間
 {0}kh+cj+dhiobkgg.bnuxmexie 表現系
 {0}kh+mdxnm.ohufae 長髪
 {0}kh+zxtm.ohulcu 長老
 {0}kh+zlsxhfs.yrogue 缘故
+{0}kh+vj+yfyme.ohuqiijmi 長期間
 {0}kh+wxb.bnudao 表达
 {0}kh+wlmgb.bnujie 表記
 {0}kh+weyb.bnuybi 表音
@@ -7457,6 +7494,7 @@
 {0}kc+filpi.goomko 国名
 {0}kc+fdsxmpi.goowue 国務
 {0}kc+fjcs.qrojnu 全角
+{0}km+bg,kciznmikd.yuumcoqqo 羽毛球
 {0}km+pmik.yuutmo 羽田
 {0}km+pa+vk+nevgmikz.yuutmoksighu 羽田空港
 {0}km+nxbrws.ouojme 逐渐
@@ -7491,6 +7529,7 @@
 {0}km+sjsjs.tyorze 豚肉
 {0}km+ifxczs.jxitko 家庭
 {0}km+ia+yfkerwv.fwigsikdi 非公開
+{0}km+dbgmik.yuumco 羽毛
 {0}km+dbcuirw.fwitee 非特
 {0}km+dscwsrw.fwituo 非徒
 {0}km+kh+kkorwb.fwibnuuie 非表示
@@ -7507,6 +7546,8 @@
 {0}km+js+iltlmwc.jueliogju 距離感
 {0}km+ja+psrrrwx.fwiyzujpe 非有界
 {0}kz+nfunm.wuirju 汚染
+{0}kz+umpgux.gjulju 橄欖
+{0}kz+mp+kciznuxug.gjuljuqqo 橄欖球
 {0}kz+wmsxhsy.soifhe 缩放
 {0}kz+iojdgwn.qiouie 歧视
 {0}kz+dimjhfx.xuepmi 续篇
@@ -7663,6 +7704,7 @@
 {0}kl+if+hkizsrsi.mkelkexme 命令线
 {0}kl+if+sk+rk+jkkvsrsidkfk.mkelkexkogsijue 命令行工具
 {0}kl+if+dskkfsrsi.mkelkexko 命令行
+{0}kl+if+jm.un+ul+ififsrsifdbdbdkc,kekepuiegoue 命令解释程序
 {0}kl+dbjgd.hzekje 后看
 {0}kl+db,jjtnjtk.tsoxkevde 同性愛
 {0}kl+dn+ihkwksul.heogeooge 合格证
@@ -8592,6 +8634,8 @@
 {0}jg+mitd.ziewwe 自慰
 {0}jg+mkmiku.xliyuu 相羽
 {0}jg+mkdyd.ziexio 自習
+{0}jg+zzkkid.zieoru 自転
+{0}jg+zk+zpzdzki.zieoruiei 自転車
 {0}jg+vmdd.zieffi 自分
 {0}jg+vd+wlskjdxfn.zieuailye 自殺論
 {0}jg+wxuiu.xlidve 相対
@@ -8615,6 +8659,7 @@
 {0}jg+ssydfv.fueuhi 負傷
 {0}jg+ssmd.ziezoe 自作
 {0}jg+sklu.xliheo 相合
+{0}jg+skkiu.xlihve 相会
 {0}jg+sk+xbddkf.ziexkoiei 自行车
 {0}jg+lhtd.ziembo 自民
 {0}jg+epuid.ziezyi 自尊
@@ -8658,6 +8703,7 @@
 {0}jm.nojfdb.jpuxni 解消
 {0}jm.un+llixlfdbdb.jpuuieqie 解释器
 {0}jm.ueejfdb.jpugze 解構
+{0}jm.udggkk.xtuqni 雪橇
 {0}jm.udkrfdb.jpuxii 解析
 {0}jm.ma+djrfrkhi.ohehueoie 帳户制
 {0}jm.wmsxfdb.jpufhe 解放
@@ -8673,8 +8719,10 @@
 {0}jm.dsklfdb.jpudao 解答
 {0}jm.dk+llixlfdbur.jpuxiiqie 解析器
 {0}jm.kjejxkk.xtuxme 雪霰
+{0}jm.kjkdkklz.piilie 霹靂
 {0}jm.jvlgfdb.jputoi 解脱
 {0}jm.jdtikk.xtubce 雪豹
+{0}jm.jk+sefibklzkdk.piiliewuu 霹靂舞
 {0}jz+nkflwz.yyeheo 運河
 {0}jz+cx+ezstwzdm.yyedsexti 運動靴
 {0}jz+zzskfwz.yyeuui 運輸
@@ -8931,6 +8979,7 @@
 {0}jj.endlnj.hxoloe 滑落
 {0}jj.eveubn.uzeyee 授業
 {0}jj.ienwl.goedue 過度
+{0}jj.iknnj.hxobki 滑冰
 {0}jj.ia+yflwlc.goequewfe 過去問
 {0}jj.ia+vfknwlc.goequelue 過去録
 {0}jj.ia+kedddwlc.goequexko 過去形
@@ -8943,6 +8992,7 @@
 {0}jj.kpydkogg.jtoxku 覚醒
 {0}jj.kpdclwl.goekue 過酷
 {0}jj.kk.wguijsi.guuyyodcu 骨伝導
+{0}jj.kjmknj.hxoxtu 滑雪
 {0}jj.jjnbn.uzeuze 授受
 {0}ja+bdzqs.nweiai 内插
 {0}ja+pxs.nweybi 内因
