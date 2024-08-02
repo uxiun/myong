@@ -71,6 +71,7 @@
 {0}bc,mkhdui.teeohu 特長
 {0}bc,zkwsdui.teedke 特定
 {0}bc,wlodui.teedmu 特点
+{0}bc,wlszdui.teexuu 特許
 {0}bc,wldfndui.teeuee 特設
 {0}bc,stdui.teehxe 特化
 {0}bc,sg+ykpcduidcx.teeogille 特徴量
@@ -241,6 +242,7 @@
 {0}bj+oa+tedcdgk.kjebuedsu 看不懂
 {0}bj+oa+csmgdgk.kjebueqiu 看不起
 {0}bj+sl+uedgcg.kjeqiuldo 看起来
+{0}bj+kcrfdg.kjedce 看到
 {0}bj+kludndg.kjepoe 看破
 {0}bj+frcvceg.oealue 着陸
 {0}bj+ffdg.kjelea 看了
@@ -253,6 +255,7 @@
 {0}ba+nci.uzufau 手法
 {0}ba+rrrv.uzuuye 手順
 {0}ba+rmys.nmojmi 年间
+{0}ba+rivs.nmojme 年鉴
 {0}ba+uhii.uzujii 手機
 {0}ba+uzs.nmomoe 年末
 {0}ba+udne.yhopio 羊皮
@@ -271,6 +274,7 @@
 {0}ba+va+yuiof.bjexnuuio 半小时
 {0}ba+wgsiis.nmolko 年齢
 {0}ba+wmsevo.bjeqio 半旗
+{0}ba+wskuj.ysetuo 用途
 {0}ba+wldzl.uzuhxe 手話
 {0}ba+weytj.yseyie 用意
 {0}ba+sits.nmodde 年代
@@ -961,6 +965,7 @@
 {0}xr+xa+ea+weewrwe.qiotzobkejbe 齐头并进
 {0}xr+tdbkjf.ghixke 刚性
 {0}xr+rl+sizllxjb.xiioeogru 希哲館
+{0}xr+ueyxfb.jmemoo 建模
 {0}xr+hi+drfswfet.lqocioxbi 刘慈欣
 {0}xr+wxwr.qiotzo 齐头
 {0}xr+wvxfb.jmejni 建交
@@ -1087,6 +1092,7 @@
 {0}xl+ijtts.oiingo 知能
 {0}xl+dups.oiifji 知番
 {0}xl+fils.oiimko 知名
+{0}xl+jxxs.oiiwhu 知网
 {0}xi 太
 {0}xi+njdgz.hsogri 宏观
 {0}xd,bkfmfn.vzidau 殴打
@@ -1246,6 +1252,7 @@
 {0}xa+wlfr.daebue 大部
 {0}xa+weyzw.wfoohi 文章
 {0}xa+wdcg.daexru 大选
+{0}xa+wdm.daefhi 大方
 {0}xa+wktp.ybiciu 因此
 {0}xa+wkklw.wfoyjo 文言
 {0}xa+ow+sikjvhig.daetsulku 大統領
@@ -1311,6 +1318,7 @@
 {0}xa+jxok.tmirjo 天然
 {0}xa+jvktkk.tmifue 天賦
 {0}xa+jwgx.daencu 大脑
+{0}xa+jobm.daeuge 大勝
 {0}xa+jogx.daencu 大脳
 {0}xa+jddhw.wfomde 文脈
 {0}xa+jk+hhokkh.daeofezdi 大震災
@@ -1340,6 +1348,7 @@
 {0}tt,wlkozb.piipko 批評
 {0}tt,obrfb.piipje 批判
 {0}tt,sty.kyilyo 昆仑
+{0}tt,esscb.piinjo 批難
 {0}tt,ieni.tdedue 態度
 {0}tt,djrfi.tdeoie 態制
 {0}tt,jdfnm.pieguu 屁股
@@ -1358,6 +1367,7 @@
 {0}tu+mxc.diequi 地区
 {0}tu+vdbsc.dieoio 地鉄
 {0}tu+wloc.diedmu 地点
+{0}tu+wedgc.diedce 地道
 {0}tu+wdmc.diefhi 地方
 {0}tu+wdms.taifhi 他方
 {0}tu+wa+vdbsck.diexxeoio 地下鉄
@@ -1438,6 +1448,7 @@
 {0}te+wlmklwv.xuicio 虚詞
 {0}te+seowv.xuiwuo 虚無
 {0}te+eo+iltwvs.xuiwuogju 虚無感
+{0}te+ihssy.coerfe 错认
 {0}te+ihlkxsy.coewue 错误
 {0}ti 勾
 {0}ti+ts+nkvpejeg.puotcojqu 葡萄酒
@@ -1525,6 +1536,7 @@
 {0}ta+kokjvc.oieyre 志願
 {0}ta+kls.hxeuio 化石
 {0}ta+kl+dbtddss.hxeheowue 化合物
+{0}ta+fyts.xbixle 心象
 {0}ta+fmti.ykijio 応急
 {0}ta+jbi.ykiyse 応用
 {0}ta+jum.niocdu 尼采
@@ -1575,6 +1587,7 @@
 {0}ry+zkwsz.zjedke 暫定
 {0}ry+zkwsfh.xmedke 限定
 {0}ry+okgfkd.yhogli 陽光
+{0}ry+scuz.zjejio 暫集
 {0}ry+djrffh.xmeoie 限制
 {0}ry+kufh.xmeyuo 限于
 {0}rn 版
@@ -1587,6 +1600,7 @@
 {0}rn+sdh.uzirue 収入
 {0}rx+krjwfb.ofeyuu 阵雨
 {0}rx+kvpfe.ujuxii 陕西
+{0}rt,rrtpsc.liohre 罹患
 {0}rt,mvpyfty.jpicgo 階層
 {0}rt,zxyr.hreoeu 患者
 {0}rt,ohsxfty.jpiuue 階数
@@ -1749,6 +1763,7 @@
 {0}rk+yh+ia+ua+kuuyfflif.vaillovvamuelie 阿良々木暦
 {0}rk+yh+ia+ua+ja+offlif.vaillovvamueytehou 阿良々木月火
 {0}rk+yh+fxdcfflu.vaigfitko 阿根廷
+{0}rk+ntebw.pdoxpe 排泄
 {0}rk+negjj.yromju 円満
 {0}rk+nkzzn.qbuhje 寝汗
 {0}rk+xa+nvubs.tnidaello 挑大梁
@@ -2519,6 +2534,7 @@
 {0}ga+dbkg.iuiugi 出生
 {0}ga+db,xt+fumgs.ujiwwuyzizia 山尾悠子
 {0}ga+dytij.muedea 目的
+{0}ga+ds+jx+kk.skkiydndwi.bailiovceyyehve 巴黎奥运会
 {0}ga+ddsny.bailio 巴黎
 {0}ga+kcjggg.iuixme 出現
 {0}ga+kvpy.baixii 巴西
@@ -2760,6 +2776,7 @@
 {0}ha+ui+rdddr.nvuifeuji 女衬衫
 {0}ha+ua+srimf.nvuziamfa 女子们
 {0}ha+cyd.nvuugi 女声
+{0}ha+cw+xm+furdhp.nvuolinjozia 女装男子
 {0}ha+cw+wa+ebjgrdhk.nvuolixxeoea 女装下着
 {0}ha+cw+furdh.nvuolizia 女装子
 {0}ha+cl+kw+bc,du+hmbrznwduief.vjijpokauteelienae 安洁卡特莉娜
@@ -3563,6 +3580,7 @@
 {0}zm 考
 {0}zm+ydbkbk.hvexki 彗星
 {0}zm+tdbkedi.rfexke 靭性
+{0}zm+hodhtcrn.bceoiu 報紙
 {0}zm+wedgcrn.bcedce 報道
 {0}zm+dclcrn.bcegce 報告
 {0}zm+dssyncrn.bcefue 報復
@@ -3651,6 +3669,8 @@
 {0}ze+bzfrmx.lmobhi 联邦
 {0}ze+bdupmx.lmoboi 联播
 {0}ze+yjjemx.lmomgo 联盟
+{0}ze+ugtmx.lmoxlu 联想
+{0}ze+gt,dujgmxu.lmoxluxli 联想箱
 {0}ze+zf+lj+jk+mmlmxbrwclu.lmobhidneoaijuo 联邦調査局
 {0}ze+zjkkdk.ivooio 垂直
 {0}ze+wmsxx.bfifhe 奔放
@@ -3817,6 +3837,7 @@
 {0}vx+fi+rr,zlsxwwjzf.jnitsiuiegue 交通事故
 {0}vx+fi+wkwwwj.jnitsikau 交通卡
 {0}vx+fi+jxxwwj.jnitsiwhu 交通网
+{0}vt+tk.veexbi 恶心
 {0}vt+cydw.lmeugi 恋声
 {0}vt+weytk.veeyie 恶意
 {0}vt+weyw.lmeybi 恋音
@@ -4399,6 +4420,7 @@
 {0}on+lhc.jkikzu 経口
 {0}on+lkdnlhc.jkilue 経路
 {0}on+la+ml+dc+eisuhcwzh.jkikzubierfeyce 経口避妊薬
+{0}on+dcxmmri.scidse 騒動
 {0}on+kuukhc.jkilie 経歴
 {0}on+kcpchc.jkiliu 経理
 {0}ox 数
@@ -4874,6 +4896,7 @@
 {0}sx+xxvom.yiilno 医療
 {0}sx+xmuc.qrolie 権力
 {0}sx+xksjx.jiobke 疾病
+{0}sx+rrtx.jiohre 疾患
 {0}sx+znbk.gsijii 攻撃
 {0}sx+ohsxu.mwouue 枚数
 {0}sx+ojfum.yiixto 医学
@@ -5442,6 +5465,7 @@
 {0}lu+foebs.bcuxmi 保鮮
 {0}lg+bxnwv.xrubao 選抜
 {0}lg+bmswv.xruzeo 選択
+{0}lg+bwv.xruuzu 選手
 {0}lg+bdzlt.bcikoe 包括
 {0}lg+pi+cslekxokvn.tjesriyjo 碳酸塩
 {0}lg+rcwdht.bcioli 包装
@@ -5772,6 +5796,7 @@
 {0}lj+evdkrwl.gcisii 高斯
 {0}lj+ekezws.hcohxo 豪華
 {0}lj+izvvz.huomao 胡麻
+{0}lj+is+dm+kh+je+xkwkwlxcnxbiod.gcixsojiisuexteoge 高雄激素血症
 {0}lj+ienwl.gcidue 高度
 {0}lj+ikfswl.gcicie 高次
 {0}lj+dbsbv.syuuii 損失
@@ -5831,6 +5856,7 @@
 {0}la+wmlzp.hvobie 回避
 {0}la+wmdx.yzebmi 右辺
 {0}la+wwrvz.guujie 古迹
+{0}la+ws.kzuyui 口込
 {0}la+wlmkli.tdocio 台詞
 {0}la+wldzl.kzuhxe 口話
 {0}la+wlkkl.kzuyuu 口語
@@ -5913,6 +5939,7 @@
 {0}ey+cuxux.mookke 模块
 {0}ey+zu+wlskjwtl.yiewwelye 意味論
 {0}ey+zu+ebjgwtl.yiewweoea 意味着
+{0}ey+zjhioux.moosou 模索
 {0}ey+wmstub.coeuii 措施
 {0}ey+wlmswt.yieyie 意訳
 {0}ey+wlmsw.ybiyie 音訳
@@ -5989,6 +6016,7 @@
 {0}eg+xbbfiw.nieoru 逆转
 {0}eg+uzwkj.drimoe 端末
 {0}eg+cwegw.niejke 逆境
+{0}eg+vwzzw.nielme 逆鏈
 {0}eg+wlowkj.dridmu 端点
 {0}eg+ouwewkj.drilie 端粒
 {0}eg+szwkj.driwuu 端午
@@ -6132,6 +6160,7 @@
 {0}ee,dkfuuj.gzeoue 構築
 {0}ee,ksxw.jbegsi 进攻
 {0}ee,kjrrw.jbevro 进而
+{0}ee,ka+wrkdw.jbeyiibue 进一步
 {0}ee,jbs.bkeyse 併用
 {0}ei 時
 {0}eid+m 蔵
@@ -6403,6 +6432,7 @@
 {0}iw+tlgf.wdebci 外包
 {0}iw+uef.wdeldo 外来
 {0}iw+ggf.wdeiui 外出
+{0}iw+cmggf.wdekui 外堀
 {0}iw+zxmvf.wdexpo 外协
 {0}iw+zdnlf.wdekee 外客
 {0}iw+vx+wlfrfw.wdejnibue 外交部
@@ -6454,6 +6484,8 @@
 {0}is+id+sxerxlrzu.oiiouixxo 蜘蛛侠
 {0}is+dbtddeu.ycewue 薬物
 {0}is+dm+bkhioxcnx.xsojiisue 雄激素
+{0}is+dm+kh+oa+ta+xkwkxcnxbioki.xsojiisuebueykioge 雄激素不応症
+{0}is+dm+kh+jj.tr+xkwkxcnxbiowldf,soiiueoegege 雄激素過剩症
 {0}is+dshinh.yiuhze 以後
 {0}is+dklh.yiuhze 以后
 {0}is+djkleu.ycetsu 薬筒
@@ -6645,6 +6677,7 @@
 {0}ia+mklv.gsisii 公司
 {0}ia+zvkx.tdeksi 太空
 {0}ia+zfux.tdezie 太字
+{0}ia+vt+txk.tdeveexbi 太恶心
 {0}ia+va+jvudve.gsigsecdo 公共財
 {0}ia+wuic.quegoe 去过
 {0}ia+wvxv.gsijni 公交
@@ -6692,6 +6725,8 @@
 {0}db,ceslvs.oiotau 鉄塔
 {0}db,mr+hs+jkltklfi.xkebporfetso 性別认同
 {0}db,mr+lm+kl+rw+klykitklfwitjfez,kepofesohede 性別認同障碍
+{0}db,md+ta+sx+rrttkvsx.xkeffihxejiohre 性分化疾患
+{0}db,md+sttkv.xkeffihxe 性分化
 {0}db,zvkyk.xkiksi 星空
 {0}db,vlfstk.xkeyue 性欲
 {0}db,wvxtk.xkejni 性交
@@ -7466,6 +7501,7 @@
 {0}kc+wepi.goolie 国立
 {0}kc+wddbkpi.gooiju 国産
 {0}kc+ohsxsf.dceuue 倒数
+{0}kc+sbr.olenmo 壮年
 {0}kc+sbkvpi.gooode 国債
 {0}kc+suks.qrotiu 全体
 {0}kc+skkipi.goohve 国会
@@ -8195,6 +8231,7 @@
 {0}fr+filkf.lpemko 列名
 {0}fu+pwiz.ziemuu 字母
 {0}fu+yx+epydej.biemuequi 閉幕曲
+{0}fu+yg+suknf.rjuseetiu 染色体
 {0}fu+xkflh.hcuqio 好奇
 {0}fu+th.hcuxbi 好心
 {0}fu+tlgyd.biebci 閉包
@@ -8223,6 +8260,7 @@
 {0}fu+dsuiz.ziefuo 字符
 {0}fu+kpmrz.ziemme 字面
 {0}fu+kckkgh.hcuwjo 好玩
+{0}fu+fygn.rjusee 染色
 {0}fu+flriu.liuqlo 李强
 {0}fu+fa+kkfshd.hcujiucie 好几次
 {0}fu+jbh.hcuyse 好用
@@ -8340,6 +8378,7 @@
 {0}fi+wuiwj.tsigoe 通过
 {0}fi+wedgwj.tsidce 通道
 {0}fi+oubkjb.orijki 专精
+{0}fi+omkkz.cjodhi 残当
 {0}fi+ojlrjwj.tsiiho 通常
 {0}fi+sxlwj.tsioii 通知
 {0}fi+swklwj.tsixbe 通信
@@ -8349,6 +8388,7 @@
 {0}fi+ezlxj.tsekuu 痛苦
 {0}fi+evb.oriyee 专业
 {0}fi+ihfzwj.tsixye 通讯
+{0}fi+durfb.orilie 专利
 {0}fi+dufowj.tsiigi 通称
 {0}fi+dwwdfwj.tsihho 通航
 {0}fi+dskkfwj.tsixko 通行
@@ -8632,6 +8672,7 @@
 {0}jg+mgsxdi.cregdu 篡改
 {0}jg+mgd.ziejiu 自己
 {0}jg+mitd.ziewwe 自慰
+{0}jg+md+jbdv.zieffiyse 自分用
 {0}jg+mkmiku.xliyuu 相羽
 {0}jg+mkdyd.ziexio 自習
 {0}jg+zzkkid.zieoru 自転
@@ -8827,6 +8868,7 @@
 {0}je+pccv.huoliu 壶里
 {0}je+nwsxd.xteyee 血液
 {0}je+nodzz.njouai 南沙
+{0}je+xkwkd.xteoge 血症
 {0}je+rd.xteosi 血中
 {0}je+rktzz.njobwu 南北
 {0}je+ra+ep+iendnh.xteosinsodue 血中濃度
@@ -8944,6 +8986,7 @@
 {0}jf+wlfrou.xtobue 学部
 {0}jf+weybmu.jkeybi 静音
 {0}jf+wknu.fuouhe 浮上
+{0}jf+wkou.xtouhe 学上
 {0}jf+oxkjvou.xtolwe 学類
 {0}jf+sw,udnedjl.jmutpibju 剪贴板
 {0}jf+eg+jghobmuj.jkeghixme 静岡県
@@ -9028,6 +9071,7 @@
 {0}ja+mk+yyc.yteycerie 月曜日
 {0}ja+zvsls.nwerso 内容
 {0}ja+zvkx.yzuksi 有空
+{0}ja+vwzzs.nwelme 内鏈
 {0}ja+wxxmx.yzuxne 有効
 {0}ja+wtkkx.yzuxpi 有些
 {0}ja+wlmss.nweyie 内訳
