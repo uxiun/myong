@@ -93,6 +93,7 @@
 {0}bmk+c 握
 {0}bm+hkztgp.wworce 围绕
 {0}bm+iqtmo.maulue 馬鹿
+{0}bm+ia+ezzhmox.mautdevji 馬太鞍
 {0}bm+dulvog.jrujii 卷积
 {0}bm+dsivfmo.mauuue 馬術
 {0}bzf+r 邦
@@ -107,6 +108,7 @@
 {0}bs,ukkony.qmobni 潜标
 {0}bs,cid.uiique 失去
 {0}bs,wvtd.uiilme 失恋
+{0}bs,wdkrny.qmojbe 潜近
 {0}bs,wkkld.uiiyjo 失言
 {0}bs,wjdcd.uiiwhe 失望
 {0}bs,sdxkf.uuirue 输入
@@ -220,6 +222,7 @@
 {0}bf,wtkkmr.naexpi 那些
 {0}bf,wvfdsi.irodie 传递
 {0}bf,sx+ecxxskm.qkiyiimwu 轻医美
+{0}bf,srmr.naegee 那个
 {0}bf,sdbxs.rrujme 软件
 {0}bf,ihnbsi.iroyie 传译
 {0}bf,dbgxs.rrumco 软毛
@@ -352,6 +355,7 @@
 {0}pr+fy+xa+rrkjsjss.vzuxledaeuii 偶像大师
 {0}pr+fy+xa+dlkrjsjss.vzuxledaeuii 偶像大師
 {0}pr+jxosj.vzurjo 偶然
+{0}pu 困
 {0}pu+uecnei.zyiyhe 尊様
 {0}pu+hr.lounvu 裸女
 {0}pu+swcwh.gououe 裹住
@@ -566,6 +570,7 @@
 {0}yg+judddf.seecdu 色彩
 {0}yh+bmzlu.gfijue 根据
 {0}yh+nscn.jminjo 艰难
+{0}yh+nkdou.gfiyro 根源
 {0}yh+uku.gfibfu 根本
 {0}yh+hfui.llohcu 良好
 {0}yh+cykdw.tveihu 退場
@@ -684,6 +689,7 @@
 {0}yj.dulne.wfiheo 温和
 {0}yj.kktkx.yjevee 厭悪
 {0}ya+pr+nwsxdni.bdooooyee 白濁液
+{0}ya+ycui.rieuio 日時
 {0}ya+ymkc.rieyce 日曜
 {0}ya+ywlok.bdujku 百景
 {0}ya+nprid.bdoooo 白濁
@@ -737,6 +743,7 @@
 {0}ya+jm.ygdkk.bdoxtubai 白雪巴
 {0}ya+je+kcizndd.bdoxteqqo 白血球
 {0}nyt+t 混
+{0}nn 汉
 {0}nn.fulu.shuzia 嗓子
 {0}nxi 汰
 {0}nx+xmhm.nuulie 努力
@@ -778,7 +785,6 @@
 {0}nw+kjmkd.dsixtu 冬雪
 {0}nw+jglhtd.dsimmo 冬眠
 {0}nw+jk+kgpdkkv.dsilkohxe 冬霊画
-{0}nsc 淮
 {0}nsk+f 汽
 {0}ns+bjknix.jqeyro 救援
 {0}ns+ggix.jqeiui 救出
@@ -986,6 +992,7 @@
 {0}xr+weyxj.xiiybi 希音
 {0}xr+wefb.jmelie 建立
 {0}xr+wjdcxj.xiiwhe 希望
+{0}xr+ejrffb.jmeqmo 建前
 {0}xr+ihixfb.jmeyie 建议
 {0}xr+ihdfnfb.jmeuee 建设
 {0}xr+idmfb.jmeigo 建成
@@ -995,7 +1002,9 @@
 {0}xr+jeyxj.xiilae 希腊
 {0}xu 东
 {0}xu+yt+fiwwifs.dvexlewde 対象外
+{0}xu+ylowi.dveoce 対照
 {0}xu+nuxwi.dvejto 対決
+{0}xu+ttwi.dvebiu 対比
 {0}xu+ta+fe+sdhowiiyx.dveykigrixie 対応関係
 {0}xu+gcuiwi.dveoie 対峙
 {0}xu+cd+wlkklwiebi.dveyieyuu 対義語
@@ -1053,6 +1062,7 @@
 {0}xm+zwxx.hhiuio 夯实
 {0}xm+zkwszm.xpodke 協定
 {0}xm+za+diiis.wweufomea 为什么
+{0}xm+vd+hpwn.njobmenvu 男変女
 {0}xm+wvjlzm.xpouhi 協商
 {0}xm+wvjlzv.xpouhi 协商
 {0}xm+wlecizm.xpoyie 協議
@@ -1094,6 +1104,7 @@
 {0}xo+dklj.rjohze 然后
 {0}xo+ko+vfknpk.moeuielue 黙示録
 {0}xo+kjrrj.rjovro 然而
+{0}xs 输
 {0}xss 夾
 {0}xs+hklhx.jiodue 嫉妬
 {0}xs+wiszwx.xnelve 效率
@@ -1506,6 +1517,7 @@
 {0}tk+mzzptsv.qkitki 傾聴
 {0}tk+swcsf.dkioue 钉住
 {0}tk+ldkrss.qkitki 倾听
+{0}tk+iorpri.uieufo 式神
 {0}tk+djlsv.qkixle 傾向
 {0}tk+kck.jyiyii 均一
 {0}tf 忆
@@ -2072,6 +2084,7 @@
 {0}ur+jbdf.lieyse 利用
 {0}uuj+gd 鬱
 {0}uu.nvsln.lboyue 淋浴
+{0}uu.xa+yt+dn+il+wrklkkrdisf.lieuiudeafjumkoqmu 歴史的仮名遣
 {0}uu.xa+tdbkkkr.lieuiuxke 歴史性
 {0}uu.xa+ojfukkr.lieuiuxto 歴史学
 {0}uu.rxkk.lieuiu 歴史
@@ -2156,6 +2169,7 @@
 {0}ul+ufdndv.jiijio 积极
 {0}ul+ce+uudkcui.igouuelbo 程樹林
 {0}ul+wlmsd.heoyie 和訳
+{0}ul+wlkkld.heoyuu 和語
 {0}ul+weyd.heoybi 和音
 {0}ul+siyhd.heouio 和食
 {0}ul+ienddc.igodue 程度
@@ -2361,6 +2375,7 @@
 {0}uj+ed,pwxdgkdd.xlixkotuo 箱形図
 {0}uj+ejung.xlicde 湘菜
 {0}uj+idwkowgg.qbiqii 親戚
+{0}uj+dk+iltwggwr.qbijbegju 親近感
 {0}uj+djxmok.cuijbi 粗筋
 {0}uj+keddddg.xlixko 箱形
 {0}uj+fuwgg.qbizia 親子
@@ -2750,6 +2765,7 @@
 {0}hi+ebjgitk.uieoea 试着
 {0}hi+ecelet.ciouje 慈善
 {0}hi+ioebet.cioxlo 慈祥
+{0}hi+ie+fl+wlcjguiuk.jiixpekeuduo 機械可読
 {0}hi+ie+jf+mkdyuiuou.jiixpextoxio 機械学習
 {0}hi+ijttui.jiingo 機能
 {0}hi+dytiss.uiedea 似的
@@ -2994,6 +3010,8 @@
 {0}co+nmsp.hwizeo 黒沢
 {0}co+njklp.hwidse 黒洞
 {0}co+mdxnp.hwifae 黒髪
+{0}co+mk+la+rjmkhpyck.hwiyceuioohe 黒曜石帳
+{0}co+mk+klpyc.hwiyceuio 黒曜石
 {0}co+zdnlp.hwikee 黒客
 {0}co+zfup.hwizie 黒字
 {0}co+vd+ncipigi.hwimoofau 黑魔法
@@ -3088,6 +3106,7 @@
 {0}cjk+s 塚
 {0}cj+bk+wddbkkd.zdeugiiju 再生産
 {0}cj+yt+ojfukggfs.xmexlexto 現象学
+{0}cj+yk+ggkbs.zdetioiui 再提出
 {0}cj+yfkek.zdekdi 再開
 {0}cj+nzkvk.zdeyju 再演
 {0}cj+njvfsgg.gricee 観測
@@ -3544,6 +3563,7 @@
 {0}zp+rr,ojfujzzf.jyiuiexto 軍事学
 {0}zp+rsyndc.osefue 重複
 {0}zp+utidc.osegze 重构
+{0}zp+ugtwz.lmoxlu 連想
 {0}zp+hoclwz.lmojpo 連結
 {0}zp+hocjgwz.lmoxue 連続
 {0}zp+hodnlwz.lmoloe 連絡
@@ -3605,6 +3625,7 @@
 {0}zx+ssmey.ouezoe 著作
 {0}zx+siftcfi.oionme 執念
 {0}zx+sfifxy.ueiiiu 奢侈
+{0}zx+ebjgcfi.oiooea 執着
 {0}zx+drbcfi.oiobiu 執筆
 {0}zx+dskkfcfi.oioxko 執行
 {0}zx+fi+lllxysf.ueiiiupbu 奢侈品
@@ -3978,6 +3999,7 @@
 {0}vd+tdbkwn.bmexke 変性
 {0}vd+ta+dhiowns.bmehxexie 変化系
 {0}vd+rp+lm+vfknwnkxwg.bmeggejielue 変更記録
+{0}vd+rcwdhwn.bmeoli 変装
 {0}vd+higi.moonvu 魔女
 {0}vd+cykekr.siitju 斯坦
 {0}vd+ci+bk+dbtddigind.moofauugiwue 魔法生物
@@ -4640,6 +4662,7 @@
 {0}os+suihj.naefue 納付
 {0}os+dsykihj.naedeo 納得
 {0}os+dlkrjhki.hveuii 絵師
+{0}os+kpmrhki.hvemme 絵面
 {0}ol.yidg.ouerie 祝日
 {0}ol.nuxk.fzujto 否決
 {0}ol.zkwsk.fzudke 否定
@@ -5090,6 +5113,7 @@
 {0}sc+zkwsb.tvidke 推定
 {0}sc+wxb.tviwfo 推文
 {0}sc+wrkdw.jbebue 進歩
+{0}sc+wuin.njogoe 难过
 {0}sc+whtn.njowhe 难忘
 {0}sc+wmsb.tviiio 推迟
 {0}sc+wmebb.tviiio 推遅
@@ -5208,6 +5232,7 @@
 {0}ss,cw+lt+tbkjdynskli.fueizogjuqko 復讐感情
 {0}ss,mkhic.zoeohu 座長
 {0}ss,wsrfdyn.fuekee 復刻
+{0}ss,wloec.njodmu 難点
 {0}ss,ojfuic.zoexto 座学
 {0}ss,srkj.llugee 两个
 {0}ss,scwkldyn.fueizo 復讐
@@ -5230,6 +5255,7 @@
 {0}sl+klfsv.guugei 谷歌
 {0}sl+fscg.qiufwi 起飞
 {0}sev+s 僕
+{0}se+bt,wlkklboddd.fuuwueyuu 撫物語
 {0}se+mdrjdws.csouuu 従属
 {0}se+ve+ljgvdwseu.csoyeeyro 従業員
 {0}se+eveudws.csoyee 従業
@@ -5353,6 +5379,7 @@
 {0}sk+ks+xa+irfdkfkxm.xkoogequihxe 行政区划
 {0}sk+ks+mxdkfkx.xkoogequi 行政区
 {0}sk+kedddjk.lmuxko 脸形
+{0}sk+kekjvdkf.xkotzo 行頭
 {0}sk+kixmdkf.xkodse 行动
 {0}sk+kksxdkf.xkooge 行政
 {0}sk+kfrfdkf.xkolpe 行列
@@ -5567,6 +5594,7 @@
 {0}lc+mznwjg.duoquu 読取
 {0}lc+wswjg.duoyui 読込
 {0}lc+wlowjg.duodmu 読点
+{0}lc+dbtddwjg.duowue 読物
 {0}lc+ffwjg.duolea 読了
 {0}lm 号
 {0}lm+bkhkbo.maubnu 碼表
@@ -5597,6 +5625,7 @@
 {0}lz+ohsxw.jieuue 計数
 {0}lz+djgew.jiesre 計算
 {0}lz+kgpw.jiehxe 計画
+{0}lz+kktwxy.ouivee 諸悪
 {0}lz+jg+ykpcwde.jiesrelle 計算量
 {0}lz+jg+nciwde.jiesrefau 計算法
 {0}lz+jg+uhiiwde.jiesrejii 計算機
@@ -5770,6 +5799,7 @@
 {0}lk+tlwkl.yuujue 語句
 {0}lk+rrrvwkl.yuuuye 語順
 {0}lk+rcymc.ugeuui 聖書
+{0}lk+uyhwkl.yuugfi 語根
 {0}lk+uw+izpzwkloz.yuulnekue 語料庫
 {0}lk+hkjpuwkl.yuuhve 語彙
 {0}lk+mdbgwkl.yuuwwu 語尾
@@ -6130,8 +6160,8 @@
 {0}ez+ezlw.xbikuu 辛苦
 {0}ez+iozlc.xkehue 幸祜
 {0}ez+ioklpc.xkefuo 幸福
-{0}ev 业
-{1}ev 共
+{0}ev 共
+{1}ev 业
 {0}evf+s 欺
 {0}evj 期
 {0}ev+nn.hsouvu 洪水
@@ -6224,7 +6254,6 @@
 {0}el+zevswdg.jkesde 竞赛
 {0}el+wdcgwdg.jkexru 竞选
 {0}ee 并
-{1}ee 井
 {0}ee,bmznm.pkouee 屏摄
 {0}ee,bkfs.bkedau 併打
 {0}ee,xrfus.bkecyo 併存
@@ -6596,8 +6625,6 @@
 {0}is+jzpzh.yiujyi 以軍
 {0}il 台
 {0}ilt 感
-{0}ilt+ 怠
-{1}ilt+ 感
 {0}il+nn.oieuvu 治水
 {0}il+xxvon.oielno 治療
 {0}il+hodnwh.uiuosi 始終
@@ -6932,6 +6959,7 @@
 {0}dn+itkul.geouie 格式
 {0}dn+iumpw.tuouui 图书
 {0}dn+imzl.keehue 客户
+{0}dn+il+wrklsf.fjumkoqmu 仮名遣
 {0}dn+drjgvu.piooie 皮質
 {0}dn+dufopl.lteigi 略称
 {0}dn+kpmrs.fjumme 仮面
@@ -7300,6 +7328,7 @@
 {0}df+ds+urksxfoxfx.miohzotco 猕猴桃
 {0}df+dk+kcrfnnlr.mwotkidce 没听到
 {0}df+kh+tdbkjm.rsuohuxke 冗長性
+{0}df+kv+csmznnno.mwoxkique 没兴趣
 {0}df+ksjgvbn.tzozii 投資
 {0}df+fygj.jiisee 肌色
 {0}df+fl+yskjvnny.mwowfetio 没問題
@@ -7556,6 +7585,7 @@
 {0}kh+siyhbio.sueuio 素食
 {0}kh+etxtm.ohucsi 長葱
 {0}kh+evjm.ohuqii 長期
+{0}kh+esiyhbio.sueyhu 素養
 {0}kh+iy+zxybiosh.sueuiooeu 素食者
 {0}kh+db,ywlommg.ohuwwujku 長尾景
 {0}kh+dr+tdbkbiomj.sueuuuxke 素属性
@@ -7849,6 +7879,7 @@
 {0}kl+ixj.tsoyie 同义
 {0}kl+iltj.tsogju 同感
 {0}kl+ild.hzetdo 后台
+{0}kl+il+ncisrf.mkemkofau 命名法
 {0}kl+il+vk+yfysrfz.mkemkoksijmi 命名空間
 {0}kl+il+sj+jvrfsrfbgg.mkemkogvizeo 命名規則
 {0}kl+idms.heoigo 合成
@@ -7930,6 +7961,7 @@
 {0}kk.xbskfwi.yyeuui 运输
 {0}kk.xfk.sjijqu 三九
 {0}kk.xjjv.jueyzu 具有
+{0}kk.xa+lf+iznkvs.sjidaeyueqqo 三大欲求
 {0}kk.tu+dytievs.qiotaidea 其他的
 {0}kk.rh+estxopoc.ndeloohxi 奈羅花
 {0}kk.rev.qioosi 其中
@@ -8072,6 +8104,7 @@
 {0}kf+ohsxks.cieuue 次数
 {0}kf+okgo.dgigli 灯光
 {0}kf+ojlrjhsk.jkiiho 经常
+{0}kf+sr+bt,wlkklxlfkiddd.qiodjewueyuu 奇蛋物語
 {0}kf+skrxdr.yzobme 郵便
 {0}kf+skcfb.daudce 打倒
 {0}kf+sfvmds.qieffi 气氛
@@ -8204,6 +8237,7 @@
 {0}ka+wmdw.uhebmi 上辺
 {0}ka+wlo.yiidmu 一点
 {0}ka+wlfr.yiibue 一部
+{0}ka+weyu.bfuybi 本音
 {0}ka+we+hf+bfjxwskk.uhewwehuehre 上位互換
 {0}ka+wizvw.uheuue 上述
 {0}ka+wdhw.uheyii 上衣
@@ -8282,6 +8316,7 @@
 {0}fn+koi.ysubue 永不
 {0}fn+fd+iocddyc.fgehlouee 凤凰社
 {0}fx+qd+jr+ggbcdkr.tkuufivroiui 挺身而出
+{0}fx+pclhic.tkoyro 庭園
 {0}fx+yt+ikfsfs.qiexletki 気象庁
 {0}fx+nyjes.qiewfi 気温
 {0}fx+ntlgs.qiepce 気泡
@@ -8420,6 +8455,7 @@
 {0}fs+xk+isulbx.ivizzelee 吹奏楽
 {0}fs+rmyi.oiijmi 之间
 {0}fs+ri.oiiosi 之中
+{0}fs+uyhi.oiigfi 之根
 {0}fs+hokue.igohso 橙紅
 {0}fs+md+hisidkr.oiisouyiu 之所以
 {0}fs+wrkit.fweoiu 廃止
@@ -8457,6 +8493,7 @@
 {0}fl+vd+mkhkwn.keubmeohu 可変長
 {0}fl+wvdnk.keubme 可変
 {0}fl+wlgvk.keuxru 可選
+{0}fl+wlcjgk.keuduo 可読
 {0}fl+oj+stkigg.keuuiehxe 可視化
 {0}fl+sk+fjmdbkdkf.keuxkojpu 可行解
 {0}fl+iznk.keuqqo 可求
@@ -8853,6 +8890,7 @@
 {0}jh.frzio.souybu 索引
 {0}jc+yg+ld+wlzffwfn.jnuseeueejie 角色設計
 {0}jc+yg+ld+lz+dlkrjffwfnw.jnuseeueejieuii 角色設計師
+{0}jc+yg+ld+kedddffwfn.jnuseeueexko 角色設形
 {0}jc+rrrf.jnuiri 角川
 {0}jc+uzwl.ozimoe 週末
 {0}jc+czmrnwl.ozibce 週報
