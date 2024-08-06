@@ -451,6 +451,7 @@
 {0}pz+ikfss.mwucie 毎次
 {0}pz+dnudl.geetno 箇条
 {0}pz+dulkcz.ieiigo 車程
+{0}pz+dmdkrdl.geesou 箇所
 {0}pz+dskkfs.mwuxko 毎行
 {0}pz+ko.djiyii 単一
 {0}pz+kkgo.djiyro 単元
@@ -712,6 +713,7 @@
 {0}ya+wlmg.riejie 日記
 {0}ya+wlmkl.riecio 日詞
 {0}ya+wlkkl.rieyuu 日語
+{0}ya+okg.riegli 日光
 {0}ya+ojlrj.rieiho 日常
 {0}ya+sui.riefue 日付
 {0}ya+sssz.riesju 日傘
@@ -729,6 +731,7 @@
 {0}ya+kxm.rielie 日历
 {0}ya+kuuyr.jqelie 旧暦
 {0}ya+kuuy.rielie 日暦
+{0}ya+kg+nvslo.riegliyue 日光浴
 {0}ya+kcwxcd.bdobji 白斑
 {0}ya+kcid.bdoyue 白玉
 {0}ya+kkg.rieyro 日元
@@ -1555,6 +1558,7 @@
 {0}ta+ok+rcyckjv.oieyreuui 志願書
 {0}ta+ojfus.hxexto 化学
 {0}ta+srimz.taimfa 它们
+{0}ta+sm+uetcg.biuqiuldo 比起来
 {0}ta+sly.xbioie 心智
 {0}ta+skls.hxeheo 化合
 {0}ta+skfft.biulie 比例
@@ -3376,6 +3380,7 @@
 {0}ml+lj+cx+cz+sxxgves.jxiheemwusyurfo 加賀美隼人
 {0}ml+lj+ecxxxgv.jxiheemwu 加賀美
 {0}ml+ejonx.jxitgo 加藤
+{0}ml+ix+llixlikm.qiudseqie 启动器
 {0}ml+irirx.jxiozi 加州
 {0}ml+ihxni.qiufai 启发
 {0}ml+dgtx.jxixii 加息
@@ -3818,6 +3823,7 @@
 {0}zj+ueerj.ddeldo 带来
 {0}zj+cilksh.oioyue 値域
 {0}zj+mm.xa+kwzrzk.icowfotmixxe 朝闻天下
+{0}zj+wm+ixmicvjk.tmoxpuwwe 填写为
 {0}zj+wfijpgv.gretsi 貫通
 {0}zj+sy+ka+dbjgskdki.oiodeoyiikje 值得一看
 {0}zj+stjserj.ddehoe 带货
@@ -3830,6 +3836,7 @@
 {0}zj+kixmerj.ddedse 带动
 {0}zj+ki.pwxerjrx.ddeoletuo 帯状図
 {0}zj+foebz.icoxmi 朝鮮
+{0}zj+jwmkcv.tmoxpu 填写
 {0}za+nurvy.zculde 早瀬
 {0}za+nwrdk.gjeuee 干渉
 {0}za+ur+cwsynv.zculdezzu 早瀬走
@@ -4229,6 +4236,7 @@
 {0}wr+zhkk.ogevji 正安
 {0}wr+wlokk.ogedmu 正点
 {0}wr+wlskjkk.ogelye 正論
+{0}wr+ojlrjkk.ogeiho 正常
 {0}wr+sukkk.ogetiu 正体
 {0}wr+sj+md+xrjkkbggv.ogegviffibue 正規分布
 {0}wr+sj+stkkbgg.ogegvihxe 正規化
@@ -4377,6 +4385,7 @@
 {0}we+sfysvg.jkexle 鏡像
 {0}we+sjcg.jkenwe 境内
 {0}we+lbh.jpikzu 接口
+{0}we+la+lkhmbh.jpikzuhce 接口号
 {0}we+ek+dlwezbhkjv.jpitzocio 接頭辞
 {0}we+ea+js+eyxjbkrc.laikdiwwomue 拉开帷幕
 {0}we+db,dlwezbhmg.jpiwwucio 接尾辞
@@ -4466,6 +4475,7 @@
 {0}wf+la+udfiuj.tsikzufgi 樋口楓
 {0}wj 論
 {0}wjj.l 過
+{0}wj+plbx.ieehvo 撤回
 {0}wj+wyhbx.ieetve 撤退
 {0}wj+ecvnbx.ieelko 撤菱
 {0}wj+jjnsm.bheuze 傍受
@@ -4691,6 +4701,7 @@
 {0}oi+duldchmj.bmiigo 編程
 {0}oi+dskkfwxg.jqexko 就行
 {0}oi+kphwxg.jqeyce 就要
+{0}oi+kw+ihvlgwxgys.jqeuieuoi 就是说
 {0}oi+fpofxg.yzoyuo 魷魚
 {0}oi+ja+dywxgy.jqemkobdo 就明白
 {0}od+bnkpro.icumme 炒麺
@@ -5072,6 +5083,7 @@
 {0}su+fhfse.iaoybu 茶饮
 {0}sg+xk+mlrfdgxsle.wwidrujue 微短剧
 {0}sg+hopdgx.wwixie 微細
+{0}sg+hoddgx.wwimne 微妙
 {0}sg+md+ub+vmddgxvdkv.wwiffijiiffi 微分積分
 {0}sg+vmddgx.wwiffi 微分
 {0}sg+scudcx.ogijio 徴集
@@ -7169,6 +7181,7 @@
 {0}dz+wldzlbr.iaihxe 挿話
 {0}dz+oupovn.drelme 鍛煉
 {0}dz+szjkbq.iaioio 插值
+{0}dz+sdbbq.iaijme 插件
 {0}dz+sdbbr.iaijme 挿件
 {0}dz+sdbr.iairue 挿入
 {0}dz+skrpuu.ouisie 株価
@@ -7731,6 +7744,7 @@
 {0}kz+jwmkhsy.soixpu 缩写
 {0}kz+jeimj.gjizhe 肝臓
 {0}kv+bszd.gxufui 寡夫
+{0}kv+rtjyp.udebwe 晒背
 {0}kv+hmkjzd.gxufue 寡婦
 {0}kv+csmzno.xkique 兴趣
 {0}kv+ojfus.bkixto 兵学
@@ -8081,6 +8095,7 @@
 {0}kf+yskjvsf.lietio 例題
 {0}kf+nwxrhsk.jkijie 经济
 {0}kf+nwignl.heolqo 河流
+{0}kf+nojb.dauxni 打消
 {0}kf+njdgxl.qiogri 奇观
 {0}kf+tncxl.qiogke 奇怪
 {0}kf+rmts.qiemfe 气闷
@@ -8790,6 +8805,7 @@
 {0}jg+bu.xliuzu 相手
 {0}jg+pu+tdei.ziezyixbi 自尊心
 {0}jg+pkcid.ziegoo 自国
+{0}jg+pa+iendr.zieyzodue 自由度
 {0}jg+yfexu.xligri 相関
 {0}jg+yjd.ziemko 自明
 {0}jg+ntlgy.mcepce 冒泡
@@ -9011,6 +9027,7 @@
 {0}jl+usxlob.ohuoii 掌椥
 {0}jl+hfud.xlehcu 向好
 {0}jl+wvjlodl.ykouhi 営商
+{0}jl+wkd.xleuhe 向上
 {0}jl+ojlcoc.thotho 堂堂
 {0}jl+swcorj.ihooue 常住
 {0}jl+eveuodl.ykoyee 営業
