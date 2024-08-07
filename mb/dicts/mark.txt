@@ -61,9 +61,9 @@
 .e £®$SPACE
 
 .x $BACK
-.n $_$_$SPACE
+.m $_>$_$SPACE
 .v $LAST$SPACE
-.m ¡¡$SPACE
+.n ¡¡$SPACE
 
 
 .l $RIGHT$SPACE
@@ -88,12 +88,13 @@
 .fw ##$|##$SPACE
 .fk [_$|_]$SPACE
 
-.du '$|'$SPACE
-.di "$|"$SPACE
+.du ¡®$|¡¯$SPACE
+.di ¡°$|¡±$SPACE
 .do `$|`$SPACE
 .dh ¡²$|¡³$SPACE
-.dj ¡®$|¡¯$SPACE
-.dk ¡°$|¡±$SPACE
+.dj '$|'$SPACE
+.dk "$|"$SPACE
+.dl [["$|"$SPACE
 .da ¡´$|¡µ$SPACE
 .ds ¡¶$|¡·$SPACE
 .dd ¡º$|¡»$SPACE

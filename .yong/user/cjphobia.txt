@@ -83,6 +83,7 @@
 {0}bc,drjgvdui.teeoie 特質
 {0}bc,dupdui.teefji 特番
 {0}bc,dsgcxdui.teeogi 特徴
+{0}bc,dskwkdui.teeogi 特征
 {0}bc,dd,ljsduinh.teepdeyro 特派员
 {0}bc,ksxdui.teegsi 特攻
 {0}bc,kfdzudui.teeuui 特殊
@@ -106,6 +107,7 @@
 {0}bs,xrcny.qmozde 潜在
 {0}bs,xmny.qmolie 潜力
 {0}bs,ukkony.qmobni 潜标
+{0}bs,ggxkf.uuiiui 输出
 {0}bs,cid.uiique 失去
 {0}bs,wvtd.uiilme 失恋
 {0}bs,wdkrny.qmojbe 潜近
@@ -1253,6 +1255,7 @@
 {0}xa+uyig.daegde 大概
 {0}xa+ux+vwzzmc.quikkelme 区块鏈
 {0}xa+uttyw.wfokdu 文楷
+{0}xa+uu.eb,fuuwkj.daesfijkezia 大森靖子
 {0}xa+uw+odjgwdz.wfokeiugu 文科省
 {0}xa+uomkw.wfodhe 文档
 {0}xa+udxj.daeqno 大橋
@@ -2208,6 +2211,7 @@
 {0}ui+mddbgy.uiomco 时髦
 {0}ui+zldgy.jiiguu 稽古
 {0}ui+vj+dytiwe.goeqiidea 过期的
+{0}ui+wxrrn.dveqio 对齐
 {0}ui+wmks.fueyuu 付与
 {0}ui+wloy.uiodmu 时点
 {0}ui+wdmn.dvefhi 对方
@@ -2321,6 +2325,7 @@
 {0}uk+nfpouko.jbeyuo 禁漁
 {0}uk+xms.tiulie 体力
 {0}uk+ul+iltwbd.wwoheogju 違和感
+{0}uk+udnls.tiugeo 体格
 {0}uk+moskss.tiuyje 体験
 {0}uk+zzskjk.wuulyo 五輪
 {0}uk+wrkuko.jbeoiu 禁止
@@ -2454,6 +2459,7 @@
 {0}gy+pcjh.yjuliu 眼里
 {0}gy+yodddjh.yjuyku 眼影
 {0}gy+hkizjh.yjuxme 眼线
+{0}gy+zs,djxmjhzkj.yjulyojbi 眼輪筋
 {0}gy+vwegjh.yjujke 眼鏡
 {0}gy+kciznjh.yjuqqo 眼球
 {0}gy+ki.ddbgjhhz.yjuxmebiu 眼线笔
@@ -2827,6 +2833,7 @@
 {0}hj.emricl.dnejpo 调节
 {0}hj.djrfwb.qmioie 牽制
 {0}ha+brkwz.vjipdo 安排
+{0}ha+brkw.nvupdo 女排
 {0}ha+nclz.vjijpo 安洁
 {0}ha+tdbk.nvuxke 女性
 {0}ha+rydg.nvuvro 女児
@@ -2840,6 +2847,7 @@
 {0}ha+cw+furdh.nvuolizia 女装子
 {0}ha+cl+kw+bc,du+hmbrznwduief.vjijpokauteelienae 安洁卡特莉娜
 {0}ha+ca+urksz.vjituutco 安土桃
+{0}ha+mitz.vjiwwe 安慰
 {0}ha+zkwsz.vjidke 安定
 {0}ha+wx+xl+sccznrs.vjijieoiijxi 安済知佳
 {0}ha+we+vy+kkkzslk.vjibwejbesji 安倍晋三
@@ -3336,6 +3344,7 @@
 {0}ms+nwx.fheuvu 放水
 {0}ms+nwmuwdh.lvuyzo 旅游
 {0}ms+nezjw.iiooie 迟滞
+{0}ms+niyhwx.fhelhe 放浪
 {0}ms+xrcwx.fhezde 放在
 {0}ms+xrfur.ujucyo 闪存
 {0}ms+xmlwtu.uiijxi 施加
@@ -3349,6 +3358,7 @@
 {0}ms+lp+dshinwxwu.fhekeehze 放課後
 {0}ms+ebjgwx.fheoea 放着
 {0}ms+ek+klfswfskjv.xrotzogei 旋頭歌
+{0}ms+iy+gt,fuwxnhd.fhelhexiizia 放浪息子
 {0}ms+dujwtu.uiicee 施策
 {0}ms+dskkfwdh.lvuxko 旅行
 {0}ms+kwwev.qioxxe 旗下
@@ -3723,7 +3733,9 @@
 {0}zl+ycuis.guiuio 估時
 {0}zl+xjp.gueyzu 固有
 {0}zl+rmte.kuumfe 苦闷
+{0}zl+rm.juiosi 居中
 {0}zl+rktnj.huobwu 湖北
+{0}zl+ra+ui+wxrrmn.juiosidveqio 居中对齐
 {0}zl+hiyhh.guinlo 姑娘
 {0}zl+cp+zxydlkc.gruliuoeu 管理者
 {0}zl+cp+llixldlkc.gruliuqie 管理器
@@ -5288,6 +5300,7 @@
 {0}si+odch.yteucu 越少
 {0}si+sl+duoviv.lkoguuqqi 鈴谷秋
 {0}si+ihxnch.ytefai 越发
+{0}si+if+si+hfuchfich.ytedoiytehcu 越多越好
 {0}si+dy+jl+kjlklvikokkl.lkoyroluelue 鈴原露露
 {0}si+kfzjkeyh.yhuoio 養殖
 {0}si+fueyh.yhuzia 養子
@@ -5432,6 +5445,7 @@
 {0}sj+vkgv.ziijbi 資金
 {0}sj+wddbkkgv.ziiiju 資産
 {0}sj+ouwzigv.ziilne 資料
+{0}sj+ey+stbggux.gvimoohxe 規模化
 {0}sj+irfbdg.gvihxe 规划
 {0}sj+idmbgv.zjeigo 賛成
 {0}sj+dzzgbgg.gvifje 規範
@@ -5537,6 +5551,7 @@
 {0}lt+ihzv.zsujie 总计
 {0}lt+drjgvi.gjuoie 感質
 {0}lt+kcpcv.zsuliu 总理
+{0}lt+kcrfi.gjudce 感到
 {0}lt+kv+csmznio.gjuxkique 感兴趣
 {0}lt+fjrkii.gjuiue 感触
 {0}lrr,r 啸
@@ -6235,6 +6250,7 @@
 {0}eo+ohsxs.wuouue 無数
 {0}eo+sxls.wuooii 無知
 {0}eo+lj+dbssbv.wuosyuuii 無損失
+{0}eo+ey+ecdbiswt.wuoyieyie 無意義
 {0}eo+ed,xa+ta+rk+wddbkskddwswv.wuoxkowfohxeyioiju 無形文化遺産
 {0}eo+ek+ox+zkskjvmkl.wuotzoqiouie 無頭騎士
 {0}eo+iojggs.wuouie 無視
@@ -6634,6 +6650,7 @@
 {0}is+frdnbh.yiujle 以降
 {0}is+fiwh.yiuwde 以外
 {0}is+fdnh.yiujio 以及
+{0}is+jgkzxsi.fuukje 俯瞰
 {0}is+jzpzh.yiujyi 以軍
 {0}il 台
 {0}ilt 感
@@ -6722,6 +6739,7 @@
 {0}if+pls.jbihvo 今回
 {0}if+pkcifi.doigoo 多国
 {0}if+ys.jbirie 今日
+{0}if+ya+sxls.jbirieoii 今日知
 {0}if+ntunn.ysuiio 泳池
 {0}if+nss.ybuuvu 飲水
 {0}if+njvfff.yuucee 予測
@@ -6940,6 +6958,7 @@
 {0}dn+plw.fjuhvo 返回
 {0}dn+yfkeiul.geodze 格闘
 {0}dn+xebxw.tgoyhu 疼痒
+{0}dn+tk+stuli.geouiehxe 格式化
 {0}dn+tk+llixluli.geouieqie 格式器
 {0}dn+rf,dwfxcui.piohxetku 皮划艇
 {0}dn+uul.geomue 格木
@@ -7373,6 +7392,7 @@
 {0}dj+ihwdmeg.uzufhu 首访
 {0}dj+ileg.uzutdo 首台
 {0}dj+ikfseg.uzucie 首次
+{0}dj+dbgyg.mwomco 眉毛
 {0}dj+dcdgeg.uzuxmi 首先
 {0}dj+dlgbg.jnulre 攪乱
 {0}dj+ddbgyg.mwobiu 眉笔
@@ -7600,6 +7620,7 @@
 {0}kh+evjm.ohuqii 長期
 {0}kh+esiyhbio.sueyhu 素養
 {0}kh+iy+zxybiosh.sueuiooeu 素食者
+{0}kh+ienm.ohudue 長度
 {0}kh+db,ywlommg.ohuwwujku 長尾景
 {0}kh+dr+tdbkbiomj.sueuuuxke 素属性
 {0}kh+dmdkrm.ohusou 長所
@@ -7640,6 +7661,7 @@
 {0}kc+zyfrs.qrodzi 全都
 {0}kc+zxkhmpi.gookcu 国考
 {0}kc+zrrfpi.goouie 国事
+{0}kc+zwxr.oleuio 壮实
 {0}kc+zkcipi.goobcu 国宝
 {0}kc+zkcizi.bcubcu 宝宝
 {0}kc+zkmspi.goojxi 国家
@@ -8985,6 +9007,7 @@
 {0}jw+wxmwdm.phobmi 旁边
 {0}job+o 騰
 {0}jo+pa+lexen.tgotmoxne 藤田咲
+{0}js+bkjsf.fuezeo 负责
 {0}js+pkciwx.diogoo 敵国
 {0}js+xrjex.sjebue 散布
 {0}js+xm+uekksfw.ceebmiljo 侧边栏
@@ -9008,6 +9031,7 @@
 {0}js+io+llixlexc.sjereeqie 散熱器
 {0}js+dn+dx,eikskculn.hoegeowoecio 霍格沃茨
 {0}js+dulkii.lkoheo 零和
+{0}js+kpmrk.yeemme 页面
 {0}js+kpmrf.fuemme 负面
 {0}js+krkl.yrogsi 员工
 {0}js+kcizns.rzeqqo 肉球
@@ -9238,6 +9262,7 @@
 {0}ja+xx,dm+vmdxwmi.yzuxneigoffi 有効成分
 {0}ja+xrfus.nwecyo 内存
 {0}ja+tbkjx.yzuqko 有情
+{0}ja+txfisx.yzuyio 有疑
 {0}ja+tlgs.nwebci 内包
 {0}ja+tk+sxwk.yzuxpirfo 有些人
 {0}ja+ry+szjhxfh.yzuxmeoio 有限値
