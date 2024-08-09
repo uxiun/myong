@@ -514,6 +514,7 @@
 {0}pa+je+krrkuzz.dsinjoyae 東南亜
 {0}yp+gp+cu+ox+rh+prhocnnkyihklpoc,jexeioiuoooo 漫画時光綺羅羅
 {0}yp+gp+zkmsnnk.mjehxejxi 漫画家
+{0}yp+wrjnn.mjeuie 漫市
 {0}yp+dsuinn.mjefuo 漫符
 {0}yp+kgpnn.mjehxe 漫画
 {0}yy 昌
@@ -710,6 +711,7 @@
 {0}ya+md+wiszkv.bduffilve 百分率
 {0}ya+md+ifskv.bduffioii 百分之
 {0}ya+mk+zzjyc.rieyceico 日曜朝
+{0}ya+zlld.bdogsi 白宫
 {0}ya+vmdk.bduffi 百分
 {0}ya+wx.riewfo 日文
 {0}ya+wr+jrkk.jqeogeyte 旧正月
@@ -799,6 +801,7 @@
 {0}ns+oxkjvmss.juelwe 聚類
 {0}ns+scumss.juejio 聚集
 {0}ns+scomss.juejni 聚焦
+{0}ns+sklmss.jueheo 聚合
 {0}ns+imctwih.cjitki 餐廳
 {0}ns+dwjewih.cjipjo 餐盘
 {0}ns+kkfwih.cjitki 餐厅
@@ -931,6 +934,7 @@
 {0}na+jl+wz,bwehddvz.fjuxlelmejpi 反向鏈接
 {0}x 大
 {0}xb,bdupw.lmoboi 连播
+{0}xb,hkzfxw.lmoxue 连续
 {0}xb,wvnnr.jmebme 渐变
 {0}xb,oj.jyihou 军火
 {0}xb,oa+evj.jyihouyee 军火业
@@ -1217,11 +1221,13 @@
 {0}xf+stepbm.pcimco 抛锚
 {0}xf+shistis.yiouie 疑似
 {0}xf+sifttis.yionme 疑念
+{0}xf+ev+dn+cuxmsku.vziyaebjukke 欧亚板块
 {0}xf+itkms.vziuie 欧式
 {0}xf+irirms.vziozi 欧州
 {0}xf+ihixtis.yioyie 疑议
 {0}xf+dhtms.vziuie 欧氏
 {0}xf+dskkfbi.oioxko 执行
+{0}xf+kevms.vziyae 欧亚
 {0}xf+fl+wxtisy.yiowfewfo 疑問文
 {0}xa+bc,kj+md+ctueduiwve.vdeteekfupfodie 艾特肯盆地
 {0}xa+bwlj.daegcu 大搞
@@ -1363,6 +1369,7 @@
 {0}xa+jogx.daencu 大脳
 {0}xa+jddhw.wfomde 文脈
 {0}xa+jk+hhokkh.daeofezdi 大震災
+{0}xa+jf+dbkou.daextougi 大学生
 {0}xa+jf+jj.eveuoubn.daextouzeyee 大学授業
 {0}tp+xosco.ddehvi 黛灰
 {0}ty 旨
@@ -3212,6 +3219,7 @@
 {0}ca+wsdfnk.whoyie 王毅
 {0}ca+wlkklw.ouuyuu 主語
 {0}ca+weytw.ouuyie 主意
+{0}ca+wddbk.tuuiju 土産
 {0}ca+sukw.ouutiu 主体
 {0}ca+su+sy+sucnddndki.ugebiudeobcu 圣彼得堡
 {0}ca+sgscw.ouucvi 主催
@@ -3393,6 +3401,7 @@
 {0}ml+nodx.jxiuai 加沙
 {0}ml+nscwz.bienjo 避难
 {0}ml+tuxx.jxikke 加快
+{0}ml+tsm.juoohu 局长
 {0}ml+hdcwz.bierfe 避妊
 {0}ml+cixmm.juouie 局勢
 {0}ml+md+jv+jh.ncimdkrbuzio.juosoutjesoufau 局所探索法
@@ -4648,6 +4657,7 @@
 {0}om+wetsmx.quisve 駆遂
 {0}om+srrhdl.ucejpe 紹介
 {0}om+sifthg.jienme 紀念
+{0}om+ejrfms.yieqmo 駅前
 {0}om+if+tk+ejvhgsti.jienmeuiedmu 紀念式典
 {0}om+dyirfnc.jmijpo 鰹節
 {0}om+dcxmmx.quidse 駆動
@@ -4848,6 +4858,7 @@
 {0}oj+mzzptigg.uietki 視聴
 {0}oj+wxxmigg.uiexne 視効
 {0}oj+wloigg.uiedmu 視点
+{0}oj+wehk.zuulie 組立
 {0}oj+wdkjsidg.uiepbo 视频
 {0}oj+op+jtlgiggh.uiexiebci 視細胞
 {0}oj+ojjggigg.uiejto 視覚
@@ -4989,6 +5000,7 @@
 {0}sp+nebnw.hduyho 海洋
 {0}sp+xe,ss,gkkznwgkj.hduxxolluvje 海峡两岸
 {0}sp+rc,zvknwfvc.hdulueksi 海陸空
+{0}sp+uepynw.hducco 海槽
 {0}sp+gxenw.hduxxo 海峡
 {0}sp+gkkznw.hduvje 海岸
 {0}sp+ctunw.hdudie 海地
@@ -5088,6 +5100,7 @@
 {0}st+sp+xl+ekhdenws.hxihduyzeyao 花海佑芽
 {0}st+sp+ex,dufuenwl.hxihduxnejie 花海咲季
 {0}st+stize.hxiqmo 花钱
+{0}st+lkhmjs.ohehce 账号
 {0}st+eb,wm+nifneunu.hxiyheyzoysu 花样游泳
 {0}st+ewzze.hxilmo 花蓮
 {0}st+imjs.ohehue 账户
@@ -5145,6 +5158,7 @@
 {0}sh+wyhdin.hzetve 後退
 {0}sh+wdmdin.hzefhi 後方
 {0}sh+evjdin.hzeqii 後期
+{0}sh+ejondin.hzetgo 後藤
 {0}sh+dyirdin.hzejpo 後節
 {0}sh+kxdin.hzetmi 後天
 {0}sc 仕
@@ -5996,6 +6010,7 @@
 {0}lj+dzjswl.gcioie 高质
 {0}lj+dsrbwcl.dnelve 調律
 {0}lj+kuwl.gciyuo 高于
+{0}lj+kcpcwcl.dneliu 調理
 {0}lj+kdyowl.gciyro 高原
 {0}lj+kkfswl.gcicie 高次
 {0}lj+kkjjtwl.gcilie 高麗
@@ -7018,12 +7033,14 @@
 {0}dn+ukkopw.tuobni 图标
 {0}dn+gt,stsu.fjuxluhxe 仮想化
 {0}dn+hosjul.geonae 格納
+{0}dn+cuxu.bjukke 板块
 {0}dn+mmlul.geojuo 格局
 {0}dn+ma+wegkjzli.keehuedri 客户端
 {0}dn+zkwss.fjudke 仮定
 {0}dn+wtpju.piofui 皮膚
 {0}dn+wuipl.ltegoe 略过
 {0}dn+wlvlgs.fjuuoi 仮説
+{0}dn+wiszul.geolve 格率
 {0}dn+wkow.fjuhdo 返还
 {0}dn+scjggzl.keegri 客観
 {0}dn+szl.keerfo 客人
@@ -7031,6 +7048,7 @@
 {0}dn+sfyspw.tuoxle 图像
 {0}dn+sjsu.piorze 皮肉
 {0}dn+sa+la+dszptnlbz.loefuiguudeo 洛夫古德
+{0}dn+lllw.fjupbu 返品
 {0}dn+la+szjkwp.fjuhvooio 返回值
 {0}dn+ebkul.geoiae 格差
 {0}dn+itkul.geouie 格式
@@ -8105,6 +8123,7 @@
 {0}kk.si+zkmseidvf.yyouuejxi 芸術家
 {0}kk.skczg.wjoqro 完全
 {0}kk.sk+kjsuodk.bniqmiyee 标签页
+{0}kk.sa+dufok.sjirfoigi 三人称
 {0}kk.lo.su+lkhmuowdi.bnidmufuohce 标点符号
 {0}kk.lk+yfywlwkl.yjoyuujmi 言語間
 {0}kk.lk+ca+uecnwlwkls.yjoyuuuieyhe 言語仕様
@@ -8623,6 +8642,7 @@
 {0}fi+xrfukz.cjocyo 残存
 {0}fi+ub+bc,wudkrbokjdui.orijkiteexbi 专精特新
 {0}fi+czmrnwj.tsibce 通報
+{0}fi+zlkjvkz.cjoveo 残額
 {0}fi+zkmsb.orijxi 专家
 {0}fi+zkkgwj.tsiwjo 通完
 {0}fi+wuiwj.tsigoe 通过
@@ -8648,6 +8668,7 @@
 {0}fi+jbb.oriyse 专用
 {0}fi+jbwj.tsiyse 通用
 {0}fi+jtswj.tsiohe 通胀
+{0}fi+jvdnwj.tsifje 通販
 {0}fd 降
 {0}fd+bcuism.rgoiio 仍持
 {0}fd+bwyzbm.rgidne 扔掉
@@ -9129,6 +9150,7 @@
 {0}je+pccv.huoliu 壶里
 {0}je+nwsxd.xteyee 血液
 {0}je+nodzz.njouai 南沙
+{0}je+nspwzz.njohdu 南海
 {0}je+xkwkd.xteoge 血症
 {0}je+rd.xteosi 血中
 {0}je+rktzz.njobwu 南北
@@ -9147,6 +9169,7 @@
 {0}je+wlozz.njojki 南京
 {0}je+wdmzz.njofhi 南方
 {0}je+oscd.xteqte 血雀
+{0}je+sp+sp+uepyzznwnw.njohduhducco 南海海槽
 {0}je+sk+xkwkduc.xteurioge 血栓症
 {0}je+sk+oa+iyhddkfk.xtexkobuello 血行不良
 {0}je+ecxzz.njomwu 南美
