@@ -243,6 +243,7 @@
 {0}bjs+g 摇
 {0}bj+xmeg.oealie 着力
 {0}bj+ugteg.oeaxlu 着想
+{0}bj+uedg.kjeldo 看来
 {0}bj+cslgdg.kjeqiu 看起
 {0}bj+zkkgdg.kjewjo 看完
 {0}bj+wuidg.kjegoe 看过
@@ -687,6 +688,7 @@
 {0}yf+ebjgku.hzeoea 厚着
 {0}yj 明
 {0}yjk+n 暖
+{0}yj.nne.wfiuvu 温水
 {0}yj.tbkjne.wfiqko 温情
 {0}yj.rrpe.mgoxqe 萌袖
 {0}yj.hoskie.mgohve 萌絵
@@ -1858,6 +1860,7 @@
 {0}rk+sr+dklrrwf.pmekeehze 片刻后
 {0}rk+sm+yks.gsizoerie 工作日
 {0}rk+sstew.fwilyo 菲伦
+{0}rk+ssmwv.yiozoe 遺作
 {0}rk+ssmk.gsizoe 工作
 {0}rk+skkiwv.yioyyo 遺伝
 {0}rk+skjnsw.pdoyzi 俳優
@@ -2357,6 +2360,7 @@
 {0}uk+ilts.tiugju 体感
 {0}uk+ij+ra+tsw.tiuyueosixbi 体育中心
 {0}uk+ij+ojfusw.tiuyuexto 体育学
+{0}uk+ij+sizllsw.tiuyuegru 体育館
 {0}uk+dnwb.wwofju 違反
 {0}uk+dubkvs.tiujii 体積
 {0}uk+dulvs.tiujii 体积
@@ -2457,6 +2461,7 @@
 {0}ua+kcsif.mueqbo 木琴
 {0}ua+kw+doukys.yuouiehui 于是乎
 {0}ua+kot.yeubue 也不
+{0}ua+kk.rk+ssmzzgwv.wwewjoyiozoe 未完遺作
 {0}ua+kftx.uaisiu 杀死
 {0}ua+kjkkv.muelko 木霊
 {0}ua+fudhof.ziasyi 子孫
@@ -3226,6 +3231,7 @@
 {0}ca+scjggw.ouugri 主観
 {0}ca+skf.tuuqie 土气
 {0}ca+sk+su+pclhwyjvi.ouutioleeyro 主題楽園
+{0}ca+sk+epwyjv.ouutioqui 主題曲
 {0}ca+sk+klfswyjv.ouutiogei 主題歌
 {0}ca+sa+viw.ouurfogsi 主人公
 {0}ca+lu+prfins.ugebculoo 圣保罗
@@ -3956,6 +3962,7 @@
 {0}vn+bfjxw.bmehre 变换
 {0}vn+tdbkw.bmexke 变性
 {0}vn+stw.bmehxe 变化
+{0}vn+ixmiw.bmewwe 变为
 {0}vn+idmw.bmeigo 变成
 {0}vn+db,zxywtk.bmexkeoeu 变性者
 {0}vn+dsykiw.bmedeo 变得
@@ -4163,6 +4170,7 @@
 {0}va+cf,kf+xy+duyfpifpb.xnuyeutkiiyixli 小野町春香
 {0}va+md+ejsxev.gseffisje 共分散
 {0}va+mkicf.xnuwui 小屋
+{0}va+zt+xl+estfeous.xnujuioiihxi 小鞠知花
 {0}va+za+ehzlv.jbiofigui 金針菇
 {0}va+vr+zk+djgepjfnv.siezeoyjusre 四則演算
 {0}va+vi+ua+fl+fufuzk.xnussiwwekeuzia 小松未可子
@@ -4184,6 +4192,7 @@
 {0}va+sf+dfdrifwx.xnuyeefgi 小夜風
 {0}va+lv.zkmsfwlg.xnuuoijxi 小説家
 {0}va+lsff.xnuiii 小吃
+{0}va+eztouf.xnujui 小鞠
 {0}va+ek+mr+skffnje.xnumjujpoqie 小满节气
 {0}va+ihvlgf.xnuuoi 小说
 {0}va+ihitkf.xnuuie 小试
@@ -4380,6 +4389,7 @@
 {0}ww,dskkfddf.hhoxko 航行
 {0}ww,kxddf.hhotmi 航天
 {0}wo 点
+{0}wsr+f 劇
 {0}ws,bzrssx.mbujpo 敏捷
 {0}ws,tlfifl.zuogze 足够
 {0}ws,ta+skfnxs.yeehxeqie 液化气
@@ -4676,6 +4686,7 @@
 {0}oz+mijgghko.zsilju 綜覧
 {0}oz+wdmk.pkofhi 平方
 {0}oz+sxklehsy.soidru 縮短
+{0}oz+sklhko.zsiheo 綜合
 {0}oz+sk+hodynkdkf.pkoxkoxme 平行線
 {0}oz+sk+ss,kp+pwxkdkficuo.pkoxkozoebnituo 平行座標図
 {0}oz+sk+ea+psrrkdkft.pkoxkouiejpe 平行世界
@@ -5761,6 +5772,7 @@
 {0}ls+cwpkwkj.lyetjo 論壇
 {0}ls+zbxkjc.qteuio 確実
 {0}ls+zrrfzx.gueuie 故事
+{0}ls+zvslwz.xuurso 許容
 {0}ls+zdnlwkj.lyekee 論客
 {0}ls+zkwskjc.qtedke 確定
 {0}ls+zjixex.jkexme 敬献
@@ -5986,6 +5998,7 @@
 {0}lj+weywl.gciybi 高音
 {0}lj+wdfwl.gcikhe 高亢
 {0}lj+okgwl.gcigli 高光
+{0}lj+okvwl.gcixki 高兴
 {0}lj+stdbswl.gcitpu 高铁
 {0}lj+swlfwcl.dnetko 調停
 {0}lj+ssydbv.syuuhi 損傷
@@ -6216,6 +6229,8 @@
 {0}eg+xbbfiw.nieoru 逆转
 {0}eg+uzwkj.drimoe 端末
 {0}eg+cwegw.niejke 逆境
+{0}eg+zzkkiw.nieoru 逆転
+{0}eg+zk+cu+wlzwzkiyi.nieoruuiojie 逆転時計
 {0}eg+vwzzw.nielme 逆鏈
 {0}eg+wlowkj.dridmu 端点
 {0}eg+ouwewkj.drilie 端粒
@@ -6235,10 +6250,12 @@
 {0}ec+itkun.yheuie 様式
 {0}ec+itksi.yiouie 儀式
 {0}ec+fuun.yhezia 様子
-{0}ezj+rj 帯
+{0}ezj+rj 带
+{1}ezj+rj 帯
 {0}ez+bcn.guuuzu 鼓手
 {0}ez+ojlbcn.guuohu 鼓掌
 {0}ez+sefibcn.guuwuu 鼓舞
+{0}ez+lw.xbikzu 辛口
 {0}ez+ezlw.xbikuu 辛苦
 {0}ez+iozlc.xkehue 幸祜
 {0}ez+ioklpc.xkefuo 幸福
@@ -7528,6 +7545,7 @@
 {0}kn.bkjly.taeqki 踏青
 {0}kn.twmgi.bkidcu 冰岛
 {0}kn.ry+jz+dcxmukfhwz.jioxmeyyedse 極限運動
+{0}kn.ctuuk.jiodie 極地
 {0}kn.cjevi.bkihuo 冰壶
 {0}kn.zwxly.taeuio 踏实
 {0}kn.va+ud+kpdsnukfrn.jioxnubwefue 極小被覆
@@ -7938,6 +7956,7 @@
 {0}kl+yuij.tsouio 同时
 {0}kl+ycuij.tsouio 同時
 {0}kl+yoddds.heoyku 合影
+{0}kl+yskjvsr.mketio 命題
 {0}kl+nwigs.heolqo 合流
 {0}kl+njklg.yjodse 岩洞
 {0}kl+tdbkj.tsoxke 同性
@@ -8250,6 +8269,7 @@
 {0}kjr+ki 融
 {0}kjg+v 頁
 {0}kje+zj 霸
+{0}kj+bxyb.qkiiyi 青春
 {0}kj+bk+lu+wlesnsnds.yziugibcuhue 優生保護
 {0}kj+bk+lu+le+ncisndswsn.yziugibcuhuefau 優生保護法
 {0}kj+ba+evjbs.qkinmoqii 青年期
@@ -8269,6 +8289,7 @@
 {0}kj+okgb.qkigli 青光
 {0}kj+okjvtn.yzufjo 懮煩
 {0}kj+sbb.qkinmo 青年
+{0}kj+stwxbks.xlelme 项链
 {0}kj+sz,evcwdpt.kfudeojii 肯德基
 {0}kj+sdbhk.zuujme 组件
 {0}kj+sklhk.zuuheo 组合
@@ -8826,6 +8847,7 @@
 {0}jx+fx+za+mkklifmsd.ysuqieqmixyo 勇気千尋
 {0}jx+fhmkjn.vdemau 爱马
 {0}jt+byriip.yuoiyu 愚蠢
+{0}jt+budbgit.ngohce 能耗
 {0}jt+ykpcit.ngolle 能量
 {0}jt+ya+eg+xa+no+su+ecxcknjkedi,iidujumiaieewu 壱百満天原莎楽美
 {0}jt+nkdoit.ngoyro 能源
