@@ -1387,6 +1387,7 @@
 {0}xa+jddhw.wfomde 文脈
 {0}xa+jk+hhokkh.daeofezdi 大震災
 {0}xa+jf+dbkou.daextougi 大学生
+{0}xa+jf+frzkgou.daextoyre 大学院
 {0}xa+jf+jj.eveuoubn.daextouzeyee 大学授業
 {0}tp+xosco.ddehvi 黛灰
 {0}ty 旨
@@ -3909,6 +3910,8 @@
 {0}zk+jwmkzki.oruxpu 転写
 {0}zf 事
 {0}zf+teytg.wjuxii 惋惜
+{0}zf+ul+tz+dg+hk+smrdsjiwk.yeoheohxojmeogerfo 耶和华见证人
+{0}zf+ul+stzmrd.yeoheohxo 耶和华
 {0}zf+cu+wlzjgyi.wjeuiojie 腕時計
 {0}zf+wljjzs.rrugci 軟膏
 {0}zf+sdbzs.rrujme 軟件
@@ -7239,10 +7242,12 @@
 {0}dg 看
 {0}dgt, 憩
 {0}dg+hs+uw+jswliizol.yyuxuuojitpi 允许粘贴
+{0}dg+hk+sjiwk.jmeogerfo 见证人
 {0}dg+vfrdl.xsidie 兄弟
 {0}dg+wlszi.yyuxuu 允許
 {0}dg+oot.xiihou 熄火
 {0}dg+ihszi.yyuxuu 允许
+{0}dg+ihkwkj.jmeoge 见证
 {0}dg+kpmrj.jmemme 见面
 {0}dg+kw+dz+stzjhdzbq.jmefgeiaiofi 见缝插针
 {0}dg+klvv.zriuio 鑽石
@@ -7569,6 +7574,7 @@
 {0}da+vx+skkiww.glujnihve 广交会
 {0}da+wlgvs.ruexru 入選
 {0}da+ohsxo.ucuuue 少数
+{0}da+ojfus.ruexto 入学
 {0}da+irirw.gluozi 广州
 {0}da+ijttu.cdongo 才能
 {0}da+dclw.glugce 广告
@@ -9091,6 +9097,7 @@
 {0}jg+dqdd.zieufi 自身
 {0}jg+dnu.xlifju 相反
 {0}jg+dufou.xliigi 相称
+{0}jg+dufod.zieigi 自称
 {0}jg+dcxmd.ziedse 自動
 {0}jg+dsrbd.zielve 自律
 {0}jg+dsuiu.xlifuo 相符
@@ -9390,6 +9397,7 @@
 {0}jf+dsivfou.xtouue 学術
 {0}jf+kd+hs+bmzloumyox.xtoxiouuejue 学習数据
 {0}jf+kd+db,eo+fx+xmoumytkss.xtoxioxkewuoqielie 学習性無気力
+{0}jf+frzkgou.xtoyre 学院
 {0}jf+frjsoou.xtojie 学際
 {0}jf+jswled.jmutpi 剪贴
 {0}jf+jegbmu.jkeghi 静岡
