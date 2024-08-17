@@ -3133,6 +3133,7 @@
 {0}cl+fuu.juozia 桔子
 {0}ce+nilel.ujeoie 善治
 {0}ce+uuui.uuelbo 樹林
+{0}ce+zxyel.ujeoeu 善者
 {0}ce+scjggwb.daogri 達観
 {0}ce+idmwb.daoigo 達成
 {0}ce+dm+wiszwbi.daoigolve 達成率
@@ -3222,6 +3223,7 @@
 {0}cj+sitkgg.xmedde 現代
 {0}cj+sitkdg.xmedde 现代
 {0}cj+siftsgg.grinme 観念
+{0}cj+skkik.zdehve 再会
 {0}cj+sk+yjkfxt.zdefaimko 再発明
 {0}cj+sfyskgg.xmexle 現像
 {0}cj+ee,dkfukuj.zdegzeoue 再構築
@@ -3917,6 +3919,7 @@
 {0}zf+sdbzs.rrujme 軟件
 {0}zf+ecxbyg.yjemwu 艳美
 {0}zf+db,tlgzss.rrujmebci 軟件包
+{0}zj+pcfifuk.oioyeu 植野
 {0}zj+ykpcds.oielle 质量
 {0}zj+ya+je+ekvpzzz.icorienjoqme 朝日南茜
 {0}zj+ueerj.ddeldo 带来
@@ -6606,6 +6609,7 @@
 {0}ix+hhm.yzenvu 幼女
 {0}ix+hodyns.fuoxme 伏線
 {0}ix+ctus.fuodie 伏地
+{0}ix+ce+zxysoel.wwuujeoeu 偽善者
 {0}ix+zxyso.wwuoeu 偽者
 {0}ix+wlosg.yzidmu 优点
 {0}ix+od+la+hrnshynp.fuoxmehvouzi 伏線回収
@@ -6615,6 +6619,7 @@
 {0}ix+szb.zderfo 载人
 {0}ix+sobgk.yjejre 厌倦
 {0}ix+ssmkm.dsezoe 动作
+{0}ix+ecelso.wwuuje 偽善
 {0}ix+emrbx.baojpo 拔节
 {0}ix+it+ctukmx.dsetdedie 动态地
 {0}ix+it+sj+irfkmxbdg.dsetdegvihxe 动态规划
@@ -9252,6 +9257,7 @@
 {0}jl+ejllkkl.lueyko 露营
 {0}jl+durfodl.ykolie 営利
 {0}jl+dswcd.xlewhu 向往
+{0}jl+dimjob.ohupmi 掌篇
 {0}jl+kgpkls.lkohxe 靈画
 {0}jl+kwd.xlexxe 向下
 {0}jl+jborj.ihoyse 常用
