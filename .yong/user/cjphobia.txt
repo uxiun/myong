@@ -314,6 +314,7 @@
 {0}qx,ihstdv.yuolye 舆论
 {0}qt+pcfifi.lueyeu 鹿野
 {0}qt+th+kjkkiiwio.lueziuyyo 鹿紫雲
+{0}qt+th+jk+iq+sifdqiwiokkint.lueziuyyoluexme 鹿紫雲漉餡
 {0}qh+ukkodwh.uuubni 鼠标
 {0}qz,wlskjdv.yuolye 輿論
 {0}qv+zvsle.jmirso 兼容
@@ -3227,6 +3228,7 @@
 {0}cj+sk+yjkfxt.zdefaimko 再発明
 {0}cj+sfyskgg.xmexle 現像
 {0}cj+ee,dkfukuj.zdegzeoue 再構築
+{0}cj+it+wsrfkggs.xmeddejue 現代劇
 {0}cj+it+stkggs.xmeddehxe 現代化
 {0}cj+it+sk+xbkdgsnf.xmeddeqieiei 现代汽车
 {0}cj+io+rs+nyevkcfku.zdereeiuouii 再熱除湿
@@ -3495,6 +3497,7 @@
 {0}md+qt+pcfifri.iuilueyeu 初鹿野
 {0}md+pcfifv.ffiyeu 分野
 {0}md+yi+ohsxvdr.ffijpouue 分節数
+{0}md+ykpcv.ffille 分量
 {0}md+yfyv.ffijmi 分間
 {0}md+ntdv.ffimie 分泌
 {0}md+xrcdkr.souzde 所在
@@ -4166,6 +4169,7 @@
 {0}vf+ikcvnes.qiilko 欺凌
 {0}vf+dbkwu.lrougi 孪生
 {0}vf+kfkjvz.qsodku 穹頂
+{0}vj+ye.qiirie 期日
 {0}vj+yfye.qiijmi 期間
 {0}vj+rmye.qiijmi 期间
 {0}vj+uze.qiimoe 期末
@@ -4266,6 +4270,7 @@
 {0}va+fpo.jbiyuo 金魚
 {0}va+fxrbe.gsejme 共建
 {0}va+fu+io+wlkklpzw.siezieuuoyuu 四字熟語
+{0}va+fhmkf.xnumau 小马
 {0}va+fi+dh+rcwdhewjw.gsetsiyiioli 共通衣装
 {0}va+fi+kkjvewj.gsetsixle 共通項
 {0}va+jgrf.jbighi 金剛
@@ -5686,6 +5691,7 @@
 {0}lr+houpowrr.xyelme 訓練
 {0}lr+czmrnzl.gribce 官報
 {0}lr+wudkrsf.ilexbi 創新
+{0}lr+woumf.juemio 剧迷
 {0}lr+wszf.geiyui 割込
 {0}lr+wlcjgwrr.xyeduo 訓読
 {0}lr+wlwjmwkw.fwubhe 誹謗
@@ -6071,6 +6077,7 @@
 {0}lj+sdhiwl.gcidii 高低
 {0}lj+skrpwl.gcisie 高価
 {0}lj+li+llixlwclwtk.dneuieqie 調試器
+{0}lj+lk+skrpwlwoz.gcipkosie 高評価
 {0}lj+evdkrwl.gcisii 高斯
 {0}lj+ekezws.hcohxo 豪華
 {0}lj+izvvz.huomao 胡麻
@@ -6389,6 +6396,7 @@
 {0}eo+ouwzs.wuolne 無料
 {0}eo+ohsxs.wuouue 無数
 {0}eo+sxls.wuooii 無知
+{0}eo+sm+ixfoss.wuozoewwe 無作為
 {0}eo+lj+dbssbv.wuosyuuii 無損失
 {0}eo+ey+ecdbiswt.wuoyieyie 無意義
 {0}eo+ed,xa+ta+rk+wddbkskddwswv.wuoxkowfohxeyioiju 無形文化遺産
