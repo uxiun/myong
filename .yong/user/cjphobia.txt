@@ -299,6 +299,7 @@
 {0}ba+dqdo.bjeufi 半身
 {0}ba+dywgo.bjedcu 半島
 {0}ba+dn+hodhteu.yhopiooiu 羊皮紙
+{0}ba+dzdfn.uzudre 手段
 {0}ba+dsivf.uzuuue 手術
 {0}ba+dk+wr+fwhibrkk.uzuoeoogexmo 手折正弦
 {0}ba+df+wm+wviuwu.uzujiiyzohui 手机遊戯
@@ -630,6 +631,7 @@
 {0}ye+kfwdhon.bcelpe 爆裂
 {0}ye+kjlklyn.puelue 曝露
 {0}ye+fw+hiyhonkdh.bcelpenlo 爆裂娘
+{0}ye+fopzon.bcedje 爆弾
 {0}ye+fskxton.bcefai 爆発
 {0}yi 时
 {0}yi+bxkxdr.jpozze 節奏
@@ -1436,6 +1438,7 @@
 {0}tr+strkisnc.kgiqli 铿锵
 {0}tr+skudf.ugeyuo 剩余
 {0}tr+kwdf.ugexxe 剩下
+{0}tu+bg,ha+rcwdhcd.diemconvuoli 地毛女装
 {0}tu+pm+wewlckr.diemmeoje 地面站
 {0}tu+pwxc.dietuo 地図
 {0}tu+pkcis.taigoo 他国
@@ -1464,6 +1467,7 @@
 {1}tu+ezjrjc.diedde 地帯
 {0}tu+il+tdbkcck.dieyuexke 地域性
 {0}tu+idtkc.diediu 地底
+{0}tu+dbgc.diemco 地毛
 {0}tu+dt+nzljcik.diediuhuo 地底湖
 {0}tu+kpmrc.diemme 地面
 {0}tu+kcpcc.dieliu 地理
@@ -1524,6 +1528,7 @@
 {0}tl+xjbg.bceyzu 抱有
 {0}tl+urb.juiuue 拘束
 {0}tl+sklbg.bceheo 抱合
+{0}tl+lzxulg.pcoxni 咆哮
 {0}tl+evfsbg.bceqme 抱歉
 {0}tl+kl+wlkklbgs.bceheoyuu 抱合語
 {0}tl+fgtbg.bceyre 抱怨
@@ -2133,6 +2138,7 @@
 {0}ut+mtd.xiinio 悉尼
 {0}ut+ztdgdd.miemie 秘密
 {0}ut+wluxdd.miejto 秘訣
+{0}ut+swkwdd.miekau 秘佧
 {0}ut+skkidd.mieyyo 秘伝
 {0}ut+fpkydd.mieluu 秘鲁
 {0}ur+nrmcdf.lierye 利润
@@ -2300,6 +2306,7 @@
 {0}ui+evjw.goeqii 过期
 {0}ui+ihdzln.dvehxe 对话
 {0}ui+iokn.dveyki 对应
+{0}ui+ienw.goedue 过度
 {0}ui+dtrfw.goeuge 过剩
 {0}ui+duldcw.goeigo 过程
 {0}ui+dzdfny.uiodre 时段
@@ -2349,6 +2356,7 @@
 {0}ud+wldfnwkr.xbiuee 新設
 {0}ud+weynn.boiybi 波音
 {0}ud+wefhs.guilie 孤立
+{0}ud+wdclwkr.xbizce 新造
 {0}ud+oxkjvdzc.osulwe 種類
 {0}ud+ouwzu.cdolne 材料
 {0}ud+os+sukrnmks.bweyjetiu 被験体
@@ -2374,6 +2382,7 @@
 {0}ud+dbcuinn.boitee 波特
 {0}ud+dqjvwkr.xbixke 新興
 {0}ud+drjgvwkr.xbioie 新質
+{0}ud+dudzcwkr.xbiosu 新種
 {0}ud+dh+rcwdhwkrw.xbiyiioli 新衣装
 {0}ud+da+dbkwkrs.xbirueugi 新入生
 {0}ud+kpdsnrn.bwefue 被覆
@@ -2505,6 +2514,7 @@
 {0}ua+esuj.cduiao 采茶
 {0}ua+esscp.kyenjo 困難
 {0}ua+ee,wdcluj.muegzezce 木構造
+{0}ua+ea+iojggzu.wweldouie 未来視
 {0}ua+ihwdmj.cdufhu 采访
 {0}ua+ihszt.yeuxuu 也许
 {0}ua+ihkkli.uueyuu 术语
@@ -3148,6 +3158,7 @@
 {0}cs+rkjskdd.ofigve 珍贵
 {0}cs+wldhkx.oievdi 致哀
 {0}cs+sklrkx.oiemke 致命
+{0}cs+edsxep.qlowwi 薔薇
 {0}cs+kftkx.oiesiu 致死
 {0}cs+ft,yt+sx+xksjkxkdix.oiesiudeajiobke 致死的疾病
 {0}cs+ft,tdbkkxk.oiesiuxke 致死性
@@ -3443,6 +3454,7 @@
 {0}mz+fvyn.zvexnu 最小
 {0}mz+firiyn.zveqlo 最強
 {0}mz+fifiyn.zvedoi 最多
+{0}mz+jjtnyn.zvevde 最愛
 {0}mv+yjrpz.ijumko 阐明
 {0}mv+ncix.bjefau 办法
 {0}mv+ouvmdnn.dmeffu 澱粉
@@ -3568,6 +3580,7 @@
 {0}md+zlrfv.ffigei 分割
 {0}md+vj+stre.iuiqiihxe 初期化
 {0}md+vj+szjhre.iuiqiioio 初期値
+{0}md+wprjdkr.souyue 所遇
 {0}md+wgxjv.ffilio 分离
 {0}md+wlpjdkr.souwwe 所謂
 {0}md+wlmklv.fficio 分詞
@@ -3693,6 +3706,7 @@
 {0}ma+jugm.jueruu 巨乳
 {0}zp+bwehwz.lmojpi 連接
 {0}zp+bscmwz.lmoxpo 連携
+{0}zp+przjkdc.oseoie 重置
 {0}zp+ph+tdbkdck.oseycexke 重要性
 {0}zp+ykpcdc.oselle 重量
 {0}zp+nnnkdc.osedpo 重叠
@@ -4172,6 +4186,7 @@
 {0}vd+wurwn.bmesue 変速
 {0}vd+wljclwn.bmedne 変調
 {0}vd+ohsxwn.bmeuue 変数
+{0}vd+olixigi.moouze 魔獣
 {0}vd+okgwn.bmegli 変光
 {0}vd+sxfn.uairfo 殺人
 {0}vd+stwn.bmehxe 変化
@@ -4315,6 +4330,7 @@
 {0}va+kuf.xnuyuo 小于
 {0}va+kc+jszi.jbibcubwe 金宝贝
 {0}va+klbfi.jbiori 金砖
+{0}va+kl+ma+zkzpx.jbifuelieuie 金富力士
 {0}va+kl+sukej.gsetsotiu 共同体
 {0}va+kk.va+lkktlltl.bailiebailie 叭囇叭囇
 {0}va+kfcf.xnuxko 小型
@@ -4939,6 +4955,7 @@
 {0}ok+ztdghcx.oiemie 緻密
 {0}ok+weyilp.fuoybi 福音
 {0}ok+wjdckjv.yrewhe 願望
+{0}ok+wjkckjv.yrewhe 願望
 {0}ok+omki.ykidhi 应当
 {0}ok+sw,ykpcim.ykijbulle 应尽量
 {0}ok+ey+zi+zkilpwo.fuoybiojeuie 福音戦士
@@ -5461,6 +5478,7 @@
 {0}ss,lkhmdyn.fuehce 復号
 {0}ss,eveuwz.zuoyee 卒業
 {0}ss,ejrfdkr.yueqmo 御前
+{0}ss,ienec.njodue 難度
 {0}ss,ikfskj.llucie 两次
 {0}ss,dbxis.oseizo 众筹
 {0}ss,dqjvdyn.fuexke 復興
@@ -5716,6 +5734,7 @@
 {0}sa+fy+fe+sdhoyyx.rfojmigrixie 人間関係
 {0}sa+fil.rfomko 人名
 {0}sa+jogx.rfoncu 人脳
+{0}lb+iznwkj.qkuqqo 請求
 {0}lb+kokjvwkj.qkuyre 請願
 {0}lb+klfswsv.zjegei 讃歌
 {0}lp+yskjvwu.keetio 課題
@@ -5788,6 +5807,7 @@
 {0}lu+hpwis.bcumuu 保姆
 {0}lu+hoeels.bcuuje 保繕
 {0}lu+czphkdn.poehke 破壊
+{0}lu+zp+xmkdnch.poehkelie 破壊力
 {0}lu+zvkx.jxeksi 架空
 {0}lu+wlskjwi.tculye 討論
 {0}lu+wlesns.bcuhue 保護
@@ -6345,7 +6365,7 @@
 {0}en 度
 {0}end+l 落
 {0}en+wuii.duegoe 度过
-{1}ex 关
+{0}ex 关
 {0}ex,weew.ssejbe 送进
 {0}ex,sdw.sserue 送入
 {0}ex,lhkil.vdiyoi 哎哟
@@ -6406,6 +6426,7 @@
 {0}ez+ezlw.xbikuu 辛苦
 {0}ez+iozlc.xkehue 幸祜
 {0}ez+ioklpc.xkefuo 幸福
+{0}ez+dcxmcn.guudse 鼓動
 {0}ev 共
 {1}ev 业
 {0}evf+s 欺
@@ -6986,6 +7007,7 @@
 {0}if+xfi.doidae 多大
 {0}if+xa+zfustw.nmewfozie 念文字
 {0}if+tss.tjixbi 贪心
+{0}if+uuhss.tjiljo 贪婪
 {0}if+ugtff.yuuxlu 予想
 {0}if+udfi.doicdo 多才
 {0}if+uknkfi.doijio 多極
@@ -7323,6 +7345,7 @@
 {0}du+nwigdi.ueelqo 射流
 {0}du+xbfsf.rzorru 柔软
 {0}du+ggbp.boiiui 播出
+{0}du+ggdi.ueeiui 射出
 {0}du+znbdi.ueejii 射撃
 {0}du+wmsxbp.boifhe 播放
 {0}du+weybp.boiybi 播音
@@ -7405,6 +7428,7 @@
 {0}dm+nskfi.igoyuo 成渝
 {0}dm+nk.tlgwbpr.fhimmebci 方麺包
 {0}dm+tli.igojue 成句
+{0}dm+ta+skffit.igobiulie 成比例
 {0}dm+rkii.igoiso 成虫
 {0}dm+uki.igobfu 成本
 {0}dm+uf.ndumue 乃木
@@ -7549,6 +7573,7 @@
 {0}dk+yf+cx+dn+fuxcepenl.kloljomwuloezia 狂蘭美洛子
 {0}dk+xrjvjv.bjibue 頒布
 {0}dk+xmlr.tkilie 听力
+{0}dk+xmih.wwilie 威力
 {0}dk+xjdjs.xuiyzu 须有
 {0}dk+xa+ihmklwri.jbeyiecio 近义词
 {0}dk+tewr.jbeuie 近世
@@ -7838,6 +7863,7 @@
 {0}kg+ywloo.glijku 光景
 {0}kg+njjjo.glihxo 光滑
 {0}kg+rimkn.uaemfo 厦门
+{0}kg+uro.gliuue 光束
 {0}kg+uek.yroldo 元来
 {0}kg+ukkoo.glibni 光标
 {0}kg+ufdnljj.bgejio 蹦极
@@ -8125,6 +8151,7 @@
 {0}ks+eidmiii.lguzhi 冷蔵
 {0}ks+imwdmiii.lgufho 冷房
 {0}ks+isuikx.ogefuu 政府
+{0}ks+il+dytikxn.ogeoiedea 政治的
 {0}ks+id+izpziiiem.lguzhikue 冷蔵庫
 {0}ks+dnpic.oyubwe 准备
 {0}ks+dujkx.ogecee 政策
@@ -8467,6 +8494,8 @@
 {0}kj+njvfme.jmicee 監測
 {0}kj+nj+ssmmewg.jmiduizoe 監督作
 {0}kj+xst.yuedae 愈大
+{0}kj+twgxos.fjoncu 烦恼
+{0}kj+togxov.fjoncu 煩悩
 {0}kj+ta+ox+srrrgvcil.gveoieyzejpe 貴志祐介
 {0}kj+rp+oa+bwehbevk.qkihlobuejpi 青黄不接
 {0}kj+uuub.qkisfi 青森
@@ -8587,6 +8616,7 @@
 {0}ka+swew.uhewwe 上位
 {0}ka+slys.tsooie 仝智
 {0}ka+sikjvu.bfulku 本領
+{0}ka+sdb.yiijme 一件
 {0}ka+sfxu.bfuqie 本気
 {0}ka+sa+dufo.yiirfoigi 一人称
 {0}ka+ly+ey+itkssux.tsooiemoouie 仝智模式
@@ -8952,6 +8982,7 @@
 {0}fk+eyxjye.kdimue 開幕
 {0}fk+evjfjs.yueqii 预期
 {0}fk+ejueg.uuicde 蔬菜
+{0}fk+ihzfjs.yuejie 预计
 {0}fk+ihdfnfjs.yueuee 预设
 {0}fk+dbtdddri.fgiwue 風物
 {0}fk+dclfjs.yuegce 预告
@@ -9131,6 +9162,7 @@
 {0}jr+fryhdf.oiexme 制限
 {0}jr+frskuof.xtiiuo 削除
 {0}jr+jkkr.vroqpu 而且
+{0}ju+bmsb.cduzeo 採択
 {0}ju+xb,frzkgej.rsojyiyre 荣军院
 {0}ju+tdbkki.ndexke 耐性
 {0}ju+uecnb.cduyhe 採様
