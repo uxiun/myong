@@ -1127,6 +1127,7 @@
 {0}xm+fup.njozia 男子
 {0}xm+fiwl.lkewde 另外
 {0}xm+ffii.wwelea 为了
+{0}xm+jwev.suidji 苏丹
 {0}xm+jklp.njotso 男同
 {0}xm+jklzv.xpotso 协同
 {0}xm+ja+xnpj.njopgoyzu 男朋友
@@ -4885,8 +4886,10 @@
 {0}os+dsykihj.naedeo 納得
 {0}os+dlkrjhki.hveuii 絵師
 {0}os+kpmrhki.hvemme 絵面
+{0}ol.yh+lg+nkdoisjud.hoegfilreyro 祸根乱源
 {0}ol.yidg.ouerie 祝日
 {0}ol.nuxk.fzujto 否決
+{0}ol.uyhisj.hoegfi 祸根
 {0}ol.zkwsk.fzudke 否定
 {0}ol.dlwezidg.ouecio 祝辞
 {0}ol.kw+kedddkzs.fzudkexko 否定形
@@ -5011,6 +5014,7 @@
 {0}oj+rw+ljgvnfdm.xnifhoyro 消防員
 {0}oj+rfjgvn.xnifwe 消費
 {0}oj+rfjsn.xnifwe 消费
+{0}oj+uyhijl.hoegfi 禍根
 {0}oj+uknkn.xnijio 消極
 {0}oj+howiyhk.zuuoii 組織
 {0}oj+hodynigg.uiexme 視線
