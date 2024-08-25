@@ -468,6 +468,7 @@
 {0}pz+ko.djiyii 単一
 {0}pz+kkgo.djiyro 単元
 {0}pz+fuo.djizia 単子
+{0}pz+js.mwuyte 毎月
 {0}pw+srsi.mwugee 每个
 {0}po+fuf.yuozia 魚子
 {0}psr+r 界
@@ -1111,6 +1112,7 @@
 {0}xm+stuii.wwetai 为他
 {0}xm+sukp.njotiu 男体
 {0}xm+sdcmzm.xpodse 協働
+{0}xm+skkizm.xpohve 協会
 {0}xm+skflii.wweheo 为何
 {0}xm+lrkwll.kaifwi 咖啡
 {0}xm+lsklii.wweuao 为啥
@@ -1740,6 +1742,7 @@
 {0}rr,kkfsrv.uyecie 順次
 {0}rr,kkjvzf.uiexle 事項
 {0}rr,kfrfrv.uyelpe 順列
+{0}rr,ka+ua+rj+furwzyx.iriuhewweykezia 川上未映子
 {0}rr,fytszf.uiexle 事象
 {0}rr,fdsxmzf.uiewue 事務
 {0}rr,jr+rn+vfknzfefh.uieqmouzilue 事前収録
@@ -2236,6 +2239,7 @@
 {0}uo+wurdd.mnusue 秒速
 {0}uo+wk+dhiodns.qqiseexie 秋渋系
 {0}uo+dzd.qqiqmi 秋千
+{0}uo+dkldj.ucihze 稍后
 {0}uo+jk+kgpdkkv.qqilkohxe 秋霊画
 {0}us+rrkjzx.jneuii 教师
 {0}us+uudzx.jnecdo 教材
@@ -3554,6 +3558,7 @@
 {1}md+bfjxt.qpehre 切换
 {0}md+qt+pcfifri.iuilueyeu 初鹿野
 {0}md+pcfifv.ffiyeu 分野
+{0}md+yr.iuirie 初日
 {0}md+yi+ohsxvdr.ffijpouue 分節数
 {0}md+ykpcv.ffille 分量
 {0}md+yfyv.ffijmi 分間
@@ -3673,6 +3678,7 @@
 {0}mk+ejrfo.dhiqmo 当前
 {0}mk+ejurk.jqucde 韭菜
 {0}mk+dcdgljv.veexmi 顎先
+{0}mk+kxo.dhitmi 当天
 {0}mk+kt+kl+yuiwwj.yuuciutsouio 与此同时
 {0}mk+kolw.yuufzu 与否
 {0}mk+klfhkb.scumau 扫码
@@ -3784,6 +3790,7 @@
 {0}zx+prdyoom.kcuyai 烤鴨
 {0}zx+nk.tlgombpr.kcummebci 烤麺包
 {0}zx+zxyey.oueoeu 著者
+{0}zx+zrrfcfi.oiouie 執事
 {0}zx+zjhioem.lwisou 勒索
 {0}zx+wlocy.duudmu 堵点
 {0}zx+wedgzf.gvudce 軌道
@@ -4122,6 +4129,7 @@
 {0}vc+ctue.jiidie 基地
 {0}vc+cz+kfcen.jiioyuxko 基準型
 {0}vc+ve.jiijbi 基金
+{0}vc+wloe.jiidmu 基点
 {0}vc+wljcle.jiidne 基調
 {0}vc+swsxcrv.heembu 赫敏
 {0}vc+idtke.jiidiu 基底
@@ -5108,6 +5116,7 @@
 {0}oa+odk.bueucu 不少
 {0}oa+okgk.buegli 不光
 {0}oa+ok.mpehou 灭火
+{0}oa+ojxok.buerjo 不燃
 {0}oa+sykk.buedje 不但
 {0}oa+sy+kokdki.buedeobue 不得不
 {0}oa+sy+jr+sxlkdkikr.buedeovrooii 不得而知
@@ -5245,6 +5254,7 @@
 {0}sx+dlkrjm.yiiuii 医師
 {0}sx+dfkrix.jiofgi 疾風
 {0}sx+frzkgm.yiiyre 医院
+{0}sx+frwdmk.gsifho 攻防
 {0}sx+fd+hi+cx+fretskcfnuidm.gsiqnejiidsedve 攻殻機動隊
 {0}sx+fk+fz+kjpxdriw.jiofgixyelwo 疾風迅雷
 {0}sx+jf+frzkgmou.yiixtoyre 医学院
@@ -5382,6 +5392,7 @@
 {0}sc+exrub.tvijme 推荐
 {0}sc+emzu.ivorsi 椎茸
 {0}sc+ezjrjbm.xpodde 携帯
+{0}sc+evjdui.ddeqii 待期
 {0}sc+eiqob.tvijme 推薦
 {0}sc+iq+rkixbeo.tvijmeole 推薦状
 {0}sc+ihsn.njorfe 难认
@@ -7473,6 +7484,7 @@
 {0}dm+wioi.igouuo 成熟
 {0}dm+okgnx.jiigli 激光
 {0}dm+sxg.fjerfo 犯人
+{0}dm+stdru.fuihxe 孵化
 {0}dm+si.igorfo 成人
 {0}dm+skrxw.fhibme 方便
 {0}dm+sfysi.igoxle 成像
@@ -7512,6 +7524,7 @@
 {0}dz+lkmkcnl.hooyte 活躍
 {0}dz+lkdxnl.hooyte 活跃
 {0}dz+ebjgnl.hoooea 活着
+{0}dz+evjnl.hooqii 活期
 {0}dz+itkuu.ouiuie 株式
 {0}dz+ih+nihnnlnn.hoopoipoi 活泼泼
 {0}dz+imw.qmihue 迁户
@@ -9303,6 +9316,7 @@
 {0}jg+djrfd.zieoie 自制
 {0}jg+khfku.xlihue 相互
 {0}jg+km+md+lzumikr.xliyuuiuiyee 相羽初叶
+{0}jg+kotd.zieyre 自愿
 {0}jg+klked.zieyjo 自研
 {0}jg+kekjvy.mcetzo 冒頭
 {0}jg+kk.wlkkldwl.zieyjoyuu 自言語
