@@ -250,6 +250,7 @@
 {0}bj+zkkgdg.kjewjo 看完
 {0}bj+wuidg.kjegoe 看过
 {0}bj+oa+tedcdgk.kjebuedsu 看不懂
+{0}bj+oa+ga+uedgkg.kjebueiuildo 看不出来
 {0}bj+oa+csmgdgk.kjebueqiu 看不起
 {0}bj+sl+uedgcg.kjeqiuldo 看起来
 {0}bj+dbtddeg.oeawue 着物
@@ -406,6 +407,7 @@
 {0}pc+ndfnc.mdomwo 埋没
 {0}pc+xfidez.gciwjo 睾丸
 {0}pc+wsc.mdoyui 埋込
+{0}pc+wlkkls.liuyuu 俚語
 {0}pc+ouk.liomiu 厘米
 {0}pc+kpjkldez.gcitso 睾酮
 {0}pc+fi+wv+ggdezxbj.gciwjoodiiui 睾丸摘出
@@ -728,7 +730,6 @@
 {0}ya+tk+cj+weykisgg.bduuiegriybi 百式観音
 {0}ya+rr,homgdkk.bdoyaejie 白亜紀
 {0}ya+rfjsd.bdofwe 白费
-{-}ya+ra+eprfd.bdoosimge 白中夢
 {0}ya+uk.riebfu 日本
 {0}ya+hodhtd.bdooiu 白紙
 {0}ya+heku.riemwo 日媒
@@ -1631,6 +1632,7 @@
 {0}ta+srimz.taimfa 它们
 {0}ta+sm+uetcg.biuqiuldo 比起来
 {0}ta+sly.xbioie 心智
+{0}ta+siftp.siinme 思念
 {0}ta+skls.hxeheo 化合
 {0}ta+skfft.biulie 比例
 {0}ta+ly+cp+wlskjskc.xbioieliulye 心智理論
@@ -1641,6 +1643,7 @@
 {0}ta+eyxmi.ykimue 応募
 {0}ta+ei+na+xlujmz.xbizheoiijxe 心臓支架
 {0}ta+ei+klnjm.xbizhebge 心臓泵
+{0}ta+if+sukpst.siinmetiu 思念体
 {0}ta+dqds.hxeufi 化身
 {0}ta+dytiz.taidea 它的
 {0}ta+dzpct.biuose 比重
@@ -2035,6 +2038,7 @@
 {0}rj+duifmt.ybusii 隠私
 {0}rj+dduiyx.ykeuee 映射
 {0}rj+kp+ul+hs+ykpcdgvycdox.oielleheouuelle 質量和数量
+{0}rj+kxkw.yuutmi 雨天
 {0}rj+kgpyx.ykehxe 映画
 {0}rj+klykifk.zuuvde 阻碍
 {0}rj+fm+ij+dzllwcdre.uieihujmigru 市场监管
@@ -2212,6 +2216,7 @@
 {0}uzn 枝
 {0}uz+rkixolj.huoole 糊状
 {0}uz+uy.fowlobd.mouxlijki 抹香鯨
+{0}uz+eveudks.jxeyee 稼業
 {0}uz+esub.mouiao 抹茶
 {0}uz+edufe.moelie 茉莉
 {0}uz+fuoko.zsezia 粽子
@@ -2606,6 +2611,7 @@
 {0}gt,sfysu.xluxle 想像
 {0}gt,kcrfu.xludce 想到
 {0}gt,fy+wkuss.xluxleuhe 想像上
+{0}gt,fud.xiizia 息子
 {0}gt,fwxu.xlumdu 想买
 {0}gr+xgsrrxie.gjigae 尴尬
 {0}gr+ud+wljlsfwkr.ilexbigci 创新高
@@ -2723,6 +2729,7 @@
 {0}ga+is+kr+zvixyhi.baiyiuisitui 巴以冲突
 {0}ga+dbkg.iuiugi 出生
 {0}ga+db,xt+fumgs.ujiwwuyzizia 山尾悠子
+{0}ga+dqdg.iuiufi 出身
 {0}ga+dytij.muedea 目的
 {0}ga+ds+jx+kk.skkiydndwi.bailiovceyyehve 巴黎奥运会
 {0}ga+ddsny.bailio 巴黎
@@ -3245,6 +3252,7 @@
 {0}cd+weedg.xmijbe 先进
 {0}cd+wkwsf.pkokau 凭卡
 {0}cd+szlxdg.xmizoe 先做
+{0}cd+eekhfzyo.heepko 鶴瓶
 {0}cd+dbkdg.xmiugi 先生
 {0}cd+dskkfdg.xmixko 先行
 {0}cd+kw+zn+vibsfwm.pkokauquuqmo 凭卡取銭
@@ -6113,6 +6121,7 @@
 {0}lk+uw+izpzwkloz.yuulnekue 語料庫
 {0}lk+hkjpuwkl.yuuhve 語彙
 {0}lk+mdbgwkl.yuuwwu 語尾
+{0}lk+mdkrdrj.uiijle 師匠
 {0}lk+zxyi.hoeoeu 或者
 {0}lk+zrrfdrj.uiiuie 師事
 {0}lk+zvxfke.yjojqi 研究
@@ -6510,6 +6519,7 @@
 {0}ev+oa+zt+nrpbng.gsuhoujniyzo 拱火浇油
 {0}ev+siyhyn.bceuio 暴食
 {0}ev+lktlgzs.sdepcu 赛跑
+{0}ev+ebjgy.xmuoea 显着
 {0}ev+ecdbip.yieyie 異義
 {0}ev+ea+psrrpt.yieuiejpe 異世界
 {0}ev+ir+va+jr+km+uhiiknrkkifg.yaeozijbirsowwijii 亚洲金融危機
@@ -7092,6 +7102,7 @@
 {0}if+lf+ncisvvs.tjiyuefau 貪欲法
 {0}if+ecdbifi.doiyie 多義
 {0}if+evjs.jbiqii 今期
+{0}if+ixsl.hjoyie 含义
 {0}if+dbks.jbiugi 今生
 {0}if+dn+jp+evdkrfinlk.doiloelwosii 多洛雷斯
 {0}if+durfi.doiosu 多种
@@ -7485,6 +7496,7 @@
 {0}dmx 笋
 {0}dm+bkhionx.jiisue 激素
 {0}dm+pui.igogou 成果
+{0}dm+nuii.igodve 成对
 {0}dm+nciw.fhifau 方法
 {0}dm+nskfi.igoyuo 成渝
 {0}dm+nk.tlgwbpr.fhimmebci 方麺包
@@ -7752,6 +7764,7 @@
 {0}da+bs.rueuzu 入手
 {0}da+bdupw.gluboi 广播
 {0}da+ba+evjos.ucunmoqii 少年期
+{0}da+ph+tdbktk.bieycexke 必要性
 {0}da+pi+kt+ka+kpwluikvnwsck.wuesriciovreiyo 戊酸雌二醇
 {0}da+yfs.ruemfo 入門
 {0}da+xuw.gludsi 广东
@@ -9361,6 +9374,7 @@
 {0}jh.hm.pcziofk.soumauliu 索马里
 {0}jh.evd.nsoyee 农业
 {0}jh.frzio.souybu 索引
+{0}jc+yg+vm+nzkvffbd.jnuseebjeyju 角色扮演
 {0}jc+yg+ld+wlzffwfn.jnuseeueejie 角色設計
 {0}jc+yg+ld+lz+dlkrjffwfnw.jnuseeueejieuii 角色設計師
 {0}jc+yg+ld+kedddffwfn.jnuseeueexko 角色設形
