@@ -1738,6 +1738,7 @@
 {0}rr,wlesns.jpehue 介護
 {0}rr,wdcgdj.udixru 筛选
 {0}rr,sdbzf.uiejme 事件
+{0}rr,skk.yaerfo 亜人
 {0}rr,skffzf.uielie 事例
 {0}rr,sfobj.bhiniu 帮你
 {0}rr,ebkrs.uyeiae 顺差
@@ -3419,6 +3420,7 @@
 {0}mr+dclbn.bcegce 报告
 {0}mr+dzlllf.bpogru 别管
 {0}mr+dsewsjn.fuocso 服従
+{0}mr+dsdfnjn.fuoyie 服役
 {0}mr+ds+ls+frwezjnfxmzx.fuowuegueohe 服務故障
 {0}mr+ds+llixljnfxm.fuowueqie 服務器
 {0}mr+dd,llixljnfnm.fuowueqie 服務器
@@ -3982,6 +3984,7 @@
 {0}zi+dshino.ojehze 戦後
 {0}zi+kxmo.ojegsi 戦功
 {0}zi+fmuo.ojeogi 戦争
+{0}zi+fk+xmoyei.ojedzelie 戦闘力
 {0}zd+nkwns.gjejli 赣江
 {0}zd+zkfp.wuonko 毋宁
 {0}zd+ebkdfn.dreiae 段差
@@ -4034,6 +4037,7 @@
 {0}zj+wfijpgv.gretsi 貫通
 {0}zj+sy+ka+dbjgskdki.oiodeoyiikje 值得一看
 {0}zj+stjserj.ddehoe 带货
+{0}zj+siyhz.icouio 朝食
 {0}zj+sduk.oiorue 植入
 {0}zj+dbtdduk.oiowue 植物
 {0}zj+dbkuk.oiougi 植生
@@ -4113,6 +4117,7 @@
 {0}vy+wimje.puubme 普遍
 {0}vy+wfije.puutsi 普通
 {0}vy+dn+wiszef.puujiolve 普及率
+{0}vy+fi+wldzlewj.puutsihxe 普通話
 {0}vy+fdne.puujio 普及
 {0}vn+bfjxw.bmehre 变换
 {0}vn+yg+ixtwf.bmeseelso 变色龙
@@ -5188,6 +5193,7 @@
 {0}oa+ka+uebk.bueyiiyhe 不一样
 {0}oa+fygx.hvisee 灰色
 {0}oa+ft,oa+cezkkk.buesiubuexke 不死不幸
+{0}oa+ft,dqdkk.buesiuufi 不死身
 {0}oa+fwxk.buemdu 不买
 {0}oa+fs+ririil.houiviiso 火吹蟲
 {0}oa+fl+wvdnkk.buekeubme 不可変
@@ -8683,6 +8689,7 @@
 {0}ka+wmdw.uhebmi 上辺
 {0}ka+wlo.yiidmu 一点
 {0}ka+wlfr.yiibue 一部
+{0}ka+weyt.yiiyie 一意
 {0}ka+weyu.bfuybi 本音
 {0}ka+we+hf+bfjxwskk.uhewwehuehre 上位互換
 {0}ka+wizvw.uheuue 上述
