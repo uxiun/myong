@@ -1003,6 +1003,7 @@
 {0}xx,cp+stwmkc.xneliuhxe 効理化
 {0}xx,cp+itkwmkc.xneliuuie 効理式
 {0}xx,mzexj.whulmo 网联
+{0}xx,wlskjj.whulye 网論
 {0}xx,wewlj.whuoje 网站
 {0}xx,wiszwm.xnelve 効率
 {0}xx,wkj.whuuhe 网上
@@ -1295,6 +1296,7 @@
 {0}xa+tdbkk.tmixke 天性
 {0}xa+tf,evjesxb.grijmeqii 关键期
 {0}xa+tf,ihmklesxb.grijmecio 关键词
+{0}xa+tf,kd+sf+nciesxblnldsk.grijmeluejkefau 关键路径法
 {0}xa+ta+rk+wddbkwswv.wfohxeyioiju 文化遺産
 {0}xa+rb,wrjkn.tmijbiuie 天津市
 {0}xa+rrkj.daeuii 大师
@@ -1433,6 +1435,7 @@
 {0}ty+sifib.oiulke 指令
 {0}ty+lguib.oiudcu 指导
 {0}ty+ebjgb.oiuoea 指着
+{0}ty+djlb.oiuxle 指向
 {0}ty+frb.oiuybu 指引
 {0}tx+ittbs.niutde 擬態
 {0}tt 比
@@ -2118,6 +2121,7 @@
 {0}ub+xmokj.jkilie 精力
 {0}ub+ufnkdkv.jiijio 積極
 {0}ub+hopokj.jkixie 精細
+{0}ub+zizpzdkv.jiizde 積載
 {0}ub+vmddkv.jiiffi 積分
 {0}ub+wfijokj.jkitsi 精通
 {0}ub+or+cj+yt+ojfuokjiprkggfs.jkiufoxmexlexto 精神現象学
@@ -2337,6 +2341,7 @@
 {0}ui+ihdzln.dvehxe 对话
 {0}ui+iokn.dveyki 对应
 {0}ui+ienw.goedue 过度
+{0}ui+ifify.uioxue 时序
 {0}ui+dtrfw.goeuge 过剩
 {0}ui+duldcw.goeigo 过程
 {0}ui+dzdfny.uiodre 时段
@@ -2344,6 +2349,7 @@
 {0}ui+kun.dveyuo 对于
 {0}ui+kw+fe+vc+uk+kpvmdnesbee.dvehueyhujiibfuffi 对芐氧基苯酚
 {0}ui+fytsn.dvexle 对象
+{0}ui+fi+ha+brkwyifz.uioxuevjipdo 时序安排
 {0}ui+jl+ud+uw+bznyowkrdz.uiouhexbikeijie 时尚新科技
 {0}udn 板
 {0}udf+i 楓
@@ -3115,6 +3121,7 @@
 {0}cu+wloyi.uiodmu 時点
 {0}cu+weys.jioybi 集音
 {0}cu+wdumyi.uiotze 時透
+{0}cu+oc+cu+yfybihjgyi.iioxueuiojmi 持続時間
 {0}cu+okgyi.uiogli 時光
 {0}cu+ojlyi.uiouhe 時尚
 {0}cu+suks.jiotiu 集体
@@ -3164,6 +3171,7 @@
 {0}cw+sedjrdh.olibwe 装備
 {0}cw+ebsiikxc.bjilko 斑羚
 {0}cw+dqdrdh.oliufi 装身
+{0}cw+dujgrdh.olixli 装箱
 {0}cw+kgprdh.olihxe 装画
 {0}cw+kcdyktg.huupoe 琥珀
 {0}cw+fhmkkxc.bjimau 斑马
@@ -3414,6 +3422,7 @@
 {0}mr+wloe.jpodmu 节点
 {0}mr+odjge.jpougu 节省
 {0}mr+slf.bporfo 別人
+{0}mr+sisrjjn.fuouie 服飾
 {0}mr+skfe.jpoqie 节气
 {0}mr+ihvlglf.bpouoi 别说
 {0}mr+dnxmjn.fuowue 服务
@@ -3624,6 +3633,7 @@
 {0}md+vj+szjhre.iuiqiioio 初期値
 {0}md+wprjdkr.souyue 所遇
 {0}md+wgxjv.ffilio 分离
+{0}md+wmkdkr.souyuu 所与
 {0}md+wlpjdkr.souwwe 所謂
 {0}md+wlmklv.fficio 分詞
 {0}md+wlfuv.ffixlu 分享
@@ -6329,6 +6339,7 @@
 {0}la+iokp.hvoyki 回应
 {0}la+ilt.kzugju 口感
 {0}la+dtyk.uiosyu 石筍
+{0}la+dmdkri.tdosou 台所
 {0}la+dssynp.hvofue 回復
 {0}la+dsklp.hvodao 回答
 {0}la+dep.hvougi 回升
@@ -6765,6 +6776,7 @@
 {0}iy+wlevysh.uiopuu 食譜
 {0}iy+sa+ivdgish.uiorfomoo 食人魔
 {0}iy+lllsh.uiopbu 食品
+{0}iy+llixlsh.uioqie 食器
 {0}iy+lk+zs,da+ncislcjvzkfs.chixpouuiruefau 倉頡輸入法
 {0}iy+lk+klmboslcjv.chixpomau 倉頡碼
 {0}iy+ihevysh.uiopuu 食谱
@@ -8245,6 +8257,7 @@
 {0}ks+isuikx.ogefuu 政府
 {0}ks+il+dytikxn.ogeoiedea 政治的
 {0}ks+id+izpziiiem.lguzhikue 冷蔵庫
+{0}ks+ikupiii.lgudse 冷凍
 {0}ks+dnpic.oyubwe 准备
 {0}ks+dujkx.ogecee 政策
 {0}ks+djeiii.lguxte 冷血
