@@ -126,6 +126,7 @@
 {0}bs,du+ewxbeef.fuolielmo 芙莉莲
 {0}bs,dlkrjdx.mueuii 牧師
 {0}bs,da+ncixkfs.uuiruefau 输入法
+{0}bs,kcircxt.lyobji 轮班
 {0}bs,jvsxd.uiibde 失敗
 {0}bs,jilxt.lyotdi 轮胎
 {0}be,bd,zxydcidbk.xiiugioeu 犠牲者
@@ -266,6 +267,7 @@
 {0}ba+ncij.ysefau 用法
 {0}ba+nci.uzufau 手法
 {0}ba+rrrv.uzuuye 手順
+{0}ba+rmyx.ieijmi 车间
 {0}ba+rmys.nmojmi 年间
 {0}ba+rivs.nmojme 年鉴
 {0}ba+rjmkh.uzuohe 手帳
@@ -1567,6 +1569,7 @@
 {0}ti+dsfxfck.jyihgo 均衡
 {0}ti+kfcu.gzexko 构型
 {0}ti+fpov.dneyuo 釣魚
+{0}ti+fxrbu.gzejme 构建
 {0}tdy 怕
 {0}td+prsbs.tpujxu 铁甲
 {0}td+na+llixlnm.mienneqie 泌尿器
@@ -1964,6 +1967,7 @@
 {0}rk+kciznbw.pdoqqo 排球
 {0}rk+kedddj.yroxko 円形
 {0}rk+keflj.geokdi 隔开
+{0}rk+kdk.gsiihu 工厂
 {0}rk+kk.vwzzkjv.gsijuelme 工具鏈
 {0}rk+kk.fuwvsi.yioyyozia 遺伝子
 {0}rk+kk.jd+ofljgzng.geovjegrihou 隔岸观火
@@ -2854,6 +2858,7 @@
 {0}hs+ya+sweloxk.uuebdubwe 数百倍
 {0}hs+xfox.uuejqu 数九
 {0}hs+hojkox.uuezuu 数組
+{0}hs+cp+lz+gp+ncioxkcwk.uueliujiehxefau 数理計画法
 {0}hs+ckkiit.lyetjo 论坛
 {0}hs+mz+wlooxbl.uuejuedmu 数据点
 {0}hs+mz+scuoxbl.uuejuejio 数据集
@@ -2979,6 +2984,7 @@
 {0}hj.sljewg.mhoheo 盲盒
 {0}hj.lldfik.zuuoze 诅咒
 {0}hj.emricl.dnejpo 调节
+{0}hj.ienicl.dnedue 调度
 {0}hj.djrfwb.qmioie 牽制
 {0}ha+brkwz.vjipdo 安排
 {0}ha+brkw.nvupdo 女排
@@ -3096,6 +3102,7 @@
 {0}cu+puds.jiotro 集团
 {0}cu+yfyyi.uiojmi 時間
 {0}cu+nwigyi.uiolqo 時流
+{0}cu+rcwdhs.jiooli 集装
 {0}cu+rmudci.fgibie 封闭
 {0}cu+rs.jioosi 集中
 {0}cu+rjklpyi.uiofuo 時幅
@@ -3109,6 +3116,7 @@
 {0}cu+hi+kfrfyido.uioxielpe 時系列
 {0}cu+hkzfxbi.iioxue 持续
 {0}cu+cw+oz+hosckdnkgjhiv.boilioxmiwwo 玻璃繊維
+{0}cu+cw+ix+stsrdhsg.jiooliyzihxe 集装优化
 {0}cu+cilkyi.uioyue 時域
 {0}cu+mlebs.jioqyo 集群
 {0}cu+mkhyi.uioohu 時長
@@ -3532,6 +3540,7 @@
 {0}ms+wkwr.ujukau 闪卡
 {0}ms+odhur.ujuuoe 闪烁
 {0}ms+lp+dshinwxwu.fhekeehze 放課後
+{0}ms+ljsic.gueyro 雇员
 {0}ms+ebjgwx.fheoea 放着
 {0}ms+ek+klfswfskjv.xrotzogei 旋頭歌
 {0}ms+iy+gt,fuwxnhd.fhelhexiizia 放浪息子
@@ -3595,6 +3604,7 @@
 {0}md+bfjxt.qpehre 切換
 {1}md+bfjxt.qpehre 切换
 {0}md+qt+pcfifri.iuilueyeu 初鹿野
+{0}md+ph+cu+yfydkrkyi.souyceuiojmi 所要時間
 {0}md+pcfifv.ffiyeu 分野
 {0}md+yr.iuirie 初日
 {0}md+yi+ohsxvdr.ffijpouue 分節数
@@ -3826,6 +3836,7 @@
 {0}zn+dlzg.qiofue 岐阜
 {0}zn+djgm.quuzie 取自
 {0}zn+kkhmb.jieqnu 技巧
+{0}zn+fjmdbi.qqojpu 求解
 {0}zx+prdyoom.kcuyai 烤鴨
 {0}zx+nk.tlgombpr.kcummebci 烤麺包
 {0}zx+zxyey.oueoeu 著者
@@ -4746,6 +4757,7 @@
 {0}wa+wxrrr.buuqio 补齐
 {0}wa+wizvk.xxeuue 下述
 {0}wa+wdmk.xxefhi 下方
+{0}wa+ouwzk.xxelne 下料
 {0}wa+swek.xxewwe 下位
 {0}wa+lmkjvk.xxevee 下顎
 {0}wa+ebjgk.xxeoea 下着
@@ -6253,6 +6265,7 @@
 {0}lj+ekezws.hcohxo 豪華
 {0}lj+izvvz.huomao 胡麻
 {0}lj+is+dm+kh+je+xkwkwlxcnxbiod.gcixsojiisuexteoge 高雄激素血症
+{-}lj+ienwcl.dnedue 調度
 {0}lj+ienwl.gcidue 高度
 {0}lj+ikfswl.gcicie 高次
 {0}lj+dbsbv.syuuii 損失
@@ -6350,6 +6363,7 @@
 {0}la+kwh.ruoxxe 如下
 {0}la+ka+ud+le+wsrfcuwkrcl.jiobfuxbixiujue 吉本新喜劇
 {0}la+jbw.ojeyse 占用
+{0}la+jwyhx.yzetvu 右腿
 {0}e 是
 {0}eb 羊
 {0}eb,siyhn.yhouio 洋食
@@ -6692,6 +6706,7 @@
 {0}ek+da+itkgss.qmerueuie 嵌入式
 {0}ek+klgxoou.mwotje 煤碳
 {0}ek+kl+riecigss.qmeheoyiu 嵌合蟻
+{0}ek+fuehf.pkozia 瓶子
 {0}ek+jguk.ljomue 栏目
 {0}ek+jjjxjv.jxoguu 頬骨
 {0}ef 艺
@@ -7086,6 +7101,7 @@
 {0}if+ntunn.ysuiio 泳池
 {0}if+nss.ybuuvu 飲水
 {0}if+njvfff.yuucee 予測
+{0}if+xu+fififiwi.doidvedoi 多対多
 {0}if+xmds.faolie 乏力
 {0}if+xfi.doidae 多大
 {0}if+xa+zfustw.nmewfozie 念文字
@@ -7950,6 +7966,7 @@
 {0}ku+wyljvs.yuoyye 余韻
 {0}ku+wh+jg+hi+tdbksfiuss.yuoxmoxliuiexke 余弦相似性
 {0}ku+sre.mzugee 某个
+{0}ku+iznmi.xyoqqo 寻求
 {0}ku+dys.yuobdo 余白
 {0}ku+dure.mzuosu 某种
 {0}ku+kw+kw+kolixzsys.jtodkeuiefzu 决定是否
@@ -8371,7 +8388,8 @@
 {0}ki.dulkchmj.bmiigo 编程
 {0}ki.fpkfxg.yzoyuo 鱿鱼
 {0}ki.fiwmc.wuiwde 屋外
-{0}kd 形
+{0}kd 厂
+{1}kd 形
 {0}kdy+o 原
 {0}kd+nudndf.oueboi 筑波
 {0}kd+tpzvmy.xiogre 習慣
