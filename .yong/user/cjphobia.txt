@@ -216,8 +216,6 @@
 {0}bk+fskledbz.bdedgi 拜登
 {0}bk+jjtntj.qkovde 情愛
 {0}bfm+u 挣
-{0}bfj+x 换
-{1}bfj+x 換
 {0}bf,bs,mkkisixkf.irouuicgo 传输层
 {0}bf,bdupsi.iroboi 传播
 {0}bf,ytddxsk.qkiyie 轻易
@@ -1140,6 +1138,7 @@
 {0}xm+ihixzv.xpoyie 协议
 {0}xm+ijttk.gsingo 功能
 {0}xm+dcln.qregce 劝告
+{0}xm+dfkrip.njofgi 男風
 {0}xm+kp+rfkvplllc.kailiojle 咖喱酱
 {0}xm+kp+ouvmdlllc.kailioffu 咖喱粉
 {0}xm+kl.lkeyii 另一
@@ -1153,6 +1152,7 @@
 {0}xm+jklzv.xpotso 协同
 {0}xm+ja+xnpj.njopgoyzu 男朋友
 {0}xzx+y 奢
+{0}xv+ncixo.lnofau 療法
 {0}xw+rk+frseklm.jkuwwedve 警卫队
 {0}xw+czmrnekl.jkubce 警報
 {0}xw+mrkekl.jkuwwe 警卫
@@ -1861,6 +1861,7 @@
 {0}rs+sisrjsd.xqiuie 修飾
 {0}rs+sdbhx.uzijme 收件
 {0}rs+efskfii.ybijki 陰茎
+{0}rs+is+wlkklsdsrj.xqiuieyuu 修飾語
 {0}rs+dbuyfku.iuojio 除籍
 {0}rs+db,dujghxs.uzijmexli 收件箱
 {0}rs+dpcezfku.iuogci 除睾
@@ -1892,6 +1893,7 @@
 {0}ri+fygee.ljosee 蓝色
 {0}ri+fkwloee.ljojki 蓝鲸
 {0}ri+jbg.ljuyte 揽月
+{0}rd 闭
 {0}rd+ba+wmsevfnbo.jlebjeqio 降半旗
 {0}rd+rrrvfnb.jleuye 降順
 {0}rd+udnlfnb.jlegeo 降格
@@ -3035,6 +3037,7 @@
 {0}ha+skf.nvuqie 女气
 {0}ha+db,dm+bkhiotknx.nvuxkejiisue 女性激素
 {0}ha+dsgoxz.vjihvi 安徽
+{0}ha+dfkri.nvufgi 女風
 {0}ha+kc+tdbkzs.vjiqroxke 安全性
 {0}ha+kw+iltzzs.vjidkegju 安定感
 {0}ha+kolz.vjifzu 安否
@@ -5428,6 +5431,7 @@
 {0}sh+przjkdin.hzeoie 後置
 {0}sh+ywlodin.hzejku 後景
 {0}sh+ya+wloodin.hzerietjo 後日談
+{0}sh+rz+rs+sisrjdinpjksd.hzeoiexqiuie 後置修飾
 {0}sh+honnndin.hzeove 後綴
 {0}sh+zxydin.hzeoeu 後者
 {0}sh+wyhdin.hzetve 後退
@@ -5631,6 +5635,7 @@
 {0}si+zjezch.ytenjo 越南
 {0}si+wujggeyh.yhuqbi 養親
 {0}si+wlkkldvf.uueyuu 術語
+{0}si+wijeyh.yhuyue 養育
 {0}si+odch.yteucu 越少
 {0}si+sl+duoviv.lkoguuqqi 鈴谷秋
 {0}si+ihxnch.ytefai 越发
@@ -5773,6 +5778,7 @@
 {0}sf+dfxwx.yeefgi 夜风
 {0}sf+dfdriwx.yeefgi 夜風
 {0}sf+fhdnl.iiifje 吃饭
+{1}sj 內
 {0}sj+nkdokgv.ziiyro 資源
 {0}sj+rf,przxybdgi.gvihxeuuu 规划署
 {0}sj+ueyxbgg.gvimoo 規模
@@ -6664,8 +6670,6 @@
 {0}els+x 敬
 {0}el+zevswdg.jkesde 竞赛
 {0}el+wdcgwdg.jkexru 竞选
-{0}ee 井
-{1}ee 并
 {0}ee,bmznm.pkouee 屏摄
 {0}ee,bkfs.bkedau 併打
 {0}ee,xrfus.bkecyo 併存
@@ -6796,6 +6800,7 @@
 {0}ea+wmsxk.kdifhe 开放
 {0}ea+wlskjt.uielye 世論
 {0}ea+wlesni.bmehue 弁護
+{0}ea+wdmw.liefhi 立方
 {0}ea+or+wlskjiipr.bmeufolye 弁神論
 {0}ea+sy+fdnudki.ldodeojio 来得及
 {0}ea+stzu.ldohxo 来华
@@ -6861,6 +6866,7 @@
 {0}ix+gd+ojfusjg.fuojmexto 伏見学
 {0}ix+hhm.yzenvu 幼女
 {0}ix+hodyns.fuoxme 伏線
+{0}ix+hiyhsm.wwunlo 伪娘
 {0}ix+hiyhso.wwunlo 偽娘
 {0}ix+ctus.fuodie 伏地
 {0}ix+ce+zxysoel.wwuujeoeu 偽善者
@@ -7707,6 +7713,7 @@
 {0}de,hofdny.ugijio 昇級
 {0}de,mzxp.mcivru 猫耳
 {0}de,wscy.ugijbe 昇進
+{0}de,wdmxp.mcifhi 猫方
 {0}de,sxy.lperfo 猎人
 {0}de,sluxsn.hoebcu 獲保
 {0}de,lite 悳来(^Delite)
@@ -8034,8 +8041,6 @@
 {0}kg 配
 {0}kgk+jv 頋
 {0}kgk+js 顾
-{0}kgj 両
-{1}kgj 襾
 {0}kg+bzrsji.grijpo 冠捷
 {0}kg+bkhiok.yrosue 元素
 {0}kg+ywloo.glijku 光景
@@ -9000,8 +9005,6 @@
 {0}fo+xbskfs.niuuui 你输
 {0}fo+zkk.lpeuie 烈士
 {0}fo+dbkeu.suiugi 蘇生
-{1}fs 久
-{2}fs 飞
 {0}fs+bxkxl.ivizze 吹奏
 {0}fs+pkcii.oiigoo 之国
 {0}fs+yfyi.oiijmi 之間
@@ -9427,6 +9430,7 @@
 {0}jg+wcd.zieouu 自主
 {0}jg+wlmitd.zierfe 自認
 {0}jg+wloou.xlitjo 相談
+{0}jg+wed.zielie 自立
 {0}jg+wieud.zieqie 自棄
 {0}jg+wdkru.xlijbe 相近
 {0}jg+wa+jr+wkdkkr.ziexxevrouhe 自下而上
