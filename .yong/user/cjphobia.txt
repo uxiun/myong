@@ -94,12 +94,15 @@
 {0}bmz+n 摄
 {0}bmk+c 握
 {0}bm+hkztgp.wworce 围绕
+{0}bm+mdbgmo.mauwwu 馬尾
 {0}bm+iqtmo.maulue 馬鹿
 {0}bm+ia+ezzhmox.mautdevji 馬太鞍
+{0}bm+db,mdxnmomg.mauwwufae 馬尾髪
 {0}bm+dulvog.jrujii 卷积
 {0}bm+dsivfmo.mauuue 馬術
 {0}bzf+r 邦
 {0}bz,tdyzl.hdepae 害怕
+{0}bz,ebfczl.hdexqi 害羞
 {0}bo 素
 {0}boj+g 撹
 {0}bsk+l 捨
@@ -150,6 +153,7 @@
 {0}bk+peve.iaeyie 差異
 {0}bk+yd.ugirie 生日
 {0}bk+yjnj.qkimko 清明
+{0}bk+ya+ux+dhudt.ugiriekkelee 生日快乐
 {0}bk+nbdonj.qkijpo 清潔
 {0}bk+nnj.qkiuvu 清水
 {0}bk+nclnj.qkijpo 清洁
@@ -463,6 +467,7 @@
 {0}pz+ot+ed,nciohgkdd.djiiyoxkofau 単純形法
 {0}pz+sbs.mwunmo 毎年
 {0}pz+srs.mwugee 毎个
+{0}pz+suko.djitiu 単体
 {0}pz+sweo.djiwwe 単位
 {0}pz+ssl.geerfo 個人
 {0}pz+sa+bk+czmrnsltj.geerfoqkobce 個人情報
@@ -730,6 +735,7 @@
 {0}yj.dynne.wfiqro 温泉
 {0}yj.dulne.wfiheo 温和
 {0}yj.kktkx.yjevee 厭悪
+{0}yj.fdune.wfirzo 温柔
 {0}ya+pr+nwsxdni.bdooooyee 白濁液
 {0}ya+ycui.rieuio 日時
 {0}ya+ymkc.rieyce 日曜
@@ -814,9 +820,13 @@
 {0}nc+zbxm.jmiuio 堅実
 {0}nc+olixt.gkeuze 怪獣
 {0}nc+dbtddt.gkewue 怪物
+{0}nmx 혺
+{0}nmz 홒
+{0}nms 홈
 {0}nm+pbmeg.fjewwo 范围
 {0}nm+fs+kedddczi.ugioiixko 聲之形
 {0}nzt+g 浇
+{0}nvx 횪
 {0}nwr+d 涉
 {0}nwc 注
 {0}nwv+h 滚
@@ -856,6 +866,7 @@
 {0}nl+djgd.geezie 各自
 {0}neg+j 満
 {0}nim+x 涙
+{0}ni.ta+ouiceis.bcohxeoli 薄化粧
 {0}ni.rrkrei.bcopme 薄片
 {0}ni.ma+ouvmdeix.bcolieffu 薄力粉
 {0}ni.esuei.bcoiao 薄茶
@@ -881,6 +892,8 @@
 {0}nk.tlgbpr.mmebci 麺包
 {0}nk.lg+iwlbprt.mmebcidme 麺包店
 {0}nfu 染
+{0}njs 흠
+{0}nje 흨
 {0}njd+g 观
 {0}nj+zxymgv.xmooeu 賢者
 {0}nj+wlfrm.tyobue 臀部
@@ -1172,6 +1185,7 @@
 {0}xo+ko+vfknpk.moeuielue 黙示録
 {0}xo+kjrrj.rjovro 然而
 {0}xs 输
+{0}xsm 끥
 {0}xss 夾
 {0}xs+hklhx.jiodue 嫉妬
 {0}xs+wiszwx.xnelve 效率
@@ -1262,6 +1276,9 @@
 {0}xk+fr+dhiouwkkf.ogulpexie 整列系
 {0}xk+jwjr.odiyte 斋月
 {0}xf 九
+{0}xfu 끚
+{0}xfl 끗
+{1}xfi 끌
 {0}xfi+ 转
 {0}xfd+yo 鳩
 {0}xf+bwems.vzilai 欧拉
@@ -1764,6 +1781,7 @@
 {0}rr,wlmkls.jpecio 介詞
 {0}rr,wlesns.jpehue 介護
 {0}rr,wdcgdj.udixru 筛选
+{0}rr,oa+jklrvk.uyebuetso 順不同
 {0}rr,sdbzf.uiejme 事件
 {0}rr,skk.yaerfo 亜人
 {0}rr,skffzf.uielie 事例
@@ -2196,6 +2214,7 @@
 {0}ux+ozin.jtooje 決戦
 {0}ux+ebjgn.jtooea 決着
 {0}ux+isut.kkelee 快楽
+{0}ux+iltt.kkegju 快感
 {0}ux+dhut.kkelee 快乐
 {0}ux+kfco.lwexko 类型
 {0}ux+fc,of+oi+dulkcokhdnhmj.lwexkojiobmiigo 类型級編程
@@ -3276,7 +3295,6 @@
 {0}cl+fuu.juozia 桔子
 {0}ce+nilel.ujeoie 善治
 {0}ce+uuui.uuelbo 樹林
-{-}ce+ueejui.uuegze 樹構
 {0}ce+zxyel.ujeoeu 善者
 {0}ce+scjggwb.daogri 達観
 {0}ce+idmwb.daoigo 達成
@@ -3446,6 +3464,7 @@
 {0}my 層
 {0}my.ihteur.jmidpo 间谍
 {0}mnc 堅
+{1}mnc 쫂
 {0}mx 区
 {0}mx+ur+uz+du+tusnseef.yiildemoelieyeu 伊濑茉莉也
 {0}mx+hkfcu.uuinqu 枢纽
@@ -3733,6 +3752,9 @@
 {0}md+fjmdbv.ffijpu 分解
 {0}md+jbv.ffiyse 分用
 {0}md+ja+vlfsdkrx.souyzuyue 所有欲
+{0}mkr 쯭
+{0}mkc 쯚
+{0}mke 쯬
 {0}mk+bepb.scumno 扫描
 {0}mk+bf,kc+dywgwmrpi.yuunaegoodcu 与那国島
 {0}mk+bj+wlkkljdeg.jnioeayuu 膠着語
@@ -4545,6 +4567,7 @@
 {0}wr+ttkk.ogebiu 正比
 {0}wr+uk+oa+yjkksk.ogetiubuemko 正体不明
 {0}wr+heqvnd.ueexmo 涉嫌
+{0}wr+hfukk.ogehcu 正好
 {0}wr+zrrfnd.ueeuie 涉事
 {0}wr+zhkk.ogevji 正安
 {0}wr+zjkkkk.ogeoio 正直
@@ -4891,6 +4914,7 @@
 {0}oux+ 炔
 {0}ou+pxw.mioybi 迷因
 {0}ou+tyfxtb.lmombu 憐憫
+{0}ou+uvfduh.lzotii 楼梯
 {0}ou+cwsw.miozzu 迷走
 {0}ou+mkdyhpo.lmexio 練習
 {0}ou+zldlw.miogsi 迷宮
@@ -5332,6 +5356,7 @@
 {0}sy+xfijdh.hfutse 很痛
 {0}sy+rr,ebbpkw.tiezveyho 替罪羊
 {0}sy+ubxbdh.hfubhe 很棒
+{0}sy+uouhdg.paolzo 爬楼
 {0}sy+us+ienrnxc.fuezaodue 複雑度
 {0}sy+hs+srnox.fueuuerfo 複数人
 {0}sy+hfudh.hfuhcu 很好
@@ -5339,6 +5364,7 @@
 {0}sy+wsfxmk.ozeyee 昼夜
 {0}sy+wlodki.deodmu 得点
 {0}sy+weytdki.deoyie 得意
+{0}sy+ou+uvfddguh.paolzotii 爬楼梯
 {0}sy+ohsxrn.fueuue 複数
 {0}sy+oddh.hfuucu 很少
 {0}sy+sxldki.deooii 得知
@@ -5400,6 +5426,7 @@
 {0}st+cidmji.gzeigo 购城
 {0}st+mirbk.ziesie 恣肆
 {0}st+wlevye.hxipuu 花譜
+{0}st+weytk.zieyie 恣意
 {0}st+ope.hxitmo 花畑
 {0}st+ouvmde.hxiffu 花粉
 {0}st+oe.hxihou 花火
@@ -5408,6 +5435,7 @@
 {0}st+stize.hxiqmo 花钱
 {0}st+lkhmjs.ohehce 账号
 {0}st+eb,wm+nifneunu.hxiyheyzoysu 花样游泳
+{0}st+ey+tdbkkwt.zieyiexke 恣意性
 {0}st+ewzze.hxilmo 花蓮
 {0}st+imjs.ohehue 账户
 {0}st+dbtddji.gzewue 购物
@@ -5415,6 +5443,7 @@
 {0}st+driee.hxiljo 花篮
 {0}st+kcpcs.lyoliu 伦理
 {0}st+fxdwkbu.toiyjo 拖延
+{0}st+fwxji.gzemdu 购买
 {0}sr 个
 {0}sr+bcuisf.jmeiio 剣持
 {0}sr+pr+iidunz.xnuzeoglu 篠澤広
@@ -6450,8 +6479,6 @@
 {0}eq+xf+shvtis.xmoyiorfo 嫌疑人
 {0}eq+txfishv.xmoyio 嫌疑
 {0}eq+kkthv.xmovee 嫌悪
-{0}ep 曲
-{1}ep 苗
 {0}epr+f 夢
 {0}ep+pa+ja+nilwcy.tsotmomkooie 童田明治
 {0}ep+yk+epuiwgj.lsodjuzyi 竜胆尊
@@ -7112,6 +7139,7 @@
 {0}il+wlmsf.mkoyie 名訳
 {0}il+wlmklf.mkocio 名詞
 {0}il+la+mkicfz.mkoguuwui 名古屋
+{0}il+la+ki.momsfzmc.mkoguuwuiyie 名古屋駅
 {0}il+la+ki.vf+kfkjvfzmcz.mkoguuwuiqsodku 名古屋穹頂
 {0}il+la+ki.wrjfzmc.mkoguuwuiuie 名古屋市
 {0}il+ecdbif.mkoyie 名義
@@ -7218,6 +7246,7 @@
 {0}if+zojs.jbixni 今宵
 {0}if+zkwsff.yuudke 予定
 {0}if+vlfssv.tjiyue 貪欲
+{0}if+weytsl.hjoyie 含意
 {0}if+wdkrsr.lbojbe 邻近
 {0}if+wjcls.jbiozi 今週
 {0}if+ouwzss.ybulne 飲料
@@ -7554,6 +7583,7 @@
 {0}du+wmsxbp.boifhe 播放
 {0}du+weybp.boiybi 播音
 {0}du+wedgf.rzodce 柔道
+{0}du+wjjlwm.tzegoe 透過
 {0}du+oj+ud+uw+bznwmidgwkrdz.tzeuiexbikeijie 透视新科技
 {0}du+edufef.lielie 莉莉
 {0}du+iojdgwm.tzeuie 透视
@@ -8036,12 +8066,14 @@
 {0}kt+jwvxixs.nkojni 凝胶
 {0}kr 列
 {0}krr,k 亜
+{0}kr+bgi.isijii 冲击
 {0}kr+bzrssx.bmejpo 便捷
 {0}kr+bweci.isiole 冲撞
 {0}kr+nlks.tneuvu 跳水
 {0}kr+niyhi.isilhe 冲浪
 {0}kr+ur+iwlsxdf.bmeliedme 便利店
 {0}kr+udnlsp.siegeo 価格
+{0}kr+ga+xmib.isijiilie 冲击力
 {0}kr+zvixi.isitui 冲突
 {0}kr+zevcux.ggusdi 梗塞
 {0}kr+zjksx.bmeyio 便宜
@@ -8806,12 +8838,14 @@
 {0}ka+hofdnw.uhejio 上級
 {0}ka+hofdn.yiijio 一級
 {0}ka+cux.yiikke 一块
+{0}ka+cofs.yiikru 一款
 {0}ka+csmg.yiiqiu 一起
 {0}ka+cslg.yiiqiu 一起
 {0}ka+cdgi.yiikke 一塊
 {0}ka+mijgg.yiilju 一覧
 {0}ka+mdbg.yiiwwu 一尾
 {0}ka+mkicu.bfuwui 本屋
+{0}ka+zkms.yiijxi 一家
 {0}ka+zkws.yiidke 一定
 {0}ka+zk+kk.zzkkikzkik.vreorusjioru 二転三転
 {0}ka+zfu.yiizie 一字
@@ -8863,6 +8897,7 @@
 {0}ka+ebjgw.uheoea 上着
 {0}ka+iifr.yiilho 一郎
 {0}ka+ijttu.bfungo 本能
+{0}ka+ij+bkhmgg.yiiljubnu 一覧表
 {0}ka+ij+tdbkmgg.yiiljuxke 一覧性
 {0}ka+dqdu.bfuufi 本身
 {0}ka+dqdw.uheufi 上身
@@ -8995,6 +9030,7 @@
 {0}fu+tlz.ziejue 字句
 {0}fu+ueh.hculdo 好来
 {0}fu+honcyd.biejki 閉経
+{0}fu+hfuh.hcuhcu 好好
 {0}fu+zevcyd.biesdi 閉塞
 {0}fu+ohsxz.zieuue 字数
 {0}fu+oa+hfuhk.hcubuehcu 好不好
@@ -9715,8 +9751,6 @@
 {0}jix 욲
 {0}jic 욶
 {0}ji+ejvzx.xmedmu 献典
-{0}jdf 肌
-{1}jdf 冗
 {0}jd+poixng.ifomoe 沉默
 {0}jd+ncing.grifau 观法
 {0}jd+nmknng.ifojbe 沉浸
