@@ -220,6 +220,7 @@
 {0}bk+fskledbz.bdedgi 拜登
 {0}bk+jjtntj.qkovde 情愛
 {0}bfm+u 挣
+{0}bfj+x 換
 {0}bf,bs,mkkisixkf.irouuicgo 传输层
 {0}bf,bdupsi.iroboi 传播
 {0}bf,ytddxsk.qkiyie 轻易
@@ -2007,6 +2008,7 @@
 {0}rk+duldck.gsiigo 工程
 {0}rk+dulkck.gsiigo 工程
 {0}rk+dm+evjbwdri.pdolruqii 排卵期
+{0}rk+dskkfwd.buexko 歩行
 {0}rk+deobbs.tnixbe 挑衅
 {0}rk+ddmribw.pdolru 排卵
 {0}rk+dkwbw.pdoiie 排斥
@@ -2456,6 +2458,7 @@
 {0}ud+ouwzu.cdolne 材料
 {0}ud+os+sukrnmks.bweyjetiu 被験体
 {0}ud+okvwkr.xbixki 新兴
+{0}ud+ojxmxn.piolco 疲労
 {0}ud+sbwkr.xbinmo 新年
 {0}ud+sp+wlidmwkrnw.xbihduigo 新海誠
 {0}ud+sukp.trotiu 团体
@@ -3025,8 +3028,8 @@
 {0}hk+kk.ojfuiklwl.yuuyjoxto 语言学
 {0}hk+kj+fs+lkdnlhhcli.siiizooiilue 丝绸之路
 {0}hk+jstiif.dkegze 订购
-{0}hf+bfjxkk.huehre 互换
-{1}hf+bfjxkk.huehre 互換
+{0}hf+bfjxkk.huehre 互換
+{1}hf+bfjxkk.huehre 互换
 {0}hf+rrkrki.waupme 瓦片
 {0}hf+rizjkk.huebuu 互補
 {0}hf+ur+va+wfjskkdfe.hueliegseyko 互利共赢
@@ -3037,6 +3040,7 @@
 {0}hf+wfijkk.huetsi 互通
 {0}hf+lkhmiz.xyehce 讯号
 {0}hf+durfkk.huelie 互利
+{0}hf+fj+tdbkkkbx.huehrexke 互換性
 {0}hj.pdnwicl.dnetuo 调图
 {0}hj.ujkicl.dneoai 调査
 {0}hj.sljewg.mhoheo 盲盒
@@ -3726,6 +3730,7 @@
 {0}md+eyxmbl.ocimue 招募
 {0}md+ey+ua+uerwz.iuiybiwweldo 初音未来
 {0}md+emrv.ffijpo 分节
+{0}md+eveuv.ffiyee 分業
 {0}md+evjr.iuiqii 初期
 {0}md+eidmdkr.souzhi 所蔵
 {0}md+ejsxv.ffisje 分散
@@ -4560,7 +4565,8 @@
 {0}wt+lersr.bwitje 悲嘆
 {0}wr 部
 {0}wrr,f 剤
-{0}wrk+d 步
+{0}wrk+d 歩
+{1}wrk+d 步
 {0}wr+bsjggkk.ogegvi 正規
 {0}wr+pdnwsk.qiutuo 企图
 {0}wr+xrckk.ogezde 正在
@@ -4676,6 +4682,7 @@
 {0}ws,ta+skfnxs.yeehxeqie 液化气
 {0}ws,rkixnx.yeeole 液状
 {0}ws,ujkc.zzuoai 走査
+{0}ws,zr+fk+fskxtsxbsye.mbujpokdifai 敏捷開発
 {0}ws,suknx.yeetiu 液体
 {0}ws,iltsx.mbugju 敏感
 {0}ws,iiirc.zzulho 走廊
@@ -4875,7 +4882,7 @@
 {0}on+dcxmmri.scidse 騒動
 {0}on+kuukhc.jkilie 経歴
 {0}on+kcpchc.jkiliu 経理
-{1}ox 数
+{0}ox 数
 {0}oxr+j 幣
 {0}ox+prhochkl.qiuloo 綺羅
 {0}ox+rh+prhochklpoc.qiulooloo 綺羅羅
@@ -5493,6 +5500,7 @@
 {0}sh+rgj.ykivro 婴儿
 {0}sh+rz+rs+sisrjdinpjksd.hzeoiexqiuie 後置修飾
 {0}sh+honnndin.hzeove 後綴
+{0}sh+hocjgdin.hzexue 後続
 {0}sh+zxydin.hzeoeu 後者
 {0}sh+wyhdin.hzetve 後退
 {0}sh+wdmdin.hzefhi 後方
@@ -5678,6 +5686,7 @@
 {0}sl+fscg.qiufwi 起飞
 {0}sev+s 僕
 {0}se+bt,wlkklboddd.fuuwueyuu 撫物語
+{0}se+uedws.csoldo 従来
 {0}se+mdrjdws.csouuu 従属
 {0}se+ve+ljgvdwseu.csoyeeyro 従業員
 {0}se+eveudws.csoyee 従業
@@ -6872,6 +6881,7 @@
 {0}ea+sukw.lietiu 立体
 {0}ea+skkik.kdihve 开会
 {0}ea+sf+xbkwx.kdiyeeiei 开夜车
+{0}ea+lmrfi.bmebpo 弁別
 {0}ea+lwsw.liezuo 立足
 {0}ea+eyxjk.kdimue 开幕
 {0}ea+exk.kdigri 开关
@@ -7154,7 +7164,6 @@
 {0}il+fkknf.mkolue 名录
 {0}il+jr+vk+yfyfefz.mkoqmoksijmi 名前空間
 {0}il+jdbkf.mkouge 名胜
-{0}ie 戒
 {0}ie+bomkwo.oeidhu 遮挡
 {0}ie+usxcwu.qieqro 棄権
 {0}ie+cl+wljjwokmn.oeixxogci 遮瑕膏
@@ -7310,6 +7319,7 @@
 {0}ia+ncis.foofau 仏法
 {0}ia+ndfii.glufje 広汎
 {0}ia+xbbfiv.gsioru 公转
+{0}ia+xbv.gsiiei 公车
 {0}ia+xa+rcyvw.gsiwfouui 公文書
 {0}ia+tec.queuie 去世
 {0}ia+ry+mkpevxfkd.tdeyhoyie 太陽翼
