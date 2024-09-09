@@ -642,7 +642,9 @@
 {0}yo+nrrfz.ouufwe 煮沸
 {0}yo+idmz.ouuigo 煮成
 {0}yo+jkmsz.ouutyo 煮豚
+{0}ye+xrjnn.puebue 瀑布
 {0}ye+xvdfnon.bceuai 爆殺
+{0}ye+rj+tk+fk+fskxtnnxiye.puebueuiekdifai 瀑布式開発
 {0}ye+cofson.bcekru 爆款
 {0}ye+okgyn.puegli 曝光
 {0}ye+ihxnon.bcefai 爆发
@@ -801,6 +803,7 @@
 {0}ya+jm.ygdkk.bdoxtubai 白雪巴
 {0}ya+je+kcizndd.bdoxteqqo 白血球
 {0}nyt+t 混
+{0}nn 汉
 {0}nn.fulu.shuzia 嗓子
 {0}nxi 汰
 {0}nx+xmhm.nuulie 努力
@@ -2326,6 +2329,7 @@
 {0}us+uudzx.jnecdo 教材
 {0}us+uw+rcyzxdz.jnekeiuui 教科書
 {0}us+uw+wxzxdz.jnekeiwfo 教科文
+{0}us+houpozx.jnelme 教練
 {0}us+wguizx.jnedcu 教導
 {0}us+wlrrrzx.jnexye 教訓
 {0}us+wlctxc.zaooie 雑誌
@@ -2394,6 +2398,7 @@
 {0}ui+sifiy.uiolke 时令
 {0}ui+sju.cyinwe 村内
 {0}ui+lhtu.cyimbo 村民
+{0}ui+ljgvp.troyro 団員
 {0}ui+ebjgw.goeoea 过着
 {0}ui+ezjrjs.fuedde 付帯
 {0}ui+evjw.goeqii 过期
@@ -3882,6 +3887,7 @@
 {0}zp+iz+rwzzpz.lmozdeosi 連載中
 {0}zp+iojggdc.oseuie 重視
 {0}zp+iendc.osedue 重度
+{0}zp+dbkdc.oseugi 重生
 {0}zp+dcxmwz.lmodse 連動
 {0}zp+kphdc.oseyce 重要
 {0}zp+kyfudc.osehze 重厚
@@ -3941,6 +3947,7 @@
 {0}zr+hsx.uiunvu 使女
 {0}zr+wjscdt.gkilio 乖離
 {0}zr+ssx.uiurfo 使人
+{0}zr+sklrsx.uiumke 使命
 {0}zr+jbmpm.pbeyse 聘用
 {0}zr+jbsx.uiuyse 使用
 {0}zu 未
@@ -4565,8 +4572,6 @@
 {0}wt+lersr.bwitje 悲嘆
 {0}wr 部
 {0}wrr,f 剤
-{0}wrk+d 歩
-{1}wrk+d 步
 {0}wr+bsjggkk.ogegvi 正規
 {0}wr+pdnwsk.qiutuo 企图
 {0}wr+xrckk.ogezde 正在
@@ -5375,6 +5380,7 @@
 {0}sy+ohsxrn.fueuue 複数
 {0}sy+oddh.hfuucu 很少
 {0}sy+sxldki.deooii 得知
+{0}sy+strn.fuehxe 複化
 {0}sy+sitb.tiedde 替代
 {0}sy+sdtkdh.hfudii 很低
 {0}sy+sklrn.fueheo 複合
@@ -6606,6 +6612,7 @@
 {0}eu+sw.qbirfo 亲人
 {0}eu+djgw.qbizie 亲自
 {0}eg+bwehw.niejpi 逆接
+{0}eg+ycuiwj.sueuio 遡時
 {0}eg+yk+ka+kcsxnjcd.mjuihuyiioie 満場一致
 {0}eg+xbbfiw.nieoru 逆转
 {0}eg+rrrvw.nieuye 逆順
@@ -6681,6 +6688,7 @@
 {0}ev+dg+vfrdpl.yiexsidie 異兄弟
 {0}ev+dzpckd.yjoose 严重
 {0}ev+dwfxczs.sdetku 赛艇
+{0}ev+dskkfe.bkexko 並行
 {0}ev+kedddp.yiexko 異形
 {0}ev+kkmkd.yjolie 严厉
 {0}ev+kkoy.xmuuie 显示
@@ -7064,6 +7072,7 @@
 {0}iw+xmkif.wdetce 外套
 {0}iw+tsf.wdeohu 外长
 {0}iw+tlgf.wdebci 外包
+{0}iw+umkcf.wdekli 外框
 {0}iw+uef.wdeldo 外来
 {0}iw+ggf.wdeiui 外出
 {0}iw+cmggf.wdekui 外堀
@@ -7148,6 +7157,7 @@
 {0}il+vfknf.mkolue 名録
 {0}il+wlmsf.mkoyie 名訳
 {0}il+wlmklf.mkocio 名詞
+{0}il+wegkjh.uiudri 始端
 {0}il+la+mkicfz.mkoguuwui 名古屋
 {0}il+la+ki.momsfzmc.mkoguuwuiyie 名古屋駅
 {0}il+la+ki.vf+kfkjvfzmcz.mkoguuwuiqsodku 名古屋穹頂
@@ -7239,6 +7249,7 @@
 {0}if+tss.tjixbi 贪心
 {0}if+uuhss.tjiljo 贪婪
 {0}if+ugtff.yuuxlu 予想
+{0}if+uznfi.doioii 多枝
 {0}if+udfi.doicdo 多才
 {0}if+uknkfi.doijio 多極
 {0}if+hwvhsi.lkenlo 令嬢
@@ -8937,7 +8948,9 @@
 {0}ka+klzfg.yiiwju 一碗
 {0}ka+ki.xa+ojljvumc.bfuwuidaeuhu 本屋大賞
 {0}ka+kkfsw.uhecie 上次
+{0}ka+kkjvk.vrexle 二項
 {0}ka+kk.ee,bkfkks.vresjibkedau 二三併打
+{0}ka+kj+fe+sdhokkvyx.vrexlegrixie 二項関係
 {0}ka+fy+jl+ya+efsxuyd.bfujmixleriekvo 本間向日葵
 {0}ka+fryhw.uhexme 上限
 {0}ka+frtty.yiijpi 一階
@@ -9545,6 +9558,7 @@
 {0}jg+skkiu.xlihve 相会
 {0}jg+sk+xbddkf.ziexkoiei 自行车
 {0}jg+lhtd.ziembo 自民
+{0}jg+lo.dsdfnuwo.xlitjoyie 相談役
 {0}jg+epuid.ziezyi 自尊
 {0}jg+exu.xligri 相关
 {0}jg+ezjrjd.ziedde 自带
