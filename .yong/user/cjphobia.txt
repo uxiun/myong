@@ -105,7 +105,8 @@
 {0}bz,ebfczl.hdexqi 害羞
 {0}bo 素
 {0}boj+g 撹
-{0}bsk+l 捨
+{0}bsk+l 拾
+{1}bsk+l 捨
 {0}bs,nny.qmouvu 潜水
 {0}bs,na+dwfxcny.qmouvutku 潜水艇
 {0}bs,xrcny.qmozde 潜在
@@ -1332,6 +1333,7 @@
 {0}xa+tmde.griqpe 关切
 {0}xa+te.grixbi 关心
 {0}xa+tdbkk.tmixke 天性
+{0}xa+tf,ykwsesxb.grijmeuie 关键是
 {0}xa+tf,evjesxb.grijmeqii 关键期
 {0}xa+tf,ihmklesxb.grijmecio 关键词
 {0}xa+tf,kd+sf+nciesxblnldsk.grijmeluejkefau 关键路径法
@@ -1543,6 +1545,7 @@
 {0}tg,rw+tk+ka+wdhjxpyziw.xsioceuieuheyii 胸罩式上衣
 {0}tg,wlfrjx.xsibue 胸部
 {0}tg,sjsjx.xsirze 胸肉
+{0}tg,djxmjx.xsijbi 胸筋
 {0}tg,jzvkjx.xsiqli 胸腔
 {0}th+na+yyywio.ziuuvujki 紫水晶
 {0}th+ezrfwio.ziujki 紫荆
@@ -1878,6 +1881,7 @@
 {0}ro+bwehfub.lbojpi 隣接
 {0}ro+pkcifub.lbogoo 隣国
 {0}ro+sfub.lborfo 隣人
+{0}rs+bsklhx.uziuio 收拾
 {0}rs+prhocsd.xqiloo 修羅
 {0}rs+plhx.uzihvo 收回
 {0}rs+nyevfku.iuouii 除湿
@@ -1896,6 +1900,7 @@
 {0}rs+sm+uehxcg.uziqiuldo 收起来
 {0}rs+sisrjsd.xqiuie 修飾
 {0}rs+sdbhx.uzijme 收件
+{0}rs+sdhx.uzirue 收入
 {0}rs+efskfii.ybijki 陰茎
 {0}rs+is+wlkklsdsrj.xqiuieyuu 修飾語
 {0}rs+dbuyfku.iuojio 除籍
@@ -2517,6 +2522,7 @@
 {0}uk+nwsxs.tiuyee 体液
 {0}uk+nfpouko.jbeyuo 禁漁
 {0}uk+xms.tiulie 体力
+{0}uk+rkhs.tiuoli 体妆
 {0}uk+ul+iltwbd.wwoheogju 違和感
 {0}uk+udnls.tiugeo 体格
 {0}uk+moskss.tiuyje 体験
@@ -3311,6 +3317,7 @@
 {0}cl+frkljwh.yrugeo 遠隔
 {0}cl+fuu.juozia 桔子
 {0}ce+nilel.ujeoie 善治
+{0}ce+tdbkel.ujexke 善性
 {0}ce+uuui.uuelbo 樹林
 {0}ce+zxyel.ujeoeu 善者
 {0}ce+scjggwb.daogri 達観
@@ -3692,7 +3699,6 @@
 {0}md+ph+cu+yfydkrkyi.souyceuiojmi 所要時間
 {0}md+pcfifv.ffiyeu 分野
 {0}md+yr.iuirie 初日
-{-}md+yi+cu+llixlvdryi.ffijpouioqie 分節時器
 {0}md+yi+ohsxvdr.ffijpouue 分節数
 {0}md+ykpcv.ffille 分量
 {0}md+yfyv.ffijmi 分間
@@ -3858,6 +3864,7 @@
 {0}ma+sa+xkwkm.juerfooge 巨人症
 {0}ma+it+je+uf+zllkszzui.wjeddenjomgegsi 万代南梦宫
 {0}ma+ivdgim.juemoo 巨魔
+{0}ma+ienx.liedue 力度
 {0}ma+dbuyi.huejio 户籍
 {0}ma+dbuyk.huejio 戸籍
 {0}ma+kc+ij+ij+skkikpizimgg.wjegoobooljuhve 万国博覧会
@@ -3975,6 +3982,7 @@
 {0}zu+zfuzkb.hjozie 韓字
 {0}zu+wxzkb.hjowfo 韓文
 {0}zu+wlkklzkb.hjoyuu 韓語
+{0}zu+oscd.ouiqte 朱雀
 {0}zu+od+sd+brkwwrojyo.laeicujiipdo 辣炒鶏排
 {0}zu+lvpyl.wwecgi 味噌
 {0}zu+kpuul.wwelju 味醂
@@ -4109,6 +4117,7 @@
 {0}zi+kxmo.ojegsi 戦功
 {0}zi+fmuo.ojeogi 戦争
 {0}zi+fk+xmoyei.ojedzelie 戦闘力
+{0}zd+ 穿
 {0}zd+nkwns.gjejli 赣江
 {0}zd+zkfp.wuonko 毋宁
 {0}zd+ebkdfn.dreiae 段差
@@ -4393,6 +4402,7 @@
 {0}vk+udnlz.ksigeo 空格
 {0}vk+gt,kftzicd.oiexiisiu 窒息死
 {0}vk+csihzhd.iriyte 穿越
+{0}vk+zipevzhd.iridde 穿戴
 {0}vk+wtevz.ksixui 空虚
 {0}vk+si+cu+zvkzhdchyi.iriyteuioksi 穿越時空
 {0}vk+sfxz.ksiqie 空気
@@ -5049,15 +5059,18 @@
 {0}oo.dufun.djejie 淡季
 {0}oo.judddn.djecdu 淡彩
 {0}os 不是
+{0}osc 雀
 {0}os+bcuihc.wwoiio 維持
 {0}os+bk+bkhiohcd.wwougisue 維生素
 {0}os+pwxhki.hvetuo 絵図
 {0}os+nwlohj.naello 納涼
 {0}os+xa+zfuhkiw.hvewfozie 絵文字
+{0}os+ui+ix+jf+vhklsrou.gwufuejluxtojbi 給付奨学金
 {0}os+wudkrhc.wwoxbi 維新
 {0}os+wlesnhc.wwohue 維護
 {0}os+wl+mxhjno.naelloqui 納涼区
 {0}os+ouwzhkl.gwulne 給料
+{0}os+suihkl.gwufue 給付
 {0}os+suihj.naefue 納付
 {0}os+dsykihj.naedeo 納得
 {0}os+dlkrjhki.hveuii 絵師
@@ -5076,6 +5089,7 @@
 {0}oi+bdxpx.moeqie 默契
 {0}oi+bkfwxg.jqedau 就打
 {0}oi+ykwswxg.jqeuie 就是
+{0}oi+ndzlwxg.jqehoo 就活
 {0}oi+nkflmvn.jyeheo 駿河
 {0}oi+ul+kk.wlkklhmjddcwl.bmiigoyjoyuu 編程言語
 {0}oi+hs+szjkpxi.moerfeoio 默认值
@@ -5166,7 +5180,6 @@
 {0}ok+fuhjj.xuizia 繻子
 {0}ok+jbi.ykiyse 应用
 {0}ok+jd+xa+yt+dc+fdsxmicffss.ykikeodaexlerfewue 应壳大象任務
-{-}ok+jd+xa+fsrkiicfk.ykikeotmidje 应壳天蛋
 {0}ok+jd+md+cu+llixlicfvyi.ykikeoffiuioqie 应壳分時器
 {0}ok+jd+dm+sr+dc+fdsxmicfdrufkis,kieouijefeue 应壳孵蛋任務
 {0}ok+jd+kx+kd+tpzvicfemmy.ykikeoqboxiogre 应壳勤習慣
@@ -6981,6 +6994,7 @@
 {0}ix+wlosg.yzidmu 优点
 {0}ix+od+la+hrnshynp.fuoxmehvouzi 伏線回収
 {0}ix+okjstg.yzifjo 忧烦
+{0}ix+ojfur.jluxto 奨学
 {0}ix+sbhm.yzenmo 幼年
 {0}ix+stsg.yzihxe 优化
 {0}ix+szb.zderfo 载人
@@ -6997,6 +7011,7 @@
 {0}ix+kusg.yziyuo 优于
 {0}ix+kgpkm.dsehxe 动画
 {0}ix+kfotd.cjulpe 惨烈
+{0}ix+jf+vrou.jluxtojbi 奨学金
 {0}it 応
 {0}itt 態
 {0}itc 垄
@@ -7351,6 +7366,7 @@
 {0}ij+ij+skkizimgg.booljuhve 博覧会
 {0}ij+dbrjl.woinqo 蝸牛
 {0}ij+dzllre.jmigru 监管
+{0}ij+jugw.yueruu 育乳
 {0}ia+pcv.gsiliu 公里
 {0}ia+pclhv.gsiyro 公園
 {0}ia+pkkgv.gsiyro 公园
@@ -9196,6 +9212,7 @@
 {0}fl+hisk.keuyiu 可以
 {0}fl+cu+kz+hx+mehkbihfxin.keuiioxuefaioju 可持续发展
 {0}fl+mkicy.wfewui 問屋
+{0}fl+zp+yd+ba+oa+dejfkdcsnj.keuosefueysehoujme 可重复使用火箭
 {0}fl+zx+sk+xa+sdbkcfidkfw.keuoioxkowfojme 可執行文件
 {0}fl+zx+dskkfkcfi.keuoioxko 可執行
 {0}fl+vd+mkhkwn.keubmeohu 可変長
