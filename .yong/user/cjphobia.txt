@@ -105,8 +105,6 @@
 {0}bz,ebfczl.hdexqi 害羞
 {0}bo 素
 {0}boj+g 撹
-{0}bsk+l 拾
-{1}bsk+l 捨
 {0}bs,nny.qmouvu 潜水
 {0}bs,na+dwfxcny.qmouvutku 潜水艇
 {0}bs,xrcny.qmozde 潜在
@@ -501,6 +499,7 @@
 {0}pi+stkvn.srihxe 酸化
 {0}pi+fskvn.sriqme 酸欠
 {0}pdn+l 略
+{0}pd+oxkjveu.jyilwe 菌類
 {0}pd+ouxeu.jyilwe 菌类
 {0}pd+ecjeksn.fuegde 覆盖
 {0}pd+ittkgi.izutde 醜態
@@ -583,6 +582,7 @@
 {0}yt+ejoneh.geotgo 葛藤
 {0}yt+ihdzldi.deahxe 的话
 {0}yt+iz+ouwzbtzpz.jpizdelne 掲載料
+{0}yt+iltfs.xlegju 象感
 {0}yt+idmnt.hyeigo 混成
 {0}yt+dx,ka+lkhmewkurk.qteqnovrehce 鹊桥二号
 {0}yt+dsrbwik.yyelve 韵律
@@ -1072,6 +1072,7 @@
 {0}xr+wefb.jmelie 建立
 {0}xr+wdclfb.jmezce 建造
 {0}xr+wjdcxj.xiiwhe 希望
+{0}xr+skcwr.qioqro 齐全
 {0}xr+ejrffb.jmeqmo 建前
 {0}xr+ihixfb.jmeyie 建议
 {0}xr+ihdfnfb.jmeuee 建设
@@ -1743,6 +1744,7 @@
 {0}rp+sbkx.ggenmo 更年
 {0}rp+sukev.hlotiu 黄体
 {0}rp+skkii.mnehve 庙会
+{0}rp+eniikx.ggebco 更薄
 {0}rp+ejun.yzocde 油菜
 {0}rp+dbkbzw.diobde 迪拜
 {0}rp+dnun.yzotno 油条
@@ -1754,6 +1756,7 @@
 {0}rp+flrikx.ggeqlo 更强
 {0}rp+fifikx.ggedoi 更多
 {0}rp+jr+sa+cx+fueveffe.hloqmojqumwuzia 黄前久美子
+{0}ry+psrrfh.xmejpe 限界
 {0}ry+ycuiz.zjeuio 暫時
 {0}ry+zkwsz.zjedke 暫定
 {0}ry+zkwsfh.xmedke 限定
@@ -2812,6 +2815,7 @@
 {0}ga+ejvg.iuidmu 出典
 {0}ga+ihxng.iuifai 出发
 {0}ga+is+kr+zvixyhi.baiyiuisitui 巴以冲突
+{0}ga+ilg.iuitdo 出台
 {0}ga+dbkg.iuiugi 出生
 {0}ga+db,xt+fumgs.ujiwwuyzizia 山尾悠子
 {0}ga+dqdg.iuiufi 出身
@@ -3173,6 +3177,7 @@
 {0}cx+kc+ds+frzkgepifxm.mwugoowueyre 美国務院
 {0}cx+kkge.mwuyro 美元
 {0}cx+kkjije.mwulie 美丽
+{0}cx+jdfe.mwujii 美肌
 {0}cr,uekf.dceldo 到来
 {0}cr,ebjgkf.dceoea 到着
 {0}cr,evjkf.dceqii 到期
@@ -3221,6 +3226,7 @@
 {0}cu+skls.jioheo 集合
 {0}cu+skkis.jiohve 集会
 {0}cu+evjyi.uioqii 時期
+{0}cu+eskls.jioheo 集荷
 {0}cu+itkdi.dguuie 等式
 {0}cu+dbtddbi.iiowue 持物
 {0}cu+du+eo+ka+iifryiwms.uiotzewuoyiilho 時透無一郎
@@ -3530,7 +3536,9 @@
 {0}mr+dsdfnjn.fuoyie 服役
 {0}mr+ds+ls+frwezjnfxmzx.fuowuegueohe 服務故障
 {0}mr+ds+llixljnfxm.fuowueqie 服務器
+{0}mr+ddjsjn.fuomce 服贸
 {0}mr+dd,llixljnfnm.fuowueqie 服務器
+{0}mr+dj+skkijnds.fuomcehve 服贸会
 {0}mr+fillf.bpomko 別名
 {0}mr+fddnmjn.fuowue 服務
 {0}mr+jbjn.fuoyse 服用
@@ -3952,6 +3960,7 @@
 {0}zx+zjhioem.lwisou 勒索
 {0}zx+wlocy.duudmu 堵点
 {0}zx+wedgzf.gvudce 軌道
+{0}zx+oimom.kculuo 烤炉
 {0}zx+sm+usxceys.ouezoeqro 著作権
 {0}zx+ssmey.ouezoe 著作
 {0}zx+siftcfi.oionme 執念
@@ -3959,6 +3968,7 @@
 {0}zx+ebjgcfi.oiooea 執着
 {0}zx+evjyy.uuuqii 暑期
 {0}zx+drbcfi.oiobiu 執筆
+{0}zx+dujgom.kcuxli 烤箱
 {0}zx+dskkfcfi.oioxko 執行
 {0}zx+fi+lllxysf.ueiiiupbu 奢侈品
 {0}ztj+f 寧
@@ -5192,6 +5202,7 @@
 {0}of+wxuihyg.jtodve 絶対
 {0}of+wvxhyg.jtojni 絶交
 {0}of+sghkn.lvexmi 緑仙
+{0}of+ep+epduhknjh.lvensojyi 緑膿菌
 {0}of+esuhkn.lveiao 緑茶
 {0}of+kjpghkn.lvedme 緑電
 {0}of+fyghkn.lvesee 緑色
@@ -5289,6 +5300,7 @@
 {0}oa+cu+lkhmkdi.buedguhce 不等号
 {0}oa+cu+itkkdi.buedguuie 不等式
 {0}oa+cezk.buexke 不幸
+{0}oa+ck+slukko.buehrobcu 不环保
 {0}oa+mggk.buequi 不屈
 {0}oa+mk+yyc.houycerie 火曜日
 {0}oa+zbzlz.zdihde 灾害
@@ -5528,7 +5540,10 @@
 {0}su+fyge.iaosee 茶色
 {0}su+fretsi.leedve 楽隊
 {0}su+fhfse.iaoybu 茶饮
+{0}sg+nudndgx.wwiboi 微波
 {0}sg+xk+mlrfdgxsle.wwidrujue 微短剧
+{0}sg+ud+zx+oimdgxnnom.wwiboikculuo 微波烤炉
+{0}sg+ud+oimdgxnn.wwiboiluo 微波炉
 {0}sg+hopdgx.wwixie 微細
 {0}sg+hoddgx.wwimne 微妙
 {0}sg+md+ub+vmddgxvdkv.wwiffijiiffi 微分積分
@@ -6084,6 +6099,7 @@
 {0}lg+kpivnkxo.tjesri 碳酸
 {0}lg+kkjvwv.xruxle 選項
 {0}lh 跟
+{0}lc+bsywl.jpotie 詰替
 {0}lc+rcywjg.duouui 読書
 {0}lc+ggwjg.duoiui 読出
 {0}lc+mznwjg.duoquu 読取
@@ -6102,6 +6118,7 @@
 {0}lm+mdxnsn.jxufae 假髪
 {0}lm+zxywg.jieoeu 記者
 {0}lm+zrrfwg.jieuie 記事
+{0}lm+zizpzwg.jiezde 記載
 {0}lm+zkwswit.rfedke 認定
 {0}lm+vfknwg.jielue 記録
 {0}lm+wlwiywit.rfeuio 認識
@@ -6385,6 +6402,7 @@
 {0}lj+ur+stwlw.gcisuehxe 高速化
 {0}lj+uw+bznwldz.gcikeijie 高科技
 {0}lj+uouhwl.gcilzo 高楼
+{0}lj+uomkwl.gcidhe 高档
 {0}lj+udxjwl.gciqno 高橋
 {0}lj+ufmdz.huoyho 胡杨
 {0}lj+ujgwg.llexli 亮相
@@ -6789,6 +6807,7 @@
 {0}els+x 敬
 {0}el+zevswdg.jkesde 竞赛
 {0}el+wdcgwdg.jkexru 竞选
+{0}ee 并
 {0}ee,bmznm.pkouee 屏摄
 {0}ee,bkfs.bkedau 併打
 {0}ee,xrfus.bkecyo 併存
@@ -6892,6 +6911,7 @@
 {1}eju 荣
 {0}ej+bk+zbzlnmns.lceziehde 涝渍害
 {0}ej+hltzg.kriuue 宽恕
+{0}ej+meezg.kripko 宽屏
 {0}ej+kekjvdf.jmetzo 箭頭
 {0}ej+fjmdbzg.krijpu 寛解
 {0}ea+psrrt.uiejpe 世界
@@ -7066,6 +7086,7 @@
 {0}im+hfusj.pmihcu 偏好
 {0}im+zkb.hueuie 护士
 {0}im+wjwdmsj.pmipho 偏旁
+{0}im+oco.luozce 炉灶
 {0}im+od+ms+puihyddwdh.hreykulvutro 幻影旅団
 {0}im+ojjggh.hrejto 幻覚
 {0}im+sth.hrehxe 幻化
@@ -7401,6 +7422,7 @@
 {0}ia+sidnf.xiifje 夕飯
 {0}ia+lhtv.gsimbo 公民
 {0}ia+lkdnlv.gsilue 公路
+{0}ia+ebkx.tdeiae 太差
 {0}ia+eniix.tdebco 太薄
 {0}ia+ecdbii.gluyie 広義
 {0}ia+evv.gsigse 公共
@@ -7695,11 +7717,14 @@
 {0}dc+bwyzng.xiudne 洗掉
 {0}dc+pm+dmdkrngkr.xiummesou 洗面所
 {0}dc+nmkcng.xiuooo 洗濯
+{0}dc+nwsxng.xiuyee 洗液
+{0}dc+nfmung.xiujke 洗浄
 {0}dc+tlwl.zcejue 造句
 {0}dc+hmkjh.rfefue 妊婦
 {0}dc+houpong.xiulme 洗練
 {0}dc+hkxhvng.xiulme 洗练
 {0}dc+hkkhh.rfeufi 妊娠
+{0}dc+hfung.xiuhcu 洗好
 {0}dc+mdxnng.xiufae 洗髪
 {0}dc+mk+uhiingnc.xiuooojii 洗濯機
 {0}dc+mf+tdbkhfu.rfeyyexke 妊孕性
@@ -7766,6 +7791,7 @@
 {0}dm+djlw.fhixle 方向
 {0}dm+kpmrw.fhimme 方面
 {0}dm+kxmi.igogsi 成功
+{0}dm+kixmnx.jiidse 激动
 {0}dm+kfonx.jiilpe 激烈
 {0}dm+ka+ob+wxxmiuhkv.igobfujiixne 成本績効
 {0}dm+fsrkidru.fuidje 孵蛋
@@ -7893,6 +7919,7 @@
 {0}dk+ggwjs.pboiui 频出
 {0}dk+hodynbr.oeoxme 折線
 {0}dk+hd+iuiws.xuihdeilo 戌亥床
+{0}dk+meebr.oeopko 折屏
 {0}dk+zxylr.tkioeu 听者
 {0}dk+zvslih.wwirso 威容
 {0}dk+wuilr.tkigoe 听过
@@ -7905,6 +7932,7 @@
 {0}dk+sm+uelrcg.tkiqiuldo 听起来
 {0}dk+swjmwr.jbebhe 近傍
 {0}dk+sitwr.jbedde 近代
+{0}dk+ee,ba+uhiibrm.oeopkouzujii 折屏手機
 {0}dk+ixwr.jbeyie 近义
 {0}dk+ihxnvjs.bjifai 颁发
 {0}dk+ihxnwjs.pbofai 频发
@@ -8230,6 +8258,7 @@
 {0}kh+wxb.bnudao 表达
 {0}kh+wlmgb.bnujie 表記
 {0}kh+weyb.bnuybi 表音
+{0}kh+sbio.suerfo 素人
 {0}kh+sxklem.ohudru 長短
 {0}kh+ssszm.ohusju 長傘
 {0}kh+slmnm.ohujxu 長假
@@ -8297,6 +8326,7 @@
 {0}kc+wlkklpi.gooyuu 国語
 {0}kc+wlfrs.qrobue 全部
 {0}kc+wepi.goolie 国立
+{0}kc+we+cfdnsfc.dcelaijii 倒垃圾
 {0}kc+wddbkpi.gooiju 国産
 {0}kc+ohsxsf.dceuue 倒数
 {0}kc+sbr.olenmo 壮年
@@ -8419,6 +8449,7 @@
 {0}kw+stzfc.ouehxo 驻华
 {0}kw+srfxxk.ogehze 症候
 {0}kw+swezs.dkewwe 定位
+{0}kw+lmtys.uienea 是呢
 {0}kw+ecdbizs.dkeyie 定義
 {0}kw+ezxmfig.uuilwi 疏勒
 {0}kw+evjzs.dkeqii 定期
@@ -8735,6 +8766,7 @@
 {0}kk.dskkuo.bniqmi 标签
 {0}kk.dskkfwi.yyexko 运行
 {0}kk.dklev.qiohze 其后
+{0}kk.dk+meekbr.sjioeopko 三折屏
 {0}kk.djgewi.yyesre 运算
 {0}kk.kcjggjv.juexme 具現
 {0}kk.ks+jk+kgpkhckkv.sjiwwolkohxe 三维霊画
@@ -9409,6 +9441,7 @@
 {0}jn+bz,zxyjzl.uzehdeoeu 受害者
 {0}jn+bljsj.uzesyu 受损
 {0}jn+ui+hwvhjs.uzefuenlo 受付嬢
+{0}jn+mznj.uzequu 受取
 {0}jn+mosksj.uzeyje 受験
 {0}jn+zbzlj.uzehde 受害
 {0}jn+wlsddj.uzeofu 受診
@@ -9653,6 +9686,7 @@
 {0}jc+yfywl.ozijmi 週間
 {0}jc+rrrf.jnuiri 角川
 {0}jc+uzwl.ozimoe 週末
+{0}jc+uw+eekhfeoz.suelnepko 塑料瓶
 {0}jc+czmrnwl.ozibce 週報
 {0}jc+wdcle.suezce 塑造
 {0}jc+ouwze.suelne 塑料
