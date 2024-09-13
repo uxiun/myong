@@ -797,6 +797,7 @@
 {0}ya+kk.ctude.bdoljodie 白兰地
 {0}ya+kjmkd.bdoxtu 白雪
 {0}ya+ka+nkvpu.riebfujqu 日本酒
+{0}ya+ka+ms+ex,xm+skkiuwxwzm.riebfufhessexpohve 日本放送協会
 {0}ya+ka+wlkklu.riebfuyuu 日本語
 {0}ya+ka+wddbku.riebfuiju 日本産
 {0}ya+ka+su.riebfurfo 日本人
@@ -1161,6 +1162,7 @@
 {0}xm+irirev.suiozi 苏州
 {0}xm+ihixzv.xpoyie 协议
 {0}xm+ijttk.gsingo 功能
+{0}xm+dbkp.njougi 男生
 {0}xm+dcln.qregce 劝告
 {0}xm+dfkrip.njofgi 男風
 {0}xm+kp+rfkvplllc.kailiojle 咖喱酱
@@ -2334,6 +2336,7 @@
 {0}uo+typndj.ucimje 稍慢
 {0}uo+wurdd.mnusue 秒速
 {0}uo+wk+dhiodns.qqiseexie 秋渋系
+{0}uo+dufud.qqijie 秋季
 {0}uo+dzd.qqiqmi 秋千
 {0}uo+dkldj.ucihze 稍后
 {0}uo+jk+kgpdkkv.qqilkohxe 秋霊画
@@ -2342,6 +2345,7 @@
 {0}us+uw+rcyzxdz.jnekeiuui 教科書
 {0}us+uw+wxzxdz.jnekeiwfo 教科文
 {0}us+houpozx.jnelme 教練
+{0}us+zkiczx.jneuie 教室
 {0}us+wguizx.jnedcu 教導
 {0}us+wlrrrzx.jnexye 教訓
 {0}us+wlctxc.zaooie 雑誌
@@ -3090,6 +3094,7 @@
 {0}ha+zkwsz.vjidke 安定
 {0}ha+wx+xl+sccznrs.vjijieoiijxi 安済知佳
 {0}ha+we+vy+kkkzslk.vjibwejbesji 安倍晋三
+{0}ha+st.nvuhxe 女化
 {0}ha+suk.nvutiu 女体
 {0}ha+su+eg+st+ozije.vjileeghihxihou 安楽岡花火
 {0}ha+su+jegzi.vjileeghi 安楽岡
@@ -3190,6 +3195,7 @@
 {0}cu+yfyyi.uiojmi 時間
 {0}cu+nwigyi.uiolqo 時流
 {0}cu+xdi.dgudae 等大
+{0}cu+rcwdhyi.uiooli 時装
 {0}cu+rcwdhs.jiooli 集装
 {0}cu+rmudci.fgibie 封闭
 {0}cu+rs.jioosi 集中
@@ -3935,6 +3941,7 @@
 {0}zn+tuxzc.oiekke 軽快
 {0}zn+uxkwkm.quuogu 取整
 {0}zn+urkjvi.qqolde 求頼
+{0}zn+va+wlvlgzcf.oiexnuuoi 軽小説
 {0}zn+wsm.quuyui 取込
 {0}zn+wlmklm.quucio 取詞
 {0}zn+ohsxm.quuuue 取数
@@ -4227,6 +4234,7 @@
 {0}vb+bdti.mootoi 摩托
 {0}vb+xmvo.juubje 举办
 {0}vb+mx+bweis.mooyiilai 摩伊拉
+{0}vb+ebythi.moojpo 摩羯
 {0}vb+dt+xbib.mootoiiei 摩托车
 {0}vb+dzpco.juuose 举重
 {0}vb+dskkfo.juuxko 挙行
@@ -4389,6 +4397,7 @@
 {0}vd+sxfn.uairfo 殺人
 {0}vd+stwn.bmehxe 変化
 {0}vd+sr+fs+du+du+hpwiigipriefef.moojpeoiilieliemuu 魔界之莉莉姆
+{0}vd+swn.bmerfo 変人
 {0}vd+lzpn.ilikzu 窗口
 {0}vd+lzpx.ilikzu 窗口
 {0}vd+ed,jkkvigiwg.moodcejue 魔道具
@@ -4506,6 +4515,7 @@
 {0}va+ouf.xnumiu 小米
 {0}va+ohsxf.xnuuue 小数
 {0}va+ojljv.jbiuhu 金賞
+{0}va+ojfuf.xnuxto 小学
 {0}va+sctwkf.xnuhee 小鹤
 {0}va+sk+ydbkfdkf.xnuxkoxki 小行星
 {0}va+sf+dfdrifwx.xnuyeefgi 小夜風
@@ -4531,6 +4541,7 @@
 {0}va+kc+jszi.jbibcubwe 金宝贝
 {0}va+klbfi.jbiori 金砖
 {0}va+kl+ma+zkzpx.jbifuelieuie 金富力士
+{0}va+kl+ojfufj.xnutsoxto 小同学
 {0}va+kl+sukej.gsetsotiu 共同体
 {0}va+kk.va+lkktlltl.bailiebailie 叭囇叭囇
 {0}va+kfcf.xnuxko 小型
@@ -5423,6 +5434,7 @@
 {0}sy+hs+srnox.fueuuerfo 複数人
 {0}sy+hfudh.hfuhcu 很好
 {0}sy+ci+eyxtdheks.hfuxmemue 很羡慕
+{0}sy+zrknmk.ozeqbu 昼寝
 {0}sy+wsfxmk.ozeyee 昼夜
 {0}sy+wlodki.deodmu 得点
 {0}sy+weytdki.deoyie 得意
@@ -6766,6 +6778,7 @@
 {0}eo+xx,stswm.wuoxnehxe 無効化
 {0}eo+tixds.wuocju 無惨
 {0}eo+hodyns.wuoxme 無線
+{0}eo+ctus.wuodie 無地
 {0}eo+csmzns.wuoque 無趣
 {0}eo+moxis.wuotoo 無駄
 {0}eo+zrrfs.wuouie 無事
@@ -7365,6 +7378,7 @@
 {0}if+kj+tk+cu+yfyfikviyi.doixleuieuiojmi 多項式時間
 {0}if+kj+itkfikv.doixleuie 多項式
 {0}if+jt+xmstit.nmengolie 念能力
+{0}if+judddfi.doicdu 多彩
 {0}if+js.jbiyte 今月
 {0}ij 请
 {0}ijs 름
@@ -7617,6 +7631,7 @@
 {0}dx,kfcmn.faexko 髪型
 {0}dt+bwdfbk.diukhe 抵抗
 {0}dt+ndzlhy.hyihoo 婚活
+{0}dt+ta+skkiskc.diioiehve 低志会
 {0}dt+hotkhy.hyiyti 婚約
 {0}dt+mvpysk.diicgo 低層
 {0}dt+zvksk.diiksi 低空
@@ -7804,9 +7819,11 @@
 {0}dz+tk+kk.iocuuisi.ouiuiehveuee 株式会社
 {0}dz+rr,mkheczf.dsuuieohu 董事長
 {0}dz+ug+klvcj.osiruuuio 鍾乳石
+{0}dz+hotkbl.koeyti 括約
 {0}dz+mkftnl.hoouii 活屍
 {0}dz+zrrfec.dsuuie 董事
 {0}dz+wldzlbr.iaihxe 挿話
+{0}dz+ot+djxmblhk.koeytijbi 括約筋
 {0}dz+oupovn.drelme 鍛煉
 {0}dz+szjkbq.iaioio 插值
 {0}dz+sdbbq.iaijme 插件
@@ -7902,6 +7919,7 @@
 {0}dd,jf+zlrlwbkou.ijuxtogri 産学官
 {0}dk 生
 {0}dkj 깅
+{0}dk+bxncl.gzebao 垢抜
 {0}dk+ba+uewrs.jbenmoldo 近年来
 {0}dk+pjjkbr.oeodpo 折畳
 {0}dk+ywr.jberie 近日
@@ -8114,6 +8132,7 @@
 {0}kx+xmlnt.tmijxi 添加
 {0}kx+xmjm.ouelie 助力
 {0}kx+tdbklkm.kxexke 跨性
+{0}kx+rcwdhnt.tmioli 添装
 {0}kx+hlkm.kxenvu 跨女
 {0}kx+cx+wlmkljmdm.ouedsecio 助動詞
 {0}kx+cweglkm.kxejke 跨境
@@ -9992,6 +10011,7 @@
 {0}jj.udnlj.guugeo 骨格
 {0}jj.ciwl.goeque 過去
 {0}jj.ve+ouwzbneu.uzeyeelne 授業料
+{0}jj.va+lk+skrpwlfwoz.goexnupkosie 過小評価
 {0}jj.wlkklpk.dpoyuu 畳語
 {0}jj.swsxwl.goembu 過敏
 {0}jj.endlnj.hxoloe 滑落
@@ -10014,6 +10034,7 @@
 {0}jj.kpdclwl.goekue 過酷
 {0}jj.kk.wguijsi.guuyyodcu 骨伝導
 {0}jj.kjmknj.hxoxtu 滑雪
+{0}jj.fvwl.goexnu 過小
 {0}jj.jjnbn.uzeuze 授受
 {0}ja+bdzqs.nweiai 内插
 {0}ja+pxs.nweybi 内因
