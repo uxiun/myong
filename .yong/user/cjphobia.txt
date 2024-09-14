@@ -346,6 +346,7 @@
 {0}qd+whd.ufiwho 身亡
 {0}qd+wkd.ufiuhe 身上
 {0}qd+sukd.ufitiu 身体
+{0}qd+svmdd.ufiffe 身份
 {0}qd+jkkvd.ufijue 身具
 {0}qj+xscpdv.xkeffe 興奮
 {0}py+ui+uekdkw.xkugoeldo 醒过来
@@ -1462,6 +1463,7 @@
 {0}xa+jogx.daencu 大脳
 {0}xa+jddhw.wfomde 文脈
 {0}xa+jk+hhokkh.daeofezdi 大震災
+{0}xa+jf+cdklou.daextogze 大学垢
 {0}xa+jf+dbkou.daextougi 大学生
 {0}xa+jf+frzkgou.daextoyre 大学院
 {0}xa+jf+jj.eveuoubn.daextouzeyee 大学授業
@@ -1890,11 +1892,13 @@
 {0}rs+prhocsd.xqiloo 修羅
 {0}rs+plhx.uzihvo 收回
 {0}rs+nyevfku.iuouii 除湿
+{0}rs+xmlfui.fuejxi 附加
 {0}rs+rh+cykdsdpoc.xqilooihu 修羅場
 {0}rs+rkmwfku.iuofwi 除非
 {0}rs+rfjshx.uzifwe 收费
 {0}rs+csmghx.uziqiu 收起
 {0}rs+cifku.iuoque 除去
+{0}rs+ml+szjkfuix.fuejxioio 附加值
 {0}rs+mdrjfui.fueuuu 附属
 {0}rs+zvslsd.xqirso 修容
 {0}rs+zveehfii.ybinho 陰嚢
@@ -2384,6 +2388,7 @@
 {0}ui+pcu.cyiliu 村里
 {0}ui+yuiw.goeuio 过时
 {0}ui+nwign.dvelqo 对流
+{0}ui+xmls.fuejxi 付加
 {0}ui+xzed.siibfi 私奔
 {0}ui+tsy.uioohu 时长
 {0}ui+rcwdhy.uiooli 时装
@@ -2537,6 +2542,7 @@
 {0}uk+wrkuko.jbeoiu 禁止
 {0}uk+wijs.tiuyue 体育
 {0}uk+ouwepjv.keilie 顆粒
+{0}uk+ouorx.jkimiu 粳米
 {0}uk+ouojj.noemiu 糯米
 {0}uk+os+rrdnsmks.tiuyjebju 体験版
 {0}uk+st+sjske.wuuhxirze 五花肉
@@ -3283,6 +3289,7 @@
 {0}co+yweyp.hwivje 黑暗
 {0}co+nmsp.hwizeo 黒沢
 {0}co+njklp.hwidse 黒洞
+{0}co+uzkjv.soumoe 瑣末
 {0}co+mdxnp.hwifae 黒髪
 {0}co+mk+la+rjmkhpyck.hwiyceuioohe 黒曜石帳
 {0}co+mk+klpyc.hwiyceuio 黒曜石
@@ -3977,6 +3984,7 @@
 {0}zx+drbcfi.oiobiu 執筆
 {0}zx+dujgom.kcuxli 烤箱
 {0}zx+dskkfcfi.oioxko 執行
+{0}zx+filey.ouemko 著名
 {0}zx+fi+lllxysf.ueiiiupbu 奢侈品
 {0}ztj+f 寧
 {0}zt+uejsuf.nkomgo 檸檬
@@ -4402,6 +4410,7 @@
 {0}vd+lzpx.ilikzu 窗口
 {0}vd+ed,jkkvigiwg.moodcejue 魔道具
 {0}vd+ittwn.bmetde 変態
+{0}vd+imzpx.ilihue 窗户
 {0}vd+ieigi.moojpe 魔戒
 {0}vd+dqdwn.bmeufi 変身
 {0}vd+dn+ia+zldgekrnls.siiloefaokee 斯洛伐克
@@ -4616,6 +4625,7 @@
 {0}wt+wsrfr.bwijue 悲劇
 {0}wt+wldhr.bwivdi 悲哀
 {0}wt+wklj.zvuuhe 嘴上
+{0}wt+scjggr.bwigri 悲観
 {0}wt+lersr.bwitje 悲嘆
 {0}wr 部
 {0}wrr,f 剤
@@ -4901,6 +4911,7 @@
 {0}wa+ouwzk.xxelne 下料
 {0}wa+swek.xxewwe 下位
 {0}wa+lmkjvk.xxevee 下顎
+{0}wa+lllk.xxepbu 下品
 {0}wa+ebjgk.xxeoea 下着
 {0}wa+ikfsk.xxecie 下次
 {0}wa+dzekk.xxeivo 下垂
@@ -4998,6 +5009,7 @@
 {0}oc+mmlhl.jpojuo 結局
 {0}oc+mkhi.ueeohu 社長
 {0}oc+za+sk+shvnwdkf.lkouioxkorfo 綾辻行人
+{0}oc+vx+xx,wewliwj.ueejniwhuoje 社交网站
 {0}oc+wm+hmbrhsprkk.seefwunae 繬翡娜
 {0}oc+wzhvn.lkouio 綾辻
 {0}oc+wvxi.ueejni 社交
@@ -6506,6 +6518,7 @@
 {0}la+udyz.guubdu 古柏
 {0}la+udxjk.uioqno 石橋
 {0}la+uddpk.uiolqo 石榴
+{0}la+ua+odjgcu.jiolbougu 吉林省
 {0}la+hrnp.hvouzi 回収
 {0}la+hrsxp.hvouzi 回收
 {0}la+hodynp.hvoxme 回線
@@ -7041,6 +7054,7 @@
 {0}ix+duschm.yzeoie 幼稚
 {0}ix+dufdmsg.yzixqe 优秀
 {0}ix+dcdgsg.yzixmi 优先
+{0}ix+dzjssg.yzioie 优质
 {0}ix+kusg.yziyuo 优于
 {0}ix+kgpkm.dsehxe 动画
 {0}ix+kfotd.cjulpe 惨烈
@@ -7909,6 +7923,7 @@
 {0}dd,ufseur.lquigo 柳橙
 {0}dd,gud.ujiuji 杉山
 {0}dd,ggnh.pdeiui 派出
+{0}dd,ctuwbk.ijudie 産地
 {0}dd,ml+kcizndfuwz.doubieqqo 躲避球
 {0}dd,ve+vwzzwbkeu.ijuyeelme 産業鏈
 {0}dd,wmlzdfu.doubie 躲避
@@ -9613,6 +9628,7 @@
 {0}jg+rizju.xlibuu 相補
 {0}jg+udfu.xlijii 相机
 {0}jg+ga+wc+dduidmn.ziejiuoueuee 自己注射
+{0}jg+ga+kk.fdndmwl.ziejiuyjojio 自己言及
 {0}jg+ga+fu+lkdnldmyd.ziejiubielue 自己閉路
 {0}jg+ga+jg+shisdmu.ziejiuxliuie 自己相似
 {0}jg+ht+ojldgdl.ziembodhu 自民党
