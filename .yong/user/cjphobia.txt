@@ -806,12 +806,14 @@
 {0}ya+jm.ygdkk.bdoxtubai 白雪巴
 {0}ya+je+kcizndd.bdoxteqqo 白血球
 {0}nyt+t 混
-{0}nn 汉
+{0}nn 双
+{1}nn 汉
 {0}nn.fulu.shuzia 嗓子
 {0}nxi 汰
 {0}nx+xmhm.nuulie 努力
 {0}ntu 池
 {0}nrk+s 溃
+{0}nr+ojrfff.boixti 剥削
 {0}nu+rjmkhd.tnoohe 条帳
 {0}nu+uuui.uuelbo 树林
 {0}nu+hotkd.tnoyti 条約
@@ -1084,6 +1086,7 @@
 {0}xr+kufb.jmeyuo 建于
 {0}xr+jeyxj.xiilae 希腊
 {0}xu 东
+{0}xu+bwdfwi.dvekhe 対抗
 {0}xu+yt+fiwwifs.dvexlewde 対象外
 {0}xu+ylowi.dveoce 対照
 {0}xu+nuxwi.dvejto 対決
@@ -2722,6 +2725,7 @@
 {0}gu+wlosx.qtidmu 缺点
 {0}gu+odsx.qtiucu 缺少
 {0}gu+sdwi.dcurue 導入
+{0}gu+ljsli.dcuyro 导员
 {0}gu+dzllli.dcugru 导管
 {0}gu+dwwdfli.dcuhho 导航
 {0}gu+difssx.qtifao 缺乏
@@ -3606,6 +3610,7 @@
 {0}mz+sccyn.zvejxi 最佳
 {0}mz+sdtkyn.zvedii 最低
 {0}mz+sdhiyn.zvedii 最低
+{0}mz+sfysbn.ueexle 摄像
 {0}mz+lj+ziwdhynwl.zvegcicdo 最高裁
 {0}mz+evjyn.zveqii 最期
 {0}mz+iyhyn.zvello 最良
@@ -3620,6 +3625,7 @@
 {0}mz+kyfuyn.zvehze 最厚
 {0}mz+klkrxyn.zveyke 最硬
 {0}mz+kktyn.zvevee 最悪
+{0}mz+fy+wxbnss.ueexletzo 摄像头
 {0}mz+fvyn.zvexnu 最小
 {0}mz+firiyn.zveqlo 最強
 {0}mz+fifiyn.zvedoi 最多
@@ -4181,6 +4187,7 @@
 {0}zf+ul+tz+dg+hk+smrdsjiwk.yeoheohxojmeogerfo 耶和华见证人
 {0}zf+ul+stzmrd.yeoheohxo 耶和华
 {0}zf+cu+wlzjgyi.wjeuiojie 腕時計
+{0}zf+mzlvnx.duooio 渎职
 {0}zf+wljjzs.rrugci 軟膏
 {0}zf+sdbzs.rrujme 軟件
 {0}zf+ecxbyg.yjemwu 艳美
@@ -4311,6 +4318,7 @@
 {0}vt+klfsw.lmegei 恋歌
 {0}vt+jjtnw.lmevde 恋愛
 {0}vu+puijd.cdotro 財団
+{0}vu+yfsijd.cdofao 財閥
 {0}vu+zklpjd.cdofue 財富
 {0}vh+rydgj.ykivro 嬰児
 {0}vc+pxe.jiiybi 基因
@@ -6057,6 +6065,7 @@
 {0}lt+fjrkii.gjuiue 感触
 {0}lrr,r 啸
 {0}lr+bixmfi.qlouie 强势
+{0}lr+yevnfi.qlobce 强暴
 {0}lr+ui+nwigfin.qlodvelqo 强对流
 {0}lr+ggsf.ileiui 創出
 {0}lr+houpowrr.xyelme 訓練
@@ -6731,8 +6740,8 @@
 {0}ez+iozlc.xkehue 幸祜
 {0}ez+ioklpc.xkefuo 幸福
 {0}ez+dcxmcn.guudse 鼓動
-{0}ev 共
-{1}ev 业
+{0}ev 业
+{1}ev 共
 {0}evf+s 欺
 {0}evj 期
 {0}ev+nn.hsouvu 洪水
@@ -7655,6 +7664,7 @@
 {0}dt+sjsxl.gzurze 狗肉
 {0}dt+ey+lkhmskw.diiybihce 低音号
 {0}dt+ehoeik.diuyye 底蘊
+{0}dt+ioklpb.toifuo 托福
 {0}dt+iojdgt.huiuie 忽视
 {0}dt+dm+ukski.diiigobfu 低成本
 {0}dt+dwjeik.diupjo 底盘
@@ -7780,6 +7790,7 @@
 {0}dm 所
 {0}dmx 笋
 {0}dm+bkhionx.jiisue 激素
+{0}dm+prrkwxg.fjezve 犯罪
 {0}dm+pui.igogou 成果
 {0}dm+nuii.igodve 成对
 {0}dm+nciw.fhifau 方法
@@ -7990,6 +8001,7 @@
 {0}df+xdsfxxfo.miohzo 猕猴
 {0}df+xjnn.mwoyzu 没有
 {0}df+tbkjxn.yieqko 疫情
+{0}df+rpgu.jiidme 机电
 {0}df+rudnnn.mwobwe 没被
 {0}df+mv+ncinnx.mwobjefau 没办法
 {0}df+mkhj.rsuohu 冗長
@@ -8160,6 +8172,7 @@
 {0}kx+oz+illkmk.kxepkotdo 跨平台
 {0}kx+suint.tmifue 添付
 {0}kx+ldkrjm.ouetki 助听
+{0}kx+db,mr+zxylkmtklf.kxexkebpooeu 跨性別者
 {0}kx+db,zxylkmtk.kxexkeoeu 跨性者
 {0}kx+db,lmrflkmtk.kxexkebpo 跨性別
 {0}kx+dk+llixljmlr.ouetkiqie 助听器
@@ -8453,6 +8466,7 @@
 {0}kz+nfunm.wuirju 汚染
 {0}kz+umpgux.gjulju 橄欖
 {0}kz+mp+kciznuxug.gjuljuqqo 橄欖球
+{0}kz+mzwiynm.wuioio 汚職
 {0}kz+wmsxhsy.soifhe 缩放
 {0}kz+iojdgwn.qiouie 歧视
 {0}kz+dimjhfx.xuepmi 续篇
@@ -8697,6 +8711,7 @@
 {0}kkh+m 巧
 {0}kk.bm+iqtkmo.sjimaulue 三馬鹿
 {0}kk.ba+sj+dzllkobgg.sjibjegvigru 三半規管
+{0}kk.ydbkk.sjixki 三星
 {0}kk.ykwssi.hveuie 会是
 {0}kk.nizjk.sjipuu 三浦
 {0}kk.xbskfwi.yyeuui 运输
@@ -8840,6 +8855,7 @@
 {0}kf+ggb.dauiui 打出
 {0}kf+ge+puxll.qioyiegou 奇异果
 {0}kf+gd+la+wmssxzknp.nkoxxehvozuo 宁夏回族
+{0}kf+hodxl.qiomne 奇妙
 {0}kf+hlsf.lieruo 例如
 {0}kf+himxl.qiohre 奇幻
 {0}kf+hktihc.nquyti 纽约
@@ -8863,6 +8879,7 @@
 {0}kf+lgexl.qioyie 奇异
 {0}kf+lkwrvxl.qiojii 奇跡
 {0}kf+ecelks.cieuje 次善
+{0}kf+edygxl.qiopai 奇葩
 {0}kf+ejvhsk.jkidmu 经典
 {0}kf+ienfik.roedue 弱度
 {0}kf+ikldgsl.heokle 何况
@@ -9628,6 +9645,7 @@
 {0}jg+rizju.xlibuu 相補
 {0}jg+udfu.xlijii 相机
 {0}jg+ga+wc+dduidmn.ziejiuoueuee 自己注射
+{0}jg+ga+dytidm.ziejiudea 自己的
 {0}jg+ga+kk.fdndmwl.ziejiuyjojio 自己言及
 {0}jg+ga+fu+lkdnldmyd.ziejiubielue 自己閉路
 {0}jg+ga+jg+shisdmu.ziejiuxliuie 自己相似
