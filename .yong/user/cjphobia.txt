@@ -48,6 +48,7 @@
 {0}bt,cp+dytidddkc.wueliudea 物理的
 {0}bt,ze+jxxdddmx.wuelmowhu 物联网
 {0}bt,wlkklddd.wueyuu 物語
+{0}bt,sukddd.wuetiu 物体
 {0}bt,sfysddd.wuexle 物像
 {0}bt,lk+hi+kfrfdddwkldo.wueyuuxielpe 物語系列
 {0}bt,isjgvddd.wuezii 物資
@@ -2308,6 +2309,7 @@
 {0}ur+ks+xa+du+ncidfhceef.liewwovdeliefau 利维艾莉法
 {0}ur+frdnbw.suejle 速降
 {0}ur+jbdf.lieyse 利用
+{0}uup 棟
 {0}uuj+gd 鬱
 {0}uu.nvsln.lboyue 淋浴
 {0}uu.xa+yt+dn+il+wrklkkrdisf.lieuiudeafjumkoqmu 歴史的仮名遣
@@ -2792,6 +2794,7 @@
 {0}gs+wvdnmx.gdubme 改変
 {0}gs+wdclmx.gduzce 改造
 {0}gs+ecelmx.gduuje 改善
+{0}gs+kf+ed,tdbkscxlkdd.cviqioxkoxke 催奇形性
 {0}gs+jwmkmx.gduxpu 改写
 {0}gl+sfxjht.mmoqie 眠気
 {0}ge+rk+kk.dskkfmwdwi.yiebueyyexko 异步运行
@@ -3809,6 +3812,7 @@
 {0}md+vj+stre.iuiqiihxe 初期化
 {0}md+vj+szjhre.iuiqiioio 初期値
 {0}md+wprjdkr.souyue 所遇
+{0}md+wrkdr.iuibue 初歩
 {0}md+wgxjv.ffilio 分离
 {0}md+wmkdkr.souyuu 所与
 {0}md+wzirzv.ffibme 分辨
@@ -4259,6 +4263,7 @@
 {0}zj+cilksh.oioyue 値域
 {0}zj+mm.xa+kwzrzk.icowfotmixxe 朝闻天下
 {0}zj+wm+ixmicvjk.tmoxpuwwe 填写为
+{0}zj+wsfxz.icoyee 朝夜
 {0}zj+wfijpgv.gretsi 貫通
 {0}zj+sy+ka+dbjgskdki.oiodeoyiikje 值得一看
 {0}zj+stjserj.ddehoe 带货
@@ -5383,6 +5388,7 @@
 {0}oa+xl+wedgks.bueoiidce 不知道
 {0}oa+xl+oa+ojjdgksk.bueoiibuejto 不知不觉
 {0}oa+xdrkik.bueduo 不独
+{0}oa+xkwko.yjooge 炎症
 {0}oa+xk+sklkuwk.bueoguheo 不整合
 {0}oa+tt,fo+evdkrfif.vruteemiosii 尔忒弥斯
 {0}oa+toub.houlmo 火憐
@@ -5927,6 +5933,7 @@
 {0}sk+ur+ud+dbcuilldfnn.hailieboitee 哈利波特
 {0}sk+ur+ci+cesllldfn.hailiefautau 哈利法塔
 {0}sk+uudyjv.tiocdo 題材
+{0}sk+ugtfxt.faixlu 発想
 {0}sk+ufudkf.xkoliu 行李
 {0}sk+ujkus.jmuoai 検査
 {0}sk+ggus.jmuiui 検出
@@ -5977,6 +5984,7 @@
 {0}sk+ijttjtk.fuengo 赋能
 {0}sk+dbkfxt.faiugi 発生
 {0}sk+durfll.hailie 哈利
+{0}sk+dulkcdkf.xkoigo 行程
 {0}sk+dcxmdkf.xkodse 行動
 {0}sk+dcxmfxt.faidse 発動
 {0}sk+dduifxt.faiuee 発射
@@ -7327,6 +7335,7 @@
 {0}is+ueh.yiuldo 以来
 {0}is+ua+oa+sk+oa+kzcxofnuf.vdimiuvrutuovrugje 埃米尔･涂尔干
 {0}is+ua+focxo.vdimiuvru 埃米尔
+{0}is+wxxmeu.ycexne 薬効
 {0}is+wrrfeu.ycejie 薬剤
 {0}is+wrkzc.jpooiu 截止
 {0}is+wkh.yiuuhe 以上
@@ -8085,6 +8094,7 @@
 {0}dk+zvslih.wwirso 威容
 {0}dk+wuilr.tkigoe 听过
 {0}dk+whdsi.xuihde 戌亥
+{0}dk+wm+zjkvwjvjk.yjoxpuofi 顔写真
 {0}dk+wedgwjs.pbodce 频道
 {0}dk+od+pwxbrhyn.oeoxmetuo 折線図
 {0}dk+sbwr.jbenmo 近年
@@ -9528,6 +9538,7 @@
 {0}fk+bznyei.dzejie 闘技
 {0}fk+yx+epyeej.kdimuequi 開幕曲
 {0}fk+yx+itkyeej.kdimueuie 開幕式
+{0}fk+ywlodri.fgijku 風景
 {0}fk+yevndri.fgibce 風暴
 {0}fk+yfudye.kdibie 開閉
 {0}fk+nzkvfjs.yueyju 预演
@@ -9782,6 +9793,7 @@
 {0}jg+rizju.xlibuu 相補
 {0}jg+udfu.xlijii 相机
 {0}jg+ga+wc+dduidmn.ziejiuoueuee 自己注射
+{0}jg+ga+om+srrdmhdl.ziejiuucejpe 自己紹介
 {0}jg+ga+dytidm.ziejiudea 自己的
 {0}jg+ga+kk.fdndmwl.ziejiuyjojio 自己言及
 {0}jg+ga+fu+lkdnldmyd.ziejiubielue 自己閉路
