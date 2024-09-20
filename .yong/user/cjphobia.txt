@@ -2182,6 +2182,7 @@
 {0}ra+rjwlr.iretpi 串帖
 {0}ra+up.osidsi 中東
 {0}ra+umx.osiuui 中枢
+{0}ra+uwhs.osiheo 中核
 {0}ra+uo+emrd.osiqqijpo 中秋节
 {0}ra+ui+xa+jvrfuw.osicyiwfozeo 中村文則
 {0}ra+udnp.jxubju 甲板
@@ -3133,6 +3134,7 @@
 {0}ha+brkwz.vjipdo 安排
 {0}ha+brkw.nvupdo 女排
 {0}ha+nclz.vjijpo 安洁
+{0}ha+xisc.nvuxso 女雄
 {0}ha+tdbk.nvuxke 女性
 {0}ha+rydg.nvuvro 女児
 {0}ha+rcwdhz.vjioli 安装
@@ -6365,6 +6367,7 @@
 {0}ll.durl.pbuosu 品种
 {0}ll.dudzcl.pbuosu 品種
 {0}ll.fjmdbwkx.wuejpu 誤解
+{0}lex 咲
 {0}le+nodk.dzeuai 豆沙
 {0}le+nk.rikvpdkbpr.tmommejle 甜麺醤
 {0}le+nfscl.xiuhri 喜欢
@@ -7052,6 +7055,7 @@
 {0}ej 前
 {0}eju 菜
 {1}eju 荣
+{0}eju+ 荣
 {0}ej+bk+zbzlnmns.lceziehde 涝渍害
 {0}ej+hltzg.kriuue 宽恕
 {0}ej+meezg.kripko 宽屏
@@ -7651,6 +7655,7 @@
 {0}db,frkkoyk.xkijie 星际
 {0}db,jg+wlmittkd.xkezierfe 性自認
 {0}db,jzpzsi.veojyi 俄軍
+{0}db,jjtntk.xkevde 性愛
 {0}dq+xdtlbn.szigzu 搜狗
 {0}dq+zjhiobn.szisou 搜索
 {0}dq+ssmbn.szizoe 搜作
@@ -9761,6 +9766,7 @@
 {0}ju+mznb.cduquu 採取
 {0}ju+wlwdmb.cdufhu 採訪
 {0}ju+wlevye.cdepuu 菜譜
+{0}ju+ogmkce.rsoyce 荣耀
 {0}ju+scub.cdujio 採集
 {0}ju+eo+ju+xjujsuj.jiowuojioyzu 棘無棘有
 {0}ju+driee.cdeljo 菜篮
