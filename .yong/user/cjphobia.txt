@@ -70,6 +70,7 @@
 {0}bc,usxcdui.teeqro 特権
 {0}bc,hofdndui.teejio 特級
 {0}bc,mr+hoimjduilf.teebpobmi 特別編
+{0}bc,mr+mr+jgduilfe.teebpojpomue 特別节目
 {0}bc,mr+wr+kgpduilfsk.teebpoqiuhxe 特別企画
 {0}bc,mr+sk+ks+mxduilfdkfkx.teebpoxkoogequi 特別行政区
 {0}bc,mkhdui.teeohu 特長
@@ -891,6 +892,7 @@
 {0}nl+dmdkrd.geesou 各所
 {0}nl+djgd.geezie 各自
 {0}neg+j 満
+{0}ni 戏
 {0}nim+x 涙
 {0}ni.ta+ouiceis.bcohxeoli 薄化粧
 {0}ni.rrkrei.bcopme 薄片
@@ -2184,6 +2186,7 @@
 {0}ra+umx.osiuui 中枢
 {0}ra+uwhs.osiheo 中核
 {0}ra+uo+emrd.osiqqijpo 中秋节
+{0}ra+uo+fy+skkidyg.osiqqiwjuhve 中秋晚会
 {0}ra+ui+xa+jvrfuw.osicyiwfozeo 中村文則
 {0}ra+udnp.jxubju 甲板
 {0}ra+ggf.ybuiui 引出
@@ -2234,6 +2237,7 @@
 {0}ra+kfc.osixko 中型
 {0}ra+fy+sdby.osijmijme 中間件
 {0}ra+jbf.ybuyse 引用
+{0}ra+jx+da+oj+lt+ilrwidgv.osiyhigluuiezsutdo 中央广播电视总台
 {0}ub+nczokj.jkioyu 精準
 {0}ub+xmokj.jkilie 精力
 {0}ub+ufnkdkv.jiijio 積極
@@ -2256,6 +2260,7 @@
 {0}up+jgd.fjimue 番目
 {0}uy.nrpd.xliyzo 香油
 {0}uy.nevgd.xlighu 香港
+{0}uy.nd.xliuvu 香水
 {0}uy.ouwzd.xlilne 香料
 {0}uy.sfxd.xliqie 香気
 {0}uy.lzud.xliwwe 香味
@@ -5655,6 +5660,7 @@
 {0}su+fyge.iaosee 茶色
 {0}su+fretsi.leedve 楽隊
 {0}su+fhfse.iaoybu 茶饮
+{0}su+fl+jjtnik.leekeuvde 楽可愛
 {0}sg+nudndgx.wwiboi 微波
 {0}sg+xk+mlrfdgxsle.wwidrujue 微短剧
 {0}sg+ud+zx+oimdgxnnom.wwiboikculuo 微波烤炉
@@ -6153,6 +6159,7 @@
 {0}lt+lersi.gjutje 感嘆
 {0}lt+er+wlmklils.gjutjecio 感嘆詞
 {0}lt+ihzv.zsujie 总计
+{0}lt+ilv.zsutdo 总台
 {0}lt+drjgvi.gjuoie 感質
 {0}lt+kcpcv.zsuliu 总理
 {0}lt+kcrfi.gjudce 感到
@@ -7582,6 +7589,7 @@
 {0}ia+lhtv.gsimbo 公民
 {0}ia+lkdnlv.gsilue 公路
 {0}ia+ebkx.tdeiae 太差
+{0}ia+epn.xiequi 戏曲
 {0}ia+eniix.tdebco 太薄
 {0}ia+ecdbii.gluyie 広義
 {0}ia+evv.gsigse 公共
@@ -8211,6 +8219,7 @@
 {0}da+xuw.gludsi 广东
 {0}da+xms.ruelie 入力
 {0}da+tmds.rueqpe 入切
+{0}da+rgo.ucuvro 少儿
 {0}da+ri+wrjwir.gluoziuie 广州市
 {0}da+ua+odjgwx.gludsiugu 广东省
 {0}da+ga+xmsg.rueiuilie 入出力
@@ -8570,6 +8579,7 @@
 {0}km+mkhzs.jxiohu 家長
 {0}km+zbzlk.liehde 厉害
 {0}km+zusxzs.jxijne 家教
+{0}km+zwxhg.jieuio 纪实
 {0}km+ziwdhzs.jxicdo 家裁
 {0}km+zjezmik.yuunjo 羽南
 {0}km+zjkkrw.fwioio 非直
@@ -8609,6 +8619,8 @@
 {0}kz+mp+kciznuxug.gjuljuqqo 橄欖球
 {0}kz+mzwiynm.wuioio 汚職
 {0}kz+wmsxhsy.soifhe 缩放
+{0}kz+sklhko.zsiheo 综合
+{0}kz+efhko.zsiyie 综艺
 {0}kz+iojdgwn.qiouie 歧视
 {0}kz+dimjhfx.xuepmi 续篇
 {0}kz+kcwxcj.gjibji 肝斑
@@ -9249,6 +9261,7 @@
 {0}fy+bwehy.jmijpi 間接
 {0}fy+rk+na+dssynyfljd.jmigeofjufue 間隔反復
 {0}fy+wnsihyg.wjucji 晚餐
+{0}fy+skkiyg.wjuhve 晚会
 {0}fy+sjsbg.wjurze 挽肉
 {0}fy+ddpbg.wjulqo 挽留
 {0}fy+ka+mdxny.jmiyiifae 間一髪
@@ -9666,6 +9679,7 @@
 {0}jx+rk+frkydfy.vcemoemoe 奥陌陌
 {0}jx+ur+rrfddf.vceliefuo 奥利弗
 {0}jx+ur+rf,is+xa+evdkrddfrcxw.vceliefuovdiwfosii 奥利弗埃文斯
+{0}jx+ua+va+zldgdum.vcelbopiukee 奥林匹克
 {0}jx+hm.scjnfk.vdemauuie 爱马仕
 {0}jx+zxyfm.ysuoeu 勇者
 {0}jx+wkkid.vceyye 奥运
