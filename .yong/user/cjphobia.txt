@@ -518,6 +518,9 @@
 {0}pd+ittkgi.izutde 醜態
 {0}pk 置
 {0}pkf 町
+{0}pk+ 票
+{0}pk+pele.liutmo 豊田
+{0}pk+pa+wrjele.liutmouie 豊田市
 {0}pk+ydhrfy.luuvho 鲁昂
 {0}pk+uuiekh.nsocyi 農村
 {0}pk+uhiiekh.nsojii 農機
@@ -820,6 +823,7 @@
 {0}ya+ka+wddbku.riebfuiju 日本産
 {0}ya+ka+su.riebfurfo 日本人
 {0}ya+ka+jx+dskkfur.riebfuyhixko 日本央行
+{0}ya+ka+jf+jk+hi+ueejuoubnui.riebfuxtoyrojiigze 日本学生支援機構
 {0}ya+jm.ygdkk.bdoxtubai 白雪巴
 {0}ya+je+kcizndd.bdoxteqqo 白血球
 {0}nyt+t 混
@@ -1409,6 +1413,7 @@
 {0}xa+zjkvk.tmiofi 天真
 {0}xa+vp+nebk.daexiiyho 大西洋
 {0}xa+vxmr.daeyeo 大爷
+{0}xa+vmdm.quiffi 区分
 {0}xa+vs+ykpczl.daersolle 大容量
 {0}xa+wxo.jmitzo 尖头
 {0}xa+wujggv.fueqbi 父親
@@ -3621,6 +3626,7 @@
 {0}mu.stojsrd.biesou 闭锁
 {0}mu.eyxjrd.biemue 闭幕
 {0}mu.ihixf.ogiyie 争议
+{0}mg 己
 {0}mg+hi+if+fokdsfi.veegxidoivru 厄瓜多尔
 {0}mg+csmggg.jtoqiu 崛起
 {0}mg+oa+ta+he+rr,sdbkfmixlzf.veevrunionoeuiejme 厄尔尼诺事件
@@ -4781,6 +4787,7 @@
 {0}wm+nifnnu.yzoysu 游泳
 {0}wm+xrcjk.xpuzde 写在
 {0}wm+rikoknw.yuipio 淤蚽
+{0}wm+zkkgjk.xpuwjo 写完
 {0}wm+zfujk.xpuzie 写字
 {0}wm+zjkvjk.xpuofi 写真
 {0}wm+wviwu.yzohui 遊戯
@@ -5189,6 +5196,7 @@
 {0}os+nwlohj.naello 納涼
 {0}os+xa+zfuhkiw.hvewfozie 絵文字
 {0}os+ui+ix+jf+vhklsrou.gwufuejluxtojbi 給付奨学金
+{0}os+ui+fc,ix+jf+vhklskrou.gwufuexkojluxtojbi 給付型奨学金
 {0}os+uksjhki.hvebku 絵柄
 {0}os+wudkrhc.wwoxbi 維新
 {0}os+wlesnhc.wwohue 維護
@@ -6426,6 +6434,7 @@
 {0}li+jblxl.qieyse 器用
 {0}ld+przjkwfn.ueeoie 設置
 {0}ld+yskjvwzl.hxetio 話題
+{0}ld+xk+jghozlgl.gsiqioxme 宮崎県
 {0}ld+twyzwh.vdidce 哀悼
 {0}ld+rrrzl.gsiiri 宮川
 {0}ld+rf,tu+kevzgpic.keeloodieyae 克罗地亚
@@ -6788,6 +6797,7 @@
 {0}end+l 落
 {0}en+wuii.duegoe 度过
 {0}ex 关
+{0}ex,zkmsw.ssejxi 送家
 {0}ex,weew.ssejbe 送进
 {0}ex,sdw.sserue 送入
 {0}ex,lhkil.vdiyoi 哎哟
@@ -6839,6 +6849,7 @@
 {0}eh+mijggm.ojulju 展覧
 {0}eh+wjkcm.ojuwhe 展望
 {0}eh+kem.ojukdi 展开
+{0}eh+kkom.ojuuie 展示
 {0}eh+fhzllm.ojugru 展馆
 {0}ec+lllun.yhepbu 様品
 {0}ec+itkun.yheuie 様式
@@ -8528,6 +8539,7 @@
 {0}kc+sbr.olenmo 壮年
 {0}kc+sbkvpi.gooode 国債
 {0}kc+suks.qrotiu 全体
+{0}kc+sixsf.dcefuo 倒伏
 {0}kc+skkipi.goohve 国会
 {0}kc+sjpi.goonwe 国内
 {0}kc+lg+oa+cekhivndk.lkolrebuekji 凌乱不堪
@@ -10273,6 +10285,7 @@
 {0}ja+uwhss.nweheo 内核
 {0}ja+ui+ba+dgiznu.ytecyiuzuqqo 月村手毬
 {0}ja+ui+zv+rjxxuiv.yzucyimaoyhi 有村麻央
+{0}ja+hopy.mkoxie 明細
 {0}ja+hi+ta+kl+dbtddxuiss.yzujiihxeheowue 有機化合物
 {0}ja+hkizx.yzuxme 有线
 {0}ja+czmrn.ytebce 月報
