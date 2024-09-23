@@ -102,6 +102,7 @@
 {0}bm+iqtmo.maulue 馬鹿
 {0}bm+ia+ezzhmox.mautdevji 馬太鞍
 {0}bm+db,mdxnmomg.mauwwufae 馬尾髪
+{0}bm+dr+xa+jt+ydbkmovfkjn.mautietmivdexki 馬剃天愛星
 {0}bm+dulvog.jrujii 卷积
 {0}bm+dsivfmo.mauuue 馬術
 {0}bzf+r 邦
@@ -382,6 +383,7 @@
 {0}pr+ea+zuibe.yaijkuuzu 押井守
 {0}pr+dl+ebmkkefwl.mgeovixlo 夢追翔
 {0}pr+kcrfwj.yuedce 遇到
+{0}pr+kk.mkhkfsi.fuehveohu 副会長
 {0}pr+ka+isujiz.jtouielee 爵士楽
 {0}pr+fy+xa+rrkjsjss.vzuxledaeuii 偶像大师
 {0}pr+fy+xa+dlkrjsjss.vzuxledaeuii 偶像大師
@@ -4455,6 +4457,7 @@
 {0}vl.fjbvg.rvejnu 鋭角
 {0}ve+psrreu.yeejpe 業界
 {0}ve+wlcjgjej.gzeduo 購読
+{0}ve+sdjej.gzerue 購入
 {0}ve+ivdgieu.yeemoo 業魔
 {0}vi+ggzx.tuiiui 突出
 {0}vi+lzt.ilikzu 窓口
@@ -8261,6 +8264,7 @@
 {0}da+jdgo.ucujme 少见
 {0}kb+xluhzr.bhujxe 绑架
 {0}kb+cwshzr.bhuzzu 绑走
+{0}kb+zkwshzr.bhudke 绑定
 {0}kp+bkhiobwi.duosue 毒素
 {0}kp+yt+lj+ujkycdiwcl.lledeadneoai 量的調査
 {0}kp+yskjvuo.bnitio 標題
@@ -9384,6 +9388,7 @@
 {0}fu+dbjgh.hcukje 好看
 {0}fu+dyirz.ziejpo 字節
 {0}fu+dnwh.hcuiue 好处
+{0}fu+duyh.hcuxli 好香
 {0}fu+durz.zieosu 字种
 {0}fu+dsuiz.ziefuo 字符
 {0}fu+kpmrz.ziemme 字面
