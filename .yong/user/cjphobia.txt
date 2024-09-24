@@ -393,6 +393,7 @@
 {0}pu+uecnei.zyiyhe 尊様
 {0}pu+hr.lounvu 裸女
 {0}pu+swcwh.gououe 裹住
+{0}pu+elsxei.zyijke 尊敬
 {0}pu+dzpcei.zyiose 尊重
 {0}pu+fue.gouzia 菓子
 {0}pu+fa+zkmsziy.orimfojxi 専門家
@@ -6396,6 +6397,7 @@
 {0}le+mdxnwsn.huefae 護髪
 {0}le+zskvcl.jxibbi 嘉宾
 {0}le+zkdvcl.jxibbi 嘉賓
+{0}le+wtevwqv.qmixui 謙虚
 {0}le+wvjlkbk.coiuhi 磋商
 {0}le+wsrfcl.xiujue 喜劇
 {0}le+wlodk.tmodmu 甜点
@@ -8661,6 +8663,7 @@
 {0}kw+za+diyss.uieufomea 是什么
 {0}kw+vj+ve+wlcjgzsejej.dkeqiigzeduo 定期購読
 {0}kw+vj+li+moskszsewtk.dkeqiiuieyje 定期試験
+{0}kw+vj+dytizse.dkeqiidea 定期的
 {0}kw+wlkozzs.dkepko 定評
 {0}kw+wlkklzs.dkeyuu 定語
 {0}kw+ohsxzs.dkeuue 定数
