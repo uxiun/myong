@@ -302,6 +302,7 @@
 {0}ba+cjks.uzuosu 手塚
 {0}ba+ca+epduej.yhoduejyi 羊肚菌
 {0}ba+mehx.ieioju 车展
+{0}ba+zxyj.yseoeu 用者
 {0}ba+za+ba+hilsus.nmomoenmouiu 年末年始
 {0}ba+vzkso.bjedke 半錠
 {0}ba+va+yuiof.bjexnuuio 半小时
@@ -4302,6 +4303,7 @@
 {0}za+ui+jv+jwunu.uiocyiufiyte 辻村深月
 {0}za+udfm.vrujii 耳机
 {0}za+gd+od+howiyyjgn.zcujmeuaioii 早見沙織
+{0}za+csmgy.zcuqiu 早起
 {0}za+mdbgu.moewwu 末尾
 {0}za+mkklid.qmixyo 千尋
 {0}za+znk.gjeoii 干支
@@ -6317,6 +6319,7 @@
 {0}lw+idmss.cueigo 促成
 {0}lw+fs+cx+dryiwouie.miooiimwutue 謎之美兎
 {0}lo.bgw.dmujii 点击
+{0}lo.nidow.dmumpe 点滅
 {0}lo.te+klkubeu.lboyeeuio 磷葉石
 {0}lo.rb,rtpevwn.jkijbijie 京津冀
 {0}lo.rrkry.ocepme 照片
@@ -7988,6 +7991,7 @@
 {0}dm+ka+ob+wxxmiuhkv.igobfujiixne 成本績効
 {0}dm+fsrkidru.fuidje 孵蛋
 {0}dm+jtlgdri.lrubci 卵胞
+{0}dm+jl+tdbkwd.fhixlexke 方向性
 {0}dm+jdr.mcuyte 卯月
 {0}dm+ja+okgdr.mcuytegli 卯月光
 {0}dzu 朱
@@ -9516,6 +9520,7 @@
 {0}fii 多
 {0}fi+ba+xx,xa+we+lwjjjebh.tsiysewhugrijpikzu 通用网关接口
 {0}fi+ycuiwj.tsiuio 通時
+{0}fi+ykpckz.cjolle 残量
 {0}fi+nzwzkz.cjoziu 残滓
 {0}fi+xbwj.tsiiei 通车
 {0}fi+xrfukz.cjocyo 残存
@@ -9666,6 +9671,7 @@
 {0}jp+dcxmkg.dmedse 電動
 {0}jp+dkfrkg.dmeyzo 電郵
 {0}jp+kg+la+okgok.dmegliuiohou 電光石火
+{0}jp+kckg.dmeyai 電圧
 {0}jp+fx+sitkgs.dmeqiedde 電気代
 {0}jp+fukg.dmezia 電子
 {0}jp+jx+vd+xa+uu.dbcuikdekrwu.lwovcesiiwfosfitee 雷奥斯文森特
@@ -9810,6 +9816,7 @@
 {0}jg+pu+tdei.ziezyixbi 自尊心
 {0}jg+pkcid.ziegoo 自国
 {0}jg+pa+iendr.zieyzodue 自由度
+{0}jg+yfykv.yeejmi 頁間
 {0}jg+yfexu.xligri 相関
 {0}jg+yjd.ziemko 自明
 {0}jg+ntlgy.mcepce 冒泡
