@@ -726,6 +726,7 @@
 {0}yk+wljlbs.tiogci 提高
 {0}yk+omkb.djidhi 担当
 {0}yk+syybs.tioihe 提倡
+{0}yk+slub.djibcu 担保
 {0}yk+sevbs.tiogsi 提供
 {0}yk+sdcb.djirfe 担任
 {0}yk+sklcd.ihuheo 場合
@@ -738,6 +739,7 @@
 {0}yk+kpydkbs.tioxku 提醒
 {0}yk+kcrfbs.tiodce 提到
 {0}yk+km+fd+esudczshm.hlojxinduiao 皇家奶茶
+{0}yk+kkobs.tiouie 提示
 {0}yk+filbs.tiomko 提名
 {0}yf+ytdddy.jmuyie 簡易
 {0}yf+yjdy.jmumko 簡明
@@ -2345,6 +2347,8 @@
 {0}ug+kciznf.ksuqqo 孔球
 {0}ug+fw+llljddh.ruuoiepbu 乳製品
 {0}ug+jdynj.ruuxme 乳腺
+{0}uh.wlwvhd.wwurhe 委譲
+{0}uh.sdcd.wwurfe 委任
 {0}uh.ljgvd.wwuyro 委員
 {0}uh.jg+mkhdlv.wwuyroohu 委員長
 {0}uh.jg+skkidlv.wwuyrohve 委員会
@@ -2657,6 +2661,7 @@
 {0}uj+hopok.cuixie 粗細
 {0}uj+ztdgwgg.qbimie 親密
 {0}uj+zrhdry.dceqii 稲妻
+{0}uj+zkwsd.ceedke 策定
 {0}uj+wmssxwgg.qbizuo 親族
 {0}uj+ouwdlok.cuicci 粗糙
 {0}uj+sk+gdryel.dceheouji 稲荷山
@@ -4542,6 +4547,7 @@
 {0}vf+dbkwu.lrougi 孪生
 {0}vf+kfkjvz.qsodku 穹頂
 {0}vj+ye.qiirie 期日
+{0}vj+ykpcwl.uhille 商量
 {0}vj+yfye.qiijmi 期間
 {0}vj+rmye.qiijmi 期间
 {0}vj+uze.qiimoe 期末
@@ -5213,6 +5219,7 @@
 {0}os+dsykihj.naedeo 納得
 {0}os+dlkrjhki.hveuii 絵師
 {0}os+kpmrhki.hvemme 絵面
+{0}os+kgphki.hvehxe 絵画
 {0}ol.yh+lg+nkdoisjud.hoegfilreyro 祸根乱源
 {0}ol.yidg.ouerie 祝日
 {0}ol.nuxk.fzujto 否決
@@ -5706,6 +5713,7 @@
 {0}sc 仕
 {0}scl 售
 {0}sc+bt,wlskjlddd.wwowuelye 唯物論
+{0}sc+bwrdw.jbebue 進捗
 {0}sc+bdws.tuouzu 徒手
 {0}sc+nkfln.hkoheo 淮河
 {0}sc+njvfb.tvicee 推測
@@ -6122,6 +6130,7 @@
 {0}sa+ierjf.qmexio 欠席
 {0}sa+dbtdd.rfowue 人物
 {0}sa+dbk.rfougi 人生
+{0}sa+dn+ls+hudkrulwdd.rfogeoofudre 人格診断
 {0}sa+dt+cr,wljlsskkf.csodiidcegci 从低到高
 {0}sa+dur.rfoosu 人种
 {0}sa+dufo.rfoigi 人称
@@ -6218,6 +6227,7 @@
 {0}lu+wlskjwi.tculye 討論
 {0}lu+wlesns.bcuhue 保護
 {0}lu+oe+sljesfb.bcuxmiheo 保鮮盒
+{0}lu+oe+jeyxsfb.bcuxmimoo 保鮮膜
 {0}lu+srdds.bcuxqi 保修
 {0}lu+sfxbs.bcujme 保健
 {0}lu+le+mxswsn.bcuhuequi 保護区
@@ -6561,6 +6571,7 @@
 {0}lj+na+kozwl.gciuvupko 高水平
 {0}lj+xrjwcl.dnebue 調布
 {0}lj+riteuz.huodpo 胡蝶
+{0}lj+uxkwkwcl.dneogu 調整
 {0}lj+ur+stwlw.gcisuehxe 高速化
 {0}lj+uw+bznwldz.gcikeijie 高科技
 {0}lj+uouhwl.gcilzo 高楼
@@ -6746,6 +6757,7 @@
 {0}ey+tk+hl+lmrfuxiiv.moouieuiobpo 模式识别
 {0}ey+tk+va+kpmguxim.moouiepiupwe 模式匹配
 {0}ey+tk+lw+lmrfuxiwiy.moouieuiobpo 模式識別
+{0}ey+ta+ux+zkwswtcn.yieoiejtodke 意志決定
 {0}ey+uecnux.mooyhe 模様
 {0}ey+ueejux.moogze 模構
 {0}ey+ue+jvrfjjd.mieigozeo 冪乗則
@@ -6850,6 +6862,7 @@
 {0}eg+lwsnj.mjuzuo 満足
 {0}eg+ebkw.nieiae 逆差
 {0}eg+ka+uewkjw.driuheldo 端上来
+{0}eg+fdnwj.suejio 遡及
 {0}eg+jsynnj.mjufue 満腹
 {0}ehk+i 药
 {0}eh+yfkem.ojukdi 展開
@@ -7875,6 +7888,7 @@
 {0}du+du+hpwiefef.lieliemuu 莉莉姆
 {0}du+dejfdi.ueejme 射箭
 {0}du+kflef.liekeu 莉可
+{0}du+ja+tdbkwmy.tzemkoxke 透明性
 {0}du+ja+wv+ezjrjwmyjx.tzemkojnidde 透明胶带
 {0}du+ja+sa+yfywmy.tzemkorfojmi 透明人間
 {0}dg 看
@@ -8878,6 +8892,7 @@
 {0}kd+sbmxfxr.jnivce 骄傲
 {0}kd+svslmy.xiosuo 習俗
 {0}kd+sizllzv.bbigru 賓館
+{0}kd+sdbno.yrojme 源件
 {0}kd+skis.pkiphi 乒乓
 {0}kd+exwkllnl.luejku 路警
 {0}kd+eg+wd+jk+llixlhnwwkjsmzv.osidrifhuofiqie 终端仿真器
