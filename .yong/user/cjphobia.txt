@@ -994,6 +994,7 @@
 {0}na+odjgd.fjuugu 反省
 {0}na+okg.uvugli 水光
 {0}na+suiz.oiifue 支付
+{0}na+swe.uvuwwe 水位
 {0}na+sffskn.uliqki 双氢
 {0}na+lz+zevvxwjk.yzuyiesde 友誼賽
 {0}na+ebjg.uvuoea 水着
@@ -1725,6 +1726,7 @@
 {0}ta+zzwvxt.biujne 比較
 {0}ta+zw,zk+jg+futzvxnvde.biujneyjusrezia 比較演算子
 {0}ta+zjhiop.siisou 思索
+{0}ta+wxuii.ykidve 応対
 {0}ta+wtptp.siilve 思慮
 {0}ta+wlidmr.osiigo 忠誠
 {0}ta+wlkwk.xbioge 心証
@@ -1872,6 +1874,7 @@
 {0}rr,fdsxmzf.uiewue 事務
 {0}rr,jr+rn+vfknzfefh.uieqmouzilue 事前収録
 {0}rr,jkxmbj.bhioue 帮助
+{0}rr,jkxms.jpeoue 介助
 {0}ru 被
 {0}rc,bu+zm+dclxdycrn.zdejiobcegce 在籍報告
 {0}rc,pkkgfvn.lkoyro 陵园
@@ -2834,6 +2837,7 @@
 {0}gd+wdmjg.jmefhi 見方
 {0}gd+ojjdgjzk.uvejto 睡觉
 {0}gd+evjkn.xxeqii 夏期
+{0}gd+dbkkn.xxeugi 夏生
 {0}gd+db,dk+ecxwyomgdjv.jqewwuxuimwu 鷲尾須美
 {0}gd+kickn.xxeoie 夏至
 {0}gd+jglhtjzk.uvemmo 睡眠
@@ -3101,6 +3105,7 @@
 {0}hi+kjkkvgi.yzilko 幽霊
 {0}hi+fxrbbs.niujme 拟建
 {0}hi+frxbbs.niuofe 拟阵
+{0}hi+fr+sc+dskkfdokfw.xielpejbexko 系列進行
 {0}hi+fkskkitk.uieyje 试验
 {0}hi+jk+kfcgikkv.yzilkoxko 幽霊型
 {0}hdn 線
@@ -3215,6 +3220,7 @@
 {0}cy+itkr.uuiuie 書式
 {0}cy+dp+llixlrd.uuilqoqie 書留器
 {0}cy+jwmkr.uuixpu 書写
+{0}cn+jzfgs.oiiwje 隻腕
 {0}cx+bjfmudm.dsejke 動静
 {0}cx+prfie.mwuloo 美罗
 {0}cx+pkcie.mwugoo 美国
@@ -3839,6 +3845,7 @@
 {0}md+wgxjv.ffilio 分离
 {0}md+wmkdkr.souyuu 所与
 {0}md+wzirzv.ffibme 分辨
+{0}md+wvtr.iuilme 初恋
 {0}md+wlpjdkr.souwwe 所謂
 {0}md+wlmklv.fficio 分詞
 {0}md+wlfuv.ffixlu 分享
@@ -4122,6 +4129,7 @@
 {0}zz,dp+cx+nspwnjde.icolqomwuhdu 潮留美海
 {0}zz,ddxlj.icoxne 嘲笑
 {0}zz,kckkgnj.icowjo 潮玩
+{0}zz,fi+sk+kjpgnjnfxt.icoxiifaidme 潮汐発電
 {0}zz,fjmdbmpt.tkijpu 聴解
 {0}zvf 穹
 {0}zv+yjmlt.csimko 聪明
@@ -4302,6 +4310,7 @@
 {0}zj+foebz.icoxmi 朝鮮
 {0}zj+jwmkcv.tmoxpu 填写
 {0}za+ybkjd.qmiqko 千晴
+{0}za+ykzk.gjehje 干旱
 {0}za+nurvy.zculde 早瀬
 {0}za+nwrdk.gjeuee 干渉
 {0}za+ur+cwsynv.zculdezzu 早瀬走
@@ -4456,6 +4465,7 @@
 {0}vl.ncijg.toifau 脱法
 {0}vl.ggjg.toiiui 脱出
 {0}vl.gjxjg.toighu 脱岗
+{0}vl.cwsjg.toizzu 脱走
 {0}vl.cimrjg.toiqte 脱却
 {0}vl.mztg.ytevru 悦耳
 {0}vl.za+td+wlmgtgmyd.ytevruyiejie 悦耳易記
@@ -5991,6 +6001,7 @@
 {0}sk+wlkwkus.jmuoge 検証
 {0}sk+weyfxt.faiybi 発音
 {0}sk+wexfxt.faisse 発送
+{0}sk+wkjk.lmuuhe 脸上
 {0}sk+wfijwu.tuotsi 途通
 {0}sk+ofxt.faihou 発火
 {0}sk+oa+nzsvllf.haivrubbi 哈尔滨
@@ -6173,6 +6184,7 @@
 {0}lt+uk+ea+dbjgvsu.zsutiuldokje 总体来看
 {0}lt+hkwigv.zsutsu 总统
 {0}lt+mmlv.zsujuo 总局
+{0}lt+ziwdhv.zsucdo 总裁
 {0}lt+wlddii.gjuxpe 感謝
 {0}lt+weyti.gjuyie 感意
 {0}lt+ojjggi.gjujto 感覚
@@ -6695,6 +6707,7 @@
 {0}la+sitz.guudde 古代
 {0}la+skflh.ruoheo 如何
 {0}la+sj.kzunwe 口内
+{0}la+lu+eidkkdn.uiopoemce 石破茂
 {0}la+lc+wlotwjg.jueduodmu 句読点
 {0}la+exlh.ruoroe 如若
 {0}la+ecie.kzugde 口蓋
@@ -6901,6 +6914,8 @@
 {0}ev+udnlkd.yjogeo 严格
 {0}ev+ggy.xmuiui 显出
 {0}ev+ggne.yieiui 溢出
+{0}ev+hm.uo+nkflkfkf.yaemausyiheo 亚马孙河
+{0}ev+hm.fuokfk.yaemausyi 亚马孙
 {0}ev+hoskls.gsigwu 供給
 {0}ev+cwsyn.bcezzu 暴走
 {0}ev+cd+wlkklpebi.yieyieyuu 異義語
@@ -6922,6 +6937,7 @@
 {0}ev+ir+va+jr+km+uhiiknrkkifg.yaeozijbirsowwijii 亚洲金融危機
 {0}ev+ioks.gsiyki 供应
 {0}ev+db,rcwdhptk.yiexkeoli 異性装
+{0}ev+dt+edufkb.yaetoilie 亚托莉
 {0}ev+dulkczs.sdeigo 赛程
 {0}ev+dg+vfrdpl.yiexsidie 異兄弟
 {0}ev+dzpckd.yjoose 严重
@@ -7135,6 +7151,7 @@
 {0}ea+sr+hodyntpr.uiejpexme 世界線
 {0}ea+sr+scjggtpr.uiejpegri 世界観
 {0}ea+sukw.lietiu 立体
+{0}ea+sitt.uiedde 世代
 {0}ea+skkik.kdihve 开会
 {0}ea+sf+xbkwx.kdiyeeiei 开夜车
 {0}ea+lmrfi.bmebpo 弁別
@@ -7355,6 +7372,7 @@
 {0}io+xmc.reelie 熱力
 {0}io+tbkjc.reeqko 熱情
 {0}io+rc.reeosi 熱中
+{0}io+rmwrjb.reence 热闹
 {0}io+riiirrjc.tholho 螳螂
 {0}io+ra+xkwkc.reeosioge 熱中症
 {0}io+hodync.reexme 熱線
@@ -7881,6 +7899,7 @@
 {0}du+weybp.boiybi 播音
 {0}du+wedgf.rzodce 柔道
 {0}du+wjjlwm.tzegoe 透過
+{0}du+oubkjdi.ueejki 射精
 {0}du+oj+ud+uw+bznwmidgwkrdz.tzeuiexbikeijie 透视新科技
 {0}du+edufef.lielie 莉莉
 {0}du+iojdgwm.tzeuie 透视
@@ -8857,6 +8876,7 @@
 {0}kl+jkidg.kleqpu 况且
 {0}kl+jk+ma+tncgnlm.yjodsejuegke 岩洞巨怪
 {0}ke+bzfygfb.xmiyje 鲜艳
+{0}ke+rpgki.iuodme 厨电
 {0}ke+imwdmki.iuofho 厨房
 {0}ke+ka+xksjkik.iuovrebke 厨二病
 {0}ki.nldgrx.olekle 状況
@@ -8958,6 +8978,7 @@
 {0}kk.wi+zkkvg.sjiiseuie 三銃士
 {0}kk.wdnbh.ofefju 振返
 {0}kk.wdmwg.yrufhi 远方
+{0}kk.wkmszg.wjoouo 完逐
 {0}kk.os+ishkhc.sjiwwozii 三維姿
 {0}kk.ojlrjmli.xyoiho 尋常
 {0}kk.oa+skkisik.hvebuehve 会不会
@@ -9322,6 +9343,7 @@
 {0}fx+tl+pwxsng.qiepcetuo 気泡図
 {0}fx+rpgd.fgidme 风电
 {0}fx+rn+fs+lkdnlsbii.jmekhioiilue 健康之路
+{0}fx+rf,vd+stssxwn.qiehzebmehxe 気候変化
 {0}fx+rf,vd+dcxmssxwn.qiehzebmedse 気候変動
 {0}fx+vmds.qieffi 気分
 {0}fx+wmsfss.qiexro 気旋
@@ -10198,6 +10220,7 @@
 {0}jk+dnwzv.ofidsi 真冬
 {0}jk+dubkvzk.oiojii 直積
 {0}jk+dcxmbg.ycodse 揺動
+{0}jk+dmkebg.ycoljo 揺籃
 {0}jk+dm+pwxzkw.oiofhituo 直方図
 {0}jk+dshinzk.oiohze 直後
 {0}jk+kphkjr.xuiyce 需要
@@ -10274,6 +10297,7 @@
 {0}jj.ia+vfknwlc.goequelue 過去録
 {0}jj.ia+kedddwlc.goequexko 過去形
 {0}jj.ia+fl+scuwlcy.goequewfejio 過去問集
+{0}jj.dn+ls+hudkrjulwdd.guugeoofudre 骨格診断
 {0}jj.dtrfwl.goeuge 過剩
 {0}jj.duldcwl.goeigo 過程
 {0}jj.duigynj.hxojii 滑稽
@@ -10307,6 +10331,7 @@
 {0}ja+xrfus.nwecyo 内存
 {0}ja+tbkjx.yzuqko 有情
 {0}ja+txfisx.yzuyio 有疑
+{0}ja+ts.nwexbi 内心
 {0}ja+tlgs.nwebci 内包
 {0}ja+tk+sxwk.yzuxpirfo 有些人
 {0}ja+ry+szjhxfh.yzuxmeoio 有限値
@@ -10325,6 +10350,7 @@
 {0}ja+mbmox.yzumau 有馬
 {0}ja+md+ntdsv.nweffimie 内分泌
 {0}ja+mk+yyc.yteycerie 月曜日
+{0}ja+zrrfx.yzuuie 有事
 {0}ja+zvsls.nwerso 内容
 {0}ja+zvkx.yzuksi 有空
 {0}ja+vwzzs.nwelme 内鏈
