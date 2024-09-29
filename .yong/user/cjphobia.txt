@@ -401,6 +401,7 @@
 {0}pu+jbzi.oriyse 専用
 {0}pg+yodddr.dmeyku 电影
 {0}pg+xx,jg+esklrjfv.dmewhufueheo 电网負荷
+{0}pg+uvfdr.dmetii 电梯
 {0}pg+ua+strf.dmeziahxe 电子化
 {0}pg+ua+ek+sukrfhu.dmeziamwotiu 电子媒体
 {0}pg+hd+kh+klfhkrizllm.dmehxehcemau 电话号码
@@ -544,6 +545,7 @@
 {0}pa+yrjxu.dsiyke 東映
 {0}pa+ya+uku.dsiriebfu 東日本
 {0}pa+ya+ka+xa+jk+hhouukkh.dsiriebfudaeofezdi 東日本大震災
+{0}pa+nspwu.dsihdu 東海
 {0}pa+nebu.dsiyho 東洋
 {0}pa+rktu.dsibwu 東北
 {0}pa+uytte.quigye 曲棍
@@ -553,6 +555,7 @@
 {0}pa+wlou.dsijki 東京
 {0}pa+wljcle.quidne 曲調
 {0}pa+wdmu.dsifhi 東方
+{0}pa+sp+dbkunw.dsihduugi 東海生
 {0}pa+lo.rp+vd+ta+su+pclhuwwekrmi,sikiioiiioeero 東京迪斯尼楽園
 {0}pa+lo.zyfruw.dsijkidzi 東京都
 {0}pa+dsfsk.tmojke 田径
@@ -581,6 +584,7 @@
 {0}yn.we+estdvg.qrojkehxi 泉鏡花
 {0}yx+yfyej.muejmi 幕間
 {0}yx+ta+pcoetm.mueniohwi 慕尼黑
+{0}yx+cykdec.mueihu 墓場
 {0}yx+ctuec.muedie 墓地
 {0}yx+vd+duwzeekr.moesiikei 莫斯科
 {0}yx+scuem.muejio 募集
@@ -1957,6 +1961,7 @@
 {0}rs+wdkrfui.fuejbe 附近
 {0}rs+wktfku.iuociu 除此
 {0}rs+okpcm.woeyji 臥煙
+{0}rs+ojfusd.xqixto 修学
 {0}rs+scuhx.uzijio 收集
 {0}rs+sm+uehxcg.uziqiuldo 收起来
 {0}rs+sisrjsd.xqiuie 修飾
@@ -1977,6 +1982,7 @@
 {0}rs+frwxjfui.fuesvo 附随
 {0}rs+frskkfku.iuoxmu 除险
 {0}rs+fffku.iuolea 除了
+{0}rs+jf+ms+dskkfsdouwdh.xqixtolvuxko 修学旅行
 {0}rl+ojfub.oeoxto 哲学
 {0}rl+kcpcb.oeoliu 哲理
 {0}rl+kozb.oeopko 哲平
@@ -2491,6 +2497,7 @@
 {0}ui+ezjrjs.fuedde 付帯
 {0}ui+evjw.goeqii 过期
 {0}ui+ihdzln.dvehxe 对话
+{0}ui+iocc.sieuee 寺社
 {0}ui+iokn.dveyki 对应
 {0}ui+ienw.goedue 过度
 {0}ui+ifify.uioxue 时序
@@ -4493,6 +4500,7 @@
 {0}vd+nciigi.moofau 魔法
 {0}vd+xmigi.moolie 魔力
 {0}vd+tdbkwn.bmexke 変性
+{0}vd+tdbkigi.mooxke 魔性
 {0}vd+tkwkigi.mooogi 魔怔
 {0}vd+ta+dhiowns.bmehxexie 変化系
 {0}vd+rp+lm+vfknwnkxwg.bmeggejielue 変更記録
@@ -5486,6 +5494,7 @@
 {0}oa+lu+nbxxkkdn.buepoecze 不破湊
 {0}oa+lwsk.buezuo 不足
 {0}oa+ls+zkwskkjc.bueqtedke 不確定
+{0}oa+le+tzjvkwrk.buejbuufe 不謹慎
 {0}oa+lf+jmrnksif.bueuuifuo 不舒服
 {0}oa+ekte.houzhe 火葬
 {0}oa+ixt.houlso 火龙
@@ -5680,6 +5689,7 @@
 {0}su+pclhi.leeyro 楽園
 {0}su+ydbkdbf.wwexki 衛星
 {0}su+tsjd.cdoohu 财长
+{0}su+hddn.biunvu 彼女
 {0}su+hkfskjd.cdojki 财经
 {0}su+scjggi.leegri 楽観
 {0}su+skldi.fuoheo 符合
@@ -6586,6 +6596,7 @@
 {0}lj+riteuz.huodpo 胡蝶
 {0}lj+uxkwkwcl.dneogu 調整
 {0}lj+ur+stwlw.gcisuehxe 高速化
+{0}lj+uwvxwl.gcixne 高校
 {0}lj+uw+bznwldz.gcikeijie 高科技
 {0}lj+uouhwl.gcilzo 高楼
 {0}lj+uomkwl.gcidhe 高档
@@ -9052,7 +9063,8 @@
 {0}kk.jd+bc,uuuerydui.ljopaeteesfi 兰帕特森
 {0}kk.jjxns.rfovde 仁爱
 {0}kk.ja+dmdkrsix.hveyzusou 会有所
-{0}kf 到
+{0}kf 丁
+{1}kf 到
 {0}kft, 恐
 {0}kfo 烈
 {0}kf+bgb.daujii 打击
@@ -9220,6 +9232,7 @@
 {0}ka+csmg.yiiqiu 一起
 {0}ka+cslg.yiiqiu 一起
 {0}ka+cdgi.yiikke 一塊
+{0}ka+mvdfnu.bfudme 本殿
 {0}ka+mijgg.yiilju 一覧
 {0}ka+mdbg.yiiwwu 一尾
 {0}ka+mkicu.bfuwui 本屋
@@ -9677,6 +9690,8 @@
 {0}fj+dfkridkv.juefgi 颶風
 {0}fj+kjsbx.hreyee 换页
 {0}fj+jbrgv.fweyse 費用
+{0}fa+xa+oa+xs+iokkwfwx.dkidaovruxneyki 丁达尔效应
+{0}fa+xa+fokw.dkidaovru 丁达尔
 {0}fa+tj+wlkklkzf.dkinkoyuu 丁寧語
 {0}fa+ztjfk.dkinko 丁寧
 {0}fa+evjd.jiuqii 几期
@@ -9770,10 +9785,12 @@
 {0}jt+ya+eg+xa+no+su+ecxcknjkedi,iidujumiaieewu 壱百満天原莎楽美
 {0}jt+nkdoit.ngoyro 能源
 {0}jt+xmit.ngolie 能力
+{0}jt+xa+kcrfitw.ngodaodce 能达到
 {0}jt+tlfifit.ngogze 能够
 {0}jt+hfujn.vdehcu 愛好
 {0}jt+cl+jt+ecxjnphjn.vdeyrovdemwu 愛園愛美
 {0}jt+ma+zxyitx.ngolieoeu 能力者
+{0}jt+wxit.ngodao 能达
 {0}jt+oa+ijttitk.ngobuengo 能不能
 {0}jt+sk+ba+dywgitfleo.ngodgibjedcu 能登半島
 {0}jt+sa+jjtnjnf.vdejquvde 愛久愛
