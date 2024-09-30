@@ -804,6 +804,7 @@
 {0}ya+sy+eprfdmk.bdoozemge 白昼夢
 {0}ya+sui.riefue 日付
 {0}ya+sssz.riesju 日傘
+{0}ya+siyh.rieuio 日食
 {0}ya+sklk.bduheo 百合
 {0}ya+lwsk.bduzuo 百足
 {0}ya+evje.rieyie 日益
@@ -812,6 +813,7 @@
 {0}ya+ejud.bdocde 白菜
 {0}ya+eju.riecde 日菜
 {0}ya+ihkkl.rieyuu 日语
+{0}ya+im+siyhsj.riepmiuio 日偏食
 {0}ya+ienk.bdudue 百度
 {0}ya+dulkc.rieigo 日程
 {0}ya+dwwdf.riehho 日航
@@ -4474,6 +4476,7 @@
 {0}vl.gjxjg.toighu 脱岗
 {0}vl.cwsjg.toizzu 脱走
 {0}vl.cimrjg.toiqte 脱却
+{0}vl.mxfsjg.toivzi 脱欧
 {0}vl.mztg.ytevru 悦耳
 {0}vl.za+td+wlmgtgmyd.ytevruyiejie 悦耳易記
 {0}vl.vtijg.toigzi 脱鈎
@@ -6156,6 +6159,7 @@
 {0}sa+dt+cr,wljlsskkf.csodiidcegci 从低到高
 {0}sa+dur.rfoosu 人种
 {0}sa+dufo.rfoigi 人称
+{0}sa+dwdflf.fwiiro 飞船
 {0}sa+dscwsp.qqotuo 囚徒
 {0}sa+dswcf.fwiwhu 飞往
 {0}sa+dskwkt.ohuogi 长征
@@ -9063,7 +9067,6 @@
 {0}kk.jd+bc,uuuerydui.ljopaeteesfi 兰帕特森
 {0}kk.jjxns.rfovde 仁爱
 {0}kk.ja+dmdkrsix.hveyzusou 会有所
-{0}kf 丁
 {1}kf 到
 {0}kft, 恐
 {0}kfo 烈
