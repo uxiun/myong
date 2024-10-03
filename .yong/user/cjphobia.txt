@@ -758,6 +758,7 @@
 {0}yf+opzdy.jmudji 簡単
 {0}yf+ot+ca+ecdbidyhkw.jmuytiouuyie 簡約主義
 {0}yf+sukdy.jmutiu 簡体
+{0}yf+sklzr.dziheo 都合
 {0}yf+ebjgku.hzeoea 厚着
 {0}yj 明
 {0}yjk+n 暖
@@ -1907,7 +1908,9 @@
 {0}rm+ta+zfudys.jmuhxezie 简化字
 {0}rm+uk+ra+wxdys.jmutiuosiwfo 简体中文
 {0}rm+uf+ixmidydo.jmuigiwwe 简称为
+{0}rm+hosjrkj.gvinae 帰納
 {0}rm+vpzdy.jmudji 简单
+{0}rm+os+ncirkjhj.gvinaefau 帰納法
 {0}rm+odjgrkj.gviugu 帰省
 {0}rm+srrdy.jmujpe 简介
 {0}rm+sukdy.jmutiu 简体
@@ -2208,6 +2211,7 @@
 {0}ra+tz+fkmkis.osihxoxyo 中华鲟
 {0}ra+tdbks.geexke 个性
 {0}ra+tdbk.osixke 中性
+{0}ra+rr,ss.osijperfo 中介人
 {0}ra+rkmw.osifwi 中非
 {0}ra+rkip.jxuiso 甲虫
 {0}ra+rjx.osiyhi 中央
@@ -2237,6 +2241,7 @@
 {0}ra+ohsxf.ybuuue 引数
 {0}ra+sxkle.osidru 中短
 {0}ra+stz.osihxo 中华
+{0}ra+srr.osijpe 中介
 {0}ra+suks.geetiu 个体
 {0}ra+ss.geerfo 个人
 {0}ra+six.osifuo 中伏
@@ -2326,6 +2331,7 @@
 {0}ut+skkidd.mieyyo 秘伝
 {0}ut+fpkydd.mieluu 秘鲁
 {0}ur+bdf.lieuzu 利手
+{0}ur+ba+zxydfj.lieyseoeu 利用者
 {0}ur+nrmcdf.lierye 利润
 {0}ur+njjjw.suehxo 速滑
 {0}ur+tu+dytidfs.lietaidea 利他的
@@ -2439,6 +2445,7 @@
 {0}us+wijzx.jneyue 教育
 {0}us+skkizx.jnehve 教会
 {0}us+ljgvzx.jneyro 教員
+{0}us+ecdbizx.jneyie 教義
 {0}us+duwzzx.jnekei 教科
 {0}us+dlkrjzx.jneuii 教師
 {0}us+fifixc.zaodoi 雑多
@@ -3014,6 +3021,7 @@
 {0}hz 线
 {0}hzk+s 嫁
 {0}hz+wuiifx.duogoe 读过
+{0}hz+eikmfll.grucho 馆藏
 {0}hz+irfi.jiehxe 计划
 {0}hz+djgei.jiesre 计算
 {0}hv+ga+ueilgg.uoiiuildo 说出来
@@ -3053,11 +3061,13 @@
 {0}hs+zjkvi.rfeofi 认真
 {0}hs+wlkfmx.gdudke 改訂
 {0}hs+we+hx+eh+wlfroxsinm.uuewwefaiojubue 数位发展部
+{0}hs+we+hz+eikmoxsfll.uuewwegrucho 数位馆藏
 {0}hs+ojfuox.uuexto 数学
 {0}hs+sxli.rfeoii 认知
 {0}hs+steyi.rfecoe 认错
 {0}hs+szjhox.uueoio 数値
 {0}hs+szjkox.uueoio 数值
+{0}hs+sweox.uuewwe 数位
 {0}hs+lllfrj.uiepbu 饰品
 {0}hs+iyhmx.gdullo 改良
 {0}hs+ixmii.rfewwe 认为
@@ -3067,6 +3077,7 @@
 {0}hs+kyox.uuebdu 数百
 {0}hs+kcpcox.uueliu 数理
 {0}hs+kcpcit.lyeliu 论理
+{0}hs+klfhkox.uuemau 数码
 {0}hs+kktmx.gduvee 改悪
 {0}hs+fu+ui+yt+kk.hl+dsuioxznfsuoiv,ueieveleniiouo 数字对象标识符
 {0}hs+fu+vf+dbkoxzwu.uuezielrougi 数字孪生
@@ -3551,6 +3562,7 @@
 {0}cj+fytskgg.xmexle 現象
 {0}cj+fxrbk.zdejme 再建
 {0}cj+fm+bk+ikldgkdgcdtj.xmeihuqkokle 现场情况
+{0}cj+jbkgg.xmeyse 現用
 {0}ca+bcuiw.ouuiio 主持
 {0}ca+bc,weddui.tuuteeiju 土特产
 {0}ca+bdupw.ouuboi 主播
@@ -3971,6 +3983,7 @@
 {0}mf+sdrhk.ilurue 闯入
 {0}mf+ed,hmkfuw.yyeijufue 孕产妇
 {0}mf+kpjklfu.yyetso 孕酮
+{0}mj.nldgie.ugekle 盛況
 {0}mj.rk+sukieus.bmutcotiu 扁桃体
 {0}mj.rjklpi.jmifuo 肩幅
 {0}mj.urksie.bmutco 扁桃
@@ -4106,6 +4119,7 @@
 {0}zr+wjscdt.gkilio 乖離
 {0}zr+ssx.uiurfo 使人
 {0}zr+sklrsx.uiumke 使命
+{0}zr+dskkfkf.kjixko 刊行
 {0}zr+jbmpm.pbeyse 聘用
 {0}zr+jbsx.uiuyse 使用
 {0}zu 未
@@ -4322,6 +4336,7 @@
 {0}zj+stjserj.ddehoe 带货
 {0}zj+siyhz.icouio 朝食
 {0}zj+sduk.oiorue 植入
+{0}zj+sdcv.tmorue 填入
 {0}zj+dbtdduk.oiowue 植物
 {0}zj+dbkuk.oiougi 植生
 {0}zj+dzpctv.ufeose 慎重
@@ -4358,6 +4373,7 @@
 {0}za+la+se+fudkbo.qmiuiofuuzia 千石撫子
 {0}za+ikfmuk.gjejke 干净
 {0}za+if+gfifi.uiodoisve 十多岁
+{0}za+ia+ykwssd.ufomeauie 什么是
 {0}za+dis.ufomea 什么
 {0}za+dkls.wuuhze 午后
 {0}za+kpdnlk.gjelce 干酪
@@ -4547,6 +4563,7 @@
 {0}vd+ieigi.moojpe 魔戒
 {0}vd+dqdwn.bmeufi 変身
 {0}vd+dn+ia+zldgekrnls.siiloefaokee 斯洛伐克
+{0}vd+dudzcwn.bmeosu 変種
 {0}vd+dcxmwn.bmedse 変動
 {0}vd+dsivfigi.moouue 魔術
 {0}vd+krpxwn.bmegge 変更
@@ -4558,6 +4575,7 @@
 {0}vk+nspwz.ksihdu 空海
 {0}vk+nevgz.ksighu 空港
 {0}vk+ndzljtk.fuehoo 賦活
+{0}vk+xa+zfuzw.ksiwfozie 空文字
 {0}vk+rz.ksiosi 空中
 {0}vk+ra+dm+sfyszi.ksiosiigoxle 空中成像
 {0}vk+udnlz.ksigeo 空格
@@ -4933,6 +4951,7 @@
 {0}we+wlmgyy.vjejie 暗記
 {0}we+wijcl.pwoyue 培育
 {0}we+wdkrbh.jpijbe 接近
+{0}we+ohsxsl.bweuue 倍数
 {0}we+oc+wlmklbhhjg.jpixuecio 接続詞
 {0}we+oa+dm+cydnki.qiebueigougi 泣不成声
 {0}we+srprb.laiufi 拉伸
@@ -4999,6 +5018,7 @@
 {0}wd+cx+jk+zzjbfebn.khemwuyroico 抗美援朝
 {0}wd+zjkvsm.fhuofi 仿真
 {0}wd+wlecibf.kheyie 抗議
+{0}wd+ohsxsh.yiiuue 依数
 {0}wd+srrfsm.fhufuo 仿佛
 {0}wd+ssmsm.fhuzoe 仿作
 {0}wd+sitsh.yiidde 依代
@@ -5157,6 +5177,7 @@
 {0}oc+mkhi.ueeohu 社長
 {0}oc+za+sk+shvnwdkf.lkouioxkorfo 綾辻行人
 {0}oc+vx+xx,wewliwj.ueejniwhuoje 社交网站
+{0}oc+vx+ek+sukiwhu.ueejnimwotiu 社交媒体
 {0}oc+wm+hmbrhsprkk.seefwunae 繬翡娜
 {0}oc+wzhvn.lkouio 綾辻
 {0}oc+wvxi.ueejni 社交
@@ -5289,6 +5310,7 @@
 {0}oi+idmhmj.bmiigo 編成
 {0}oi+duldchmj.bmiigo 編程
 {0}oi+dskkfwxg.jqexko 就行
+{0}oi+djgohmj.bmizru 編纂
 {0}oi+kphwxg.jqeyce 就要
 {0}oi+kw+ihvlgwxgys.jqeuieuoi 就是说
 {0}oi+fpofxg.yzoyuo 魷魚
@@ -6353,6 +6375,7 @@
 {0}lz+jg+uhiiwde.jiesrejii 計算機
 {0}lv 只
 {0}lv.yjwlg.uoimko 説明
+{0}lv.ja+skkiwlgy.uoimkohve 説明会
 {0}lw+bkjgvwrl.qmuzeo 譴責
 {0}lw+yflwdm.fhuwfe 訪問
 {0}lw+rrkrksz.svepme 碎片
@@ -6549,6 +6572,7 @@
 {0}lk+zvxfke.yjojqi 研究
 {0}lk+zevckrx.ykesdi 硬塞
 {0}lk+vx+zxykezf.yjojqioeu 研究者
+{0}lk+vx+zkickezf.yjojqiuie 研究室
 {0}lk+vx+dmdkrkezf.yjojqisou 研究所
 {0}lk+vx+frzkgkezf.yjojqiyre 研究院
 {0}lk+wxzjs.veotzo 额头
@@ -6795,7 +6819,7 @@
 {0}ep+kgpb.mnohxe 描画
 {0}ep+kcrfwy.zcidce 遭到
 {0}ep+jwmkb.mnoxpu 描写
-{0}ey+btxsux.mooniu 模擬
+{-}ey+btxsux.mooniu 模擬
 {0}ey+bhisux.mooniu 模拟
 {0}ey+ptwt.yiesii 意思
 {0}ey+przjkb.coeoie 措置
@@ -7169,6 +7193,7 @@
 {0}ea+hilk.kdiuiu 开始
 {0}ea+hkfdnd.ugijio 升级
 {0}ea+cykdw.lieihu 立場
+{0}ea+csmgd.ugiqiu 升起
 {0}ea+ck+ddxkkkg.kdiwjoxne 开玩笑
 {0}ea+ms+xd,mznkwxex.kdifhehoequu 开放获取
 {0}ea+ms+rf,mznkwxxu.kdifhecyoquu 开放存取
@@ -7325,6 +7350,7 @@
 {0}ic+wkk.oieuhe 至上
 {0}ic+odk.oieucu 至少
 {0}ic+sifk.oiejbi 至今
+{0}imj.e 盛
 {0}im+yodddh.hreyku 幻影
 {0}im+rkfiiyr.jiojli 即将
 {0}im+ugth.hrexlu 幻想
@@ -8635,6 +8661,7 @@
 {0}kc+lkezylfi.izoiuo 躊躇
 {0}kc+la+fs+pkciziki.bcuuiooiigoo 宝石之国
 {0}kc+ea+psrrst.qrouiejpe 全世界
+{0}kc+ea+kc+wx+cy+sizllpiwpipr.gooliegootuouuigru 国立国会図書館
 {0}kc+ixpi.gooqke 国庆
 {0}kc+il+usck.qroyuemue 全域木
 {0}kc+idkhpi.goowwi 国威
@@ -9298,6 +9325,7 @@
 {0}ka+wkpgx.zouqmi 左遷
 {0}ka+wa+nwmuwk.uhexxeyzo 上下游
 {0}ka+obw.uhebje 上半
+{0}ka+oc+sklxhl.zoujpoheo 左結合
 {0}ka+omku.bfudhi 本当
 {0}ka+ovb.yiijuu 一挙
 {0}ka+os+klmbokhc.vrewwomau 二維碼
@@ -9757,6 +9785,7 @@
 {0}jp+iojggkg.dmeuie 電視
 {0}jp+dcxmkg.dmedse 電動
 {0}jp+dkfrkg.dmeyzo 電郵
+{0}jp+djgekg.dmesre 電算
 {0}jp+kg+la+okgok.dmegliuiohou 電光石火
 {0}jp+kckg.dmeyai 電圧
 {0}jp+fx+sitkgs.dmeqiedde 電気代
@@ -10311,6 +10340,7 @@
 {0}jf+wkou.xtouhe 学上
 {0}jf+oxkjvou.xtolwe 学類
 {0}jf+sw,udnedjl.jmutpibju 剪贴板
+{0}jf+skkiou.xtohve 学会
 {0}jf+eg+jghobmuj.jkeghixme 静岡県
 {0}jf+eveuou.xtoyee 学業
 {0}jf+evjou.xtoqii 学期
