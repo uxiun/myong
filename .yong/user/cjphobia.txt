@@ -69,6 +69,7 @@
 {0}bc,rj+dhioduidgv.teeoiexie 特質系
 {0}bc,usxcdui.teeqro 特権
 {0}bc,hofdndui.teejio 特級
+{0}bc,czmrndui.teebce 特報
 {0}bc,mr+hoimjduilf.teebpobmi 特別編
 {0}bc,mr+mr+jgduilfe.teebpojpomue 特別节目
 {0}bc,mr+wr+kgpduilfsk.teebpoqiuhxe 特別企画
@@ -795,6 +796,7 @@
 {0}ya+czmrn.riebce 日報
 {0}ya+ci+ouvmddk.bdoyueffu 白玉粉
 {0}ya+msykd.bdooze 白昼
+{0}ya+mdxnd.bdofae 白髪
 {0}ya+md+wiszkv.bduffilve 百分率
 {0}ya+md+ifskv.bduffioii 百分之
 {0}ya+mk+zzjyc.rieyceico 日曜朝
@@ -1195,6 +1197,7 @@
 {0}xm+hp.njonvu 男女
 {0}xm+hotkzm.xpoyti 協約
 {0}xm+hojkp.njozuu 男組
+{0}xm+ha+wlskjp.njonvulye 男女論
 {0}xm+ca+fjcpw.njoouujnu 男主角
 {0}xm+mx+zkevs.suiyiiuie 苏伊士
 {0}xm+mr+rcwdhpjn.njofuooli 男服装
@@ -1568,6 +1571,7 @@
 {0}tu+pwxc.dietuo 地図
 {0}tu+pkcis.taigoo 他国
 {0}tu+nrpw.idoyzo 柴油
+{0}tu+xvdfns.taiuai 他殺
 {0}tu+ukkoc.diebni 地标
 {0}tu+cydc.dieugi 地声
 {0}tu+cx+wlmklsdm.taidsecio 他動詞
@@ -2172,6 +2176,7 @@
 {0}rj+cfmdw.uieihu 市场
 {0}rj+mmlx.buejuo 布局
 {0}rj+mkhw.uieohu 市長
+{0}rj+zldlkw.yuugsi 雨宮
 {0}rj+zevcfk.zuusdi 阻塞
 {0}rj+zfuex.ykizie 英字
 {0}rj+wxex.ykiwfo 英文
@@ -2311,6 +2316,7 @@
 {0}uy.duzptd.xlisve 香穂
 {0}un+yjdb.uiemko 释明
 {0}un+ur+kevsdf.xuelieyae 叙利亚
+{0}un+wmsxdb.uiefhe 释放
 {0}ux+bzrst.kkejpo 快捷
 {0}ux+ylot.kkeoce 快照
 {0}ux+tn.jtoxbi 決心
@@ -2866,6 +2872,7 @@
 {0}gi+id+fs+mdidnoi.gvumpeoiirfe 鬼滅之刃
 {0}gi+kidgid.gvuhyo 鬼魂
 {0}gd+ya+zp+kcjdgkndc.xxerieosexme 夏日重现
+{0}gd+rjyjgjzk.uvemce 睡帽
 {0}gd+ukjg.jmebfu 見本
 {0}gd+gl+vlfsjzkjht.uvemmoyue 睡眠欲
 {0}gd+mdbgwyo.jqewwu 鷲尾
@@ -4039,6 +4046,7 @@
 {0}ma+jugm.jueruu 巨乳
 {0}zp+bwehwz.lmojpi 連接
 {0}zp+bscmwz.lmoxpo 連携
+{0}zp+bkfwz.lmodau 連打
 {0}zp+przjkdc.oseoie 重置
 {0}zp+ph+tdbkdck.oseycexke 重要性
 {0}zp+ykpcdc.oselle 重量
@@ -4143,6 +4151,7 @@
 {0}zr+ssx.uiurfo 使人
 {0}zr+sklrsx.uiumke 使命
 {0}zr+dskkfkf.kjixko 刊行
+{0}zr+jb 使用
 {0}zr+jbmpm.pbeyse 聘用
 {0}zr+jbsx.uiuyse 使用
 {0}zu 未
@@ -4521,7 +4530,6 @@
 {0}vs+llixlzl.rsoqie 容器
 {0}vs+dubkvzl.rsojii 容積
 {0}vs+dufosl.suoigi 俗称
-{0}vl 説
 {0}vlt 总
 {0}vl.bg,sixjgd.toimcoyio 脱毛仪
 {0}vl.bg,llixljgd.toimcoqie 脱毛器
@@ -4875,6 +4883,7 @@
 {0}wc+ki.pwxurx.oueoletuo 柱状図
 {0}wc+jgn.ouemue 注目
 {0}wc+jjkn.ouecee 注册
+{0}wm 放
 {0}wm+nifnnu.yzoysu 游泳
 {0}wm+xrcjk.xpuzde 写在
 {0}wm+rikoknw.yuipio 淤蚽
@@ -5103,6 +5112,7 @@
 {0}wa+lmkjvk.xxevee 下顎
 {0}wa+lllk.xxepbu 下品
 {0}wa+ebjgk.xxeoea 下着
+{0}wa+evjk.xxeqii 下期
 {0}wa+ikfsk.xxecie 下次
 {0}wa+dzekk.xxeivo 下垂
 {0}wa+kpmrk.xxemme 下面
@@ -5804,8 +5814,6 @@
 {0}sh+dyirdin.hzejpo 後節
 {0}sh+kxdin.hzetmi 後天
 {0}sc 仕
-{0}scl 舎
-{1}scl 售
 {0}sc+bt,wlskjlddd.wwowuelye 唯物論
 {0}sc+bwrdw.jbebue 進捗
 {0}sc+bdws.tuouzu 徒手
@@ -9041,6 +9049,7 @@
 {0}kd+klfhkno.yromau 源码
 {0}kd+ki.kciznss.pkiphiqqo 乒乓球
 {0}kkh+m 巧
+{0}kkwl 言語
 {0}kk.bm+iqtkmo.sjimaulue 三馬鹿
 {0}kk.ba+sj+dzllkobgg.sjibjegvigru 三半規管
 {0}kk.ydbkk.sjixki 三星
@@ -9498,6 +9507,7 @@
 {0}ft,ctuk.siudie 死地
 {0}ft,whk.siuwho 死亡
 {0}ft,wepgk.ksulso 恐竜
+{0}ft,sukk.siutiu 死体
 {0}ft,itwdhk.ksuxio 恐袭
 {0}ft,iorprk.siuufo 死神
 {0}ft,dbkk.siuugi 死生
