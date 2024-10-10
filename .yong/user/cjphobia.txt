@@ -222,6 +222,7 @@
 {0}bk+dm+sj+jvrfdibgg.ugiigogvizeo 生成規則
 {0}bk+dm+llixldi.ugiigoqie 生成器
 {0}bk+dscwsd.ugituo 生徒
+{0}bk+dd,tdbkdwbk.ugiijuxke 生産性
 {0}bk+kud.ugiyuo 生于
 {0}bk+kcpcnj.qkiliu 清理
 {0}bk+kcpcd.ugiliu 生理
@@ -422,6 +423,7 @@
 {0}pg+jxxr.dmewhu 电网
 {0}pg+jwgxr.dmencu 电脑
 {0}ph+bkhiok.ycesue 要素
+{0}ph+tyk.yceoiu 要旨
 {0}ph+hotkk.yceyti 要約
 {0}ph+wjkck.ycewhe 要望
 {0}ph+oa+jxokk.ycebuerjo 要不然
@@ -1285,6 +1287,7 @@
 {0}xd,bkfmfn.vzidau 殴打
 {0}xd,yloidd.cjioce 参照
 {0}xd,xmlidd.cjijxi 参加
+{0}xd,xk+xa+zjixiddzhmw.cjikcuwfoxme 参考文献
 {0}xd,xk+rcyiddzhm.cjikcuuui 参考書
 {0}xd,gsiibu.qbolku 秦岭
 {0}xd,hkzfxfwk.yjoxue 延续
@@ -1449,6 +1452,7 @@
 {0}xa+zevs.daesde 大赛
 {0}xa+zkms.daejxi 大家
 {0}xa+zfuw.wfozie 文字
+{0}xa+zjixw.wfoxme 文献
 {0}xa+zjkvk.tmiofi 天真
 {0}xa+vp+nebk.daexiiyho 大西洋
 {0}xa+vxmr.daeyeo 大爷
@@ -1468,6 +1472,7 @@
 {0}xa+ojljv.daeuhu 大賞
 {0}xa+ojfuw.wfoxto 文学
 {0}xa+ojfu.daexto 大学
+{0}xa+oa+kcrfwk.daobuedce 达不到
 {0}xa+sxk.daezou 大佐
 {0}xa+sx+ca+ecdbivucw.fueqroouuyie 父権主義
 {0}xa+stw.wfohxe 文化
@@ -1541,8 +1546,7 @@
 {0}xa+jf+frzkgou.daextoyre 大学院
 {0}xa+jf+jj.eveuoubn.daextouzeyee 大学授業
 {0}tp+xosco.ddehvi 黛灰
-{0}ty 旬
-{1}ty 旨
+{0}ty 旨
 {0}ty+bzvkb.oiukse 指控
 {0}ty+bwvjb.oiuodi 指摘
 {0}ty+bjzzb.oiuhvi 指揮
@@ -3108,6 +3112,7 @@
 {0}hs+zfuox.uuezie 数字
 {0}hs+zjkvi.rfeofi 认真
 {0}hs+wlkfmx.gdudke 改訂
+{0}hs+we+xa+uomkoxsw.uuewwewfodhe 数位文档
 {0}hs+we+hx+eh+wlfroxsinm.uuewwefaiojubue 数位发展部
 {0}hs+we+hz+eikmoxsfll.uuewwegrucho 数位馆藏
 {0}hs+ojfuox.uuexto 数学
@@ -3299,10 +3304,12 @@
 {0}cp+fjmdbkc.liujpu 理解
 {0}cy 増
 {0}cy+wsr.uuiyui 書込
+{0}cy+wlctr.uuioie 書誌
 {0}cy+wlcjgr.uuiduo 書読
 {0}cy+oxkjvr.uuilwe 書類
 {0}cy+sukr.uuitiu 書体
 {0}cy+itkr.uuiuie 書式
+{0}cy+dbuyr.uuijio 書籍
 {0}cy+dp+llixlrd.uuilqoqie 書留器
 {0}cy+jwmkr.uuixpu 書写
 {0}cn+jzfgs.oiiwje 隻腕
@@ -4909,6 +4916,7 @@
 {0}wc+sdn.ouerue 注入
 {0}wc+lhts.ouembo 住民
 {0}wc+dndfs.oueiuu 住処
+{0}wc+dumsn.oueuie 注釈
 {0}wc+dmdkrs.ouesou 住所
 {0}wc+dduin.oueuee 注射
 {0}wc+ki.pwxurx.oueoletuo 柱状図
@@ -5267,6 +5275,7 @@
 {0}oc+kk.dytiisi.ueehvedea 社会的
 {0}oc+kk.jz+dcxmisiwz.ueehveyyedse 社会運動
 {0}oc+kk.jf+zxyisiou.ueehvextooeu 社会学者
+{0}om+ph+ls+wxhgkwkj.jieycelyewfo 紀要論文
 {0}om+zhuuk.dhevje 档案
 {0}om+wetsmx.quisve 駆遂
 {0}om+srrhdl.ucejpe 紹介
@@ -5275,6 +5284,7 @@
 {0}om+if+tk+ejvhgsti.jienmeuiedmu 紀念式典
 {0}om+dyirfnc.jmijpo 鰹節
 {0}om+dcxmmx.quidse 駆動
+{0}om+kphhg.jieyce 紀要
 {0}om+krjwmns.ozeyuu 驟雨
 {0}oz+bg,dx,kwrkhsydhj.soimcojnioge 縮毛嬌正
 {0}oz+pdnlhsy.soilte 縮略
@@ -5407,6 +5417,7 @@
 {0}od+cy+jwmkhssr.zseuuixpu 縦書写
 {0}od+cidmydd.ykuigo 影城
 {0}od+za+ms+dskkfhnwuwdh.osimoelvuxko 終末旅行
+{0}od+vfknb.icilue 抄録
 {0}od+wegkjhnw.osidri 終端
 {0}od+oxrjhht.oiubie 紙幣
 {0}od+ow+ku+fwhiyddhdzs.ykufgeyuoxmo 影縫余弦
