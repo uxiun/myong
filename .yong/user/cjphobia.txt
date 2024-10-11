@@ -388,6 +388,7 @@
 {0}pr+sfyssj.vzuxle 偶像
 {0}pr+eeb.yaijku 押井
 {0}pr+ea+zuibe.yaijkuuzu 押井守
+{0}pr+ihdkwr.ufisue 申诉
 {0}pr+dl+ebmkkefwl.mgeovixlo 夢追翔
 {0}pr+kcrfwj.yuedce 遇到
 {0}pr+kk.mkhkfsi.fuehveohu 副会長
@@ -399,6 +400,7 @@
 {0}pu+yfzi.orimfo 専門
 {0}pu+uecnei.zyiyhe 尊様
 {0}pu+hr.lounvu 裸女
+{0}pu+sukr.loutiu 裸体
 {0}pu+swcwh.gououe 裹住
 {0}pu+elsxei.zyijke 尊敬
 {0}pu+dzpcei.zyiose 尊重
@@ -1276,6 +1278,7 @@
 {0}xl+wlwiys.oiiuio 知識
 {0}xl+wedgs.oiidce 知道
 {0}xl+ojjggs.oiijto 知覚
+{0}xl+ss.oiirfo 知人
 {0}xl+ed,ffswg.oiidcelea 知道了
 {0}xl+ijtts.oiingo 知能
 {0}xl+dups.oiifji 知番
@@ -1343,6 +1346,7 @@
 {0}xk+ecdbiojv.lweyie 類義
 {0}xk+evjsle.druqii 短期
 {0}xk+ed,ur+njjjslewgw.drudcesuehxo 短道速滑
+{0}xk+ejons.zoutgo 佐藤
 {0}xk+ihitkzhm.kcuuie 考试
 {0}xk+dbkzl.jieugi 寄生
 {0}xk+dmdkrsle.drusou 短所
@@ -1982,6 +1986,8 @@
 {0}rw+klykifez.ohevde 障碍
 {0}ro+bwehfub.lbojpi 隣接
 {0}ro+pkcifub.lbogoo 隣国
+{0}ro+zkmsfub.lbojxi 隣家
+{0}ro+zkicfub.lbouie 隣室
 {0}ro+sfub.lborfo 隣人
 {0}rs+bsklhx.uziuio 收拾
 {0}rs+prhocsd.xqiloo 修羅
@@ -2211,6 +2217,7 @@
 {0}rj+lk+pobgexwkl.ykiyuuqri 英語圏
 {0}rj+lk+jr+kc+ca+ecdbiexwklwjpiw.ykiyuudiegooouuyie 英語帝国主義
 {0}rj+ebjgng.ufuoea 沈着
+{0}rj+eojxfmt.ybubie 隠蔽
 {0}rj+eidmfmt.ybuzhi 隠蔵
 {0}rj+ihkklex.ykiyuu 英语
 {0}rj+iltdgv.oiegju 質感
@@ -3313,6 +3320,7 @@
 {0}cy+dp+llixlrd.uuilqoqie 書留器
 {0}cy+jwmkr.uuixpu 書写
 {0}cn+jzfgs.oiiwje 隻腕
+{0}cx+bjkgdm.dseyco 動揺
 {0}cx+bjfmudm.dsejke 動静
 {0}cx+prfie.mwuloo 美罗
 {0}cx+pkcie.mwugoo 美国
@@ -3624,6 +3632,7 @@
 {0}cj+fxrbk.zdejme 再建
 {0}cj+fm+bk+ikldgkdgcdtj.xmeihuqkokle 现场情况
 {0}cj+jbkgg.xmeyse 現用
+{0}cj+js+zxysggzo.griiaooeu 観察者
 {0}ca+bcuiw.ouuiio 主持
 {0}ca+bc,weddui.tuuteeiju 土特产
 {0}ca+bdupw.ouuboi 主播
@@ -4754,6 +4763,7 @@
 {0}va+sctwkf.xnuhee 小鹤
 {0}va+sk+ydbkfdkf.xnuxkoxki 小行星
 {0}va+sf+dfdrifwx.xnuyeefgi 小夜風
+{0}va+lt+db,bf,mzteitkec.gsegjuxkexqiiiu 共感性羞恥
 {0}va+lv.zkmsfwlg.xnuuoijxi 小説家
 {0}va+lsff.xnuiii 小吃
 {0}va+eztouf.xnujui 小鞠
@@ -5852,6 +5862,7 @@
 {0}sh+ya+wloodin.hzerietjo 後日談
 {0}sh+rgj.ykivro 婴儿
 {0}sh+rz+rs+sisrjdinpjksd.hzeoiexqiuie 後置修飾
+{0}sh+rwzpzdin.hzebwe 後輩
 {0}sh+honnndin.hzeove 後綴
 {0}sh+hocjgdin.hzexue 後続
 {0}sh+zxydin.hzeoeu 後者
@@ -7628,6 +7639,7 @@
 {0}ie+usxcwu.qieqro 棄権
 {0}ie+cl+wljjwokmn.oeixxogci 遮瑕膏
 {0}ie+cimrwu.qieqte 棄却
+{0}ie+md+ja+bsnnwy.duebmimkofui 渡辺明夫
 {0}ie+vvn.duejbi 鍍金
 {0}ie+wmdnn.duebmi 渡辺
 {0}ie+eojxwo.oeibie 遮蔽
@@ -9198,6 +9210,7 @@
 {0}kk.lk+ojfuwlwkl.yjoyuuxto 言語学
 {0}kk.lk+lr+fskxtwlwklsf.yjoyuuilefai 言語創発
 {0}kk.lk+kh+kcjggwlwklb.yjoyuubnuxme 言語表現
+{0}kk.lf+epkwr.sjibuequi 三部曲
 {0}kk.ljgvsi.hveyro 会員
 {0}kk.endlxo.ndeloe 奈落
 {0}kk.enfdbh.ofedhe 振荡
@@ -9840,6 +9853,7 @@
 {0}fk+ugtfjs.yuexlu 预想
 {0}fk+uwcdri.fgioue 風柱
 {0}fk+udnldri.fgigeo 風格
+{0}fk+gd+is+kkdrijgxc.fgijmexsovre 風見雄二
 {0}fk+hilye.kdiuiu 開始
 {0}fk+ms+itkyewx.kdifheuie 開放式
 {0}fk+mijggfjv.yuelju 預覧
