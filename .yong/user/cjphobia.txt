@@ -1570,6 +1570,7 @@
 {0}ty+djlb.oiuxle 指向
 {0}ty+frb.oiuybu 指引
 {0}ty+filb.oiumko 指名
+{0}ty+jgdzkd.hyiuve 昏睡
 {0}tx+ittbs.niutde 擬態
 {0}tt 比
 {0}tt,pc+tt,lpclzllz.bieliibielii 哔哩哔哩
@@ -1940,6 +1941,7 @@
 {0}rm+uf+ixmidydo.jmuigiwwe 简称为
 {0}rm+hosjrkj.gvinae 帰納
 {0}rm+vpzdy.jmudji 简单
+{0}rm+wprhrkj.gvihdo 帰還
 {0}rm+os+ncirkjhj.gvinaefau 帰納法
 {0}rm+odjgrkj.gviugu 帰省
 {0}rm+srrdy.jmujpe 简介
@@ -2519,6 +2521,7 @@
 {0}ue+xa+sk+pk+dbcuiepllfy.ldoybihailuutee 莱因哈鲁特
 {0}ue+zdnld.igokee 乗客
 {0}ue+ljgvd.igoyro 乗員
+{0}ue+dwdfld.igoiro 乗船
 {0}ue+djged.igosre 乗算
 {0}ui 对
 {0}ui+bn.dveuzu 对手
@@ -2659,6 +2662,7 @@
 {0}ud+kfwdhhkr.drelpe 断裂
 {0}ud+kjlklbn.piilue 披露
 {0}ud+kjkkijdd.cduyyo 彩雲
+{0}ud+fxrbwkr.xbijme 新建
 {0}ud+frsp.trodve 团队
 {0}ud+fu+sukwkrz.xbizietiu 新字体
 {0}ud+fckpkwkr.xbijli 新疆
@@ -4028,6 +4032,7 @@
 {0}mk+za+jtgxnjw.lzedzexsi 漏斗胸
 {0}mk+wtwdhsn.qbixio 侵襲
 {0}mk+wznj.lzedze 漏斗
+{0}mk+wluibj.scutcu 掃討
 {0}mk+wlgvo.dhixru 当選
 {0}mk+wdcgo.dhixru 当选
 {0}mk+wktw.yuuciu 与此
@@ -4575,6 +4580,7 @@
 {0}vs+llixlzl.rsoqie 容器
 {0}vs+dubkvzl.rsojii 容積
 {0}vs+dufosl.suoigi 俗称
+{0}vs+jddygzl.rsomce 容貌
 {0}vlt 总
 {0}vl.bg,sixjgd.toimcoyio 脱毛仪
 {0}vl.bg,llixljgd.toimcoqie 脱毛器
@@ -4766,6 +4772,7 @@
 {0}va+lt+db,bf,mzteitkec.gsegjuxkexqiiiu 共感性羞恥
 {0}va+lv.zkmsfwlg.xnuuoijxi 小説家
 {0}va+lsff.xnuiii 小吃
+{0}va+lf+sdbfwr.xnubuejme 小部件
 {0}va+eztouf.xnujui 小鞠
 {0}va+ek+mr+skffnje.xnumjujpoqie 小满节气
 {0}va+ihvlgf.xnuuoi 小说
@@ -5099,7 +5106,9 @@
 {0}wd+pi+ta+sm+jbbfkvnss.khesrihxezoeyse 抗酸化作用
 {0}wd+xrfush.yiicyo 依存
 {0}wd+rf,kfcshxu.yiicyoxko 依存型
+{0}wd+rf,fe+sdhoshxuyx.yiicyogrixie 依存関係
 {0}wd+urkjvsh.yiilde 依頼
+{0}wd+urfjssh.yiilde 依赖
 {0}wd+cx+jk+zzjbfebn.khemwuyroico 抗美援朝
 {0}wd+zjkvsm.fhuofi 仿真
 {0}wd+wlecibf.kheyie 抗議
@@ -6359,6 +6368,7 @@
 {0}lt+kcpcv.zsuliu 总理
 {0}lt+kcrfi.gjudce 感到
 {0}lt+kv+csmznio.gjuxkique 感兴趣
+{0}lt+fu+xkwkin.gjurjuoge 感染症
 {0}lt+fjrkii.gjuiue 感触
 {0}lrr,r 啸
 {0}lr+ 割
@@ -8029,6 +8039,7 @@
 {0}dx,kftd.xnesiu 笑死
 {0}dx,kfcmn.faexko 髪型
 {0}dx,jmkdmn.faejni 髪膠
+{0}dty 昏
 {0}dt+bwdfbk.diukhe 抵抗
 {0}dt+ndzlhy.hyihoo 婚活
 {0}dt+ta+skkiskc.diioiehve 低志会
@@ -8703,6 +8714,7 @@
 {0}kh+zxtm.ohulcu 長老
 {0}kh+zxm.ohuohe 長丈
 {0}kh+zlsxhfs.yrogue 缘故
+{0}kh+vpzb.bnudji 表单
 {0}kh+vj+yfyme.ohuqiijmi 長期間
 {0}kh+wxb.bnudao 表达
 {0}kh+wlmgb.bnujie 表記
@@ -8981,6 +8993,7 @@
 {0}ks+sfxxj.bkeqie 病気
 {0}ks+evchc.wwojii 维基
 {0}ks+eidmiii.lguzhi 冷蔵
+{0}ks+ihkwkfkk.yjeoge 验证
 {0}ks+imwdmxj.bkefho 病房
 {0}ks+imwdmiii.lgufho 冷房
 {0}ks+isuikx.ogefuu 政府
@@ -9337,6 +9350,7 @@
 {0}kf+fu+uhiibz.dauziejii 打字機
 {0}kf+fiwsf.liewde 例外
 {0}kf+jzpzrii.jlijyi 将軍
+{0}kf+jdbkb.dauuge 打胜
 {0}kj 電
 {0}kjr+ki 融
 {0}kjg+v 頁
@@ -10330,6 +10344,7 @@
 {0}js+kfrfex.sjelpe 散列
 {0}js+fr+stexkf.sjelpehxe 散列化
 {0}js+fuwc.liozia 離子
+{0}js+jvlgwc.liotoi 離脱
 {0}jl+ycuiorj.ihouio 常時
 {0}jl+ykpcd.xlelle 向量
 {0}jl+ya+efsxd.xleriekvo 向日葵
