@@ -456,6 +456,7 @@
 {0}pm+xmkikg.pwetce 配套
 {0}pm+ui+uedkkw.fjigoeldo 翻过来
 {0}pm+ui+kpmrkrn.mmedvemme 面对面
+{0}pm+mdrjkg.pweuuu 配属
 {0}pm+mkhkr.mmeohu 面長
 {0}pm+zfudkk.fjizie 翻字
 {0}pm+vmdkg.pweffi 配分
@@ -1440,6 +1441,7 @@
 {0}xa+uw+odjgwdz.wfokeiugu 文科省
 {0}xa+uomkw.wfodhe 文档
 {0}xa+udxj.daeqno 大橋
+{0}xa+udfe.grijii 关机
 {0}xa+ukw.wfobfu 文本
 {0}xa+ujj.daepgo 大棚
 {0}xa+ua+fe+sdhoppyx.ybigougrixie 因果関係
@@ -3457,6 +3459,7 @@
 {0}cu+fy+mciyiy.uiojmiioi 時間戳
 {0}cu+fy+zlrfyiy.uiojmigei 時間割
 {0}cu+fy+ezjrjyiy.uiojmidde 時間帯
+{0}cg,xxrjkkj.rvexii 瑞希
 {0}cg,zkkkj.rveuie 瑞士
 {0}cg,ejvkkj.rvedmu 瑞典
 {0}ch 越
@@ -3558,6 +3561,7 @@
 {0}ci+xmk.yailie 压力
 {0}ci+rrkjn.fauuii 法师
 {0}ci+ukjr.jnubfu 脚本
+{0}ci+hkfdnkrc.bjijio 班级
 {0}ci+zhun.fauvje 法案
 {0}ci+zevvkzn.qqosde 球賽
 {0}ci+wlkkln.fauyuu 法語
@@ -5391,6 +5395,7 @@
 {0}ow+lz+yt+sk+zkwshigwdius.tsujiedeajmudke 統計的検定
 {0}ow+lz+ykpchigw.tsujielle 統計量
 {0}ow+lz+tu+pwxhigwc.tsujiedietuo 統計地図
+{0}ow+lz+md+dk+ncihigwvur.tsujieffixiifau 統計分析法
 {0}ow+endlflo.jkiloe 鯨落
 {0}ow+dufohig.tsuigi 統称
 {0}ow+khig.tsuyii 統一
@@ -5919,6 +5924,7 @@
 {0}sh+wyhdin.hzetve 後退
 {0}sh+wdmdin.hzefhi 後方
 {0}sh+obdin.hzebje 後半
+{0}sh+sf+jskkodinwx.hzeyeejie 後夜祭
 {0}sh+evjdin.hzeqii 後期
 {0}sh+ejondin.hzetgo 後藤
 {0}sh+dyirdin.hzejpo 後節
@@ -8288,6 +8294,7 @@
 {0}dm+jdr.mcuyte 卯月
 {0}dm+ja+okgdr.mcuytegli 卯月光
 {0}dzu 朱
+{0}dz+pm+llixlwlkg.uiepweqie 适配器
 {0}dz+nwsxlk.toeyee 唾液
 {0}dz+xk+mdxnvksle.ivodrufae 錘短髪
 {0}dz+tdbknl.hooxke 活性
@@ -8317,6 +8324,7 @@
 {0}dz+durjxbq.iaiyhi 插秧
 {0}dz+dcxmnl.hoodse 活動
 {0}dz+dswrsw.qmixiu 迁徙
+{0}dz+kpmgwl.uiepwe 适配
 {0}dz+kixmnl.hoodse 活动
 {0}dz+fskxtnl.hoofai 活発
 {0}dz+fdhsbl.koehuo 括弧
@@ -9806,6 +9814,7 @@
 {0}fs+fygue.igosee 橙色
 {0}fs+fx+udfld.ivifgijii 吹风机
 {0}fs+fiwi.oiiwde 之外
+{0}fl+bfjxk.keuhre 可換
 {0}fl+yskjvy.wfetio 問題
 {0}fl+ykwsk.keuuie 可是
 {0}fl+nuxk.keujto 可決
