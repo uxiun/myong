@@ -41,6 +41,7 @@
 {0}bx,kciznub.bheqqo 棒球
 {0}bx,kcjggz.uioxme 実現
 {0}bx,klfhkdi.izomau 筹码
+{0}bx,kd+zkiczmy.uioxiouie 実習室
 {0}bx,frjsoz.uiojie 実際
 {0}bx,jbz.uioyse 実用
 {0}bx,js+zdnlbxwx.zzediokee 揍敵客
@@ -543,6 +544,7 @@
 {0}pk+pele.liutmo 豊田
 {0}pk+pa+wrjele.liutmouie 豊田市
 {0}pk+ydhrfy.luuvho 鲁昂
+{0}pk+nevgdhm.yteghu 粤港
 {0}pk+uuiekh.nsocyi 農村
 {0}pk+uhiiekh.nsojii 農機
 {0}pk+zklpele.liufue 豊富
@@ -551,6 +553,8 @@
 {0}pk+ssmele.liuzoe 豊作
 {0}pk+lhtekh.nsombo 農民
 {0}pk+eveuekh.nsoyee 農業
+{0}pk+ev+ndjxdhmng.yteghuvce 粤港澳
+{0}pk+ev+dj+xa+wv+mxdhmngnxnf.yteghuvcedaewjiqui 粤港澳大湾区
 {0}pk+dd,dbtddekhwbk.nsoijuwue 農産物
 {0}pk+kpiyhkki.yyenle 酝酿
 {0}pk+kuuyekh.nsolie 農暦
@@ -1684,6 +1688,7 @@
 {0}tw+klsl.zriuio 钻石
 {0}tw+kd+mkkisxblnl.lmeluecgo 链路层
 {0}to+ykpcsj.xnille 销量
+{0}to+xrcsjs.souzde 锁在
 {0}to+uki.xsobfu 熊本
 {0}to+zkwssjs.soudke 锁定
 {0}to+sclsj.xniuze 销售
@@ -1692,6 +1697,7 @@
 {0}ts 长
 {0}tsk+f 愉
 {0}ts+nxing.tcotde 淘汰
+{0}tl+bwhcbg.bceysi 抱擁
 {0}tl+xjbg.bceyzu 抱有
 {0}tl+urb.juiuue 拘束
 {0}tl+sklbg.bceheo 抱合
@@ -1905,6 +1911,7 @@
 {0}rr,wlesns.jpehue 介護
 {0}rr,wdcgdj.udixru 筛选
 {0}rr,oa+jklrvk.uyebuetso 順不同
+{0}rr,swerv.uyewwe 順位
 {0}rr,sdbzf.uiejme 事件
 {0}rr,skk.yaerfo 亜人
 {0}rr,skffzf.uielie 事例
@@ -2016,6 +2023,7 @@
 {0}rs+cifku.iuoque 除去
 {0}rs+ml+szjkfuix.fuejxioio 附加值
 {0}rs+mdrjfui.fueuuu 附属
+{0}rs+mkkifrr.jpicgo 阶层
 {0}rs+zvslsd.xqirso 修容
 {0}rs+zveehfii.ybinho 陰嚢
 {0}rs+wdkrfui.fuejbe 附近
@@ -2127,6 +2135,7 @@
 {0}rk+skkiwv.yioyyo 遺伝
 {0}rk+skjnsw.pdoyzi 俳優
 {0}rk+sk.gsirfo 工人
+{0}rk+sjvfrr.pmecee 片側
 {0}rk+lj+pcfiffflxgv.vaiheeyeu 阿賀野
 {0}rk+eveuk.gsiyee 工業
 {0}rk+evk.gsiyee 工业
@@ -2170,6 +2179,7 @@
 {0}rk+ffflj.geolea 隔了
 {0}rk+jxoli.svirjo 虽然
 {0}rk+jvlgws.tcotoi 逃脱
+{0}rk+jv+sk+zkwsrrsfus.pmeceejmudke 片側検定
 {0}rk+js+kjujgfljwc.geoliouli 隔離霜
 {0}rk+jkkvk.gsijue 工具
 {0}rk+jk+uuuffles.vaimgosfi 阿蒙森
@@ -2748,6 +2758,7 @@
 {0}uf+kwdif.yioxxe 移下
 {0}uf+kw+tdbkdmtzs.wfudkexke 稳定性
 {0}uf+kixmdif.yiodse 移动
+{0}uf+jxbdu.jiejyi 季军
 {0}uju+j 棘
 {0}ujk 査
 {0}uj+pdnld.ceelte 策略
@@ -2805,6 +2816,7 @@
 {0}ua+wfijz.wwetsi 未通
 {0}ua+ouvmdo.miuffu 米粉
 {0}ua+sxlz.wweoii 未知
+{0}ua+st+wvjljji.cdugzeuhi 采购商
 {0}ua+sevf.ziagsi 子供
 {0}ua+la+wktth.yeuruociu 也如此
 {0}ua+esuj.cduiao 采茶
@@ -3334,6 +3346,7 @@
 {0}cp+omkkc.liudhi 理当
 {0}cp+siftkc.liunme 理念
 {0}cp+ekhdkc.liuyao 理芽
+{0}cp+duwzkc.liukei 理科
 {0}cp+kciznkrh.hroqqo 環球
 {0}cp+fjmdbkc.liujpu 理解
 {0}cy 増
@@ -5383,6 +5396,7 @@
 {0}ov.zlkjvhit.zsuveo 総額
 {0}ov.sukhit.zsutiu 総体
 {0}ov.scuhit.zsujio 総集
+{0}ov.sklhit.zsuheo 総合
 {0}ov.dufohit.zsuigi 総称
 {0}ow+nilhig.tsuoie 統治
 {0}ow+tmdhjj.dieqpe 締切
@@ -6506,6 +6520,7 @@
 {0}lm+bkhkbo.maubnu 碼表
 {0}lm+nciwg.jiefau 記法
 {0}lm+xy+skkiwgz.jieoeuhve 記者会
+{0}lm+xl+ta+cp+ojfuwitskc.rfeoiixbiliuxto 認知心理学
 {0}lm+twetwg.jieyie 記憶
 {0}lm+hlsn.jxuruo 假如
 {0}lm+hkjpuwkl.ciohve 詞彙
@@ -6689,6 +6704,7 @@
 {0}ld+przjkwfn.ueeoie 設置
 {0}ld+pcfifzl.gsiyeu 宮野
 {0}ld+yskjvwzl.hxetio 話題
+{0}ld+yflwfn.ueewfe 設問
 {0}ld+xk+jghozlgl.gsiqioxme 宮崎県
 {0}ld+twyzwh.vdidce 哀悼
 {0}ld+rrrzl.gsiiri 宮川
@@ -6738,9 +6754,11 @@
 {0}lk+zrrfdrj.uiiuie 師事
 {0}lk+zvxfke.yjojqi 研究
 {0}lk+zevckrx.ykesdi 硬塞
+{0}lk+vx+uupkezf.yjojqidse 研究棟
 {0}lk+vx+zxykezf.yjojqioeu 研究者
 {0}lk+vx+zkickezf.yjojqiuie 研究室
 {0}lk+vx+dmdkrkezf.yjojqisou 研究所
+{0}lk+vx+ki.lv.ja+skkikezfzcwlgy.yjojqiuieuoimkohve 研究室説明会
 {0}lk+vx+frzkgkezf.yjojqiyre 研究院
 {0}lk+wxzjs.veotzo 额头
 {0}lk+wlskjwoz.pkolye 評論
@@ -6813,6 +6831,7 @@
 {0}lj+nwvjn.jridii 涓滴
 {0}lj+na+kozwl.gciuvupko 高水平
 {0}lj+xrjwcl.dnebue 調布
+{0}lj+rs+ml+szjkwlfuix.gcifuejxioio 高附加值
 {0}lj+riteuz.huodpo 胡蝶
 {0}lj+uxkwkwcl.dneogu 調整
 {0}lj+ur+stwlw.gcisuehxe 高速化
@@ -6930,6 +6949,7 @@
 {0}la+wwrvz.guujie 古迹
 {0}la+ws.kzuyui 口込
 {0}la+wlmkli.tdocio 台詞
+{0}la+wlot.juedmu 句点
 {0}la+wldzl.kzuhxe 口話
 {0}la+wlkkl.kzuyuu 口語
 {0}la+wljcl.kzudne 口調
@@ -7144,6 +7164,7 @@
 {0}ev+nn.hsouvu 洪水
 {0}ev+nw+skkikd.yaedsihve 亚冬会
 {0}ev+nirrk.yaeozi 亚洲
+{0}ev+ndjxng.ghuvce 港澳
 {0}ev+xmyn.bcelie 暴力
 {0}ev+xa+stkw.yaewfohxe 亚文化
 {0}ev+tdbkp.yiexke 異性
@@ -7782,6 +7803,7 @@
 {0}if+uznfi.doioii 多枝
 {0}if+udfi.doicdo 多才
 {0}if+uknkfi.doijio 多極
+{0}if+ga+dytifij.doimuedea 多目的
 {0}if+hwvhsi.lkenlo 令嬢
 {0}if+hotkff.yuuyti 予約
 {0}if+hoscfi.doiwwo 多維
@@ -7975,6 +7997,7 @@
 {0}dq+xdtlbn.szigzu 搜狗
 {0}dq+zjhiobn.szisou 搜索
 {0}dq+ssmbn.szizoe 搜作
+{0}dpk+hm 粤
 {0}dp+przjkd.lqooie 留置
 {0}dp+xjd.lqoyzu 留有
 {0}dp+zuid.lqouzu 留守
@@ -8509,6 +8532,7 @@
 {0}dj+ytdddgv.mceyie 貿易
 {0}dj+ycuiog.uguuio 省時
 {0}dj+nznh.nsooii 浓汁
+{0}dj+xmog.ugulie 省力
 {0}dj+xa+ur+kevnxdf.vcedaelieyae 澳大利亚
 {0}dj+rimnx.vcemfo 澳门
 {0}dj+ujgeg.uzuxli 首相
@@ -8757,6 +8781,7 @@
 {0}kg+ku+zrpkz.yroyuuoze 元宇宙
 {0}kg+kh+wlmgkb.yrobnujie 元表記
 {0}kg+fuo.glizia 光子
+{0}kg+jxbji.grijyi 冠军
 {0}kg+je+stou.gliujihxe 光柵化
 {0}kh+bnkprbio.suemme 素麺
 {0}kh+bk+za+zklpbtjb.bnuqkofgifue 表情丰富
@@ -10643,6 +10668,7 @@
 {0}jj.kk.wguijsi.guuyyodcu 骨伝導
 {0}jj.kjmknj.hxoxtu 滑雪
 {0}jj.fvwl.goexnu 過小
+{0}jj.fifiwl.goedoi 過多
 {0}jj.jjnbn.uzeuze 授受
 {0}ja+bm+ml+xkkoxmox.yzumaujxinde 有馬加奈
 {0}ja+bdzqs.nweiai 内插
