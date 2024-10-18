@@ -37,6 +37,7 @@
 {0}bx,sk+fl+jt+fjmdbzdkfkit.uioxkokeungojpu 実行可能解
 {0}bx,lkizz.uiojme 実践
 {0}bx,iltz.uiogju 実感
+{0}bx,drjgvz.uiooie 実質
 {0}bx,dskkfz.uioxko 実行
 {0}bx,kciznub.bheqqo 棒球
 {0}bx,kcjggz.uioxme 実現
@@ -897,6 +898,7 @@
 {0}nh+fmtmio.jbujio 緊急
 {0}nh+fmkhmio.jbuohi 緊張
 {0}nc+bcuir.jmiiio 坚持
+{0}nc+pevt.gkeyie 怪異
 {0}nc+zbxm.jmiuio 堅実
 {0}nc+olixt.gkeuze 怪獣
 {0}nc+dbtddt.gkewue 怪物
@@ -1136,8 +1138,10 @@
 {0}xx,kjsj.whuyee 网页
 {0}xx,jstij.whugze 网购
 {0}xx,js+wkjk.whuyeeuhe 网页上
+{0}xt+prwlfd.igofao 懲罰
 {0}xt+rrkjz.lcuuii 老师
 {0}xt+rmto.bpimfe 憋闷
+{0}xt+rw+imwdmdplf.igofaofho 懲罰房
 {0}xt+zwxz.lcuuio 老实
 {0}xt+vxmrz.lcuyeo 老爷
 {0}xt+sbz.lcunmo 老年
@@ -2128,6 +2132,7 @@
 {0}rk+zhj.yrovji 円安
 {0}rk+zkm.wweuie 卫士
 {0}rk+vd+bknfflekr.vaisiimde 阿斯麦
+{0}rk+whws.tcowho 逃亡
 {0}rk+wmlzws.tcobie 逃避
 {0}rk+wsrfrr.pmekee 片刻
 {0}rk+wlevyujv.ldepuu 頼譜
@@ -2534,6 +2539,7 @@
 {0}us+wlmgxc.zaojie 雑記
 {0}us+wijzx.jneyue 教育
 {0}us+skkizx.jnehve 教会
+{0}us+livnzx.jnesoi 教唆
 {0}us+ljgvzx.jneyro 教員
 {0}us+ecdbizx.jneyie 教義
 {0}us+duwzzx.jnekei 教科
@@ -3195,7 +3201,6 @@
 {0}hs+kcpcit.lyeliu 论理
 {0}hs+klfhkox.uuemau 数码
 {0}hs+kktmx.gduvee 改悪
-{-}hs+fu+ui+yt+kk.hl+dsuioxznfsuoiv,ueieveleniiouo 数字对象标识符
 {0}hs+fu+ui+kk.hl+dsuioxznuoiv.uueziedvebniuiofuo 数字对象标识符
 {0}hs+fu+vf+dbkoxzwu.uuezielrougi 数字孪生
 {0}hs+fu+om+zhuoxzuk.uueziedhevje 数字档案
@@ -3581,6 +3586,7 @@
 {0}ce+tdbkel.ujexke 善性
 {0}ce+uuui.uuelbo 樹林
 {0}ce+zxyel.ujeoeu 善者
+{0}ce+oziel.ujeoje 善戦
 {0}ce+scjggwb.daogri 達観
 {0}ce+idmwb.daoigo 達成
 {0}ce+dm+wiszwbi.daoigolve 達成率
@@ -3641,6 +3647,7 @@
 {0}cf,ojldgpif.yeudhu 野党
 {0}cf,ejupif.yeucde 野菜
 {0}cf,kciznpif.yeuqqo 野球
+{0}cf,kf+mbmopifks.yeuciemau 野次馬
 {0}cjd+g 売
 {0}cjd+f 壳
 {0}cjk+s 塚
@@ -3687,6 +3694,7 @@
 {0}cj+ee,dkfukuj.zdegzeoue 再構築
 {0}cj+it+wsrfkggs.xmeddejue 現代劇
 {0}cj+it+stkggs.xmeddehxe 現代化
+{0}cj+it+skggs.xmedderfo 現代人
 {0}cj+it+sk+xbkdgsnf.xmeddeqieiei 现代汽车
 {0}cj+io+rs+nyevkcfku.zdereeiuouii 再熱除湿
 {0}cj+dbkk.zdeugi 再生
@@ -4702,6 +4710,8 @@
 {0}vd+rp+lm+vfknwnkxwg.bmeggejielue 変更記録
 {0}vd+rcwdhwn.bmeoli 変装
 {0}vd+higi.moonvu 魔女
+{0}vd+ha+us+rr,kl+zusxigizxpkwm.moonvujnezvesiijne 魔女教大罪司教
+{0}vd+ha+zusxigi.moonvujne 魔女教
 {0}vd+cykekr.siitju 斯坦
 {0}vd+ci+bk+dbtddigind.moofauugiwue 魔法生物
 {0}vd+ci+dlkrjigin.moofauuii 魔法師
@@ -4956,6 +4966,7 @@
 {0}wt+lersr.bwitje 悲嘆
 {0}wr 部
 {0}wrr,f 剤
+{0}wrk+s 逃
 {0}wr+bsjggkk.ogegvi 正規
 {0}wr+pdnwsk.qiutuo 企图
 {0}wr+xrckk.ogezde 正在
@@ -5144,6 +5155,7 @@
 {0}we+dkdfnbc.olehvu 撞毁
 {0}we+kus.wweyuo 位于
 {0}we+kh+jm.wlcjgyylmfdb.vjehcejpuduo 暗号解読
+{0}we+kcsxb.laioie 拉致
 {0}we+keb.laikdi 拉开
 {0}we+kekjvbh.jpitzo 接頭
 {0}we+kixmb.laidse 拉动
@@ -5314,6 +5326,7 @@
 {0}or+pa+dx,kiprd.ufotmoxneyii 神田笑一
 {0}or+ya+na+ju+eyjiprde.ufobdouvucdemgo 神白水菜萌
 {0}or+nkvpipr.ufojqu 神酒
+{0}or+xmipr.ufolie 神力
 {0}or+ubxyipr.ufoiyi 神椿
 {0}or+udnlipr.ufogeo 神格
 {0}or+honcipr.ufojki 神経
@@ -5669,6 +5682,7 @@
 {0}oa+xm+ul+weykzmd.buexpoheoybi 不協和音
 {0}oa+xl+wedgks.bueoiidce 不知道
 {0}oa+xl+oa+ojjdgksk.bueoiibuejto 不知不觉
+{0}oa+xl+ed,sykkswg.bueoiidcedje 不知道但
 {0}oa+xdrkik.bueduo 不独
 {0}oa+xkwko.yjooge 炎症
 {0}oa+xk+sklkuwk.bueoguheo 不整合
@@ -5854,7 +5868,9 @@
 {0}sx+xmuc.qrolie 権力
 {0}sx+xksjx.jiobke 疾病
 {0}sx+rrtx.jiohre 疾患
+{0}sx+cwsx.jiozzu 疾走
 {0}sx+znbk.gsijii 攻撃
+{0}sx+ws,iltxc.jiozzugju 疾走感
 {0}sx+ohsxu.mwouue 枚数
 {0}sx+ojfum.yiixto 医学
 {0}sx+ecxm.yiimwu 医美
@@ -5863,6 +5879,7 @@
 {0}sx+durfuc.qrolie 権利
 {0}sx+dlkrjm.yiiuii 医師
 {0}sx+dfkrix.jiofgi 疾風
+{0}sx+fryhuc.qroxme 権限
 {0}sx+frzkgm.yiiyre 医院
 {0}sx+frwdmk.gsifho 攻防
 {0}sx+fd+hi+cx+fretskcfnuidm.gsiqnejiidsedve 攻殻機動隊
@@ -6057,7 +6074,6 @@
 {0}sm+tw+bwehcdlsxb.icilmejpi 超链接
 {0}sm+tes.zoeuie 作世
 {0}sm+uecg.qiuldo 起来
-{-}sm+hofdncdl.icijio 超級
 {0}sm+hkfdncdl.icijio 超级
 {0}sm+csihcdl.iciyte 超越
 {0}sm+cixmbg.qlujpo 抢劫
@@ -6157,6 +6173,7 @@
 {0}sl+ihtyk.ziixyo 咨询
 {0}sl+klfsv.guugei 谷歌
 {0}sl+fscg.qiufwi 起飞
+{0}se 短
 {0}sev+s 僕
 {0}se+bt,wlkklboddd.fuuwueyuu 撫物語
 {0}se+uedws.csoldo 従来
@@ -6726,6 +6743,7 @@
 {0}li+pdnlw.ojelte 战略
 {0}li+nwelx.kuiqie 哭泣
 {0}li+hu+eplxld.qieleequi 器乐曲
+{0}li+cydlx.kuiugi 哭声
 {0}li+moskswtk.uieyje 試験
 {0}li+zlrllxl.qiegri 器官
 {0}li+wzw.ojedze 战斗
@@ -7633,7 +7651,6 @@
 {0}iz+wlgvrj.buuxru 補選
 {0}iz+wlkklrj.buuyuu 補語
 {0}iz+wlkklwv.uueyuu 述語
-{-}iz+ouwzzpz.zdelne 載料
 {0}iz+szpz.zderfo 載人
 {0}iz+lwsrj.buuzuo 補足
 {0}iz+lk+ls+kcpcwvwklwkj.uueyuulyeliu 述語論理
@@ -8048,6 +8065,7 @@
 {0}dp+kwd.lqoxxe 留下
 {0}dy+bb.pdiuzu 拍手
 {0}dy+bgw.poejii 迫击
+{0}dy+bmznb.pdiuee 拍摄
 {0}dy+pxko.yroybi 原因
 {0}dy+ylob.pdioce 拍照
 {0}dy+ye+om+if+tk+ejvkoonhgsti.yrobcejienmeuiedmu 原爆紀念式典
@@ -8308,6 +8326,7 @@
 {0}dc+jogxng.xiuncu 洗脳
 {0}dm 所
 {0}dmx 笋
+{0}dmi 卵
 {0}dm+bkhionx.jiisue 激素
 {0}dm+prrkwxg.fjezve 犯罪
 {0}dm+pui.igogou 成果
@@ -8965,6 +8984,7 @@
 {0}kc+filpi.goomko 国名
 {0}kc+fdsxmpi.goowue 国務
 {0}kc+fjcs.qrojnu 全角
+{0}km 戸
 {0}km+bg,kciznmikd.yuumcoqqo 羽毛球
 {0}km+pmik.yuutmo 羽田
 {0}km+pa+vk+nevgmikz.yuutmoksighu 羽田空港
@@ -9043,6 +9063,7 @@
 {0}kv+ssxmyp.udeuhi 晒伤
 {0}kv+lygnp.jqubaa 酒吧
 {0}kv+llixls.bkiqie 兵器
+{0}kv+ea+kmnpe.jqujkuhue 酒井戸
 {0}kv+dynnp.jquqro 酒泉
 {0}kw+psrrzs.dkejpe 定界
 {0}kw+xmd.iielie 斥力
@@ -9494,8 +9515,6 @@
 {0}kf+jdbkb.dauuge 打胜
 {0}kj 電
 {0}kjr+ki 融
-{0}kjg+v 貢
-{1}kjg+v 頁
 {0}kje+zj 霸
 {0}kj+bxyb.qkiiyi 青春
 {0}kj+bk+lu+wlesnsnds.yziugibcuhue 優生保護
@@ -9689,6 +9708,7 @@
 {0}ka+frtty.yiijpi 一階
 {0}ka+frcvns.qqilko 丘陵
 {0}ka+fil.yiimko 一名
+{0}ka+jl+kf+va+bxyuocpf.bfuthotkixnuiyi 本堂町小春
 {0}fb,wlmitfs.igorfe 承認
 {0}fb,ssmsu.jpozoe 傑作
 {0}fb,jjnfs.igouze 承受
@@ -9849,6 +9869,7 @@
 {0}fw+kekdh.lpekdi 裂开
 {0}fw+ja+ydrky.oiumkorie 凪明日
 {0}fo+bi+stusd.niuwoutai 你我他
+{0}fo+yf+ud+jt+jd+iorprfzrnnitcg.miodziboingomdeufo 弥都波能売神
 {0}fo+xbskfs.niuuui 你输
 {0}fo+zkk.lpeuie 烈士
 {0}fo+dbkeu.suiugi 蘇生
@@ -10504,6 +10525,7 @@
 {0}jl+ykpcd.xlelle 向量
 {0}jl+ya+efsxd.xleriekvo 向日葵
 {0}jl+xt+xa+uttykmnfwkw.xxowuewfokdu 霞鹜文楷
+{0}jl+xrcorj.ihozde 常在
 {0}jl+xld.xleyze 向右
 {0}jl+tdbkorj.ihoxke 常性
 {0}jl+ub+or+eisudokjipr.xlejkiufoyce 向精神薬
