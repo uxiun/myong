@@ -1384,6 +1384,7 @@
 {0}xk+kfrfuwk.ogulpe 整列
 {0}xk+kfcojv.lwexko 類型
 {0}xk+fr+dhiouwkkf.ogulpexie 整列系
+{0}xk+fuul.yiuzia 椅子
 {0}xk+jwjr.odiyte 斋月
 {0}xf 九
 {0}xfu 끚
@@ -1436,6 +1437,7 @@
 {0}xa+xdiyhk.tmilho 天狼
 {0}xa+xksjp.ybibke 因病
 {0}xa+xa+zfuw.daewfozie 大文字
+{0}xa+xa+sizllkw.tmiwfogru 天文館
 {0}xa+tu+jr+zjkpcdf.ybidieoieyio 因地制宜
 {0}xa+tmde.griqpe 关切
 {0}xa+te.grixbi 关心
@@ -1479,6 +1481,7 @@
 {0}xa+mrmr.daeifo 大臣
 {0}xa+mzexe.grilmo 关联
 {0}xa+mirb.daesie 大肆
+{0}xa+ma+jjtnk.daehuevde 大戸愛
 {0}xa+zr+sizllsx.daeuiugru 大使館
 {0}xa+zvkk.tmiksi 天空
 {0}xa+zevs.daesde 大赛
@@ -2172,6 +2175,7 @@
 {0}rk+ififbw.pdoxue 排序
 {0}rk+dbtddwv.yiowue 遺物
 {0}rk+dbswv.yiouii 遺失
+{0}rk+dbkm.wweugi 卫生
 {0}rk+dbkfy.moeugi 陌生
 {0}rk+db,eprrmg.pmewwuqui 片尾曲
 {0}rk+dn+filrrs.pmefjumko 片仮名
@@ -3706,6 +3710,7 @@
 {0}cj+fytskgg.xmexle 現象
 {0}cj+fxrbk.zdejme 再建
 {0}cj+fm+bk+ikldgkdgcdtj.xmeihuqkokle 现场情况
+{0}cj+fskxtk.zdefai 再発
 {0}cj+jbkgg.xmeyse 現用
 {0}cj+js+zxysggzo.griiaooeu 観察者
 {0}ca+bcuiw.ouuiio 主持
@@ -3782,9 +3787,12 @@
 {0}mx+jo+lz+rkrfsenw.yiitgojiehxe 伊藤計劃
 {0}mt+twhf.jiomho 急忙
 {0}mt+rd+kwffnb.jiojlexxe 急降下
+{0}mt+ur+id+kjpgfwwg.jiosueisidme 急速充電
+{0}mt+ur+id+jp+llixlfwwgkg.jiosueisidmeqie 急速充電器
 {0}mt+uebs.zfuyhe 怎样
 {0}mt+cvpyf.jiozgi 急増
 {0}mt+wtwdhf.jioxio 急襲
+{0}mt+wurf.jiosue 急速
 {0}mt+sc+dytifw.jiojbedea 急進的
 {0}mt+lklluf.jiozce 急躁
 {0}mt+ia+uebsd.zfumeayhe 怎么样
@@ -4825,6 +4833,7 @@
 {0}va+ul+pkcied.gseheogoo 共和国
 {0}va+ul+ififfdkc.xnuigoxue 小程序
 {0}va+uepif.xnuzyi 小樽
+{0}va+ua+ba+id+jp+llixlfowgkg.xnumiuuzuisidmeqie 小米手機急速充電器
 {0}va+ua+xn+kkkfub.xnulbotdesji 小林泰三
 {0}va+gr+kljf.jbighiuio 金剛石
 {0}va+hmt.jbinii 金妮
@@ -5047,6 +5056,7 @@
 {0}wm+dskkfwu.yzoxko 遊行
 {0}wm+kckkgnu.yzowjo 游玩
 {0}wm+jkkvwu.yzojue 遊具
+{0}wm+jk+uhiijkzv.xpuofijii 写真機
 {0}wm+jk+scujkzv.xpuofijio 写真集
 {0}wz 斗
 {0}wz,bwehvz.lmejpi 鏈接
@@ -7374,6 +7384,7 @@
 {0}ed,vs+wlmklkddzl.xkorsocio 形容詞
 {0}ed,va+stwxbwe.ijuyeelme 产业链
 {0}ed,svmdsj.bweffe 備份
+{0}ed,sfyskdd.xkoxle 形像
 {0}ed,lllw.ijupbu 产品
 {0}ed,lkdnlwg.dcelue 道路
 {0}ed,evw.ijuyee 产业
@@ -9136,6 +9147,7 @@
 {0}ks+neyxiii.lgumoe 冷漠
 {0}ks+nilkx.ogeoie 政治
 {0}ks+rimiii.lgumfo 冷门
+{0}ks+rkixxj.bkeole 病状
 {0}ks+rkixj.bkeiso 病虫
 {0}ks+unhc.wwoqro 维权
 {0}ks+hdxjxj.bkejni 病嬌
@@ -9889,6 +9901,7 @@
 {0}fs+ri.oiiosi 之中
 {0}fs+uyhi.oiigfi 之根
 {0}fs+hokue.igohso 橙紅
+{0}fs+mdxnue.igofae 橙髪
 {0}fs+md+hisidkr.oiisouyiu 之所以
 {0}fs+wrkit.fweoiu 廃止
 {0}fs+wdhrn.hriyko 欢迎
@@ -10457,6 +10470,7 @@
 {0}jv+ra+fi+wedgnuwj.ufiositsidce 深中通道
 {0}jv+urksuh.ykitco 櫻桃
 {0}jv+ua+jk+fdmuhzv.ykimueofindu 櫻木真乃
+{0}jv+hodhtkf.ceeoiu 厠紙
 {0}jv+hkknu.ufihso 深红
 {0}jv+crrrnu.ufiofe 深圳
 {0}jv+cdnuh.ykibju 櫻坂
