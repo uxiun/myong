@@ -4215,6 +4215,7 @@
 {0}zp+hocjgwz.lmoxue 連続
 {0}zp+hodnlwz.lmoloe 連絡
 {0}zp+zrrfjz.jyiuie 軍事
+{0}zp+zixbdc.osezde 重载
 {0}zp+zizpzwz.lmozde 連載
 {0}zp+vojvwz.lmosou 連鎖
 {0}zp+vdc.osejbi 重金
@@ -5464,6 +5465,7 @@
 {0}oz+dulk.pkoheo 平和
 {0}oz+dcuik.pkodgu 平等
 {0}oz+dm+oukw.pkofhimiu 平方米
+{0}oz+dm+dulkw.pkofhiheo 平方和
 {0}oz+dskkfk.pkoxko 平行
 {0}oz+dsfxfk.pkohgo 平衡
 {0}oz+dfik.pkofjo 平凡
@@ -7665,6 +7667,7 @@
 {0}im+szrxyr.jiouiu 即使
 {0}im+sifiyr.jiolke 即令
 {0}im+skrxyr.jiobme 即便
+{0}im+ebksj.pmiiae 偏差
 {0}im+exlyr.jioroe 即若
 {0}im+imr.mfohue 门户
 {0}im+iwlr.mfodme 门店
@@ -9773,9 +9776,11 @@
 {0}fy+frkljy.jmigeo 間隔
 {0}fnk 丞
 {0}fn+ykci.ysuwhe 永旺
+{0}fn+hocjgi.ysuxue 永続
 {0}fn+wclhi.ysuyru 永遠
 {0}fn+wegkjuk.jiodri 極端
 {0}fn+ohsxg.hjouue 函数
+{0}fn+oc+stihjg.ysuxuehxe 永続化
 {0}fn+koi.ysubue 永不
 {0}fn+fd+iocddyc.fgehlouee 凤凰社
 {0}fx+qd+jr+ggbcdkr.tkuufivroiui 挺身而出
