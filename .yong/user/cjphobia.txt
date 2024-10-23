@@ -2253,6 +2253,7 @@
 {0}rj+yt+lj+ujkdgvdiwcl.oiedeadneoai 質的調査
 {0}rj+ykpcdgv.oielle 質量
 {0}rj+yfldgv.oiewfe 質問
+{0}rj+nezjfk.zuuoie 阻滞
 {0}rj+xiscex.ykixso 英雄
 {0}rj+rrtfmt.ybuhre 隠患
 {0}rj+uu.va+wsfxkwuf.yuusfixnuyee 雨森小夜
@@ -2387,6 +2388,7 @@
 {0}ub+or+cj+yt+ojfuokjiprkggfs.jkiufoxmexlexto 精神現象学
 {0}ub+iorprokj.jkiufo 精神
 {0}ub+ienokj.jkidue 精度
+{0}ub+duldkv.jiiheo 積和
 {0}ub+dzllokj.jkigru 精管
 {0}ub+kkhmokj.jkiqnu 精巧
 {0}ub+kjkkvokj.jkilko 精霊
@@ -2972,6 +2974,7 @@
 {0}ge+rk+kk.dskkfmwdwi.yiebueyyexko 异步运行
 {0}ge+wxslc.gretzo 罐头
 {0}ge+wrkdm.yiebue 异步
+{0}ge+ojlrjm.yieiho 异常
 {0}ge+ikscjp.mnooyu 瞄准
 {0}gi+nidod.gvumpe 鬼滅
 {0}gi+lzudx.izewwe 臭味
@@ -3968,6 +3971,7 @@
 {0}ml+hx+itkiin.qiufaiuie 启发式
 {0}ml+hdcwz.bierfe 避妊
 {0}ml+cixmm.juouie 局勢
+{0}ml+ci+kw+kcpcxnzs.jxifaudkeliu 加法定理
 {0}ml+md+jv+jh.ncimdkrbuzio.juosoutjesoufau 局所探索法
 {0}ml+mkhm.juoohu 局長
 {0}ml+mf+eisuwzfu.bieyyeyce 避孕薬
@@ -3989,6 +3993,7 @@
 {0}ml+ihxni.qiufai 启发
 {0}ml+dgtx.jxixii 加息
 {0}ml+dmdkrm.juosou 局所
+{0}ml+djgex.jxisre 加算
 {0}ml+krkx.jxigsi 加工
 {0}ml+kixmi.qiudse 启动
 {0}ml+fydgwz.biemmu 避免
@@ -4103,11 +4108,13 @@
 {0}md+fsrkit.qpedje 切蛋
 {0}md+fjmdbv.ffijpu 分解
 {0}md+jbv.ffiyse 分用
+{0}md+js+md+udkrvexv.ffisjeffixii 分散分析
 {0}md+ja+vlfsdkrx.souyzuyue 所有欲
 {0}mkr 쯭
 {0}mkc 쯚
 {0}mke 쯬
 {0}mk+bepb.scumno 扫描
+{0}mk+bk+jk+uewdsv.yuuugijueldo 与生俱来
 {0}mk+bf,kc+dywgwmrpi.yuunaegoodcu 与那国島
 {0}mk+bj+wlkkljdeg.jnioeayuu 膠着語
 {0}mk+pdnlsn.qbilte 侵略
@@ -4229,6 +4236,7 @@
 {0}zp+oj+iwlwzvv.lmosoudme 連鎖店
 {0}zp+sydndc.osefue 重复
 {0}zp+sy+rr,kfrfdcrnrv.osefueuyelpe 重複順列
+{0}zp+stdc.osehxe 重化
 {0}zp+sdcwz.lmorfe 連任
 {0}zp+sjz.jyirfo 軍人
 {0}zp+ebjgdc.oseoea 重着
@@ -4459,6 +4467,7 @@
 {0}zi+ctuo.ojedie 戦地
 {0}zi+zpzo.ojeiei 戦車
 {0}zi+zko.ojeuie 戦士
+{0}zi+wlmgo.ojejie 戦記
 {0}zi+weyto.ojeyie 戦意
 {0}zi+dshino.ojehze 戦後
 {0}zi+kxmo.ojegsi 戦功
@@ -4995,7 +5004,8 @@
 {0}wt+scjggr.bwigri 悲観
 {0}wt+lersr.bwitje 悲嘆
 {0}wr 部
-{0}wrr,f 剤
+{0}wrr,f 剂
+{1}wrr,f 剤
 {0}wrk+s 逃
 {0}wr+bsjggkk.ogegvi 正規
 {0}wr+pdnwsk.qiutuo 企图
@@ -5960,6 +5970,7 @@
 {0}st+kcpcs.lyoliu 伦理
 {0}st+fxdwkbu.toiyjo 拖延
 {0}st+fwxji.gzemdu 购买
+{0}sr 个
 {0}sr+bcuisf.jmeiio 剣持
 {0}sr+pr+iidunz.xnuzeoglu 篠澤広
 {0}sr+yk+rrdnwfcd.jueihubju 劇場版
@@ -6646,6 +6657,7 @@
 {0}lv 只
 {0}lv.yjwlg.uoimko 説明
 {0}lv.ja+skkiwlgy.uoimkohve 説明会
+{0}lw 샤
 {0}lw+bkjgvwrl.qmuzeo 譴責
 {0}lw+yflwdm.fhuwfe 訪問
 {0}lw+rrkrksz.svepme 碎片
@@ -6685,6 +6697,7 @@
 {0}lo.dduiy.oceuee 照射
 {0}lo.khkjsy.ocegue 照顾
 {0}lo.jg+uhiiyu.ocexlijii 照相機
+{0}ls 사
 {0}lsl 哈
 {0}lsk+l 哈
 {1}lsk+l 啥
@@ -7578,6 +7591,7 @@
 {0}ix+hodyns.fuoxme 伏線
 {0}ix+hiyhsm.wwunlo 伪娘
 {0}ix+hiyhso.wwunlo 偽娘
+{0}ix+ha+zi+wlmghmo.yzenvuojejie 幼女戦記
 {0}ix+ctus.fuodie 伏地
 {0}ix+ce+zxysoel.wwuujeoeu 偽善者
 {0}ix+zxyso.wwuoeu 偽者
@@ -7636,6 +7650,7 @@
 {0}ir+ta+jf+mkdyfisou.qlohxextoxio 強化学習
 {0}ir+hhhfi.qlojmi 強姦
 {0}ir+zxyfi.qlooeu 強者
+{0}ir+vlfsfi.qloyue 強欲
 {0}ir+wljclfi.qlodne 強調
 {0}ir+stfi.qlohxe 強化
 {0}ir+ienfi.qlodue 強度
@@ -7919,6 +7934,7 @@
 {0}if+mb+if+hmbrfihrfi.doinaedoinae 多娜多娜
 {0}if+mvpyfi.doicgo 多層
 {0}if+md+kedddfiw.doibmixko 多辺形
+{0}if+zp+stfidc.doiosehxe 多重化
 {0}if+zojs.jbixni 今宵
 {0}if+zkwsff.yuudke 予定
 {0}if+vlfssv.tjiyue 貪欲
@@ -7943,6 +7959,7 @@
 {0}if+durfi.doiosu 多种
 {0}if+dudzcfi.doiosu 多種
 {0}if+dufus.jbijie 今季
+{0}if+dzpcfi.doiose 多重
 {0}if+dzjgfd.mcodye 矛盾
 {0}if+dshins.jbihze 今後
 {0}if+djgeff.yuusre 予算
@@ -8057,6 +8074,7 @@
 {0}db,uk+dultkwb.xkewwoheo 性違和
 {0}db,ga+zldgyky.xkibaikee 星巴克
 {0}db,ga+ld+xm+lrkwykyzgll.xkibaikeekaifwi 星巴克咖啡
+{0}db,hx+ij+ge+ojlrjtkinwm.xkefaiyueyieiho 性发育异常
 {0}db,hm.ok+jbdgigi.biujieykiyse 笔记应用
 {0}db,ceslvs.oiotau 鉄塔
 {0}db,cf,jt+sa+jt+nspwykpifjnfjn.xkiyeuvdejquvdehdu 星野愛久愛海
@@ -8065,6 +8083,7 @@
 {0}db,mr+lm+kl+rw+klykitklfwitjfez,kepofesohede 性別認同障碍
 {0}db,md+ta+sx+rrttkvsx.xkeffihxejiohre 性分化疾患
 {0}db,md+sttkv.xkeffihxe 性分化
+{0}db,zn+djltkm.xkequuxle 性取向
 {0}db,zvkyk.xkiksi 星空
 {0}db,vlfstk.xkeyue 性欲
 {0}db,wvxtk.xkejni 性交
@@ -8736,6 +8755,7 @@
 {0}kp+dd,kfcycwbk.lleijuxko 量産型
 {0}kp+kcsxh.xieoie 细致
 {0}kp+ka+oz+ctkkuouk.bnibfupkojyi 標本平均
+{0}kp+ka+stuou.bnibfuhxe 標本化
 {0}kp+fuyc.llezia 量子
 {0}ky+ydbktk.hgoxki 恒星
 {0}ky+xrjzk.xribue 宣布
@@ -8782,7 +8802,8 @@
 {0}kx+suint.tmifue 添付
 {0}kx+ldkrjm.ouetki 助听
 {0}kx+db,zxylkmtk.kxexkeoeu 跨性者
-{0}kx+db,lmrflkmtk.kxexkebpo 跨性別
+{0}kx+db,lmrflkmtk.kxexkebpo 跨性别
+{-}kx+db,lmrflkmtk.kxexkebpo 跨性別
 {0}kx+dk+llixljmlr.ouetkiqie 助听器
 {0}kt+bk.veeuzu 悪手
 {0}kt+ba+kciznro.bwubjeqqo 北半球
@@ -9092,6 +9113,7 @@
 {0}km+js+iltlmwc.jueliogju 距離感
 {0}km+ja+psrrrwx.fwiyzujpe 非有界
 {0}kz+nfunm.wuirju 汚染
+{0}kz+xdnwj.gjitgo 肝疼
 {0}kz+umpgux.gjulju 橄欖
 {0}kz+mp+kciznuxug.gjuljuqqo 橄欖球
 {0}kz+mzwiynm.wuioio 汚職
@@ -9574,6 +9596,7 @@
 {0}kj+nscbs.zeonjo 责难
 {0}kj+njvfme.jmicee 監測
 {0}kj+nj+ssmmewg.jmiduizoe 監督作
+{0}kj+xy+rj+ez+wrrfbbfknj.qkiiyizuuoiejie 青春阻滞剂
 {0}kj+xst.yuedae 愈大
 {0}kj+twgxos.fjoncu 烦恼
 {0}kj+togxov.fjoncu 煩悩
@@ -9894,6 +9917,7 @@
 {0}fu+dsuiz.ziefuo 字符
 {0}fu+kpmrz.ziemme 字面
 {0}fu+kckkgh.hcuwjo 好玩
+{0}fu+kedddz.ziexko 字形
 {0}fu+fygn.rjusee 染色
 {0}fu+flriu.liuqlo 李强
 {0}fu+ffh.hculea 好了
@@ -10014,8 +10038,8 @@
 {0}fe+evcsb.yhujii 氧基
 {0}fe+dyiryx.grijpo 関節
 {0}fe+dh+it+ohsxyxsos.grixieddeuue 関係代数
-{0}fi 夕
-{1}fi 々
+{0}fi 々
+{1}fi 夕
 {0}fii 多
 {0}fi+ba+xx,xa+we+lwjjjebh.tsiysewhugrijpikzu 通用网关接口
 {0}fi+ycuiwj.tsiuio 通時
