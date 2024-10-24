@@ -1044,6 +1044,7 @@
 {0}na+wxuin.ulidve 双対
 {0}na+wxuid.fjudve 反対
 {0}na+wx.uvuwfo 水文
+{0}na+wcebx.yzudao 友達
 {0}na+wmssx.uvuzuo 水族
 {0}na+wlzjkx.yzuyie 友誼
 {0}na+wlkwkd.fjuoge 反証
@@ -1386,6 +1387,7 @@
 {0}xk+dimjsle.drupmi 短篇
 {0}xk+kcpcuwk.oguliu 整理
 {0}xk+kl+tdbkuwks.oguheoxke 整合性
+{0}xk+ke 整形
 {0}xk+kedddpl.jiixko 畸形
 {0}xk+keddduwk.oguxko 整形
 {0}xk+kfrfuwk.ogulpe 整列
@@ -2396,6 +2398,7 @@
 {0}ub+judddokj.jkicdu 精彩
 {0}up+usxld.fjioii 番椥
 {0}up+hojkd.fjizuu 番組
+{0}up+mlrfd.fjijue 番剧
 {0}up+sklbrj.vzuheo 耦合
 {0}up+lkhmd.fjihce 番号
 {0}up+exmld.fjijxi 番茄
@@ -2564,6 +2567,7 @@
 {0}ul+rj+eseodx.heobuewuo 和布蕪
 {0}ul+uceidkc.igouue 程樹
 {0}ul+ufdndv.jiijio 积极
+{0}ul+cu+sklds.heojioheo 和集合
 {0}ul+ce+uudkcui.igouuelbo 程樹林
 {0}ul+wlmsd.heoyie 和訳
 {0}ul+wlkkld.heoyuu 和語
@@ -2857,6 +2861,7 @@
 {0}ua+ouvmdo.miuffu 米粉
 {0}ua+sxlz.wweoii 未知
 {0}ua+st+wvjljji.cdugzeuhi 采购商
+{0}ua+scuf.ziajio 子集
 {0}ua+sevf.ziagsi 子供
 {0}ua+la+wktth.yeuruociu 也如此
 {0}ua+esuj.cduiao 采茶
@@ -3183,6 +3188,7 @@
 {0}ho+ihdzlio.tjohxe 谈话
 {0}hsl 给
 {0}hs+bmzlox.uuejue 数据
+{0}hs+yh+rrdnmxi.gdullobju 改良版
 {0}hs+yox.uuerie 数日
 {0}hs+ykpcox.uuelle 数量
 {0}hs+ya+sweloxk.uuebdubwe 数百倍
@@ -3393,6 +3399,7 @@
 {0}cp+duwzkc.liukei 理科
 {0}cp+kciznkrh.hroqqo 環球
 {0}cp+fjmdbkc.liujpu 理解
+{0}cp+jm.xmkcfdb.liujpulie 理解力
 {0}cy 増
 {0}cy+wsr.uuiyui 書込
 {0}cy+wlctr.uuioie 書誌
@@ -3660,6 +3667,7 @@
 {0}ck+sluko.hrobcu 环保
 {0}ck+sj+mf+kpjklkokfu.hrobkuyyetso 环丙孕酮
 {0}ck+dn+up+lkhmijvzld.guekeefjihce 顧客番号
+{0}ck+jxxko.hrowhu 环网
 {0}cf,yw+rp+mklpifdgsr.yeudcuufisii 野島伸司
 {0}cf,tpif.yeuxbi 野心
 {0}cf,cydss.hriugi 歓声
@@ -4093,6 +4101,7 @@
 {0}md+db,jf+cl+eprykouph.iuixkixtoyroqui 初星学園曲
 {0}md+dqdt.qpeufi 切身
 {0}md+dyirv.ffijpo 分節
+{0}md+dnwdkr.souiue 所处
 {0}md+dzdfnv.ffidre 分段
 {0}md+dscuibl.ocidde 招待
 {0}md+kphdkr.souyce 所要
@@ -4725,6 +4734,7 @@
 {0}ve+psrreu.yeejpe 業界
 {0}ve+wlcjgjej.gzeduo 購読
 {0}ve+sdjej.gzerue 購入
+{0}ve+lc+ouwzjejwjg.gzeduolne 購読料
 {0}ve+ivdgieu.yeemoo 業魔
 {0}vi+ggzx.tuiiui 突出
 {0}vi+lzt.ilikzu 窓口
@@ -4868,6 +4878,7 @@
 {0}va+gr+kljf.jbighiuio 金剛石
 {0}va+hmt.jbinii 金妮
 {0}va+hs+wlofox.xnuuuedmu 小数点
+{0}va+hiof.xnumie 小糸
 {0}va+hk+xdsfxh.jbisiihzo 金丝猴
 {0}va+hk+hiyhfei.xnuycenlo 小药娘
 {0}va+ct,na+bwzzfswkn.xnuheeulipbi 小鹤双拼
@@ -5004,8 +5015,6 @@
 {0}wt+scjggr.bwigri 悲観
 {0}wt+lersr.bwitje 悲嘆
 {0}wr 部
-{0}wrr,f 剂
-{1}wrr,f 剤
 {0}wrk+s 逃
 {0}wr+bsjggkk.ogegvi 正規
 {0}wr+pdnwsk.qiutuo 企图
@@ -5414,6 +5423,7 @@
 {0}oc+po+fufcf.gviyuozia 鮭魚子
 {0}oc+ughiohl.jpozai 結紮
 {0}oc+hoimjhjg.xuebmi 続編
+{0}oc+hdtyhl.jpohyi 結婚
 {0}oc+mxi.ueequi 社区
 {0}oc+mmlhl.jpojuo 結局
 {0}oc+mkhi.ueeohu 社長
@@ -6383,6 +6393,7 @@
 {0}sk+jh.wlkkluszio.jmusouyuu 検索語
 {0}sk+jh.lk+tlusziowkl.jmusouyuujue 検索語句
 {0}sk+jfle.dgiyte 登月
+{0}sk+ja+zxyfxty.faimkooeu 発明者
 {0}sf 例
 {0}sfi+f 侈
 {0}sf+bixmcmk.quiuie 趋势
@@ -7917,6 +7928,8 @@
 {0}if+xfi.doidae 多大
 {0}if+xa+zfustw.nmewfozie 念文字
 {0}if+tss.tjixbi 贪心
+{0}if+rrdpzsi.lkepdo 令牌
+{0}if+rd+kckosirpz.lkepdohro 令牌环
 {0}if+uuhss.tjiljo 贪婪
 {0}if+ugtff.yuuxlu 予想
 {0}if+uznfi.doioii 多枝
@@ -8160,6 +8173,7 @@
 {0}dy+dd,pkcikowbk.yroijugoo 原産国
 {0}dy+kgpko.yrohxe 原画
 {0}dy+kcpcko.yroliu 原理
+{0}dy+ksjgvko.yrozii 原資
 {0}dy+kedddko.yroxko 原形
 {0}dy+kfcko.yroxko 原型
 {0}dy+fuko.yrozia 原子
@@ -8803,7 +8817,6 @@
 {0}kx+ldkrjm.ouetki 助听
 {0}kx+db,zxylkmtk.kxexkeoeu 跨性者
 {0}kx+db,lmrflkmtk.kxexkebpo 跨性别
-{-}kx+db,lmrflkmtk.kxexkebpo 跨性別
 {0}kx+dk+llixljmlr.ouetkiqie 助听器
 {0}kt+bk.veeuzu 悪手
 {0}kt+ba+kciznro.bwubjeqqo 北半球
@@ -9285,6 +9298,7 @@
 {0}kl+oa+jkljk.tsobuetso 同不同
 {0}kl+stj.tsohxe 同化
 {0}kl+suks.heotiu 合体
+{0}kl+szjhj.tsooio 同値
 {0}kl+ssms.heozoe 合作
 {0}kl+sees.heobke 合併
 {0}kl+sifisr.mkelke 命令
@@ -10537,6 +10551,7 @@
 {0}jv+njsfbu.tjecee 探测
 {0}jv+ra+fi+wedgnuwj.ufiositsidce 深中通道
 {0}jv+urksuh.ykitco 櫻桃
+{0}jv+usksbu.tjejmu 探検
 {0}jv+ua+jk+fdmuhzv.ykimueofindu 櫻木真乃
 {0}jv+hodhtkf.ceeoiu 厠紙
 {0}jv+hkknu.ufihso 深红
@@ -10562,6 +10577,7 @@
 {0}jv+kk.fygnuh.ufihsosee 深红色
 {0}jv+kfce.dmuxko 典型
 {0}jv+fygnu.ufisee 深色
+{-}jv+frsksbu.tjexmu 探険
 {0}jv+js+llixlbunf.tjeceeqie 探测器
 {0}jw+cymkc.tjitai 坍塌
 {0}jw+wxmwdm.phobmi 旁边
