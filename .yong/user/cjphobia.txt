@@ -2585,6 +2585,7 @@
 {0}uep+i 樽
 {0}uej+s 檬
 {0}ue+xa+sk+pk+dbcuiepllfy.ldoybihailuutee 莱因哈鲁特
+{0}ue+zpzd.igoiei 乗車
 {0}ue+zdnld.igokee 乗客
 {0}ue+ljgvd.igoyro 乗員
 {0}ue+dwdfld.igoiro 乗船
@@ -9775,6 +9776,7 @@
 {0}ka+dk+wedgkwjs.vrepbodce 二频道
 {0}ka+djlx.zouxle 左向
 {0}ka+da+tmdm.yiidciqpe 一刀切
+{0}ka+da+oz+xa+ctuwsk.uhevvapkodaedie 上ヶ平大地
 {0}ka+kpmr.yiimme 一面
 {0}ka+kg+wlskjkk.vreyrolye 二元論
 {0}ka+khlw.uheiyo 上唇
@@ -10577,7 +10579,6 @@
 {0}jv+kk.fygnuh.ufihsosee 深红色
 {0}jv+kfce.dmuxko 典型
 {0}jv+fygnu.ufisee 深色
-{-}jv+frsksbu.tjexmu 探険
 {0}jv+js+llixlbunf.tjeceeqie 探测器
 {0}jw+cymkc.tjitai 坍塌
 {0}jw+wxmwdm.phobmi 旁边
