@@ -668,7 +668,9 @@
 {0}yg+vk+yfyfz.seeksijmi 色空間
 {0}yg+wljclf.seedne 色調
 {0}yg+escoe.baijni 芭蕉
+{0}yg+ekjpe.bailwu 芭蕾
 {0}yg+kh+rj+ebjgfbiong.seesueufuoea 色素沈着
+{0}yg+kj+sefibeep.bailwuwuu 芭蕾舞
 {0}yg+judddf.seecdu 色彩
 {0}yh+bmzlu.gfijue 根据
 {0}yh+nscn.jminjo 艰难
@@ -779,6 +781,7 @@
 {0}yk+dmdkrcd.ihusou 場所
 {0}yk+debs.tiougi 提升
 {0}yk+kpydkbs.tioxku 提醒
+{0}yk+kpmrcd.ihumme 場面
 {0}yk+kcrfbs.tiodce 提到
 {0}yk+km+fd+esudczshm.hlojxinduiao 皇家奶茶
 {0}yk+kkobs.tiouie 提示
@@ -1550,6 +1553,7 @@
 {0}xa+db,xews.wfojmejxi 文件夹
 {0}xa+db,ep+iz+dsuiwsbwv.wfojmemnouuefuo 文件描述符
 {0}xa+dyirw.wfojpo 文節
+{0}xa+dx,uf+ia+iijujddmx.daeqnoxqetdelhu 大橋秀太朗
 {0}xa+duwzw.wfokei 文科
 {0}xa+dgjs.daezje 大赞
 {0}xa+dhioe.grixie 关系
@@ -2667,6 +2671,7 @@
 {0}ud+rikjdd.cduhso 彩虹
 {0}ud+rfjsbbg.hcefwe 耗费
 {0}ud+rj+bk+dd,xmwkrdgvdwbk.xbioieugiijulie 新質生産力
+{0}ud+ugwkr.xbioao 新札
 {0}ud+uw+bznwkrdz.xbikeijie 新科技
 {0}ud+hs+ixmirni.bwerfewwe 被认为
 {0}ud+ck+ks+jg+il+mxwkrfpkhcdn.xbijliwwozieoiequi 新疆维吾尔自治区
@@ -2850,6 +2855,7 @@
 {0}ua+mk+yyc.mueycerie 木曜日
 {0}ua+ma+lix.uueliekzu 术力口
 {0}ua+zbxp.gouuio 果実
+{0}ua+zn+dujgfm.ziaquuxli 子取箱
 {0}ua+zr+jbzsx.wweuiuyse 未使用
 {0}ua+zl+su+llixldli.muegruleeqie 木管楽器
 {0}ua+zkwsz.wwedke 未定
@@ -2991,6 +2997,7 @@
 {0}gd+rjyjgjzk.uvemce 睡帽
 {0}gd+ukjg.jmebfu 見本
 {0}gd+gl+vlfsjzkjht.uvemmoyue 睡眠欲
+{0}gd+gl+jg+kw+rf,mlebjzkjhtuxksx,vemoligezeyo 睡眠相後退症候群
 {0}gd+mdbgwyo.jqewwu 鷲尾
 {0}gd+zn+pwxjgm.jmequutuo 見取図
 {0}gd+wdmjg.jmefhi 見方
@@ -3373,6 +3380,7 @@
 {0}ha+skcz.vjiqro 安全
 {0}ha+skf.nvuqie 女气
 {0}ha+skjn.nvuyzi 女優
+{0}ha+iifr.nvulho 女郎
 {0}ha+db,dm+bkhiotknx.nvuxkejiisue 女性激素
 {0}ha+dsgoxz.vjihvi 安徽
 {0}ha+dfkri.nvufgi 女風
@@ -3544,6 +3552,7 @@
 {0}cz+kj+jobmnsn.oyuyziuge 準優勝
 {0}cz+jvrfn.oyuzeo 準則
 {0}cvp+y 增
+{0}cv+keddden.lkoxko 菱形
 {0}cw+bm+fpokxcmo.bjimauyuo 斑馬魚
 {0}cw+qd+jkkvrdhd.oliufijue 装身具
 {0}cw+przjkrdh.olioie 装置
@@ -3591,6 +3600,7 @@
 {0}cs+wldhkx.oievdi 致哀
 {0}cs+sklrkx.oiemke 致命
 {0}cs+edsxep.qlowwi 薔薇
+{0}cs+kl+ha+iifrkxsr.oiemkenvulho 致命女郎
 {0}cs+kftkx.oiesiu 致死
 {0}cs+ft,yt+sx+xksjkxkdix.oiesiudeajiobke 致死的疾病
 {0}cs+ft,tdbkkxk.oiesiuxke 致死性
@@ -3611,6 +3621,7 @@
 {0}cl+frkljwh.yrugeo 遠隔
 {0}cl+fuu.juozia 桔子
 {0}ce+nilel.ujeoie 善治
+{0}ce+ndbznd.pgipde 澎湃
 {0}ce+tdbkel.ujexke 善性
 {0}ce+uuui.uuelbo 樹林
 {0}ce+zxyel.ujeoeu 善者
@@ -3646,8 +3657,10 @@
 {0}ci+fydik.yuetue 玉兔
 {0}ci+frzkgn.fauyre 法院
 {0}cd+bljvdfn.hvusyu 毀損
+{0}cd+xa+tdbkdgk.xmitmixke 先天性
 {0}cd+rwzpzdg.xmibwe 先輩
 {0}cd+gdnzdg.xmifgi 先峰
+{0}cd+mzndg.xmiquu 先取
 {0}cd+za+ztjfdgw.xmidzenko 先斗寧
 {0}cd+wscdg.xmijbe 先進
 {0}cd+wegkjdg.xmidri 先端
@@ -3657,6 +3670,7 @@
 {0}cd+eekhfzyo.heepko 鶴瓶
 {0}cd+dbkdg.xmiugi 先生
 {0}cd+dskkfdg.xmixko 先行
+{0}cd+kxdg.xmitmi 先天
 {0}cd+kcwgjkdp.lqolio 瑠璃
 {0}cd+kw+zn+vibsfwm.pkokauquuqmo 凭卡取銭
 {0}cd+kekjvdg.xmitzo 先頭
@@ -4025,6 +4039,7 @@
 {0}md+bfjxt.qpehre 切換
 {1}md+bfjxt.qpehre 切换
 {0}md+qt+pcfifri.iuilueyeu 初鹿野
+{0}md+qt+cf,kk.xkkoripifwl.iuilueyeuyjonde 初鹿野言奈
 {0}md+ph+cu+yfydkrkyi.souyceuiojmi 所要時間
 {0}md+pcfifv.ffiyeu 分野
 {0}md+plr.iuihvo 初回
@@ -4115,6 +4130,7 @@
 {0}md+frsv.ffidve 分队
 {0}md+frskut.qpeiuo 切除
 {0}md+frkljv.ffigeo 分隔
+{0}md+fw+eb,dn+rw+klykivkdhuulfez,fipeheeohede 分裂样人格障碍
 {0}md+fsrkit.qpedje 切蛋
 {0}md+fjmdbv.ffijpu 分解
 {0}md+jbv.ffiyse 分用
@@ -4648,6 +4664,7 @@
 {0}vn+fygw.bmesee 变色
 {0}vx 父
 {0}vx+bsyw.jnitie 交替
+{0}vx+bk+wlowe.jniiaedmu 交差点
 {0}vx+bk+sk+zkwsweus.jniiaejmudke 交差検定
 {0}vx+bfjxw.jnihre 交換
 {0}vx+ytddw.jniyie 交易
@@ -4689,6 +4706,7 @@
 {0}vc+wloe.jiidmu 基点
 {0}vc+wljcle.jiidne 基調
 {0}vc+swsxcrv.heembu 赫敏
+{0}vc+ehiicrv.heezii 赫兹
 {0}vc+idtke.jiidiu 基底
 {0}vc+iksce.jiioyu 基准
 {0}vc+dnjee.jiipjo 基盤
@@ -4946,6 +4964,7 @@
 {0}va+fxrbe.gsejme 共建
 {0}va+fu+io+wlkklpzw.siezieuuoyuu 四字熟語
 {0}va+fhmkf.xnumau 小马
+{0}va+fi+wloewj.gsetsidmu 共通点
 {0}va+fi+dh+rcwdhewjw.gsetsiyiioli 共通衣装
 {0}va+fi+kkjvewj.gsetsixle 共通項
 {0}va+jgrf.jbighi 金剛
@@ -5150,6 +5169,7 @@
 {0}wls+kj 論
 {0}wle+ci 議
 {0}wld+fi 諷
+{0}wlj+g 毫
 {0}wl+bxnyo.jkutde 景泰
 {0}wl+nezjsf.tkooie 停滞
 {0}wl+ut+kh+zxyeudtym.gcujpiohuoeu 藁稭長者
@@ -5172,6 +5192,7 @@
 {0}we+bnkprb.laimme 拉麺
 {0}we+bgbc.olejii 撞击
 {0}we+bc,mb+ti+ewjjbduihrej.laiteenaepuodie 拉特娜葡蒂
+{0}we+pxoyy.vjemoe 暗黙
 {0}we+przjks.wweoie 位置
 {0}we+psrrcg.jkejpe 境界
 {0}we+ncib.laifau 拉法
@@ -6005,6 +6026,7 @@
 {0}su+tsjd.cdoohu 财长
 {0}su+hddn.biunvu 彼女
 {0}su+hkfskjd.cdojki 财经
+{0}su+wedge.iaodce 茶道
 {0}su+wdmddn.biufhi 彼方
 {0}su+scjggi.leegri 楽観
 {0}su+seyddn.biujpe 彼借
@@ -6171,6 +6193,7 @@
 {0}sm+fb,zk+hoclcgfszki.qiuigoorujpo 起承転結
 {0}sm+ffcg.qiulea 起了
 {0}sm+jbs.zoeyse 作用
+{0}sm+jg+jxocdld.icizierjo 超自然
 {0}sz 午
 {1}sz 什
 {0}sz,pkcidpt.deogoo 德国
@@ -6972,11 +6995,13 @@
 {0}lj+gdnzwl.gcifgi 高峰
 {0}lj+hofdnwl.gcijio 高級
 {0}lj+hi+fpozds.huogxiyuo 胡瓜魚
+{0}lj+ha+yuiwgz.hcovjiuio 毫安时
 {0}lj+cu+iw+br,dmdkrwldizdhof.gcidgucdopjesou 高等裁判所
 {0}lj+ccvpwl.gciqlo 高墙
 {0}lj+csmgwg.lleqiu 亮起
 {0}lj+mvpywl.gcicgo 高層
 {0}lj+zxkhmwl.gcikcu 高考
+{0}lj+zhwg.hcovji 毫安
 {0}lj+zlrlwl.gcigri 高官
 {0}lj+zldgwg.hcokee 毫克
 {0}lj+zlkjvwl.gciveo 高額
@@ -6987,6 +7012,7 @@
 {0}lj+wxsxwl.gcixne 高效
 {0}lj+wurwl.gcisue 高速
 {0}lj+wgsiiwl.gcilko 高齢
+{0}lj+wv+dbkwlux.gcixneugi 高校生
 {0}lj+wlowg.lledmu 亮点
 {0}lj+wlitkwcl.dneuie 調試
 {0}lj+weywl.gciybi 高音
@@ -7084,6 +7110,7 @@
 {0}la+sitz.guudde 古代
 {0}la+skflh.ruoheo 如何
 {0}la+sj.kzunwe 口内
+{0}la+ltdd.kzuwfu 口吻
 {0}la+lu+eidkkdn.uiopoemce 石破茂
 {0}la+lc+wlotwjg.jueduodmu 句読点
 {0}la+exlh.ruoroe 如若
@@ -7419,6 +7446,7 @@
 {0}ee,ka+wrkdw.jbeyiibue 进一步
 {0}ee,jbs.bkeyse 併用
 {0}ei 時
+{0}eii 薄
 {0}eid+m 蔵
 {0}ei+llixljm.zheqie 臓器
 {0}ei+li+yk+sevjmlxlbs.zheqietiogsi 臓器提供
@@ -7714,6 +7742,7 @@
 {0}iz+blwsbj.buuooi 捕捉
 {0}iz+pcon.qmuhwi 浅黒
 {0}iz+xmdu.mwelie 魅力
+{0}iz+riythrt.ueoxpi 蛇蝎
 {0}iz+riteurlj.huodpo 蝴蝶
 {0}iz+ug+oxkjvljj.buuruulwe 哺乳類
 {0}iz+uwcrt.ueooue 蛇柱
@@ -8207,6 +8236,7 @@
 {0}dn+wtpju.piofui 皮膚
 {0}dn+wuipl.ltegoe 略过
 {0}dn+wlvlgs.fjuuoi 仮説
+{0}dn+wlkklpl.lteyuu 略語
 {0}dn+wiszul.geolve 格率
 {0}dn+wkow.fjuhdo 返还
 {0}dn+scjggzl.keegri 客観
@@ -8258,6 +8288,7 @@
 {0}dx,dcuiom.lpedgu 劣等
 {0}dx,ddpmn.faelqo 髪留
 {0}dx,kwrkhj.jnioge 嬌正
+{0}dx,kktom.lpevee 劣悪
 {0}dx,kftd.xnesiu 笑死
 {0}dx,kfcmn.faexko 髪型
 {0}dx,jmkdmn.faejni 髪膠
@@ -8706,6 +8737,7 @@
 {0}da+bdupw.gluboi 广播
 {0}da+ba+evjos.ucunmoqii 少年期
 {0}da+ph+tdbktk.bieycexke 必要性
+{0}da+pclh.ouoyro 竹園
 {0}da+pi+kt+ka+kpwluikvnwsck.wuesriciovreiyo 戊酸雌二醇
 {0}da+yfs.ruemfo 入門
 {0}da+xuw.gludsi 广东
@@ -8999,6 +9031,7 @@
 {0}kc+urhl.jpouue 结束
 {0}kc+uk+sfysss.qrotiuxle 全体像
 {0}kc+uk+epss.qrotiuqui 全体曲
+{0}kc+ht+ht+ca+ojldgpillw.goombomboouudhu 国民民主党
 {0}kc+ht+fx+dqdslsb.qrombojmeufi 全民健身
 {0}kc+hoimjs.qrobmi 全編
 {0}kc+hodyns.qroxme 全線
@@ -9156,6 +9189,7 @@
 {0}kw+tlgw.kaubci 卡包
 {0}kw+ry+uhiizsfh.dkexmejii 定限機
 {0}kw+rkixxk.ogeole 症状
+{0}kw+rf,mlebxksx.ogehzeqyo 症候群
 {0}kw+ueys.uieldo 是来
 {0}kw+mb+edufhohr.yjinaelie 嫣娜莉
 {0}kw+za+diyss.uieufomea 是什么
@@ -9345,6 +9379,7 @@
 {0}kl+jk+ma+tncgnlm.yjodsejuegke 岩洞巨怪
 {0}ke+bzfygfb.xmiyje 鲜艳
 {0}ke+rpgki.iuodme 厨电
+{0}ke+wedgez.hxodce 華道
 {0}ke+imwdmki.iuofho 厨房
 {0}ke+ka+xksjkik.iuovrebke 厨二病
 {0}ki.nldgrx.olekle 状況
@@ -9466,6 +9501,7 @@
 {0}kk.sa+hojkk.sjirfozuu 三人組
 {0}kk.sa+dufok.sjirfoigi 三人称
 {0}kk.lo.su+lkhmuowdi.bnidmufuohce 标点符号
+{0}kk.ld+wsrfsiwzl.hvehxejue 会話劇
 {0}kk.lk+yfywlwkl.yjoyuujmi 言語間
 {0}kk.lk+ca+uecnwlwkls.yjoyuuuieyhe 言語仕様
 {0}kk.lk+ojfuwlwkl.yjoyuuxto 言語学
@@ -10189,6 +10225,7 @@
 {0}fa+doud.jiuhui 几乎
 {0}fa+ks+twmkdhc.jiuwwonnu 几维鸟
 {0}fa+kkgs.yieyro 亿元
+{0}fa+fjmdbf.leajpu 了解
 {0}jb+xjb.ysiyzu 拥有
 {0}jb+sjkvd.luejue 甪俱
 {0}jb+fygf.jnusee 角色
@@ -10605,6 +10642,7 @@
 {0}js+estuh.ykihxi 樱花
 {0}js+ekezex.sjehxo 散華
 {0}js+ejsxwc.liosje 離散
+{0}js+ihitknf.ceeuie 测试
 {0}js+io+llixlexc.sjereeqie 散熱器
 {0}js+dn+dx,eikskculn.hoegeowoecio 霍格沃茨
 {0}js+dulkii.lkoheo 零和
