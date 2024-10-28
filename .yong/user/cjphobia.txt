@@ -3247,6 +3247,8 @@
 {0}hl+kwk.iyoxxe 唇下
 {0}he+pdnwfe.bkutuo 饼图
 {0}he+wizvie.jluuue 讲述
+{0}he+sa+oa+rfxixljf.noebwevrujlu 诺贝尔奖
+{0}he+sa+foixlj.noebwevru 诺贝尔
 {0}he+ihdzlie.jluhxe 讲话
 {0}hix+m 幼
 {0}him 幻
@@ -7824,6 +7826,8 @@
 {0}is+ueh.yiuldo 以来
 {0}is+ua+oa+sk+oa+kzcxofnuf.vdimiuvrutuovrugje 埃米尔･涂尔干
 {0}is+ua+focxo.vdimiuvru 埃米尔
+{0}is+ha+ud+mxxczwkr.xsovjixbiqui 雄安新区
+{0}is+zhxc.xsovji 雄安
 {0}is+wxxmeu.ycexne 薬効
 {0}is+wrrfeu.ycejie 薬剤
 {0}is+wrkzc.jpooiu 截止
@@ -8784,6 +8788,7 @@
 {0}kp+ukuo.bnibfu 標本
 {0}kp+cz+ga+xmuong.bnioyuiuilie 標準出力
 {0}kp+cz+ll.ebkuonwkx.bnioyuwueiae 標準誤差
+{0}kp+cz+im+ebkuonsj.bnioyupmiiae 標準偏差
 {0}kp+msk.jliuii 僵尸
 {0}kp+wlmguo.bnijie 標記
 {0}kp+wlmklyc.llecio 量詞
