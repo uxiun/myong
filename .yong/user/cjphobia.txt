@@ -799,6 +799,7 @@
 {0}yf+sukdy.jmutiu 簡体
 {0}yf+sklzr.dziheo 都合
 {0}yf+ebjgku.hzeoea 厚着
+{0}yf+ed,su+jghozrwgii.dzidcefuuxme 都道府県
 {0}yj 明
 {0}yjk+n 暖
 {0}yj.yjknne.wfinru 温暖
@@ -1579,6 +1580,7 @@
 {0}xa+fyts.daexle 大象
 {0}xa+frcvc.daelue 大陸
 {0}xa+frdn.daebju 大阪
+{0}xa+fup.ybizia 因子
 {0}xa+fu+ohsxwz.wfozieuue 文字数
 {0}xa+fu+kfrfwz.wfozielpe 文字列
 {0}xa+fv.daexnu 大小
@@ -1952,6 +1954,7 @@
 {0}rr,skffzf.uielie 事例
 {0}rr,sfobj.bhiniu 帮你
 {0}rr,ebkrs.uyeiae 顺差
+{0}rr,ex,estkkl.yaexnehxi 亜咲花
 {0}rr,evzf.uieyee 事业
 {0}rr,eveuzf.uieyee 事業
 {0}rr,ejrfzf.uieqmo 事前
@@ -3502,6 +3505,7 @@
 {0}cu+cw+ix+stsrdhsg.jiooliyzihxe 集装优化
 {0}cu+cilkyi.uioyue 時域
 {0}cu+mlebs.jioqyo 集群
+{0}cu+md+ejsxdiv.dguffisje 等分散
 {0}cu+mkhyi.uioohu 時長
 {0}cu+zrrfyi.uiouie 時事
 {0}cu+zvkyi.uioksi 時空
@@ -3996,6 +4000,7 @@
 {0}ml+hx+itkiin.qiufaiuie 启发式
 {0}ml+hdcwz.bierfe 避妊
 {0}ml+cixmm.juouie 局勢
+{0}ml+cilkm.juoyue 局域
 {0}ml+ci+kw+kcpcxnzs.jxifaudkeliu 加法定理
 {0}ml+md+jv+jh.ncimdkrbuzio.juosoutjesoufau 局所探索法
 {0}ml+mkhm.juoohu 局長
@@ -4016,6 +4021,7 @@
 {0}ml+ix+llixlikm.qiudseqie 启动器
 {0}ml+irirx.jxiozi 加州
 {0}ml+ihxni.qiufai 启发
+{0}ml+il+jxxmck.juoyuewhu 局域网
 {0}ml+dgtx.jxixii 加息
 {0}ml+dmdkrm.juosou 局所
 {0}ml+djgex.jxisre 加算
@@ -4579,6 +4585,7 @@
 {0}zj+jwmkcv.tmoxpu 填写
 {0}za+ybkjd.qmiqko 千晴
 {0}za+ykzk.gjehje 干旱
+{0}za+ykkhy.zcuifo 早晨
 {0}za+nurvy.zculde 早瀬
 {0}za+nwrdk.gjeuee 干渉
 {0}za+ur+cwsynv.zculdezzu 早瀬走
@@ -4673,6 +4680,7 @@
 {0}vx+yjzf.jqimko 究明
 {0}vx+nwigw.jnilqo 交流
 {0}vx+uknkzf.jqijio 究極
+{0}vx+hf+sm+jbwkks.jnihuezoeyse 交互作用
 {0}vx+weydgzf.jqijke 究竟
 {0}vx+wfijw.jnitsi 交通
 {0}vx+ebkw.jniiae 交差
@@ -5042,6 +5050,7 @@
 {0}wr+pdnwsk.qiutuo 企图
 {0}wr+xrckk.ogezde 正在
 {0}wr+ttkk.ogebiu 正比
+{0}wr+tk+il+dufokkif.ogeuiemkoigi 正式名称
 {0}wr+uk+oa+yjkksk.ogetiubuemko 正体不明
 {0}wr+heqvnd.ueexmo 涉嫌
 {0}wr+hfukk.ogehcu 正好
@@ -5616,6 +5625,7 @@
 {0}od+cydhnw.osiugi 終声
 {0}od+cy+jwmkhssr.zseuuixpu 縦書写
 {0}od+cidmydd.ykuigo 影城
+{0}od+zzrphss.zseozo 縦軸
 {0}od+za+ms+dskkfhnwuwdh.osimoelvuxko 終末旅行
 {0}od+vfknb.icilue 抄録
 {0}od+wegkjhnw.osidri 終端
@@ -7910,6 +7920,7 @@
 {0}id+rpgwg.isidme 充电
 {0}id+riskfrzl.koeyuo 蛞蝓
 {0}id+cslenl.jmuyjo 減塩
+{0}id+cilkcm.igoyue 城域
 {0}id+vzjvcm.igoofe 城鎮
 {0}id+wpkhnl.jmuuki 減衰
 {0}id+wyhnl.jmutve 減退
@@ -7921,6 +7932,7 @@
 {0}id+szjkwg.isioio 充值
 {0}id+sidbisf.jiivee 飢餓
 {0}id+skflhi.jiuheo 幾何
+{0}id+il+jxxcmck.igoyuewhu 城域网
 {0}id+ijttsn.fjengo 飯能
 {0}id+dywornz.fginnu 蜂鳥
 {0}id+dy+zf+wddddhikobr.jiuyrobhiyje 幾原邦彦
@@ -8765,6 +8777,7 @@
 {0}da+ojfus.ruexto 入学
 {0}da+sbo.ucunmo 少年
 {0}da+irirw.gluozi 广州
+{0}da+il+jxxwck.gluyuewhu 广域网
 {0}da+ijttu.cdongo 才能
 {0}da+dclw.glugce 广告
 {0}da+ddkjvt.biexui 必須
@@ -9241,6 +9254,7 @@
 {0}ko+hfuw.hdohcu 还好
 {0}ko+oubkjm.lkojki 灵精
 {0}ko+oa+steywk.hdobuecoe 还不错
+{0}ko+skffk.uielie 示例
 {0}ko+idkhk.uiewwi 示威
 {0}ko+ijttw.hdongo 还能
 {0}ko+df+xjwnn.hdomwoyzu 还没有
@@ -9572,6 +9586,7 @@
 {0}kfo 烈
 {0}kf+bgb.daujii 打击
 {0}kf+bixgb.daurcu 打扰
+{0}kf+ba+ohsxdus.ouenmouue 築年数
 {0}kf+pp.tkitmo 町田
 {0}kf+pevxl.qioyie 奇異
 {0}kf+pa+za+izvvpd.tkitmoqmimao 町田千麻
@@ -9819,6 +9834,7 @@
 {0}ka+da+tmdm.yiidciqpe 一刀切
 {0}ka+da+oz+xa+ctuwsk.uhevvapkodaedie 上ヶ平大地
 {0}ka+kpmr.yiimme 一面
+{0}ka+kg+pm+js+md+udkrkkkgexv.vreyropwesjeffixii 二元配置分散分析
 {0}ka+kg+wlskjkk.vreyrolye 二元論
 {0}ka+khlw.uheiyo 上唇
 {0}ka+kcsx.yiioie 一致
@@ -10098,6 +10114,7 @@
 {0}fi 々
 {1}fi 夕
 {0}fii 多
+{0}fi+bk+oz+dm+dulkzekw.cjoiaepkofhiheo 残差平方和
 {0}fi+ba+xx,xa+we+lwjjjebh.tsiysewhugrijpikzu 通用网关接口
 {0}fi+ycuiwj.tsiuio 通時
 {0}fi+ykpckz.cjolle 残量
@@ -10122,6 +10139,7 @@
 {0}fi+skffd.fjolie 凡例
 {0}fi+lu+wjscifkdn.xuepoelio 序破離
 {0}fi+lkdnlwj.tsilue 通路
+{0}fi+ebkkz.cjoiae 残差
 {0}fi+ezlxj.tsekuu 痛苦
 {0}fi+evb.oriyee 专业
 {0}fi+ihfzwj.tsixye 通讯
