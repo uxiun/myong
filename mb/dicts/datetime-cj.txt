@@ -3,7 +3,8 @@ att $yyyy$mon0$day0$hour0$min$sec$SPACE
 atg $yyyy-$mon0-$day0T$hour0:$min.$sec
 
 atw $yyyy年/$mon月/$day日$SPACE
-ate $yyyy年/$mon月/$day日$_#$yyyy年$mon月$_#$yyyy年$_#$mon月$_#$day日$SPACE
+ate #$yyyy年$mon月$_#$day日$_#$mon月$_#$yyyy年$SPACE
+att #$yyyy年/$mon月/$day日$_#$yyyy年$mon月$_#$yyyy年$_#$mon月$_#$day日$SPACE
 
 ath $yyyy年$mon0月$SPACE
 atj $mon0月$day0日$SPACE
