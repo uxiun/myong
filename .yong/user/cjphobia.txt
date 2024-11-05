@@ -328,6 +328,7 @@
 {0}ba+wskuj.ysetuo 用途
 {0}ba+wldzl.uzuhxe 手話
 {0}ba+weytj.yseyie 用意
+{0}ba+stwxb.uzulme 手链
 {0}ba+sits.nmodde 年代
 {0}ba+sdbj.ysejme 用件
 {0}ba+lws.uzuzuo 手足
@@ -678,11 +679,13 @@
 {0}yg+escoe.baijni 芭蕉
 {0}yg+ekjpe.bailwu 芭蕾
 {0}yg+kh+rj+ebjgfbiong.seesueufuoea 色素沈着
+{0}yg+klfhkf.seemau 色码
 {0}yg+kj+sefibeep.bailwuwuu 芭蕾舞
 {0}yg+judddf.seecdu 色彩
 {0}yh+bmzlu.gfijue 根据
 {0}yh+nscn.jminjo 艰难
 {0}yh+nkdou.gfiyro 根源
+{0}yh+ulv.yboxke 銀杏
 {0}yh+uku.gfibfu 根本
 {0}yh+hfui.llohcu 良好
 {0}yh+cykdw.tveihu 退場
@@ -1811,10 +1814,12 @@
 {0}tk+kck.jyiyii 均一
 {0}tf 忆
 {0}tj+ywlor.bwejku 背景
+{0}tj+ysts.yceuia 钥匙
 {0}tj+tlgr.bwebci 背包
 {0}tj+wl+cx+dsivfryoe.bwejkumwuuue 背景美術
 {0}tj+wl+ey+isuryow.bwejkuybilee 背景音楽
 {0}tj+oxrjsgv.hoebie 貨幣
+{0}tj+st+stwxbsy.yceuialme 钥匙链
 {0}tj+dbtddss.hoewue 货物
 {0}tj+dnr.bwefju 背反
 {0}tj+dwdflss.hoeiro 货船
@@ -2556,6 +2561,7 @@
 {0}uw+ienoe.liedue 粒度
 {0}uw+kcpcoz.lneliu 料理
 {0}uw+klkedz.keiyjo 科研
+{0}uw+frykdsz.xpoyho 斜陽
 {0}uw+fuoe.liezia 粒子
 {0}uw+fufhs.hdozia 孩子
 {0}uw+fjbsz.xpojnu 斜角
@@ -3449,6 +3455,7 @@
 {0}cy+dbuyr.uuijio 書籍
 {0}cy+dp+llixlrd.uuilqoqie 書留器
 {0}cy+jwmkr.uuixpu 書写
+{0}cn+dn+jskkosgz.ulifgijie 雙峰祭
 {0}cn+jzfgs.oiiwje 隻腕
 {0}cx+bt,pclhdmddd.dsewueyro 動物園
 {0}cx+bjkgdm.dseyco 動揺
@@ -3663,6 +3670,7 @@
 {0}ce+dm+wiszwbi.daoigolve 達成率
 {0}ce+dskkfel.ujexko 善行
 {0}ce+kedddui.uuexko 樹形
+{0}ce+jtyui.uueoii 樹脂
 {0}ci 去
 {0}cix+m 勢
 {0}ci+bznkzn.qqojie 球技
@@ -4007,6 +4015,7 @@
 {0}ms+ek+klfswfskjv.xrotzogei 旋頭歌
 {0}ms+iy+gt,fuwxnhd.fhelhexiizia 放浪息子
 {0}ms+dujwtu.uiicee 施策
+{0}ms+dsrbwfs.xrolve 旋律
 {0}ms+dskkfwdh.lvuxko 旅行
 {0}ms+kwwev.qioxxe 旗下
 {0}ms+kjpgwx.fhedme 放電
@@ -5074,8 +5083,6 @@
 {0}wt+lersr.bwitje 悲嘆
 {0}wr 部
 {0}wrk+s 逃
-{0}wrk+d 歩
-{1}wrk+d 步
 {0}wr+bsjggkk.ogegvi 正規
 {0}wr+pdnwsk.qiutuo 企图
 {0}wr+xrckk.ogezde 正在
@@ -5659,6 +5666,7 @@
 {0}od+cydhnw.osiugi 終声
 {0}od+cy+jwmkhssr.zseuuixpu 縦書写
 {0}od+cidmydd.ykuigo 影城
+{0}od+mmlhnw.osijuo 終局
 {0}od+zzrphss.zseozo 縦軸
 {0}od+za+ms+dskkfhnwuwdh.osimoelvuxko 終末旅行
 {0}od+vfknb.icilue 抄録
@@ -5877,6 +5885,7 @@
 {0}oa+ihstk.buelye 不论
 {0}oa+ijttk.buengo 不能
 {0}oa+durfk.buelie 不利
+{0}oa+dujmtk.buewfu 不穏
 {0}oa+du+yjkwm.buetzemko 不透明
 {0}oa+dzllk.buegru 不管
 {0}oa+dzjsx.hvioie 灰质
@@ -6119,6 +6128,7 @@
 {0}sh+dyirdin.hzejpo 後節
 {0}sh+kxdin.hzetmi 後天
 {0}sc 仕
+{0}scn+ 雙
 {0}sc+bt,wlskjlddd.wwowuelye 唯物論
 {0}sc+bwrdw.jbebue 進捗
 {0}sc+bdws.tuouzu 徒手
@@ -6486,6 +6496,7 @@
 {1}sj 內
 {0}sj+bmznie.dceuee 盗摄
 {0}sj+nkdokgv.ziiyro 資源
+{0}sj+xx,pt+ce+jtykojkyui.bkuxiioiuuueoii 丙烯酯樹脂
 {0}sj+rf,przxybdgi.gvihxeuuu 规划署
 {0}sj+ueyxbgg.gvimoo 規模
 {0}sj+udnlbgg.gvigeo 規格
@@ -6496,6 +6507,7 @@
 {0}sj+zkwsbgg.gvidke 規定
 {0}sj+vkgv.ziijbi 資金
 {0}sj+wddbkkgv.ziiiju 資産
+{0}sj+oxxjk.bkuxii 丙烯
 {0}sj+ouwzigv.ziilne 資料
 {0}sj+ouwzis.ziilne 资料
 {0}sj+ol.gj+wlskjbgvkk.zjefzullulye 賛否両論
@@ -6524,6 +6536,8 @@
 {0}sa+uk+rk+ul+ojfuskddc.rfotiugsiigoxto 人体工程学
 {0}sa+ht+ks+isuilkx.rfomboogefuu 人民政府
 {0}sa+hlf.qmeruo 欠如
+{0}sa+hi+eo+zbzlwps.rfoiuewuohde 人畜無害
+{0}sa+cyd.rfougi 人声
 {0}sa+cx+fufe.jqumwuzia 久美子
 {0}sa+mleb.rfoqyo 人群
 {0}sa+zrrfs.csouie 从事
@@ -6531,6 +6545,7 @@
 {0}sa+za+evdkrjl.bweyeesii 贝叶斯
 {0}sa+wxs.csotzo 从头
 {0}sa+wx+pcsw.csooeeliu 从这里
+{0}sa+whip.rfoiue 人畜
 {0}sa+wlof.qmedmu 欠点
 {0}sa+wedg.rfodce 人道
 {0}sa+we+bc,ca+ld+evdkrjbduipzg.bwelaiteeliukeesii 贝拉特里克斯
@@ -6617,6 +6632,7 @@
 {0}lt+ihzv.zsujie 总计
 {0}lt+ilv.zsutdo 总台
 {0}lt+drjgvi.gjuoie 感質
+{0}lt+dcxmi.gjudse 感動
 {0}lt+kcpcv.zsuliu 总理
 {0}lt+kcrfi.gjudce 感到
 {0}lt+kv+csmznio.gjuxkique 感兴趣
@@ -7232,7 +7248,6 @@
 {0}ey+przjkb.coeoie 措置
 {0}ey+pwxwt.yietuo 意図
 {0}ey+ykpcw.ybille 音量
-{-}ey+xa+qv+ihnbwtie.yieyiejmiyie 意义兼译
 {0}ey+xa+qv+ihnbwie.ybiyiejmiyie 音义兼译
 {0}ey+xa+na+ihnbwin.ybiyieuliyie 音义双译
 {0}ey+xa+durfwt.yiedaelie 意大利
@@ -7291,6 +7306,7 @@
 {0}ey+kfcux.mooxko 模型
 {0}ey+fpowz.ohiyuo 章魚
 {0}ey+fpkwz.ohiyuo 章鱼
+{0}ey+fygw.ybisee 音色
 {0}ey+frttyw.ybijpi 音階
 {0}ey+fiwwt.yiewde 意外
 {0}ey+jbs.jpeyse 借用
@@ -7440,6 +7456,7 @@
 {0}eo+ctus.wuodie 無地
 {0}eo+csmzns.wuoque 無趣
 {0}eo+moxis.wuotoo 無駄
+{0}eo+zbzls.wuohde 無害
 {0}eo+zrrfs.wuouie 無事
 {0}eo+vj+fryhse.wuoqiixme 無期限
 {0}eo+wxxms.wuoxne 無効
@@ -7451,6 +7468,7 @@
 {0}eo+ey+ecdbiswt.wuoyieyie 無意義
 {0}eo+ed,xa+ta+rk+wddbkskddwswv.wuoxkowfohxeyioiju 無形文化遺産
 {0}eo+ek+ox+zkskjvmkl.wuotzoqiouie 無頭騎士
+{0}eo+ixfos.wuowwe 無為
 {0}eo+iojggs.wuouie 無視
 {0}eo+il+gt,tzevsff.wuomkoyreffe 無名怨憤
 {0}eo+db,zxystk.wuoxkeoeu 無性者
@@ -7468,6 +7486,7 @@
 {0}eo+fils.wuomko 無名
 {0}eo+jbs.wuoyse 無用
 {0}ess,c 難
+{0}esi+l 蒼
 {0}esk+l 荷
 {0}es+csmgbl.daiqiu 搭起
 {0}es+zixbbl.daizde 搭载
@@ -8068,8 +8087,10 @@
 {0}if+sbs.jbinmo 今年
 {0}if+srfi.doigee 多个
 {0}if+ssmfi.doizoe 多作
+{0}if+ssi.lkerfo 令人
 {0}if+lzuds.faowwe 乏味
 {0}if+lf+ncisvvs.tjiyuefau 貪欲法
+{0}if+ebjgsl.hjooea 含着
 {0}if+ecdbifi.doiyie 多義
 {0}if+evjs.jbiqii 今期
 {0}if+ixsl.hjoyie 含义
@@ -9533,6 +9554,7 @@
 {0}kk.udnlozx.yjogeo 厳格
 {0}kk.uk+skffjvs.juetiulie 具体例
 {0}kk.gxek.sjixxo 三峡
+{0}kk.hoclzg.wjojpo 完結
 {0}kk.howigsi.yyotsu 伝統
 {0}kk.hosck.sjiwwo 三維
 {0}kk.hofdnk.sjijio 三級
@@ -9642,6 +9664,7 @@
 {0}kk.jg+djrfsilv.hveyrooie 会員制
 {0}kk.jc+vsckf.sjijnuovi 三角錐
 {0}kk.jc+kedddkf.sjijnuxko 三角形
+{0}kk.jskkoei.yyojie 芸祭
 {0}kk.jl+db,ya+kcwxcmliorjtkd.xyoihoxkebdobji 尋常性白斑
 {0}kk.jd+bc,uuuerydui.ljopaeteesfi 兰帕特森
 {0}kk.jjxns.rfovde 仁爱
@@ -9960,6 +9983,7 @@
 {0}fx+rf,vd+dcxmssxwn.qiehzebmedse 気候変動
 {0}fx+md+zk+bfjxsvzki.qieffioruhre 気分転換
 {0}fx+vmds.qieffi 気分
+{0}fx+vwzzvb.jmelme 鍵鏈
 {0}fx+wmsfss.qiexro 気旋
 {0}fx+wlmklvb.jmecio 鍵詞
 {0}fx+wlkklvb.jmeyuu 鍵語
@@ -10886,6 +10910,7 @@
 {0}jk+iltzk.oiogju 直感
 {0}jk+ifxcnl.dsetko 洞庭
 {0}jk+dbjgu.oaikje 査看
+{0}jk+dytizv.ofidea 真的
 {0}jk+dnwzv.ofidsi 真冬
 {0}jk+dubkvzk.oiojii 直積
 {0}jk+dcxmbg.ycodse 揺動
@@ -10945,6 +10970,7 @@
 {0}jf+frzkgou.xtoyre 学院
 {0}jf+frjsoou.xtojie 学際
 {0}jf+jswled.jmutpi 剪贴
+{0}jf+jskkoou.xtojie 学祭
 {0}jf+jegbmu.jkeghi 静岡
 {0}jj 朋
 {0}jjw+xj 髄
