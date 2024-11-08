@@ -979,8 +979,6 @@
 {0}nl+dmdkrd.geesou 各所
 {0}nl+djgd.geezie 各自
 {0}neg+j 満
-{0}ni 叉
-{1}ni 戏
 {0}nim+x 涙
 {0}ni.ta+ouiceis.bcohxeoli 薄化粧
 {0}ni.rrkrei.bcopme 薄片
@@ -999,9 +997,11 @@
 {0}nd+opzel.loedji 落単
 {0}nd+scumds.juejio 聚集
 {0}nd+sdel.loerue 落入
+{0}nd+sklel.loeheo 落合
 {0}nd+ebjgel.loeoea 落着
 {0}nd+ddbgel.loebiu 落笔
 {0}nd+kcpcdf.iuuliu 処理
+{0}nd+kl+ry+kelsfkd.loeheoyhoyii 落合陽一
 {0}nd+kjpel.loelwo 落雷
 {0}nd+jel.loeyte 落月
 {0}nkd+o 源
@@ -3106,6 +3106,7 @@
 {0}ga+hisy.baiyiu 巴以
 {0}ga+hkfskm.yiujki 已经
 {0}ga+cykdg.iuiihu 出場
+{0}ga+csih.ujiyte 山越
 {0}ga+mdbg.ujiwwu 山尾
 {0}ga+zx+vd+cykyemekr.bailwisiitju 巴勒斯坦
 {0}ga+zk+zxygnv.iuiyjuoeu 出演者
@@ -9054,7 +9055,8 @@
 {0}kt+fiww.ciuwde 此外
 {0}kt+jwvxixs.nkojni 凝胶
 {0}kr 列
-{0}krr,k 亜
+{0}krr,k 亞
+{1}krr,k 亜
 {0}kr+bgi.isijii 冲击
 {0}kr+bzrssx.bmejpo 便捷
 {0}kr+bweci.isiole 冲撞
@@ -9286,6 +9288,7 @@
 {0}km+howiymik.yuuoii 羽織
 {0}km+mkhzs.jxiohu 家長
 {0}km+zbzlk.liehde 厉害
+{0}km+zrrfzs.jxiuie 家事
 {0}km+zusxzs.jxijne 家教
 {0}km+zwxhg.jieuio 纪实
 {0}km+ziwdhzs.jxicdo 家裁
