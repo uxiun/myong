@@ -2700,6 +2700,7 @@
 {0}ui+kw+fe+vc+uk+kpvmdnesbee.dvehueyhujiibfuffi 对芐氧基苯酚
 {0}ui+fytsn.dvexle 对象
 {0}ui+fi+ha+brkwyifz.uioxuevjipdo 时序安排
+{0}ui+jbd.siiyse 私用
 {0}ui+jl+ud+uw+bznyowkrdz.uiouhexbikeijie 时尚新科技
 {0}udn 板
 {0}udf+i 楓
@@ -3273,6 +3274,7 @@
 {0}hs+we+xa+uomkoxsw.uuewwewfodhe 数位文档
 {0}hs+we+hx+eh+wlfroxsinm.uuewwefaiojubue 数位发展部
 {0}hs+we+hz+eikmoxsfll.uuewwegrucho 数位馆藏
+{0}hs+wdclmx.gduzce 改造
 {0}hs+ojfuox.uuexto 数学
 {0}hs+sxli.rfeoii 认知
 {0}hs+steyi.rfecoe 认错
@@ -5101,6 +5103,7 @@
 {0}wx+kedddp.tuoxko 図形
 {0}wx+frkkoz.uiojie 实际
 {0}wx+fkskkz.uioyje 实验
+{0}wx+fff.mdulea 买了
 {0}wx+fjmdbp.tuojpu 図解
 {0}wx+fa+kxwd.oeejiutmi 这几天
 {0}wx+jbz.uioyse 实用
@@ -7600,6 +7603,7 @@
 {0}ed,zijicdd.pgoboo 彭博
 {0}ed,vs+wlmklkddzl.xkorsocio 形容詞
 {0}ed,va+stwxbwe.ijuyeelme 产业链
+{0}ed,weytkdd.xkoyie 形意
 {0}ed,svmdsj.bweffe 備份
 {0}ed,sfyskdd.xkoxle 形像
 {0}ed,lllw.ijupbu 产品
@@ -7768,6 +7772,7 @@
 {0}ix+hodyns.fuoxme 伏線
 {0}ix+hiyhsm.wwunlo 伪娘
 {0}ix+hiyhso.wwunlo 偽娘
+{0}ix+ha+xkwkk.yjenvuoge 厌女症
 {0}ix+ha+zi+wlmghmo.yzenvuojejie 幼女戦記
 {0}ix+ctus.fuodie 伏地
 {0}ix+ce+zxysoel.wwuujeoeu 偽善者
@@ -9055,8 +9060,6 @@
 {0}kt+fiww.ciuwde 此外
 {0}kt+jwvxixs.nkojni 凝胶
 {0}kr 列
-{0}krr,k 亞
-{1}krr,k 亜
 {0}kr+bgi.isijii 冲击
 {0}kr+bzrssx.bmejpo 便捷
 {0}kr+bweci.isiole 冲撞
