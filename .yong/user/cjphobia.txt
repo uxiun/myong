@@ -560,7 +560,9 @@
 {0}pd+oxkjveu.jyilwe 菌類
 {0}pd+ouxeu.jyilwe 菌类
 {0}pd+ecjeksn.fuegde 覆盖
+{0}pd+ed,ft,txrjkgikddk.izuxkoksubue 醜形恐怖
 {0}pd+ittkgi.izutde 醜態
+{0}pd+kedddkgi.izuxko 醜形
 {0}pk 置
 {0}pkf 町
 {0}pk+ 票
@@ -879,6 +881,7 @@
 {0}ya+ewzz.rielmo 日蓮
 {0}ya+ejud.bdocde 白菜
 {0}ya+eju.riecde 日菜
+{0}ya+itk.rieuie 日式
 {0}ya+ihkkl.rieyuu 日语
 {0}ya+im+siyhsj.riepmiuio 日偏食
 {0}ya+ienk.bdudue 百度
@@ -1526,6 +1529,7 @@
 {0}xa+zvkk.tmiksi 天空
 {0}xa+zevs.daesde 大赛
 {0}xa+zkms.daejxi 大家
+{0}xa+zkic.daeuie 大室
 {0}xa+zfuw.wfozie 文字
 {0}xa+zjixw.wfoxme 文献
 {0}xa+zjkvk.tmiofi 天真
@@ -1544,6 +1548,7 @@
 {0}xa+wktp.ybiciu 因此
 {0}xa+wkklw.wfoyjo 文言
 {0}xa+ow+sikjvhig.daetsulku 大統領
+{0}xa+ojlck.tmitho 天堂
 {0}xa+ojljv.daeuhu 大賞
 {0}xa+ojfuw.wfoxto 文学
 {0}xa+ojfu.daexto 大学
@@ -1581,6 +1586,7 @@
 {0}xa+db,xews.wfojmejxi 文件夹
 {0}xa+db,ep+iz+dsuiwsbwv.wfojmemnouuefuo 文件描述符
 {0}xa+dyirw.wfojpo 文節
+{0}xa+dy+xdydkxdk.daexkixki 大猩猩
 {0}xa+dx,uf+ia+iijujddmx.daeqnoxqetdelhu 大橋秀太朗
 {0}xa+duwzw.wfokei 文科
 {0}xa+dgjs.daezje 大赞
@@ -1597,6 +1603,8 @@
 {0}xa+kciznk.tmiqqo 天球
 {0}xa+kludn.daepoe 大破
 {0}xa+kekjvw.wfotzo 文頭
+{0}xa+ki.zkmszc.daeuiejxi 大室家
+{0}xa+ki.st+fuzce.daeuiehxizia 大室花子
 {0}xa+kkgn.daeuae 大厦
 {0}xa+kfc.daexko 大型
 {0}xa+kjrrp.ybivro 因而
@@ -1876,6 +1884,7 @@
 {0}ta+ly+cp+wlskjskc.xbioieliulye 心智理論
 {0}ta+lskht.biuyue 比喩
 {0}ta+lskft.biuyue 比喻
+{0}ta+lkrks.xbitne 心跳
 {0}ta+lkdnlp.siilue 思路
 {0}ta+la+jx+ouwzskoo.hxeuiorjolne 化石燃料
 {0}ta+eyxmi.ykimue 応募
@@ -1979,6 +1988,7 @@
 {0}rr,nirrkk.yaeozi 亜洲
 {0}rr,nddhbj.bhipde 帮派
 {0}rr,tbkjzf.uieqko 事情
+{0}rr,gsf.fuouji 佛山
 {0}rr,hkmdls.jpeuce 介绍
 {0}rr,zbxzf.uieuio 事実
 {0}rr,zlsxzf.uiegue 事故
@@ -2572,6 +2582,7 @@
 {0}uw+ceslsz.xpotau 斜塔
 {0}uw+zusxdz.keijne 科教
 {0}uw+ojfudz.keixto 科学
+{0}uw+sgrfdz.keiile 科创
 {0}uw+slrfdz.keiile 科創
 {0}uw+ez+wv+kixmolnjnh.ojioiegyudse 粘滞滚动
 {0}uw+evydz.keipuu 科普
@@ -4133,6 +4144,7 @@
 {0}md+rk+pwxvj.ffiyrotuo 分円図
 {0}md+uznv.ffioii 分枝
 {0}md+udkrv.ffixii 分析
+{0}md+gr+wr+evrsfsk.iuiileqiuyee 初创企业
 {0}md+gznv.ffiqio 分岐
 {0}md+ht+dsccfvvl.pbombojpi 貧民街
 {0}md+hudkrt.qpedre 切断
@@ -4169,6 +4181,7 @@
 {0}md+ouxv.ffilwe 分类
 {0}md+strv.ffiosi 分钟
 {0}md+stv.ffihxe 分化
+{0}md+sgrfr.iuiile 初创
 {0}md+ssydt.qpeuhi 切傷
 {0}md+sixr.iuifuo 初伏
 {0}md+lr+ow+il+ncivzfhign.ffigeitsuoiefau 分割統治法
@@ -4433,6 +4446,7 @@
 {0}zu+oscd.ouiqte 朱雀
 {0}zu+od+sd+brkwwrojyo.laeicujiipdo 辣炒鶏排
 {0}zu+lvpyl.wwecgi 味噌
+{0}zu+itkzkb.hjouie 韓式
 {0}zu+kpuul.wwelju 味醂
 {0}zu+kc+wlkklzkbpi.hjogooyuu 韓国語
 {0}zu+kf+wf+nudndouj.ouidgitsiboi 朱灯樋波
@@ -4685,6 +4699,7 @@
 {0}za+dkls.wuuhze 午后
 {0}za+kpdnlk.gjelce 干酪
 {0}za+kmd.qmiwje 千万
+{0}za+fuu.moezia 末子
 {0}za+fkxmk.gjejbe 干劲
 {0}za+ffkjsk.gjeyue 干预
 {0}za+jgdgy.zcujme 早見
@@ -6097,6 +6112,7 @@
 {0}st+driee.hxiljo 花篮
 {0}st+kcpcs.lyoliu 伦理
 {0}st+fxdwkbu.toiyjo 拖延
+{0}st+fue.hxizia 花子
 {0}st+fwxji.gzemdu 购买
 {0}sr 个
 {0}sr+bcuisf.jmeiio 剣持
@@ -7149,6 +7165,7 @@
 {0}lj+skrpwl.gcisie 高価
 {0}lj+li+llixlwclwtk.dneuieqie 調試器
 {0}lj+lk+skrpwlwoz.gcipkosie 高評価
+{0}lj+la+bmrnwlp.gcihvobce 高回报
 {0}lj+evdkrwl.gcisii 高斯
 {0}lj+ekezws.hcohxo 豪華
 {0}lj+izvvz.huomao 胡麻
@@ -7438,8 +7455,8 @@
 {0}ez+iozlc.xkehue 幸祜
 {0}ez+ioklpc.xkefuo 幸福
 {0}ez+dcxmcn.guudse 鼓動
-{0}ev 共
-{1}ev 业
+{0}ev 业
+{1}ev 共
 {0}evf+s 欺
 {0}evj 期
 {0}ev+nn.hsouvu 洪水
@@ -7853,6 +7870,7 @@
 {0}ic+wkk.oieuhe 至上
 {0}ic+odk.oieucu 至少
 {0}ic+sifk.oiejbi 至今
+{0}ic+ka+ca+ecdbikww.oieuheouuyie 至上主義
 {0}imj.e 盛
 {0}im+ycuiyr.jiouio 即時
 {0}im+yodddh.hreyku 幻影
@@ -8007,6 +8025,7 @@
 {0}il+hodnwh.uiuosi 始終
 {0}il+cidmf.mkoigo 名城
 {0}il+momsf.mkoyie 名駅
+{0}il+zhn.oievji 治安
 {0}il+zfuf.mkozie 名字
 {0}il+vpzf.mkodji 名单
 {0}il+vfknf.mkolue 名録
@@ -8358,6 +8377,7 @@
 {0}dy+la+od+zzizjkon.yrokzuuaifuu 原口沙輔
 {0}dy+ecdbiko.yroyie 原義
 {0}dy+estuj.mmohxi 棉花
+{0}dy+ea+dsykibw.pdiliedeo 拍立得
 {0}dy+dbkko.yrougi 原生
 {0}dy+duwljko.yrogcu 原稿
 {0}dy+dothir.xliizo 郷愁
@@ -8448,6 +8468,7 @@
 {0}dx,du+ewxbeef.vculielmo 芺莉莲
 {0}dx,dcuiom.lpedgu 劣等
 {0}dx,ddpmn.faelqo 髪留
+{0}dx,dkgymn.faezji 髪簪
 {0}dx,kwrkhj.jnioge 嬌正
 {0}dx,kktom.lpevee 劣悪
 {0}dx,kftd.xnesiu 笑死
@@ -9036,6 +9057,7 @@
 {0}kt+vhg.iyojbi 纯金
 {0}kt+wzr.bwudze 北斗
 {0}kt+wlor.bwujki 北京
+{0}kt+wlfrr.bwubue 北部
 {0}kt+weytk.veeyie 悪意
 {0}kt+wexee.zhesse 葬送
 {0}kt+wdmr.bwufhi 北方
@@ -9238,6 +9260,7 @@
 {0}kc+sbkvpi.gooode 国債
 {0}kc+suks.qrotiu 全体
 {0}kc+sixsf.dcefuo 倒伏
+{0}kc+skrfzi.bcujme 宝剑
 {0}kc+skkipi.goohve 国会
 {0}kc+sjpi.goonwe 国内
 {0}kc+lg+oa+cekhivndk.lkolrebuekji 凌乱不堪
@@ -9348,6 +9371,7 @@
 {0}kv+rtjyp.udebwe 晒背
 {0}kv+hmkjzd.gxufue 寡婦
 {0}kv+csmzno.xkique 兴趣
+{0}kv+wh+hm.dlgsegfk.bkihlimaulre 兵荒马乱
 {0}kv+ojfus.bkixto 兵学
 {0}kv+ssxmyp.udeuhi 晒伤
 {0}kv+lygnp.jqubaa 酒吧
@@ -9593,6 +9617,7 @@
 {0}kd+sizllzv.bbigru 賓館
 {0}kd+sdbno.yrojme 源件
 {0}kd+skis.pkiphi 乒乓
+{0}kd+ebhyj.mmoyho 绵羊
 {0}kd+exwkllnl.luejku 路警
 {0}kd+eg+wd+jk+llixlhnwwkjsmzv.osidrifhuofiqie 终端仿真器
 {0}kd+du+ioclnlwm.luetzeuee 路透社
@@ -9614,9 +9639,11 @@
 {0}kk.xfk.sjijqu 三九
 {0}kk.xjjv.jueyzu 具有
 {0}kk.xa+lf+iznkvs.sjidaeyueqqo 三大欲求
+{0}kk.tphpr.mmudmi 缅甸
 {0}kk.tu+dytievs.qiotaidea 其他的
 {0}kk.rh+estxopoc.ndeloohxi 奈羅花
 {0}kk.rev.qioosi 其中
+{0}kk.rkthpr.mmubwu 缅北
 {0}kk.ra+ka+wtkkev.qioosiyiixpi 其中一些
 {0}kk.uxkwkzg.wjoogu 完整
 {0}kk.uznk.sjioii 三枝
@@ -10438,6 +10465,7 @@
 {0}jp+wvjlkg.dmeuhi 電商
 {0}jp+wldzlkg.dmehxe 電話
 {0}jp+oj+wsrfkgigg.dmeuiejue 電視劇
+{0}jp+swklkg.dmexbe 電信
 {0}jp+sfxkg.dmeqie 電気
 {0}jp+ldyok.lwomko 雷鳴
 {0}jp+ld+up+lkhmkgwzld.dmehxefjihce 電話番号
@@ -10601,6 +10629,7 @@
 {0}ju+jxbe.rsojyi 荣军
 {0}ju+ja+ydhre.cdeytevho 菜月昂
 {0}jg+bu.xliuzu 相手
+{0}jg+bdyd.ziepdi 自拍
 {0}jg+pu+tdei.ziezyixbi 自尊心
 {0}jg+pkcid.ziegoo 自国
 {0}jg+pa+iendr.zieyzodue 自由度
@@ -10723,6 +10752,7 @@
 {0}jg+ji+zxykvzx.gsexmeoeu 貢献者
 {0}jg+jklu.xlitso 相同
 {0}jh 妥
+{0}jh.bznd.nsojie 农技
 {0}jh.hm.pcziofk.soumauliu 索马里
 {0}jh.evd.nsoyee 农业
 {0}jh.frzio.souybu 索引
