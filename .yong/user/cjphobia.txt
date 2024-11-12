@@ -976,6 +976,7 @@
 {0}ns+scumss.juejio 聚集
 {0}ns+scomss.juejni 聚焦
 {0}ns+sklmss.jueheo 聚合
+{0}ns+skkimss.juehve 聚会
 {0}ns+imctwih.cjitki 餐廳
 {0}ns+dwjewih.cjipjo 餐盘
 {0}ns+kkfwih.cjitki 餐厅
@@ -1010,6 +1011,7 @@
 {0}nd+sklel.loeheo 落合
 {0}nd+ebjgel.loeoea 落着
 {0}nd+ddbgel.loebiu 落笔
+{0}nd+dfrdel.loedie 落第
 {0}nd+kcpcdf.iuuliu 処理
 {0}nd+kl+ry+kelsfkd.loeheoyhoyii 落合陽一
 {0}nd+kjpel.loelwo 落雷
@@ -1402,6 +1404,7 @@
 {0}xk+zlzhm.kcuguu 考古
 {0}xk+zjsozhm.kcuiao 考察
 {0}xk+wxrruwk.oguqio 整齐
+{0}xk+wxsle.druwfo 短文
 {0}xk+wtptzhm.kculve 考慮
 {0}xk+wttzhm.kculve 考虑
 {0}xk+wlkklul.yiuyuu 椅語
@@ -1856,6 +1859,7 @@
 {0}tj+dwdflss.hoeiro 货船
 {0}tj+dshinr.bwehze 背後
 {0}tj+kpmrr.bwemme 背面
+{0}ta+bk+dm+kixmtjnx.xbiqkojiidse 心情激动
 {0}ta+pt.xbisii 心思
 {0}ta+nkdop.siiyro 思源
 {0}ta+xbwvxt.biujne 比较
@@ -1904,6 +1908,7 @@
 {0}ta+dqds.hxeufi 化身
 {0}ta+dytiz.taidea 它的
 {0}ta+dzpct.biuose 比重
+{0}ta+dskli.ykidao 応答
 {0}ta+kcpc.xbiliu 心理
 {0}ta+kokjvc.oieyre 志願
 {0}ta+kls.hxeuio 化石
@@ -2067,6 +2072,7 @@
 {0}rm+seorkj.gviwuo 帰無
 {0}rm+seerkj.gvibke 帰併
 {0}rm+ebjgrkj.gvioea 帰着
+{0}rm+eo+dn+wlvlgrkjss.gviwuofjuuoi 帰無仮説
 {0}rm+ee,rk+ififrkjsbw.gvibkepdoxue 帰併排序
 {0}rm+dufody.jmuigi 简称
 {0}rm+kurk.gviyuo 归于
@@ -2172,6 +2178,7 @@
 {0}rd+ba+wmsevfnbo.jlebjeqio 降半旗
 {0}rd+nfnb.jleuvu 降水
 {0}rd+rrrvfnb.jleuye 降順
+{0}rd+usxcrn.bjuqro 版権
 {0}rd+udnlfnb.jlegeo 降格
 {0}rd+ukrn.bjubfu 版本
 {0}rd+hsd.xqinvu 修女
@@ -3436,6 +3443,7 @@
 {0}ha+nclz.vjijpo 安洁
 {0}ha+xn.nvuyzu 女友
 {0}ha+xisc.nvuxso 女雄
+{-}ha+tz.vjixbi 安心
 {0}ha+tdbk.nvuxke 女性
 {0}ha+rydg.nvuvro 女児
 {0}ha+rcwdhz.vjioli 安装
@@ -4616,6 +4624,7 @@
 {0}zk+bznnv.yjujie 演技
 {0}zk+bsczki.orutvi 転推
 {0}zk+bfjxzki.oruhre 転換
+{0}zk+przjkzki.oruoie 転置
 {0}zk+nfunk.xrerju 渲染
 {0}zk+tnv.yjuxbi 演心
 {0}zk+tdbkzki.oruxke 転性
@@ -4692,6 +4701,7 @@
 {0}za+ui+jv+jwunu.uiocyiufiyte 辻村深月
 {0}za+udfm.vrujii 耳机
 {0}za+gd+od+howiyyjgn.zcujmeuaioii 早見沙織
+{0}za+hrweyl.yeexlu 叶響
 {0}za+csmgy.zcuqiu 早起
 {0}za+mdbgu.moewwu 末尾
 {0}za+mkklid.qmixyo 千尋
@@ -4895,6 +4905,7 @@
 {0}vd+ci+bk+dbtddigind.moofauugiwue 魔法生物
 {0}vd+ci+dlkrjigin.moofauuii 魔法師
 {0}vd+ci+da+higino.moofauucunvu 魔法少女
+{0}vd+ci+frzpzigin.moofauofe 魔法陣
 {0}vd+cjdgjn.fjemde 販売
 {0}vd+ca+uecnigik.moowhoyhe 魔王様
 {0}vd+zbzlxfn.uaihde 殺害
@@ -5168,6 +5179,7 @@
 {0}wr+wlskjkk.ogelye 正論
 {0}wr+ojlrjkk.ogeiho 正常
 {0}wr+sukkk.ogetiu 正体
+{0}wr+sj+tdbkkkbgg.ogegvixke 正規性
 {0}wr+sj+md+xrjkkbggv.ogegviffibue 正規分布
 {0}wr+sj+stkkbgg.ogegvihxe 正規化
 {0}wr+sj+kh+kcjggkkbggb.ogegvibnuxme 正規表現
@@ -5370,6 +5382,7 @@
 {0}wi+gx+bs,dmdkrngwjd.lqoliouiisou 流离失所
 {0}wi+ggng.lqoiui 流出
 {0}wi+hk+zxypikl.muuyuuoeu 母语者
+{0}wi+cu+puips.muujiotro 母集団
 {0}wi+cilkng.lqoyue 流域
 {0}wi+znbvg.isejii 銃撃
 {0}wi+wujggp.muuqbi 母親
@@ -5609,6 +5622,7 @@
 {0}oz+yuik.pkouio 平时
 {0}oz+ycuik.pkouio 平時
 {0}oz+nook.pkodje 平淡
+{0}oz+tk+szjhkck.pkojyioio 平均値
 {0}oz+ui+woixgky.pkouiojqe 平时就
 {0}oz+udnk.pkobju 平板
 {0}oz+hophiv.xmixie 繊細
@@ -6402,7 +6416,7 @@
 {0}se+dr+tdbkdwsmj.csouuuxke 従属性
 {0}se+dr+vd+ohsxdwsmjwn.csouuubmeuue 従属変数
 {0}se+fubo.fuuzia 撫子
-{1}si 会
+{0}si 会
 {2}si 伐
 {0}si+pcfifch.yteyeu 越野
 {0}si+xmlch.ytejxi 越加
@@ -6461,6 +6475,7 @@
 {0}sk+njsfuk.jmucee 检测
 {0}sk+xbnf.qieiei 汽车
 {0}sk+xbdkf.xkoiei 行车
+{0}sk+xdkcfxt.faiklo 発狂
 {0}sk+xa+wwmufle.dgidaeyzo 登大遊
 {0}sk+tuxtf.yuokke 愉快
 {0}sk+rcwdhnu.tuooli 涂装
@@ -6842,8 +6857,10 @@
 {0}lz+jg+ykpcwde.jiesrelle 計算量
 {0}lz+jg+nciwde.jiesrefau 計算法
 {0}lz+jg+uhiiwde.jiesrejii 計算機
+{0}lz+jg+ow+wlzwdehig.jiesretsujie 計算統計
 {0}lv 只
 {0}lv.yjwlg.uoimko 説明
+{0}lv.ja+wxwlgy.uoimkowfo 説明文
 {0}lv.ja+skkiwlgy.uoimkohve 説明会
 {0}lw 샤
 {0}lw+bkjgvwrl.qmuzeo 譴責
@@ -8736,6 +8753,7 @@
 {0}dz+dcxmnl.hoodse 活動
 {0}dz+dswrsw.qmixiu 迁徙
 {0}dz+kpmgwl.uiepwe 适配
+{0}dz+kuwl.uieyuo 适于
 {0}dz+kixmnl.hoodse 活动
 {0}dz+fskxtnl.hoofai 活発
 {0}dz+fdhsbl.koehuo 括弧
@@ -8847,6 +8865,7 @@
 {0}dk+wm+zjkvwjvjk.yjoxpuofi 顔写真
 {0}dk+wedgwjs.pbodce 频道
 {0}dk+od+pwxbrhyn.oeoxmetuo 折線図
+{0}dk+oa+tedclrk.tkibuedsu 听不懂
 {0}dk+sbwr.jbenmo 近年
 {0}dk+sxhiowjv.pbofjo 頻繁
 {0}dk+shiswr.jbeuie 近似
@@ -9248,6 +9267,7 @@
 {0}kc+xr.oledae 壮大
 {0}kc+xmpi.goolie 国力
 {0}kc+xjpi.gooyzu 国有
+{0}kc+xa+sk+zjhioswus.qrowfojmusou 全文検索
 {0}kc+xa+emrpii.gooqkejpo 国庆节
 {0}kc+twmkpi.goonnu 国鸟
 {0}kc+rr,hw+rmlpizfidm.goouiefhuwfe 国事访问
@@ -10006,6 +10026,7 @@
 {0}ka+wcebw.uhedao 上達
 {0}ka+wmdx.zoubmi 左辺
 {0}ka+wmdw.uhebmi 上辺
+{0}ka+wlmgw.uhejie 上記
 {0}ka+wlo.yiidmu 一点
 {0}ka+wlfr.yiibue 一部
 {0}ka+weyt.yiiyie 一意
@@ -10034,6 +10055,7 @@
 {0}ka+sikjvu.bfulku 本領
 {0}ka+sdb.yiijme 一件
 {0}ka+sfxu.bfuqie 本気
+{0}ka+sjvfw.uhecee 上側
 {0}ka+sa+dufo.yiirfoigi 一人称
 {0}ka+ly+ey+itkssux.tsooiemoouie 仝智模式
 {0}ka+lmkjvw.uhevee 上顎
@@ -10076,6 +10098,7 @@
 {0}ka+kkfs.yiicie 一次
 {0}ka+kkjvk.vrexle 二項
 {0}ka+kk.ee,bkfkks.vresjibkedau 二三併打
+{0}ka+kf+lr+ssmkkssf.vrecieilezoe 二次創作
 {0}ka+kj+fe+sdhokkvyx.vrexlegrixie 二項関係
 {0}ka+ka+ob+fjgvujm.yiibfuugefue 一本勝負
 {0}ka+fy+jl+ya+efsxuyd.bfujmixleriekvo 本間向日葵
@@ -10226,6 +10249,7 @@
 {0}fu+ffh.hculea 好了
 {0}fu+fa+kkfshd.hcujiucie 好几次
 {0}fu+jbh.hcuyse 好用
+{0}fu+js+bhwx.hcudiouzu 好敵手
 {0}fh+hfhkhk.maimai 妈妈
 {0}fc,sc+wlskjkb.xkotvilye 型推論
 {0}fc,sk+ujkkus.xkojmuoai 型検査
@@ -10694,6 +10718,7 @@
 {0}jg+rpd.zieyzo 自由
 {0}jg+rizju.xlibuu 相補
 {0}jg+udfu.xlijii 相机
+{0}jg+ggde.sreiui 算出
 {0}jg+ga+wc+dduidmn.ziejiuoueuee 自己注射
 {0}jg+ga+om+srrdmhdl.ziejiuucejpe 自己紹介
 {0}jg+ga+dytidm.ziejiudea 自己的
@@ -10722,6 +10747,7 @@
 {0}jg+mkmiku.xliyuu 相羽
 {0}jg+mkdyd.ziexio 自習
 {0}jg+zzkkid.zieoru 自転
+{0}jg+zkicd.zieuie 自室
 {0}jg+zk+zpzdzki.zieoruiei 自転車
 {0}jg+zjixkv.gsexme 貢献
 {0}jg+vmdd.zieffi 自分
@@ -11233,6 +11259,7 @@
 {0}ja+la+bmrnxp.yzuhvobce 有回报
 {0}ja+ebjgx.yzuoea 有着
 {0}ja+ey+ptxwt.yzuyiesii 有意思
+{0}ja+ey+na+nczxwt.yzuyieuvuoyu 有意水準
 {0}ja+exx.yzugri 有关
 {0}ja+ejkss.nwemgo 内蒙
 {0}ja+ieny.mkodue 明度
