@@ -47,6 +47,7 @@
 {0}bx,jbz.uioyse 実用
 {0}bx,js+zdnlbxwx.zzediokee 揍敵客
 {0}bt,nwigddd.wuelqo 物流
+{0}bt,cp+mvpydddkc.wueliucgo 物理層
 {0}bt,cp+ojfudddkc.wueliuxto 物理学
 {0}bt,cp+dytidddkc.wueliudea 物理的
 {0}bt,ze+jxxdddmx.wuelmowhu 物联网
@@ -2115,6 +2116,7 @@
 {0}ro+zkmsfub.lbojxi 隣家
 {0}ro+zkicfub.lbouie 隣室
 {0}ro+sfub.lborfo 隣人
+{0}rs 帧
 {0}rs+bsklhx.uziuio 收拾
 {0}rs+prhocsd.xqiloo 修羅
 {0}rs+plhx.uzihvo 收回
@@ -2147,6 +2149,7 @@
 {0}rs+dpcezfku.iuogci 除睾
 {0}rs+dzdfnfrr.jpidre 阶段
 {0}rs+dssynsd.xqifue 修復
+{0}rs+djgefku.iuosre 除算
 {0}rs+kp+mx+le+nzljmocsk.woeyjiyiidzehuo 臥煙伊豆湖
 {0}rs+kcpcsd.xqiliu 修理
 {0}rs+kcrfhx.uzidce 收到
@@ -2247,6 +2250,7 @@
 {0}rk+skjnsw.pdoyzi 俳優
 {0}rk+sk.gsirfo 工人
 {0}rk+sjvfrr.pmecee 片側
+{0}rk+luffl.vaiddi 阿呆
 {0}rk+lj+pcfiffflxgv.vaiheeyeu 阿賀野
 {0}rk+eveuk.gsiyee 工業
 {0}rk+evk.gsiyee 工业
@@ -3292,7 +3296,9 @@
 {0}hs+hojkox.uuezuu 数組
 {0}hs+cp+lz+gp+ncioxkcwk.uueliujiehxefau 数理計画法
 {0}hs+ckkiit.lyetjo 论坛
+{0}hs+mz+tw+lkdnloxblsxb.uuejuelmelue 数据链路
 {0}hs+mz+tw+kd+mkkioxblsxblnl.uuejuelmeluecgo 数据链路层
+{0}hs+mz+rjwjsoxbl.uuejueofi 数据帧
 {0}hs+mz+wlooxbl.uuejuedmu 数据点
 {0}hs+mz+scuoxbl.uuejuejio 数据集
 {0}hs+mz+izpzoxbl.uuejuekue 数据庫
@@ -3443,7 +3449,6 @@
 {0}ha+nclz.vjijpo 安洁
 {0}ha+xn.nvuyzu 女友
 {0}ha+xisc.nvuxso 女雄
-{-}ha+tz.vjixbi 安心
 {0}ha+tdbk.nvuxke 女性
 {0}ha+rydg.nvuvro 女児
 {0}ha+rcwdhz.vjioli 安装
@@ -3708,8 +3713,10 @@
 {0}cl+pbmj.oziwwo 周围
 {0}cl+peej.ozitsi 周囲
 {0}cl+ywlowh.yrujku 遠景
+{0}cl+nudnj.oziboi 周波
 {0}cl+njvuj.oziufi 周深
 {0}cl+uufikl.veemge 噩梦
+{0}cl+ud+ohsxjnn.oziboiuue 周波数
 {0}cl+hkdnwd.gceosi 告终
 {0}cl+ma+kjx.ozilieyii 周力一
 {0}cl+wmdj.ozibmi 周辺
@@ -3760,6 +3767,7 @@
 {0}ci+fydik.yuetue 玉兔
 {0}ci+frzkgn.fauyre 法院
 {0}cd+bljvdfn.hvusyu 毀損
+{0}cd+nspwkzu.ouihdu 珠海
 {0}cd+xa+tdbkdgk.xmitmixke 先天性
 {0}cd+rwzpzdg.xmibwe 先輩
 {0}cd+gdnzdg.xmifgi 先峰
@@ -3769,6 +3777,7 @@
 {0}cd+wegkjdg.xmidri 先端
 {0}cd+weedg.xmijbe 先进
 {0}cd+wkwsf.pkokau 凭卡
+{0}cd+sp+wrjkzunw.ouihduuie 珠海市
 {0}cd+szlxdg.xmizoe 先做
 {0}cd+eekhfzyo.heepko 鶴瓶
 {0}cd+dbkdg.xmiugi 先生
@@ -6440,6 +6449,7 @@
 {0}sd+tg,sjsjyojx.jiixsirze 鶏胸肉
 {0}sd+uhiifes.fwijii 飛機
 {0}sd+uefes.fwildo 飛来
+{0}sd+ck+df+ku+sk+fkskkdzgkojsuk.xyohrorsuyuojmuyje 循环冗余检验
 {0}sd+zvixdcf.isitui 衝突
 {0}sd+zlrfdfn.yiegei 役割
 {0}sd+wy+sjsjyojh.jiitvurze 鶏腿肉
@@ -6567,6 +6577,7 @@
 {0}sk+fiffjtk.fueyuu 赋予
 {0}sk+fkxmfxt.faijbe 発劲
 {0}sk+fkrxdkf.xkouiu 行驶
+{0}sk+fkskkuk.jmuyje 检验
 {0}sk+fkknfle.dgilue 登录
 {0}sk+jp+dmdkrfxtkg.faidmesou 発電所
 {0}sk+jgdkf.xkomue 行目
@@ -6694,6 +6705,7 @@
 {0}lp+duvlgwu.keeuve 課税
 {0}lp+dulkcwu.keeigo 課程
 {0}lp+fiwwu.keewde 課外
+{0}ly+wkgous.oieiiu 智歯
 {0}ly+izpzs.oiekue 智庫
 {0}ly+ijtts.oiengo 智能
 {0}ly+durfs.oielie 智利
@@ -6756,6 +6768,7 @@
 {0}lr+ssydsf.ileuhi 創傷
 {0}lr+ssmsf.ilezoe 創作
 {0}lr+lw+ra+ssydwkwwjm.fwubheosiuhi 誹謗中傷
+{0}lr+ljszl.griyro 官员
 {0}lr+is+llixlzfeu.geiyceqie 割薬器
 {0}lr+idmsf.ileigo 創成
 {0}lr+kkowrr.xyeuie 訓示
@@ -6891,6 +6904,7 @@
 {0}lo.rb,rtpevwn.jkijbijie 京津冀
 {0}lo.rrkry.ocepme 照片
 {0}lo.rgw.dmuvro 点儿
+{0}lo.ui+wlown.dmudvedmu 点对点
 {0}lo.ujgy.ocexli 照相
 {0}lo.zyfrw.jkidzi 京都
 {0}lo.za+klkubl.lboyeeuio 磷叶石
@@ -7145,7 +7159,7 @@
 {0}lf+fkrxxhk.jxeuiu 驾驶
 {0}lf+jmrnsif.uuifuo 舒服
 {0}lf+jjnwu.xluuze 享受
-{0}ljs 싐
+{1}ljs 싐
 {0}lj+nyjewl.gciwfi 高温
 {0}lj+nzzjwl.gciico 高潮
 {0}lj+nwvjn.jridii 涓滴
@@ -8202,6 +8216,7 @@
 {0}if+vlfssv.tjiyue 貪欲
 {0}if+weytsl.hjoyie 含意
 {0}if+wdkrsr.lbojbe 邻近
+{0}if+wkkgfi.doiyru 多远
 {0}if+wjcls.jbiozi 今週
 {0}if+ouwzss.ybulne 飲料
 {0}if+ouirlsl.hjotho 含糖
@@ -8334,6 +8349,7 @@
 {0}db,thmksi.veowui 俄乌
 {0}db,rr,no+bweykred.xkiiriuailai 星川莎拉
 {0}db,rsi.veoosi 俄中
+{0}db,rk+vk+csihykfkozhd.xkijieiriyte 星际穿越
 {0}db,rk+dn+udfykfkozl.xkijiekeejii 星际客机
 {0}db,rf,evdkrsipi.veoloosii 俄罗斯
 {0}db,udnltk.xkegeo 性格
@@ -8912,6 +8928,7 @@
 {0}df+ssrrjn.guujxe 股价
 {0}df+sdbn.tzorue 投入
 {0}df+sdnn.mworue 没入
+{0}df+skuj.rsuyuo 冗余
 {0}df+skkiu.jiihve 机会
 {0}df+sjsj.jiirze 肌肉
 {0}df+llixlu.jiiqie 机器
@@ -9025,6 +9042,7 @@
 {0}kp+na+yyyoc.yjiuvujki 煙水晶
 {0}kp+ukuo.bnibfu 標本
 {0}kp+cz+ga+xmuong.bnioyuiuilie 標準出力
+{0}kp+cz+stuon.bnioyuhxe 標準化
 {0}kp+cz+ll.ebkuonwkx.bnioyuwueiae 標準誤差
 {0}kp+cz+im+ebkuonsj.bnioyupmiiae 標準偏差
 {0}kp+msk.jliuii 僵尸
@@ -9818,6 +9836,7 @@
 {0}kk.jg+djrfsilv.hveyrooie 会員制
 {0}kk.jc+vsckf.sjijnuovi 三角錐
 {0}kk.jc+kedddkf.sjijnuxko 三角形
+{0}kk.jc+fn+ohsxkfg.sjijnuhjouue 三角函数
 {0}kk.jskkoei.yyojie 芸祭
 {0}kk.jl+db,ya+kcwxcmliorjtkd.xyoihoxkebdobji 尋常性白斑
 {0}kk.jd+bc,uuuerydui.ljopaeteesfi 兰帕特森
@@ -10111,6 +10130,8 @@
 {0}fb,ssmsu.jpozoe 傑作
 {0}fb,jjnfs.igouze 承受
 {0}fp+lhtno.yuombo 漁民
+{0}fp+eveuno.yuoyee 漁業
+{0}fp+kksxnk.yuooge 渔政
 {0}fy 階
 {0}fy+bxkxy.jmizze 間奏
 {0}fy+bwehy.jmijpi 間接
@@ -10338,6 +10359,7 @@
 {0}fl+wvdnk.keubme 可変
 {0}fl+wlgvk.keuxru 可選
 {0}fl+wlcjgk.keuduo 可読
+{0}fl+wexk.keusse 可送
 {0}fl+oj+stkigg.keuuiehxe 可視化
 {0}fl+sk+fjmdbkdkf.keuxkojpu 可行解
 {0}fl+ihvlgk.keuuoi 可说
@@ -11021,6 +11043,7 @@
 {0}jix 욲
 {0}jic 욶
 {0}ji+ejvzx.xmedmu 献典
+{0}jdf+ 冗
 {0}jd+bxycg.mdeiyi 売春
 {0}jd+poixng.ifomoe 沉默
 {0}jd+ncing.grifau 观法
