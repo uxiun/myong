@@ -772,6 +772,7 @@
 {0}yd+skjnc.ugiyzi 声優
 {0}yd+drjgvc.ugioie 声質
 {0}yd+dskkfg.mmuqmi 免签
+{0}yd+djrfsn.fueoie 复制
 {0}yd+kj+yd+yjfgbgvc.mmuzeougimko 免責声明
 {0}yd+fygc.ugisee 声色
 {0}yd+frykddcl.hceyho 皓陽
@@ -1005,6 +1006,7 @@
 {0}nd+nspwel.loehdu 落海
 {0}nd+cp+llixldfkc.iuuliuqie 処理器
 {0}nd+mbmoel.loemau 落馬
+{0}nd+wlgvel.loexru 落選
 {0}nd+wlkklel.loeyuu 落語
 {0}nd+opzel.loedji 落単
 {0}nd+scumds.juejio 聚集
@@ -1018,6 +1020,7 @@
 {0}nd+kjpel.loelwo 落雷
 {0}nd+jel.loeyte 落月
 {0}nkd+o 源
+{0}nkj+i 澪
 {0}nk.tlgbpr.mmebci 麺包
 {0}nk.lg+iwlbprt.mmebcidme 麺包店
 {0}nfu 染
@@ -1609,6 +1612,8 @@
 {0}xa+desds.daeose 大衆
 {0}xa+di+ydbkkxyh.tmilhoxki 天狼星
 {0}xa+dd,jg+pa+xa+nciwjhdrw.wfomdezieyzowfofau 文脈自由文法
+{0}xa+dd,jg+pa+kk.wlkklwjhdrwl.wfomdezieyzoyjoyuu 文脈自由言語
+{0}xa+dd,jg+rpwjhd.wfomdezieyzo 文脈自由
 {0}xa+krkk.tmigsi 天工
 {0}xa+kue.griyuo 关于
 {0}xa+kcrfw.daodce 达到
@@ -1807,6 +1812,7 @@
 {0}te+ihssy.coerfe 错认
 {0}te+ihlkxsy.coewue 错误
 {0}te+kcjggwv.xuixme 虚現
+{0}te+ffsy.coelea 错了
 {0}ti 勾
 {0}ti+ts+nkvpejeg.puotcojqu 葡萄酒
 {0}ti+wdclu.gzezce 构造
@@ -3175,6 +3181,7 @@
 {0}ga+kkfsj.muecie 目次
 {0}ga+kjkkig.iuiyyo 出雲
 {0}ga+fygg.iuisee 出色
+{0}ga+fskxtg.iuifai 出発
 {0}ga+fiz.qiixii 七夕
 {0}ga+jk+kjlmngkki.iuiyyoxxo 出雲霞
 {0}hb+rmlikj.qkuwfe 请问
@@ -4004,6 +4011,8 @@
 {0}mz+yzyn.zvezcu 最早
 {0}mz+yodddbn.ueeyku 摄影
 {0}mz+xyn.zvedae 最大
+{0}mz+xlyn.zveyze 最右
+{0}mz+xkyn.zvezou 最左
 {0}mz+xk+lkdnlynsle.zvedrulue 最短路
 {0}mz+xjyn.zveyzu 最有
 {0}mz+xa+nwigyn.zvedaelqo 最大流
@@ -4037,6 +4046,7 @@
 {0}mz+sdhiyn.zvedii 最低
 {0}mz+sfysbn.ueexle 摄像
 {0}mz+lj+ziwdhynwl.zvegcicdo 最高裁
+{0}mz+la+gu+ggynxwi.zveyzedcuiui 最右導出
 {0}mz+evjyn.zveqii 最期
 {0}mz+iyhyn.zvello 最良
 {0}mz+ixgyn.zveyzo 最尤
@@ -4050,6 +4060,7 @@
 {0}mz+kyfuyn.zvehze 最厚
 {0}mz+klkrxyn.zveyke 最硬
 {0}mz+kktyn.zvevee 最悪
+{0}mz+ka+gu+ggynxwi.zvezoudcuiui 最左導出
 {0}mz+fy+wxbnss.ueexletzo 摄像头
 {0}mz+fvyn.zvexnu 最小
 {0}mz+firiyn.zveqlo 最強
@@ -4257,9 +4268,11 @@
 {0}md+jbv.ffiyse 分用
 {0}md+js+md+udkrvexv.ffisjeffixii 分散分析
 {0}md+ja+vlfsdkrx.souyzuyue 所有欲
+{0}md+ja+dytidkrx.souyzudea 所有的
 {0}mkr 쯭
 {0}mkc 쯚
 {0}mke 쯬
+{0}mk+bwyzo.dhidne 当掉
 {0}mk+bepb.scumno 扫描
 {0}mk+bk+jk+uewdsv.yuuugijueldo 与生俱来
 {0}mk+bf,kc+dywgwmrpi.yuunaegoodcu 与那国島
@@ -5463,6 +5476,7 @@
 {0}wj+wyhbx.ieetve 撤退
 {0}wj+ecvnbx.ieelko 撤菱
 {0}wj+jjnsm.bheuze 傍受
+{0}wa+bsck.xxetvi 下推
 {0}wa+ba+dqdko.xxebjeufi 下半身
 {0}wa+ba+jko.xxebjeyte 下半月
 {0}wa+xmlr.buujxi 补加
@@ -5681,6 +5695,7 @@
 {0}ow+lz+tu+pwxhigwc.tsujiedietuo 統計地図
 {0}ow+lz+md+dk+ncihigwvur.tsujieffixiifau 統計分析法
 {0}ow+endlflo.jkiloe 鯨落
+{0}ow+dbshig.tsuuii 統失
 {0}ow+dufohig.tsuigi 統称
 {0}ow+khig.tsuyii 統一
 {0}ow+froyohdz.fgexie 縫隙
@@ -7027,6 +7042,7 @@
 {0}li+dskkfwtk.uiexko 試行
 {0}li+dklw.ojehze 战后
 {0}li+kekjvkji.oritzo 磗頭
+{0}li+kftlx.kuisiu 哭死
 {0}li+fmuw.ojeogi 战争
 {0}li+jbwtk.uieyse 試用
 {0}li+jblxl.qieyse 器用
@@ -7090,6 +7106,7 @@
 {0}lk+vx+zxykezf.yjojqioeu 研究者
 {0}lk+vx+zkickezf.yjojqiuie 研究室
 {0}lk+vx+dmdkrkezf.yjojqisou 研究所
+{0}lk+vx+ki.pm+mdrjkezfzckg.yjojqiuiepweuuu 研究室配属
 {0}lk+vx+ki.lv.ja+skkikezfzcwlgy.yjojqiuieuoimkohve 研究室説明会
 {0}lk+vx+frzkgkezf.yjojqiyre 研究院
 {0}lk+wxzjs.veotzo 额头
@@ -7628,6 +7645,7 @@
 {0}ee,bkfs.bkedau 併打
 {0}ee,njvuw.jbeufi 进深
 {0}ee,xrfus.bkecyo 併存
+{0}ee,xa+uujw.gzewfomue 構文木
 {0}ee,xa+ouirlujw.gzewfotho 構文糖
 {0}ee,xa+jm.udkrujwfdb.gzewfojpuxii 構文解析
 {0}ee,ugtuj.gzexlu 構想
@@ -8466,6 +8484,7 @@
 {0}dn+uhiib.bjijii 扳機
 {0}dn+uhiizl.keejii 客機
 {0}dn+um.fhzllpwi.tuouuigru 图书馆
+{0}dn+udnlf.jiogeo 及格
 {0}dn+udfb.bjijii 扳机
 {0}dn+udfzl.keejii 客机
 {0}dn+ukc.bjubfu 坂本
@@ -8941,6 +8960,7 @@
 {0}df+ihdkwbn.tzosue 投诉
 {0}df+ijttnn.mwongo 没能
 {0}df+dqdbn.tzoufi 投身
+{0}df+dn+udnlnnf.mwojiogeo 没及格
 {0}df+duwljbn.tzogcu 投稿
 {0}df+dujgu.jiixli 机箱
 {0}df+dskkfnn.mwoxko 没行
@@ -9580,6 +9600,7 @@
 {0}kl+hknnnd.hzeove 后缀
 {0}kl+hkxhvs.heolme 合练
 {0}kl+cp+stskc.heoliuhxe 合理化
+{0}kl+ctj.tsooie 同志
 {0}kl+zxyd.hzeoeu 后者
 {0}kl+zusxm.siijne 司教
 {0}kl+zskys.heosue 合宿
@@ -9719,6 +9740,7 @@
 {0}kk.rkthpr.mmubwu 缅北
 {0}kk.ra+ka+wtkkev.qioosiyiixpi 其中一些
 {0}kk.uxkwkzg.wjoogu 完整
+{0}kk.uudjv.juecdo 具材
 {0}kk.uznk.sjioii 三枝
 {0}kk.ul+md+uznwgdkcv.yruigoffioii 远程分枝
 {0}kk.ul+iy+izpzwgdkcsl.yruigochikue 远程倉庫
@@ -10002,6 +10024,7 @@
 {0}ka+rt,iz+lk+ls+kcpcftywvwklwkj.yiijpiuueyuulyeliu 一階述語論理
 {0}ka+rrore.gjisue 甘肃
 {0}ka+rrkr.yiipme 一片
+{0}ka+rj+dytiudgv.bfuoiedea 本質的
 {0}ka+ra+og+dbkbzsi.yiigeeliubde 一个礼拜
 {0}ka+ra+ss.yiigeerfo 一个人
 {0}ka+ur+bxdf.zoulieuzu 左利手
@@ -10089,6 +10112,7 @@
 {0}ka+dnu.yiitno 一条
 {0}ka+dt+ey+lkhmwskw.uhediiybihce 上低音号
 {0}ka+drju.bfubie 本币
+{0}ka+drjgvu.bfuoie 本質
 {0}ka+dupu.bfufji 本番
 {0}ka+dudzc.yiiosu 一種
 {0}ka+dcuiw.uhedgu 上等
@@ -10371,6 +10395,7 @@
 {0}fl+dsykik.keudeo 可得
 {0}fl+dskkfk.keuxko 可行
 {0}fl+ddxk.keuxne 可笑
+{0}fl+djgek.keusre 可算
 {0}fl+kz+wmsxkhsy.keusoifhe 可缩放
 {0}fl+kolk.keufzu 可否
 {0}fl+kflk.keukeu 可可
@@ -11142,6 +11167,7 @@
 {0}jf+mkdyou.xtoxio 学習
 {0}jf+zxyou.xtooeu 学者
 {0}jf+zkwsed.jmudke 剪定
+{0}jf+vmdou.xtoffi 学分
 {0}jf+wrkbmu.jkeoiu 静止
 {0}jf+wwmunu.fuoyzo 浮遊
 {0}jf+wlfrou.xtobue 学部
@@ -11175,7 +11201,6 @@
 {0}jj.bdkrj.guuoeo 骨折
 {0}jj.py+wrrfoggkdk.jtoxkujie 覚醒剤
 {0}jj.yzuyn.vdemwe 曖昧
-{0}jj.nrkvg.bgikve 崩潰
 {0}jj.nrksg.bgikve 崩溃
 {0}jj.xd,mkhjfwk.guuyjoohu 骨延長
 {0}jj.tmdj.guuqpe 骨切
@@ -11183,6 +11208,7 @@
 {0}jj.udnnj.hxobju 滑板
 {0}jj.udnlj.guugeo 骨格
 {0}jj.ciwl.goeque 過去
+{0}jj.zu+tdbkyny.vdemwexke 曖昧性
 {0}jj.ve+ouwzbneu.uzeyeelne 授業料
 {0}jj.va+lk+skrpwlfwoz.goexnupkosie 過小評価
 {0}jj.wlkklpk.dpoyuu 畳語
