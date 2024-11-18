@@ -2,6 +2,7 @@
 {0}bb,bfjxxfi.oruhre 转换
 {0}bb,xbxfxfi.orugvu 转轨
 {0}bb,xa+fu+dsuixfiiz.oruyieziefuo 转义字符
+{0}bb,ua+fhmkxfi.orumuemau 转木马
 {0}bb,wvnxfi.orubme 转变
 {0}bb,wkkixfi.oruyye 转运
 {0}bb,stizxfi.oruqmo 转钱
@@ -426,8 +427,6 @@
 {0}pr+fy+xa+rrkjsjss.vzuxledaeuii 偶像大师
 {0}pr+fy+xa+dlkrjsjss.vzuxledaeuii 偶像大師
 {0}pr+jxosj.vzurjo 偶然
-{0}pu 果
-{1}pu 困
 {0}pu+yfzi.orimfo 専門
 {0}pu+uecnei.zyiyhe 尊様
 {0}pu+hr.lounvu 裸女
@@ -858,6 +857,7 @@
 {0}ya+ywlok.bdujku 百景
 {0}ya+nprid.bdoooo 白濁
 {0}ya+ntid.bdogzi 白沟
+{0}ya+njkld.bdodse 白洞
 {0}ya+xrct.oiuzde 旨在
 {0}ya+ti+ts+nkvpdejeg.bdopuotcojqu 白葡萄酒
 {0}ya+ti+etsgdej.bdopuotco 白葡萄
@@ -1001,6 +1001,7 @@
 {0}neg+j 満
 {0}ni 戏
 {0}nim+x 涙
+{0}ni.bei.bcouzu 薄手
 {0}ni.ta+ouiceis.bcohxeoli 薄化粧
 {0}ni.rrkrei.bcopme 薄片
 {0}ni.ma+ouvmdeix.bcolieffu 薄力粉
@@ -1021,6 +1022,7 @@
 {0}nd+sdel.loerue 落入
 {0}nd+sklel.loeheo 落合
 {0}nd+ebjgel.loeoea 落着
+{0}nd+dbmb.xiinqo 犀牛
 {0}nd+ddbgel.loebiu 落笔
 {0}nd+dfrdel.loedie 落第
 {0}nd+kcpcdf.iuuliu 処理
@@ -1537,6 +1539,7 @@
 {0}xa+udfe.grijii 关机
 {0}xa+ukw.wfobfu 文本
 {0}xa+ujj.daepgo 大棚
+{0}xa+ua+zyoex.gridsiouu 关东煮
 {0}xa+ua+fe+sdhoppyx.ybigougrixie 因果関係
 {0}xa+hkti.daeyti 大约
 {0}xa+hfu.daehcu 大好
@@ -1576,6 +1579,7 @@
 {0}xa+wdm.daefhi 大方
 {0}xa+wktp.ybiciu 因此
 {0}xa+wkklw.wfoyjo 文言
+{0}xa+ohsxk.tmiuue 天数
 {0}xa+ow+sikjvhig.daetsulku 大統領
 {0}xa+ojlck.tmitho 天堂
 {0}xa+ojljv.daeuhu 大賞
@@ -1584,6 +1588,7 @@
 {0}xa+oa+kcrfwk.daobuedce 达不到
 {0}xa+sxk.daezou 大佐
 {0}xa+sx+ca+ecdbivucw.fueqroouuyie 父権主義
+{0}xa+stwdh.daedde 大袋
 {0}xa+stw.wfohxe 文化
 {0}xa+stfxbe.grijme 关键
 {0}xa+sukw.wfotiu 文体
@@ -2758,6 +2763,7 @@
 {0}ui+fytsn.dvexle 对象
 {0}ui+fi+ha+brkwyifz.uioxuevjipdo 时序安排
 {0}ui+jbd.siiyse 私用
+{0}ui+jmrnd.siifuo 私服
 {0}ui+jl+ud+uw+bznyowkrdz.uiouhexbikeijie 时尚新科技
 {0}udn 板
 {0}udf+i 楓
@@ -3119,6 +3125,7 @@
 {0}gd+mdbgwyo.jqewwu 鷲尾
 {0}gd+zn+pwxjgm.jmequutuo 見取図
 {0}gd+wuijzk.uvegoe 睡过
+{0}gd+wdhjzk.uveyii 睡衣
 {0}gd+wdmjg.jmefhi 見方
 {0}gd+ojjdgjzk.uvejto 睡觉
 {0}gd+evjkn.xxeqii 夏期
@@ -3126,6 +3133,7 @@
 {0}gd+db,dk+ecxwyomgdjv.jqewwuxuimwu 鷲尾須美
 {0}gd+kickn.xxeoie 夏至
 {0}gd+jglhtjzk.uvemmo 睡眠
+{0}gd+jmrnkn.xxefuo 夏服
 {0}gd+jk+kgpknkkv.xxelkohxe 夏霊画
 {0}gkc+c 崖
 {0}gk+pzlkjv.wjogue 頑固
@@ -3913,6 +3921,7 @@
 {0}ca+xrfuw.ouucyo 主存
 {0}ca+xmk.yailie 圧力
 {0}ca+ttu.duebiu 杜比
+{0}ca+rr,ebjgszf.uieuieoea 仕事着
 {0}ca+rmmzf.izuwfo 丑闻
 {0}ca+usxcw.ouuqro 主権
 {0}ca+ul+kldpzpdkc.liuigobwi 里程碑
@@ -4703,6 +4712,7 @@
 {0}zk+lekzlk.xrihxi 喧嘩
 {0}zk+ljgvnv.yjuyro 演員
 {0}zk+ejrfvs.dkeqmo 錠前
+{0}zk+itouo.zsixso 棕熊
 {0}zk+iheenv.yjujlu 演讲
 {0}zk+dbkzki.oruugi 転生
 {0}zk+dufifzki.oruyio 転移
@@ -5031,6 +5041,7 @@
 {0}vj+uze.qiimoe 期末
 {0}vj+uwco.jiooue 脊柱
 {0}vj+usco.jioivo 脊椎
+{0}vj+za+li+moskseuwtk.qiimoeuieyje 期末試験
 {0}vj+ve+stwleu.uhiyeehxe 商業化
 {0}vj+va+stwle.uhiyeehxe 商业化
 {0}vj+wjkce.qiiwhe 期望
@@ -5120,6 +5131,7 @@
 {0}va+lv.wm+wvifwlgwu.xnuuoiyzohui 小説遊戯
 {0}va+lsff.xnuiii 小吃
 {0}va+le+uwezfk.xnudzeziu 小豆梓
+{0}va+li+mosksfwtk.xnuuieyje 小試験
 {0}va+lf+sdbfwr.xnubuejme 小部件
 {0}va+eztouf.xnujui 小鞠
 {0}va+ek+mr+skffnje.xnumjujpoqie 小满节气
@@ -5231,6 +5243,7 @@
 {0}wr+xrckk.ogezde 正在
 {0}wr+ttkk.ogebiu 正比
 {0}wr+tk+il+dufokkif.ogeuiemkoigi 正式名称
+{0}wr+rcwdhkk.ogeoli 正装
 {0}wr+uk+oa+yjkksk.ogetiubuemko 正体不明
 {0}wr+heqvnd.ueexmo 涉嫌
 {0}wr+hfukk.ogehcu 正好
@@ -5300,10 +5313,12 @@
 {0}wm+nifnnu.yzoysu 游泳
 {0}wm+xrcjk.xpuzde 写在
 {0}wm+rikoknw.yuipio 淤蚽
+{0}wm+hu.pkkgnud.yzoleeyro 游乐园
 {0}wm+zkkgjk.xpuwjo 写完
 {0}wm+zfujk.xpuzie 写字
 {0}wm+zjkvjk.xpuofi 写真
 {0}wm+wviwu.yzohui 遊戯
+{0}wm+su+pclhwui.yzoleeyro 遊楽園
 {0}wm+ebjgjk.xpuoea 写着
 {0}wm+dytijk.xpudea 写的
 {0}wm+dsykijk.xpudeo 写得
@@ -5324,6 +5339,8 @@
 {0}wv+pm+llixlwjkg.uiepweqie 適配器
 {0}wv+tmdwj.uieqpe 適切
 {0}wv+ggbj.odiiui 摘出
+{0}wv+cvpyoj.uhizgi 熵增
+{0}wv+vp+kw+dsrbojcyzs.uhizgidkelve 熵增定律
 {0}wv+omkwj.uiedhi 適当
 {0}wv+sklwj.uieheo 適合
 {0}wv+epnf.wjiqui 湾曲
@@ -5435,6 +5452,7 @@
 {0}we+jxxyy.vjewhu 暗网
 {0}we+jjnbh.jpiuze 接受
 {0}wi 率
+{0}wi+bdupng.lqoboi 流播
 {0}wi+ydbkng.lqoxki 流星
 {0}wi+ykpcng.lqolle 流量
 {0}wi+nu+rjmkhngd.lqotnoohe 流条帳
@@ -5451,6 +5469,7 @@
 {0}wi+znbvg.isejii 銃撃
 {0}wi+wujggp.muuqbi 母親
 {0}wi+wgxjng.lqolio 流离
+{0}wi+weyp.muuybi 母音
 {0}wi+wdmp.muufhi 母方
 {0}wi+wfijng.lqotsi 流通
 {0}wi+lkwvxbz.ukijni 摔跤
@@ -5661,6 +5680,7 @@
 {0}oc+skkii.ueehve 社会
 {0}oc+ljgvi.ueeyro 社員
 {0}oc+inhl.jpobki 結氷
+{0}oc+dbi.ueenqo 社牛
 {0}oc+db,lmrfitk.ueexkebpo 社性別
 {0}oc+krki.ueegsi 社工
 {0}oc+koi.ueebue 社不
@@ -5670,6 +5690,7 @@
 {0}oc+kk.dytiisi.ueehvedea 社会的
 {0}oc+kk.jz+dcxmisiwz.ueehveyyedse 社会運動
 {0}oc+kk.jf+zxyisiou.ueehvextooeu 社会学者
+{0}oc+kfti.ueeksu 社恐
 {0}oc+jjtnhl.jpovde 結愛
 {0}om+ph+ls+wxhgkwkj.jieycelyewfo 紀要論文
 {0}om+zhuuk.dhevje 档案
@@ -6266,6 +6287,7 @@
 {0}sg+hopdgx.wwixie 微細
 {0}sg+hoddgx.wwimne 微妙
 {0}sg+md+ub+vmddgxvdkv.wwiffijiiffi 微分積分
+{0}sg+md+weydgxv.wwiffiybi 微分音
 {0}sg+vmddgx.wwiffi 微分
 {0}sg+scudcx.ogijio 徴集
 {0}sg+swkldgx.wwixbe 微信
@@ -6944,6 +6966,7 @@
 {0}lv.ja+wxwlgy.uoimkowfo 説明文
 {0}lv.ja+skkiwlgy.uoimkohve 説明会
 {0}lw 샤
+{0}lwx 哒
 {0}lw+bkjgvwrl.qmuzeo 譴責
 {0}lw+yflwdm.fhuwfe 訪問
 {0}lw+rrkrksz.svepme 碎片
@@ -7653,6 +7676,7 @@
 {0}eo+nu+sdbsd.wuotnojme 無条件
 {0}eo+xx,stswm.wuoxnehxe 無効化
 {0}eo+tixds.wuocju 無惨
+{0}eo+rrps.wuoxqe 無袖
 {0}eo+hodyns.wuoxme 無線
 {0}eo+ctus.wuodie 無地
 {0}eo+csmzns.wuoque 無趣
@@ -7924,7 +7948,6 @@
 {0}ix+gd+ojfusjg.fuojmexto 伏見学
 {0}ix+hhm.yzenvu 幼女
 {0}ix+hodyns.fuoxme 伏線
-{-}ix+hiyhsm.wwunlo 伪娘
 {0}ix+hiyhso.wwunlo 偽娘
 {0}ix+ha+xkwkk.yjenvuoge 厌女症
 {0}ix+ha+zi+wlmghmo.yzenvuojejie 幼女戦記
@@ -8010,6 +8033,7 @@
 {0}ic+odk.oieucu 至少
 {0}ic+sifk.oiejbi 至今
 {0}ic+ka+ca+ecdbikww.oieuheouuyie 至上主義
+{0}ic+fifik.oiedoi 至多
 {0}imj.e 盛
 {0}im+ycuiyr.jiouio 即時
 {0}im+yodddh.hreyku 幻影
@@ -8076,6 +8100,7 @@
 {0}iw+xmkif.wdetce 外套
 {0}iw+tsf.wdeohu 外长
 {0}iw+tlgf.wdebci 外包
+{0}iw+rcwdhf.wdeoli 外装
 {0}iw+umkcf.wdekli 外框
 {0}iw+uef.wdeldo 外来
 {0}iw+ggf.wdeiui 外出
@@ -8320,6 +8345,7 @@
 {0}if+ec+tdbkfiun.doiyhexke 多様性
 {0}if+evjs.jbiqii 今期
 {0}if+ixsl.hjoyie 含义
+{0}if+izvves.oiimao 芝麻
 {0}if+dbks.jbiugi 今生
 {0}if+dn+jp+evdkrfinlk.doiloelwosii 多洛雷斯
 {0}if+durfi.doiosu 多种
@@ -8635,6 +8661,7 @@
 {0}dt+wursk.diisue 低速
 {0}dt+wvdnji.bcebme 豹変
 {0}dt+wljclsk.diidne 低調
+{0}dt+weysk.diiybi 低音
 {0}dt+wijb.toiyue 托育
 {0}dt+sjsxl.gzurze 狗肉
 {0}dt+lk+skrpskwoz.diipkosie 低評価
@@ -8837,6 +8864,7 @@
 {0}dz+hotkbl.koeyti 括約
 {0}dz+mkftnl.hoouii 活屍
 {0}dz+zrrfec.dsuuie 董事
+{0}dz+zevcnl.hoosdi 活塞
 {0}dz+wldzlbr.iaihxe 挿話
 {0}dz+ot+djxmblhk.koeytijbi 括約筋
 {0}dz+oupovn.drelme 鍛煉
@@ -9007,6 +9035,7 @@
 {0}df+tbkjxn.yieqko 疫情
 {0}df+rpgu.jiidme 机电
 {0}df+rudnnn.mwobwe 没被
+{0}df+ga+uenng.mwoiuildo 没出来
 {0}df+mv+ncinnx.mwobjefau 没办法
 {0}df+mkhj.rsuohu 冗長
 {0}df+wxsxnn.mwoxne 没效
@@ -9248,6 +9277,7 @@
 {0}kr+bweci.isiole 冲撞
 {0}kr+nlks.tneuvu 跳水
 {0}kr+niyhi.isilhe 冲浪
+{0}kr+rcwdhsx.bmeoli 便装
 {0}kr+ur+iwlsxdf.bmeliedme 便利店
 {0}kr+udnlsp.siegeo 価格
 {0}kr+ga+xmib.isijiilie 冲击力
@@ -9571,6 +9601,7 @@
 {0}kw+ejsxfig.uuisje 疏散
 {0}kw+ixmizs.dkewwe 定为
 {0}kw+ixzs.dkeyie 定义
+{0}kw+ihexlw.kaunoe 卡诺
 {0}kw+dbxihig.tsuizo 统筹
 {0}kw+dupzs.dkefji 定番
 {0}kw+dmdkrys.uiesou 是所
@@ -9748,6 +9779,7 @@
 {0}ke+imwdmki.iuofho 厨房
 {0}ke+ka+xksjkik.iuovrebke 厨二病
 {0}ki.nldgrx.olekle 状況
+{0}ki.njklr.isodse 虫洞
 {0}ki.xblmzhmj.bmijio 编辑
 {0}ki.xitrx.oletde 状态
 {0}ki.tt,ykpcrxi.oletdelle 状態量
@@ -10147,6 +10179,7 @@
 {0}ka+wmdx.zoubmi 左辺
 {0}ka+wmdw.uhebmi 上辺
 {0}ka+wlmgw.uhejie 上記
+{0}ka+wlow.uhejki 上京
 {0}ka+wlo.yiidmu 一点
 {0}ka+wlfr.yiibue 一部
 {0}ka+weyt.yiiyie 一意
@@ -11320,6 +11353,7 @@
 {0}jj.fvwl.goexnu 過小
 {0}jj.fifiwl.goedoi 過多
 {0}jj.jjnbn.uzeuze 授受
+{0}jj.jj.uvfdnjnj.hxohxotii 滑滑梯
 {0}ja+bm+ml+xkkoxmox.yzumaujxinde 有馬加奈
 {0}ja+bdzqs.nweiai 内插
 {0}ja+pxs.nweybi 内因
@@ -11374,6 +11408,7 @@
 {0}ja+wlfrs.nwebue 内部
 {0}ja+wljg.ytelle 月亮
 {0}ja+weytx.yzuyie 有意
+{0}ja+wdhs.nweyii 内衣
 {0}ja+wa+dzekpk.wwexxeivo 胃下垂
 {0}ja+obmgs.nwejru 内卷
 {0}ja+ouwzx.yzulne 有料
