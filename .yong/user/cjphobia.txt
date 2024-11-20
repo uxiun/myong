@@ -1914,6 +1914,7 @@
 {0}ta+wtptp.siilve 思慮
 {0}ta+wlidmr.osiigo 忠誠
 {0}ta+wlkwk.xbioge 心証
+{0}ta+wiszt.biulve 比率
 {0}ta+ouics.hxeoli 化粧
 {0}ta+ok+rcyckjv.oieyreuui 志願書
 {0}ta+ojfus.hxexto 化学
@@ -3027,6 +3028,7 @@
 {0}ua+jstij.cdugze 采购
 {0}ua+jjnz.wweuze 未受
 {0}gp+pm+wkkkr.hxemmeuhe 画面上
+{0}gp+ydjgk.hxemwo 画眉
 {0}gp+nvfddkr.biotie 鼻涕
 {0}gp+ra+kgpk.hxeosihxe 画中画
 {0}gp+ggk.hxeiui 画出
@@ -3039,6 +3041,7 @@
 {0}gp+fy+scukss.hxexlejio 画像集
 {0}gy+pcjh.yjuliu 眼里
 {0}gy+yodddjh.yjuyku 眼影
+{0}gy+rkhjh.yjuoli 眼妆
 {0}gy+hkizjh.yjuxme 眼线
 {0}gy+zs,djxmjhzkj.yjulyojbi 眼輪筋
 {0}gy+vwegjh.yjujke 眼鏡
@@ -3240,6 +3243,7 @@
 {0}hx+eh+ta+cp+ojfuinmkc.faiojuxbiliuxto 发展心理学
 {0}hx+ejsxin.faisje 发散
 {0}hx+ix+udfinkm.faidsejii 发动机
+{0}hx+dbmjin.faigui 发箍
 {0}hx+dbkin.faiugi 发生
 {0}hx+du+cfmdindi.faiueeihu 发射场
 {0}hx+dskkfin.faixko 发行
@@ -4351,6 +4355,7 @@
 {0}mk+so.dhirfo 当人
 {0}mk+ssmo.dhizoe 当作
 {0}mk+sdsn.qbirue 侵入
+{0}mk+skfnj.lzeqie 漏气
 {0}mk+sa+duwzhj.fuerfokei 婦人科
 {0}mk+lkdnlxi.tcelue 套路
 {0}mk+ebjgjd.jnioea 膠着
@@ -5026,6 +5031,7 @@
 {0}vk+dgtzic.oiexii 窒息
 {0}vk+dskkfz.ksixko 空行
 {0}vk+devnzjs.dmibou 颠簸
+{0}vk+fy+wewlzy.ksijmioje 空間站
 {0}vk+fy+lz+jg+ykpczywde.ksijmijiesrelle 空間計算量
 {0}vk+fx+ev+uskczszc.ksiqiesdiuri 空気塞栓
 {0}vk+fiffjtk.fueyuu 賦予
@@ -6403,6 +6409,7 @@
 {0}sm+zhus.zoevje 作案
 {0}sm+zkmss.zoejxi 作家
 {0}sm+vfxbcdl.icijme 超鍵
+{0}sm+vj+mr+dsdfncdlejn.iciqiifuoyie 超期服役
 {0}sm+wxs.zoewfo 作文
 {0}sm+wuicdl.icigoe 超过
 {0}sm+wudkrs.zoexbi 作新
@@ -6417,6 +6424,7 @@
 {0}sm+eps.zoequi 作曲
 {0}sm+evs.zoeyee 作业
 {0}sm+eveus.zoeyee 作業
+{0}sm+evjcdl.iciqii 超期
 {0}sm+ea+lygcgu.qiuldobaa 起来吧
 {0}sm+ixmis.zoewwe 作为
 {0}sm+iucg.qiuilo 起床
@@ -7254,6 +7262,7 @@
 {0}lf+jmrnsif.uuifuo 舒服
 {0}lf+jjnwu.xluuze 享受
 {1}ljs 싐
+{0}lj+ydhrwl.gcivho 高昂
 {0}lj+nyjewl.gciwfi 高温
 {0}lj+nzzjwl.gciico 高潮
 {0}lj+nwvjn.jridii 涓滴
@@ -8641,6 +8650,7 @@
 {0}dx,ot+rcybhk.qieytiuui 契約書
 {0}dx,oubkjh.ycijki 妖精
 {0}dx,ecdbixe.xxoyie 狭義
+{0}dx,dbmjmn.faegui 髪箍
 {0}dx,drjgvmn.faeoie 髪質
 {0}dx,du+ewxbeef.vculielmo 芺莉莲
 {0}dx,dcuiom.lpedgu 劣等
@@ -8655,6 +8665,7 @@
 {0}dt+bwdfbk.diukhe 抵抗
 {0}dt+ndzlhy.hyihoo 婚活
 {0}dt+ta+skkiskc.diioiehve 低志会
+{0}dt+rkhik.diuoli 底妆
 {0}dt+hotkhy.hyiyti 婚約
 {0}dt+hixmsk.diiyze 低幼
 {0}dt+mvpysk.diicgo 低層
@@ -9311,11 +9322,14 @@
 {0}ku+zkwsix.jtodke 决定
 {0}ku+wyljvs.yuoyye 余韻
 {0}ku+wh+jg+hi+tdbksfiuss.yuoxmoxliuiexke 余弦相似性
+{0}ku+ww,ljgvzddf.yuuhhoyro 宇航員
+{0}ku+ww,ljszddf.yuuhhoyro 宇航员
 {0}ku+wfijip.dsetsi 凍通
 {0}ku+sre.mzugee 某个
 {0}ku+iznmi.xyoqqo 寻求
 {0}ku+dys.yuobdo 余白
 {0}ku+dure.mzuosu 某种
+{0}ku+dwwdfz.yuuhho 宇航
 {0}ku+kw+kw+kolixzsys.jtodkeuiefzu 决定是否
 {0}ku+koix.jtobue 决不
 {0}ku+fwhis.yuoxmo 余弦
@@ -9414,6 +9428,7 @@
 {0}kc+rr,hw+rmlpizfidm.goouiefhuwfe 国事访问
 {0}kc+rw+wlfrpifdm.goofhobue 国防部
 {0}kc+rj+ud+ififpifsodbs.goojieoiexue 国際秩序
+{0}kc+rj+vk+fy+wewlpifsozy.goojieksijmioje 国際空間站
 {0}kc+utihl.jpogze 结构
 {0}kc+urhl.jpouue 结束
 {0}kc+uk+sfysss.qrotiuxle 全体像
@@ -9580,6 +9595,7 @@
 {0}kw+tz+xa+szrxfcs.ouehxodaeuiu 驻华大使
 {0}kw+tlgw.kaubci 卡包
 {0}kw+ry+uhiizsfh.dkexmejii 定限機
+{0}kw+rkhzs.dkeoli 定妆
 {0}kw+rkixxk.ogeole 症状
 {0}kw+rf,mlebxksx.ogehzeqyo 症候群
 {0}kw+ueys.uieldo 是来
@@ -9659,6 +9675,7 @@
 {0}ks+wmkhkl.gwuyuu 给与
 {0}ks+ojldgkx.ogedhu 政党
 {0}ks+stwxbiii.lgulme 冷链
+{0}ks+srsdhc.wwoxqi 维修
 {0}ks+szrxhs.zseuiu 纵使
 {0}ks+sifihs.zselke 纵令
 {0}ks+sdhj.naerue 纳入
@@ -9777,6 +9794,7 @@
 {0}ke+bzfygfb.xmiyje 鲜艳
 {0}ke+rpgki.iuodme 厨电
 {0}ke+wedgez.hxodce 華道
+{0}ke+stsiilv.yaulko 哑铃
 {0}ke+imwdmki.iuofho 厨房
 {0}ke+ka+xksjkik.iuovrebke 厨二病
 {0}ki.nldgrx.olekle 状況
@@ -10682,6 +10700,7 @@
 {0}jp+ua+stkgf.dmeziahxe 電子化
 {0}jp+ua+kh+udnlkgfb.dmeziabnugeo 電子表格
 {0}jp+hpwik.lwomuu 雷姆
+{0}jp+mxk.lwoqui 雷区
 {0}jp+zldgk.lwokee 雷克
 {0}jp+vj+oz+ilkgwlk.dmeuhipkotdo 電商平台
 {0}jp+wyzkg.dmeooo 電卓
