@@ -1894,6 +1894,7 @@
 {0}ta+xk+xmpzhm.siikculie 思考力
 {0}ta+xfij.xbitse 心痛
 {0}ta+tbkj.xbiqko 心情
+{0}ta+tscp.siiwwo 思惟
 {0}ta+rrt.xbihre 心患
 {0}ta+rrkre.xbipme 芯片
 {0}ta+rkhs.hxeoli 化妆
@@ -1910,6 +1911,7 @@
 {0}ta+zw,zk+jg+futzvxnvde.biujneyjusrezia 比較演算子
 {0}ta+zevst.biusde 比赛
 {0}ta+zjhiop.siisou 思索
+{0}ta+zjsop.siiiao 思察
 {0}ta+wxuii.ykidve 応対
 {0}ta+wtptp.siilve 思慮
 {0}ta+wlidmr.osiigo 忠誠
@@ -4351,6 +4353,7 @@
 {0}mk+wktw.yuuciu 与此
 {0}mk+ojldgw.yuudhu 与党
 {0}mk+ojljvve.jmeuhu 鑑賞
+{0}mk+sukuc.klitiu 框体
 {0}mk+shj.fuerfo 婦人
 {0}mk+so.dhirfo 当人
 {0}mk+ssmo.dhizoe 当作
@@ -4417,6 +4420,7 @@
 {0}zp+przjkdc.oseoie 重置
 {0}zp+ph+tdbkdck.oseycexke 重要性
 {0}zp+ykpcdc.oselle 重量
+{0}zp+yjjewz.lmomgo 連盟
 {0}zp+nnnkdc.osedpo 重叠
 {0}zp+xdc.osedae 重大
 {0}zp+xkwkdc.oseoge 重症
@@ -4643,6 +4647,7 @@
 {0}zl+dytisx.zoedea 做的
 {0}zl+dhise.kuugxi 苦瓜
 {0}zl+ddpm.juilqo 居留
+{0}zl+djges.guisre 估算
 {0}zl+kcpcdl.gruliu 管理
 {0}zl+kwd.ueoxxe 舌下
 {0}zl+kw+mkhpzs.guedkeohu 固定長
@@ -5560,6 +5565,7 @@
 {0}wa+wdmk.xxefhi 下方
 {0}wa+ouwzk.xxelne 下料
 {0}wa+srk.xxegee 下个
+{0}wa+sc+jg+cx+uhiikbddm.xxetviziedsejii 下推自動機
 {0}wa+swek.xxewwe 下位
 {0}wa+lmkjvk.xxevee 下顎
 {0}wa+lllk.xxepbu 下品
@@ -7964,6 +7970,7 @@
 {0}ix+ctus.fuodie 伏地
 {0}ix+ce+zxysoel.wwuujeoeu 偽善者
 {0}ix+zxyso.wwuoeu 偽者
+{0}ix+zitsg.yzihve 优惠
 {0}ix+wlosg.yzidmu 优点
 {0}ix+od+la+hrnshynp.fuoxmehvouzi 伏線回収
 {0}ix+okjstg.yzifjo 忧烦
@@ -7976,6 +7983,7 @@
 {0}ix+ecelso.wwuuje 偽善
 {0}ix+emrbx.baojpo 拔节
 {0}ix+it+ctukmx.dsetdedie 动态地
+{0}ix+it+obmdsgz.yzihveqre 优惠券
 {0}ix+it+sj+irfkmxbdg.dsetdegvihxe 动态规划
 {0}ix+ijttkm.dsengo 动能
 {0}ix+duschm.yzeoie 幼稚
@@ -9995,6 +10003,7 @@
 {0}kfo 烈
 {0}kf+bgb.daujii 打击
 {0}kf+bixgb.daurcu 打扰
+{0}kf+bdkrb.dauoeo 打折
 {0}kf+ba+ohsxdus.ouenmouue 築年数
 {0}kf+pp.tkitmo 町田
 {0}kf+pr+wv+fkskkxlsjux.qiovzuxneyje 奇偶校验
@@ -10332,6 +10341,7 @@
 {0}fx+dqdsb.jmeufi 健身
 {0}fx+dnjevb.jmepjo 鍵盤
 {0}fx+dsykir.jludeo 奖得
+{0}fx+kmxmr.jlulie 奖励
 {0}fx+ki.st+mbfrsbmce.jmewuihxinae 健屋花那
 {0}fx+kfrfvb.jmelpe 鍵列
 {0}fx+fytss.qiexle 気象
@@ -10639,6 +10649,7 @@
 {0}fk+wlokjv.dkudmu 頂点
 {0}fk+weyvn.lueybi 録音
 {0}fk+wfijye.kditsi 開通
+{0}fk+sgscye.kdicvi 開催
 {0}fk+swekjv.dkuwwe 頂位
 {0}fk+sizllye.kdigru 開館
 {0}fk+skkiye.kdihve 開会
@@ -10736,6 +10747,7 @@
 {0}jn+wlsddj.uzeofu 受診
 {0}jn+wleejj.uzejlu 受講
 {0}jn+wdmxj.uzeyci 受邀
+{0}jn+os+zxyjmks.uzeyjeoeu 受験者
 {0}jn+ojljvj.uzeuhu 受賞
 {0}jn+oa+ffjk.uzebuelea 受不了
 {0}jn+suij.uzefue 受付
