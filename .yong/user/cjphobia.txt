@@ -304,6 +304,7 @@
 {0}bj+ffdg.kjelea 看了
 {0}ba+bxys.nmoiyi 年春
 {0}ba+bty.uzuoiu 手指
+{0}ba+brkwd.nqopdo 牛排
 {0}ba+bep.uzumno 手描
 {0}ba+bixm.uzuuie 手势
 {0}ba+bdt.uzutoi 手托
@@ -342,6 +343,7 @@
 {0}ba+stwxb.uzulme 手链
 {0}ba+sits.nmodde 年代
 {0}ba+sdbj.ysejme 用件
+{0}ba+sjsd.nqorze 牛肉
 {0}ba+lws.uzuzuo 手足
 {0}ba+en+lmrfsi.nmoduebpo 年度別
 {0}ba+ecoexe.yhoggi 羊羹
@@ -351,6 +353,7 @@
 {0}ba+dqdo.bjeufi 半身
 {0}ba+dywgo.bjedcu 半島
 {0}ba+dn+hodhteu.yhopiooiu 羊皮紙
+{0}ba+dzld.nqoueo 牛舌
 {0}ba+dzdfn.uzudre 手段
 {0}ba+dsivf.uzuuue 手術
 {0}ba+dk+wr+fwhibrkk.uzuoeoogexmo 手折正弦
@@ -3941,11 +3944,13 @@
 {0}ca+cd+zxywebi.ouuyieoeu 主義者
 {0}ca+zrrfs.uieuie 仕事
 {0}ca+za+ekkvm.tuuvruqio 土耳其
+{0}ca+vj+sjspo.liujiorze 里脊肉
 {0}ca+wguiw.ouudcu 主導
 {0}ca+wsdfnk.whoyie 王毅
 {0}ca+wlkklw.ouuyuu 主語
 {0}ca+weytw.ouuyie 主意
 {0}ca+wddbk.tuuiju 土産
+{0}ca+ovjp.liujio 里脊
 {0}ca+sukw.ouutiu 主体
 {0}ca+su+sy+sucnddndki.ugebiudeobcu 圣彼得堡
 {0}ca+sgscw.ouucvi 主催
@@ -4632,6 +4637,7 @@
 {0}zl+zkwsp.guedke 固定
 {0}zl+zkkgsx.zoewjo 做完
 {0}zl+zjeznj.huonjo 湖南
+{0}zl+wxd.ueotzo 舌头
 {0}zl+wguusdl.gruiuu 管𬺓
 {0}zl+wedgdl.grudce 管道
 {0}zl+oxd.ueojmi 舌尖
@@ -4745,6 +4751,7 @@
 {0}zf+ecxbyg.yjemwu 艳美
 {0}zf+dbgzs.rrumco 軟毛
 {0}zf+db,tlgzss.rrujmebci 軟件包
+{0}zf+jjjzs.rruguu 軟骨
 {0}zj+pcfifuk.oioyeu 植野
 {0}zj+ykpcds.oielle 质量
 {0}zj+ya+je+ekvpzzz.icorienjoqme 朝日南茜
@@ -5070,6 +5077,7 @@
 {0}va+bkfp.siedau 四打
 {0}va+bk+nfnj.xnuqkiuvu 小清水
 {0}va+bk+na+wdumfnj.xnuqkiuvutze 小清水透
+{0}va+ba+brkwfd.xnunqopdo 小牛排
 {0}va+ba+sukej.gseysetiu 共用体
 {0}va+ba+isscd.jbinqozoe 金牛座
 {0}va+po+enluf.jbiyuozcu 金魚藻
@@ -7577,8 +7585,11 @@
 {0}er+wlkklns.hjeyuu 漢語
 {0}er+wdmns.hjefhi 漢方
 {0}er+kwlo.yjexxe 嚥下
+{0}er+kl+ey+sjsuvjjjx.hgogeomoorze 横膈膜肉
+{0}er+kl+jeyxuvjj.hgogeomoo 横膈膜
 {0}er+frskujf.ujiiuo 刪除
 {0}er+fu+io+wlkklnszw.hjezieuuoyuu 漢字熟語
+{0}er+jkljuv.hgogeo 横膈
 {0}eu+biow.qbiree 亲热
 {0}eu+mdrjw.qbiuuu 亲属
 {0}eu+wdkrw.qbijbe 亲近
@@ -8127,11 +8138,13 @@
 {0}iw+zxmvf.wdexpo 外协
 {0}iw+zdnlf.wdekee 外客
 {0}iw+vx+wlfrfw.wdejnibue 外交部
+{0}iw+vj+sjsfo.wdejiorze 外脊肉
 {0}iw+wvxf.wdejni 外交
 {0}iw+wlfrf.wdebue 外部
 {0}iw+wdhf.wdeyii 外衣
 {0}iw+wjsxf.wdedio 外敵
 {0}iw+obrfzdh.cdopje 裁判
+{0}iw+ovjf.wdejio 外脊
 {0}iw+sy+uw+djxmfjnsz.wdefuexpojbi 外腹斜筋
 {0}iw+scjggf.wdegri 外観
 {0}iw+swrkf.wdeqiu 外企
@@ -8884,6 +8897,7 @@
 {0}dz+hotkbl.koeyti 括約
 {0}dz+mkftnl.hoouii 活屍
 {0}dz+zrrfec.dsuuie 董事
+{0}dz+zl+wxxxyd.ouiueotzo 猪舌头
 {0}dz+zevcnl.hoosdi 活塞
 {0}dz+wldzlbr.iaihxe 挿話
 {0}dz+ot+djxmblhk.koeytijbi 括約筋
@@ -8895,6 +8909,7 @@
 {0}dz+skrpuu.ouisie 株価
 {0}dz+sklwl.uieheo 适合
 {0}dz+lkmkcnl.hooyte 活躍
+{0}dz+lkwjjxxy.ouitio 猪蹄
 {0}dz+lkdxnl.hooyte 活跃
 {0}dz+ebjgnl.hoooea 活着
 {0}dz+evjnl.hooqii 活期
@@ -9553,11 +9568,13 @@
 {0}km+sjsjs.tyorze 豚肉
 {0}km+sa+wedgrw.fwirfodce 非人道
 {0}km+lp+duvlgrwwu.fwikeeuve 非課税
+{0}km+lwsjs.tyozuo 豚足
 {0}km+ifxczs.jxitko 家庭
 {0}km+ia+yfkerwv.fwigsikdi 非公開
 {0}km+dbgmik.yuumco 羽毛
 {0}km+dbcuirw.fwitee 非特
 {0}km+dbirw.fwiwou 非我
+{0}km+dzljs.tyoueo 豚舌
 {0}km+dscwsrw.fwituo 非徒
 {0}km+kh+kkorwb.fwibnuuie 非表示
 {0}km+kw+uhiirwzs.fwidkejii 非定機
@@ -9754,6 +9771,7 @@
 {0}kl+oa+jkljk.tsobuetso 同不同
 {0}kl+stj.tsohxe 同化
 {0}kl+suks.heotiu 合体
+{0}kl+scus.heojio 合集
 {0}kl+szjhj.tsooio 同値
 {0}kl+ssms.heozoe 合作
 {0}kl+sees.heobke 合併
@@ -10712,6 +10730,7 @@
 {0}jp+ua+kh+udnlkgfb.dmeziabnugeo 電子表格
 {0}jp+hpwik.lwomuu 雷姆
 {0}jp+mxk.lwoqui 雷区
+{0}jp+zpzkg.dmeiei 電車
 {0}jp+zldgk.lwokee 雷克
 {0}jp+vj+oz+ilkgwlk.dmeuhipkotdo 電商平台
 {0}jp+wyzkg.dmeooo 電卓
