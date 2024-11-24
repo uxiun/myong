@@ -951,6 +951,7 @@
 {0}nc+bcuir.jmiiio 坚持
 {0}nc+pevt.gkeyie 怪異
 {0}nc+zbxm.jmiuio 堅実
+{0}nc+zdbm.jmilco 堅牢
 {0}nc+olixt.gkeuze 怪獣
 {0}nc+dbtddt.gkewue 怪物
 {0}nc+dbit.gkewou 怪我
@@ -1993,6 +1994,7 @@
 {0}rp+vd+mtwekr.diosiinio 迪斯尼
 {0}rp+wudkrkx.ggexbi 更新
 {0}rp+wlgvb.izixru 抽選
+{0}rp+wdkrkx.ggejbe 更近
 {0}rp+sbkx.ggenmo 更年
 {0}rp+sukev.hlotiu 黄体
 {0}rp+skkii.mnehve 庙会
@@ -2037,6 +2039,7 @@
 {0}rt,kpxfzfsg.tcozve 陶酔
 {0}rt,kwftc.biexxe 陛下
 {0}rro+r 肃
+{0}rr,bx,kp+nczzfzuo.uieuiobnioyu 事実標準
 {0}rr,bx,fe+sdhozfzyx.uieuiogrixie 事実関係
 {0}rr,bk+zz,mznzftjmpt.uieqkotkiquu 事情聴取
 {0}rr,nx+nw+kcpczfdmd.uiewueiueliu 事务处理
@@ -3714,6 +3717,7 @@
 {0}cm+yp+mk+im+jgdgsxtnwsj.vcemjeyuupmijme 傲慢与偏見
 {0}cm+typnsx.vcemje 傲慢
 {0}cm+jl+jl+izpzkbokklkkl.maulueluekue 瑪露露庫
+{0}cz+bdnfn.oyujue 準拠
 {0}cz+sedjn.oyubwe 準備
 {0}cz+kj+jobmnsn.oyuyziuge 準優勝
 {0}cz+jvrfn.oyuzeo 準則
@@ -6555,6 +6559,7 @@
 {0}six 仪
 {0}si+pcfifch.yteyeu 越野
 {0}si+xmlch.ytejxi 越加
+{0}si+tuxch.ytekke 越快
 {0}si+uvi.lkomue 鈴木
 {0}si+ua+jobmvi.lkomueuge 鈴木勝
 {0}si+zxteyh.yhulcu 養老
@@ -7565,6 +7570,7 @@
 {0}ey+dbsv.coeuii 錯失
 {0}ey+dyirw.ybijpo 音節
 {0}ey+duejj.mieigo 冪乗
+{0}ey+dujux.moocee 模策
 {0}ey+dzzgux.moofje 模範
 {0}ey+kcw.ybiyai 音圧
 {0}ey+kotwt.yieyre 意愿
@@ -9364,6 +9370,7 @@
 {0}ku+xk+ecxzs.yuuzoumwu 宇佐美
 {0}ku+rp+ur+ienzzw.yuuozesuedue 宇宙速度
 {0}ku+rp+hodynzz.yuuozexme 宇宙線
+{0}ku+rp+szz.yuuozerfo 宇宙人
 {0}ku+rvsls.yuoyue 余裕
 {0}ku+hoclip.dsejpo 凍結
 {0}ku+zrpz.yuuoze 宇宙
