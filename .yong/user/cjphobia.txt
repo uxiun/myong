@@ -155,6 +155,7 @@
 {0}be,bd,zxydcidbk.xiiugioeu 犠牲者
 {0}be,dbdbkdci.xiiugi 犠牲
 {0}bi 找
+{0}bi+yt+ez+ok+dt+hpxddicilphy.woudeaxkefuohyiybi 我的幸福婚姻
 {0}bi+ri+dytidsm.woumfadea 我们的
 {0}bi+srimd.woumfa 我们
 {0}bdt 托
@@ -409,6 +410,7 @@
 {0}pr+ya+wlmgef.mgeriejie 夢日記
 {0}pr+nscwj.yuenjo 遇难
 {0}pr+xblmzwf.loojio 逻辑
+{0}pr+ref.mgeosi 夢中
 {0}pr+ugtef.mgexlu 夢想
 {0}pr+ua+rk+zptnzus.zeomuetcohve 澤木桃恵
 {0}pr+cf,ia+ifsnzpiff.zeoyeuhsooii 澤野弘之
@@ -2858,6 +2860,7 @@
 {0}ud+dqjvwkr.xbixke 新興
 {0}ud+drjgvwkr.xbioie 新質
 {0}ud+dr+jk+nwvhfhsxkibg.guiduoycogyu 孤独揺滾
+{0}ud+dupwkr.xbifji 新番
 {0}ud+dudzcwkr.xbiosu 新種
 {0}ud+dh+rcwdhwkrw.xbiyiioli 新衣装
 {0}ud+da+dbkwkrs.xbirueugi 新入生
@@ -3006,6 +3009,7 @@
 {0}ua+scuf.ziajio 子集
 {0}ua+sevf.ziagsi 子供
 {0}ua+la+wktth.yeuruociu 也如此
+{0}ua+ezkgx.dsigru 东莞
 {0}ua+esuj.cduiao 采茶
 {0}ua+esscp.kyenjo 困難
 {0}ua+ee,wdcluj.muegzezce 木構造
@@ -3508,6 +3512,7 @@
 {0}hj.djrfwb.qmioie 牽制
 {0}ha+brkwz.vjipdo 安排
 {0}ha+brkw.nvupdo 女排
+{0}ha+ytddz.vjiyie 安易
 {0}ha+nclz.vjijpo 安洁
 {0}ha+xn.nvuyzu 女友
 {0}ha+xisc.nvuxso 女雄
@@ -5649,6 +5654,7 @@
 {0}ox+kkjjthkl.qiulie 綺麗
 {0}ot+ywlok.yrejku 愿景
 {0}ot+ux+cp+db,tt,obrfhgofzkctkb.iyocveliuxkepiipje 純粋理性批判
+{0}ot+ua+oojriml.juimueyko 駒木螢
 {0}ot+hhg.iyonvu 純女
 {0}ot+weytk.yreyie 愿意
 {0}ot+ouxfzhg.iyocve 純粋
@@ -5745,6 +5751,7 @@
 {0}om+dcxmmx.quidse 駆動
 {0}om+kphhg.jieyce 紀要
 {0}om+krjwmns.ozeyuu 驟雨
+{0}om+kkghg.jieyro 紀元
 {0}oz+bg,dx,kwrkhsydhj.soimcojnioge 縮毛嬌正
 {0}oz+bjfmuk.pkojke 平静
 {0}oz+pdnlhsy.soilte 縮略
@@ -5908,6 +5915,7 @@
 {0}od+dbcuin.uaitee 沙特
 {0}od+kgphyn.xmehxe 線画
 {0}od+kwrohnw.osiyji 終焉
+{0}od+kotikr.qioyre 祈愿
 {0}od+kedddhyn.xmexko 線形
 {0}od+frzkgydd.ykuyre 影院
 {0}od+fuydd.ykuzia 影子
@@ -6029,6 +6037,7 @@
 {0}oa+ymkc.houyce 火曜
 {0}oa+ykwsk.bueuie 不是
 {0}oa+yjk.buemko 不明
+{0}oa+nbkjk.bueqki 不清
 {0}oa+nzx.hvioii 灰汁
 {0}oa+negjk.buemju 不満
 {0}oa+nidok.buempe 不滅
@@ -6206,6 +6215,7 @@
 {0}sy+sklrn.fueheo 複合
 {0}sy+ebkdh.hfuiae 很差
 {0}sy+dbdh.hfunqo 很牛
+{0}sy+dsyhdki.deohfu 得很
 {0}sy+dfwdhrn.fueoie 複製
 {0}sy+kcrfdki.deodce 得到
 {0}sy+kl+tdbkrns.fueheoxke 複合性
@@ -6272,6 +6282,7 @@
 {0}st+stize.hxiqmo 花钱
 {0}st+lkhmjs.ohehce 账号
 {0}st+eb,wm+nifneunu.hxiyheyzoysu 花样游泳
+{0}st+eb,jj.ikneunj.hxiyhehxobki 花样滑冰
 {0}st+ey+tdbkkwt.zieyiexke 恣意性
 {0}st+ewzze.hxilmo 花蓮
 {0}st+imjs.ohehue 账户
@@ -7448,6 +7459,7 @@
 {0}la+wkth.ruociu 如此
 {0}la+or+wjdckipr.uioufowhe 石神望
 {0}la+ohsxp.hvouue 回数
+{0}la+om+kkgkhg.uiojieyro 石紀元
 {0}la+oe+dbtddcib.jioxlowue 吉祥物
 {0}la+stwdh.kzudde 口袋
 {0}la+sitz.guudde 古代
@@ -7781,6 +7793,7 @@
 {0}els+x 敬
 {0}el+zevswdg.jkesde 竞赛
 {0}el+wdcgwdg.jkexru 竞选
+{0}ee 并
 {0}ee,bmznm.pkouee 屏摄
 {0}ee,bkfs.bkedau 併打
 {0}ee,njvuw.jbeufi 进深
@@ -7888,6 +7901,7 @@
 {0}ef+lkjdqsib.wuudcu 舞蹈
 {0}ef+ilsib.wuutdo 舞台
 {0}ef+id+ca+ia+iifrsibcmkx.wuuigowhotdelho 舞城王太郎
+{0}ef+kn.yt+od+kotsibidiikr.wuubkideaqioyre 舞冰的祈愿
 {0}ef+kn.skkisibly.wuutaehve 舞踏会
 {0}ef+kg+xl+srrsibki.wuuyroqiujpe 舞元啓介
 {0}ef+kkjjteyg.yjelie 艶麗
@@ -8536,6 +8550,7 @@
 {0}db,cf,jt+sa+jt+nspwykpifjnfjn.xkiyeuvdejquvdehdu 星野愛久愛海
 {0}db,cf,jjtnykpif.xkiyeuvde 星野愛
 {0}db,mr+hs+jkltklfi.xkebporfetso 性別认同
+{0}db,mr+wv+kl+ba+dsivftklfwjs.xkebpouieheouzuuue 性別適合手術
 {0}db,mr+lm+kl+rw+klykitklfwitjfez,kepofesohede 性別認同障碍
 {0}db,md+ta+sx+rrttkvsx.xkeffihxejiohre 性分化疾患
 {0}db,md+sttkv.xkeffihxe 性分化
@@ -8718,6 +8733,7 @@
 {0}dt+ndzlhy.hyihoo 婚活
 {0}dt+ta+skkiskc.diioiehve 低志会
 {0}dt+rkhik.diuoli 底妆
+{0}dt+hpxhy.hyiybi 婚姻
 {0}dt+hotkhy.hyiyti 婚約
 {0}dt+hixmsk.diiyze 低幼
 {0}dt+mvpysk.diicgo 低層
@@ -11091,6 +11107,7 @@
 {0}jm.ueejfdb.jpugze 解構
 {0}jm.udggkk.xtuqni 雪橇
 {0}jm.udkrfdb.jpuxii 解析
+{0}jm.hotkfdb.jpuyti 解約
 {0}jm.ma+djrfrkhi.ohehueoie 帳户制
 {0}jm.wmsxfdb.jpufhe 解放
 {0}jm.wlcjgfdb.jpuduo 解読
