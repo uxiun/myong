@@ -1094,6 +1094,7 @@
 {0}na+hk+na+oz+xk+ihitkniklkzhm.hjeyuuuvupkokcuuie 汉语水平考试
 {0}na+hfux.yzuhcu 友好
 {0}na+cilk.uvuyue 水域
+{0}na+cdgii.bkikke 氷塊
 {0}na+ms+sizllwsx.uvuzuogru 水族館
 {0}na+mk+yyc.uvuycerie 水曜日
 {0}na+zyo.uvuouu 水煮
@@ -2142,6 +2143,7 @@
 {0}rw+hhofdm.fhozdi 防災
 {0}rw+hi+rf,mznfxjuixu.svojiicyoquu 随機存取
 {0}rw+zbzlfez.ohehde 障害
+{0}rw+zevwfdm.fhohjo 防寒
 {0}rw+wrkfdm.fhooiu 防止
 {0}rw+weytfxj.svoyie 随意
 {0}rw+wedgfes.svedce 隧道
@@ -2151,6 +2153,7 @@
 {0}rw+skrxfxj.svobme 随便
 {0}rw+ly+zxyfezkki.ohevdeoeu 障碍者
 {0}rw+ebjgfxj.svooea 随着
+{0}rw+ev+ebjgfdmzw.fhohjooea 防寒着
 {0}rw+ium.woeilo 卧床
 {0}rw+drbfxj.svobiu 随筆
 {0}rw+dsubffdm.fhowwe 防衛
@@ -4419,6 +4422,7 @@
 {0}mj.kpivni.jmisri 肩酸
 {0}mj.kozie.bmupko 扁平
 {0}mj.keie.ugekdi 盛开
+{0}mj.jwjmi.jmibhu 肩膀
 {0}ma+pkcik.wjegoo 万国
 {0}ma+ykpcx.lielle 力量
 {0}ma+xm.juedae 巨大
@@ -5746,6 +5750,7 @@
 {0}om+zhuuk.dhevje 档案
 {0}om+wetsmx.quisve 駆遂
 {0}om+srrhdl.ucejpe 紹介
+{0}om+swcbk.dhuoue 挡住
 {0}om+sifthg.jienme 紀念
 {0}om+ejrfms.yieqmo 駅前
 {0}om+if+tk+ejvhgsti.jienmeuiedmu 紀念式典
@@ -6120,6 +6125,7 @@
 {0}oa+durfk.buelie 不利
 {0}oa+dujmtk.buewfu 不穏
 {0}oa+du+yjkwm.buetzemko 不透明
+{0}oa+dm+gkli.houigoyjo 火成岩
 {0}oa+dzllk.buegru 不管
 {0}oa+dzjsx.hvioie 灰质
 {0}oa+dskkfk.buexko 不行
@@ -7253,6 +7259,7 @@
 {0}lk+wlfxkmc.ugedje 聖誕
 {0}lk+ouwzwkl.yuulne 語料
 {0}lk+ojfuwkl.yuuxto 語学
+{0}lk+srsdke.yjoxqi 研修
 {0}lk+sdbkrx.ykejme 硬件
 {0}lk+skrpwoz.pkosie 評価
 {0}lk+sfxwkl.yuuqie 語気
@@ -7982,6 +7989,7 @@
 {0}iq+sifdqnt.luexme 漉餡
 {0}ip+rirrjrho.loosii 螺蛳
 {0}ip+wkzev.ddeuhe 戴上
+{0}ip+ebjgzev.ddeoea 戴着
 {0}iy+ba+ekpzshj.uioysexye 食用蕈
 {0}iy+nypnnh.lhemje 浪漫
 {0}iy+rfjgvnh.lhefwe 浪費
@@ -8222,6 +8230,7 @@
 {0}io+wlob.reedmu 热点
 {0}io+wloc.reedmu 熱点
 {0}io+wlkklw.uuoyuu 熟語
+{0}io+sxlw.uuooii 熟知
 {0}io+ssydc.reeuhi 熱傷
 {0}io+ezjrjc.reedde 熱帯
 {0}io+dutw.uuoxii 熟悉
@@ -10904,6 +10913,7 @@
 {0}jr+hodynef.qmoxme 前線
 {0}jr+zxyef.qmooeu 前者
 {0}jr+zkwsdf.oiedke 制定
+{0}jr+wudkrmf.uxixbi 刷新
 {0}jr+wscef.qmojbe 前進
 {0}jr+wskuef.qmotuo 前途
 {0}jr+wegkjef.qmodri 前端
@@ -11537,6 +11547,7 @@
 {0}ja+ey+ptxwt.yzuyiesii 有意思
 {0}ja+ey+na+nczxwt.yzuyieuvuoyu 有意水準
 {0}ja+exx.yzugri 有关
+{0}ja+eidms.nwezhi 内蔵
 {0}ja+ejkss.nwemgo 内蒙
 {0}ja+ieny.mkodue 明度
 {0}ja+iijy.mkolhu 明朗
