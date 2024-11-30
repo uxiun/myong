@@ -4083,6 +4083,7 @@
 {0}mm.hofygb.juejto 拒絶
 {0}mm.vn+rj+xiscjwex.tuibmeykixso 凸变英雄
 {0}mm.il+ua+terzfk.wfomkoyuouie 闻名于世
+{0}mm.kolb.juefzu 拒否
 {0}mm.fuikk.ujezia 扇子
 {0}mm.filrz.wfomko 闻名
 {0}mzt 恥
@@ -5486,6 +5487,7 @@
 {0}we+dn+eveubhzl.jpikeeyee 接客業
 {0}we+dlwezbh.jpicio 接辞
 {0}we+dkdfnbc.olehvu 撞毁
+{0}we+dfxbh.jpifgi 接风
 {0}we+kus.wweyuo 位于
 {0}we+kh+jm.wlcjgyylmfdb.vjehcejpuduo 暗号解読
 {0}we+kcsxb.laioie 拉致
@@ -5495,6 +5497,7 @@
 {0}we+kkoyy.vjeuie 暗示
 {0}we+kftbc.olesiu 撞死
 {0}we+fy+lm+sxlvgsswit.jkexlerfeoii 鏡像認知
+{0}we+fx+dc+ocbhdng.jpifgixiuifo 接风洗尘
 {0}we+fiwcg.jkewde 境外
 {0}we+fd+stwdhccn.laijiidde 垃圾袋
 {0}we+fjrkibh.jpiiue 接触
@@ -5588,6 +5591,7 @@
 {0}wj+plbx.ieehvo 撤回
 {0}wj+wyhbx.ieetve 撤退
 {0}wj+ecvnbx.ieelko 撤菱
+{0}wj+kpivnce.yjosri 盐酸
 {0}wj+jjnsm.bheuze 傍受
 {0}wa+bsck.xxetvi 下推
 {0}wa+ba+dqdko.xxebjeufi 下半身
@@ -5713,6 +5717,7 @@
 {0}oh+hojclhio.siiizo 絲綢
 {0}oh+oj+fs+lkdnlhiohcli.siiizooiilue 絲綢之路
 {0}oh+ffbshou.jieigo 継承
+{0}oc 尘
 {0}oc+puhl.jpogou 結果
 {0}oc+po+fufcf.gviyuozia 鮭魚子
 {0}oc+ughiohl.jpozai 結紮
@@ -6249,6 +6254,7 @@
 {0}sx+ws,iltxc.jiozzugju 疾走感
 {0}sx+ohsxu.mwouue 枚数
 {0}sx+ojfum.yiixto 医学
+{0}sx+slum.yiibcu 医保
 {0}sx+ecxm.yiimwu 医美
 {0}sx+eisum.yiiyce 医薬
 {0}sx+dbkm.yiiugi 医生
@@ -6560,6 +6566,7 @@
 {0}sl+ht+rrkjkiy.ziixyouii 咨询师
 {0}sl+ocg.qiuhou 起火
 {0}sl+ihtyk.ziixyo 咨询
+{0}sl+kpivnce.yjosri 塩酸
 {0}sl+klfsv.guugei 谷歌
 {0}sl+fscg.qiufwi 起飞
 {0}se 短
@@ -8111,6 +8118,7 @@
 {0}ih+nnn.poiuvu 泼水
 {0}ih+na+emrnn.poiuvujpo 泼水节
 {0}ih+rpgsy.iuudme 储电
+{0}ih+dbtddin.fwewue 废物
 {0}ih+dnpsy.iuubwe 储备
 {0}ic+wkk.oieuhe 至上
 {0}ic+odk.oieucu 至少
@@ -9600,6 +9608,7 @@
 {0}km+rpgzs.jxidme 家电
 {0}km+rr,mkpevmikr.yuuiriyie 羽川翼
 {0}km+rcwdhsr.xpeoli 卸装
+{0}km+rs+ih+dbtddfgfkkin.wwixmufwewue 危险废物
 {0}km+uyhrw.fwigfi 非根
 {0}km+ux+kw+jg+cx+uhiirwnzsddm.fwijtodkeziedsejii 非決定性有限自動機
 {0}km+uhiifg.wwijii 危機
@@ -9646,6 +9655,7 @@
 {0}km+ka+kkgrwk.fwivreyro 非二元
 {0}km+fx+us+dlkrjzsiczx.jxitkojneuii 家庭教師
 {0}km+frsksfg.wwixmu 危険
+{0}km+frskkfg.wwixmu 危险
 {0}km+fkknhg.jielue 纪录
 {0}km+fjgvrw.fwifue 非負
 {0}km+jg+xk+ohsxrwfvuwk.fwifueoguuue 非負整数
