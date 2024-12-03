@@ -1433,6 +1433,7 @@
 {0}xk+rrkrsle.drupme 短片
 {0}xk+rf,llixlzlxu.jiecyoqie 寄存器
 {0}xk+hozsysle.drusoi 短縮
+{0}xk+hi+ienojvss.lweuiedue 類似度
 {0}xk+cd+wlkklojvebi.lweyieyuu 類義語
 {0}xk+mlrfsle.drujue 短剧
 {0}xk+mdxnsle.drufae 短髪
@@ -2278,6 +2279,7 @@
 {0}rk+ggbw.pdoiui 排出
 {0}rk+gkkzflj.geovje 隔岸
 {0}rk+hi+kw+kcircffleiw.vaiziikaubji 阿茲卡班
+{0}rk+cl+wiszjj.yroozilve 円周率
 {0}rk+ca+ga+ygfflpy.vailiubaibai 阿里巴巴
 {0}rk+mdbgrr.pmewwu 片尾
 {0}rk+zhj.yrovji 円安
@@ -2355,6 +2357,7 @@
 {0}rk+fkmnswd.bueoze 步骤
 {0}rk+ffflj.geolea 隔了
 {0}rk+jxoli.svirjo 虽然
+{0}rk+jclj.yroozi 円周
 {0}rk+jvlgws.tcotoi 逃脱
 {0}rk+jv+sk+zkwsrrsfus.pmeceejmudke 片側検定
 {0}rk+js+kjujgfljwc.geoliouli 隔離霜
@@ -2964,8 +2967,6 @@
 {0}uf+kw+tdbkdmtzs.wfudkexke 稳定性
 {0}uf+kixmdif.yiodse 移动
 {0}uf+jxbdu.jiejyi 季军
-{0}uju+j 棗
-{1}uju+j 棘
 {0}ujk 査
 {0}uj+pdnld.ceelte 策略
 {0}uj+xnwgg.qbiyzu 親友
@@ -3710,6 +3711,7 @@
 {0}cu+skrpdi.dgusie 等価
 {0}cu+skls.jioheo 集合
 {0}cu+skkis.jiohve 集会
+{0}cu+lmrf 特別
 {0}cu+evjyi.uioqii 時期
 {0}cu+eskls.jioheo 集荷
 {0}cu+itkdi.dguuie 等式
@@ -4506,6 +4508,7 @@
 {0}zp+iojggdc.oseuie 重視
 {0}zp+iendc.osedue 重度
 {0}zp+dbkdc.oseugi 重生
+{0}zp+dupwz.lmofji 連番
 {0}zp+dcxmwz.lmodse 連動
 {0}zp+kphdc.oseyce 重要
 {0}zp+kyfudc.osehze 重厚
@@ -4626,6 +4629,7 @@
 {0}zz,fi+sk+kjpgnjnfxt.icoxiifaidme 潮汐発電
 {0}zz,fjmdbmpt.tkijpu 聴解
 {0}zvf 穹
+{0}zv+bmggbf.waijto 挖掘
 {0}zv+yjmit.csimko 聡明
 {0}zv+nrpiv.maoyzo 麻油
 {0}zv+xrjiv.maobue 麻布
@@ -5671,7 +5675,6 @@
 {0}on+dcxmmri.scidse 騒動
 {0}on+kuukhc.jkilie 経歴
 {0}on+kcpchc.jkiliu 経理
-{0}ox 尖
 {1}ox 数
 {0}oxr+j 幣
 {0}ox+prhochkl.qiuloo 綺羅
@@ -6766,6 +6769,7 @@
 {0}sk+ja+zxyfxty.faimkooeu 発明者
 {0}sf 例
 {0}sfi+f 侈
+{0}sf+ 夜
 {0}sf+bixmcmk.quiuie 趋势
 {0}sf+ywlowx.yeejku 夜景
 {0}sf+yfywx.yeejmi 夜間
@@ -7005,6 +7009,7 @@
 {0}lg+rcwdht.bcioli 包装
 {0}lg+ggwv.xruiui 選出
 {0}lg+ht+ta+ugtwvlp.xrumbosiixlu 選民思想
+{0}lg+ms+jznwvb.xruzeooii 選択肢
 {0}lg+zvslt.bcirso 包容
 {0}lg+zl+cp+llixltdlkc.bcigruliuqie 包管理器
 {0}lg+zl+kcpctdl.bcigruliu 包管理
@@ -8121,6 +8126,7 @@
 {0}it+sds.dderue 代入
 {0}it+skrps.ddesie 代価
 {0}it+il+wlmklsf.ddemkocio 代名詞
+{0}it+dskkfs.ddexko 代行
 {0}it+kh+pudsb.ddebnutro 代表团
 {0}it+kcpcs.ddeliu 代理
 {0}it+klfhks.ddemau 代码
@@ -8744,6 +8750,7 @@
 {0}dn+drjgvu.piooie 皮質
 {0}dn+dufopl.lteigi 略称
 {0}dn+kpmrs.fjumme 仮面
+{0}dn+kh+kkoulb.geobnuuie 格表示
 {0}dn+kciznu.bjuqqo 板球
 {0}dn+kw+nciszs.fjudkefau 仮定法
 {0}dn+kedddpw.tuoxko 图形
@@ -9891,6 +9898,8 @@
 {0}kl+sifisr.mkelke 命令
 {0}kl+skuzp.fueyuo 富余
 {0}kl+skkim.siihve 司会
+{0}kl+sj.tsorfo 同人
+{0}kl+sa+wlctj.tsorfooie 同人誌
 {0}kl+ey+zfujw.tsoybizie 同音字
 {0}kl+ecdbij.tsoyie 同義
 {0}kl+emrd.hzejpo 后节
@@ -10115,6 +10124,7 @@
 {0}kk.kixmwi.yyedse 运动
 {0}kk.kiceh.ufeoie 甚至
 {0}kk.frkljwg.yrugeo 远隔
+{0}kk.filjv.juemko 具名
 {0}kk.fdnwl.yjojio 言及
 {0}kk.ffzg.wjolea 完了
 {0}kk.fjbk.sjijnu 三角
@@ -10178,6 +10188,7 @@
 {0}kf+sprjxl.qiovzu 奇偶
 {0}kf+sr+bt,wlkklxlfkiddd.qiodjewueyuu 奇蛋物語
 {0}kf+scchyg.jtojxi 绝佳
+{0}kf+sdbdr.yzojme 郵件
 {0}kf+skrxdr.yzobme 郵便
 {0}kf+skcfb.daudce 打倒
 {0}kf+sklhsk.jkiheo 经合
@@ -11579,6 +11590,7 @@
 {0}ja+wljg.ytelle 月亮
 {0}ja+weytx.yzuyie 有意
 {0}ja+wdhs.nweyii 内衣
+{0}ja+wkkls.nweyjo 内言
 {0}ja+wa+dzekpk.wwexxeivo 胃下垂
 {0}ja+obmgs.nwejru 内卷
 {0}ja+ouwzx.yzulne 有料
