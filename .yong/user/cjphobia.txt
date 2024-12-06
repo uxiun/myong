@@ -893,6 +893,7 @@
 {0}ya+wx.riewfo 日文
 {0}ya+wr+jrkk.jqeogeyte 旧正月
 {0}ya+wz,xa+lk+sezmc.rielmodaeugerfo 日蓮大聖人
+{0}ya+wlct.rieoie 日誌
 {0}ya+wlmg.riejie 日記
 {0}ya+wlmkl.riecio 日詞
 {0}ya+wlkkl.rieyuu 日語
@@ -1016,7 +1017,6 @@
 {0}nl+dmdkrd.geesou 各所
 {0}nl+djgd.geezie 各自
 {0}neg+j 満
-{0}ni 戏
 {0}nim+x 涙
 {0}ni.bei.bcouzu 薄手
 {0}ni.ta+ouiceis.bcohxeoli 薄化粧
@@ -3582,6 +3582,7 @@
 {0}ha+skf.nvuqie 女气
 {0}ha+skjn.nvuyzi 女優
 {0}ha+iifr.nvulho 女郎
+{0}ha+dbk.nvuugi 女生
 {0}ha+db,dm+bkhiotknx.nvuxkejiisue 女性激素
 {0}ha+dsgoxz.vjihvi 安徽
 {0}ha+dfkri.nvufgi 女風
@@ -3790,6 +3791,7 @@
 {0}co+zfup.hwizie 黒字
 {0}co+vd+ncipigi.hwimoofau 黑魔法
 {0}co+vd+ci+rw+ss,iupiginfdmdkr.hwimoofaufhoyueuue 黑魔法防御术
+{0}co+va+ymkcp.hwijbiyce 黒金曜
 {0}co+wt+mxtwkplj.hwizvuvzi 黑嘴鸥
 {0}co+wlos.jnidmu 焦点
 {0}co+ollus.jnizce 焦燥
@@ -4674,6 +4676,7 @@
 {0}zs,hoclzkj.lyojpo 輪結
 {0}zs,wufrzkj.lyogoi 輪郭
 {0}zs,wmsfszwz.woexro 斡旋
+{0}zs,wleejzkj.lyojlu 輪講
 {0}zs,wexzkf.uuisse 輸送
 {0}zs,olluzf.qmozce 乾燥
 {0}zs,szlxfx.gjuzoe 敢做
@@ -5447,7 +5450,6 @@
 {0}ww,dskkfddf.hhoxko 航行
 {0}ww,kxddf.hhotmi 航天
 {0}wo 点
-{0}wsr+f 劇
 {0}ws,bzrssx.mbujpo 敏捷
 {0}ws,tlfifl.zuogze 足够
 {0}ws,ta+skfnxs.yeehxeqie 液化气
@@ -5554,10 +5556,12 @@
 {0}wi+ggng.lqoiui 流出
 {0}wi+hk+zxypikl.muuyuuoeu 母语者
 {0}wi+cu+puips.muujiotro 母集団
+{0}wi+cing.lqoque 流去
 {0}wi+cilkng.lqoyue 流域
 {0}wi+znbvg.isejii 銃撃
 {0}wi+wujggp.muuqbi 母親
 {0}wi+wgxjng.lqolio 流离
+{0}wi+wmsxng.lqofhe 流放
 {0}wi+weyp.muuybi 母音
 {0}wi+wdmp.muufhi 母方
 {0}wi+wfijng.lqotsi 流通
@@ -6664,8 +6668,6 @@
 {0}sd+dskkffes.fwixko 飛行
 {0}sd+kcprhdzg.xyohro 循環
 {0}sd+kckodzg.xyohro 循环
-{1}sk 仝
-{2}sk 仜
 {0}skc 全
 {0}skl 合
 {0}skk.i 伝
@@ -7386,6 +7388,7 @@
 {0}lf+jjnwu.xluuze 享受
 {1}ljs 싐
 {0}lj+pwl.gcitmo 高田
+{0}lj+pa+fu+ia+fuwldf.gcitmoliovvazia 高田梨々子
 {0}lj+ydhrwl.gcivho 高昂
 {0}lj+nyjewl.gciwfi 高温
 {0}lj+nzzjwl.gciico 高潮
@@ -8649,6 +8652,7 @@
 {0}db,zn+djltkm.xkequuxle 性取向
 {0}db,zvkyk.xkiksi 星空
 {0}db,vlfstk.xkeyue 性欲
+{0}db,vj+kukyke.xkiqiiwuu 星期五
 {0}db,wvxtk.xkejni 性交
 {0}db,obbxkj.cdiqro 猜拳
 {0}db,sitws.dpodde 迭代
@@ -8770,6 +8774,7 @@
 {0}dn+wkow.fjuhdo 返还
 {0}dn+scjggzl.keegri 客観
 {0}dn+szl.keerfo 客人
+{0}dn+szjkgz.fgioio 峰值
 {0}dn+skkigz.fgihve 峰会
 {0}dn+sfyspw.tuoxle 图像
 {0}dn+sjsu.piorze 皮肉
@@ -9007,6 +9012,7 @@
 {0}dm+weenx.jiijbe 激进
 {0}dm+wei.igolie 成立
 {0}dm+wioi.igouuo 成熟
+{0}dm+wkklw.fhiyjo 方言
 {0}dm+okgnx.jiigli 激光
 {0}dm+sxg.fjerfo 犯人
 {0}dm+stdru.fuihxe 孵化
@@ -9172,6 +9178,7 @@
 {0}dk+uj+jg+hhhwrwggu.jbeqbixlijmi 近親相姦
 {0}dk+ggwjv.pboiui 頻出
 {0}dk+ggwjs.pboiui 频出
+{0}dk+hv+hz+jwmklrilgifx.tkiuoiduoxpu 听说读写
 {0}dk+hodynbr.oeoxme 折線
 {0}dk+hd+iuiws.xuihdeilo 戌亥床
 {0}dk+meebr.oeopko 折屏
@@ -11392,6 +11399,7 @@
 {0}je+va+udndf.xtexnubju 血小板
 {0}je+wlozz.njojki 南京
 {0}je+wdmzz.njofhi 南方
+{0}je+ouirld.xtetho 血糖
 {0}je+oscd.xteqte 血雀
 {0}je+sp+sp+uepyzznwnw.njohduhducco 南海海槽
 {0}je+sk+xkwkduc.xteurioge 血栓症
