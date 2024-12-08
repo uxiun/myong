@@ -411,12 +411,14 @@
 {0}px+esto.yjihxi 烟花
 {0}pt+hkkj.sdihso 腮红
 {0}prw 罪
+{0}pr+ygyn.mjebai 曼巴
 {0}pr+ya+wlmgef.mgeriejie 夢日記
 {0}pr+nscwj.yuenjo 遇难
 {0}pr+xblmzwf.loojio 逻辑
 {0}pr+ref.mgeosi 夢中
 {0}pr+ugtef.mgexlu 夢想
 {0}pr+ua+rk+zptnzus.zeomuetcohve 澤木桃恵
+{0}pr+ga+riztyny.mjebaiueo 曼巴蛇
 {0}pr+cf,ia+ifsnzpiff.zeoyeuhsooii 澤野弘之
 {0}pr+zkji.jtouie 爵士
 {0}pr+wrkvr.ufiyio 申遺
@@ -3791,6 +3793,7 @@
 {0}co+bkhiop.hwisue 黒素
 {0}co+yg+lx+wlttypfwo.hwiseehvixpo 黒色詼諧
 {0}co+yweyp.hwivje 黑暗
+{0}co+yw+eb,nirrpdgn.hwidcuyhoozi 黒島洋洲
 {0}co+nmsp.hwizeo 黒沢
 {0}co+njklp.hwidse 黒洞
 {0}co+rr,ekvppr.hwiiriqme 黒川茜
@@ -4159,6 +4162,7 @@
 {0}mz+wwvjyn.zveuie 最適
 {0}mz+wljlyn.zvegci 最高
 {0}mz+wdkryn.zvejbe 最近
+{0}mz+odyn.zveucu 最少
 {0}mz+od+plynhnw.zveosihvo 最終回
 {0}mz+od+wldzlynhnw.zveosihxe 最終話
 {0}mz+od+weyzynhnw.zveosiohi 最終章
@@ -4470,6 +4474,7 @@
 {0}ma+pkcik.wjegoo 万国
 {0}ma+ykpcx.lielle 力量
 {0}ma+xm.juedae 巨大
+{0}ma+risynm.juefue 巨蝮
 {0}ma+rd+evdkrwsd.luoxqisii 卢修斯
 {0}ma+hmbrw.luonae 卢娜
 {0}ma+howjjk.huedie 戸締
@@ -8712,6 +8717,7 @@
 {0}dp+zuid.lqouzu 留守
 {0}dp+ojfud.lqoxto 留学
 {0}dp+sbd.lqonmo 留年
+{0}dp+skfjz.pioqie 脾气
 {0}dp+ecxd.lqomwu 留美
 {0}dp+kwd.lqoxxe 留下
 {0}dy+bb.pdiuzu 拍手
@@ -10813,6 +10819,7 @@
 {0}fi+dskkfwj.tsixko 通行
 {0}fi+ddpkz.cjolqo 残留
 {0}fi+dfkridl.tdofgi 颱風
+{0}fi+ksxb.origsi 专攻
 {0}fi+ffwj.tsilea 通了
 {0}fi+jbb.oriyse 专用
 {0}fi+jbwj.tsiyse 通用
@@ -11615,6 +11622,7 @@
 {0}jj.jj.uvfdnjnj.hxohxotii 滑滑梯
 {0}ja+bm+ml+xkkoxmox.yzumaujxinde 有馬加奈
 {0}ja+bdzqs.nweiai 内插
+{0}ja+bkpwix.yzuduo 有毒
 {0}ja+pxs.nweybi 内因
 {0}ja+psrrx.yzujpe 有界
 {0}ja+yy.mkorie 明日
@@ -11703,6 +11711,7 @@
 {0}ja+df+xjxnn.yzumwoyzu 有没有
 {0}ja+djlx.yzuxle 有向
 {0}ja+kpmr.ytemme 月面
+{0}ja+kp+bk+dbtddxbwid.yzuduougiwue 有毒生物
 {0}ja+kxy.mkotmi 明天
 {0}ja+kuuk.ytelie 月歴
 {0}ja+kcpcx.yzuliu 有理
