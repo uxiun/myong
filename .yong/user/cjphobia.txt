@@ -3,6 +3,7 @@
 {0}bb,xbxfxfi.orugvu 转轨
 {0}bb,xa+fu+dsuixfiiz.oruyieziefuo 转义字符
 {0}bb,ua+fhmkxfi.orumuemau 转木马
+{0}bb,wxxfi.oruwfo 转文
 {0}bb,wvnxfi.orubme 转变
 {0}bb,wkkixfi.oruyye 转运
 {0}bb,stizxfi.oruqmo 转钱
@@ -1503,6 +1504,7 @@
 {0}xf+stepbm.pcimco 抛锚
 {0}xf+shistis.yiouie 疑似
 {0}xf+sifttis.yionme 疑念
+{0}xf+ecxms.vzimwu 欧美
 {0}xf+ev+dn+cuxmsku.vziyaebjukke 欧亚板块
 {0}xf+itkms.vziuie 欧式
 {0}xf+irirms.vziozi 欧州
@@ -1614,6 +1616,7 @@
 {0}xa+oa+kcrfwk.daobuedce 达不到
 {0}xa+sxk.daezou 大佐
 {0}xa+sx+ca+ecdbivucw.fueqroouuyie 父権主義
+{0}xa+st 文化
 {0}xa+stwdh.daedde 大袋
 {0}xa+stw.wfohxe 文化
 {0}xa+stfxbe.grijme 关键
@@ -2019,6 +2022,7 @@
 {0}rp+wudkrkx.ggexbi 更新
 {0}rp+wlgvb.izixru 抽選
 {0}rp+wdkrkx.ggejbe 更近
+{0}rp+wkwb.izikau 抽卡
 {0}rp+sbkx.ggenmo 更年
 {0}rp+sukev.hlotiu 黄体
 {0}rp+skkii.mnehve 庙会
@@ -2291,6 +2295,7 @@
 {0}rk+ud+prfifflnn.vaiboiloo 阿波罗
 {0}rk+ggbw.pdoiui 排出
 {0}rk+gkkzflj.geovje 隔岸
+{0}rk+hofygflj.geojto 隔絶
 {0}rk+hi+kw+kcircffleiw.vaiziikaubji 阿茲卡班
 {0}rk+cwdmzn.qbufhi 寝坊
 {0}rk+cl+wiszjj.yroozilve 円周率
@@ -3338,9 +3343,6 @@
 {0}hu.sjz.vjenwe 案内
 {0}hu.kixii.tcuyje 讨厌
 {0}hu.frsd.leedve 乐队
-{0}hu+sdbz.vjejme 案件
-{0}hu+ihstii.tculye 讨论
-{0}hu+frsd.leedve 乐队
 {0}hhh 姦
 {0}hh.plwh.xyohvo 巡回
 {0}hh.rixcclk.siikvo 咝蝰
@@ -4507,6 +4509,7 @@
 {0}zp+xdc.osedae 重大
 {0}zp+xkwkdc.oseoge 重症
 {0}zp+xa+wrjdci.oseqkeuie 重庆市
+{0}zp+tdc.osexbi 重心
 {0}zp+rr,ojfujzzf.jyiuiexto 軍事学
 {0}zp+rsyndc.osefue 重複
 {0}zp+utidc.osegze 重构
@@ -4989,6 +4992,7 @@
 {0}vc+pxe.jiiybi 基因
 {0}vc+yfzlg.zcemfo 竈門
 {0}vc+ncze.jiioyu 基準
+{0}vc+nj+zusxewg.jiiduijne 基督教
 {0}vc+xbizje.jiifuu 基辅
 {0}vc+xa+hkjkep.jiiybizuu 基因组
 {0}vc+uke.jiibfu 基本
@@ -4996,6 +5000,7 @@
 {0}vc+cz+kfcen.jiioyuxko 基準型
 {0}vc+ve.jiijbi 基金
 {0}vc+va+skkie.jiijbihve 基金会
+{0}vc+wnjge.jiidui 基督
 {0}vc+wloe.jiidmu 基点
 {0}vc+wljcle.jiidne 基調
 {0}vc+swsxcrv.heembu 赫敏
@@ -5286,8 +5291,6 @@
 {0}wy+weebz.dnejbe 掉进
 {0}wy+sifttz.dcenme 悼念
 {0}wy+sjsjh.tvurze 腿肉
-{1}wx 达
-{2}wx 头
 {0}wx+bkhp.tuobnu 図表
 {0}wx+pcw.oeeliu 这里
 {0}wx+yuiz.uiouio 实时
@@ -5928,7 +5931,6 @@
 {0}oi+ykwswxg.jqeuie 就是
 {0}oi+ndzlwxg.jqehoo 就活
 {0}oi+nkflmvn.jyeheo 駿河
-{-}oi+ul+lk+vx+zkichmjdkckezf.bmiigoyjojqiuie 編程研究室
 {0}oi+ul+kk.wlkklhmjddcwl.bmiigoyjoyuu 編程言語
 {0}oi+hs+szjkpxi.moerfeoio 默认值
 {0}oi+mdxnhmj.bmifae 編髪
@@ -6648,9 +6650,10 @@
 {0}se+dr+tdbkdwsmj.csouuuxke 従属性
 {0}se+dr+vd+ohsxdwsmjwn.csouuubmeuue 従属変数
 {0}se+fubo.fuuzia 撫子
-{0}si 会
+{1}si 会
 {2}si 伐
-{0}six 仪
+{0}six 伏
+{1}six 仪
 {0}si+pcfifch.yteyeu 越野
 {0}si+xmlch.ytejxi 越加
 {0}si+tuxch.ytekke 越快
@@ -6875,6 +6878,7 @@
 {0}sa+ht+ks+isuilkx.rfomboogefuu 人民政府
 {0}sa+hlf.qmeruo 欠如
 {0}sa+hi+eo+zbzlwps.rfoiuewuohde 人畜無害
+{0}sa+hdx.rfoyci 人妖
 {0}sa+cyd.rfougi 人声
 {0}sa+cx+fufe.jqumwuzia 久美子
 {0}sa+mleb.rfoqyo 人群
@@ -7102,6 +7106,7 @@
 {0}lm+lkhmwg.jiehce 記号
 {0}lm+exlsn.jxuroe 假若
 {0}lm+evjsn.jxuqii 假期
+{0}lm+dynwkl.cioqro 詞泉
 {0}lm+jklwit.rfetso 認同
 {0}lz+ykpcw.jielle 計量
 {0}lz+rkrfw.jiehxe 計劃
@@ -7949,6 +7954,7 @@
 {0}ed,ht+vfknsjw.bwewhelue 備忘録
 {0}ed,cixmkdd.xkouie 形勢
 {0}ed,msxtc.dsuyii 懂医
+{0}ed,zusxwg.dcejne 道教
 {0}ed,zvslkdd.xkorso 形容
 {0}ed,zijicdd.pgoboo 彭博
 {0}ed,vs+wlmklkddzl.xkorsocio 形容詞
@@ -8083,6 +8089,7 @@
 {0}ea+jg+jv+nrorudnu.ldozieufiyri 来自深渊
 {0}ea+jke.bkeqpu 并且
 {0}i 我
+{2}i ㄹ
 {0}iq+th+sifdqntwio.lueziuxme 漉紫餡
 {0}iq+sifdqnt.luexme 漉餡
 {0}ip+rirrjrho.loosii 螺蛳
@@ -8134,6 +8141,7 @@
 {0}ix+ce+zxysoel.wwuujeoeu 偽善者
 {0}ix+zxyso.wwuoeu 偽者
 {0}ix+zitsg.yzihve 优惠
+{0}ix+zfus.fuozie 伏字
 {0}ix+wlosg.yzidmu 优点
 {0}ix+od+la+hrnshynp.fuoxmehvouzi 伏線回収
 {0}ix+okjstg.yzifjo 忧烦
@@ -8151,6 +8159,7 @@
 {0}ix+ijttkm.dsengo 动能
 {0}ix+duschm.yzeoie 幼稚
 {0}ix+dufdmsg.yzixqe 优秀
+{0}ix+dh+ixbsgw.yziyiikue 优衣库
 {0}ix+dcdgsg.yzixmi 优先
 {0}ix+dzjssg.yzioie 优质
 {0}ix+kusg.yziyuo 优于
@@ -8609,6 +8618,7 @@
 {0}ia+cixmc.queuie 去勢
 {0}ia+mehb.koeoju 扩展
 {0}ia+mklv.gsisii 公司
+{0}ia+zusxs.foojne 仏教
 {0}ia+zvkx.tdeksi 太空
 {0}ia+zfux.tdezie 太字
 {0}ia+vt+txk.tdeveexbi 太恶心
@@ -9178,6 +9188,7 @@
 {0}dd,ctuwbk.ijudie 産地
 {0}dd,ml+kcizndfuwz.doubieqqo 躲避球
 {0}dd,ve+vwzzwbkeu.ijuyeelme 産業鏈
+{0}dd,wrklnh.pdeqmu 派遣
 {0}dd,wmlzdfu.doubie 躲避
 {0}dd,lllwbk.ijupbu 産品
 {0}dd,eveuwbk.ijuyee 産業
@@ -9787,6 +9798,7 @@
 {0}kz+mzwiynm.wuioio 汚職
 {0}kz+wmsxhsy.soifhe 缩放
 {0}kz+wkkghtg.rceyru 绕远
+{0}kz+wkklnm.wuiyjo 汚言
 {0}kz+sklhko.zsiheo 综合
 {0}kz+efhko.zsiyie 综艺
 {0}kz+iojdgwn.qiouie 歧视
@@ -11455,12 +11467,14 @@
 {0}jd+poixng.ifomoe 沉默
 {0}jd+ncing.grifau 观法
 {0}jd+nmknng.ifojbe 沉浸
+{0}jd+rikkqg.niohso 霓虹
 {0}jd+udnrfi.fjibju 帆板
 {0}jd+mk+itkngnn.ifojbeuie 沉浸式
 {0}jd+wlong.gridmu 观点
 {0}jd+wkcg.mdeuhe 売上
 {0}jd+sssng.griose 观众
 {0}jd+siyhjg.mieuio 觅食
+{0}jd+ik.okfkqgr.niohsodgi 霓虹灯
 {0}jk 且
 {0}jkm+s 豚
 {0}jkz 읖
