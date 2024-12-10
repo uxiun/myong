@@ -351,6 +351,7 @@
 {0}ba+stwxb.uzulme 手链
 {0}ba+sits.nmodde 年代
 {0}ba+sdbj.ysejme 用件
+{0}ba+sfud.nqozdu 牛仔
 {0}ba+sjsd.nqorze 牛肉
 {0}ba+lws.uzuzuo 手足
 {0}ba+en+lmrfsi.nmoduebpo 年度別
@@ -371,6 +372,7 @@
 {0}ba+kuj.yseyuo 用于
 {0}ba+kcizn.uzuqqo 手球
 {0}ba+ka+dzpcok.bjevreose 半二重
+{0}ba+fu+rixbds.nqozdukue 牛仔裤
 {0}ba+fjco.bjejnu 半角
 {0}ba+fjce.yhojnu 羊角
 {0}ba+jugd.nqoruu 牛乳
@@ -480,6 +482,7 @@
 {0}ph+dbjgk.ycekje 要看
 {0}ph+dik.ycemea 要么
 {0}ph+kh+ohsxkbio.ycesueuue 要素数
+{0}ph+kh+js+ojjdgkbiozo.ycesueiaojto 要素察觉
 {0}ph+kok.ycebue 要不
 {0}ph+kkjvk.ycexle 要項
 {0}ph+fwxk.ycemdu 要买
@@ -1206,6 +1209,7 @@
 {0}xx,puwm.xnegou 効果
 {0}xx,xnj.whuyzu 网友
 {0}xx,xmwm.xnelie 効力
+{0}xx,ua+ykpcwmp.xnegoulle 効果量
 {0}xx,ua+weywmp.xnegouybi 効果音
 {0}xx,hkdnlj.whuloe 网络
 {0}xx,hkkj.whuhso 网红
@@ -2599,6 +2603,7 @@
 {0}ux+dhut.kkelee 快乐
 {0}ux+kw+tdbknzs.jtodkexke 決定性
 {0}ux+kw+db,jg+cx+uhiinzstkddm.jtodkexkeziedsejii 決定性有限自動機
+{0}ux+kw+dh+ohsxnzsso.jtodkexieuue 決定係数
 {0}ux+kfco.lwexko 类型
 {0}ux+fc,of+oi+dulkcokhdnhmj.lwexkojiobmiigo 类型級編程
 {0}ux+fc,sk+ujkokus.lwexkojmuoai 类型検査
@@ -3094,6 +3099,7 @@
 {0}gp+ra+kgpk.hxeosihxe 画中画
 {0}gp+ggk.hxeiui 画出
 {0}gp+sfysk.hxexle 画像
+{0}gp+drjgvk.hxeoie 画質
 {0}gp+do+lfdndkrlu.biohuixii 鼻呼吸
 {0}gp+dsuik.hxefuo 画符
 {0}gp+dfxk.hxefgi 画风
@@ -4414,6 +4420,7 @@
 {0}mk+nnn.jbeuvu 浸水
 {0}mk+nrptnj.lzexpe 漏洩
 {0}mk+nspwee.ljohdu 藍海
+{0}mk+njklnj.lzedse 漏洞
 {0}mk+xrjjd.jnibue 膠布
 {0}mk+xsxx.ntejio 疟疾
 {0}mk+xluuc.klijxe 框架
@@ -4535,6 +4542,7 @@
 {0}zp+stdc.osehxe 重化
 {0}zp+sdcwz.lmorfe 連任
 {0}zp+sjz.jyirfo 軍人
+{0}zp+la+rrmkjdcp.osehvogvi 重回帰
 {0}zp+ebjgdc.oseoea 重着
 {0}zp+ey+su+lkhmdcwdi.oseybifuohce 重音符号
 {0}zp+en+ba+imdcij.osedueysehue 重度用户
@@ -7021,6 +7029,7 @@
 {0}lu+bims.bcuhue 保护
 {0}lu+yjkns.bcunru 保暖
 {0}lu+nyevs.bcuuii 保湿
+{0}lu+njklkdn.poedse 破洞
 {0}lu+xrfus.bcucyo 保存
 {0}lu+xa+ewhgkdnk.poetmihli 破天荒
 {0}lu+rs+mkicsfks.bcuxmuwui 保険屋
@@ -7531,6 +7540,7 @@
 {0}la+rrrk.uioiri 石川
 {0}la+rrmkjp.hvogvi 回帰
 {0}la+rrkrk.uiopme 石片
+{0}la+rm+md+udkrprkjv.hvogviffixii 回帰分析
 {0}la+ur+bxdf.yzelieuzu 右利手
 {0}la+ugtp.hvoxlu 回想
 {0}la+uep.hvoldo 回来
@@ -7656,6 +7666,7 @@
 {0}ey+zu+ebjgwtl.yiewweoea 意味着
 {0}ey+zjhioux.moosou 模索
 {0}ey+wmstub.coeuii 措施
+{0}ey+wlcjgw.ybiduo 音読
 {0}ey+wlmswt.yieyie 意訳
 {0}ey+wlmsw.ybiyie 音訳
 {0}ey+wlwiywt.yieuio 意識
@@ -8852,6 +8863,7 @@
 {0}dx,wdkjvd.xneyjo 笑顔
 {0}dx,ot+rcybhk.qieytiuui 契約書
 {0}dx,oubkjh.ycijki 妖精
+{0}dx,stom.lpehxe 劣化
 {0}dx,ecdbixe.xxoyie 狭義
 {0}dx,dbmjmn.faegui 髪箍
 {0}dx,drjgvmn.faeoie 髪質
@@ -8869,6 +8881,7 @@
 {0}dt+ndzlhy.hyihoo 婚活
 {0}dt+ta+skkiskc.diioiehve 低志会
 {0}dt+rkhik.diuoli 底妆
+{0}dt+gp+drjgvskk.diihxeoie 低画質
 {0}dt+hpxhy.hyiybi 婚姻
 {0}dt+hotkhy.hyiyti 婚約
 {0}dt+hixmsk.diiyze 低幼
@@ -9392,6 +9405,7 @@
 {0}kp+cz+ga+xmuong.bnioyuiuilie 標準出力
 {0}kp+cz+stuon.bnioyuhxe 標準化
 {0}kp+cz+ll.ebkuonwkx.bnioyuwueiae 標準誤差
+{0}kp+cz+im+rm+dh+ohsxuonsjrkjso.bnioyupmigvixieuue 標準偏回帰係数
 {0}kp+cz+im+ebkuonsj.bnioyupmiiae 標準偏差
 {0}kp+msk.jliuii 僵尸
 {0}kp+wlmguo.bnijie 標記
@@ -11247,6 +11261,7 @@
 {0}jg+kk.wlkkldwl.zieyjoyuu 自言語
 {0}jg+ka+jr+kwdwkr.zieuhevroxxe 自上而下
 {0}jg+fskxtd.ziefai 自発
+{0}jg+fe+dh+ohsxuyxso.xligrixieuue 相関係数
 {0}jg+jxod.zierjo 自然
 {0}jg+ji+zxykvzx.gsexmeoeu 貢献者
 {0}jg+jklu.xlitso 相同
