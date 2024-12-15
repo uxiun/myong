@@ -1163,12 +1163,14 @@
 {0}na+koz.uvupko 水平
 {0}na+kf+evjinl.bkiheoqii 氷河期
 {0}na+kjrrd.fjuvro 反而
+{0}na+kjmki.bkixtu 氷雪
 {0}na+fyg.uvusee 水色
 {0}na+fryhu.qroxme 权限
 {0}na+fu+suknz.hjezietiu 汉字体
 {0}na+fhrksd.fjukve 反馈
 {0}na+ff,pc+kpjklnsskdez.uliqkigcitso 双氢睾酮
 {0}na+jxx.uvuwhu 水网
+{0}na+jm.jz+dcxmikkwz.bkixtuyyedse 氷雪運動
 {0}na+jvrfd.fjuzeo 反則
 {0}na+jl+wz,bwehddvz.fjuxlelmejpi 反向鏈接
 {0}x 大
@@ -2083,6 +2085,7 @@
 {0}rr,nirrkk.yaeozi 亜洲
 {0}rr,nddhbj.bhipde 帮派
 {0}rr,tbkjzf.uieqko 事情
+{0}rr,gxklr.iriqio 川崎
 {0}rr,gsf.fuouji 佛山
 {0}rr,hkmdls.jpeuce 介绍
 {0}rr,zbxzf.uieuio 事実
@@ -2264,11 +2267,13 @@
 {0}rd+ba+wmsevfnbo.jlebjeqio 降半旗
 {0}rd+nfnb.jleuvu 降水
 {0}rd+rrrvfnb.jleuye 降順
+{0}rd+rs+jc+yfyfnbmllwl.jlelboozijmi 降臨週間
 {0}rd+usxcrn.bjuqro 版権
 {0}rd+udnlfnb.jlegeo 降格
 {0}rd+ukrn.bjubfu 版本
 {0}rd+hsd.xqinvu 修女
 {0}rd+ha+ld+kj+kdscsdzgep.xqinvukeelwuyau 修女克蕾雅
+{0}rd+mrsllfnb.jlelbo 降臨
 {0}rd+mgsxsd.xqigdu 修改
 {0}rd+sisrjsd.xqiuie 修飾
 {0}rd+sdtkfnb.jledii 降低
@@ -2469,6 +2474,7 @@
 {0}rj+jvdnw.uiefje 市販
 {0}ra+br,hkizxp.osiozoxme 中轴线
 {0}ra+bkpwi.osiduo 中毒
+{0}ra+pdnl.osilte 中略
 {0}ra+pkci.osigoo 中国
 {0}ra+ymzn.osizve 中最
 {0}ra+yzxy.osiuuu 中暑
@@ -3879,6 +3885,7 @@
 {0}ce+oziel.ujeoje 善戦
 {0}ce+scjggwb.daogri 達観
 {0}ce+swb.daorfo 達人
+{0}ce+ivklwb.daomoo 達磨
 {0}ce+idmwb.daoigo 達成
 {0}ce+dm+wiszwbi.daoigolve 達成率
 {0}ce+dskkfel.ujexko 善行
@@ -4632,6 +4639,7 @@
 {0}zx+filey.ouemko 著名
 {0}zx+fi+lllxysf.ueiiiupbu 奢侈品
 {0}ztj+f 寧
+{0}zt+na+zpzngi.jnibkiiei 浇氷車
 {0}zt+uejsuf.nkomgo 檸檬
 {0}zt+hfuly.uiehcu 嗜好
 {0}zt+ej+nzufus.nkomgooii 檸檬汁
@@ -7465,6 +7473,7 @@
 {0}lj+nwvjn.jridii 涓滴
 {0}lj+na+kozwl.gciuvupko 高水平
 {0}lj+xrjwcl.dnebue 調布
+{0}lj+xluwl.gcijxe 高架
 {0}lj+rs+ml+szjkwlfuix.gcifuejxioio 高附加值
 {0}lj+riteuz.huodpo 胡蝶
 {0}lj+rk+ua+uezusz.huotcowweldo 胡桃未来
@@ -7656,6 +7665,8 @@
 {0}ep+pa+ja+nilwcy.tsotmomkooie 童田明治
 {0}ep+yk+epuiwgj.lsodjuzyi 竜胆尊
 {0}ep+txfiswy.zciyio 遭疑
+{0}ep+ggb.mnoiui 描出
+{0}ep+ga+uyfpbg.mnoiuiljo 描出欄
 {0}ep+ztdgnh.nsomie 濃密
 {0}ep+zuiwi.zyiuzu 遵守
 {0}ep+wxuy.ccotzo 槽头
@@ -8481,6 +8492,7 @@
 {0}ie+kclmnwo.oeixxo 遮瑕
 {0}ii 広
 {0}ii.xb.koedae 拡大
+{0}ii.riklprmj.bmifuo 蝙蝠
 {0}ii.hozsyb.koesoi 拡縮
 {0}ii.mk+hi+ijttbfhui.koeohijiingo 拡張機能
 {0}ii.mk+cj+zbxbfhkgg.koeohixmeuio 拡張現実
@@ -9313,6 +9325,7 @@
 {0}df+xdsfxxfo.miohzo 猕猴
 {0}df+xjnn.mwoyzu 没有
 {0}df+tbkjxn.yieqko 疫情
+{0}df+tlj.rsujue 冗句
 {0}df+rpgu.jiidme 机电
 {0}df+rudnnn.mwobwe 没被
 {0}df+ga+uenng.mwoiuildo 没出来
@@ -11349,6 +11362,7 @@
 {0}jm.udggkk.xtuqni 雪橇
 {0}jm.udkrfdb.jpuxii 解析
 {0}jm.hotkfdb.jpuyti 解約
+{0}jm.ce+ivklkkwb.xtudaomoo 雪達磨
 {0}jm.ma+djrfrkhi.ohehueoie 帳户制
 {0}jm.wmsxfdb.jpufhe 解放
 {0}jm.wlcjgfdb.jpuduo 解読
@@ -11532,6 +11546,7 @@
 {0}jix 욲
 {0}jic 욶
 {0}ji+ejvzx.xmedmu 献典
+{0}jdf 冗
 {0}jdf+ 冗
 {0}jd+bxycg.mdeiyi 売春
 {0}jd+poixng.ifomoe 沉默
@@ -11713,6 +11728,7 @@
 {0}ja+psrrx.yzujpe 有界
 {0}ja+yy.mkorie 明日
 {0}ja+yuix.yzuuio 有时
+{0}ja+yudry.mkoxii 明晰
 {0}ja+ymkc.yteyce 月曜
 {0}ja+yevy.mkoxmu 明显
 {0}ja+ydbky.mkoxki 明星
@@ -11739,6 +11755,7 @@
 {0}ja+uwhss.nweheo 内核
 {0}ja+ui+ba+dgiznu.ytecyiuzuqqo 月村手毬
 {0}ja+ui+zv+rjxxuiv.yzucyimaoyhi 有村麻央
+{0}ja+ud+eprfyyr.mkoxiimge 明晰夢
 {0}ja+hopy.mkoxie 明細
 {0}ja+hi+ta+kl+dbtddxuiss.yzujiihxeheowue 有機化合物
 {0}ja+hkizx.yzuxme 有线
