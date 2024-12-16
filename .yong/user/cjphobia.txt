@@ -26,6 +26,7 @@
 {0}bx,rj+wkzfso.uiojieuhe 実際上
 {0}bx,uk+fe+zp+pwxzsyxwz.uiotiugrilmotuo 実体関連図
 {0}bx,hobkvz.uiojii 実績
+{0}bx,cw+nwxrzrdh.uioolijie 実装済
 {0}bx,mosksz.uioyje 実験
 {0}bx,mkdyz.uioxio 実習
 {0}bx,zkmsz.uiojxi 実家
@@ -552,6 +553,7 @@
 {0}pz+sweo.djiwwe 単位
 {0}pz+ssl.geerfo 個人
 {0}pz+sa+bk+czmrnsltj.geerfoqkobce 個人情報
+{0}pz+sa+up+lkhmsld.geerfofjihce 個人番号
 {0}pz+sa+oi+lkhmslhmj.geerfobmihce 個人編号
 {0}pz+sa+sj+ouwzslkgv.geerfoziilne 個人資料
 {0}pz+lmrfsl.geebpo 個別
@@ -677,6 +679,7 @@
 {0}yt+ntgnt.hyedye 混沌
 {0}yt+xx,kciznutj.gyewhuqqo 棍网球
 {0}yt+xuscnt.hyezao 混雑
+{0}yt+xa+lmrfdim.deaquibpo 的区别
 {0}yt+udxrewk.qteqno 鹊桥
 {0}yt+cydnt.hyeugi 混声
 {0}yt+cidmeh.geoigo 葛城
@@ -951,6 +954,7 @@
 {0}nxi 汰
 {0}nx+xmhm.nuulie 努力
 {0}ntu 池
+{0}nr 済
 {0}nrk+s 溃
 {0}nr+ojrfff.boixti 剥削
 {0}nu+nypnd.tnomje 条漫
@@ -1154,6 +1158,7 @@
 {0}na+du+dsrbddi.fjuueelve 反射律
 {0}na+dhio.uvuxie 水系
 {0}na+dssynd.fjufue 反復
+{0}na+dsfxfu.qrohgo 权衡
 {0}na+dduid.fjuuee 反射
 {0}na+djld.fjuxle 反向
 {0}na+dj+skkidog.fjuuguhve 反省会
@@ -1802,8 +1807,10 @@
 {0}th+na+yyywio.ziuuvujki 紫水晶
 {0}th+mdxnwio.ziufae 紫髪
 {0}th+vwio.ziujbi 紫金
+{0}th+exmvwio.ziusui 紫苏
 {0}th+ezrfwio.ziujki 紫荆
 {0}th+estwio.ziuhxi 紫花
+{0}th+efouwio.ziusui 紫蘇
 {0}th+efigwio.ziuyre 紫苑
 {0}th+iw+hodynwiof.ziuwdexme 紫外線
 {0}th+iw+od+fd+rn+wrrfwiofhynlnh.ziuwdexmexiiuzijie 紫外線吸収剤
@@ -2434,6 +2441,7 @@
 {0}rj+xiscex.ykixso 英雄
 {0}rj+rrtfmt.ybuhre 隠患
 {0}rj+uu.va+wsfxkwuf.yuusfixnuyee 雨森小夜
+{0}rj+uwcl.dneoue 吊柱
 {0}rj+gp+styxk.ykehxehxe 映画化
 {0}rj+gp+sizllyxk.ykehxegru 映画館
 {0}rj+cykdw.uieihu 市場
@@ -2587,6 +2595,7 @@
 {0}uy.ouwzd.xlilne 香料
 {0}uy.sfxd.xliqie 香気
 {0}uy.lzud.xliwwe 香味
+{0}uy.eyzd.xliccu 香草
 {0}uy.escod.xlijni 香蕉
 {0}uy.duzptd.xlisve 香穂
 {0}un+yjdb.uiemko 释明
@@ -3040,6 +3049,7 @@
 {0}ua+negjz.wwemju 未満
 {0}ua+nkvpo.miujqu 米酒
 {0}ua+xo+kedddzj.wwerjoxko 未然形
+{0}ua+rilqgp.gouyko 果蠅
 {0}ua+ugtt.yeuxlu 也想
 {0}ua+uswju.lboqbo 林檎
 {0}ua+uebj.cduyhe 采样
@@ -3132,6 +3142,7 @@
 {0}gx+hu.durftkd.xsiyaolie 匈牙利
 {0}gx+oa+kewjk.liobuekdi 离不开
 {0}gx+kewj.liokdi 离开
+{0}gx+firifm.mmuqlo 勉強
 {0}gx+fkniiwj.liosci 离骚
 {0}gt,nciu.xlufau 想法
 {0}gt,tyhf.yrehfe 怨恨
@@ -5661,6 +5672,7 @@
 {0}wd+iriruf.hhoozi 杭州
 {0}wd+is+dm+bkhiobfxcnx.khexsojiisue 抗雄激素
 {0}wd+dclrwsh.yiikce 依靠
+{0}wd+dsfxfbf.khehgo 抗衡
 {0}wd+kpivnbf.khesri 抗酸
 {0}wd+km+bt,durnsfgddd.bbiwwiwueosu 濒危物种
 {0}wd+klykihm.fhovde 妨碍
@@ -5813,6 +5825,7 @@
 {0}ou+lkdnlw.miolue 迷路
 {0}ou+ikfsmh.lvucie 屡次
 {0}ou+dbsw.miouii 迷失
+{0}ou+db,duywws.miodpoxli 迷迭香
 {0}ou+kd+ephpomy.lmexioqui 練習曲
 {0}og+nudnjx.ncuboi 脳波
 {0}og+uhiijx.ncujii 脳機
@@ -6514,6 +6527,7 @@
 {0}sc+uf+dsrbbdif.tviyiolve 推移律
 {0}sc+ggb.tviiui 推出
 {0}sc+ht+if+zojnws.njowhejbixni 难忘今宵
+{0}sc+hhpuo.qteico 雀巢
 {0}sc+hofdnw.jbejio 進級
 {0}sc+hisn.njoyiu 难以
 {0}sc+cu+kfcduiyi.ddeuioxko 待時型
@@ -7281,6 +7295,7 @@
 {0}le+xvdfnwku.mzouai 謀殺
 {0}le+tzjvwrk.jbuufe 謹慎
 {0}le+hopwb.xloxie 詳細
+{0}le+mzddrmb.qyolno 群聊
 {0}le+mdxnwsn.huefae 護髪
 {0}le+zzlmzwvy.puujio 譜輯
 {0}le+zskvcl.jxibbi 嘉宾
@@ -7917,6 +7932,7 @@
 {0}eo+ctus.wuodie 無地
 {0}eo+csmzns.wuoque 無趣
 {0}eo+moxis.wuotoo 無駄
+{0}eo+ml+krksx.wuojxigsi 無加工
 {0}eo+zbzls.wuohde 無害
 {0}eo+zrrfs.wuouie 無事
 {0}eo+vj+fryhse.wuoqiixme 無期限
@@ -8000,6 +8016,7 @@
 {0}ei+llixljm.zheqie 臓器
 {0}ei+li+yk+sevjmlxlbs.zheqietiogsi 臓器提供
 {0}edu+o 蘓
+{0}edc+o 薫
 {0}ed,ykpcw.ijulle 产量
 {0}ed,tt,bkhiokddi.xkotdesue 形態素
 {0}ed,tt,kh+jm.udkrkddibiofdb.xkotdesuejpuxii 形態素解析
@@ -8364,6 +8381,7 @@
 {0}iw+zxmvf.wdexpo 外协
 {0}iw+zdnlf.wdekee 外客
 {0}iw+vx+wlfrfw.wdejnibue 外交部
+{0}iw+vwegf.wdejke 外鏡
 {0}iw+vj+sjsfo.wdejiorze 外脊肉
 {0}iw+wvxf.wdejni 外交
 {0}iw+wlkklf.wdeyuu 外語
@@ -9078,6 +9096,7 @@
 {0}dc+idmwl.zceigo 造成
 {0}dc+dnxms.rfewue 任务
 {0}dc+dx,wrrfngmn.xiufaejie 洗髪剤
+{0}dc+dh+eyzeow.xyiyiiccu 薫衣草
 {0}dc+kedddwl.zcexko 造形
 {0}dc+kfcwl.zcexko 造型
 {0}dc+fddnms.rfewue 任務
@@ -9864,6 +9883,7 @@
 {0}km+jg+xk+ohsxrwfvuwk.fwifueoguuue 非負整数
 {0}km+jg+jr+hotkrwfvdf.fwifueoieyti 非負制約
 {0}km+js+iltlmwc.jueliogju 距離感
+{0}km+jkkvzs.jxijue 家具
 {0}km+ja+psrrrwx.fwiyzujpe 非有界
 {0}kz+nfunm.wuirju 汚染
 {0}kz+xdnwj.gjitgo 肝疼
@@ -10359,6 +10379,7 @@
 {0}kf+lgexl.qioyie 奇异
 {0}kf+lkwrvxl.qiojii 奇跡
 {0}kf+ecelks.cieuje 次善
+{0}kf+ev+oufuxlk.qioyaeziu 奇亚籽
 {0}kf+edygxl.qiopai 奇葩
 {0}kf+ejvhsk.jkidmu 经典
 {0}kf+ienfik.roedue 弱度
@@ -10536,6 +10557,7 @@
 {0}ka+sp+wrjwnw.uhehduuie 上海市
 {0}ka+sxls.tsooii 仝知
 {0}ka+sr.yiigee 一个
+{0}ka+sr+tj+dnkdbr.vrelvebwefju 二律背反
 {0}ka+suku.bfutiu 本体
 {0}ka+suk.yiitiu 一体
 {0}ka+su.bfurfo 本人
