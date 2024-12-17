@@ -1009,6 +1009,7 @@
 {0}nw+jk+kgpdkkv.dsilkohxe 冬霊画
 {0}nsk+f 汽
 {0}ns+bjknix.jqeyro 救援
+{0}ns+teix.jqeuie 救世
 {0}ns+ggix.jqeiui 救出
 {0}ns+hhoix.jqezdi 救災
 {0}ns+oxkjvmss.juelwe 聚類
@@ -1016,6 +1017,7 @@
 {0}ns+scomss.juejni 聚焦
 {0}ns+sklmss.jueheo 聚合
 {0}ns+skkimss.juehve 聚会
+{0}ns+ea+wcixt.jqeuieouu 救世主
 {0}ns+imctwih.cjitki 餐廳
 {0}ns+dwjewih.cjipjo 餐盘
 {0}ns+kkfwih.cjitki 餐厅
@@ -1644,6 +1646,7 @@
 {0}xa+sfxk.tmiqie 天気
 {0}xa+sj+ueyxbgg.daegvimoo 大規模
 {0}xa+lmrfm.quibpo 区別
+{0}xa+lsjk.tminae 天呐
 {0}xa+ld+tkzl.tmigsixbi 天宮心
 {0}xa+lf+vmdwr.daebueffi 大部分
 {0}xa+eb,nirrn.daeyhoozi 大洋洲
@@ -3006,6 +3009,7 @@
 {0}uf+lhtdif.yiombo 移民
 {0}uf+ixmido.igiwwe 称为
 {0}uf+ix+na+suidifkmz.yiodseoiifue 移动支付
+{0}uf+ix+ildifkm.yiodsetdo 移动台
 {0}uf+ihpjdo.igiwwe 称谓
 {0}uf+dyirdu.jiejpo 季節
 {0}uf+dgjsdo.igizje 称赞
@@ -3424,6 +3428,7 @@
 {0}hw+dbiik.rhewou 让我
 {0}hw+kphihs.gdiyce 该要
 {0}ho 給
+{0}hor+rr 繍
 {0}ho+zbzlh.zdihde 災害
 {0}ho+ihdzlio.tjohxe 谈话
 {0}hsl 给
@@ -4397,6 +4402,7 @@
 {0}md+strv.ffiosi 分钟
 {0}md+stv.ffihxe 分化
 {0}md+sgrfr.iuiile 初创
+{0}md+sv.ffirfo 分人
 {0}md+ssydt.qpeuhi 切傷
 {0}md+sixr.iuifuo 初伏
 {0}md+lr+ow+il+ncivzfhign.ffigeitsuoiefau 分割統治法
@@ -4602,6 +4608,7 @@
 {0}zp+jobmwz.lmouge 連勝
 {0}zyo 煮
 {0}znb 撃
+{0}zn+yjknm.quunru 取暖
 {0}zn+ncii.qqofau 求法
 {0}zn+nojm.quuxni 取消
 {0}zn+tuxzc.oiekke 軽快
@@ -4893,6 +4900,7 @@
 {0}zj+ueerj.ddeldo 带来
 {0}zj+ctuds.oiedie 质地
 {0}zj+cilksh.oioyue 値域
+{0}zj+cilkerj.ddeyue 帯域
 {0}zj+mm.xa+kwzrzk.icowfotmixxe 朝闻天下
 {0}zj+wm+ixmicvjk.tmoxpuwwe 填写为
 {0}zj+wsfxz.icoyee 朝夜
@@ -5044,6 +5052,7 @@
 {0}vc+nj+zusxewg.jiiduijne 基督教
 {0}vc+xbizje.jiifuu 基辅
 {0}vc+xa+hkjkep.jiiybizuu 基因组
+{0}vc+tu+mmlec.jiidiejuo 基地局
 {0}vc+uke.jiibfu 基本
 {0}vc+ctue.jiidie 基地
 {0}vc+cz+kfcen.jiioyuxko 基準型
@@ -5444,6 +5453,7 @@
 {0}wh+tus.heoxbi 核心
 {0}wh+ta+dwsmgus.heoxbichi 核心舱
 {0}wh+rpgus.heodme 核电
+{0}wh+hkmkdeg.hlimzo 荒缪
 {0}wh+wlesnbc.ysihue 擁護
 {0}wh+ebjgt.mhooea 忙着
 {0}wh+ijttus.heongo 核能
@@ -5795,6 +5805,7 @@
 {0}or+ya+na+ju+eyjiprde.ufobdouvucdemgo 神白水菜萌
 {0}or+nkvpipr.ufojqu 神酒
 {0}or+xmipr.ufolie 神力
+{0}or+rjmkhhrr.xqeohe 繍帳
 {0}or+ubxyipr.ufoiyi 神椿
 {0}or+udnlipr.ufogeo 神格
 {0}or+honcipr.ufojki 神経
@@ -5837,6 +5848,7 @@
 {0}oh+hocjghou.jiexue 継続
 {0}oh+hojclhio.siiizo 絲綢
 {0}oh+oj+fs+lkdnlhiohcli.siiizooiilue 絲綢之路
+{0}oh+kwrkhr.jqioge 糾正
 {0}oh+ffbshou.jieigo 継承
 {0}oc 尘
 {0}oc+puhl.jpogou 結果
@@ -6718,6 +6730,7 @@
 {0}si+tuxch.ytekke 越快
 {0}si+uvi.lkomue 鈴木
 {0}si+ua+jobmvi.lkomueuge 鈴木勝
+{0}si+mxch.ytequi 越区
 {0}si+zxteyh.yhulcu 養老
 {0}si+zjezch.ytenjo 越南
 {0}si+vslvi.lkoguu 鈴谷
@@ -8955,6 +8968,7 @@
 {0}dt+hotkhy.hyiyti 婚約
 {0}dt+hixmsk.diiyze 低幼
 {0}dt+mvpysk.diicgo 低層
+{0}dt+me+fxdwkskwb.diiiioyjo 低遅延
 {0}dt+zvksk.diiksi 低空
 {0}dt+wursk.diisue 低速
 {0}dt+wvdnji.bcebme 豹変
@@ -9871,6 +9885,7 @@
 {0}km+kh+kkorwb.fwibnuuie 非表示
 {0}km+kw+uhiirwzs.fwidkejii 非定機
 {0}km+kl+evjrwj.fwitsoqii 非同期
+{0}km+kkhmhkd.mzoqnu 缪巧
 {0}km+kksxzs.jxioge 家政
 {0}km+kjpgzs.jxidme 家電
 {0}km+ka+kkgrwk.fwivreyro 非二元
@@ -9900,10 +9915,12 @@
 {0}kz+kcwxcj.gjibji 肝斑
 {0}kz+jwmkhsy.soixpu 缩写
 {0}kz+jeimj.gjizhe 肝臓
+{0}kv+bm+sfijsmo.bkimauysu 兵馬俑
 {0}kv+bszd.gxufui 寡夫
 {0}kv+rtjyp.udebwe 晒背
 {0}kv+hmkjzd.gxufue 寡婦
 {0}kv+csmzno.xkique 兴趣
+{0}kv+mbmos.bkimau 兵馬
 {0}kv+wh+hm.dlgsegfk.bkihlimaulre 兵荒马乱
 {0}kv+ojfus.bkixto 兵学
 {0}kv+ssxmyp.udeuhi 晒伤
@@ -10133,6 +10150,7 @@
 {0}ki.tt,ykpcrxi.oletdelle 状態量
 {0}ki.tt,kp+uf+pwxrxiwgdif.oletdeqmiyiotuo 状態遷移図
 {0}ki.tt,kp+dufifrxiwg.oletdeqmiyio 状態遷移
+{0}ki.hkztghpc.ijorce 缠绕
 {0}ki.mznfmj.pmequu 骗取
 {0}ki.mkiczc.uiewui 室屋
 {0}ki.zjhiohz.xmesou 线索
@@ -10168,6 +10186,7 @@
 {0}kd+ebhyj.mmoyho 绵羊
 {0}kd+exwkllnl.luejku 路警
 {0}kd+eg+wd+jk+llixlhnwwkjsmzv.osidrifhuofiqie 终端仿真器
+{0}kd+esthum.xqehxi 绣花
 {0}kd+du+ioclnlwm.luetzeuee 路透社
 {0}kd+dsykimy.xiodeo 習得
 {0}kd+dsfsklnl.luejke 路径
@@ -10427,6 +10446,7 @@
 {0}kj+rp+oa+bwehbevk.qkihlobuejpi 青黄不接
 {0}kj+uuub.qkisfi 青森
 {0}kj+uu.jghobu.qkisfixme 青森県
+{0}kj+hkmkdhcl.izomzo 绸缪
 {0}kj+csihsn.yziyte 優越
 {0}kj+cd+iensndg.yzixmidue 優先度
 {0}kj+md+ey+kcddpbnlw.qkiocuybilqo 青沼音瑠
@@ -10449,6 +10469,7 @@
 {0}kj+sklhk.zuuheo 组合
 {0}kj+erpvb.qkihlo 青黄
 {0}kj+ecxsn.yzimwu 優美
+{0}kj+iyhsn.yzillo 優良
 {0}kj+irirrs.gveozi 贵州
 {0}kj+ihxnst.yuefai 愈发
 {0}kj+iojggme.jmiuie 監視
@@ -10908,6 +10929,7 @@
 {0}fi+zkmsb.orijxi 专家
 {0}fi+zkkgwj.tsiwjo 通完
 {0}fi+wuiwj.tsigoe 通过
+{0}fi+wldzlwj.tsihxe 通話
 {0}fi+wedgwj.tsidce 通道
 {0}fi+wk+xx,hkdnlwjslj.tsixbewhuloe 通信网络
 {0}fi+oubkjb.orijki 专精
@@ -11141,6 +11163,7 @@
 {0}jt+oa+ijttitk.ngobuengo 能不能
 {0}jt+sk+ba+dywgitfleo.ngodgibjedcu 能登半島
 {0}jt+sa+jjtnjnf.vdejquvde 愛久愛
+{0}jt+eyxjrs.ohemue 帐幕
 {0}jt+dukp.yuobfe 愚笨
 {0}jt+dufojn.vdeigi 愛称
 {0}jt+dcxmit.ngodse 能動
@@ -11652,6 +11675,7 @@
 {0}jk+kwrkzv.ofioge 真正
 {0}jk+kscvzv.ofiyje 真贋
 {0}jk+kfrfzk.oiolpe 直列
+{0}jk+ka+skkiw.yyouherfo 雲上人
 {0}jk+fx+nzljnlic.dsetkohuo 洞庭湖
 {0}jk+fjczk.oiojnu 直角
 {0}jk+jc+kk.jc+kedddzkfkf.oiojnusjijnuxko 直角三角形
