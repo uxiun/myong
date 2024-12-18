@@ -5652,6 +5652,7 @@
 {0}wi+lkwvxbz.ukijni 摔跤
 {0}wi+iy+nnngnh.lqolhehje 流浪汉
 {0}wi+inng.lqobki 流氷
+{0}wi+itkng.lqouie 流式
 {0}wi+iltng.lqogju 流感
 {0}wi+dbsng.lqouii 流失
 {0}wi+db,dsccfngyk.lqoxkijpi 流星街
@@ -7319,6 +7320,7 @@
 {0}le+wlodk.tmodmu 甜点
 {0}le+wlskjwci.yielye 議論
 {0}le+wd+wkwclsh.jxiyiikau 嘉依卡
+{0}le+sukmb.qyotiu 群体
 {0}le+scfscl.xiuhri 喜歓
 {0}le+sssmb.qyoose 群众
 {0}le+sfxkhi.cioqie 磁気
