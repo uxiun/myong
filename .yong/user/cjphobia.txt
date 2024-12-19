@@ -519,7 +519,7 @@
 {0}pm+skcfkr.mmedce 面倒
 {0}pm+sklkg.pweheo 配合
 {0}pm+lyydkk.fjiihe 翻唱
-{0}pm+lm+wlmkldkkws.fjiyiecio 翻訳詞
+{-}pm+lm+wlmkldkkws.fjiyiecio 翻訳詞
 {0}pm+lm+wlkkldkkws.fjiyieyuu 翻訳語
 {0}pm+ejrfkr.mmeqmo 面前
 {0}pm+ihnbdkk.fjiyie 翻译
@@ -571,7 +571,8 @@
 {0}pz+js.mwuyte 毎月
 {0}pw+srsi.mwugee 每个
 {0}pw+kxsi.mwutmi 每天
-{0}pob+g 圏
+{0}pob+g 圈
+{1}pob+g 圏
 {0}po+fuf.yuozia 魚子
 {0}psr+r 界
 {0}ps+kpivnkm.cuesri 酢酸
@@ -1450,6 +1451,7 @@
 {0}xk+bk+olixzld.jieugiuze 寄生獣
 {0}xk+ycuisle.druuio 短時
 {0}xk+ncizhm.kcufau 考法
+{0}xk+niluwk.oguoie 整治
 {0}xk+xrysle.druzje 短暂
 {0}xk+xrfuzl.jiecyo 寄存
 {0}xk+rrkrsle.drupme 短片
@@ -3540,6 +3542,7 @@
 {0}hdn 線
 {0}hd+przjkifn.ueeoie 设置
 {0}hd+pudfn.fjetro 饭团
+{0}hd+pobgfn.fjeqri 饭圈
 {0}hd+xksjikl.gzebke 诟病
 {0}hd+wmstuifn.ueeuii 设施
 {0}hd+ixmiifn.ueewwe 设为
@@ -5760,6 +5763,7 @@
 {0}ob+ixbjk.tgokue 腾库
 {0}ob+ihfzjk.tgoxye 腾讯
 {0}ob+durfjm.ugelie 勝利
+{0}ob+fupg.qrizia 圈子
 {0}ob+fjgvjm.ugefue 勝負
 {0}op+ztdgh.xiemie 細密
 {0}op+wsxmfz.djeheo 弾劾
@@ -6606,6 +6610,7 @@
 {0}sm+tw+bwehcdlsxb.icilmejpi 超链接
 {0}sm+tes.zoeuie 作世
 {0}sm+uecg.qiuldo 起来
+{0}sm+gp+plsk.zoehxehvo 作画回
 {0}sm+hkfdncdl.icijio 超级
 {0}sm+csihcdl.iciyte 超越
 {0}sm+cixmbg.qlujpo 抢劫
@@ -9246,6 +9251,7 @@
 {0}ds+ja+ddyirdny.liomkoqki 黎明卿
 {0}dlg 乱
 {0}dl+plm.ocehvo 召回
+{0}dl+ydbkwl.ovixki 追星
 {0}dl+negjwl.ovisue 追溯
 {0}dl+xmlwl.ovijxi 追加
 {0}dl+twetwl.oviyie 追憶
