@@ -74,6 +74,7 @@
 {0}bg,xksjd.mcobke 毛病
 {0}bg,hkizd.mcorso 毛绒
 {0}bg,ki.ck+jkkvdhzkkg.mcorsowjojue 毛绒玩具
+{0}bc,pevdui.teeyie 特異
 {0}bc,nddhdui.teepde 特派
 {0}bc,xjdui.teeyzu 特有
 {0}bc,tdbkdui.teexke 特性
@@ -519,7 +520,6 @@
 {0}pm+skcfkr.mmedce 面倒
 {0}pm+sklkg.pweheo 配合
 {0}pm+lyydkk.fjiihe 翻唱
-{-}pm+lm+wlmkldkkws.fjiyiecio 翻訳詞
 {0}pm+lm+wlkkldkkws.fjiyieyuu 翻訳語
 {0}pm+ejrfkr.mmeqmo 面前
 {0}pm+ihnbdkk.fjiyie 翻译
@@ -571,8 +571,6 @@
 {0}pz+js.mwuyte 毎月
 {0}pw+srsi.mwugee 每个
 {0}pw+kxsi.mwutmi 每天
-{0}pob+g 圈
-{1}pob+g 圏
 {0}po+fuf.yuozia 魚子
 {0}psr+r 界
 {0}ps+kpivnkm.cuesri 酢酸
@@ -1656,6 +1654,7 @@
 {0}xa+ey+kfcux.daemooxko 大模型
 {0}xa+eciek.tmigde 天蓋
 {0}xa+ekkiw.wfoyyo 文芸
+{0}xa+efw.wfoyie 文艺
 {0}xa+ixmip.ybiwwe 因为
 {0}xa+irfm.quihxe 区划
 {0}xa+iumw.wfouui 文书
@@ -1702,6 +1701,7 @@
 {0}xa+fu+ohsxwz.wfozieuue 文字数
 {0}xa+fu+kfrfwz.wfozielpe 文字列
 {0}xa+fv.daexnu 大小
+{0}xa+fa+fy+skkiweyg.wfoyiewjuhve 文艺晚会
 {0}xa+jxok.tmirjo 天然
 {0}xa+jvktkk.tmifue 天賦
 {0}xa+jwgx.daencu 大脑
@@ -1830,6 +1830,7 @@
 {0}tm+fytsdr.ybexle 印象
 {0}tz+nods.hxouai 华沙
 {0}tz+ixmis.hxowwe 华为
+{0}tz+kict.bieoie 毕至
 {0}twh 忙
 {0}twitter Twitter
 {0}tw+bgidh.xiojii 袭击
@@ -2431,6 +2432,7 @@
 {0}rf,dwfxci.hxetku 划艇
 {0}rf,km+te+fucvmikeu.iieyuuyeezia 赤羽葉子
 {0}rf,km+fpopirw.loofwiyuo 罗非魚
+{0}rf,fygcv.iiesee 赤色
 {0}rf,freefdq.xmejku 陷阱
 {0}rj+bomkfk.zuudhu 阻挡
 {0}rj+qd+wdhfmtd.ybuufiyii 隠身衣
@@ -2553,6 +2555,7 @@
 {0}ra+dimj.osipmi 中篇
 {0}ra+dk+kpmrwjv.osiyjomme 中顔面
 {0}ra+kp+tdbkbwi.osiduoxke 中毒性
+{0}ra+kc+yf+wrjpizr.osigoodziuie 中国都市
 {0}ra+kc+wlkklpi.osigooyuu 中国語
 {0}ra+kc+wddbkpi.osigooiju 中国産
 {0}ra+kc+sa+ht+xw+js+emrpileklzo,sioofobokuaopo 中国人民警察节
@@ -4922,6 +4925,7 @@
 {0}zj+ki.pwxerjrx.ddeoletuo 帯状図
 {0}zj+foebz.icoxmi 朝鮮
 {0}zj+jwmkcv.tmoxpu 填写
+{0}zj+jk+za+yzzkkid.icoyyoqmizcu 朝雲千早
 {0}za+ybkjd.qmiqko 千晴
 {0}za+ykzk.gjehje 干旱
 {0}za+ykkhy.zcuifo 早晨
@@ -6130,6 +6134,7 @@
 {0}oj+pwxigg.uietuo 視図
 {0}oj+pwiik.zuumuu 祖母
 {0}oj+psrrigg.uiejpe 視界
+{0}oj+pkciik.zuugoo 祖国
 {0}oj+nidon.xnimpe 消滅
 {0}oj+xrfuhkn.hrucyo 緩存
 {0}oj+xmigg.uielie 視力
@@ -6855,6 +6860,7 @@
 {0}sk+iolgjko.jiesie 祭祀
 {0}sk+ioebfxt.faixlo 発祥
 {0}sk+iokdl.daoyki 答应
+{0}sk+il+la+hrnyjvfp.tiomkohvouzi 題名回収
 {0}sk+ijttjtk.fuengo 赋能
 {0}sk+dbkfxt.faiugi 発生
 {0}sk+durfll.hailie 哈利
@@ -7615,9 +7621,11 @@
 {0}la+ttw.ojebiu 占比
 {0}la+rrrc.jioiri 吉川
 {0}la+rrrk.uioiri 石川
+{0}la+rrmkp.hvogvi 回归
 {0}la+rrmkjp.hvogvi 回帰
 {0}la+rrkrk.uiopme 石片
 {0}la+rm+md+udkrprkjv.hvogviffixii 回帰分析
+{0}la+rm+oj+pkciprkik.hvogvizuugoo 回归祖国
 {0}la+rm+fi+ebkprkjkz.hvogvicjoiae 回帰残差
 {0}la+ur+bxdf.yzelieuzu 右利手
 {0}la+ugtp.hvoxlu 回想
@@ -7647,6 +7655,7 @@
 {0}la+wldzl.kzuhxe 口話
 {0}la+wlkkl.kzuyuu 口語
 {0}la+wljcl.kzudne 口調
+{0}la+wey.kzuybi 口音
 {0}la+wizv.kzuuue 口述
 {0}la+wkth.ruociu 如此
 {0}la+or+wjdckipr.uioufowhe 石神望
@@ -7824,6 +7833,7 @@
 {0}er+wlmklns.hjecio 漢詞
 {0}er+wlkklns.hjeyuu 漢語
 {0}er+wdmns.hjefhi 漢方
+{0}er+kcsifuv.hgoqbo 横琴
 {0}er+kwlo.yjexxe 嚥下
 {0}er+kl+ey+sjsuvjjjx.hgogeomoorze 横膈膜肉
 {0}er+kl+jeyxuvjj.hgogeomoo 横膈膜
@@ -8495,6 +8505,7 @@
 {0}il+zfuf.mkozie 名字
 {0}il+vpzf.mkodji 名单
 {0}il+vfknf.mkolue 名録
+{0}il+wwrvf.mkojie 名迹
 {0}il+wlmsf.mkoyie 名訳
 {0}il+wlmklf.mkocio 名詞
 {0}il+wloh.uiudmu 始点
@@ -9435,6 +9446,7 @@
 {0}dj+svmdog.uguffe 省份
 {0}dj+skffeg.uzulie 首例
 {0}dj+ihwdmeg.uzufhu 首访
+{0}dj+im+snxr.vcemforfo 澳门人
 {0}dj+ileg.uzutdo 首台
 {0}dj+ikfseg.uzucie 首次
 {0}dj+dbgyg.mwomco 眉毛
@@ -10167,6 +10179,7 @@
 {0}ki.sa+dywgmcf.wuijqudcu 屋久島
 {0}ki.lkhmmc.wuihce 屋号
 {0}ki.ittrx.oletde 状態
+{0}ki.imsxmc.wuifui 屋敷
 {0}ki.db,sj+irfhztkbdg.xmexkegvihxe 线性规划
 {0}ki.dulkchmj.bmiigo 编程
 {0}ki.fpkfxg.yzoyuo 鱿鱼
@@ -10420,6 +10433,7 @@
 {0}kf+krkb.daugsi 打工
 {0}kf+kr+mmldrsx.yzobmejuo 郵便局
 {0}kf+kgdnz.nkoxxe 宁夏
+{0}kf+kg+jr+nidlkskof.cieyroxtijmu 次元削減
 {0}kf+kw+wlobw.daukaudmu 打卡点
 {0}kf+kotz.nkoyre 宁愿
 {0}kf+kludnb.daupoe 打破
@@ -10504,6 +10518,7 @@
 {0}ka+ba+dqdwo.uhebjeufi 上半身
 {0}ka+ba+jwo.uhebjeyte 上半月
 {0}ka+pzjgv.yiigre 一貫
+{0}ka+pa+kj+xkkowkjt.uhetmoliende 上田麗奈
 {0}ka+ycui.yiiuio 一時
 {0}ka+yskjvu.bfutio 本題
 {0}ka+ydew.uheugi 上昇
@@ -10918,6 +10933,7 @@
 {0}fe+sdhoyx.grixie 関係
 {0}fe+evcsb.yhujii 氧基
 {0}fe+dyiryx.grijpo 関節
+{0}fe+dh+zxyyxso.grixieoeu 関係者
 {0}fe+dh+it+ohsxyxsos.grixieddeuue 関係代数
 {0}fi 々
 {1}fi 夕
@@ -11849,6 +11865,7 @@
 {0}ja+sfebx.yzuyhu 有氧
 {0}ja+lw+zxyxwiy.yzuuiooeu 有識者
 {0}ja+la+bmrnxp.yzuhvobce 有回报
+{0}ja+la+weyx.yzukzuybi 有口音
 {0}ja+ebjgx.yzuoea 有着
 {0}ja+ey+ptxwt.yzuyiesii 有意思
 {0}ja+ey+na+nczxwt.yzuyieuvuoyu 有意水準
