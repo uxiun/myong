@@ -1248,6 +1248,7 @@
 {0}xt+sbi.lsonmo 龙年
 {0}xt+skfo.bpiqie 憋气
 {0}xt+iy+wijzsl.lcuchiyue 老倉育
+{0}xt+im+la+zvmggirk.lsomfouiokui 龙门石窟
 {0}xt+djwii.lsoozi 龙舟
 {0}xt+fhmki.lsomau 龙马
 {0}xrc 在
@@ -7644,6 +7645,7 @@
 {0}la+mk+mmlio.tdodhijuo 台当局
 {0}la+zxtz.guulcu 古老
 {0}la+zusxp.hvojne 回教
+{0}la+zvmggk.uiokui 石窟
 {0}la+zkmsp.hvojxi 回家
 {0}la+vj+sc+cx+dbtddzoudm.guujioivodsewue 古脊椎動物
 {0}la+wmlzp.hvobie 回避
@@ -8939,6 +8941,7 @@
 {0}dn+kw+nciszs.fjudkefau 仮定法
 {0}dn+ko+uhiipwm.tuolkojii 图灵機
 {0}dn+kedddpw.tuoxko 图形
+{0}dn+frynl.loeyho 洛阳
 {0}dn+fiwul.geowde 格外
 {0}dn+fils.fjumko 仮名
 {0}dn+jbsu.piofui 皮肤
@@ -9001,6 +9004,7 @@
 {0}dt+ioklpb.toifuo 托福
 {0}dt+iojdgt.huiuie 忽视
 {0}dt+dm+ukski.diiigobfu 低成本
+{0}dt+dzllb.toigru 托管
 {0}dt+dwjeik.diupjo 底盘
 {0}dt+kwsk.diixxe 低下
 {0}dt+kw+hm.zldgbwfk.toikaumaukee 托卡马克
