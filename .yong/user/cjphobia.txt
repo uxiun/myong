@@ -354,6 +354,7 @@
 {0}ba+wmsevo.bjeqio 半旗
 {0}ba+wskuj.ysetuo 用途
 {0}ba+wldzl.uzuhxe 手話
+{0}ba+wlkklj.yseyuu 用語
 {0}ba+weytj.yseyie 用意
 {0}ba+stwxb.uzulme 手链
 {0}ba+sits.nmodde 年代
@@ -5577,7 +5578,6 @@
 {0}wm+jk+uhiijkzv.xpuofijii 写真機
 {0}wm+jk+scujkzv.xpuofijio 写真集
 {0}wz 斗
-{0}wzvablo 𰻞
 {0}wzv+t 𰻞
 {0}wzv+tblo 𰻞
 {0}wz,bwehvz.lmejpi 鏈接
@@ -5616,6 +5616,7 @@
 {0}ww,dskkfddf.hhoxko 航行
 {0}ww,kxddf.hhotmi 航天
 {0}wo 点
+{0}wsr+f 劇
 {0}ws,bzrssx.mbujpo 敏捷
 {0}ws,tlfifl.zuogze 足够
 {0}ws,ta+skfnxs.yeehxeqie 液化气
@@ -7546,6 +7547,7 @@
 {0}lk+sfxwkl.yuuqie 語気
 {0}lk+ls+zkmswozwkj.pkolyejxi 評論家
 {0}lk+lf+howdmwklwr.yuubuefhu 語部紡
+{0}lk+lf+sr+ouecomcwxkfki.ugedjedjegci 聖誕蛋糕
 {0}lk+lf+dyirmcwxk.ugedjejpo 聖誕節
 {0}lk+lf+kc+hs+ya+kuuymcwxksfox.ugedjedceuuerielie 聖誕倒数日暦
 {0}lk+ecdbiwkl.yuuyie 語義
