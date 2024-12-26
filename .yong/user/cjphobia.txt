@@ -135,6 +135,7 @@
 {0}bs,ukkony.qmobni 潜标
 {0}bs,ggxkf.uuiiui 输出
 {0}bs,cid.uiique 失去
+{0}bs,wxxmd.uiixne 失効
 {0}bs,wvtd.uiilme 失恋
 {0}bs,wdkrny.qmojbe 潜近
 {0}bs,wkkld.uiiyjo 失言
@@ -205,6 +206,7 @@
 {0}bk+mr+stelf.iaebpohxe 差別化
 {0}bk+mkhd.ugiohu 生長
 {0}bk+zm+ykpctjcrn.qkobcelle 情報量
+{0}bk+zm+nd+sc+hi+ueejtjcrndfwui.qkobceiuujbejiigze 情報処理推進機構
 {0}bk+zm+nd+kcpctjcrndf.qkobceiuuliu 情報処理
 {0}bk+zm+mk+nrpttjcrnnj.qkobcelzexpe 情報漏洩
 {0}bk+zm+ojfutjcrn.qkobcexto 情報学
@@ -316,6 +318,7 @@
 {0}bj+kludndg.kjepoe 看破
 {0}bj+frcvceg.oealue 着陸
 {0}bj+ffdg.kjelea 看了
+{0}bj+judddeg.oeacdu 着彩
 {0}ba+bxys.nmoiyi 年春
 {0}ba+bty.uzuoiu 手指
 {0}ba+brkwd.nqopdo 牛排
@@ -794,6 +797,7 @@
 {0}yi+wlodr.jpodmu 節点
 {0}yi+wlskjug.gdelye 概論
 {0}yi+wizvug.gdeuue 概述
+{0}yi+srrdr.jpojpe 節介
 {0}yi+scjggug.gdegri 概観
 {0}yi+siftug.gdenme 概念
 {0}yi+if+uceiugst.gdenmeuue 概念樹
@@ -1676,6 +1680,7 @@
 {0}xa+lsjk.tminae 天呐
 {0}xa+ld+tkzl.tmigsixbi 天宮心
 {0}xa+lf+vmdwr.daebueffi 大部分
+{0}xa+la+ya+iyhky.daeuioihillo 大石昌良
 {0}xa+eb,nirrn.daeyhoozi 大洋洲
 {0}xa+ey+itkux.daemoouie 大模式
 {0}xa+ey+kfcux.daemooxko 大模型
@@ -2288,6 +2293,7 @@
 {0}rs+kfrff.dvelpe 队列
 {0}rs+frwxjfui.fuesvo 附随
 {0}rs+frskkfku.iuoxmu 除险
+{0}rs+fifku.iuoxii 除夕
 {0}rs+fffku.iuolea 除了
 {0}rs+jf+ms+dskkfsdouwdh.xqixtolvuxko 修学旅行
 {0}rl+ojfub.oeoxto 哲学
@@ -2587,6 +2593,7 @@
 {0}ra+dy+gprko.osiyrojxu 中原岬
 {0}ra+duo.osiqqi 中秋
 {0}ra+dimj.osipmi 中篇
+{0}ra+dk+pm+mkhwjvkr.osiyjommeohu 中顔面長
 {0}ra+dk+kpmrwjv.osiyjomme 中顔面
 {0}ra+kp+tdbkbwi.osiduoxke 中毒性
 {0}ra+kc+yf+wrjpizr.osigoodziuie 中国都市
@@ -4717,6 +4724,7 @@
 {0}zx+sm+usxceys.ouezoeqro 著作権
 {0}zx+sm+vu+dd,usxceysjdwbk.ouezoecdoijuqro 著作財産権
 {0}zx+ssmey.ouezoe 著作
+{0}zx+slmnyy.uuujxu 暑假
 {0}zx+siftcfi.oionme 執念
 {0}zx+sfifxy.ueiiiu 奢侈
 {0}zx+ebjgcfi.oiooea 執着
@@ -5582,6 +5590,7 @@
 {0}wzv+tblo 𰻞
 {0}wz,bwehvz.lmejpi 鏈接
 {0}wz,weybz.pbiybi 拼音
+{0}wz,we+bs,wxxmvzbhd.lmejpiuiixne 鏈接失効
 {0}wz,we+scuvzbh.lmejpijio 鏈接集
 {0}wz,we+llixlvzbh.lmejpiqie 鏈接器
 {0}wz,if+fifibzfi.pbidoidoi 拼多多
@@ -5687,6 +5696,7 @@
 {0}we+lbh.jpikzu 接口
 {0}we+lkhmyy.vjehce 暗号
 {0}we+la+lkhmbh.jpikzuhce 接口号
+{0}we+ey+vsiivgw.jkeybilko 鏡音鈴
 {0}we+ek+dlwezbhkjv.jpitzocio 接頭辞
 {0}we+ea+js+eyxjbkrc.laikdiwwomue 拉开帷幕
 {0}we+db,dlwezbhmg.jpiwwucio 接尾辞
@@ -5832,6 +5842,7 @@
 {0}wa+ikfsk.xxecie 下次
 {0}wa+dzekk.xxeivo 下垂
 {0}wa+dzdfnk.xxedre 下段
+{0}wa+dk+pm+mkhkwjvkr.xxeyjommeohu 下顔面長
 {0}wa+kpmrk.xxemme 下面
 {0}wa+ks+wewlrhkl.buugwuoje 补给站
 {0}wa+kkfsk.xxecie 下次
@@ -6398,6 +6409,7 @@
 {0}oa+fl+jbkk.buekeuyse 不可用
 {0}oa+ffk.buelea 不了
 {0}oa+jxok.buerjo 不然
+{0}oa+ju+jbkb.buecduyse 不採用
 {0}oa+jg+jxokd.buezierjo 不自然
 {0}oa+jwyh.houtvu 火腿
 {0}oa+jklk.buetso 不同
@@ -6617,6 +6629,7 @@
 {0}sh+evjdin.hzeqii 後期
 {0}sh+ejondin.hzetgo 後藤
 {0}sh+dyirdin.hzejpo 後節
+{0}sh+dm+hf+fj+tdbkdinwkkbx.hzefhihuehrexke 後方互換性
 {0}sh+kxdin.hzetmi 後天
 {0}sc 仕
 {0}scn+ 雙
@@ -6770,6 +6783,7 @@
 {0}ss 从
 {0}sst 伦
 {0}ssr+f 剣
+{0}ss,yi+srrdkrdr.yuejpojpe 御節介
 {0}ss,nsckj.llunjo 两难
 {0}ss,xm+dy+ka+iyhdkrslkon.yuegaiyrojlillo 御伽原江良
 {0}ss,tlgs.osebci 众包
@@ -7822,6 +7836,7 @@
 {0}ep+ztdgnh.nsomie 濃密
 {0}ep+zuiwi.zyiuzu 遵守
 {0}ep+wxuy.ccotzo 槽头
+{0}ep+wsb.mnoyui 描込
 {0}ep+wldzlwc.tsohxe 童話
 {0}ep+wizvb.mnouue 描述
 {0}ep+obmgwg.lsojre 竜巻
@@ -7875,6 +7890,7 @@
 {0}ey+su+skkiwi.ybileehve 音楽会
 {0}ey+su+ikfwi.ybileetki 音楽庁
 {0}ey+shisw.ybiuie 音似
+{0}ey+sc+foypnwdcf.ybijpimjo 音街鰻
 {0}ey+swdmux.moofhu 模仿
 {0}ey+seow.ybiwuo 音無
 {0}ey+siftwt.yienme 意念
@@ -7912,6 +7928,7 @@
 {0}ey+jxowdg.jkerjo 竟然
 {0}ey+jgdgwt.yiejme 意見
 {0}ey+jwmkux.mooxpu 模写
+{0}ey+jj.laeyte 腊月
 {0}en 度
 {0}end+l 落
 {0}en+ykpci.duelle 度量
@@ -8032,6 +8049,7 @@
 {0}ev+ok+stwxbsi.gsiykilme 供应链
 {0}ev+ojlrjp.yieiho 異常
 {0}ev+oa+zt+nrpbng.gsuhoujniyzo 拱火浇油
+{0}ev+slmnzw.hjojxu 寒假
 {0}ev+siyhyn.bceuio 暴食
 {0}ev+lng.ghukzu 港口
 {0}ev+lktlgzs.sdepcu 赛跑
@@ -9854,6 +9872,7 @@
 {0}kh+tbkjb.bnuqko 表情
 {0}kh+rrpm.ohuxqe 長袖
 {0}kh+uudbio.suecdo 素材
+{0}kh+uwbio.suepuu 素朴
 {0}kh+udnlb.bnugeo 表格
 {0}kh+gxklm.ohuqio 長崎
 {0}kh+hodkm.qnumne 巧妙
@@ -11089,8 +11108,8 @@
 {0}fe+dyiryx.grijpo 関節
 {0}fe+dh+zxyyxso.grixieoeu 関係者
 {0}fe+dh+it+ohsxyxsos.grixieddeuue 関係代数
-{0}fi 々
-{1}fi 夕
+{0}fi 夕
+{1}fi 々
 {0}fii 多
 {0}fi+bk+oz+dm+dulkzekw.cjoiaepkofhiheo 残差平方和
 {0}fi+bk+kp+cz+ll.ebkkzeuonwkx.cjoiaebnioyuwueiae 残差標準誤差
