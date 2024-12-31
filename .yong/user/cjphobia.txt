@@ -3771,6 +3771,7 @@
 {0}cx+xmdm.dselie 動力
 {0}cx+tduudm.dsejie 動悸
 {0}cx+uhiidm.dsejii 動機
+{0}cx+hode.mwumne 美妙
 {0}cx+hfue.mwuhcu 美好
 {0}cx+ce+xt+kktsmeld.qreujeigovee 勧善懲悪
 {0}cx+zvsle.mwurso 美容
@@ -5657,7 +5658,6 @@
 {0}wls+kj 論
 {0}wle+ci 議
 {0}wld+fi 諷
-{0}wlj+g 毫
 {0}wl+bxnyo.jkutde 景泰
 {0}wl+nezjsf.tkooie 停滞
 {0}wl+ut+kh+zxyeudtym.gcujpiohuoeu 藁稭長者
@@ -7574,6 +7574,7 @@
 {0}lk+vx+ki.pm+mdrjkezfzckg.yjojqiuiepweuuu 研究室配属
 {0}lk+vx+ki.lv.ja+skkikezfzcwlgy.yjojqiuieuoimkohve 研究室説明会
 {0}lk+vx+frzkgkezf.yjojqiyre 研究院
+{0}lk+vx+jf+cl+yf+wrjkezfouphzr.yjojqixtoyrodziuie 研究学園都市
 {0}lk+wxzjs.veotzo 额头
 {0}lk+wlskjwoz.pkolye 評論
 {0}lk+wlfxkmc.ugedje 聖誕
@@ -7657,6 +7658,7 @@
 {0}lj+na+kozwl.gciuvupko 高水平
 {0}lj+xrjwcl.dnebue 調布
 {0}lj+xg+xf+rmlwgktis.hcowuoyiowfe 毫无疑问
+{0}lj+xsktwg.lleyue 亮癒
 {0}lj+xluwl.gcijxe 高架
 {0}lj+rs+ml+szjkwlfuix.gcifuejxioio 高附加值
 {0}lj+riteuz.huodpo 胡蝶
@@ -9888,6 +9890,7 @@
 {0}kg+ku+zrpkz.yroyuuoze 元宇宙
 {0}kg+kh+wlmgkb.yrobnujie 元表記
 {0}kg+fuo.glizia 光子
+{0}kg+fs+cx+da+hoieo.glioiimwuucunvu 光之美少女
 {0}kg+jxbji.grijyi 冠军
 {0}kg+jtlgk.yrobci 元胞
 {0}kg+je+stou.gliujihxe 光柵化
