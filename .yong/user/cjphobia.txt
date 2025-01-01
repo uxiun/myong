@@ -1,4 +1,5 @@
 {0}bb,bgo.qrojii 拳击
+{0}bb,bscxfi.orutvi 转推
 {0}bb,bfjxxfi.oruhre 转换
 {0}bb,xbxfxfi.orugvu 转轨
 {0}bb,xa+fu+dsuixfiiz.oruyieziefuo 转义字符
@@ -348,6 +349,7 @@
 {0}ba+hils.nmouiu 年始
 {0}ba+hfuj.ysehcu 用好
 {0}ba+hfdmd.nqondu 牛奶
+{0}ba+csihs.nmoyte 年越
 {0}ba+cjks.uzuosu 手塚
 {0}ba+ca+epduej.yhoduejyi 羊肚菌
 {0}ba+mehx.ieioju 车展
@@ -2914,6 +2916,7 @@
 {0}ud+bsjggwkr.xbigvi 新規
 {0}ud+bk+yd+im+ks+imwdmwkrdrgbxj.xbiugivrohuebkefho 新生児重症监护病房
 {0}ud+bk+rydgwkrd.xbiugivro 新生児
+{0}ud+ba+ux+dhuwkrst.xbinmokkelee 新年快乐
 {0}ud+yuibbg.hceuio 耗时
 {0}ud+yd+frzkgfhsrg.guivroyre 孤児院
 {0}ud+yfmzwkr.xbiwfo 新聞
@@ -5751,6 +5754,7 @@
 {0}wi+cing.lqoque 流去
 {0}wi+cilkng.lqoyue 流域
 {0}wi+znbvg.isejii 銃撃
+{0}wi+wurng.lqosue 流速
 {0}wi+wujggp.muuqbi 母親
 {0}wi+wgxjng.lqolio 流离
 {0}wi+wmsxng.lqofhe 流放
@@ -7974,6 +7978,7 @@
 {0}ex,filml.niemko 匿名
 {0}et+dskkfws.svexko 遂行
 {0}er 斯
+{0}er+rjklpuv.hgofuo 横幅
 {0}er+ud+rk+wedguvhkrwd.hgodrebuedce 横断歩道
 {0}er+hudkruv.hgodre 横断
 {0}er+hojkuv.hgozuu 横組
@@ -10129,6 +10134,7 @@
 {0}kz+sklhko.zsiheo 综合
 {0}kz+efhko.zsiyie 综艺
 {0}kz+iojdgwn.qiouie 歧视
+{0}kz+dgixn.hjeize 汗臭
 {0}kz+dimjhfx.xuepmi 续篇
 {0}kz+kcwxcj.gjibji 肝斑
 {0}kz+jwmkhsy.soixpu 缩写
