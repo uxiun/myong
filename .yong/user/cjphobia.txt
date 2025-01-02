@@ -333,6 +333,7 @@
 {0}ba+ncij.ysefau 用法
 {0}ba+nci.uzufau 手法
 {0}ba+xbfsks.nmoqki 年轻
+{0}ba+xljgvs.nmohee 年賀
 {0}ba+rrrv.uzuuye 手順
 {0}ba+rcy.uzuuui 手書
 {0}ba+rmyx.ieijmi 车间
@@ -369,6 +370,7 @@
 {0}ba+sfud.nqozdu 牛仔
 {0}ba+sjsd.nqorze 牛肉
 {0}ba+lws.uzuzuo 手足
+{0}ba+lj+rkixsxgv.nmoheeole 年賀状
 {0}ba+en+lmrfsi.nmoduebpo 年度別
 {0}ba+ecoexe.yhoggi 羊羹
 {0}ba+imj.ysehue 用户
@@ -10995,6 +10997,7 @@
 {0}fu+hfuh.hcuhcu 好好
 {0}fu+zevcyd.biesdi 閉塞
 {0}fu+vojvyd.biesou 閉鎖
+{0}fu+va+xdiyhuf.liuxnulho 李小狼
 {0}fu+wlmklz.ziecio 字詞
 {0}fu+ohsxz.zieuue 字数
 {0}fu+oa+hfuhk.hcubuehcu 好不好
