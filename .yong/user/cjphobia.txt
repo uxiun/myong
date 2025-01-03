@@ -2349,6 +2349,7 @@
 {0}rkx 状
 {0}rk+brr.pmeuzu 片手
 {0}rk+bk+rjmd.wweugijbi 卫生巾
+{0}rk+ptrr.pmesii 片思
 {0}rk+pu+ouvmdrrk.pmelieffu 片栗粉
 {0}rk+pm+cturrkr.pmemmedie 片面地
 {0}rk+yg+lf+kl+oziusfkss.tcoseegeiheooje 桃色歌合戦
@@ -3009,6 +3010,7 @@
 {0}ud+kfwdhhkr.drelpe 断裂
 {0}ud+kjlklbn.piilue 披露
 {0}ud+kjkkijdd.cduyyo 彩雲
+{0}ud+fygjdd.cdusee 彩色
 {0}ud+fxrbwkr.xbijme 新建
 {0}ud+frsp.trodve 团队
 {0}ud+fu+sukwkrz.xbizietiu 新字体
@@ -6166,6 +6168,7 @@
 {0}od+cy+jwmkhssr.zseuuixpu 縦書写
 {0}od+cidmydd.ykuigo 影城
 {0}od+mmlhnw.osijuo 終局
+{0}od+mkhhss.zseohu 縦長
 {0}od+zzrphss.zseozo 縦軸
 {0}od+za+ms+dskkfhnwuwdh.osimoelvuxko 終末旅行
 {0}od+vfknb.icilue 抄録
@@ -11855,7 +11858,8 @@
 {0}jix 욲
 {0}jic 욶
 {0}ji+ejvzx.xmedmu 献典
-{0}jdf 冗
+{0}jdf 肌
+{1}jdf 冗
 {0}jdf+ 冗
 {0}jd+bxycg.mdeiyi 売春
 {0}jd+poixng.ifomoe 沉默
