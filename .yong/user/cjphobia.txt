@@ -365,6 +365,7 @@
 {0}ba+wlkklj.yseyuu 用語
 {0}ba+weytj.yseyie 用意
 {0}ba+stwxb.uzulme 手链
+{0}ba+ssmj.ysezoe 用作
 {0}ba+sits.nmodde 年代
 {0}ba+sdbj.ysejme 用件
 {0}ba+sfud.nqozdu 牛仔
@@ -462,6 +463,7 @@
 {0}pr+fy+xa+rrkjsjss.vzuxledaeuii 偶像大师
 {0}pr+fy+xa+dlkrjsjss.vzuxledaeuii 偶像大師
 {0}pr+jxosj.vzurjo 偶然
+{0}pu 困
 {0}pu+yfzi.orimfo 専門
 {0}pu+uecnei.zyiyhe 尊様
 {0}pu+hr.lounvu 裸女
@@ -661,6 +663,7 @@
 {0}pa+je+krrkuzz.dsinjoyae 東南亜
 {0}yp+typntn.mjemje 慢慢
 {0}yp+tdbktn.mjexke 慢性
+{0}yp+gp+us+wlctnnkxc.mjehxezaooie 漫画雑誌
 {0}yp+gp+cu+ox+rh+prhocnnkyihklpoc,jexeioiuoooo 漫画時光綺羅羅
 {0}yp+gp+zkmsnnk.mjehxejxi 漫画家
 {0}yp+gp+stnnk.mjehxehxe 漫画化
@@ -2093,6 +2096,7 @@
 {0}rp+wlgvb.izixru 抽選
 {0}rp+wdkrkx.ggejbe 更近
 {0}rp+wkwb.izikau 抽卡
+{0}rp+odkx.ggeucu 更少
 {0}rp+sbkx.ggenmo 更年
 {0}rp+sukev.hlotiu 黄体
 {0}rp+skkii.mnehve 庙会
@@ -2208,6 +2212,7 @@
 {0}rm+uk+ra+wxdys.jmutiuosiwfo 简体中文
 {0}rm+uf+ixmidydo.jmuigiwwe 简称为
 {0}rm+hosjrkj.gvinae 帰納
+{0}rm+zkmsrkj.gvijxi 帰家
 {0}rm+vpzdy.jmudji 简单
 {0}rm+wprhrkj.gvihdo 帰還
 {0}rm+os+ncirkjhj.gvinaefau 帰納法
@@ -2267,6 +2272,7 @@
 {0}rs+bsklhx.uziuio 收拾
 {0}rs+prhocsd.xqiloo 修羅
 {0}rs+plhx.uzihvo 收回
+{0}rs+yodddfii.ybiyku 陰影
 {0}rs+nyevfku.iuouii 除湿
 {0}rs+xmlfui.fuejxi 附加
 {0}rs+rh+cykdsdpoc.xqilooihu 修羅場
@@ -2747,6 +2753,7 @@
 {0}uh.jg+skkidlv.wwuyrohve 委員会
 {0}uh.js+skkidl.wwuyrohve 委员会
 {0}uc+bzun.tuomwe 塗抺
+{0}uc+xrjn.tuobue 塗布
 {0}uc+vmdn.tuoffi 塗分
 {0}um.jwmki.uuixpu 书写
 {0}uzn 枝
@@ -3203,6 +3210,7 @@
 {0}gp+dsuik.hxefuo 画符
 {0}gp+dfxk.hxefgi 画风
 {0}gp+kpmrk.hxemme 画面
+{0}gp+kgpk.hxehxe 画画
 {0}gp+kwdkr.bioxxe 鼻下
 {0}gp+fy+scukss.hxexlejio 画像集
 {0}gy+pcjh.yjuliu 眼里
@@ -3573,6 +3581,7 @@
 {0}he+sa+oa+rfxixljf.noebwevrujlu 诺贝尔奖
 {0}he+sa+foixlj.noebwevru 诺贝尔
 {0}he+ihdzlie.jluhxe 讲话
+{0}hi 絵
 {0}hix+m 幼
 {0}him 幻
 {0}hio 糸
@@ -3830,6 +3839,7 @@
 {0}cu+puds.jiotro 集团
 {0}cu+yfyyi.uiojmi 時間
 {0}cu+nwigyi.uiolqo 時流
+{0}cu+xek.qbojxi 琹夹
 {0}cu+xdi.dgudae 等大
 {0}cu+rcwdhyi.uiooli 時装
 {0}cu+rcwdhs.jiooli 集装
@@ -4067,6 +4077,7 @@
 {0}cjd+g 売
 {0}cjd+f 壳
 {0}cjk+s 塚
+{0}cj+bk+ur+ienkdw.zdeugisuedue 再生速度
 {0}cj+bk+wddbkkd.zdeugiiju 再生産
 {0}cj+yt+ojfukggfs.xmexlexto 現象学
 {0}cj+yk+ggkbs.zdetioiui 再提出
@@ -4256,6 +4267,7 @@
 {0}mu.eyxjrd.biemue 闭幕
 {0}mu.ihixf.ogiyie 争议
 {0}mu.jbf.ogiyse 争用
+{0}mg+nmken.fjelje 氾濫
 {0}mg+hi+if+fokdsfi.veegxidoivru 厄瓜多尔
 {0}mg+csmggg.jtoqiu 崛起
 {0}mg+wkkik.veeyye 厄运
@@ -4439,6 +4451,7 @@
 {1}md+bfjxt.qpehre 切换
 {0}md+qt+pcfifri.iuilueyeu 初鹿野
 {0}md+qt+cf,kk.xkkoripifwl.iuilueyeuyjonde 初鹿野言奈
+{0}md+puvv.pbokye 貧困
 {0}md+ph+cu+yfydkrkyi.souyceuiojmi 所要時間
 {0}md+pcfifv.ffiyeu 分野
 {0}md+plr.iuihvo 初回
@@ -5028,6 +5041,8 @@
 {0}za+ykkhy.zcuifo 早晨
 {0}za+nurvy.zculde 早瀬
 {0}za+nwrdk.gjeuee 干渉
+{0}za+rr,xa+izpzyrw.zcuiriwfokue 早川文庫
+{0}za+rr,cy+imwdmyrr.zcuiriuuifho 早川書房
 {0}za+ur+cwsynv.zculdezzu 早瀬走
 {0}za+uhiim.vrujii 耳機
 {0}za+ui+jv+jwunu.uiocyiufiyte 辻村深月
@@ -5245,6 +5260,7 @@
 {0}vd+ha+zusxigi.moonvujne 魔女教
 {0}vd+cykekr.siitju 斯坦
 {0}vd+ci+bk+dbtddigind.moofauugiwue 魔法生物
+{0}vd+ci+szrxigin.moofauuiu 魔法使
 {0}vd+ci+dlkrjigin.moofauuii 魔法師
 {0}vd+ci+da+higino.moofauucunvu 魔法少女
 {0}vd+ci+frzpzigin.moofauofe 魔法陣
@@ -5269,6 +5285,7 @@
 {0}vd+ieigi.moojpe 魔戒
 {0}vd+dqdwn.bmeufi 変身
 {0}vd+dn+ia+zldgekrnls.siiloefaokee 斯洛伐克
+{0}vd+drjgvwn.bmeoie 変質
 {0}vd+dudzcwn.bmeosu 変種
 {0}vd+dcxmwn.bmedse 変動
 {0}vd+dsivfigi.moouue 魔術
@@ -5447,6 +5464,7 @@
 {0}va+jc+kedddwf.lqejnuxko 六角形
 {0}va+jkle.gsetso 共同
 {0}va+jf+uwvxfou.xnuxtoxne 小学校
+{0}va+jf+sizllfou.xnuxtogru 小学館
 {0}va+ja+ka+srlx.oiuyzuyiigee 只有一个
 {0}wp+xf+ca+ecdbithtisw.hkoyioouuyie 懐疑主義
 {0}wp+txfisth.hkoyio 懐疑
@@ -5701,6 +5719,7 @@
 {0}we+mznbh.jpiquu 接取
 {0}we+zdnlbh.jpikee 接客
 {0}we+vd+ks+ml+evdkrbekrhcx.laisiiwwojxisii 拉斯维加斯
+{0}we+wursl.bwesue 倍速
 {0}we+wlmgyy.vjejie 暗記
 {0}we+wijcl.pwoyue 培育
 {0}we+wdkrbh.jpijbe 接近
@@ -5778,7 +5797,7 @@
 {0}wi+klng.lqouio 流石
 {0}wi+fup.muuzia 母子
 {0}wdl 話
-{1}wdk+jv 頻
+{0}wdk+jv 頻
 {0}wdk+js 频
 {0}wd+bdnfsh.yiijue 依拠
 {0}wd+pi+ta+sm+jbbfkvnss.khesrihxezoeyse 抗酸化作用
@@ -6281,6 +6300,7 @@
 {0}oj+wxxmigg.uiexne 視効
 {0}oj+wlmitigg.uierfe 視認
 {0}oj+wloigg.uiedmu 視点
+{0}oj+weyn.xniybi 消音
 {0}oj+wehk.zuulie 組立
 {0}oj+wdkjsidg.uiepbo 视频
 {0}oj+op+jtlgiggh.uiexiebci 視細胞
@@ -6339,6 +6359,7 @@
 {0}oa+tdk.buebie 不必
 {0}oa+ta+wlecikp.buesiiyie 不思議
 {0}oa+rc,doukx.buezdehui 不在乎
+{0}oa+ur+od+hrweykdfydd.buelieykuxlu 不利影響
 {0}oa+ugtk.buexlu 不想
 {0}oa+uf+zkwskdmt.buewfudke 不稳定
 {0}oa+hudkrk.buedre 不断
@@ -6884,6 +6905,7 @@
 {0}si+odch.yteucu 越少
 {0}si+sl+td+svivty.lkoguujpirfo 鈴谷皆人
 {0}si+sl+duoviv.lkoguuqqi 鈴谷秋
+{0}si+ea+csihchu.yteldoyte 越来越
 {0}si+ihxnch.ytefai 越发
 {0}si+if+si+hfuchfich.ytedoiytehcu 越多越好
 {0}si+dy+jl+kjlklvikokkl.lkoyroluelue 鈴原露露
@@ -7417,6 +7439,7 @@
 {0}ls+zbxkjc.qteuio 確実
 {0}ls+zrrfzx.gueuie 故事
 {0}ls+zvslwz.xuurso 許容
+{0}ls+zllzx.guegsi 故宫
 {0}ls+zdnlwkj.lyekee 論客
 {0}ls+zkwskjc.qtedke 確定
 {0}ls+zjixex.jkexme 敬献
@@ -7483,6 +7506,7 @@
 {0}le+scfscl.xiuhri 喜歓
 {0}le+sssmb.qyoose 群众
 {0}le+sfxkhi.cioqie 磁気
+{0}le+lo.iocwejwo.jlutjouee 講談社
 {0}le+epk.dzemno 豆苗
 {0}le+ecdbiwej.jluyie 講義
 {0}le+ezjrjkhi.ciodde 磁帯
@@ -7606,6 +7630,7 @@
 {0}lk+if+lk+odifii.hoedoihoeucu 或多或少
 {0}lk+dhuhx.yuolee 娱乐
 {0}lk+kwrkwf.dkeoge 訂正
+{0}lk+jbwkl.yuuyse 語用
 {0}lk+jsrfi.hoezeo 或则
 {0}lk+ja+rcywwky.ogemkouui 証明書
 {0}lf 別
@@ -7921,6 +7946,7 @@
 {0}ey+wlwiywt.yieuio 意識
 {0}ey+wllhxv.coewue 錯誤
 {0}ey+wllkxv.coewue 錯誤
+{0}ey+wljlw.ybigci 音高
 {0}ey+ouzljux.moohuo 模糊
 {0}ey+su+swi.ybileerfo 音楽人
 {0}ey+su+skkiwi.ybileehve 音楽会
@@ -9121,6 +9147,7 @@
 {0}dn+iumpw.tuouui 图书
 {0}dn+imzl.keehue 客户
 {0}dn+il+wrklsf.fjumkoqmu 仮名遣
+{0}dn+il+er+fu+vd+bfjxsfnszwn.fjumkohjeziebmehre 仮名漢字変換
 {0}dn+drjgvu.piooie 皮質
 {0}dn+dufopl.lteigi 略称
 {0}dn+kpmrs.fjumme 仮面
@@ -9185,6 +9212,7 @@
 {0}dt+wljclsk.diidne 低調
 {0}dt+weysk.diiybi 低音
 {0}dt+wijb.toiyue 托育
+{0}dt+wdkjvsk.diipbo 低頻
 {0}dt+sjsxl.gzurze 狗肉
 {0}dt+lk+skrpskwoz.diipkosie 低評価
 {0}dt+ey+lkhmskw.diiybihce 低音号
@@ -9223,6 +9251,7 @@
 {0}dr+dqdxki.duoufi 独身
 {0}dr+djgxki.duozie 独自
 {0}dr+kumj.uuuyuo 属于
+{0}dup+u 稞
 {0}dur 种
 {0}duf+u 季
 {0}du+bmmdif.rzorfe 柔韧
@@ -9670,6 +9699,7 @@
 {0}da+ga+xmsg.rueiuilie 入出力
 {0}da+ho.ucunvu 少女
 {0}da+hs+nddhoox.ucuuuepde 少数派
+{0}da+ha+yp+kgponn.ucunvumjehxe 少女漫画
 {0}da+ha+od+za+ms+dskkfohnwuwdh.ucunvuosimoelvuxko 少女終末旅行
 {0}da+cfmds.rueihu 入场
 {0}da+ma+ncisx.rueliefau 入力法
@@ -9694,6 +9724,7 @@
 {0}da+fpom.dciyuo 刀魚
 {0}da+fu.ouozia 竹子
 {0}da+fkwcs.rueoue 入驻
+{0}da+ffo.uculea 少了
 {0}da+jxot.bierjo 必然
 {0}da+js.vvayte ヶ月
 {0}da+jdgo.ucujme 少见
@@ -10330,6 +10361,7 @@
 {0}kl+sa+wlctj.tsorfooie 同人誌
 {0}kl+lj+ca+xmjwclk.tsodneyailie 同調圧力
 {0}kl+ey+zfujw.tsoybizie 同音字
+{0}kl+ey+ev+cd+wlkkljwpebi.tsoybiyieyieyuu 同音異義語
 {0}kl+ecdbij.tsoyie 同義
 {0}kl+emrd.hzejpo 后节
 {0}kl+evjj.tsoqii 同期
@@ -10767,6 +10799,7 @@
 {0}ka+hofdn.yiijio 一級
 {0}ka+ctuu.bfudie 本地
 {0}ka+cux.yiikke 一块
+{0}ka+cu+wl+wrkyisf.yiiuiotkooiu 一時停止
 {0}ka+cofs.yiikru 一款
 {0}ka+csmg.yiiqiu 一起
 {0}ka+cslg.yiiqiu 一起
@@ -11858,8 +11891,6 @@
 {0}jix 욲
 {0}jic 욶
 {0}ji+ejvzx.xmedmu 献典
-{0}jdf 肌
-{1}jdf 冗
 {0}jdf+ 冗
 {0}jd+bxycg.mdeiyi 売春
 {0}jd+poixng.ifomoe 沉默
