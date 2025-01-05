@@ -971,6 +971,7 @@
 {0}ya+ka+su.riebfurfo 日本人
 {0}ya+ka+jx+dskkfur.riebfuyhixko 日本央行
 {0}ya+ka+jf+jk+hi+ueejuoubnui.riebfuxtoyrojiigze 日本学生支援機構
+{0}ya+jgd.bdomue 白目
 {0}ya+jm.ygdkk.bdoxtubai 白雪巴
 {0}ya+je+kcizndd.bdoxteqqo 白血球
 {0}nyt+t 混
@@ -2774,6 +2775,7 @@
 {0}uw+nezjol.ojioie 粘滞
 {0}uw+xk+dwdfldzzhm.keikcuiro 科考船
 {0}uw+ua+srimfhsf.hdoziamfa 孩子们
+{0}uw+hodynsz.xpoxme 斜線
 {0}uw+himdz.keihre 科幻
 {0}uw+cp+nkvpozkc.lneliujqu 料理酒
 {0}uw+cp+iwlozkc.lneliudme 料理店
@@ -3324,6 +3326,7 @@
 {0}gj+yfyjjb.uyejmi 瞬間
 {0}gj+uknkk.llujio 両極
 {0}gj+gz+tdbkjjnju.vdemwexke 瞹眛性
+{0}gj+gz+sk+zjhiojjnjuus.vdemwejmusou 瞹眛検索
 {0}gj+zxyk.lluoeu 両者
 {0}gj+wujggk.lluqbi 両親
 {0}gj+wek.llulie 両立
@@ -6227,6 +6230,7 @@
 {0}ok+ba+mkkiij.ykiysecgo 应用层
 {0}ok+ya+lf+kl+ozihdkss.hsobdogeiheooje 紅白歌合戦
 {0}ok+nuii.ykidve 应对
+{0}ok+nzzjh.hsoico 紅潮
 {0}ok+gilp.fuouji 福山
 {0}ok+ga+ds+nililpkc.fuoujiyauoie 福山雅治
 {0}ok+hodynh.hsoxme 紅線
@@ -8544,6 +8548,7 @@
 {0}im+rkfiiyr.jiojli 即将
 {0}im+ugth.hrexlu 幻想
 {0}im+gt,bk+dbtddhud.hrexluugiwue 幻想生物
+{0}im+hx+bkhiobin.huefaisue 护发素
 {0}im+hfusj.pmihcu 偏好
 {0}im+cjdgyr.jiomde 即売
 {0}im+zkb.hueuie 护士
@@ -11137,6 +11142,7 @@
 {0}fs+kjmkl.ivixtu 吹雪
 {0}fs+fygue.igosee 橙色
 {0}fs+fx+udfld.ivifgijii 吹风机
+{0}fs+fx+djklld.ivifgitsu 吹风筒
 {0}fs+fiwi.oiiwde 之外
 {0}fl+bfjxk.keuhre 可換
 {0}fl+yskjvy.wfetio 問題
