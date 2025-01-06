@@ -1701,6 +1701,8 @@
 {0}xa+ekkiw.wfoyyo 文芸
 {0}xa+efw.wfoyie 文艺
 {0}xa+ixmip.ybiwwe 因为
+{0}xa+ix+xk+th+ulilclwio.qrufweqioziuxke 犬吠埼紫杏
+{0}xa+ix+cxklil.qrufweqio 犬吠埼
 {0}xa+irfm.quihxe 区划
 {0}xa+iumw.wfouui 文书
 {0}xa+izpzw.wfokue 文庫
@@ -1857,6 +1859,7 @@
 {0}tg,djxmjx.xsijbi 胸筋
 {0}tg,jzvkjx.xsiqli 胸腔
 {0}th+na+yyywio.ziuuvujki 紫水晶
+{0}th+ulwio.ziuxke 紫杏
 {0}th+mdxnwio.ziufae 紫髪
 {0}th+vwio.ziujbi 紫金
 {0}th+exmvwio.ziusui 紫苏
@@ -5626,6 +5629,7 @@
 {0}wm+jkkvwu.yzojue 遊具
 {0}wm+jk+uhiijkzv.xpuofijii 写真機
 {0}wm+jk+scujkzv.xpuofijio 写真集
+{0}wm+jk+sizlljkzv.xpuofigru 写真館
 {0}wz 斗
 {0}wzv+t 𰻞
 {0}wzv+tblo 𰻞
@@ -7527,7 +7531,8 @@
 {0}le+fjrkikev.pgeiue 碰触
 {0}le+jugk.dzeruu 豆乳
 {0}le+jjxncl.xiuvde 喜爱
-{0}lix 숚
+{0}lix 吠
+{1}lix 숚
 {0}li+pdnlw.ojelte 战略
 {0}li+nwelx.kuiqie 哭泣
 {0}li+hu+eplxld.qieleequi 器乐曲
@@ -8811,6 +8816,7 @@
 {0}ik.kw+szjhyhgzs.jiedkeoio 既定値
 {0}ik.fygr.hsosee 虹色
 {0}ik.judddr.hsocdu 虹彩
+{0}ik.jeyxr.hsomoo 虹膜
 {0}if+bwefi.doilai 多拉
 {0}if+pm+sukfikr.doimmetiu 多面体
 {0}if+pls.jbihvo 今回
