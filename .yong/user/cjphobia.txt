@@ -4658,6 +4658,7 @@
 {0}ma+dbuyk.huejio 戸籍
 {0}ma+kc+ij+ij+skkikpizimgg.wjegoobooljuhve 万国博覧会
 {0}ma+km+kf+okzso.wjejxidgihou 万家灯火
+{0}ma+ks+jxxkhc.wjewwowhu 万维网
 {0}ma+fiwi.huewde 户外
 {0}ma+jugm.jueruu 巨乳
 {0}zp+bwehwz.lmojpi 連接
@@ -5425,6 +5426,7 @@
 {0}va+sctwkf.xnuhee 小鹤
 {0}va+sk+ydbkfdkf.xnuxkoxki 小行星
 {0}va+sf+dfdrifwx.xnuyeefgi 小夜風
+{0}va+lb+kc+zkmskfipi.jbiorigoojxi 金砖国家
 {0}va+lt+db,bf,mzteitkec.gsegjuxkexqiiiu 共感性羞恥
 {0}va+lv.zkmsfwlg.xnuuoijxi 小説家
 {0}va+lv.wm+wvifwlgwu.xnuuoiyzohui 小説遊戯
@@ -7531,8 +7533,6 @@
 {0}le+fjrkikev.pgeiue 碰触
 {0}le+jugk.dzeruu 豆乳
 {0}le+jjxncl.xiuvde 喜爱
-{0}lix 吠
-{1}lix 숚
 {0}li+pdnlw.ojelte 战略
 {0}li+nwelx.kuiqie 哭泣
 {0}li+hu+eplxld.qieleequi 器乐曲
@@ -7967,6 +7967,7 @@
 {0}ey+siftwt.yienme 意念
 {0}ey+skrpw.ybisie 音価
 {0}ey+sfxwt.yieqie 意気
+{0}ey+sa+foufjd.laebaiozi 腊八粥
 {0}ey+lzuwt.yiewwe 意味
 {0}ey+ls.jpekzu 借口
 {0}ey+lkhmw.ybihce 音号
@@ -7985,6 +7986,7 @@
 {0}ey+duejj.mieigo 冪乗
 {0}ey+dujux.moocee 模策
 {0}ey+dzzgux.moofje 模範
+{0}ey+dsj.laebai 腊八
 {0}ey+kcw.ybiyai 音圧
 {0}ey+kotwt.yieyre 意愿
 {0}ey+kedddw.ybixko 音形
@@ -10415,6 +10417,7 @@
 {0}ke+rpgki.iuodme 厨电
 {0}ke+wedgez.hxodce 華道
 {0}ke+stsiilv.yaulko 哑铃
+{0}ke+itkddd,xkouie 形式
 {0}ke+imwdmki.iuofho 厨房
 {0}ke+ka+xksjkik.iuovrebke 厨二病
 {0}ki.nldgrx.olekle 状況
@@ -11305,6 +11308,7 @@
 {0}fk+swekjv.dkuwwe 頂位
 {0}fk+sizllye.kdigru 開館
 {0}fk+skkiye.kdihve 開会
+{0}fk+sk+zxyyefxt.kdifaioeu 開発者
 {0}fk+lzudri.fgiwwe 風味
 {0}fk+ldldri.fgilvu 風呂
 {0}fk+eyxjye.kdimue 開幕
@@ -12128,6 +12132,7 @@
 {0}ja+zvkx.yzuksi 有空
 {0}ja+vx+jg+cx+uhiixzmddm.yzuqsoziedsejii 有穷自動機
 {0}ja+vwzzs.nwelme 内鏈
+{0}ja+vs+wi+nj+yi+wlskjszlngdeug.nwersolqopjogdelye 内容流通基盤概論
 {0}ja+wxxmx.yzuxne 有効
 {0}ja+wtkkx.yzuxpi 有些
 {0}ja+wlmss.nweyie 内訳
