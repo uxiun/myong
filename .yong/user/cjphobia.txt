@@ -220,6 +220,7 @@
 {0}bk+vmdvnj.qkipbo 清貧
 {0}bk+vmde.iaeffi 差分
 {0}bk+vlfstj.qkoyue 情欲
+{0}bk+wlfxkd.ugidje 生誕
 {0}bk+wljgnj.qkille 清亮
 {0}bk+weytd.ugiyie 生意
 {0}bk+wedd.ugiiju 生产
@@ -236,6 +237,7 @@
 {0}bk+sklrd.ugimke 生命
 {0}bk+lmrfe.iaebpo 差別
 {0}bk+lkmme.iaejue 差距
+{0}bk+lf+jskkodwxk.ugidjejie 生誕祭
 {0}bk+ey+sdwt.ugiyierfo 生意人
 {0}bk+echd.ugijli 生姜
 {0}bk+emrtj.qkojpo 情节
@@ -1087,6 +1089,7 @@
 {0}nd+kl+ry+kelsfkd.loeheoyhoyii 落合陽一
 {0}nd+kjpel.loelwo 落雷
 {0}nd+jel.loeyte 落月
+{0}nkv+p 酒
 {0}nkd+o 源
 {0}nkj+i 澪
 {0}nk.tlgbpr.mmebci 麺包
@@ -3122,6 +3125,7 @@
 {0}uj+djxmok.cuijbi 粗筋
 {0}uj+keddddg.xlixko 箱形
 {0}uj+fuwgg.qbizia 親子
+{0}ua+bntouo.miuqui 米麹
 {0}ua+pr+uz+swklonzdpt.miuzeosvexbe 米澤穂信
 {0}ua+ymkc.mueyce 木曜
 {0}ua+ylmns.xqixxo 休暇
@@ -3720,6 +3724,7 @@
 {0}ha+wyzz.vjiooo 安卓
 {0}ha+wx+xl+sccznrs.vjijieoiijxi 安済知佳
 {0}ha+we+vy+kkkzslk.vjibwejbesji 安倍晋三
+{0}ha+wddbkz.vjiiju 安産
 {0}ha+omkj.toudhi 妥当
 {0}ha+sx+ca+ecdbiucw.nvuqroouuyie 女権主義
 {0}ha+st.nvuhxe 女化
@@ -3737,6 +3742,7 @@
 {0}ha+dbk.nvuugi 女生
 {0}ha+db,dm+bkhiotknx.nvuxkejiisue 女性激素
 {0}ha+dsgoxz.vjihvi 安徽
+{0}ha+dd,od+kokjvzwbkikr.vjiijuqioyre 安産祈願
 {0}ha+dfkri.nvufgi 女風
 {0}ha+kcpcz.vjiliu 安理
 {0}ha+kc+tdbkzs.vjiqroxke 安全性
@@ -5969,6 +5975,7 @@
 {0}or+ojfuipr.ufoxto 神学
 {0}or+sgipr.ufoxmi 神仙
 {0}or+iocipr.ufouee 神社
+{0}or+isuipr.ufolee 神楽
 {0}or+dy+oi+nkfliprkomvn.ufoyrojyeheo 神原駿河
 {0}or+dn+stiprul.ufogeohxe 神格化
 {0}or+dutdipr.ufomie 神秘
@@ -6220,6 +6227,7 @@
 {0}od+kgphyn.xmehxe 線画
 {0}od+kwrohnw.osiyji 終焉
 {0}od+kotikr.qioyre 祈愿
+{0}od+kokjvikr.qioyre 祈願
 {0}od+kedddhyn.xmexko 線形
 {0}od+kfchyn.xmexko 線型
 {0}od+frzkgydd.ykuyre 影院
@@ -7478,6 +7486,7 @@
 {0}ll.nzkvbu.cciyju 操演
 {0}ll.rrdpzl.pbupdo 品牌
 {0}ll.mkftch.sheuii 喪屍
+{0}ll.wlcjgwkx.wueduo 誤読
 {0}ll.wlmkll.pbucio 品詞
 {0}ll.wlkozl.pbupko 品評
 {0}ll.ojlcnu.zcutho 澡堂
@@ -8135,6 +8144,7 @@
 {0}ev+ebjgy.xmuoea 显着
 {0}ev+ecdbip.yieyie 異義
 {0}ev+ea+psrrpt.yieuiejpe 異世界
+{0}ev+ea+sr+zk+dbkptprzki.yieuiejpeoruugi 異世界転生
 {0}ev+ir+va+jr+km+uhiiknrkkifg.yaeozijbirsowwijii 亚洲金融危機
 {0}ev+ioks.gsiyki 供应
 {0}ev+ijttp.yiengo 異能
@@ -8564,6 +8574,7 @@
 {0}im+wjwdmsj.pmipho 偏旁
 {0}im+oco.luozce 炉灶
 {0}im+od+ms+puihyddwdh.hreykulvutro 幻影旅団
+{0}im+od+dn+udfhyddb.hreykubjijii 幻影扳机
 {0}im+ojjggh.hrejto 幻覚
 {0}im+sth.hrehxe 幻化
 {0}im+szrxyr.jiouiu 即使
@@ -8688,6 +8699,7 @@
 {0}is+ua+oa+sk+oa+kzcxofnuf.vdimiuvrutuovrugje 埃米尔･涂尔干
 {0}is+ua+focxo.vdimiuvru 埃米尔
 {0}is+ha+ud+mxxczwkr.xsovjixbiqui 雄安新区
+{0}is+mkiceu.ycewui 薬屋
 {0}is+zhxc.xsovji 雄安
 {0}is+wxxmeu.ycexne 薬効
 {0}is+wrrfeu.ycejie 薬剤
@@ -9528,6 +9540,8 @@
 {0}de,sluxsn.hoebcu 獲保
 {0}de,lite 悳来(^Delite)
 {0}de,dsykixsn.hoedeo 獲得
+{0}de,ki.ms+kjmkxpmcix.mciwuifuixtu 猫屋敷雪
+{0}de,ki.imsxxpmc.mciwuifui 猫屋敷
 {0}de,frdnby.ugijle 昇降
 {0}de,jgxp.mcimue 猫目
 {0}di 得
@@ -10195,6 +10209,7 @@
 {0}kv+csmzno.xkique 兴趣
 {0}kv+mbmos.bkimau 兵馬
 {0}kv+wh+hm.dlgsegfk.bkihlimaulre 兵荒马乱
+{0}kv+oudynp.jqupoe 酒粕
 {0}kv+ojfus.bkixto 兵学
 {0}kv+ssxmyp.udeuhi 晒伤
 {0}kv+lygnp.jqubaa 酒吧
@@ -10340,6 +10355,8 @@
 {0}kl+hkxhvs.heolme 合练
 {0}kl+cp+stskc.heoliuhxe 合理化
 {0}kl+ctj.tsooie 同志
+{0}kl+cu+we+hocjgjyibh.tsouiojpixue 同時接続
+{0}kl+cu+we+oc+ohsxjyibhhjg.tsouiojpixueuue 同時接続数
 {0}kl+zxyd.hzeoeu 后者
 {0}kl+zusxm.siijne 司教
 {0}kl+zskys.heosue 合宿
@@ -10788,6 +10805,7 @@
 {0}ka+yfj.ghimfo 肛門
 {0}ka+nspwn.jlihdu 江海
 {0}ka+nspww.uhehdu 上海
+{0}ka+nkvpe.gjijqu 甘酒
 {0}ka+xy+ms+kkzb.vreoeuzeoyii 二者択一
 {0}ka+xlx.zouyze 左右
 {0}ka+tu+stuc.bfudiehxe 本地化
@@ -11172,6 +11190,7 @@
 {0}fl+wlgvk.keuxru 可選
 {0}fl+wlcjgk.keuduo 可読
 {0}fl+wexk.keusse 可送
+{0}fl+wegk.keunie 可逆
 {0}fl+oj+stkigg.keuuiehxe 可視化
 {0}fl+sk+fjmdbkdkf.keuxkojpu 可行解
 {0}fl+ihvlgk.keuuoi 可说
@@ -11463,6 +11482,7 @@
 {0}jt+oa+ijttitk.ngobuengo 能不能
 {0}jt+sk+ba+dywgitfleo.ngodgibjedcu 能登半島
 {0}jt+sa+jjtnjnf.vdejquvde 愛久愛
+{0}jt+lythit.ngohei 能喝
 {0}jt+eyxjrs.ohemue 帐幕
 {0}jt+dukp.yuobfe 愚笨
 {0}jt+dufojn.vdeigi 愛称
