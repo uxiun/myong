@@ -885,6 +885,7 @@
 {0}yf+ebjgku.hzeoea 厚着
 {0}yf+ed,su+jghozrwgii.dzidcefuuxme 都道府県
 {0}yj 明
+{0}yjz+z 暈
 {0}yjk+n 暖
 {0}yj.yjknne.wfinru 温暖
 {0}yj.nne.wfiuvu 温水
@@ -1867,6 +1868,7 @@
 {0}tg,djxmjx.xsijbi 胸筋
 {0}tg,jzvkjx.xsiqli 胸腔
 {0}th+na+yyywio.ziuuvujki 紫水晶
+{0}th+rj+twiokw.ziuyuuxbi 紫雨心
 {0}th+ulwio.ziuxke 紫杏
 {0}th+mdxnwio.ziufae 紫髪
 {0}th+vwio.ziujbi 紫金
@@ -2080,6 +2082,7 @@
 {0}rb,dujgd.biuxli 筆箱
 {0}rb,kgpd.biuhxe 筆画
 {0}rp+bsr.ufiuzu 伸手
+{0}rp+bfjxkx.ggehre 更换
 {0}rp+ba+vj+rw+klykikxsefez.ggenmoqiiohevde 更年期障碍
 {0}rp+ba+evjkxs.ggenmoqii 更年期
 {0}rp+pn.yzotmo 油田
@@ -3946,10 +3949,12 @@
 {0}cw+urrdh.oliuue 装束
 {0}cw+hm.fpkkxcfk.bjimauyuo 斑马鱼
 {0}cw+mbmokxc.bjimau 斑馬
+{0}cw+zixbrdh.olizde 装载
 {0}cw+sp+jdtikxcnw.bjihdubce 斑海豹
 {0}cw+sedjrdh.olibwe 装備
 {0}cw+sisrjrdh.oliuie 装飾
 {0}cw+ebsiikxc.bjilko 斑羚
+{0}cw+iz+uhiirdhzpz.olizdejii 装載機
 {0}cw+dqdrdh.oliufi 装身
 {0}cw+dujgrdh.olixli 装箱
 {0}cw+kgprdh.olihxe 装画
@@ -4698,6 +4703,7 @@
 {0}zp+rsyndc.osefue 重複
 {0}zp+utidc.osegze 重构
 {0}zp+ugtwz.lmoxlu 連想
+{0}zp+uhiidc.osejii 重機
 {0}zp+hoclwz.lmojpo 連結
 {0}zp+hocjgwz.lmoxue 連続
 {0}zp+hodnlwz.lmoloe 連絡
@@ -8353,6 +8359,7 @@
 {0}ek+klgxoou.mwotje 煤碳
 {0}ek+kl+riecigss.qmeheoyiu 嵌合蟻
 {0}ek+fuehf.pkozia 瓶子
+{0}ek+fkkjsehf.pkojku 瓶颈
 {0}ek+jguk.ljomue 栏目
 {0}ek+jjjxjv.jxoguu 頬骨
 {0}ef 艺
@@ -9364,7 +9371,6 @@
 {0}dh+djrfbr.yieoie 抑制
 {0}dh+kcbr.yieyai 抑圧
 {0}dh+jmrnw.yiifuo 衣服
-{0}dc 壬
 {1}dc 種
 {0}dcu 特
 {0}dc+bnbwg.xruzeo 选择
