@@ -1895,6 +1895,8 @@
 {0}twitter Twitter
 {0}tw+bgidh.xiojii 袭击
 {0}tw+bwehsxb.lmejpi 链接
+{0}tw+pkrk.wuutmo 武田
+{0}tw+pa+oc+fdmkrkhvn.wuutmolkondu 武田綾乃
 {0}tw+nnkrk.wuuhje 武汉
 {0}tw+tsl.zrixbi 钻心
 {0}tw+ta+lldfsl.zrixbioze 钻心咒
@@ -6618,6 +6620,7 @@
 {0}st+pa+le+wd+wkweoclsh.hxitmojxiyiikau 花畑嘉依卡
 {0}st+nspwe.hxihdu 花海
 {0}st+xd,xkwkbufwk.toiyjooge 拖延症
+{0}st+rs+prhocesd.hxixqiloo 花修羅
 {0}st+rfjse.hxifwe 花费
 {0}st+ure.hxiuue 花束
 {0}st+uge.hxioao 花札
@@ -8208,10 +8211,12 @@
 {0}eo+hodyns.wuoxme 無線
 {0}eo+ctus.wuodie 無地
 {0}eo+csmzns.wuoque 無趣
+{0}eo+mzwiys.wuooio 無職
 {0}eo+moxis.wuotoo 無駄
 {0}eo+ml+krksx.wuojxigsi 無加工
 {0}eo+zbzls.wuohde 無害
 {0}eo+zrrfs.wuouie 無事
+{0}eo+zw,zk+dbksmiyzki.wuooiooruugi 無職転生
 {0}eo+vj+fryhse.wuoqiixme 無期限
 {0}eo+wxxms.wuoxne 無効
 {0}eo+ouwzs.wuolne 無料
@@ -10104,6 +10109,7 @@
 {0}kc+sbr.olenmo 壮年
 {0}kc+sbkvpi.gooode 国債
 {0}kc+sxls.qrooii 全知
+{0}kc+srsds.qroxqi 全修
 {0}kc+suks.qrotiu 全体
 {0}kc+sixsf.dcefuo 倒伏
 {0}kc+skrfzi.bcujme 宝剑
