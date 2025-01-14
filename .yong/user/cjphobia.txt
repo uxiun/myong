@@ -1447,6 +1447,7 @@
 {0}xs+iokwx.xneyki 效应
 {0}xl 右
 {0}xl+yt+bk+wddbksdid.oiideaugiiju 知的生産
+{0}xl+te+jgcvceeu.roeyeemue 若葉睦
 {0}xl+usxcs.oiiqro 知権
 {0}xl+csplw.lbesee 吝嗇
 {0}xl+zrrfs.oiiuie 知事
@@ -1454,6 +1455,7 @@
 {0}xl+wedgs.oiidce 知道
 {0}xl+ojjggs.oiijto 知覚
 {0}xl+ss.oiirfo 知人
+{0}xl+eteue.roeyee 若葉
 {0}xl+ed,ffswg.oiidcelea 知道了
 {0}xl+ijtts.oiingo 知能
 {0}xl+dups.oiifji 知番
@@ -2661,6 +2663,7 @@
 {0}ub+zl+oc+ughiookjdlhl.jkigrujpozai 精管結紮
 {0}ub+zizpzdkv.jiizde 積載
 {0}ub+vmddkv.jiiffi 積分
+{0}ub+wlgvokj.jkixru 精選
 {0}ub+wfijokj.jkitsi 精通
 {0}ub+or+cj+yt+ojfuokjiprkggfs.jkiufoxmexlexto 精神現象学
 {0}ub+iorprokj.jkiufo 精神
@@ -10102,6 +10105,7 @@
 {0}kc+wlkklpi.gooyuu 国語
 {0}kc+wlfrs.qrobue 全部
 {0}kc+wepi.goolie 国立
+{0}kc+wedgpi.goodce 国道
 {0}kc+we+cfdnsfc.dcelaijii 倒垃圾
 {0}kc+wddbkpi.gooiju 国産
 {0}kc+wddbksf.dceiju 倒産
