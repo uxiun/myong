@@ -1524,6 +1524,7 @@
 {0}xk+sedjuwk.ogubwe 整備
 {0}xk+sklrsle.drumke 短命
 {0}xk+skluwk.oguheo 整合
+{0}xk+lt+ojjggojvi.lwegjujto 類感覚
 {0}xk+lmrfojv.lwebpo 類別
 {0}xk+la+frszhmz.kcuguudve 考古队
 {0}xk+ecdbiojv.lweyie 類義
@@ -2656,6 +2657,7 @@
 {0}ra+fy+sdby.osijmijme 中間件
 {0}ra+jbf.ybuyse 引用
 {0}ra+jx+da+oj+lt+ilrwidgv.osiyhigluuiezsutdo 中央广播电视总台
+{0}ra+jf+uwvxou.osixtoxne 中学校
 {0}ub+nczokj.jkioyu 精準
 {0}ub+xmokj.jkilie 精力
 {0}ub+ufnkdkv.jiijio 積極
@@ -3063,6 +3065,7 @@
 {0}uk+xms.tiulie 体力
 {0}uk+ul+iltwbd.wwoheogju 違和感
 {0}uk+udnls.tiugeo 体格
+{0}uk+cixms.tiuuie 体勢
 {0}uk+moskss.tiuyje 体験
 {0}uk+mkhs.tiuohu 体長
 {0}uk+zpuis.tiuori 体専
@@ -5362,6 +5365,7 @@
 {0}vk+fx+ev+uskczszc.ksiqiesdiuri 空気塞栓
 {0}vk+fiffjtk.fueyuu 賦予
 {0}vk+jdgjz.hjujme 罕见
+{0}vf+yerjes.qiimfe 欺暪
 {0}vf+rrmkwd.diegvi 递归
 {0}vf+ikcvnes.qiilko 欺凌
 {0}vf+dbkwu.lrougi 孪生
@@ -5497,6 +5501,7 @@
 {0}va+kfcf.xnuxko 小型
 {0}va+kjrki.jbirso 金融
 {0}va+fpo.jbiyuo 金魚
+{0}va+fyg.jbisee 金色
 {0}va+fxrbe.gsejme 共建
 {0}va+fu+io+wlkklpzw.siezieuuoyuu 四字熟語
 {0}va+fhmkf.xnumau 小马
@@ -5967,6 +5972,7 @@
 {0}ox 数
 {0}oxr+j 幣
 {0}ox+prhochkl.qiuloo 綺羅
+{0}ox+xa+cuiilk.yzetmisie 祐天寺
 {0}ox+rh+prhochklpoc.qiulooloo 綺羅羅
 {0}ox+rh+rh+jk+kgphklpocpockkv.qiulooloolkohxe 綺羅羅霊画
 {0}ox+zkmkl.qiouie 騎士
@@ -6617,6 +6623,7 @@
 {1}st 仑
 {0}stu 他
 {0}st+bt,ra+tjiddd.gzewueosixbi 购物中心
+{0}st+bwebu.toilai 拖拉
 {0}st+bk+mxled.hxiugijyi 花生君
 {0}st+pclhe.hxiyro 花園
 {0}st+pa+za+ogjzze.hxitmouiohvi 花田十輝
@@ -6636,6 +6643,7 @@
 {0}st+mirbk.ziesie 恣肆
 {0}st+wlevye.hxipuu 花譜
 {0}st+weytk.zieyie 恣意
+{0}st+we+uhiibub.toilaijii 拖拉機
 {0}st+ope.hxitmo 花畑
 {0}st+ouvmde.hxiffu 花粉
 {0}st+oe.hxihou 花火
@@ -8135,8 +8143,8 @@
 {0}ez+ioklpc.xkefuo 幸福
 {0}ez+dcxmcn.guudse 鼓動
 {0}ez+fl+jjtnck.xkekeuvde 幸可愛
-{0}ev 业
-{1}ev 共
+{0}ev 共
+{1}ev 业
 {0}evf+s 欺
 {0}evj 期
 {0}ev+nn.hsouvu 洪水
@@ -8259,6 +8267,7 @@
 {0}es+wlecidds.oseyie 衆議
 {0}es+lrjcl.taudne 塔吊
 {0}es+le+frzkgddswci.oseyieyre 衆議院
+{0}es+ld+we+cf,kzclzgbkhk.taukeelaimaugje 塔克拉玛干
 {0}es+la+zldgclc.taujiokee 塔吉克
 {0}es+la+ld+vd+cykclczgekr.taujiokeesiitju 塔吉克斯坦
 {0}els+x 敬
@@ -12122,6 +12131,7 @@
 {0}jj.zu+tdbkyny.vdemwexke 曖昧性
 {0}jj.ve+ouwzbneu.uzeyeelne 授業料
 {0}jj.va+lk+skrpwlfwoz.goexnupkosie 過小評価
+{0}jj.ws,xkwkwlsx.goembuoge 過敏症
 {0}jj.wlkklpk.dpoyuu 畳語
 {0}jj.swsxwl.goembu 過敏
 {0}jj.endlnj.hxoloe 滑落
