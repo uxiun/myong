@@ -6046,6 +6046,8 @@
 {0}oc 尘
 {0}oc+puhl.jpogou 結果
 {0}oc+po+fufcf.gviyuozia 鮭魚子
+{0}oc+ra+iodkrhlu.jpouueqio 結束祈
+{0}oc+urhl.jpouue 結束
 {0}oc+ughiohl.jpozai 結紮
 {0}oc+hoimjhjg.xuebmi 続編
 {0}oc+hdtyhl.jpohyi 結婚
@@ -7918,6 +7920,7 @@
 {0}la+edjgp.hvouzu 回首
 {0}la+edjgk.uiouzu 石首
 {0}la+ekkvh.ruoqio 如其
+{0}la+ek+sk+bkhkjvfxt.kzutzofaibnu 口頭発表
 {0}la+ejvz.guudmu 古典
 {0}la+ickjvp.hvogue 回顧
 {0}la+iz+li+moskswvwtk.kzuuueuieyje 口述試験
@@ -7934,6 +7937,7 @@
 {0}la+khkjsp.hvogue 回顾
 {0}la+kcrfp.hvodce 回到
 {0}la+kwh.ruoxxe 如下
+{0}la+kekjv.kzutzo 口頭
 {0}la+ka+ud+le+wsrfcuwkrcl.jiobfuxbixiujue 吉本新喜劇
 {0}la+fk+jgyhidri.tdofgiyju 台風眼
 {0}la+jbw.ojeyse 占用
