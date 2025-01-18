@@ -2047,6 +2047,7 @@
 {0}ta+ojfus.hxexto 化学
 {0}ta+srimz.taimfa 它们
 {0}ta+sm+uetcg.biuqiuldo 比起来
+{0}ta+ssyd.xbiuhi 心傷
 {0}ta+sly.xbioie 心智
 {0}ta+siftp.siinme 思念
 {0}ta+skls.hxeheo 化合
@@ -5364,6 +5365,7 @@
 {0}vk+fy+lz+jg+ykpczywde.ksijmijiesrelle 空間計算量
 {0}vk+fx+ev+uskczszc.ksiqiesdiuri 空気塞栓
 {0}vk+fiffjtk.fueyuu 賦予
+{0}vk+jsynz.ksifue 空腹
 {0}vk+jdgjz.hjujme 罕见
 {0}vf+yerjes.qiimfe 欺暪
 {0}vf+rrmkwd.diegvi 递归
@@ -5972,6 +5974,7 @@
 {0}ox 数
 {0}oxr+j 幣
 {0}ox+prhochkl.qiuloo 綺羅
+{0}ox+xa+ui+xl+bknilkce.yzetmisieroemde 祐天寺若麦
 {0}ox+xa+cuiilk.yzetmisie 祐天寺
 {0}ox+rh+prhochklpoc.qiulooloo 綺羅羅
 {0}ox+rh+rh+jk+kgphklpocpockkv.qiulooloolkohxe 綺羅羅霊画
@@ -6298,6 +6301,7 @@
 {0}ok+esuh.hsoiao 紅茶
 {0}ok+iririlp.fuoozi 福州
 {0}ok+ihwhsi.ykigdi 应该
+{0}ok+iowrkilp.fuooiu 福祉
 {0}ok+dywgilp.fuodcu 福島
 {0}ok+kwrkyjv.xmuoge 顯正
 {0}ok+fbrkih.hsoxpe 紅蟹
@@ -7228,6 +7232,7 @@
 {0}sa+ierjf.qmexio 欠席
 {0}sa+dbtdd.rfowue 人物
 {0}sa+dbk.rfougi 人生
+{0}sa+dn+vx+bsyulw.rfogeojnitie 人格交替
 {0}sa+dn+ls+hudkrulwdd.rfogeoofudre 人格診断
 {0}sa+dt+cr,wljlsskkf.csodiidcegci 从低到高
 {0}sa+dur.rfoosu 人种
@@ -8071,6 +8076,7 @@
 {0}ex,il+yt+ko+udnmlfbtk.niemkojpiuiebju 匿名掲示板
 {0}ex,il+fn+ohsxmlfg.niemkohjouue 匿名函数
 {0}ex,kcrfw.ssedce 送到
+{0}ex,kcerxl.xneyki 咲瑛
 {0}ex,filml.niemko 匿名
 {0}et+dskkfws.svexko 遂行
 {0}er 斯
@@ -11321,6 +11327,7 @@
 {0}fi+dwwdfwj.tsihho 通航
 {0}fi+dskkfwj.tsixko 通行
 {0}fi+ddpkz.cjolqo 残留
+{0}fi+dfwrkn.xiioiu 汐凪
 {0}fi+dfkridl.tdofgi 颱風
 {0}fi+ksxb.origsi 专攻
 {0}fi+ffwj.tsilea 通了
