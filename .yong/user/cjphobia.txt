@@ -5070,6 +5070,7 @@
 {0}zj+sduk.oiorue 植入
 {0}zj+sdcv.tmorue 填入
 {0}zj+ebjgerj.ddeoea 带着
+{0}zj+edufuz.njolie 楠莉
 {0}zj+dbtdduk.oiowue 植物
 {0}zj+dbkuk.oiougi 植生
 {0}zj+dzpctv.ufeose 慎重
@@ -8761,6 +8762,7 @@
 {0}is+wrkzc.jpooiu 截止
 {0}is+wkh.yiuuhe 以上
 {0}is+sjh.yiunwe 以内
+{0}is+ee,zj+edufeujluz.yceujenjolie 薬膳楠莉
 {0}is+ejrfh.yiuqmo 以前
 {0}is+ixmih.yiuwwe 以为
 {0}is+iwleu.ycedme 薬店
@@ -8781,6 +8783,7 @@
 {0}is+fdnh.yiujio 以及
 {0}is+jgkzxsi.fuukje 俯瞰
 {0}is+jzpzh.yiujyi 以軍
+{0}is+jeeleu.yceuje 薬膳
 {0}il 台
 {0}ilt 感
 {0}il+nn.oieuvu 治水
