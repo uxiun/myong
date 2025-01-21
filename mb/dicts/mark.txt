@@ -34,8 +34,8 @@
 ,kd ;$SPACE
 ,kx ・$SPACE
 ,le │$SPACE
-,ld
-,lx
+,ld 『$SPACE
+,lx 』$SPACE
 
 ,w #$SPACE
 ,s 。$SPACE
