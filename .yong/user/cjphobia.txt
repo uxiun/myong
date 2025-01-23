@@ -70,6 +70,7 @@
 {0}br,nkfki.xpejli 蟹江
 {0}br,hudkrof.pjedre 判断
 {0}br,zkwsof.pjedke 判定
+{0}br,szgfki.xpefzu 蟹缶
 {0}br+hudkrof.pjedre 判断
 {0}bg 扎
 {0}bg,xksjd.mcobke 毛病
@@ -877,6 +878,7 @@
 {0}yf+nbdody.jmujpo 簡潔
 {0}yf+xl+rr,wlgvzrszf.dzioiiuiexru 都知事選
 {0}yf+xl+zrrfzrs.dzioiiuie 都知事
+{0}yf+tzr.dzixbi 都心
 {0}yf+uk+zfudys.jmutiuzie 簡体字
 {0}yf+hotkdy.jmuyti 簡約
 {0}yf+wrjzr.dziuie 都市
@@ -2002,6 +2004,7 @@
 {0}tk+ldkrss.qkitki 倾听
 {0}tk+ejvi.uiedmu 式典
 {0}tk+iorpri.uieufo 式神
+{0}tk+dsfxfck.jyihgo 均衡
 {0}tk+djlsv.qkixle 傾向
 {0}tk+kck.jyiyii 均一
 {0}tf 忆
@@ -3493,6 +3496,7 @@
 {0}ht+sssl.mboose 民众
 {0}ht+exwkll.mbojku 民警
 {0}ht+ejlll.mboyko 民营
+{0}ht+ihmgw.whejie 忘记
 {0}ht+is+iy+xm+kxlhshii.mboyiuuiowwetmi 民以食为天
 {0}ht+if+fs+ga+pw+dszptwstibhi.whenmeoiioaimuudeo 忘念之扎姆德
 {0}ht+dbkl.mbougi 民生
@@ -5969,6 +5973,7 @@
 {0}ob+bxkxs.bjezze 伴奏
 {0}ob+hi+frxbpgbs.qriniuofe 圈拟阵
 {0}ob+hf+jxxjkiz.tgoxyewhu 腾讯网
+{0}ob+szgfkj.ogifzu 鯖缶
 {0}ob+sj.pherfo 胖人
 {0}ob+ixbjk.tgokue 腾库
 {0}ob+ihfzjk.tgoxye 腾讯
@@ -7348,6 +7353,7 @@
 {0}lr+wlcjgwrr.xyeduo 訓読
 {0}lr+wlwjmwkw.fwubhe 誹謗
 {0}lr+wldzlzl.grihxe 官話
+{0}lr+wlfozf.geipgi 割烹
 {0}lr+wdclsf.ilezce 創造
 {0}lr+wdmzl.grifhi 官方
 {0}lr+omkzf.geidhi 割当
