@@ -3938,6 +3938,7 @@
 {0}cu+dbtddbi.iiowue 持物
 {0}cu+du+eo+ka+iifryiwms.uiotzewuoyiilho 時透無一郎
 {0}cu+dcuidi.dgudgu 等等
+{0}cu+dsgcx 特徴
 {0}cu+dscuidi.dgudde 等待
 {0}cu+djrfyi.uiooie 時制
 {0}cu+djklci.fgitsu 封筒
@@ -3984,6 +3985,7 @@
 {0}cw+dqdrdh.oliufi 装身
 {0}cw+dujgrdh.olixli 装箱
 {0}cw+kgprdh.olihxe 装画
+{0}cw+kciznkig.lqoqqo 琉球
 {0}cw+kcdyktg.huupoe 琥珀
 {0}cw+fhmkkxc.bjimau 斑马
 {0}co+bkhiop.hwisue 黒素
@@ -8033,6 +8035,7 @@
 {0}ey+ue+jvrfjjd.mieigozeo 冪乗則
 {0}ey+udnux.moobju 模板
 {0}ey+hrweyw.ybixlu 音響
+{0}ey+hozkov.coezsi 錯綜
 {0}ey+hl+ed,xitwtivkdd.yieuioxkotde 意识形态
 {0}ey+hl+kcrfwtiv.yieuiodce 意识到
 {0}ey+hi+llixluxbs.mooniuqie 模拟器
@@ -10541,6 +10544,7 @@
 {0}ke+stsiilv.yaulko 哑铃
 {0}ke+itkddd,xkouie 形式
 {0}ke+imwdmki.iuofho 厨房
+{0}ke+kkki.iuovre 厨二
 {0}ke+ka+xksjkik.iuovrebke 厨二病
 {0}ki.nldgrx.olekle 状況
 {0}ki.njklr.isodse 虫洞
@@ -11918,6 +11922,7 @@
 {0}jv+kfce.dmuxko 典型
 {0}jv+fygnu.ufisee 深色
 {0}jv+js+llixlbunf.tjeceeqie 探测器
+{0}jwk 写
 {0}jw+bkfwn.qnidau 敲打
 {0}jw+cymkc.tjitai 坍塌
 {0}jw+wxmwdm.phobmi 旁边
