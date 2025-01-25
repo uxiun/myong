@@ -202,6 +202,7 @@
 {0}bk+ued.ugildo 生来
 {0}bk+hozxytj.qkoxue 情緒
 {0}bk+cp+dz+tdbkdkcnl.ugiliuhooxke 生理活性
+{0}bk+ch+ozegde.ugijliuci 生姜焼
 {0}bk+czmrntj.qkobce 情報
 {0}bk+csmgd.ugiqiu 生起
 {0}bk+ciotj.qkoree 情熱
@@ -614,6 +615,7 @@
 {0}pk 置
 {0}pkf 町
 {0}pk+ 票
+{0}pk+bueeekh.nsoggi 農耕
 {0}pk+pele.liutmo 豊田
 {0}pk+pa+wrjele.liutmouie 豊田市
 {0}pk+ydhrfy.luuvho 鲁昂
@@ -752,6 +754,7 @@
 {0}yg+kj+sefibeep.bailwuwuu 芭蕾舞
 {0}yg+judddf.seecdu 色彩
 {0}yh+bmzlu.gfijue 根据
+{0}yh+nzzjw.tveico 退潮
 {0}yh+nscn.jminjo 艰难
 {0}yh+nkdou.gfiyro 根源
 {0}yh+ulv.yboxke 銀杏
@@ -1632,6 +1635,7 @@
 {0}xa+uu.eb,fuuwkj.daesfijkezia 大森靖子
 {0}xa+uw+odjgwdz.wfokeiugu 文科省
 {0}xa+uomkw.wfodhe 文档
+{0}xa+ul+kk.eteudwl.daeheoyjoyee 大和言葉
 {0}xa+ue+zldgre.uiuldokee 史莱克
 {0}xa+udxj.daeqno 大橋
 {0}xa+udk.tmicdo 天才
@@ -6062,6 +6066,7 @@
 {0}ou+ikfsmh.lvucie 屡次
 {0}ou+dbsw.miouii 迷失
 {0}ou+db,duywws.miodpoxli 迷迭香
+{0}ou+ddmriff.ozilru 粥卵
 {0}ou+kd+ephpomy.lmexioqui 練習曲
 {0}og+nudnjx.ncuboi 脳波
 {0}og+uhiijx.ncujii 脳機
@@ -8321,7 +8326,6 @@
 {0}els+x 敬
 {0}el+zevswdg.jkesde 竞赛
 {0}el+wdcgwdg.jkexru 竞选
-{0}ee 并
 {0}ee,bmznm.pkouee 屏摄
 {0}ee,bkfs.bkedau 併打
 {0}ee,njvuw.jbeufi 进深
@@ -8458,6 +8462,7 @@
 {0}ea+rmndlk.kdikoe 开阔
 {0}ea+uu.bg,wdhkrod.kdijbimcoyii 开襟毛衣
 {0}ea+usmgk.kdiqli 开枪
+{0}ea+ukpoe.jkubni 井標
 {0}ea+hx+xy+ey+itkkinzux.kdifaioeumoouie 开发者模式
 {0}ea+hx+zxykin.kdifaioeu 开发者
 {0}ea+ht+ojldgwl.liembodhu 立民党
