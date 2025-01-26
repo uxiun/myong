@@ -1009,6 +1009,7 @@
 {0}nh+fmkhmio.jbuohi 緊張
 {0}nc+bcuir.jmiiio 坚持
 {0}nc+pevt.gkeyie 怪異
+{0}nc+xa+rcytw.gkewfouui 怪文書
 {0}nc+zbxm.jmiuio 堅実
 {0}nc+zdbm.jmilco 堅牢
 {0}nc+olixt.gkeuze 怪獣
@@ -3882,6 +3883,7 @@
 {0}cx+kc+ds+frzkgepifxm.mwugoowueyre 美国務院
 {0}cx+kkge.mwuyro 美元
 {0}cx+kkjije.mwulie 美丽
+{0}cx+kkjjte.mwulie 美麗
 {0}cx+jdfe.mwujii 美肌
 {0}ct,kcygkt.piopao 琵琶
 {0}cr,uekf.dceldo 到来
@@ -4260,6 +4262,7 @@
 {0}ca+fmkhw.ouuohi 主張
 {0}ca+fjcw.ouujnu 主角
 {0}ca+jobmk.yaiuge 圧勝
+{0}ca+jkgik.whogri 王冠
 {0}mb+tdylr.naupae 哪怕
 {0}mb+rglr.nauvro 哪儿
 {0}mb+wtkklr.nauxpi 哪些
@@ -10125,7 +10128,8 @@
 {0}kh+fytsb.bnuxle 表象
 {0}kh+fubio.suezia 素子
 {0}kh+filb.bnumko 表名
-{0}kc 圧
+{0}kc 王
+{1}kc 圧
 {0}kci 玉
 {0}kc+bwzzs.qropbi 全拼
 {0}kc+puhl.jpogou 结果
@@ -11651,6 +11655,7 @@
 {0}jr+sdcef.qmorfe 前任
 {0}jr+sdkki.rsorue 融入
 {0}jr+sklkki.rsoheo 融合
+{0}jr+sjvfef.qmocee 前側
 {0}jr+emref.qmojpo 前节
 {0}jr+evjef.qmoqii 前期
 {0}jr+ek+jr+dn+drjgvefkjvefu.qmotzoqmopiooie 前頭前皮質
@@ -11936,6 +11941,7 @@
 {0}jo+pa+lexen.tgotmoxne 藤田咲
 {0}jo+uken.tgobfu 藤本
 {0}jo+ka+unuienu.tgobfuuue 藤本树
+{0}js+ 敵
 {0}js+bpribg.ycobdu 摇摆
 {0}js+bkjsf.fuezeo 负责
 {0}js+pkciwx.diogoo 敵国
