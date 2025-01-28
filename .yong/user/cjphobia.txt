@@ -76,6 +76,7 @@
 {0}bg,xksjd.mcobke 毛病
 {0}bg,hkizd.mcorso 毛绒
 {0}bg,ki.ck+jkkvdhzkkg.mcorsowjojue 毛绒玩具
+{0}bg,fygd.mcosee 毛色
 {0}bc,pevdui.teeyie 特異
 {0}bc,nddhdui.teepde 特派
 {0}bc,xjdui.teeyzu 特有
@@ -263,6 +264,7 @@
 {0}bk+kcpcnj.qkiliu 清理
 {0}bk+kcpcd.ugiliu 生理
 {0}bk+kfzjkd.ugioio 生殖
+{0}bk+fyge.iaesee 差色
 {0}bk+frweznj.qkiohe 清障
 {0}bk+frskunj.qkiiuo 清除
 {0}bk+fskledbz.bdedgi 拜登
@@ -378,6 +380,7 @@
 {0}ba+lj+rkixsxgv.nmoheeole 年賀状
 {0}ba+en+lmrfsi.nmoduebpo 年度別
 {0}ba+ecoexe.yhoggi 羊羹
+{0}ba+edjg.uzuuzu 手首
 {0}ba+imj.ysehue 用户
 {0}ba+iens.nmodue 年度
 {0}ba+dbks.nmougi 年生
@@ -999,6 +1002,7 @@
 {0}nu+hotkd.tnoyti 条約
 {0}nu+sdbd.tnojme 条件
 {0}nu+skffd.tnolie 条例
+{0}nh 派
 {0}nh+qd+rixbriod.jbuufikue 紧身裤
 {0}nh+qd+wdhriod.jbuufiyii 紧身衣
 {0}nh+nnhn.poopoo 婆婆
@@ -1040,6 +1044,7 @@
 {0}nw+kcpcd.iueliu 处理
 {0}nw+ko+kgpdm.dsilkohxe 冬灵画
 {0}nw+kicd.dsioie 冬至
+{0}nw+ki.gd+eyzdrkn.dsiisoxxeccu 冬虫夏草
 {0}nw+kk.skkidwi.dsiyyehve 冬运会
 {0}nw+kjmkd.dsixtu 冬雪
 {0}nw+jglhtd.dsimmo 冬眠
@@ -1075,6 +1080,7 @@
 {0}ni.rrkrei.bcopme 薄片
 {0}ni.ma+ouvmdeix.bcolieffu 薄力粉
 {0}ni.zx+fheeeiom.bcokcubku 薄烤饼
+{0}ni.erpvei.bcohlo 薄黄
 {0}ni.esuei.bcoiao 薄茶
 {0}ni.fkfikei.bcoroe 薄弱
 {0}nd 没
@@ -1288,6 +1294,7 @@
 {0}xt+rrkjz.lcuuii 老师
 {0}xt+rmto.bpimfe 憋闷
 {0}xt+rw+imwdmdplf.igofaofho 懲罰房
+{0}xt+zbzlz.lcuhde 老害
 {0}xt+zwxz.lcuuio 老实
 {0}xt+vxmrz.lcuyeo 老爷
 {0}xt+sbz.lcunmo 老年
@@ -2018,6 +2025,7 @@
 {0}tj+tlgr.bwebci 背包
 {0}tj+wl+cx+dsivfryoe.bwejkumwuuue 背景美術
 {0}tj+wl+ey+isuryow.bwejkuybilee 背景音楽
+{0}tj+weyr.bweybi 背音
 {0}tj+oxrjsgv.hoebie 貨幣
 {0}tj+st+stwxbsy.yceuialme 钥匙链
 {0}tj+dbtddss.hoewue 货物
@@ -3963,6 +3971,7 @@
 {0}ch+erpve.jlihlo 姜黄
 {0}cc,bnkprbw.gxemme 掛麺
 {0}cc,bnkprb.gxemme 挂麺
+{0}cc,xrjbw.gxebue 掛布
 {0}cc,wdhb.gxeyii 挂衣
 {0}cc,ssms.jxizoe 佳作
 {0}cc,filb.gxemko 挂名
@@ -4259,6 +4268,7 @@
 {0}ca+kixmw.ouudse 主动
 {0}ca+kkgw.ouuyro 主元
 {0}ca+kjlkll.tuulue 吐露
+{0}ca+fygw.ouusee 主色
 {0}ca+fmkhw.ouuohi 主張
 {0}ca+fjcw.ouujnu 主角
 {0}ca+jobmk.yaiuge 圧勝
@@ -4494,6 +4504,7 @@
 {0}ml+irirx.jxiozi 加州
 {0}ml+ihxni.qiufai 启发
 {0}ml+il+jxxmck.juoyuewhu 局域网
+{0}ml+drbx.jxibiu 加筆
 {0}ml+dgtx.jxixii 加息
 {0}ml+dmdkrm.juosou 局所
 {0}ml+djgex.jxisre 加算
@@ -5139,6 +5150,7 @@
 {0}za+wbdry.zcuuie 早逝
 {0}za+wyhy.zcutve 早退
 {0}za+woixgy.zcujqe 早就
+{0}za+wiom.vruuuo 耳熟
 {0}za+wkidod.qmisve 千歳
 {0}za+omkm.vrudhi 耳当
 {0}za+sixu.moefuo 末伏
@@ -5150,6 +5162,7 @@
 {0}za+dis.ufomea 什么
 {0}za+dkls.wuuhze 午后
 {0}za+kpdnlk.gjelce 干酪
+{0}za+kckom.vruhro 耳环
 {0}za+kmd.qmiwje 千万
 {0}za+fuu.moezia 末子
 {0}za+fkxmk.gjejbe 干劲
@@ -8090,6 +8103,7 @@
 {0}ey+dyirw.ybijpo 音節
 {0}ey+duejj.mieigo 冪乗
 {0}ey+dujux.moocee 模策
+{0}ey+dujgw.ybixli 音箱
 {0}ey+dzzgux.moofje 模範
 {0}ey+dsj.laebai 腊八
 {0}ey+kcw.ybiyai 音圧
@@ -8274,6 +8288,7 @@
 {0}eo+tixds.wuocju 無惨
 {0}eo+ry+mkhsfh.wuoxmeohu 無限長
 {0}eo+rrps.wuoxqe 無袖
+{0}eo+uw+rrdnsoz.wuolnebju 無料版
 {0}eo+howdzs.wuofge 無縫
 {0}eo+hodyns.wuoxme 無線
 {0}eo+ctus.wuodie 無地
@@ -8423,6 +8438,7 @@
 {0}ek+wlfrkjv.tzobue 頭部
 {0}ek+weytnj.mjuyie 满意
 {0}ek+wkkjv.tzouhe 頭上
+{0}ek+og+nddhkjvjx.tzoncupde 頭脳派
 {0}ek+sukhu.mwotiu 媒体
 {0}ek+sdgs.qmerue 嵌入
 {0}ek+sklgs.qmeheo 嵌合
@@ -8434,6 +8450,7 @@
 {0}ek+fuehf.pkozia 瓶子
 {0}ek+fkkjsehf.pkojku 瓶颈
 {0}ek+jguk.ljomue 栏目
+{0}ek+jogxkjv.tzoncu 頭脳
 {0}ek+jjjxjv.jxoguu 頬骨
 {0}ef 艺
 {0}efr+d 萨
@@ -8456,6 +8473,7 @@
 {0}ej+kekjvdf.jmetzo 箭頭
 {0}ej+fjmdbzg.krijpu 寛解
 {0}ea+psrrt.uiejpe 世界
+{0}ea+pkciw.liegoo 立国
 {0}ea+yx+itkkej.kdimueuie 开幕式
 {0}ea+yimrw.liejio 立即
 {0}ea+yfyt.uiejmi 世間
@@ -8626,6 +8644,7 @@
 {0}it+kh+pudsb.ddebnutro 代表团
 {0}it+kcpcs.ddeliu 代理
 {0}it+klfhks.ddemau 代码
+{0}it+kjkkvm.wwelko 慰霊
 {0}it+jbs.ddeyse 代用
 {0}ir+bkpwirie.guuduo 蠱毒
 {0}ir+xmfi.qlolie 強力
@@ -9819,6 +9838,7 @@
 {0}dj+ddbgyg.mwobiu 眉笔
 {0}dj+kkfseg.uzucie 首次
 {0}dj+kjseg.uzuyee 首页
+{0}dj+jgzrsyg.mwojpo 眉睫
 {0}dj+jogxeg.uzuncu 首脳
 {0}da+bs.rueuzu 入手
 {0}da+bdupw.gluboi 广播
@@ -9905,6 +9925,7 @@
 {0}kp+fifiyc.lledoi 量多
 {0}ky+ydbktk.hgoxki 恒星
 {0}ky+xrjzk.xribue 宣布
+{0}ky+wlcjgzk.xriduo 宣読
 {0}ky+wkklzk.xriyjo 宣言
 {0}ky+sbfizk.xriiro 宣传
 {0}ky+skkizk.xriyyo 宣伝
@@ -10128,8 +10149,6 @@
 {0}kh+fytsb.bnuxle 表象
 {0}kh+fubio.suezia 素子
 {0}kh+filb.bnumko 表名
-{0}kc 王
-{1}kc 圧
 {0}kci 玉
 {0}kc+bwzzs.qropbi 全拼
 {0}kc+puhl.jpogou 结果
@@ -11214,6 +11233,7 @@
 {0}fu+kpmrz.ziemme 字面
 {0}fu+kckkgh.hcuwjo 好玩
 {0}fu+kedddz.ziexko 字形
+{0}fu+kfih.hcuddu 好歹
 {0}fu+fygn.rjusee 染色
 {0}fu+flriu.liuqlo 李强
 {0}fu+ffh.hculea 好了
@@ -11635,6 +11655,7 @@
 {0}jr+hotkdf.oieyti 制約
 {0}jr+hodynef.qmoxme 前線
 {0}jr+meemf.uxipko 刷屏
+{0}jr+mdxnef.qmofae 前髪
 {0}jr+zxyef.qmooeu 前者
 {0}jr+zkwsdf.oiedke 制定
 {0}jr+wrkdf.oieoiu 制止
@@ -11780,6 +11801,7 @@
 {0}jg+ojjggd.ziejto 自覚
 {0}jg+sbkvfv.fueode 負債
 {0}jg+stud.zietai 自他
+{0}jg+sund.ziexue 自叙
 {0}jg+sukd.zietiu 自体
 {0}jg+su+skludi.xlifuoheo 相符合
 {0}jg+shisu.xliuie 相似
