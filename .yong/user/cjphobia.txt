@@ -2535,6 +2535,7 @@
 {0}rf,sihyxu.cyoiuu 存储
 {0}rf,sdfdq.xmerue 陷入
 {0}rf,eikmfmt.ybucho 隐藏
+{0}rf,ih+llixlxusy.cyoiuuqie 存储器
 {0}rf,iz+vfxbsxrj.hzebuujme 候補鍵
 {0}rf,dufowv.yieigi 亦称
 {0}rf,dwfxci.hxetku 划艇
@@ -2589,6 +2590,7 @@
 {0}rj+duifmt.ybusii 隠私
 {0}rj+dsdfnw.uieyie 市役
 {0}rj+dduiyx.ykeuee 映射
+{0}rj+da+ur+ml+mbfr 市ノ瀬加那
 {0}rj+kp+ul+hs+ykpcdgvycdox.oielleheouuelle 質量和数量
 {0}rj+kxkw.yuutmi 雨天
 {0}rj+kgpyx.ykehxe 映画
@@ -2727,6 +2729,7 @@
 {0}ux+ylot.kkeoce 快照
 {0}ux+tn.jtoxbi 決心
 {0}ux+gklub.pjiyjo 攀岩
+{0}ux+cr,fftkf.kkedcelea 快到了
 {0}ux+csmgzm.booqiu 勃起
 {0}ux+zr+vfxbtbs.kkejpojme 快捷鍵
 {0}ux+zkwsn.jtodke 決定
@@ -2741,6 +2744,7 @@
 {0}ux+isut.kkelee 快楽
 {0}ux+iltt.kkegju 快感
 {0}ux+dhut.kkelee 快乐
+{0}ux+kcrft.kkedce 快到
 {0}ux+kw+tdbknzs.jtodkexke 決定性
 {0}ux+kw+db,jg+cx+uhiinzstkddm.jtodkexkeziedsejii 決定性有限自動機
 {0}ux+kw+dh+ohsxnzsso.jtodkexieuue 決定係数
@@ -3639,6 +3643,7 @@
 {0}hl+lmrfiv.uiobpo 识别
 {0}hl+kwk.iyoxxe 唇下
 {0}he+pdnwfe.bkutuo 饼图
+{0}he+mx+yprnixls.noeyiimje 诺伊曼
 {0}he+wizvie.jluuue 讲述
 {0}he+sa+oa+rfxixljf.noebwevrujlu 诺贝尔奖
 {0}he+sa+foixlj.noebwevru 诺贝尔
@@ -4805,6 +4810,7 @@
 {0}zn+uxkwkm.quuogu 取整
 {0}zn+urkjvi.qqolde 求頼
 {0}zn+cydzc.oieugi 軽声
+{0}zn+zjhioi.qqosou 求索
 {0}zn+va+wlvlgzcf.oiexnuuoi 軽小説
 {0}zn+wsm.quuyui 取込
 {0}zn+wlmklm.quucio 取詞
@@ -5111,6 +5117,7 @@
 {0}zj+sdcv.tmorue 填入
 {0}zj+ebjgerj.ddeoea 带着
 {0}zj+edufuz.njolie 楠莉
+{0}zj+il+rjklperjck.ddeyuefuo 帯域幅
 {0}zj+dbtdduk.oiowue 植物
 {0}zj+dbkuk.oiougi 植生
 {0}zj+dzpctv.ufeose 慎重
@@ -6093,6 +6100,7 @@
 {0}og+kr+zevcjxux.ncuggusdi 脳梗塞
 {0}oh+hocjghou.jiexue 継続
 {0}oh+hojclhio.siiizo 絲綢
+{0}oh+oc+kokjvhouhjg.jiexueyre 継続願
 {0}oh+oj+fs+lkdnlhiohcli.siiizooiilue 絲綢之路
 {0}oh+kwrkhr.jqioge 糾正
 {0}oh+kw+juipo.ykilbuyte 桜凛月
@@ -6448,6 +6456,7 @@
 {0}oa+bf,dikmr.buenaemea 不那么
 {0}oa+bf+dikmr.buenaemea 不那么
 {0}oa+qv+zvslke.buejmirso 不兼容
+{0}oa+ph+ffkk.bueycelea 不要了
 {0}oa+pa+jg+wckrd.bueyzozieouu 不由自主
 {0}oa+ymkc.houyce 火曜
 {0}oa+ykwsk.bueuie 不是
@@ -6825,6 +6834,7 @@
 {0}sc+mehw.jbeoju 進展
 {0}sc+zldlio.ykigsi 鷹宮
 {0}sc+zkwsb.tvidke 推定
+{0}sc+vfrddws.tuodie 徒弟
 {0}sc+wxb.tviwfo 推文
 {0}sc+wrkdw.jbebue 進歩
 {0}sc+wuin.njogoe 难过
@@ -9764,6 +9774,7 @@
 {0}df+rpgu.jiidme 机电
 {0}df+rudnnn.mwobwe 没被
 {0}df+ga+uenng.mwoiuildo 没出来
+{0}df+hoprgbn.tzougo 投縄
 {0}df+mv+ncinnx.mwobjefau 没办法
 {0}df+mkhj.rsuohu 冗長
 {0}df+wxsxnn.mwoxne 没效
@@ -9771,6 +9782,7 @@
 {0}df+wmsxbn.tzofhe 投放
 {0}df+ws,nwigvinx.fjuyeelqo 釩液流
 {0}df+wkbn.tzouhe 投上
+{0}df+op+lg+bmsbnhrgwv.tzougoxruzeo 投縄選択
 {0}df+stni.fjehxe 汎化
 {0}df+ssrrjn.guujxe 股价
 {0}df+sdbn.tzorue 投入
@@ -10806,6 +10818,7 @@
 {0}kf+gd+la+wmssxzknp.nkoxxehvozuo 宁夏回族
 {0}kf+hodxl.qiomne 奇妙
 {0}kf+hlsf.lieruo 例如
+{0}kf+he+mx+yprnihkixls.fgonoeyiimje 冯诺伊曼
 {0}kf+himxl.qiohre 奇幻
 {0}kf+hktihc.nquyti 纽约
 {0}kf+zxysl.heooeu 何者
@@ -11943,6 +11956,7 @@
 {0}jv+swjvbu.tjeofi 探偵
 {0}jv+sdnu.ufirue 深入
 {0}jv+enmge.dmufje 典范
+{0}jv+en+zn+zjhionuii.ufidueqqosou 深度求索
 {0}jv+ee,sfxkmdp.ffitsiqie 雰囲気
 {0}jv+eidme.dmuzhi 典蔵
 {0}jv+ioge.dmuliu 典礼
