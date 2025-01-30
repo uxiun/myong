@@ -231,6 +231,7 @@
 {0}bk+otgnj.qkidye 清炖
 {0}bk+oz+kr+szjhtjhxysp.qkoxuesieoio 情緒価値
 {0}bk+oa+fifiek.iaebuedoi 差不多
+{0}bk+sbdbz.bdenmo 拜年
 {0}bk+stznj.qkihxo 清华
 {0}bk+stj.qkorfo 情人
 {0}bk+sc+skkiddws.ugituohve 生徒会
@@ -354,6 +355,7 @@
 {0}ba+hocjg.uzuxue 手続
 {0}ba+hodhtj.yseoiu 用紙
 {0}ba+hils.nmouiu 年始
+{0}ba+hkmgs.nmojie 年纪
 {0}ba+hfuj.ysehcu 用好
 {0}ba+hfdmd.nqondu 牛奶
 {0}ba+csihs.nmoyte 年越
@@ -1818,6 +1820,7 @@
 {0}ty+jgdzkd.hyiuve 昏睡
 {0}tx+ittbs.niutde 擬態
 {0}tt 比
+{0}tt,pc+tt,bk+ba+hkmglzllzdbzs.bieliibiebdenmojie 哔哩哔哩拜年纪
 {0}tt,pc+tt,lpclzllz.bieliibielii 哔哩哔哩
 {0}tt,cixmi.tdeuie 態勢
 {0}tt,wlkozb.piipko 批評
@@ -3214,6 +3217,7 @@
 {0}ua+vpzi.ilodji 床单
 {0}ua+vdyjz.ssejbu 宋錦
 {0}ua+wrks.xqioiu 休止
+{0}ua+wdmx.dsifhi 东方
 {0}ua+wfijz.wwetsi 未通
 {0}ua+ouvmdo.miuffu 米粉
 {0}ua+sxlz.wweoii 未知
@@ -4098,6 +4102,7 @@
 {0}ci+zu+rgkrcl.bjiwwevro 班味儿
 {0}ci+zhun.fauvje 法案
 {0}ci+zevvkzn.qqosde 球賽
+{0}ci+vfsejr.jnudge 脚鐙
 {0}ci+wlkkln.fauyuu 法語
 {0}ci+oxjr.jnujmi 脚尖
 {0}ci+sukkzn.qqotiu 球体
@@ -4761,6 +4766,8 @@
 {0}zp+hoclwz.lmojpo 連結
 {0}zp+hocjgwz.lmoxue 連続
 {0}zp+hodnlwz.lmoloe 連絡
+{-}zp+ci+ruzwzjr.lmojnuwae 連脚袜
+{0}zp+ci+ix+ruzwzjrrb.lmojnukuewae 連脚裤袜
 {0}zp+zrrfjz.jyiuie 軍事
 {0}zp+zixbdc.osezde 重载
 {0}zp+zizpzwz.lmozde 連載
@@ -4799,6 +4806,7 @@
 {0}zp+kw+djldczs.osedkexle 重定向
 {0}zp+klfhkdc.osemau 重码
 {0}zp+jbwz.lmoyse 連用
+{0}zp+jcirwz.lmojnu 連脚
 {0}zp+jobmwz.lmouge 連勝
 {0}zyo 煮
 {0}znb 撃
@@ -5331,6 +5339,7 @@
 {0}ve+lc+ouwzjejwjg.gzeduolne 購読料
 {0}ve+ivdgieu.yeemoo 業魔
 {0}vi+ggzx.tuiiui 突出
+{0}vi+mkicu.ssiwui 松屋
 {0}vi+lzt.ilikzu 窓口
 {0}vi+emzu.ssirsi 松茸
 {0}vi+ejonu.ssitgo 松藤
@@ -6192,6 +6201,7 @@
 {0}oz+dsfxfk.pkohgo 平衡
 {0}oz+dfik.pkofjo 平凡
 {0}oz+kpmrk.pkomme 平面
+{0}oz+ksk.pkozee 平仄
 {0}oz+fvhsy.soixnu 縮小
 {0}ovb 举
 {0}ov.cu+hoimjhits.zsujiobmi 総集編
@@ -8351,6 +8361,7 @@
 {0}es+ld+we+cf,kzclzgbkhk.taukeelaimaugje 塔克拉玛干
 {0}es+la+zldgclc.taujiokee 塔吉克
 {0}es+la+ld+vd+cykclczgekr.taujiokeesiitju 塔吉克斯坦
+{0}es+kpmgbl.daipwe 搭配
 {0}els+x 敬
 {0}el+zevswdg.jkesde 竞赛
 {0}el+wdcgwdg.jkexru 竞选
@@ -9569,6 +9580,7 @@
 {0}dm+djlw.fhixle 方向
 {0}dm+kpmrw.fhimme 方面
 {0}dm+kxmi.igogsi 成功
+{0}dm+kh+wc+dduinxbion.jiisueoueuee 激素注射
 {0}dm+kixmnx.jiidse 激动
 {0}dm+kfonx.jiilpe 激烈
 {0}dm+ka+ob+wxxmiuhkv.igobfujiixne 成本績効
@@ -9806,9 +9818,11 @@
 {0}df+dskkfnn.mwoxko 没行
 {0}df+ds+urksxfoxfx.miohzotco 猕猴桃
 {0}df+dk+kcrfnnlr.mwotkidce 没听到
+{0}df+kpkkobn.tzopne 投票
 {0}df+kh+tdbkjm.rsuohuxke 冗長性
 {0}df+kcpcj.jiiliu 肌理
 {0}df+kv+csmznnno.mwoxkique 没兴趣
+{0}df+kwjn.guuxxe 股下
 {0}df+ksjgvbn.tzozii 投資
 {0}df+fygj.jiisee 肌色
 {0}df+fl+yskjvnny.mwowfetio 没問題
@@ -10901,6 +10915,7 @@
 {0}kj+hkmkdhcl.izomzo 绸缪
 {0}kj+csihsn.yziyte 優越
 {0}kj+ceznbp.lwoguu 擂鼓
+{0}kj+ci+ix+ruzlujrrb.cdujnukuewae 踩脚裤袜
 {0}kj+cd+iensndg.yzixmidue 優先度
 {0}kj+md+ey+kcddpbnlw.qkiocuybilqo 青沼音瑠
 {0}kj+zvkb.qkiksi 青空
@@ -10938,6 +10953,7 @@
 {0}kj+kl+ix+sthkssg.zuuheoyzihxe 组合优化
 {0}kj+frshk.zuudve 组队
 {0}kj+jgkv.xlemue 項目
+{0}kj+jcirlu.cdujnu 踩脚
 {0}kj+jobmsn.yziuge 優勝
 {0}ka+bx.zouuzu 左手
 {0}ka+bmsk.vrezeo 二択
@@ -11046,6 +11062,7 @@
 {0}ka+sikjvu.bfulku 本領
 {0}ka+sdb.yiijme 一件
 {0}ka+sfxu.bfuqie 本気
+{0}ka+sjvfx.zoucee 左側
 {0}ka+sjvfw.uhecee 上側
 {0}ka+sa+dufo.yiirfoigi 一人称
 {0}ka+ly+ey+itkssux.tsooiemoouie 仝智模式
@@ -11101,6 +11118,7 @@
 {0}ka+frtty.yiijpi 一階
 {0}ka+frcvns.qqilko 丘陵
 {0}ka+fil.yiimko 一名
+{0}ka+jwyhx.zoutvu 左腿
 {0}ka+jl+kf+va+bxyuocpf.bfuthotkixnuiyi 本堂町小春
 {0}fb,zixbfs.igozde 承载
 {0}fb,wlmitfs.igorfe 承認
