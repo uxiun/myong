@@ -1091,6 +1091,7 @@
 {0}nd+przjkdf.iuuoie 処置
 {0}nd+prwlfdf.iuufao 処罰
 {0}nd+nspwel.loehdu 落海
+{0}nd+nkmxel.loelwe 落涙
 {0}nd+cp+llixldfkc.iuuliuqie 処理器
 {0}nd+mbmoel.loemau 落馬
 {0}nd+wlgvel.loexru 落選
@@ -4766,7 +4767,6 @@
 {0}zp+hoclwz.lmojpo 連結
 {0}zp+hocjgwz.lmoxue 連続
 {0}zp+hodnlwz.lmoloe 連絡
-{-}zp+ci+ruzwzjr.lmojnuwae 連脚袜
 {0}zp+ci+ix+ruzwzjrrb.lmojnukuewae 連脚裤袜
 {0}zp+zrrfjz.jyiuie 軍事
 {0}zp+zixbdc.osezde 重载
@@ -8473,7 +8473,8 @@
 {0}ek+jguk.ljomue 栏目
 {0}ek+jogxkjv.tzoncu 頭脳
 {0}ek+jjjxjv.jxoguu 頬骨
-{0}ef 艺
+{0}ef 夢
+{1}ef 艺
 {0}efr+d 萨
 {0}ef+lkfijsib.wuuysu 舞踊
 {0}ef+lkjdqsib.wuudcu 舞蹈
@@ -11693,6 +11694,7 @@
 {0}jr+wudkrmf.uxixbi 刷新
 {0}jr+wscef.qmojbe 前進
 {0}jr+wskuef.qmotuo 前途
+{0}jr+wsfxef.qmoyee 前夜
 {0}jr+wegkjef.qmodri 前端
 {0}jr+wdcldf.oiezce 制造
 {0}jr+obef.qmobje 前半
