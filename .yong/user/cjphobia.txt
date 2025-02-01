@@ -3100,6 +3100,7 @@
 {0}uk+xms.tiulie 体力
 {0}uk+ul+iltwbd.wwoheogju 違和感
 {0}uk+udnls.tiugeo 体格
+{0}uk+hotkwb.wwoyti 違約
 {0}uk+cixms.tiuuie 体勢
 {0}uk+moskss.tiuyje 体験
 {0}uk+mkhs.tiuohu 体長
@@ -3108,6 +3109,7 @@
 {0}uk+za+weyk.wuuuioybi 五十音
 {0}uk+wrkuko.jbeoiu 禁止
 {0}uk+wijs.tiuyue 体育
+{0}uk+ot+vwbhk.wwoytijbi 違約金
 {0}uk+ouwepjv.keilie 顆粒
 {0}uk+ouorx.jkimiu 粳米
 {0}uk+ouojj.noemiu 糯米
@@ -3969,6 +3971,7 @@
 {0}cu+kpmrci.fgimme 封面
 {0}cu+kudi.dguyuo 等于
 {0}cu+kcwgjkdn.boilio 玻璃
+{0}cu+kl+hoskiss.jioheohve 集合絵
 {0}cu+fy+bkhyiy.uiojmibnu 時間表
 {0}cu+fy+hodynyiy.uiojmixme 時間線
 {0}cu+fy+mciyiy.uiojmiioi 時間戳
@@ -5728,6 +5731,7 @@
 {0}wm+zjkvjk.xpuofi 写真
 {0}wm+wviwu.yzohui 遊戯
 {0}wm+su+pclhwui.yzoleeyro 遊楽園
+{0}wm+ssmjk.xpuzoe 写作
 {0}wm+ebjgjk.xpuoea 写着
 {0}wm+dytijk.xpudea 写的
 {0}wm+dsykijk.xpudeo 写得
@@ -7675,6 +7679,7 @@
 {0}li+zlrllxl.qiegri 器官
 {0}li+wzw.ojedze 战斗
 {0}li+os+zlrlwtkmks.uieyjegri 試験官
+{0}li+ssmwtk.uiezoe 試作
 {0}li+sklwtk.uieheo 試合
 {0}li+evk.kleyee 矿业
 {0}li+dn+kl+sm+oa+sobwplsss.ojelteheozoehoubje 战略合作伙伴
@@ -9314,6 +9319,7 @@
 {0}dn+sjsu.piorze 皮肉
 {0}dn+sa+la+dszptnlbz.loefuiguudeo 洛夫古德
 {0}dn+lllw.fjupbu 返品
+{0}dn+ll.oa+kflwlk.fjupbubuekeu 返品不可
 {0}dn+la+szjkwp.fjuhvooio 返回值
 {0}dn+ebkul.geoiae 格差
 {0}dn+itkul.geouie 格式
@@ -9678,6 +9684,7 @@
 {0}dl+kz+llixlwllko.ovizsiqie 追踪器
 {0}dl+kem.ocekdi 召开
 {0}delite デライト
+{0}de,bxp.mciuzu 猫手
 {0}de,xuxy.lpeuai 猎杀
 {0}de,xdepxp.mcimci 猫猫
 {0}de,rrrvy.ugiuye 昇順
@@ -11085,6 +11092,7 @@
 {0}ka+dupu.bfufji 本番
 {0}ka+dudzc.yiiosu 一種
 {0}ka+dcuiw.uhedgu 上等
+{0}ka+dzpck.vreose 二重
 {0}ka+dzdfnw.uhedre 上段
 {0}ka+dwdfn.yiibji 一般
 {0}ka+dskkf.yiixko 一行
