@@ -12,6 +12,7 @@
 {0}bb,ixmixfi.oruwwe 转为
 {0}bb,dufifxfi.oruyio 转移
 {0}bb,kfcxfi.oruxko 转型
+{0}bnc 手法
 {0}bxn+ 泰
 {0}bxo 熬
 {0}bx,bx,jsdyoubub.bhebhejii 棒棒鶏
@@ -662,6 +663,7 @@
 {0}pa+lo.rp+vd+ta+su+pclhuwwekrmi,sikiioiiioeero 東京迪斯尼楽園
 {0}pa+lo.rk+uw+xa+ojfuuwkdz.dsijkigsikeidaexto 東京工科大学
 {0}pa+lo.rk+ve+xa+ojfuuwkeu.dsijkigsiyeedaexto 東京工業大学
+{0}pa+lo.momsuw.dsijkiyie 東京駅
 {0}pa+lo.zyfruw.dsijkidzi 東京都
 {0}pa+dsfsk.tmojke 田径
 {0}pa+kpmre.quimme 曲面
@@ -1093,6 +1095,7 @@
 {0}nd+nspwel.loehdu 落海
 {0}nd+nkmxel.loelwe 落涙
 {0}nd+cp+llixldfkc.iuuliuqie 処理器
+{0}nd+cp+dhiodfkc.iuuliuxie 処理系
 {0}nd+mbmoel.loemau 落馬
 {0}nd+wlgvel.loexru 落選
 {0}nd+wlkklel.loeyuu 落語
@@ -1129,6 +1132,7 @@
 {0}na+bx,dn+ugtdzs.fjuuiofjuxlu 反実仮想
 {0}na+bcuiz.oiiiio 支持
 {0}na+bwzzn.ulipbi 双拼
+{0}na+bwdfd.fjukhe 反抗
 {0}na+bojbz.oiiigi 支撑
 {0}na+bk+rydgnd.uliugivro 双生児
 {0}na+bjknz.oiiyro 支援
@@ -1184,6 +1188,7 @@
 {0}na+wlzjkx.yzuyie 友誼
 {0}na+wlkwkd.fjuoge 反証
 {0}na+wlkkld.fjuyuu 反語
+{0}na+wd+evjdbf.fjukheqii 反抗期
 {0}na+odjgd.fjuugu 反省
 {0}na+okg.uvugli 水光
 {0}na+suiz.oiifue 支付
@@ -1278,6 +1283,7 @@
 {0}xx,cp+stwmkc.xneliuhxe 効理化
 {0}xx,cp+itkwmkc.xneliuuie 効理式
 {0}xx,mzexj.whulmo 网联
+{0}xx,vfknj.whulue 网録
 {0}xx,wlskjj.whulye 网論
 {0}xx,wewlj.whuoje 网站
 {0}xx,wiszwm.xnelve 効率
@@ -1469,11 +1475,13 @@
 {0}xl+te+jgcvceeu.roeyeemue 若葉睦
 {0}xl+usxcs.oiiqro 知権
 {0}xl+csplw.lbesee 吝嗇
+{0}xl+ca+ykpckl.tyituulle 吞吐量
 {0}xl+zrrfs.oiiuie 知事
 {0}xl+wlwiys.oiiuio 知識
 {0}xl+wedgs.oiidce 知道
 {0}xl+ojjggs.oiijto 知覚
 {0}xl+ss.oiirfo 知人
+{0}xl+lck.tyituu 吞吐
 {0}xl+eteue.roeyee 若葉
 {0}xl+ed,ffswg.oiidcelea 知道了
 {0}xl+ijtts.oiingo 知能
@@ -1608,6 +1616,7 @@
 {0}xa+yt+tvlgmvd.ybuxiiyte 尹錫悦
 {0}xa+ykpcs.uiulle 矢量
 {0}xa+ykpc.daelle 大量
+{0}xa+yk+djrfkdc.tmihlooie 天皇制
 {0}xa+nrbk.tmijbi 天津
 {0}xa+nciw.wfofau 文法
 {0}xa+nzzj.daeico 大潮
@@ -1744,6 +1753,7 @@
 {0}xa+db,xews.wfojmejxi 文件夹
 {0}xa+db,ep+iz+dsuiwsbwv.wfojmemnouuefuo 文件描述符
 {0}xa+dyirw.wfojpo 文節
+{0}xa+dykck.tmihlo 天皇
 {0}xa+dy+xdydkxdk.daexkixki 大猩猩
 {0}xa+dx,uf+ia+iijujddmx.daeqnoxqetdelhu 大橋秀太朗
 {0}xa+duwzw.wfokei 文科
@@ -4101,6 +4111,7 @@
 {0}ci+niln.fauoie 法治
 {0}ci+njklkzn.qqodse 球洞
 {0}ci+xmk.yailie 压力
+{0}ci+tlgd.dqibci 丢包
 {0}ci+rrkjn.fauuii 法师
 {0}ci+ukjr.jnubfu 脚本
 {0}ci+hkfdnkrc.bjijio 班级
@@ -4111,6 +4122,7 @@
 {0}ci+wlkkln.fauyuu 法語
 {0}ci+oxjr.jnujmi 脚尖
 {0}ci+sukkzn.qqotiu 球体
+{0}ci+lg+wiszdt.dqibcilve 丢包率
 {0}ci+eyxteks.xmemue 羡慕
 {0}ci+etxtk.yuecsi 玉葱
 {0}ci+ihkkln.fauyuu 法语
@@ -4160,6 +4172,7 @@
 {0}cf,ojldgpif.yeudhu 野党
 {0}cf,ejupif.yeucde 野菜
 {0}cf,iyhpif.yeullo 野良
+{0}cf,dbsxpif.yeumue 野牧
 {0}cf,kciznpif.yeuqqo 野球
 {0}cf,kf+mbmopifks.yeuciemau 野次馬
 {0}cjd+g 売
@@ -5073,6 +5086,7 @@
 {0}zk+hoprznv.yjuyie 演繹
 {0}zk+mkdynv.yjuxio 演習
 {0}zk+zxynv.yjuoeu 演者
+{0}zk+zzbxxzlp.fuocze 輻輳
 {0}zk+wrrfvs.dkejie 錠剤
 {0}zk+wsrfnv.yjujue 演劇
 {0}zk+wlmgzki.orujie 転記
@@ -5727,6 +5741,7 @@
 {0}wm+rikoknw.yuipio 淤蚽
 {0}wm+hu.pkkgnud.yzoleeyro 游乐园
 {0}wm+mijggwu.yzolju 遊覧
+{0}wm+mkwszrkk.fwucve 翡翠
 {0}wm+zkkgjk.xpuwjo 写完
 {0}wm+zfujk.xpuzie 写字
 {0}wm+zjkvjk.xpuofi 写真
@@ -6360,6 +6375,7 @@
 {0}ok+bntouh.hsoqui 紅麹
 {0}ok+bk+echhd.hsougijli 紅生姜
 {0}ok+ba+mkkiij.ykiysecgo 应用层
+{0}ok+ba+ka+jr+we+lijkdfbh.ykiysevreoiejpikzu 应用二进制接口
 {0}ok+ya+lf+kl+ozihdkss.hsobdogeiheooje 紅白歌合戦
 {0}ok+nuii.ykidve 应对
 {0}ok+nzzjh.hsoico 紅潮
@@ -6628,6 +6644,7 @@
 {0}sp+khuisw.wuuruu 侮辱
 {0}sp+kj+no+qi+va+wz,estuwkjteddez,woieaivabimoxi 梅麗莎･金蓮花
 {0}sp+frcvcnw.hdulue 海陸
+{0}sp+foebnw.hduxmi 海鮮
 {0}sp+fiwnw.hduwde 海外
 {0}sp+jxbnw.hdujyi 海军
 {0}sp+jzpznw.hdujyi 海軍
@@ -7763,6 +7780,7 @@
 {0}lk+wlfxkmc.ugedje 聖誕
 {0}lk+ouwzwkl.yuulne 語料
 {0}lk+ojfuwkl.yuuxto 語学
+{0}lk+ojfuke.yjoxto 研学
 {0}lk+srsdke.yjoxqi 研修
 {0}lk+sdbkrx.ykejme 硬件
 {0}lk+skrpwoz.pkosie 評価
@@ -7782,6 +7800,7 @@
 {0}lk+kwrkwf.dkeoge 訂正
 {0}lk+jbwkl.yuuyse 語用
 {0}lk+jsrfi.hoezeo 或则
+{0}lk+jf+skkikeou.yjoxtohve 研学会
 {0}lk+ja+rcywwky.ogemkouui 証明書
 {0}lf 別
 {0}lf+bks.geiuzu 歌手
@@ -10115,6 +10134,7 @@
 {0}kg+ukkoo.glibni 光标
 {0}kg+ufdnljj.bgejio 蹦极
 {0}kg+hojkk.yrozuu 元組
+{0}kg+hs+bmzlkox.yrouuejue 元数据
 {0}kg+cl+xksjwouj.iiuozibke 歯周病
 {0}kg+zzjk.yroico 元朝
 {0}kg+zf+ly+ijttrsbrs.ocebhioiengo 兆邦智能
@@ -10669,6 +10689,7 @@
 {0}kkwl 言語
 {0}kk.bm+iqtkmo.sjimaulue 三馬鹿
 {0}kk.ba+sj+dzllkobgg.sjibjegvigru 三半規管
+{0}kk.pgz.vjetmo 岸田
 {0}kk.ydbkk.sjixki 三星
 {0}kk.ykwssi.hveuie 会是
 {0}kk.nizjk.sjipuu 三浦
@@ -10742,12 +10763,14 @@
 {0}kk.sixk.sjifuo 三伏
 {0}kk.si+zkmseidvf.yyouuejxi 芸術家
 {0}kk.skczg.wjoqro 完全
+{0}kk.sklsi.hveheo 会合
 {0}kk.sk+kjsuodk.bniqmiyee 标签页
 {0}kk.sa+hojkk.sjirfozuu 三人組
 {0}kk.sa+dufok.sjirfoigi 三人称
 {0}kk.lo.su+lkhmuowdi.bnidmufuohce 标点符号
 {0}kk.ld+wsrfsiwzl.hvehxejue 会話劇
 {0}kk.lk+yfywlwkl.yjoyuujmi 言語間
+{0}kk.lk+nd+cp+dhiowlwkldfkc.yjoyuuiuuliuxie 言語処理系
 {0}kk.lk+ca+uecnwlwkls.yjoyuuuieyhe 言語仕様
 {0}kk.lk+ojfuwlwkl.yjoyuuxto 言語学
 {0}kk.lk+lr+fskxtwlwklsf.yjoyuuilefai 言語創発
@@ -11082,6 +11105,7 @@
 {0}ka+lf+jxxkwr.vrebuewhu 二部网
 {0}ka+ebjgw.uheoea 上着
 {0}ka+esmgw.uhechi 上苍
+{0}ka+ee,djrfkw.vrejbeoie 二进制
 {0}ka+iifr.yiilho 一郎
 {0}ka+ijttu.bfungo 本能
 {0}ka+ij+bkhmgg.yiiljubnu 一覧表
@@ -11236,6 +11260,7 @@
 {0}fr+ka+dufuddk.dievrejie 第二季
 {0}fr+fuvd.diezia 弟子
 {0}fr+filkf.lpemko 列名
+{0}fu+pm+ykpczkr.ziemmelle 字面量
 {0}fu+pwiz.ziemuu 字母
 {0}fu+yx+epydej.biemuequi 閉幕曲
 {0}fu+yg+suknf.rjuseetiu 染色体
@@ -12250,6 +12275,7 @@
 {0}jf+ikwpobmu.jkelbu 静凛
 {0}jf+dbuyou.xtojio 学籍
 {0}jf+dbkou.xtougi 学生
+{0}jf+dytibmu.jkedea 静的
 {0}jf+duwzou.xtokei 学科
 {0}jf+dcxmnu.fuodse 浮動
 {0}jf+dsivfou.xtouue 学術
