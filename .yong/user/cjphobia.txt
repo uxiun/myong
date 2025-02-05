@@ -1295,6 +1295,7 @@
 {0}xx,kpmrj.whumme 网面
 {0}xx,kciznj.whuqqo 网球
 {0}xx,kd+mkkijhnl.whuloecgo 网络层
+{0}xx,kd+wm+nijhnlnu.whuloeyzoxie 网络游戏
 {0}xx,kjsj.whuyee 网页
 {0}xx,jstij.whugze 网购
 {0}xx,js+wkjk.whuyeeuhe 网页上
@@ -2578,6 +2579,7 @@
 {0}rj+ggpgv.mduiui 買出
 {0}rj+cykdw.uieihu 市場
 {0}rj+cfmdw.uieihu 市场
+{0}rj+cjdgpgv.mdumde 買売
 {0}rj+mmlx.buejuo 布局
 {0}rj+mkhw.uieohu 市長
 {0}rj+zldlkw.yuugsi 雨宮
@@ -3254,6 +3256,7 @@
 {0}ua+dp+xkkozd.wwelqonde 未留奈
 {0}ua+dgts.xqiqie 休憩
 {0}ua+dgts.xqixii 休息
+{0}ua+dm+szi.wweigorfo 未成人
 {0}ua+dzll.muegru 木管
 {0}ua+dsdfnf.ziayie 子役
 {0}ua+da+skkizt.wwebiehve 未必会
@@ -3280,6 +3283,7 @@
 {0}ua+jjnz.wweuze 未受
 {0}gp+pm+wkkkr.hxemmeuhe 画面上
 {0}gp+ydjgk.hxemwo 画眉
+{0}gp+ncik.hxefau 画法
 {0}gp+nvfddkr.biotie 鼻涕
 {0}gp+ra+kgpk.hxeosihxe 画中画
 {0}gp+ggk.hxeiui 画出
@@ -5624,6 +5628,7 @@
 {0}wx+hudkrf.mdudre 买断
 {0}wx+cy+sizllpr.tuouuigru 図書館
 {0}wx+zkmsw.oeejxi 这家
+{0}wx+zfwxf.mdumde 买卖
 {0}wx+wtkkw.oeexpi 这些
 {0}wx+wmstuz.uiouii 实施
 {0}wx+wdmw.oeefhi 这方
@@ -6830,6 +6835,7 @@
 {0}sh+rwzpzdin.hzebwe 後輩
 {0}sh+honnndin.hzeove 後綴
 {0}sh+hocjgdin.hzexue 後続
+{0}sh+mdxndin.hzefae 後髪
 {0}sh+zxydin.hzeoeu 後者
 {0}sh+wyhdin.hzetve 後退
 {0}sh+wdmdin.hzefhi 後方
@@ -8676,6 +8682,7 @@
 {0}it+bkhs.ddebnu 代表
 {0}it+przjkj.xrooie 悬置
 {0}it+pcfifm.rfuyeu 忍野
+{0}it+hkxhvs.ddelme 代练
 {0}it+cp+sskc.ddeliurfo 代理人
 {0}it+cf,mitmpif.rfuyeurfu 忍野忍
 {0}it+cf,immkkmpif.rfuyeuuje 忍野扇
