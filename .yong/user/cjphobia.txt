@@ -117,6 +117,7 @@
 {0}bc,jwd.muudji 牡丹
 {0}bmz+n 摄
 {0}bmk+c 握
+{0}bm+xludj.guijxe 箍架
 {0}bm+hkztgp.wworce 围绕
 {0}bm+mdbgmo.mauwwu 馬尾
 {0}bm+lkhmog.jrehce 巻号
@@ -192,6 +193,7 @@
 {0}bk+nclnj.qkijpo 清洁
 {0}bk+ncizt.xmefau 憲法
 {0}bk+nldgtj.qkokle 情況
+{0}bk+ndcgnj.qkixiu 清洗
 {0}bk+ndzld.ugihoo 生活
 {0}bk+nfmdnj.qkithi 清汤
 {0}bk+xbclhxz.xriyro 轩辕
@@ -930,6 +932,7 @@
 {0}ya+tk+cj+weykisgg.bduuiegriybi 百式観音
 {0}ya+rr,homgdkk.bdoyaejie 白亜紀
 {0}ya+rfjsd.bdofwe 白费
+{0}ya+ul+lj+uxkwkdkcwcl.rieigodneogu 日程調整
 {0}ya+ud+ja+mgewkr.riexbiyteyie 日新月异
 {0}ya+uk.riebfu 日本
 {0}ya+hodhtd.bdooiu 白紙
@@ -2170,6 +2173,7 @@
 {0}rp+fur.xqezia 袖子
 {0}rp+flrikx.ggeqlo 更强
 {0}rp+fifikx.ggedoi 更多
+{0}rp+fi+nspweved.hlomcohdu 黄茅海
 {0}rp+jr+sa+cx+fueveffe.hloqmojqumwuzia 黄前久美子
 {0}ry+psrrfh.xmejpe 限界
 {0}ry+ycuiz.zjeuio 暫時
@@ -2188,6 +2192,7 @@
 {0}rn+vfknh.uzilue 収録
 {0}rn+scuh.uzijio 収集
 {0}rn+sdh.uzirue 収入
+{0}rx+vp+odjgfek.ujuxiiugu 陕西省
 {0}rx+krjwfb.ofeyuu 阵雨
 {0}rx+kvpfe.ujuxii 陕西
 {0}rt,rrtpsc.liohre 罹患
@@ -3105,6 +3110,7 @@
 {0}ud+jl+nzkvbnkkl.piilueyju 披露演
 {0}ud+jkgiwkr.xbigri 新冠
 {0}uk 本
+{0}uk+ 日本
 {0}uk+bllus.tiucci 体操
 {0}uk+ba+dbkks.wuunmougi 五年生
 {0}uk+nciwb.wwofau 違法
@@ -3728,6 +3734,7 @@
 {0}hd+ihzifn.ueejie 设计
 {0}hd+dnpifn.ueebwe 设备
 {0}hd+djklizl.hxetsu 话筒
+{0}hk 組
 {0}hki.z 绒
 {0}hkj+x 纲
 {0}hkj+j 绷
@@ -4977,6 +4984,7 @@
 {0}zs,uxklzkj.lyoyiu 輪椅
 {0}zs,uiiruv.bbilho 槟榔
 {0}zs,ukozf.qmobwi 乾杯
+{0}zs,uf+ncizkjwr.lyogoifau 輪郭法
 {0}zs,uf+kk.wlozkjwrk.lyogoisjidmu 輪郭三点
 {0}zs,hoclzkj.lyojpo 輪結
 {0}zs,wufrzkj.lyogoi 輪郭
@@ -6011,6 +6019,7 @@
 {0}wa+zixbk.xxezde 下载
 {0}wa+zizpzk.xxezde 下載
 {0}wa+wxrrr.buuqio 补齐
+{0}wa+we+yi+siftksug.xxewwegdenme 下位概念
 {0}wa+wizvk.xxeuue 下述
 {0}wa+wdmk.xxefhi 下方
 {0}wa+ouwzk.xxelne 下料
@@ -6243,6 +6252,7 @@
 {0}ow+wlzhig.tsujie 統計
 {0}ow+wlkklhig.tsuyuu 統語
 {0}ow+weyhdm.fhuybi 紡音
+{0}ow+sisrjhx.wfouie 紋飾
 {0}ow+sklhig.tsuheo 統合
 {0}ow+lz+yt+sk+zkwshigwdius.tsujiedeajmudke 統計的検定
 {0}ow+lz+ykpchigw.tsujielle 統計量
@@ -6251,6 +6261,7 @@
 {0}ow+endlflo.jkiloe 鯨落
 {0}ow+dbshig.tsuuii 統失
 {0}ow+dufohig.tsuigi 統称
+{0}ow+djrfhig.tsuoie 統制
 {0}ow+khig.tsuyii 統一
 {0}ow+froyohdz.fgexie 縫隙
 {0}oo.ce+rixccfubui.lbouuekvo 鱗樹蝰
@@ -7185,6 +7196,7 @@
 {0}sk+ixmidkf.xkowwe 行为
 {0}sk+ixfodkf.xkowwe 行為
 {0}sk+ix+hz+irfdkfkmi.xkodsejiehxe 行动计划
+{0}sk+ihevyjk.lmupuu 脸谱
 {0}sk+ihkwkdk.qmioge 签证
 {0}sk+iolgjko.jiesie 祭祀
 {0}sk+ioebfxt.faixlo 発祥
@@ -8244,6 +8256,7 @@
 {0}ehk+i 药
 {0}eh+yfkem.ojukdi 展開
 {0}eh+nzkvm.ojuyju 展演
+{0}eh+ummm.ojugve 展柜
 {0}eh+mxm.ojuqui 展区
 {0}eh+mijggm.ojulju 展覧
 {0}eh+wjkcm.ojuwhe 展望
@@ -10195,6 +10208,7 @@
 {0}kh+sl+rrrmv.ohuguuiri 長谷川
 {0}kh+sl+rr,ya+hodhtmvrd.ohuguuiribdooiu 長谷川白紙
 {0}kh+siyhbio.sueuio 素食
+{0}kh+lm+bjkgbwg.bnujieyco 表記揺
 {0}kh+etxtm.ohucsi 長葱
 {0}kh+evjm.ohuqii 長期
 {0}kh+esiyhbio.sueyhu 素養
@@ -10219,6 +10233,7 @@
 {0}kc+psrrpi.goojpe 国界
 {0}kc+pkcis.qrogoo 全国
 {0}kc+yfkes.qrokdi 全開
+{0}kc+ntwkzi.bcujii 宝鸡
 {0}kc+xr.oledae 壮大
 {0}kc+xmpi.goolie 国力
 {0}kc+xjpi.gooyzu 国有
@@ -10426,6 +10441,8 @@
 {0}kw+rkixxk.ogeole 症状
 {0}kw+rf,mlebxksx.ogehzeqyo 症候群
 {0}kw+ueys.uieldo 是来
+{0}kw+cd+nwxrzsebi.dkeyiejie 定義済
+{0}kw+cd+cilkzsebi.dkeyieyue 定義域
 {0}kw+mb+edufhohr.yjinaelie 嫣娜莉
 {0}kw+za+diyss.uieufomea 是什么
 {0}kw+vj+ve+wlcjgzsejej.dkeqiigzeduo 定期購読
@@ -10963,6 +10980,7 @@
 {0}kj+zkwsw.kfudke 肯定
 {0}kj+zk+kj+kfostnvst.yueyjuyuelpe 愈演愈烈
 {0}kj+vk+xa+izpzbzw.qkiksiwfokue 青空文庫
+{0}kj+vjklb.qkitso 青銅
 {0}kj+va+klb.qkijbiuio 青金石
 {0}kj+wnjgme.jmidui 監督
 {0}kj+wm+zjkvbjk.qkixpuofi 青写真
@@ -10996,6 +11014,7 @@
 {0}kj+jgkv.xlemue 項目
 {0}kj+jcirlu.cdujnu 踩脚
 {0}kj+jobmsn.yziuge 優勝
+{0}kj+jk+llixlbvl.qkitsoqie 青銅器
 {0}ka+bx.zouuzu 左手
 {0}ka+bmsk.vrezeo 二択
 {0}ka+bw.uheuzu 上手
@@ -11078,6 +11097,7 @@
 {0}ka+wlfr.yiibue 一部
 {0}ka+weyt.yiiyie 一意
 {0}ka+weyu.bfuybi 本音
+{0}ka+we+yi+siftwsug.uhewwegdenme 上位概念
 {0}ka+we+hf+bfjxwskk.uhewwehuehre 上位互換
 {0}ka+wizvw.uheuue 上述
 {0}ka+wdhw.uheyii 上衣
