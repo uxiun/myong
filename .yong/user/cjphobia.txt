@@ -1259,6 +1259,7 @@
 {0}xy+ueb.iyildo 春来
 {0}xy+ufseb.iyiigo 春橙
 {0}xy+mr+vj+rmybee.iyijpoqiijmi 春节期间
+{0}xy+mzexb.iyilmo 春联
 {0}xy+vxygvg.baebae 爸爸
 {0}xy+wkkib.iyiyye 春运
 {0}xy+ey+xj+jxobwtre.iyiyievherjo 春意盎然
@@ -3293,6 +3294,7 @@
 {0}gp+nvfddkr.biotie 鼻涕
 {0}gp+ra+kgpk.hxeosihxe 画中画
 {0}gp+ggk.hxeiui 画出
+{0}gp+mehk.hxeoju 画展
 {0}gp+meek.hxepko 画屏
 {0}gp+sfysk.hxexle 画像
 {0}gp+drjgvk.hxeoie 画質
@@ -3486,6 +3488,7 @@
 {0}ga+db,xt+fumgs.ujiwwuyzizia 山尾悠子
 {0}ga+dqdg.iuiufi 出身
 {0}ga+dytij.muedea 目的
+{0}ga+dskkfg.iuixko 出行
 {0}ga+ds+jx+kk.skkiydndwi.bailiovceyyehve 巴黎奥运会
 {0}ga+ddsny.bailio 巴黎
 {0}ga+kcjggg.iuixme 出現
@@ -11343,6 +11346,7 @@
 {0}fc,epb.nququi 扭曲
 {0}fmu 争
 {0}fm+ywlocd.ihujku 场景
+{0}fm+mzexue.ykolmo 楹联
 {0}fm+wkklbd.yhoyjo 扬言
 {0}fm+ouvmdnh.ohuffu 漲粉
 {0}fm+stnu.jkehxe 浄化
