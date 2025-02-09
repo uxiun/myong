@@ -350,6 +350,7 @@
 {0}ba+rmys.nmojmi 年间
 {0}ba+rivs.nmojme 年鉴
 {0}ba+rjmkh.uzuohe 手帳
+{0}ba+rj.uzujbi 手巾
 {0}ba+uhii.uzujii 手機
 {0}ba+uzs.nmomoe 年末
 {0}ba+udne.yhopio 羊皮
@@ -474,6 +475,7 @@
 {0}pr+fy+puisjss.vzuxletro 偶像団
 {0}pr+fy+xa+rrkjsjss.vzuxledaeuii 偶像大师
 {0}pr+fy+xa+dlkrjsjss.vzuxledaeuii 偶像大師
+{0}pr+fy+hmrrsjss.vzuxlejii 偶像姫
 {0}pr+jxosj.vzurjo 偶然
 {0}pu 困
 {0}pu+yfzi.orimfo 専門
@@ -1750,6 +1752,7 @@
 {0}xa+ix+cxklil.qrufweqio 犬吠埼
 {0}xa+irfm.quihxe 区划
 {0}xa+iumw.wfouui 文书
+{0}xa+im+ud+eteuiskljdd.qrusiecduyee 犬飼彩葉
 {0}xa+izpzw.wfokue 文庫
 {0}xa+id+wrjcm.daeigouie 大城市
 {0}xa+if+yh+ycuisi.daejbillouio 大今良時
@@ -2705,6 +2708,7 @@
 {0}ra+ke+vjjlez.osihxogoi 中華鍋
 {0}ra+ki.jdynprx.jxuolexme 甲状腺
 {0}ra+kdyo.osiyro 中原
+{0}ra+kfcp.jxuxko 甲型
 {0}ra+kfc.osixko 中型
 {0}ra+fy+sdby.osijmijme 中間件
 {0}ra+jbf.ybuyse 引用
@@ -7823,6 +7827,7 @@
 {0}lk+jsrfi.hoezeo 或则
 {0}lk+jf+skkikeou.yjoxtohve 研学会
 {0}lk+ja+rcywwky.ogemkouui 証明書
+{0}lk+ja+wm+zjkvwwkyjk.ogemkoxpuofi 証明写真
 {0}lf 別
 {0}lf+bks.geiuzu 歌手
 {0}lf+bk+ywxkd.djeugirie 誕生日
@@ -8880,6 +8885,7 @@
 {0}io+djec.reexte 熱血
 {0}is 该
 {0}isi 冷
+{0}is+bt,ju+tdbkeudddki.ycewuendexke 薬物耐性
 {0}is+yg+kfrfhf.yiuseelpe 以色列
 {0}is+ya+fj+wudkrhrbx.yiujqehrexbi 以旧换新
 {0}is+nwsxeu.yceyee 薬液
@@ -9168,6 +9174,7 @@
 {0}ia+zfux.tdezie 太字
 {0}ia+vt+txk.tdeveexbi 太恶心
 {0}ia+va+jvudve.gsigsecdo 公共財
+{0}ia+wxdcc.quegle 去逛
 {0}ia+wuic.quegoe 去过
 {0}ia+wvxv.gsijni 公交
 {0}ia+we+ohsxvsl.gsibweuue 公倍数
@@ -9294,6 +9301,7 @@
 {0}dy+ua+za+urvjd.jbumueqmiuue 錦木千束
 {0}dy+hoodlo.mkouai 鳴紗
 {0}dy+hilko.yrouiu 原始
+{0}dy+mkiceo.nnuwui 蔦屋
 {0}dy+zskyko.yrosue 原宿
 {0}dy+zfwxb.pdimde 拍卖
 {0}dy+zjkvw.poeofi 迫真
@@ -9744,6 +9752,7 @@
 {0}de,lite 悳来(^Delite)
 {0}de,dsykixsn.hoedeo 獲得
 {0}de,ki.ms+kjmkxpmcix.mciwuifuixtu 猫屋敷雪
+{0}de,ki.ms+jk+rpxpmcixzv.mciwuifuiofiyzo 猫屋敷真由
 {0}de,ki.imsxxpmc.mciwuifui 猫屋敷
 {0}de,frdnby.ugijle 昇降
 {0}de,jgxp.mcimue 猫目
@@ -9755,6 +9764,7 @@
 {0}di+fffysxxg.yzoyue 犹豫
 {0}di+jbns.fjeyse 泛用
 {0}dd 物
+{0}ddi 風
 {0}dd,ykpcwbk.ijulle 産量
 {0}dd,rp+pkciwbkn.ijuyzogoo 産油国
 {0}dd,ufseur.lquigo 柳橙
@@ -10919,6 +10929,7 @@
 {0}kf+skrxdr.yzobme 郵便
 {0}kf+skcfb.daudce 打倒
 {0}kf+sklhsk.jkiheo 经合
+{0}kf+sk+ul+ififsfdkfdkc.liexkoigoxue 例行程序
 {0}kf+sfvmds.qieffi 气氛
 {0}kf+lgexl.qioyie 奇异
 {0}kf+lkwrvxl.qiojii 奇跡
@@ -11820,6 +11831,7 @@
 {0}ju+scub.cdujio 採集
 {0}ju+exdxe.rsohoe 荣获
 {0}ju+eo+ju+xjujsuj.jiowuojioyzu 棘無棘有
+{0}ju+eisuki.ndeyce 耐薬
 {0}ju+driee.cdeljo 菜篮
 {0}ju+jbb.cduyse 採用
 {0}ju+jxbe.rsojyi 荣军
