@@ -479,8 +479,6 @@
 {0}pr+fy+xa+dlkrjsjss.vzuxledaeuii 偶像大師
 {0}pr+fy+hmrrsjss.vzuxlejii 偶像姫
 {0}pr+jxosj.vzurjo 偶然
-{0}pu 果
-{1}pu 困
 {0}pu+yfzi.orimfo 専門
 {0}pu+uecnei.zyiyhe 尊様
 {0}pu+hr.lounvu 裸女
@@ -2612,6 +2610,7 @@
 {0}rj+sfysyx.ykexle 映像
 {0}rj+lhtw.uiembo 市民
 {0}rj+lk+pobgexwkl.ykiyuuqri 英語圏
+{0}rj+lk+zs,wleejexwklzkj.ykiyuulyojlu 英語輪講
 {0}rj+lk+jr+kc+ca+ecdbiexwklwjpiw.ykiyuudiegooouuyie 英語帝国主義
 {0}rj+ebjgng.ufuoea 沈着
 {0}rj+eojxfmt.ybubie 隠蔽
@@ -4400,8 +4399,6 @@
 {0}mu.eyxjrd.biemue 闭幕
 {0}mu.ihixf.ogiyie 争议
 {0}mu.jbf.ogiyse 争用
-{0}mg 已
-{1}mg 己
 {0}mg+nmken.fjelje 氾濫
 {0}mg+hi+if+fokdsfi.veegxidoivru 厄瓜多尔
 {0}mg+csmggg.jtoqiu 崛起
@@ -4688,6 +4685,7 @@
 {0}md+fjmdbv.ffijpu 分解
 {0}md+jbv.ffiyse 分用
 {0}md+js+md+udkrvexv.ffisjeffixii 分散分析
+{0}md+ja+cu+yfydkrxyi.souyzuuiojmi 所有時間
 {0}md+ja+vlfsdkrx.souyzuyue 所有欲
 {0}md+ja+dytidkrx.souyzudea 所有的
 {0}mkr 쯭
@@ -9854,6 +9852,7 @@
 {0}dk+sm+uelrcg.tkiqiuldo 听起来
 {0}dk+swjmwr.jbebhe 近傍
 {0}dk+sitwr.jbedde 近代
+{0}dk+sklwjv.yjoheo 顔合
 {0}dk+ee,ba+uhiibrm.oeopkouzujii 折屏手機
 {0}dk+ixwr.jbeyie 近义
 {0}dk+ihxnvjs.bjifai 颁发
