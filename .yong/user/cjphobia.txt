@@ -101,6 +101,7 @@
 {0}bc,sg+ykpcduidcx.teeogille 特徴量
 {0}bc,sg+ey+itkduidcxux.teeogimoouie 特徴模式
 {0}bc,scudui.teejio 特集
+{0}bc,szrxdui.teeuiu 特使
 {0}bc,skffdui.teelie 特例
 {0}bc,lmrfdui.teebpo 特別
 {0}bc,ekxmdui.teeqbo 特勤
@@ -235,6 +236,7 @@
 {0}bk+oz+kr+szjhtjhxysp.qkoxuesieoio 情緒価値
 {0}bk+oa+fifiek.iaebuedoi 差不多
 {0}bk+sbdbz.bdenmo 拜年
+{0}bk+sbd.uginmo 生年
 {0}bk+stznj.qkihxo 清华
 {0}bk+stj.qkorfo 情人
 {0}bk+sc+skkiddws.ugituohve 生徒会
@@ -658,7 +660,9 @@
 {0}pa+rktu.dsibwu 東北
 {0}pa+rk+xuk.dsigsidae 東工大
 {0}pa+uytte.quigye 曲棍
+{0}pa+uui.tmocyi 田村
 {0}pa+uer.yzoldo 由来
+{0}pa+ui+si+eprfuvi.tmocyilkomge 田村鈴夢
 {0}pa+hkdume.mnoxqe 苗绣
 {0}pa+zjezu.dsinjo 東南
 {0}pa+wlou.dsijki 東京
@@ -971,6 +975,7 @@
 {0}ya+evje.rieyie 日益
 {0}ya+evj.rieqii 日期
 {0}ya+ewzz.rielmo 日蓮
+{0}ya+efsx.riekvo 日葵
 {0}ya+ejud.bdocde 白菜
 {0}ya+eju.riecde 日菜
 {0}ya+itk.rieuie 日式
@@ -1671,6 +1676,7 @@
 {0}xa+uomkw.wfodhe 文档
 {0}xa+ul+kk.eteudwl.daeheoyjoyee 大和言葉
 {0}xa+ue+zldgre.uiuldokee 史莱克
+{0}xa+udnk.tmibju 天板
 {0}xa+udxj.daeqno 大橋
 {0}xa+udk.tmicdo 天才
 {0}xa+udfe.grijii 关机
@@ -1790,6 +1796,7 @@
 {0}xa+kekjvw.wfotzo 文頭
 {0}xa+ki.zkmszc.daeuiejxi 大室家
 {0}xa+ki.st+fuzce.daeuiehxizia 大室花子
+{0}xa+kdyo.daeyro 大原
 {0}xa+kkgn.daeuae 大厦
 {0}xa+kk.lk+ey+kfcwlwklux.daeyjoyuumooxko 大言語模型
 {0}xa+kfc.daexko 大型
@@ -5638,6 +5645,7 @@
 {0}va+fxrbe.gsejme 共建
 {0}va+fu+io+wlkklpzw.siezieuuoyuu 四字熟語
 {0}va+fhmkf.xnumau 小马
+{0}va+fs+ld+kw+ikwpupizlipu.sieoiigsilbulbu 四之宮凜凜
 {0}va+fi+wloewj.gsetsidmu 共通点
 {0}va+fi+dh+rcwdhewjw.gsetsiyiioli 共通衣装
 {0}va+fi+kkjvewj.gsetsixle 共通項
@@ -5746,6 +5754,7 @@
 {0}wr+kgpsk.qiuhxe 企画
 {0}wr+klsjckk.ogeqte 正確
 {0}wr+fwhikk.ogexmo 正弦
+{0}wr+fiwnd.ueewde 涉外
 {0}wr+fdnnd.ueejio 涉及
 {0}wr+fjmdbkk.ogejpu 正解
 {0}wr+jm.wiszkkfdb.ogejpulve 正解率
@@ -6654,6 +6663,7 @@
 {0}oa+kl+kukj.buetsoyuo 不同于
 {0}oa+kl+kcpcks.bueheoliu 不合理
 {0}oa+kk.skckzg.buewjoqro 不完全
+{0}oa+kk.sklkjv.buejueheo 不具合
 {0}oa+kftk.buesiu 不死
 {0}oa+kflk.buekeu 不可
 {0}oa+kf+ur+wmssxkhygd.mpejtoosuzuo 灭绝种族
@@ -6800,9 +6810,11 @@
 {0}st+uebe.hxiyhe 花样
 {0}st+uksje.hxibku 花柄
 {0}st+hzkse.hxijxe 花嫁
+{0}st+cl+oc+tephhl.hxiyrojpoxbi 花園結心
 {0}st+cixmcgg.quiuie 趨勢
 {0}st+cidmji.gzeigo 购城
 {0}st+mirbk.ziesie 恣肆
+{0}st+zyfre.hxidzi 花都
 {0}st+wlevye.hxipuu 花譜
 {0}st+weytk.zieyie 恣意
 {0}st+we+uhiibub.toilaijii 拖拉機
@@ -7163,6 +7175,7 @@
 {0}sd+dskkffes.fwixko 飛行
 {0}sd+kcprhdzg.xyohro 循環
 {0}sd+kckodzg.xyohro 循环
+{0}sk 仜
 {0}skc 全
 {0}skl 合
 {0}skk.i 伝
@@ -9276,6 +9289,7 @@
 {0}db,xmlztk.xkepiu 性癖
 {0}db,thmksi.veowui 俄乌
 {0}db,rr,no+bweykred.xkiiriuailai 星川莎拉
+{0}db,rr,cx+jykre.xkiirimwuyte 星川美月
 {0}db,rsi.veoosi 俄中
 {0}db,rk+vk+csihykfkozhd.xkijieiriyte 星际穿越
 {0}db,rk+dn+udfykfkozl.xkijiekeejii 星际客机
@@ -10084,6 +10098,7 @@
 {0}ky+skkizk.xriyyo 宣伝
 {0}ky+skfftk.hgolie 恒例
 {0}ky+lkzkolh.gfizsi 跟踪
+{0}ky+kk.xa+szrxzksi.xriyyodaeuiu 宣伝大使
 {0}kn.bkjly.taeqki 踏青
 {0}kn.twmgi.bkidcu 冰岛
 {0}kn.ry+jz+dcxmukfhwz.jioxmeyyedse 極限運動
@@ -10390,6 +10405,7 @@
 {0}kc+ds+frzkgpifxm.goowueyre 国務院
 {0}kc+dlgivn.lkolre 凌乱
 {0}kc+dimjs.qropmi 全篇
+{0}kc+ddmris.qrolru 全卵
 {0}kc+kpmrs.qromme 全面
 {0}kc+kcizns.qroqqo 全球
 {0}kc+kcjdgl.igoxme 呈现
@@ -10805,6 +10821,7 @@
 {0}kk.xa+lf+iznkvs.sjidaeyueqqo 三大欲求
 {0}kk.tphpr.mmudmi 缅甸
 {0}kk.tu+dytievs.qiotaidea 其他的
+{0}kk.te+jt+edufkeujn.sjiyeevdelie 三葉愛莉
 {0}kk.rh+estxopoc.ndeloohxi 奈羅花
 {0}kk.rev.qioosi 其中
 {0}kk.rkthpr.mmubwu 缅北
@@ -10812,6 +10829,7 @@
 {0}kk.uxkwkzg.wjoogu 完整
 {0}kk.uudjv.juecdo 具材
 {0}kk.uznk.sjioii 三枝
+{0}kk.uw+st+zyfrsdze.rfokeihxidzi 仁科花都
 {0}kk.ul+md+uznwgdkcv.yruigoffioii 远程分枝
 {0}kk.ul+iy+izpzwgdkcsl.yruigochikue 远程倉庫
 {0}kk.udnlozx.yjogeo 厳格
@@ -10905,6 +10923,7 @@
 {0}kk.db,csckyk.sjixkidvi 三星堆
 {0}kk.dy+jvrfkko.sjiyrozeo 三原則
 {0}kk.dn+filbhs.ofefjumko 振仮名
+{0}kk.duwzs.rfokei 仁科
 {0}kk.duldcwg.yruigo 远程
 {0}kk.dcxmbh.ofedse 振動
 {0}kk.dcxmwl.yjodse 言動
@@ -11062,6 +11081,7 @@
 {0}kj+zvkb.qkiksi 青空
 {0}kj+zkwsw.kfudke 肯定
 {0}kj+zk+kj+kfostnvst.yueyjuyuelpe 愈演愈烈
+{0}kj+vk+ya+efsxbz.qkiksiriekvo 青空日葵
 {0}kj+vk+xa+izpzbzw.qkiksiwfokue 青空文庫
 {0}kj+vjklb.qkitso 青銅
 {0}kj+va+klb.qkijbiuio 青金石
@@ -11114,6 +11134,8 @@
 {0}ka+ydew.uheugi 上昇
 {0}ka+yk.yiidje 一旦
 {0}ka+yfj.ghimfo 肛門
+{0}ka+nu+ui+uohdc.yiitnosieyki 一条寺桜
+{0}ka+nu+cuid.yiitnosie 一条寺
 {0}ka+nspwn.jlihdu 江海
 {0}ka+nspww.uhehdu 上海
 {0}ka+nkvpe.gjijqu 甘酒
@@ -11123,7 +11145,9 @@
 {0}ka+tmd.yiiqpe 一切
 {0}ka+twphu.bfuhko 本懐
 {0}ka+ta+kt.yiibiuyii 一比一
+{0}ka+rt,ojlckfty.vrejpitho 二階堂
 {0}ka+rt,iz+lk+ls+kcpcftywvwklwkj.yiijpiuueyuulyeliu 一階述語論理
+{0}ka+rt,jl+cd+hmrrkftyockzu.vrejpithoouijii 二階堂珠姫
 {0}ka+rrore.gjisue 甘肃
 {0}ka+rrkr.yiipme 一片
 {0}ka+rj+dytiudgv.bfuoiedea 本質的
@@ -11133,6 +11157,7 @@
 {0}ka+ueb.yiiyhe 一样
 {0}ka+ueu.bfuldo 本来
 {0}ka+uew.uheldo 上来
+{0}ka+udddw.uheuji 上杉
 {0}ka+ud+ouvmdwwkr.uhexbiffu 上新粉
 {0}ka+uko.yiibwi 一杯
 {0}ka+ujju.bfupgo 本棚
@@ -11235,6 +11260,7 @@
 {0}ka+dwdfn.yiibji 一般
 {0}ka+dskkf.yiixko 一行
 {0}ka+dimj.yiipmi 一篇
+{0}ka+dd,gd+duzptwudkn.uheujixxesve 上杉夏穂
 {0}ka+dk+wedgkwjs.vrepbodce 二频道
 {0}ka+djlx.zouxle 左向
 {0}ka+da+tmdm.yiidciqpe 一刀切
@@ -11384,6 +11410,7 @@
 {0}fu+ue+cthkhe.hculdowue 好莱坞
 {0}fu+honcyd.biejki 閉経
 {0}fu+hfuh.hcuhcu 好好
+{0}fu+cydh.hcuugi 好声
 {0}fu+zevcyd.biesdi 閉塞
 {0}fu+vojvyd.biesou 閉鎖
 {0}fu+va+xdiyhuf.liuxnulho 李小狼
@@ -11804,6 +11831,7 @@
 {0}jt+tlfifit.ngogze 能够
 {0}jt+uujgdkdn.yziyue 憂鬱
 {0}jt+hfujn.vdehcu 愛好
+{0}jt+cx+dytiitdm.ngodsedea 能動的
 {0}jt+cl+jt+ecxjnphjn.vdeyrovdemwu 愛園愛美
 {0}jt+cidmjn.vdeigo 愛城
 {0}jt+ma+zxyitx.ngolieoeu 能力者
@@ -12291,6 +12319,7 @@
 {0}jk 且
 {0}jkm+s 豚
 {0}jkz 읖
+{0}jk+bx,sf+hoxklzvzwx.ofiuioyeeqiu 真実夜綺
 {0}jk+bz,wrjzkxbl.oioxxouie 直辖市
 {0}jk+bwehzk.oiojpi 直接
 {0}jk+bdupzk.oioboi 直播
