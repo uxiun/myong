@@ -114,6 +114,8 @@
 .sl →$SPACE
 .s, ↔$SPACE
 .s. ↕$SPACE
+.st ★$SPACE
+.sg ☆$SPACE
 .sm △$SPACE
 .sn ◯$SPACE
 .sv □$SPACE

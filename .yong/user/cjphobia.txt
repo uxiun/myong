@@ -1591,6 +1591,7 @@
 {0}xk+fr+dhiouwkkf.ogulpexie 整列系
 {0}xk+fuul.yiuzia 椅子
 {0}xk+jwjr.odiyte 斋月
+{0}xk+jo+ds+zusxsenkc.zoutgoyaujne 佐藤雅教
 {0}xf 九
 {0}xfu 끚
 {0}xfl 끗
@@ -3040,6 +3041,7 @@
 {0}ud+ndqowkr.xbixie 新潟
 {0}ud+xmkiwkr.xbitce 新套
 {0}ud+xdrkifhs.guiduo 孤独
+{0}ud+xk+us+ecxdzcglwx.osuqiodyimwu 種崎敦美
 {0}ud+tz+iocwkrs.xbihxouee 新华社
 {0}ud+rydgfhs.guivro 孤児
 {0}ud+rrkrjdd.cdupme 彩片
@@ -4210,6 +4212,7 @@
 {0}cf,tpif.yeuxbi 野心
 {0}cf,cydss.hriugi 歓声
 {0}cf,clelss.hrixiu 歓喜
+{0}cf,wnsihpif.yeucji 野餐
 {0}cf,wdhrss.hriyko 歓迎
 {0}cf,ojldgpif.yeudhu 野党
 {0}cf,ejupif.yeucde 野菜
@@ -4387,6 +4390,7 @@
 {0}mr+rr,mkpevhrr.jiiiriyie 姫川翼
 {0}mr+rcwdhjn.fuooli 服装
 {0}mr+rmye.jpojmi 节间
+{0}mr+ud+zv+uceiwjdxjiv.gcijnimaouue 髙穚麻樹
 {0}mr+cdkllf.bpogze 別垢
 {0}mr+zlrlzr.hregri 宦官
 {0}mr+wloe.jpodmu 节点
@@ -4396,6 +4400,7 @@
 {0}mr+skfe.jpoqie 节气
 {0}mr+ihvlglf.bpouoi 别说
 {0}mr+dnxmjn.fuowue 服务
+{0}mr+dudxjwj.gcijni 髙穚
 {0}mr+dclbn.bcegce 报告
 {0}mr+dzlllf.bpogru 别管
 {0}mr+dsewsjn.fuocso 服従
@@ -5410,6 +5415,7 @@
 {0}ve+sdjej.gzerue 購入
 {0}ve+lc+ouwzjejwjg.gzeduolne 購読料
 {0}ve+ivdgieu.yeemoo 業魔
+{0}vi+pa+ed,nuwfi.ssitmosaeuvu 松田颯水
 {0}vi+ggzx.tuiiui 突出
 {0}vi+mkicu.ssiwui 松屋
 {0}vi+lzt.ilikzu 窓口
@@ -6143,6 +6149,7 @@
 {0}ot+skkihk.ytihve 約会
 {0}ot+kh+siyhhgbio.iyosueuio 純素食
 {0}ot+kh+iy+zxyhgbiosh.iyosueuiooeu 純素食者
+{0}or+plipr.ufohvo 神回
 {0}or+pa+dx,kiprd.ufotmoxneyii 神田笑一
 {0}or+ya+na+ju+eyjiprde.ufobdouvucdemgo 神白水菜萌
 {0}or+nkvpipr.ufojqu 神酒
@@ -6348,6 +6355,7 @@
 {0}ol.uyhisj.hoegfi 祸根
 {0}ol.zkwsk.fzudke 否定
 {0}ol.dlwezidg.ouecio 祝辞
+{0}ol.kw+or+ojfukzsipr.fzudkeufoxto 否定神学
 {0}ol.kw+kedddkzs.fzudkexko 否定形
 {0}ol.jsrfk.fzuzeo 否则
 {0}ol.jskkoidg.ouejie 祝祭
@@ -7146,6 +7154,7 @@
 {0}si+odch.yteucu 越少
 {0}si+sl+td+svivty.lkoguujpirfo 鈴谷皆人
 {0}si+sl+duoviv.lkoguuqqi 鈴谷秋
+{0}si+eprfvi.lkomge 鈴夢
 {0}si+ea+csihchu.yteldoyte 越来越
 {0}si+ihxnch.ytefai 越发
 {0}si+if+si+hfuchfich.ytedoiytehcu 越多越好
@@ -7244,6 +7253,7 @@
 {0}sk+wkfle.dgiuhe 登上
 {0}sk+wkjk.lmuuhe 脸上
 {0}sk+wfijwu.tuotsi 途通
+{0}sk+ohsxdkf.xkouue 行数
 {0}sk+ofxt.faihou 発火
 {0}sk+oa+nzsvllf.haivrubbi 哈尔滨
 {0}sk+oa+kznuf.tuovrugje 涂尔干
@@ -8062,6 +8072,7 @@
 {0}la+xmvi.tdobje 台办
 {0}la+xa+wlkklw.kzuwfoyuu 口文語
 {0}la+ttw.ojebiu 占比
+{0}la+tw+za+wedfickrkd.jiowuuqmisae 吉武千颯
 {0}la+rrrc.jioiri 吉川
 {0}la+rrrk.uioiri 石川
 {0}la+rrmkp.hvogvi 回归
@@ -8205,6 +8216,7 @@
 {0}ey+cuxux.mookke 模块
 {0}ey+zu+wlskjwtl.yiewwelye 意味論
 {0}ey+zu+ebjgwtl.yiewweoea 意味着
+{0}ey+zkux.moouie 模士
 {0}ey+zjhioux.moosou 模索
 {0}ey+wmstub.coeuii 措施
 {0}ey+wlcjgw.ybiduo 音読
@@ -8220,6 +8232,7 @@
 {0}ey+su+ikfwi.ybileetki 音楽庁
 {0}ey+shisw.ybiuie 音似
 {0}ey+sc+foypnwdcf.ybijpimjo 音街鰻
+{0}ey+swmxux.moofhu 模倣
 {0}ey+swdmux.moofhu 模仿
 {0}ey+seow.ybiwuo 音無
 {0}ey+siftwt.yienme 意念
@@ -8239,6 +8252,7 @@
 {0}ey+iojggv.coeuie 錯視
 {0}ey+isuw.ybilee 音楽
 {0}ey+ienw.ybidue 音度
+{0}ey+dbcuiux.mootee 模特
 {0}ey+dbsv.coeuii 錯失
 {0}ey+dyirw.ybijpo 音節
 {0}ey+duejj.mieigo 冪乗
@@ -9787,6 +9801,7 @@
 {0}ds+uu.rcymnkk.lvulieuui 履歴書
 {0}ds+ga+hurxdny.liobainfe 黎巴嫩
 {0}ds+mkdymn.lvuxio 履習
+{0}ds+zusxkc.yaujne 雅教
 {0}ds+ohsxuf.hgouue 桁数
 {0}ds+ow+wz,fnkebhiyez.lveoiilmoigo 葎織蓮丞
 {0}ds+odcljj.naekue 豽焅
@@ -10133,6 +10148,7 @@
 {0}kx+wlmkljm.ouecio 助詞
 {0}kx+we+pg+wvjllkmcgr.kxejkedmeuhi 跨境电商
 {0}kx+we+jp+vj+oz+illkmcgkgwlk.kxejkedmeuhipkotdo 跨境電商平台
+{0}kx+wkkljm.oueyjo 助言
 {0}kx+oz+illkmk.kxepkotdo 跨平台
 {0}kx+suint.tmifue 添付
 {0}kx+ldkrjm.ouetki 助听
@@ -10234,7 +10250,8 @@
 {0}ku+koix.jtobue 决不
 {0}ku+fwhis.yuoxmo 余弦
 {0}kg 配
-{0}kgk+jv 頋
+{0}kgk+jv 頑
+{1}kgk+jv 頋
 {0}kgk+js 顾
 {0}kg+bzrsji.grijpo 冠捷
 {0}kg+bkhiok.yrosue 元素
@@ -11037,6 +11054,7 @@
 {0}kf+kr+mmldrsx.yzobmejuo 郵便局
 {0}kf+kgdnz.nkoxxe 宁夏
 {0}kf+kg+jr+nidlkskof.cieyroxtijmu 次元削減
+{0}kf+kcpchsk.jkiliu 经理
 {0}kf+kw+wlobw.daukaudmu 打卡点
 {0}kf+kotz.nkoyre 宁愿
 {0}kf+kludnb.daupoe 打破
@@ -12601,6 +12619,7 @@
 {0}ja+jl+jxxxd.yzuxlewhu 有向网
 {0}ja+jk+zlses.nwemgoguu 内蒙古
 {0}ja+jk+la+jg+il+mxseszdn.nwemgoguuzieoiequi 内蒙古自治区
+{0}.st ★
 {0}auu ǔ
 {0}auo ǒ
 {0}aue ě
