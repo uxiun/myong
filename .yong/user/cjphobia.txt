@@ -1961,6 +1961,7 @@
 {0}tm+fytsdr.ybexle 印象
 {0}tz+nods.hxouai 华沙
 {0}tz+ixmis.hxowwe 华为
+{0}tz+klkjss.hxouoe 华硕
 {0}tz+kict.bieoie 毕至
 {0}twh 忙
 {0}twitter Twitter
@@ -5282,6 +5283,7 @@
 {0}za+ikfmuk.gjejke 干净
 {0}za+if+gfifi.uiodoisve 十多岁
 {0}za+ia+ykwssd.ufomeauie 什么是
+{0}za+dshins.wuuhze 午後
 {0}za+dis.ufomea 什么
 {0}za+dkls.wuuhze 午后
 {0}za+kpdnlk.gjelce 干酪
@@ -11224,6 +11226,7 @@
 {0}ka+ydew.uheugi 上昇
 {0}ka+yk.yiidje 一旦
 {0}ka+yfj.ghimfo 肛門
+{0}ka+ya+la+yj.weywdke.uhebdouiomgoybi 上白石萌音
 {0}ka+nu+ui+uohdc.yiitnosieyki 一条寺桜
 {0}ka+nu+cuid.yiitnosie 一条寺
 {0}ka+nspwn.jlihdu 江海
