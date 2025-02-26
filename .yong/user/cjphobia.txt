@@ -356,6 +356,7 @@
 {0}ba+rj.uzujbi 手巾
 {0}ba+uhii.uzujii 手機
 {0}ba+uzs.nmomoe 年末
+{0}ba+usxl.uzuoii 手椥
 {0}ba+udne.yhopio 羊皮
 {0}ba+udf.uzujii 手机
 {0}ba+gu+sukowi.bjedcutiu 半導体
@@ -484,10 +485,13 @@
 {0}pr+jxosj.vzurjo 偶然
 {0}pu 困
 {0}pu+yfzi.orimfo 専門
+{0}pu+tlgu.kyubci 梱包
 {0}pu+uecnei.zyiyhe 尊様
 {0}pu+hr.lounvu 裸女
+{0}pu+wlevyu.kyupuu 梱譜
 {0}pu+sukr.loutiu 裸体
 {0}pu+swcwh.gououe 裹住
+{0}pu+le+zl+cp+llixluwvydlkc.kyupuugruliuqie 梱譜管理器
 {0}pu+elsxei.zyijke 尊敬
 {0}pu+dzpcei.zyiose 尊重
 {0}pu+fue.gouzia 菓子
@@ -805,6 +809,7 @@
 {0}ym.od+uhiibnydd.coiykujii 撮影機
 {0}ym.od+hi+ja+oj+wxxmbnydduisigg.coiykujiinweuiexne 撮影機内視効
 {0}yz 早
+{0}yz+usxlw.ooooii 卓椥
 {0}yz+ci+ilwkzn.oooqqotdo 卓球台
 {0}yz+zhue.ccuvje 草案
 {0}yz+duwlje.ccugcu 草稿
@@ -853,6 +858,7 @@
 {0}yd+wlszfg.mmuxuu 免許
 {0}yd+wljclc.ugidne 声調
 {0}yd+weyc.ugiybi 声音
+{0}yd+sdfc.ugiohu 声仉
 {0}yd+skjnc.ugiyzi 声優
 {0}yd+drjgvc.ugioie 声質
 {0}yd+dskkfg.mmuqmi 免签
@@ -915,6 +921,7 @@
 {0}yf+sklzr.dziheo 都合
 {0}yf+ebjgku.hzeoea 厚着
 {0}yf+ed,su+jghozrwgii.dzidcefuuxme 都道府県
+{0}yf+dx,jugncmn.ryefaeruu 潤髪乳
 {0}yj 明
 {0}yjz+z 暈
 {0}yjk+n 暖
@@ -970,6 +977,7 @@
 {0}ya+wlmg.riejie 日記
 {0}ya+wlmkl.riecio 日詞
 {0}ya+wlkkl.rieyuu 日語
+{0}ya+wdhd.bdoyii 白衣
 {0}ya+okg.riegli 日光
 {0}ya+ojlrj.rieiho 日常
 {0}ya+sy+eprfdmk.bdoozemge 白昼夢
@@ -1098,6 +1106,7 @@
 {0}nl+dudzcd.geeosu 各種
 {0}nl+dmdkrd.geesou 各所
 {0}nl+djgd.geezie 各自
+{0}nl+kj+jgdkv.geexlemue 各項目
 {0}neg+j 満
 {0}nim+x 涙
 {0}ni.bei.bcouzu 薄手
@@ -1160,6 +1169,7 @@
 {0}na+bj+pleg.uvuoeahvo 水着回
 {0}na+pu.uvugou 水果
 {0}na+pclhn.uliyro 双園
+{0}na+pm+kwzkg.oiipwexxe 支配下
 {0}na+yyyn.ulijki 双晶
 {0}na+yrjxd.fjuyke 反映
 {0}na+ymkc.uvuyce 水曜
@@ -1554,6 +1564,8 @@
 {0}xk+xrfuzl.jiecyo 寄存
 {0}xk+tdbktj.doexke 惰性
 {0}xk+rrkrsle.drupme 短片
+{0}xk+rmxlsle.druqyo 短裙
+{0}xk+rixbsle.drukue 短裤
 {0}xk+rf,llixlzlxu.jiecyoqie 寄存器
 {0}xk+hozsysle.drusoi 短縮
 {0}xk+hi+ienojvss.lweuiedue 類似度
@@ -1892,6 +1904,7 @@
 {0}tu+cwrkc.dieoiu 地址
 {0}tu+cilkc.dieyue 地域
 {0}tu+ci+rw+su+da+sbckznfdmdbfo.dieqqofhowweucunmo 地球防衛少年
+{0}tu+ci+iw+ba+da+hckznfso.dieqqowdenmoucunvu 地球外少年少女
 {0}tu+cfdfnc.dieqne 地殻
 {0}tu+mxc.diequi 地区
 {0}tu+mvpyc.diecgo 地層
@@ -2513,6 +2526,7 @@
 {0}rk+sr+zskvewdb.fwilvebbi 菲律宾
 {0}rk+sr+dklrrwf.pmekeehze 片刻后
 {0}rk+sm+yks.gsizoerie 工作日
+{0}rk+sm+mxks.gsizoequi 工作区
 {0}rk+sm+zkicks.gsizoeuie 工作室
 {0}rk+sstew.fwilyo 菲伦
 {0}rk+ssmwv.yiozoe 遺作
@@ -2572,6 +2586,7 @@
 {0}rk+jvlgws.tcotoi 逃脱
 {0}rk+jv+sk+zkwsrrsfus.pmeceejmudke 片側検定
 {0}rk+js+kjujgfljwc.geoliouli 隔離霜
+{0}rk+jl+hk+rk+oa+kcfhkfflkklhfflf,aiueiiairuau 阿露丝･阿尔玛
 {0}rk+jkkvk.gsijue 工具
 {0}rk+jk+uuuffles.vaimgosfi 阿蒙森
 {0}rfd+n 版
@@ -2769,6 +2784,7 @@
 {0}ub+kjkkvokj.jkilko 精霊
 {0}ub+fgtdkv.jiiyre 積怨
 {0}ub+judddokj.jkicdu 精彩
+{0}up+usxlbrj.vzuoii 耦椥
 {0}up+usxld.fjioii 番椥
 {0}up+hojkd.fjizuu 番組
 {0}up+mlrfd.fjijue 番剧
@@ -3661,7 +3677,6 @@
 {0}hw+ihooidm.fhutjo 访谈
 {0}hw+dbiik.rhewou 让我
 {0}hw+kphihs.gdiyce 该要
-{0}ho 給
 {0}hor+rr 繍
 {0}ho+zbzlh.zdihde 災害
 {0}ho+ihdzlio.tjohxe 谈话
@@ -4156,6 +4171,7 @@
 {0}cl+dulkcwh.yruigo 遠程
 {0}cl+frkljwh.yrugeo 遠隔
 {0}cl+fuu.juozia 桔子
+{0}cl+jx+cj+kczljjrkjk.oziyhiujihuo 周央珊瑚
 {0}ce+nilel.ujeoie 善治
 {0}ce+ndbznd.pgipde 澎湃
 {0}ce+tdbkel.ujexke 善性
@@ -5238,6 +5254,7 @@
 {0}zj+dbkuk.oiougi 植生
 {0}zj+dzpctv.ufeose 慎重
 {0}zj+dsykisk.oiodeo 值得
+{0}zj+dswjxpgv.greiee 貫徹
 {0}zj+kp+sk+njsfdsycuk.oiellejmucee 质量检测
 {0}zj+kixmerj.ddedse 带动
 {0}zj+ki.pwxerjrx.ddeoletuo 帯状図
@@ -5543,6 +5560,7 @@
 {0}vk+jdgjz.hjujme 罕见
 {0}vf+yerjes.qiimfe 欺暪
 {0}vf+rrmkwd.diegvi 递归
+{0}vf+ihsmes.qiioae 欺诈
 {0}vf+ikcvnes.qiilko 欺凌
 {0}vf+dbkwu.lrougi 孪生
 {0}vf+kfkjvz.qsodku 穹頂
@@ -5810,6 +5828,7 @@
 {0}wh+pg+wewlusr.heodmeoje 核电站
 {0}wh+ns+wvnusmss.heojuebme 核聚变
 {0}wh+tus.heoxbi 核心
+{0}wh+tw+llixluskrk.heowuuqie 核武器
 {0}wh+ta+dwsmgus.heoxbichi 核心舱
 {0}wh+rpgus.heodme 核电
 {0}wh+hkmkdeg.hlimzo 荒缪
@@ -6041,7 +6060,7 @@
 {0}wi+klng.lqouio 流石
 {0}wi+fup.muuzia 母子
 {0}wdl 話
-{1}wdk+jv 頻
+{0}wdk+jv 頻
 {0}wdk+js 频
 {0}wd+bdnfsh.yiijue 依拠
 {0}wd+pi+ta+sm+jbbfkvnss.khesrihxezoeyse 抗酸化作用
@@ -6140,6 +6159,7 @@
 {0}wa+jsynk.xxefue 下腹
 {0}obm+g 巻
 {0}ob+bxkxs.bjezze 伴奏
+{0}ob+bjm.ugeuzu 勝手
 {0}ob+hi+frxbpgbs.qriniuofe 圈拟阵
 {0}ob+hf+jxxjkiz.tgoxyewhu 腾讯网
 {0}ob+szgfkj.ogifzu 鯖缶
@@ -6309,6 +6329,7 @@
 {0}oz+yuik.pkouio 平时
 {0}oz+ycuik.pkouio 平時
 {0}oz+nook.pkodje 平淡
+{0}oz+njjjk.pkohxo 平滑
 {0}oz+tk+szjhkck.pkojyioio 平均値
 {0}oz+ui+woixgky.pkouiojqe 平时就
 {0}oz+udnk.pkobju 平板
@@ -6342,6 +6363,7 @@
 {0}oz+ksk.pkozee 平仄
 {0}oz+fvhsy.soixnu 縮小
 {0}oz+jk+oo.swdhkcshd.pkoosuuaiyii 平塚紗依
+{0}oz+jj.wv+kixmknjnh.pkohxogyudse 平滑滚动
 {0}ovb 举
 {0}ov.cu+hoimjhits.zsujiobmi 総集編
 {0}ov.zlkjvhit.zsuveo 総額
@@ -7239,7 +7261,8 @@
 {0}sd+dskkffes.fwixko 飛行
 {0}sd+kcprhdzg.xyohro 循環
 {0}sd+kckodzg.xyohro 循环
-{0}sk 仜
+{0}sk 仝
+{1}sk 仜
 {0}skc 全
 {0}skl 合
 {0}skk.i 伝
@@ -7498,6 +7521,7 @@
 {0}sa+ka+xa+udxrtn.ohujlidaeqno 长江大桥
 {0}sa+ka+ka+udxrtnk.ohujlivreqno 长江二桥
 {0}sa+fy+fe+sdhoyyx.rfojmigrixie 人間関係
+{0}sa+frjso.rfojie 人際
 {0}sa+fil.rfomko 人名
 {0}sa+fif.jquvva 久々
 {0}sa+jogx.rfoncu 人脳
@@ -8075,6 +8099,7 @@
 {0}lj+wlowg.lledmu 亮点
 {0}lj+wlitkwcl.dneuie 調試
 {0}lj+weywl.gciybi 高音
+{0}lj+wdkjvwl.gcipbo 高頻
 {0}lj+wdfwl.gcikhe 高亢
 {0}lj+okgwl.gcigli 高光
 {0}lj+okvwl.gcixki 高兴
@@ -8104,6 +8129,7 @@
 {0}lj+dzllwl.gcigru 高管
 {0}lj+dzjswl.gcioie 高质
 {0}lj+dsrbwcl.dnelve 調律
+{0}lj+dk+ienwlwjv.gcipbodue 高頻度
 {0}lj+kxgwg.hcowuo 毫无
 {0}lj+kuwl.gciyuo 高于
 {0}lj+kcpcwcl.dneliu 調理
@@ -9423,6 +9449,7 @@
 {0}db,kedddyk.xkixko 星形
 {0}db,kekjvmg.wwutzo 尾頭
 {0}db,frkkoyk.xkijie 星际
+{0}db,frjsoyk.xkijie 星際
 {0}db,jg+wlmittkd.xkezierfe 性自認
 {0}db,jzpzsi.veojyi 俄軍
 {0}db,jjtntk.xkevde 性愛
@@ -9602,6 +9629,7 @@
 {0}dt+wdkjvsk.diipbo 低頻
 {0}dt+sjsxl.gzurze 狗肉
 {0}dt+lk+skrpskwoz.diipkosie 低評価
+{0}dt+ey+ceznskw.diiybiguu 低音鼓
 {0}dt+ey+lkhmskw.diiybihce 低音号
 {0}dt+endlsk.diiloe 低落
 {0}dt+ehoeik.diuyye 底蘊
@@ -9720,6 +9748,7 @@
 {0}dc+hkxhvng.xiulme 洗练
 {0}dc+hkkhh.rfeufi 妊娠
 {0}dc+hfung.xiuhcu 洗好
+{0}dc+cing.xiuque 洗去
 {0}dc+mdxnng.xiufae 洗髪
 {0}dc+mk+uhiingnc.xiuooojii 洗濯機
 {0}dc+mf+tdbkhfu.rfeyyexke 妊孕性
@@ -11169,6 +11198,7 @@
 {0}kj+ceznbp.lwoguu 擂鼓
 {0}kj+ci+ix+ruzlujrrb.cdujnukuewae 踩脚裤袜
 {0}kj+cd+iensndg.yzixmidue 優先度
+{0}kj+mdxnb.qkifae 青髪
 {0}kj+md+ey+kcddpbnlw.qkiocuybilqo 青沼音瑠
 {0}kj+zvkb.qkiksi 青空
 {0}kj+zkwsw.kfudke 肯定
@@ -11380,6 +11410,7 @@
 {0}ka+kj+fe+sdhokkvyx.vrexlegrixie 二項関係
 {0}ka+ka+ob+fjgvujm.yiibfuugefue 一本勝負
 {0}ka+fy+jl+ya+efsxuyd.bfujmixleriekvo 本間向日葵
+{0}ka+fx+jgdgs.yiiqiejme 一気見
 {0}ka+fryhw.uhexme 上限
 {0}ka+frtty.yiijpi 一階
 {0}ka+frcvns.qqilko 丘陵
@@ -11627,6 +11658,7 @@
 {0}fl+hisk.keuyiu 可以
 {0}fl+cx+ujjkdm.keudsepgo 可動棚
 {0}fl+cu+kz+hx+mehkbihfxin.keuiioxuefaioju 可持续发展
+{0}fl+mznk.keuquu 可取
 {0}fl+mkicy.wfewui 問屋
 {0}fl+zp+yd+ba+oa+dejfkdcsnj.keuosefueysehoujme 可重复使用火箭
 {0}fl+zx+sk+xa+sdbkcfidkfw.keuoioxkowfojme 可執行文件
@@ -11771,6 +11803,7 @@
 {0}fk+wlokjv.dkudmu 頂点
 {0}fk+weyvn.lueybi 録音
 {0}fk+wfijye.kditsi 開通
+{0}fk+su+xk+wzdriibx.fgileezzedze 風楽奏斗
 {0}fk+sgscye.kdicvi 開催
 {0}fk+swekjv.dkuwwe 頂位
 {0}fk+sizllye.kdigru 開館
@@ -11859,7 +11892,7 @@
 {0}jp+kckg.dmeyai 電圧
 {0}jp+fx+sitkgs.dmeqiedde 電気代
 {0}jp+fukg.dmezia 電子
-{0}jp+jx+vd+xa+uu.dbcuikdekrwu.lwovcesiiwfosfitee 雷奥斯文森特
+{0}jp+jx+vd+xa+uu.dbcuikdekrwu.lwovcesiiwfosfitee 雷奥斯･文森特
 {0}jp+jx+evdkrkd.lwovcesii 雷奥斯
 {0}jp+jhhpkg.dmencu 電腦
 {0}jp+jogxkg.dmencu 電脳
@@ -11902,7 +11935,9 @@
 {0}jx+oj+su+kf+hk+ihstridgjdhskioz,hiiedokikoye 央视财经评论
 {0}jx+oj+jxxridg.yhiuiewhu 央视网
 {0}jx+oa+ekkjnf.vdevruljo 爱尔兰
+{0}jx+st+ia+mx+rf,evdkremsqspi.lcolyovvayiiloosii 劳伦･伊罗斯
 {0}jx+sweg.ghuwwe 岗位
+{0}jx+sstem.lcolyo 劳伦
 {0}jx+sdcmom.lcodse 労働
 {0}jx+skfoo.rjoqie 燃气
 {0}jx+sfxfm.ysuqie 勇気
@@ -11987,6 +12022,7 @@
 {0}jr+sdcef.qmorfe 前任
 {0}jr+sdkki.rsorue 融入
 {0}jr+sklkki.rsoheo 融合
+{0}jr+sf+jskkoefwx.qmoyeejie 前夜祭
 {0}jr+sjvfef.qmocee 前側
 {0}jr+emref.qmojpo 前节
 {0}jr+evjef.qmoqii 前期
@@ -12514,6 +12550,7 @@
 {0}jf+wknu.fuouhe 浮上
 {0}jf+wkou.xtouhe 学上
 {0}jf+oxkjvou.xtolwe 学類
+{0}jf+srsdou.xtoxqi 学修
 {0}jf+sw,udnedjl.jmutpibju 剪贴板
 {0}jf+si+md+pcfifoudvfv.xtouueffiyeu 学術分野
 {0}jf+skkiou.xtohve 学会
@@ -12664,6 +12701,7 @@
 {0}ja+exx.yzugri 有关
 {0}ja+eidms.nwezhi 内蔵
 {0}ja+ejkss.nwemgo 内蒙
+{0}ja+ixmix.yzuwwe 有为
 {0}ja+ieny.mkodue 明度
 {0}ja+iijy.mkolhu 明朗
 {0}ja+ififx.yzuxue 有序
