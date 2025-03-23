@@ -789,6 +789,7 @@
 {0}yg+tbkjf.seeqko 色情
 {0}yg+rr,cw+hmrrfrkig.seeirilqojii 色川琉姫
 {0}yg+ujgf.seexli 色相
+{0}yg+vlfsf.seeyue 色欲
 {0}yg+vk+yfyfz.seeksijmi 色空間
 {0}yg+wljclf.seedne 色調
 {0}yg+escoe.baijni 芭蕉
@@ -1126,6 +1127,7 @@
 {0}ns+imctwih.cjitki 餐廳
 {0}ns+dwjewih.cjipjo 餐盘
 {0}ns+kkfwih.cjitki 餐厅
+{0}ns+jkkvwih.cjijue 餐具
 {0}nl 減
 {0}nl+psrrd.geejpe 各界
 {0}nl+pkcid.geegoo 各国
@@ -1255,6 +1257,7 @@
 {0}na+wlkkld.fjuyuu 反語
 {0}na+wepg.uvulso 水竜
 {0}na+wd+evjdbf.fjukheqii 反抗期
+{0}na+oz+hodynk.uvupkoxme 水平線
 {0}na+odjgd.fjuugu 反省
 {0}na+okg.uvugli 水光
 {0}na+suiz.oiifue 支付
@@ -1571,6 +1574,7 @@
 {0}xl+dups.oiifji 知番
 {0}xl+dous.oiihui 知乎
 {0}xl+kjkjre.roexui 若需
+{0}xl+fskxti.qiufai 啓発
 {0}xl+fils.oiimko 知名
 {0}xl+jxxs.oiiwhu 知网
 {0}xe,vslg.xxoguu 峡谷
@@ -1615,6 +1619,7 @@
 {0}xk+rixbsle.drukue 短裤
 {0}xk+rf,llixlzlxu.jiecyoqie 寄存器
 {0}xk+hozsysle.drusoi 短縮
+{0}xk+hs+rs+djgeuwkoxfku.oguuueiuosre 整数除算
 {0}xk+hi+ienojvss.lweuiedue 類似度
 {0}xk+cd+wlkklojvebi.lweyieyuu 類義語
 {0}xk+mlrfsle.drujue 短剧
@@ -1812,6 +1817,7 @@
 {0}xa+sukw.wfotiu 文体
 {0}xa+sukk.tmitiu 天体
 {0}xa+suk.daetiu 大体
+{0}xa+sm+yj.kgdnsse.uiuzoemgoxxe 矢作萌夏
 {0}xa+szrxk.tmiuiu 天使
 {0}xa+szrx.daeuiu 大使
 {0}xa+ss,dmdkrdkr.daeyuesou 大御所
@@ -3229,6 +3235,7 @@
 {0}ud+ea+kh+fuwkrebio.xbijkusuezia 新井素子
 {0}ud+iogjdd.cduliu 彩礼
 {0}ud+isjern.bwedce 被盗
+{0}ud+ienjdd.cdudue 彩度
 {0}ud+ik.wmsevjddr.cduhsoqio 彩虹旗
 {0}ud+ik.oc+jskkojddri.cduhsoueejie 彩虹社祭
 {0}ud+ik.iocjddr.cduhsouee 彩虹社
@@ -3885,6 +3892,7 @@
 {0}hi+ebjgpo.lweoea 累着
 {0}hi+ebjgitk.uieoea 试着
 {0}hi+ecelet.ciouje 慈善
+{0}hi+iuui.jiiilo 機床
 {0}hi+ioebet.cioxlo 慈祥
 {0}hi+ie+fl+wlcjguiuk.jiixpekeuduo 機械可読
 {0}hi+ie+jf+mkdyuiuou.jiixpextoxio 機械学習
@@ -4727,6 +4735,7 @@
 {0}ms+ek+klfswfskjv.xrotzogei 旋頭歌
 {0}ms+iy+gt,fuwxnhd.fhelhexiizia 放浪息子
 {0}ms+dujwtu.uiicee 施策
+{0}ms+dwjdgwev.qiojme 旗舰
 {0}ms+dsrbwfs.xrolve 旋律
 {0}ms+dskkfwdh.lvuxko 旅行
 {0}ms+kwwev.qioxxe 旗下
@@ -5397,11 +5406,13 @@
 {0}zj+cilksh.oioyue 値域
 {0}zj+cilkerj.ddeyue 帯域
 {0}zj+mm.xa+kwzrzk.icowfotmixxe 朝闻天下
+{0}zj+zvkcv.tmoksi 填空
 {0}zj+wm+ixmicvjk.tmoxpuwwe 填写为
 {0}zj+wsfxz.icoyee 朝夜
 {0}zj+wfijpgv.gretsi 貫通
 {0}zj+sy+ka+dbjgskdki.oiodeoyiikje 值得一看
 {0}zj+stjserj.ddehoe 带货
+{0}zj+ssydbo.caiuhi 擦傷
 {0}zj+sluuk.oiobcu 植保
 {0}zj+sluds.oiebcu 质保
 {0}zj+siyhz.icouio 朝食
@@ -5874,6 +5885,7 @@
 {0}va+fpo.jbiyuo 金魚
 {0}va+fyg.jbisee 金色
 {0}va+fxrbe.gsejme 共建
+{0}va+frkflp.sievai 四阿
 {0}va+fu+ihmklpz.sieziecio 四字词
 {0}va+fu+io+wlkklpzw.siezieuuoyuu 四字熟語
 {0}va+fhmkf.xnumau 小马
@@ -6593,6 +6605,7 @@
 {0}os+ui+fc,ix+jf+vhklskrou.gwufuexkojluxtojbi 給付型奨学金
 {0}os+ukhki.hvebfu 絵本
 {0}os+uksjhki.hvebku 絵柄
+{0}os+cdklhki.hvegze 絵垢
 {0}os+wudkrhc.wwoxbi 維新
 {0}os+wlesnhc.wwohue 維護
 {0}os+wl+mxhjno.naelloqui 納涼区
@@ -7808,6 +7821,7 @@
 {0}lr+scuzf.geijio 割集
 {0}lr+ssydsf.ileuhi 創傷
 {0}lr+ssmsf.ilezoe 創作
+{0}lr+lr+wkwdfdf.gxigxikau 刮刮卡
 {0}lr+lw+ra+ssydwkwwjm.fwubheosiuhi 誹謗中傷
 {0}lr+ljszl.griyro 官员
 {0}lr+is+llixlzfeu.geiyceqie 割薬器
@@ -8139,6 +8153,7 @@
 {0}ld+lf+dyirmcwxh.ugedjejpo 聖誕節
 {0}ld+iznwkw.sueqqo 訴求
 {0}ld+iktwum.yzehoe 誘惑
+{0}ld+dutddht.uiemie 舐秘
 {0}ld+dsivfwzl.hxeuue 話術
 {0}ld+dsivflg.ozeuue 呪術
 {0}ld+kedddwfn.ueexko 設形
@@ -8635,6 +8650,7 @@
 {0}er+wlmklns.hjecio 漢詞
 {0}er+wlkklns.hjeyuu 漢語
 {0}er+wdmns.hjefhi 漢方
+{0}er+skudf.ugeyuo 剰余
 {0}er+kcsifuv.hgoqbo 横琴
 {0}er+kwlo.yjexxe 嚥下
 {0}er+kl+ey+sjsuvjjjx.hgogeomoorze 横膈膜肉
@@ -9539,6 +9555,7 @@
 {0}if+izvves.oiimao 芝麻
 {0}if+ivbfi.doimoo 多摩
 {0}if+dbks.jbiugi 今生
+{0}if+dbkes.oiiugi 芝生
 {0}if+dn+jp+evdkrfinlk.doiloelwosii 多洛雷斯
 {0}if+durfi.doiosu 多种
 {0}if+dudzcfi.doiosu 多種
@@ -10604,6 +10621,7 @@
 {0}kr+zj+scjggspsh.sieoiogri 価値観
 {0}kr+vmdrf.hxeffi 劃分
 {0}kr+wuilks.tnegoe 跳过
+{0}kr+weelks.tnejbe 跳进
 {0}kr+wki.isiuhe 冲上
 {0}kr+szjhsp.sieoio 価値
 {0}kr+sozlks.tnesju 跳伞
@@ -11124,6 +11142,7 @@
 {0}kl+skkim.siihve 司会
 {0}kl+sj.tsorfo 同人
 {0}kl+sa+wlctj.tsorfooie 同人誌
+{0}kl+sa+ey+isujw.tsorfoybilee 同人音楽
 {0}kl+lj+ca+xmjwclk.tsodneyailie 同調圧力
 {0}kl+ey+zfujw.tsoybizie 同音字
 {0}kl+ey+ev+cd+wlkkljwpebi.tsoybiyieyieyuu 同音異義語
@@ -12199,6 +12218,7 @@
 {0}jp+uknkkg.dmejio 電極
 {0}jp+ua+cy+dbuykgfr.dmeziauuijio 電子書籍
 {0}jp+ua+stkgf.dmeziahxe 電子化
+{0}jp+ua+ey+isukgfw.dmeziaybilee 電子音楽
 {0}jp+ua+kh+udnlkgfb.dmeziabnugeo 電子表格
 {0}jp+hpwik.lwomuu 雷姆
 {0}jp+mxk.lwoqui 雷区
@@ -13097,6 +13117,7 @@
 {0}ja+jk+la+jg+il+mxseszdn.nwemgoguuzieoiequi 内蒙古自治区
 {0}.cx ×
 {0}.st ★
+{-}.st ★$SPACE
 {0}auu ǔ
 {0}auo ǒ
 {0}aue ě
