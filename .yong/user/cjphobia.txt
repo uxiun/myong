@@ -7279,6 +7279,7 @@
 {0}sc+keb.tvikdi 推开
 {0}sc+kixmb.tvidse 推动
 {0}sc+filu.ivomko 椎名
+{0}smb+r 㑚
 {0}smx 伊
 {0}smt 怎
 {0}sm+bgug.qlijii 枪击
@@ -7944,6 +7945,8 @@
 {0}lz+jg+ow+wlzwdehig.jiesretsujie 計算統計
 {0}lv 只
 {0}lv.yjwlg.uoimko 説明
+{0}lv.sy+xmwlgdki.uoideolie 説得力
+{0}lv.dsykiwlg.uoideo 説得
 {0}lv.ja+wxwlgy.uoimkowfo 説明文
 {0}lv.ja+skkiwlgy.uoimkohve 説明会
 {0}lw 샤
