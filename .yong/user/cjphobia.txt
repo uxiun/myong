@@ -2327,6 +2327,7 @@
 {0}rt,wljclfty.jpidne 階調
 {0}rt,ohsxfty.jpiuue 階数
 {0}rt,llixlfsg.tcoqie 陶器
+{0}rt,duefty.jpiigo 階乗
 {0}rt,dzdfnfty.jpidre 階段
 {0}rt,kpxfzfsg.tcozve 陶酔
 {0}rt,kwftc.biexxe 陛下
@@ -3449,6 +3450,7 @@
 {0}ua+kjkkv.muelko 木霊
 {0}ua+fudhof.ziasyi 子孫
 {0}ua+fhdno.miufje 米饭
+{0}ua+fs+ka+uohiu.mueoiibfuyki 木之本桜
 {0}ua+jbj.cduyse 采用
 {0}ua+jxop.gourjo 果然
 {0}ua+jxoz.wwerjo 未然
@@ -6559,6 +6561,7 @@
 {0}oz+dfik.pkofjo 平凡
 {0}oz+kpmrk.pkomme 平面
 {0}oz+ksk.pkozee 平仄
+{0}oz+kl+dytihkos.zsiheodea 綜合的
 {0}oz+fvhsy.soixnu 縮小
 {0}oz+jk+oo.swdhkcshd.pkoosuuaiyii 平塚紗依
 {0}oz+jj.wv+kixmknjnh.pkohxogyudse 平滑滚动
@@ -9749,6 +9752,7 @@
 {0}dq+dt+bs,da+ncibnxlxkfs.szigzuuuiruefau 搜狗输入法
 {0}dpk+hm 粤
 {0}dp+przjkd.lqooie 留置
+{0}dp+nwigd.lqolqo 留流
 {0}dp+xjd.lqoyzu 留有
 {0}dp+zuid.lqouzu 留守
 {0}dp+wlmgd.lqojie 留記
