@@ -1,15 +1,16 @@
 at $yyyy年$mon0月$day0日$hour0時$min分$sec秒$SPACE
 att $yyyy$mon0$day0$hour0$min$sec$SPACE
-atg $yyyy-$mon0-$day0T$hour0:$min.$sec
+atd $yyyy$mon0$day0$SPACE
+atg $yyyy-$mon0-$day0T$hour0:$min.$sec$SPACE
 
 atw $yyyy年/$mon月/$day日$SPACE
 ate #$yyyy年$mon月$_#$mon0月$day0日$_#$day日$_#$mon月$_#$yyyy年$SPACE
-att #$yyyy年/$mon月/$day日$_#$yyyy年$mon月$_#$yyyy年$_#$mon月$_#$day日$SPACE
+atr #$yyyy年$mon0月$day0日_#$yyyy年$mon月$_#$mon0月$day0日$_#$day日$_#$mon月$_#$yyyy年$SPACE
 
 ath $yyyy年$mon0月$SPACE
-atj $mon0月$day0日$SPACE
-atk $hour0時$min分$SPACE
-atl $hour0時$min分$sec秒$SPACE
+atm $mon0月$day0日$SPACE
+atn $hour0時$min分$SPACE
+atv $hour0時$min分$sec秒$SPACE
 atz $YYYY0年$MON月$DAY日$SPACE
 
 aty $yyyy$SPACE
@@ -25,7 +26,7 @@ atps $min分$SPACE
 
 ats $hour0:$min$SPACE
 
-atm $yyyy年$mon0月$day0日$SPACE
-atv $yyyy/$mon0/$day0$SPACE
-atn $yyyy-$mon0-$day0$SPACE
+atj $yyyy年$mon0月$day0日$SPACE
+atk $yyyy/$mon0/$day0$SPACE
+atl $yyyy-$mon0-$day0$SPACE
 

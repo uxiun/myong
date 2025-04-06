@@ -457,6 +457,7 @@
 {0}px+swcbt.vfeoue 摁住
 {0}px+sjsw.luurze 卤肉
 {0}px+esto.yjihxi 烟花
+{0}px+dpfio.yjicsi 烟囱
 {0}px+js+fhdnws.luurzefje 卤肉饭
 {0}pt+bdfnz.hvetzo 恵投
 {0}pt+hkkj.sdihso 腮红
@@ -1413,6 +1414,7 @@
 {0}xr+wdclfb.jmezce 建造
 {0}xr+wjdcxj.xiiwhe 希望
 {0}xr+skcwr.qioqro 齐全
+{0}xr+lj+kg+xxrjwkrxgvo.odiheeglixii 斎賀光希
 {0}xr+eniixj.xiibco 希薄
 {0}xr+ejrffb.jmeqmo 建前
 {0}xr+ihixfb.jmeyie 建议
@@ -1704,6 +1706,7 @@
 {0}xa+prrkw.daezve 大罪
 {0}xa+pup.ybigou 因果
 {0}xa+pwiv.fuemuu 父母
+{0}xa+pkcik.tmigoo 天国
 {0}xa+pkci.daegoo 大国
 {0}xa+yyw.wfoihi 文昌
 {0}xa+yt+tvlgmvd.ybuxiiyte 尹錫悦
@@ -2022,6 +2025,7 @@
 {0}th+ulwio.ziuxke 紫杏
 {0}th+mdxnwio.ziufae 紫髪
 {0}th+vwio.ziujbi 紫金
+{0}th+lo.rz+hrweywiowfkg.ziujkiyrexlu 紫京院響
 {0}th+exmvwio.ziusui 紫苏
 {0}th+ezrfwio.ziujki 紫荆
 {0}th+estwio.ziuhxi 紫花
@@ -3388,6 +3392,7 @@
 {0}ua+ui+yh+kozui.muecyillopko 木村良平
 {0}ua+ua+oa+sf+lepllkl.ddiddibueiiimni 呆呆不吃喵
 {0}ua+ga+sefibo.miuujiwuu 米山舞
+{0}ua+hosjz.wwenae 未納
 {0}ua+hdtyz.wwehyi 未婚
 {0}ua+ha+szw.wwewhorfo 未亡人
 {0}ua+cidmx.dsiigo 东城
@@ -5411,6 +5416,7 @@
 {0}zj+zvkcv.tmoksi 填空
 {0}zj+wm+ixmicvjk.tmoxpuwwe 填写为
 {0}zj+wsfxz.icoyee 朝夜
+{0}zj+wlkkllz.njoyuu 喃語
 {0}zj+wfijpgv.gretsi 貫通
 {0}zj+sy+ka+dbjgskdki.oiodeoyiikje 值得一看
 {0}zj+stjserj.ddehoe 带货
@@ -7687,6 +7693,7 @@
 {0}sa+hlf.qmeruo 欠如
 {0}sa+hi+eo+zbzlwps.rfoiuewuohde 人畜無害
 {0}sa+hdx.rfoyci 人妖
+{0}sa+hkdmxf.qmejnu 欠缴
 {0}sa+cyd.rfougi 人声
 {0}sa+cx+fufe.jqumwuzia 久美子
 {0}sa+mleb.rfoqyo 人群
@@ -9659,6 +9666,7 @@
 {0}ia+lkdnlv.gsilue 公路
 {0}ia+ebkx.tdeiae 太差
 {0}ia+epn.xiequi 戏曲
+{0}ia+eyxmv.gsimue 公募
 {0}ia+eniix.tdebco 太薄
 {0}ia+ecdbii.gluyie 広義
 {0}ia+evv.gsigse 公共
@@ -10473,6 +10481,7 @@
 {0}da+jxot.bierjo 必然
 {0}da+js.vvayte ヶ月
 {0}da+jdgo.ucujme 少见
+{0}da+jf+itksou.ruextouie 入学式
 {0}kb+xluhzr.bhujxe 绑架
 {0}kb+cwshzr.bhuzzu 绑走
 {0}kb+zkwshzr.bhudke 绑定
@@ -10491,6 +10500,7 @@
 {0}kp+cz+im+rm+dh+ohsxuonsjrkjso.bnioyupmigvixieuue 標準偏回帰係数
 {0}kp+cz+im+ebkuonsj.bnioyupmiiae 標準偏差
 {0}kp+msk.jliuii 僵尸
+{0}kp+zvixoc.yjitui 煙突
 {0}kp+wlmguo.bnijie 標記
 {0}kp+wlmklyc.llecio 量詞
 {0}kp+wlwiyuo.bniuio 標識
@@ -10531,6 +10541,7 @@
 {0}kn.mk+ejxmbo.mdedhilco 麦当劳
 {0}kn.zwxly.taeuio 踏实
 {0}kn.va+ud+kpdsnukfrn.jioxnubwefue 極小被覆
+{0}kn.wtwdhly.taexio 踏襲
 {0}kn.wegkjuk.jiodri 極端
 {0}kn.wedguk.jiodce 極道
 {0}kn.ls+rrkjijc.bkidniuii 冰雕师
@@ -11956,7 +11967,6 @@
 {0}fo+mk+pr+sfysswsj.niuyuuvzuxle 你与偶像
 {0}fo+zkk.lpeuie 烈士
 {0}fo+dbkeu.suiugi 蘇生
-{0}fs 久
 {1}fsc 坠
 {0}fs+bxkxl.ivizze 吹奏
 {0}fs+pkcii.oiigoo 之国
@@ -13125,6 +13135,7 @@
 {0}.cx ×
 {0}.st ★
 {-}.st ★$SPACE
+{0}att #$yyyy年/$mon月/$day日$_#$yyyy年$mon月$_#$yyyy年$_#$mon月$_#$day日$SPACE
 {0}auu ǔ
 {0}auo ǒ
 {0}aue ě
