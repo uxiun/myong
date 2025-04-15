@@ -535,6 +535,7 @@
 {0}ph+wjkck.ycewhe 要望
 {0}ph+oa+jxokk.ycebuerjo 要不然
 {0}ph+su+xkkoki.yceleende 要楽奈
+{0}ph+sikjvk.ycelku 要領
 {0}ph+sdbk.ycejme 要件
 {0}ph+ljgvk.yceyro 要員
 {0}ph+iznk.yceqqo 要求
@@ -685,6 +686,7 @@
 {0}pa+uui.tmocyi 田村
 {0}pa+uer.yzoldo 由来
 {0}pa+ui+si+eprfuvi.tmocyilkomge 田村鈴夢
+{0}pa+ud+cr,ryrwkrkf.yzoxbidcejqe 由新到旧
 {0}pa+hkdume.mnoxqe 苗绣
 {0}pa+zjezu.dsinjo 東南
 {0}pa+wlou.dsijki 東京
@@ -2739,6 +2741,7 @@
 {0}rj+cjdgpgv.mdumde 買売
 {0}rj+mmlx.buejuo 布局
 {0}rj+mkhw.uieohu 市長
+{0}rj+zbzlfk.zuuhde 阻害
 {0}rj+zvslw.uierso 市容
 {0}rj+zldlkw.yuugsi 雨宮
 {0}rj+zevcfk.zuusdi 阻塞
@@ -2764,6 +2767,7 @@
 {0}rj+dbgfmt.ybumco 隠毛
 {0}rj+dytidgv.oiedea 質的
 {0}rj+duifmt.ybusii 隠私
+{0}rj+dsccfw.uiejpi 市街
 {0}rj+dsdfnw.uieyie 市役
 {0}rj+dduiyx.ykeuee 映射
 {0}rj+da+ur+ml+mbfr 市ノ瀬加那
@@ -3325,6 +3329,7 @@
 {0}uk+dhios.tiuxie 体系
 {0}uk+dzpcs.tiuose 体重
 {0}uk+dzdfnk.wuudre 五段
+{0}uk+dsivfs.tiuuue 体術
 {0}uk+dk+va+fygkwjsw.wuuyjolqesee 五颜六色
 {0}uk+djrfs.tiuoie 体制
 {0}uk+kpvmde.bfuffi 苯酚
@@ -3895,6 +3900,7 @@
 {0}hi+howigdo.xietsu 系統
 {0}hi+heqvui.jiixmo 機嫌
 {0}hi+hkwigdo.xietsu 系统
+{0}hi+cx+zi+zkuidmo.jiidseojeuie 機動戦士
 {0}hi+mkpevui.jiiyie 機翼
 {0}hi+mkhui.jiiohu 機長
 {0}hi+ztdgui.jiimie 機密
@@ -3915,6 +3921,7 @@
 {0}hi+ijttui.jiingo 機能
 {0}hi+dytiss.uiedea 似的
 {0}hi+dubkvpo.lwejii 累積
+{0}hi+dcxmui.jiidse 機動
 {0}hi+douss.uiehui 似乎
 {0}hi+dk+hoskisswjv.uieyjohve 似顔絵
 {0}hi+kw+lj+jbdohigwcl.xietsudneyse 系统調用
@@ -4250,6 +4257,7 @@
 {0}cw+dqdrdh.oliufi 装身
 {0}cw+dujgrdh.olixli 装箱
 {0}cw+kgprdh.olihxe 装画
+{0}cw+kcerxkgj.lioyki 璃瑛
 {0}cw+kciznkig.lqoqqo 琉球
 {0}cw+kcdyktg.huupoe 琥珀
 {0}cw+fukgj.liozia 璃子
@@ -5360,6 +5368,7 @@
 {0}zi+fk+xmoyei.ojedzelie 戦闘力
 {0}zd+ 穿
 {0}zd+nkwns.gjejli 赣江
+{0}zd+xa+ka+slymdrks.lnotmitsooie 聊天仝智
 {0}zd+zkfp.wuonko 毋宁
 {0}zd+ebkdfn.dreiae 段差
 {0}zd+endldfn.dreloe 段落
@@ -5418,6 +5427,7 @@
 {0}zj+yz.icorie 朝日
 {0}zj+ykpcds.oielle 质量
 {0}zj+ya+je+ekvpzzz.icorienjoqme 朝日南茜
+{0}zj+xfijvv.ofetse 鎮痛
 {0}zj+ti+udfdgu.dyegzejii 盾构机
 {0}zj+utidg.dyegze 盾构
 {0}zj+ueerj.ddeldo 带来
@@ -5451,6 +5461,7 @@
 {0}zj+kixmerj.ddedse 带动
 {0}zj+ki.pwxerjrx.ddeoletuo 帯状図
 {0}zj+foebz.icoxmi 朝鮮
+{0}zj+fi+wrrfvvxj.ofetsejie 鎮痛剤
 {0}zj+jwmkcv.tmoxpu 填写
 {0}zj+jk+za+yzzkkid.icoyyoqmizcu 朝雲千早
 {0}za+ybkjd.qmiqko 千晴
@@ -6001,6 +6012,7 @@
 {0}wr+zrrfnd.ueeuie 涉事
 {0}wr+zhkk.ogevji 正安
 {0}wr+zjkkkk.ogeoio 正直
+{0}wr+vfrdhj.ziudie 姉弟
 {0}wr+wlokk.ogedmu 正点
 {0}wr+wlskjkk.ogelye 正論
 {0}wr+wkkgbk.ieuyru 扯远
@@ -7326,6 +7338,7 @@
 {0}sm+cj+zbxcdlkgg.icixmeuio 超現実
 {0}sm+ma+xcdlm.icijuedae 超巨大
 {0}sm+zxys.zoeoeu 作者
+{0}sm+zu+zt+hfucznlly.quewweuiehcu 趣味嗜好
 {0}sm+zhus.zoevje 作案
 {0}sm+zkmss.zoejxi 作家
 {0}sm+vfxbcdl.icijme 超鍵
@@ -7958,6 +7971,7 @@
 {0}lm+dynwkl.cioqro 詞泉
 {0}lm+dzdfnkbo.maudre 碼段
 {0}lm+kh+bkhwglm.jiehcebnu 記号表
+{0}lm+kh+ojfuwglm.jiehcexto 記号学
 {0}lm+jklwit.rfetso 認同
 {0}lz+ykpcw.jielle 計量
 {0}lz+njvfw.jiecee 計測
@@ -8139,6 +8153,7 @@
 {0}li+zlrllxl.qiegri 器官
 {0}li+wzw.ojedze 战斗
 {0}li+weytwdm.igoyie 誠意
+{0}li+os+gx+firiwtkmksfm.uieyjemmuqlo 試験勉強
 {0}li+os+zlrlwtkmks.uieyjegri 試験官
 {0}li+su+eplxli.qieleequi 器楽曲
 {0}li+ssmwtk.uiezoe 試作
@@ -8508,6 +8523,7 @@
 {0}la+iz+li+moskswvwtk.kzuuueuieyje 口述試験
 {0}la+ioebc.jioxlo 吉祥
 {0}la+iokp.hvoyki 回应
+{0}la+issc.kzuzoe 口座
 {0}la+ilt.kzugju 口感
 {0}la+dtyk.uiosyu 石筍
 {0}la+dmdkri.tdosou 台所
@@ -9959,6 +9975,7 @@
 {0}dt+ey+lkhmskw.diiybihce 低音号
 {0}dt+endlsk.diiloe 低落
 {0}dt+ehoeik.diuyye 底蘊
+{0}dt+evb.toiyee 托业
 {0}dt+ioklpb.toifuo 托福
 {0}dt+iojdgt.huiuie 忽视
 {0}dt+dm+ukski.diiigobfu 低成本
@@ -10178,6 +10195,7 @@
 {0}dz+ug+klvcj.osiruuuio 鍾乳石
 {0}dz+hotkbl.koeyti 括約
 {0}dz+cx+ua+wrknldms.hoodsexqioiu 活動休止
+{0}dz+cx+zxynldm.hoodseoeu 活動者
 {0}dz+mkftnl.hoouii 活屍
 {0}dz+zrrfec.dsuuie 董事
 {0}dz+zl+wxxxyd.ouiueotzo 猪舌头
@@ -10322,6 +10340,7 @@
 {0}dk+tewr.jbeuie 近世
 {0}dk+tedclr.tkidsu 听懂
 {0}dk+uj+jg+hhhwrwggu.jbeqbixlijmi 近親相姦
+{0}dk+ua+uewrz.jbewweldo 近未来
 {0}dk+ggwjv.pboiui 頻出
 {0}dk+ggwjs.pboiui 频出
 {0}dk+hv+hz+jwmklrilgifx.tkiuoiduoxpu 听说读写
@@ -10641,6 +10660,7 @@
 {0}kt+dm+bkhiowscnx.ciojiisue 雌激素
 {0}kt+dsdfnk.veeyie 悪役
 {0}kt+dskkfk.veexko 悪行
+{0}kt+kpdclllg.pcukue 跑酷
 {0}kt+ka+csojlllg.pcuyiithe 跑一趟
 {0}kt+ka+kpwluwsck.ciovreiyo 雌二醇
 {0}kt+fiww.ciuwde 此外
@@ -11319,6 +11339,7 @@
 {0}kk.ul+md+uznwgdkcv.yruigoffioii 远程分枝
 {0}kk.ul+iy+izpzwgdkcsl.yruigochikue 远程倉庫
 {0}kk.udnlozx.yjogeo 厳格
+{0}kk.uk+stjvs.juetiuhxe 具体化
 {0}kk.uk+skffjvs.juetiulie 具体例
 {0}kk.gxek.sjixxo 三峡
 {0}kk.gdhiwjs.ijewwi 颤巍
@@ -11342,6 +11363,7 @@
 {0}kk.zn+ja+mbfrkuy.sjioiimkonae 三枝明那
 {0}kk.ztdgozx.yjomie 厳密
 {0}kk.zusxzo.zsijne 宗教
+{0}kk.zuiozx.yjouzu 厳守
 {0}kk.zvktl.wueksi 悟空
 {0}kk.zwxev.qiouio 其实
 {0}kk.zs,zpzkzkj.sjilyoiei 三輪車
@@ -11378,6 +11400,7 @@
 {0}kk.sklsi.hveheo 会合
 {0}kk.sk+kjsuodk.bniqmiyee 标签页
 {0}kk.sa+hojkk.sjirfozuu 三人組
+{0}kk.sa+la+isscbhw.ofeyuikzuzoe 振込口座
 {0}kk.sa+dufok.sjirfoigi 三人称
 {0}kk.lo.su+lkhmuowdi.bnidmufuohce 标点符号
 {0}kk.ld+wsrfsiwzl.hvehxejue 会話劇
@@ -11544,6 +11567,7 @@
 {0}kf+fu+uhiibz.dauziejii 打字機
 {0}kf+fiwsf.liewde 例外
 {0}kf+jzpzrii.jlijyi 将軍
+{0}kf+jvzkfdr.yzooue 郵貯
 {0}kf+jdbkb.dauuge 打胜
 {0}kj 電
 {0}kjr+ki 融
@@ -12352,6 +12376,7 @@
 {0}jt+ya+eg+xa+no+su+ecxcknjkedi,iidujumiaieewu 壱百満天原莎楽美
 {0}jt+nkdoit.ngoyro 能源
 {0}jt+xmit.ngolie 能力
+{0}jt+xl+yh+dskkfjnsv.vdeoiiyboxko 愛知銀行
 {0}jt+xa+kcrfitw.ngodaodce 能达到
 {0}jt+tlfifit.ngogze 能够
 {0}jt+uujgdkdn.yziyue 憂鬱
@@ -12363,6 +12388,7 @@
 {0}jt+wxit.ngodao 能达
 {0}jt+weyjn.vdeybi 愛音
 {0}jt+oa+ijttitk.ngobuengo 能不能
+{0}jt+sxljn.vdeoii 愛知
 {0}jt+sk+ba+dywgitfleo.ngodgibjedcu 能登半島
 {0}jt+sa+jjtnjnf.vdejquvde 愛久愛
 {0}jt+lythit.ngohei 能喝
@@ -12481,6 +12507,7 @@
 {0}jg+ncide.srefau 算法
 {0}jg+nild.zieoie 自治
 {0}jg+nidod.ziempe 自滅
+{0}jg+xu+wlskjuwi.xlidvelye 相対論
 {0}jg+xu+stuwi.xlidvehxe 相対化
 {0}jg+xmde.srelie 算力
 {0}jg+xmd.zielie 自力
