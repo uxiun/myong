@@ -464,6 +464,8 @@
 {0}pt+wmkz.hveyuu 恵与
 {0}pt+jvvpyz.hvezge 恵贈
 {0}prw 罪
+{0}pripara pripara
+{0}pri+para プリパラ
 {0}pr+ygyn.mjebai 曼巴
 {0}pr+ya+wlmgef.mgeriejie 夢日記
 {0}pr+nscwj.yuenjo 遇难
@@ -889,9 +891,11 @@
 {0}yd+mzexsn.fuelmo 复联
 {0}yd+wlszfg.mmuxuu 免許
 {0}yd+wljclc.ugidne 声調
+{0}yd+wepcrg.vrotso 児童
 {0}yd+weyc.ugiybi 声音
 {0}yd+sdfc.ugiohu 声仉
 {0}yd+skjnc.ugiyzi 声優
+{0}yd+ep+xa+ojfurgwcw.vrotsowfoxto 児童文学
 {0}yd+eisuhg.mweyce 媚薬
 {0}yd+drjgvc.ugioie 声質
 {0}yd+dskkfg.mmuqmi 免签
@@ -1352,6 +1356,7 @@
 {0}xy+wkkib.iyiyye 春运
 {0}xy+ey+xj+jxobwtre.iyiyievherjo 春意盎然
 {0}xy+emrb.iyijpo 春节
+{0}xy+estb.iyihxi 春花
 {0}xy+duyb.iyixli 春香
 {0}xy+duob.iyiqqi 春秋
 {0}xy+dufub.iyijie 春季
@@ -2197,6 +2202,7 @@
 {0}tj+dshinr.bwehze 背後
 {0}tj+kpmrr.bwemme 背面
 {0}ta+bk+dm+kixmtjnx.xbiqkojiidse 心情激动
+{0}ta+ba+bk+xy+li+mosksijtjzwtk.ykiyseqkooeuuieyje 応用情報技術者試験
 {0}ta+pt.xbisii 心思
 {0}ta+nkdop.siiyro 思源
 {0}ta+xbwvxt.biujne 比较
@@ -4150,6 +4156,7 @@
 {0}cx+si+sizlledvf.mwuuuegru 美術館
 {0}cx+sa+escoe.mwurfojni 美人蕉
 {0}cx+lzue.mwuwwe 美味
+{0}cx+ey+wlwiyewt.mwuyieuio 美意識
 {0}cx+erjxe.mwuyki 美英
 {0}cx+ittdm.dsetde 動態
 {0}cx+il+wlmkldmf.dsemkocio 動名詞
@@ -4417,6 +4424,7 @@
 {0}cd+rwzpzdg.xmibwe 先輩
 {0}cd+gdnzdg.xmifgi 先峰
 {0}cd+ct,evmdkykd.poeseeffi 珀瑟芬
+{0}cd+cw+rl+eyzkdpkgji.lqoliothoccu 瑠璃唐草
 {0}cd+mzndg.xmiquu 先取
 {0}cd+za+ztjfdgw.xmidzenko 先斗寧
 {0}cd+wguidg.xmidcu 先導
@@ -4677,6 +4685,7 @@
 {0}mu.eyxjrd.biemue 闭幕
 {0}mu.ihixf.ogiyie 争议
 {0}mu.jbf.ogiyse 争用
+{0}mg 己
 {0}mg+nmken.fjelje 氾濫
 {0}mg+hi+if+fokdsfi.veegxidoivru 厄瓜多尔
 {0}mg+csmggg.jtoqiu 崛起
@@ -5173,6 +5182,7 @@
 {0}zn+sx+xmlzim.qqoyiipiu 求医癖
 {0}zn+sukj.oiitiu 肢体
 {0}zn+szjki.qqooio 求值
+{0}zn+si+zxybdvf.jieuueoeu 技術者
 {0}zn+sk+lg+bmsmblwv.quuueuxruzeo 取捨選択
 {0}zn+eniizc.oiebco 軽薄
 {0}zn+ekkib.jieyyo 技芸
@@ -5330,6 +5340,7 @@
 {0}zs,jilzkj.lyotdi 輪胎
 {0}zlg 克
 {0}zl+bzvkdl.grukse 管控
+{0}zl+be.kuuuzu 苦手
 {0}zl+ycuis.guiuio 估時
 {0}zl+ncisx.zoefau 做法
 {0}zl+xjp.gueyzu 固有
@@ -8148,6 +8159,7 @@
 {0}lli+x 哭
 {0}ll.nzkvbu.cciyju 操演
 {0}ll.rrdpzl.pbupdo 品牌
+{0}ll.hodssbu.ccizse 操縦
 {0}ll.mkftch.sheuii 喪屍
 {0}ll.wlcjgwkx.wueduo 誤読
 {0}ll.wlmkll.pbucio 品詞
@@ -8296,6 +8308,7 @@
 {0}lk+zvxfke.yjojqi 研究
 {0}lk+zevckrx.ykesdi 硬塞
 {0}lk+zkkjs.uoeuie 硕士
+{0}lk+vbsvke.yjozre 研鑚
 {0}lk+vx+uupkezf.yjojqidse 研究棟
 {0}lk+vx+zxykezf.yjojqioeu 研究者
 {0}lk+vx+zkickezf.yjojqiuie 研究室
@@ -8402,6 +8415,7 @@
 {0}lj+xluwl.gcijxe 高架
 {0}lj+rs+ml+szjkwlfuix.gcifuejxioio 高附加值
 {0}lj+riteuz.huodpo 胡蝶
+{0}lj+rkjgvwl.gcigve 高貴
 {0}lj+rk+ua+uezusz.huotcowweldo 胡桃未来
 {0}lj+rk+ea+fuzusx.huotcojxizia 胡桃夹子
 {0}lj+ub+hopwlokj.gcijkixie 高精細
@@ -8919,6 +8933,7 @@
 {0}eo+ctus.wuodie 無地
 {0}eo+csmzns.wuoque 無趣
 {0}eo+csles.wuoyjo 無塩
+{0}eo+cdkls.wuogze 無垢
 {0}eo+mzwiys.wuooio 無職
 {0}eo+moxis.wuotoo 無駄
 {0}eo+ml+krksx.wuojxigsi 無加工
@@ -9359,6 +9374,7 @@
 {0}im+ilkyr.jiohoe 即或
 {0}im+ierjyr.jioxio 即席
 {0}im+ikth.hrehoe 幻惑
+{0}im+dqjvyr.jioxke 即興
 {0}im+djlsj.pmixle 偏向
 {0}im+kpkkor.mfopne 门票
 {0}im+kcpcb.hueliu 护理
@@ -10006,6 +10022,7 @@
 {0}dx,nrpmn.faeyzo 髪油
 {0}dx,xmlnt.tmijxi 添加
 {0}dx,xssmn.faejxi 髪夾
+{0}dx,xddhsh.ycihuo 妖狐
 {0}dx,rieymn.faelae 髪蜡
 {0}dx,uhiib.qiejii 契機
 {0}dx,hotkb.qieyti 契約
@@ -11074,6 +11091,7 @@
 {0}km+kl+evjrwj.fwitsoqii 非同期
 {0}km+kkhmhkd.mzoqnu 缪巧
 {0}km+kksxzs.jxioge 家政
+{0}km+kk.wlkklrwwl.fwiyjoyuu 非言語
 {0}km+kjpgzs.jxidme 家電
 {0}km+ka+ha+ua+jf+pclhmiksfou.yuuqqinvuziaxtoyro 羽丘女子学園
 {0}km+ka+kkgrwk.fwivreyro 非二元
@@ -11123,12 +11141,14 @@
 {0}kv+endlnp.sauloe 洒落
 {0}kv+ea+kmnpe.jqujkuhue 酒井戸
 {0}kv+dynnp.jquqro 酒泉
+{0}kw+przjkzs.dkeoie 定置
 {0}kw+psrrzs.dkejpe 定界
 {0}kw+xmd.iielie 斥力
 {0}kw+tz+xa+szrxfcs.ouehxodaeuiu 驻华大使
 {0}kw+tlgw.kaubci 卡包
 {0}kw+tk+stzsi.dkeuiehxe 定式化
 {0}kw+ry+uhiizsfh.dkexmejii 定限機
+{0}kw+rz+oj+nfpozspjkheh.dkeoiewhuyuo 定置網漁
 {0}kw+rkhzs.dkeoli 定妆
 {0}kw+rkixxk.ogeole 症状
 {0}kw+rf,mlebxksx.ogehzeqyo 症候群
@@ -12532,6 +12552,7 @@
 {0}jr+honnnef.qmoove 前綴
 {0}jr+hotkdf.oieyti 制約
 {0}jr+hodynef.qmoxme 前線
+{0}jr+mm.filkrrz.vrowfomko 而闻名
 {0}jr+meemf.uxipko 刷屏
 {0}jr+mdxnef.qmofae 前髪
 {0}jr+zxyef.qmooeu 前者
@@ -12630,6 +12651,7 @@
 {0}jg+xo+kk.wlkkldjwl.zierjoyjoyuu 自然言語
 {0}jg+xo+kk.lk+nd+kcpcdjwlwkldf.zierjoyjoyuuiuuliu 自然言語処理
 {0}jg+xscidi.credoo 篡奪
+{0}jg+typnd.ziemje 自慢
 {0}jg+ttu.xlibiu 相比
 {0}jg+tl+rk+ififyngbw.mcepcepdoxue 冒泡排序
 {0}jg+tdbku.xlixke 相性
@@ -12638,6 +12660,7 @@
 {0}jg+uhiiu.xlijii 相機
 {0}jg+udfu.xlijii 相机
 {0}jg+ggde.sreiui 算出
+{0}jg+ga+negjdm.ziejiumju 自己満
 {0}jg+ga+ca+fmkhdmw.ziejiuouuohi 自己主張
 {0}jg+ga+wc+dduidmn.ziejiuoueuee 自己注射
 {0}jg+ga+om+srrdmhdl.ziejiuucejpe 自己紹介
@@ -12811,6 +12834,7 @@
 {0}jz+cx+ezstwzdm.yyedsexti 運動靴
 {0}jz+zzskfwz.yyeuui 運輸
 {0}jz+zzkkiwz.yyeoru 運転
+{0}jz+zk+yd+wlszwzzkifg.yyeorummuxuu 運転免許
 {0}jz+ojldlwz.yyeyko 運営
 {0}jz+sk+tdbkbzfxt.hvifaixke 揮発性
 {0}jz+dcxmwz.yyedse 運動
@@ -13103,7 +13127,9 @@
 {0}jf+mkdyou.xtoxio 学習
 {0}jf+zxyou.xtooeu 学者
 {0}jf+zkwsed.jmudke 剪定
+{0}jf+vxr.yuejbi 郁金
 {0}jf+vmdou.xtoffi 学分
+{0}jf+va+duyxr.yuejbixli 郁金香
 {0}jf+wrkbmu.jkeoiu 静止
 {0}jf+wwmunu.fuoyzo 浮遊
 {0}jf+wlfrou.xtobue 学部
