@@ -32,6 +32,7 @@
 {0}bx,mosksz.uioyje 実験
 {0}bx,mkdyz.uioxio 実習
 {0}bx,zkmsz.uiojxi 実家
+{0}bx,wlkwkz.uiooge 実証
 {0}bx,wedgxf.gvudce 轨道
 {0}bx,sukz.uiotiu 実体
 {0}bx,skffz.uiolie 実例
@@ -629,6 +630,7 @@
 {0}pz+dskkfs.mwuxko 毎行
 {0}pz+ko.djiyii 単一
 {0}pz+kkgo.djiyro 単元
+{0}pz+ka+sto.djiyiihxe 単一化
 {0}pz+fuo.djizia 単子
 {0}pz+fskxto.djifai 単発
 {0}pz+js.mwuyte 毎月
@@ -739,6 +741,7 @@
 {0}yy.klfsl.ihegei 唱歌
 {0}yn 最
 {0}yn.we+estdvg.qrojkehxi 泉鏡花
+{0}yn.jdz.gciyte 皐月
 {0}yx+yfyej.muejmi 幕間
 {0}yx+xo+la+edjgekjp.moerjohvouzu 蓦然回首
 {0}yx+ta+pcoetm.mueniohwi 慕尼黑
@@ -797,6 +800,7 @@
 {0}yg 巴
 {0}yg+bmkcb.bauwoe 把握
 {0}yg+bkhiof.seesue 色素
+{0}yg+negjj.fwomju 肥満
 {0}yg+xj.fwodae 肥大
 {0}yg+tbkjf.seeqko 色情
 {0}yg+rr,cw+hmrrfrkig.seeirilqojii 色川琉姫
@@ -2779,6 +2783,7 @@
 {0}rj+sd+dmdkrwdfn.uieyiesou 市役所
 {0}rj+sfysyx.ykexle 映像
 {0}rj+lhtw.uiembo 市民
+{0}rj+ld+yn.jkwzldz.yuugsigciyte 雨宮皐月
 {0}rj+lk+pobgexwkl.ykiyuuqri 英語圏
 {0}rj+lk+zs,wleejexwklzkj.ykiyuulyojlu 英語輪講
 {0}rj+lk+jr+kc+ca+ecdbiexwklwjpiw.ykiyuudiegooouuyie 英語帝国主義
@@ -2800,6 +2805,7 @@
 {0}rj+kxkw.yuutmi 雨天
 {0}rj+kgpyx.ykehxe 映画
 {0}rj+klykifk.zuuvde 阻碍
+{0}rj+klkeyx.ykeyjo 映研
 {0}rj+fm+ij+dzllwcdre.uieihujmigru 市场监管
 {0}rj+filex.ykimko 英名
 {0}rj+jvdnw.uiefje 市販
@@ -2968,6 +2974,7 @@
 {0}ux+kfco.lwexko 类型
 {0}ux+fc,of+oi+dulkcokhdnhmj.lwexkojiobmiigo 类型級編程
 {0}ux+fc,sk+ujkokus.lwexkojmuoai 类型検査
+{0}ux+jglhtt.kkemmo 快眠
 {0}ut 想
 {0}ut+mtd.xiinio 悉尼
 {0}ut+ztdgdd.miemie 秘密
@@ -3083,6 +3090,8 @@
 {0}uw+jf+sizlldzou.keixtogru 科学館
 {0}uo+nwksd.qqisee 秋渋
 {0}uo+typndj.ucimje 稍慢
+{0}uo+gd.qqiuji 秋山
+{0}uo+ga+xy+fdmdb.qqiujiiyindu 秋山春乃
 {0}uo+wurdd.mnusue 秒速
 {0}uo+wk+dhiodns.qqiseexie 秋渋系
 {0}uo+dufud.qqijie 秋季
@@ -3691,6 +3700,7 @@
 {0}ga+zx+vd+cykyemekr.bailwisiitju 巴勒斯坦
 {0}ga+zhj.muevji 目安
 {0}ga+zk+zxygnv.iuiyjuoeu 出演者
+{0}ga+wskuj.muetuo 目途
 {0}ga+wepcr.vrotso 儿童
 {0}ga+wa+sa+wkzkd.qiixxebaiuhe 七下八上
 {0}ga+or+lf+wi+fifiiprksng.ujiufogeilqodoi 山神歌流多
@@ -3905,6 +3915,7 @@
 {0}hs+fa+ev+kxoxxzw.uuejquhjotmi 数九寒天
 {0}hs+jkli.rfetso 认同
 {0}hs+jk+ctuizv.rfeofidie 认真地
+{0}hs+jf+yt+rm+os+ncioxoudirkjhj.uuextodeagvinaefau 数学的帰納法
 {0}hl+hokk.iyohso 唇紅
 {0}hl+wljjk.iyogci 唇膏
 {0}hl+lmrfiv.uiobpo 识别
@@ -4349,6 +4360,7 @@
 {0}cs+ft,yt+sx+xksjkxkdix.oiesiudeajiobke 致死的疾病
 {0}cs+ft,tdbkkxk.oiesiuxke 致死性
 {0}cl+pbmj.oziwwo 周围
+{0}cl+pcfifwh.yruyeu 遠野
 {0}cl+peej.ozitsi 周囲
 {0}cl+ywlowh.yrujku 遠景
 {0}cl+nudnj.oziboi 周波
@@ -4357,6 +4369,7 @@
 {0}cl+udnhl.xiipio 嬉皮
 {0}cl+ud+ohsxjnn.oziboiuue 周波数
 {0}cl+hkdnwd.gceosi 告终
+{0}cl+cf,okgwhpif.yruyeugli 遠野光
 {0}cl+ma+kjx.ozilieyii 周力一
 {0}cl+wmdj.ozibmi 周辺
 {0}cl+wdkrwh.yrujbe 遠近
@@ -4779,6 +4792,7 @@
 {0}ms+przjkwx.fheoie 放置
 {0}ms+puiwdh.lvutro 旅団
 {0}ms+yrjxwx.fheyke 放映
+{0}ms+yw+oh+fuixdgu.fuidcuykizia 敷島桜子
 {0}ms+nwx.fheuvu 放水
 {0}ms+nwmuwdh.lvuyzo 旅游
 {0}ms+nezjw.iiooie 迟滞
@@ -4808,6 +4822,7 @@
 {0}ms+ex,wlfrwxw.fhessebue 放送部
 {0}ms+ek+klfswfskjv.xrotzogei 旋頭歌
 {0}ms+iy+gt,fuwxnhd.fhelhexiizia 放浪息子
+{0}ms+dywgix.fuidcu 敷島
 {0}ms+dujwtu.uiicee 施策
 {0}ms+dwjdgwev.qiojme 旗舰
 {0}ms+dsrbwfs.xrolve 旋律
@@ -5756,6 +5771,7 @@
 {0}vd+rp+lm+vfknwnkxwg.bmeggejielue 変更記録
 {0}vd+rcwdhwn.bmeoli 変装
 {0}vd+hs+xd,ylownoxidd.bmeuuecjioce 変数参照
+{0}vd+hs+ra+hoijiwnoxu.bmeuueuuefue 変数束縛
 {0}vd+higi.moonvu 魔女
 {0}vd+ha+us+rr,kl+zusxigizxpkwm.moonvujnezvesiijne 魔女教大罪司教
 {0}vd+ha+zusxigi.moonvujne 魔女教
@@ -6075,6 +6091,7 @@
 {0}wr+wlokk.ogedmu 正点
 {0}wr+wlskjkk.ogelye 正論
 {0}wr+wkkgbk.ieuyru 扯远
+{0}wr+omkkk.ogedhi 正当
 {0}wr+ojlrjkk.ogeiho 正常
 {0}wr+sukkk.ogetiu 正体
 {0}wr+sj+tdbkkkbgg.ogegvixke 正規性
@@ -6161,7 +6178,8 @@
 {0}wm+jk+uhiijkzv.xpuofijii 写真機
 {0}wm+jk+scujkzv.xpuofijio 写真集
 {0}wm+jk+sizlljkzv.xpuofigru 写真館
-{0}wz 斗
+{0}wz 章
+{1}wz 斗
 {0}wzv+t 𰻞
 {0}wzv+tblo 𰻞
 {0}wz,bwehvz.lmejpi 鏈接
@@ -6554,6 +6572,7 @@
 {0}ou+fuw.miozia 迷子
 {0}og+nudnjx.ncuboi 脳波
 {0}og+uhiijx.ncujii 脳機
+{0}og+secii.liuyio 礼儀
 {0}og+sjjx.ncunwe 脳内
 {0}og+ecdbii.liuyie 礼義
 {0}og+dbtddi.liuwue 礼物
@@ -8224,6 +8243,7 @@
 {0}li+nwelx.kuiqie 哭泣
 {0}li+hu+eplxld.qieleequi 器乐曲
 {0}li+cydlx.kuiugi 哭声
+{0}li+mzox.uzevru 獣耳
 {0}li+moskswtk.uieyje 試験
 {0}li+zlrllxl.qiegri 器官
 {0}li+wzw.ojedze 战斗
@@ -8413,6 +8433,7 @@
 {0}lj+xg+xf+rmlwgktis.hcowuoyiowfe 毫无疑问
 {0}lj+xsktwg.lleyue 亮癒
 {0}lj+xluwl.gcijxe 高架
+{0}lj+rt,fn+ohsxwlftyg.gcijpihjouue 高階函数
 {0}lj+rs+ml+szjkwlfuix.gcifuejxioio 高附加值
 {0}lj+riteuz.huodpo 胡蝶
 {0}lj+rkjgvwl.gcigve 高貴
@@ -8593,6 +8614,7 @@
 {0}la+lu+eidkkdn.uiopoemce 石破茂
 {0}la+lc+wlotwjg.jueduodmu 句読点
 {0}la+lj+pa+ca+fucwlrp.jiogciyzoliuzia 吉高由里子
+{0}la+lj+efsxzxgv.guuheekvo 古賀葵
 {0}la+exlh.ruoroe 如若
 {0}la+ecie.kzugde 口蓋
 {0}la+edzcz.guudsu 古董
@@ -8949,6 +8971,7 @@
 {0}eo+sxls.wuooii 無知
 {0}eo+sm+ixfoss.wuozoewwe 無作為
 {0}eo+ss.wuorfo 無人
+{0}eo+lt+tbkjsi.wuogjuqko 無感情
 {0}eo+lj+dbssbv.wuosyuuii 無損失
 {0}eo+ey+ecdbiswt.wuoyieyie 無意義
 {0}eo+ed,xa+ta+rk+wddbkskddwswv.wuoxkowfohxeyioiju 無形文化遺産
@@ -9405,6 +9428,7 @@
 {0}iz+it+xs+iokrljreuwx.huodpoxneyki 蝴蝶效应
 {0}iz+it+ekkrljreu.huodpoljo 蝴蝶兰
 {0}iz+klfszpz.zdegei 載歌
+{0}iz+fygn.qmusee 浅色
 {0}iz+juglj.buuruu 哺乳
 {0}iz+jkxmrj.buuoue 補助
 {0}iv+lmrfgn.jyebpo 峻別
@@ -9659,6 +9683,7 @@
 {0}if+uecnfi.doiyhe 多様
 {0}if+udfi.doicdo 多才
 {0}if+uknkfi.doijio 多極
+{0}if+ujgfi.doixli 多相
 {0}if+ga+dytifij.doimuedea 多目的
 {0}if+ga+jzhfiy.doibaivje 多巴胺
 {0}if+hwvhsi.lkenlo 令嬢
@@ -11446,6 +11471,7 @@
 {0}kk.tphpr.mmudmi 缅甸
 {0}kk.tu+dytievs.qiotaidea 其他的
 {0}kk.te+jt+edufkeujn.sjiyeevdelie 三葉愛莉
+{0}kk.rr,ke+jkrez.sjiirihxoyte 三川華月
 {0}kk.rh+estxopoc.ndeloohxi 奈羅花
 {0}kk.rev.qioosi 其中
 {0}kk.rkthpr.mmubwu 缅北
@@ -11590,6 +11616,7 @@
 {0}kk.jskkoei.yyojie 芸祭
 {0}kk.jl+db,ya+kcwxcmliorjtkd.xyoihoxkebdobji 尋常性白斑
 {0}kk.jd+bc,uuuerydui.ljopaeteesfi 兰帕特森
+{0}kk.jk.sjiyte 三月
 {0}kk.jjxns.rfovde 仁爱
 {0}kk.ja+dmdkrsix.hveyzusou 会有所
 {0}kf 到
@@ -11831,6 +11858,7 @@
 {0}ka+vb+ms+wexowx.yiijuufhesse 一挙放送
 {0}ka+vp+odjgnk.jlixiiugu 江西省
 {0}ka+vj+dbke.yiiqiiugi 一期生
+{0}ka+wxui.yiidve 一対
 {0}ka+wxu.bfuwfo 本文
 {0}ka+wtkk.yiixpi 一些
 {0}ka+wrkd.yiibue 一步
@@ -12104,6 +12132,7 @@
 {0}fu+js+bhwx.hcudiouzu 好敵手
 {0}fh+hfhkhk.maimai 妈妈
 {0}fh+lkhdhk.maiyaa 妈呀
+{0}fc,hi+hkwigkdo.xkoxietsu 型系统
 {0}fc,sc+wlskjkb.xkotvilye 型推論
 {0}fc,sk+ujkkus.xkojmuoai 型検査
 {0}fc,lkhmk.xkohce 型号
@@ -12726,6 +12755,7 @@
 {0}jg+ssydd.zieuhi 自傷
 {0}jg+ssydfv.fueuhi 負傷
 {0}jg+ssmd.ziezoe 自作
+{0}jg+si+itkdedvf.sreuueuie 算術式
 {0}jg+sklu.xliheo 相合
 {0}jg+skkiu.xlihve 相会
 {0}jg+sk+xbddkf.ziexkoiei 自行车
@@ -13119,6 +13149,7 @@
 {0}jf+tmded.jmuqpe 剪切
 {0}jf+rk+kgpbmuw.jkeoiuhxe 静止画
 {0}jf+uwvxou.xtoxne 学校
+{0}jf+ga+ulkdm.wueujixke 霧山杏
 {0}jf+cx+va+hs+lo.ohsxnudmfoxw.fuodsexnuuuedmuuue 浮動小数点数
 {0}jf+cx+va+lo.hs+kfcnudmfwox.fuodsexnudmuuuexko 浮動小数点数型
 {0}jf+cl+mkhouph.xtoyroohu 学園長
