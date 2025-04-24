@@ -154,6 +154,7 @@
 {0}bs,endld.uiiloe 失落
 {0}bs,eveud.uiiyee 失業
 {0}bs,ejsxd.uiisje 失散
+{0}bs,ittd.uiitde 失態
 {0}bs,ihtyxt.lyoxyo 轮询
 {0}bs,iorprd.uiiufo 失神
 {0}bs,iogd.uiiliu 失礼
@@ -551,6 +552,7 @@
 {0}ph+kok.ycebue 要不
 {0}ph+kkjvk.ycexle 要項
 {0}ph+fwxk.ycemdu 要买
+{0}pco 黒
 {0}pc+ndfnc.mdomwo 埋没
 {0}pc+xfidez.gciwjo 睾丸
 {0}pc+wsc.mdoyui 埋込
@@ -1936,6 +1938,7 @@
 {0}xa+jsktkk.tmifue 天赋
 {0}xa+jddhw.wfomde 文脈
 {0}xa+jk+hhokkh.daeofezdi 大震災
+{0}xa+jf+us+ljgvouzx.daextojneyro 大学教員
 {0}xa+jf+cdklou.daextogze 大学垢
 {0}xa+jf+im+jd+skkiwouyrcg.wfoxtojiomdehve 文学即売会
 {0}xa+jf+dbkou.daextougi 大学生
@@ -9302,6 +9305,7 @@
 {0}ix+furb.kuezia 裤子
 {0}ix+jf+vrou.jluxtojbi 奨学金
 {0}it 応
+{0}itt 態
 {0}itc 垄
 {0}ito 熊
 {0}it+brmlj.xrogei 悬搁
