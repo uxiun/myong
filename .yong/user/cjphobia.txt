@@ -72,6 +72,7 @@
 {0}br,nkfki.xpejli 蟹江
 {0}br,hudkrof.pjedre 判断
 {0}br,zkwsof.pjedke 判定
+{0}br,od+sidnfkio.xpeicufje 蟹炒飯
 {0}br,szgfki.xpefzu 蟹缶
 {0}br+hudkrof.pjedre 判断
 {0}bg 扎
@@ -1150,6 +1151,7 @@
 {0}ns+imctwih.cjitki 餐廳
 {0}ns+dwjewih.cjipjo 餐盘
 {0}ns+kkfwih.cjitki 餐厅
+{0}ns+jkxmix.jqeoue 救助
 {0}ns+jkkvwih.cjijue 餐具
 {0}nl 減
 {0}nl+psrrd.geejpe 各界
@@ -3624,6 +3626,7 @@
 {0}ge+ojlrjm.yieiho 异常
 {0}ge+ikscjp.mnooyu 瞄准
 {0}gi+nidod.gvumpe 鬼滅
+{0}gi+sa+im+fs+boddhoe.gvurfohredgiici 鬼人幻燈抄
 {0}gi+lzudx.izewwe 臭味
 {0}gi+id+fs+mdidnoi.gvumpeoiirfe 鬼滅之刃
 {0}gi+kidgid.gvuhyo 鬼魂
@@ -4718,6 +4721,7 @@
 {0}mm.fuikk.ujezia 扇子
 {0}mm.filrz.wfomko 闻名
 {0}mzt 恥
+{0}mz+bskfbr.yeoyuo 揶揄
 {0}mz+yzyn.zvezcu 最早
 {0}mz+yodddbn.ueeyku 摄影
 {0}mz+xyn.zvedae 最大
@@ -6817,6 +6821,7 @@
 {0}od+oxrjhht.oiubie 紙幣
 {0}od+ow+ku+fwhiyddhdzs.ykufgeyuoxmo 影縫余弦
 {0}od+sbhnw.osinmo 終年
+{0}od+sidno.icufje 炒飯
 {0}od+skn.uaiqqi 沙丘
 {0}od+sfysydd.ykuxle 影像
 {0}od+eyxjhnw.osimue 終幕
@@ -7594,6 +7599,7 @@
 {0}sd+zvixdcf.isitui 衝突
 {0}sd+zlrfdfn.yiegei 役割
 {0}sd+wy+sjsjyojh.jiitvurze 鶏腿肉
+{0}sd+wsfes.fwiyui 飛込
 {0}sd+oubkjjyo.jiijki 鶏精
 {0}sd+szjkjis.bmuoio 贬值
 {0}sd+sk+uhiifesdkf.fwixkojii 飛行機
@@ -9218,8 +9224,9 @@
 {0}ea+jxoe.jkurjo 井然
 {0}ea+jg+jv+nrorudnu.ldozieufiyri 来自深渊
 {0}ea+jke.bkeqpu 并且
-{0}i 我
-{2}i ㄹ
+{0}i ㄹ
+{1}i 我
+{2}i 戈
 {0}iq+th+sifdqntwio.lueziuxme 漉紫餡
 {0}iq+sifdqnt.luexme 漉餡
 {0}ip+rirrjrho.loosii 螺蛳
@@ -9393,6 +9400,7 @@
 {0}im+sifiyr.jiolke 即令
 {0}im+skrxyr.jiobme 即便
 {0}im+ebksj.pmiiae 偏差
+{0}im+endlyr.jioloe 即落
 {0}im+exlyr.jioroe 即若
 {0}im+er+bnkpryrij.jioxiomme 即席麺
 {0}im+imr.mfohue 门户
@@ -11169,6 +11177,7 @@
 {0}kv+llixls.bkiqie 兵器
 {0}kv+endlnp.sauloe 洒落
 {0}kv+ea+kmnpe.jqujkuhue 酒井戸
+{0}kv+iwlnp.jqudme 酒店
 {0}kv+dynnp.jquqro 酒泉
 {0}kw+przjkzs.dkeoie 定置
 {0}kw+psrrzs.dkejpe 定界
