@@ -227,6 +227,7 @@
 {0}bk+zm+ek+suktjcrnhu.qkobcemwotiu 情報媒体
 {0}bk+zm+jf+mlebtjcrnou.qkobcextoqyo 情報学群
 {0}bk+zzjnj.qkiico 清朝
+{0}bk+zwonnj.qkijie 清寂
 {0}bk+zk+bxkxdnv.ugiyjuzze 生演奏
 {0}bk+vpznj.qkidji 清单
 {0}bk+vmdvnj.qkipbo 清貧
@@ -821,6 +822,7 @@
 {0}yh+nzzjw.tveico 退潮
 {0}yh+nscn.jminjo 艰难
 {0}yh+nkdou.gfiyro 根源
+{0}yh+nkflv.yboheo 銀河
 {0}yh+tdbku.gfixke 根性
 {0}yh+ulv.yboxke 銀杏
 {0}yh+uku.gfibfu 根本
@@ -1036,6 +1038,7 @@
 {0}ya+siyh.rieuio 日食
 {0}ya+sklk.bduheo 百合
 {0}ya+lwsk.bduzuo 百足
+{0}ya+lo.od+rjdfidkdn.bdouaiuaifji 白砂沙帆
 {0}ya+eb,nzksdn.bdoyhodme 白洋淀
 {0}ya+evje.rieyie 日益
 {0}ya+evj.rieqii 日期
@@ -1517,6 +1520,7 @@
 {0}xm+rk+ukolllw.kaifwibwi 咖啡杯
 {0}xm+uznem.lieoii 荔枝
 {0}xm+hp.njonvu 男女
+{0}xm+hobkvk.gsijii 功績
 {0}xm+hotkzm.xpoyti 協約
 {0}xm+hojkp.njozuu 男組
 {0}xm+hi+mkkizvix.xpoyiecgo 协议层
@@ -1535,6 +1539,7 @@
 {0}xm+wvjlzv.xpouhi 协商
 {0}xm+wlecizm.xpoyie 協議
 {0}xm+wljclzm.xpodne 協調
+{0}xm+ob+ca+ecdbikhkvw.gsijiiouuyie 功績主義
 {0}xm+sp.njorfo 男人
 {0}xm+stuii.wwetai 为他
 {0}xm+sukp.njotiu 男体
@@ -1646,6 +1651,7 @@
 {0}xk+xrysle.druzje 短暂
 {0}xk+xrfuzl.jiecyo 寄存
 {0}xk+tdbktj.doexke 惰性
+{0}xk+tdbkojv.lwexke 類性
 {0}xk+rrkrsle.drupme 短片
 {0}xk+rmxlsle.druqyo 短裙
 {0}xk+rixbsle.drukue 短裤
@@ -2190,6 +2196,7 @@
 {0}tk+suwzsv.qkixpo 傾斜
 {0}tk+swcsf.dkioue 钉住
 {0}tk+lmrf 性別
+{0}tk+llmf 性哵
 {0}tk+ldkrss.qkitki 倾听
 {0}tk+ejvi.uiedmu 式典
 {0}tk+iorpri.uieufo 式神
@@ -2398,6 +2405,7 @@
 {0}rr,skk.yaerfo 亜人
 {0}rr,skffzf.uielie 事例
 {0}rr,sfobj.bhiniu 帮你
+{0}rr,la+du+xkkoref.irikzuliende 川口莉奈
 {0}rr,ebkrs.uyeiae 顺差
 {0}rr,ex,estkkl.yaexnehxi 亜咲花
 {0}rr,evzf.uieyee 事业
@@ -2956,6 +2964,7 @@
 {0}ux+bzrst.kkejpo 快捷
 {0}ux+ylot.kkeoce 快照
 {0}ux+tn.jtoxbi 決心
+{0}ux+tdbko.lwexke 类性
 {0}ux+gklub.pjiyjo 攀岩
 {0}ux+cr,fftkf.kkedcelea 快到了
 {0}ux+csmgzm.booqiu 勃起
@@ -3133,6 +3142,7 @@
 {0}ul+wlkkld.heoyuu 和語
 {0}ul+weyd.heoybi 和音
 {0}ul+siyhd.heouio 和食
+{0}ul+ls+bk+zwondexnj.heojkeqkijie 和敬清寂
 {0}ul+itkd.heouie 和式
 {0}ul+ienddc.igodue 程度
 {0}ul+ififdkc.igoxue 程序
@@ -3156,6 +3166,7 @@
 {0}ui+bk+ndzldd.siiugihoo 私生活
 {0}ui+pcu.cyiliu 村里
 {0}ui+yuiw.goeuio 过时
+{0}ui+nprzc.siezeo 寺澤
 {0}ui+nwign.dvelqo 对流
 {0}ui+xmls.fuejxi 付加
 {0}ui+xzed.siibfi 私奔
@@ -4529,6 +4540,7 @@
 {0}cj+widgkdg.xmeisi 现充
 {0}cj+oc+idmkhl.zdejpoigo 再結成
 {0}cj+ozisgg.grioje 観戦
+{0}cj+stjgvsgv.lbedde 賃貸
 {0}cj+sm+dcxmkcg.zdeqiudse 再起動
 {0}cj+swcle.yeioue 噎住
 {0}cj+sitkgg.xmedde 現代
@@ -4581,6 +4593,7 @@
 {0}ca+ctu.tuudie 土地
 {0}ca+cu+swbi.ouuiiorfo 主持人
 {0}ca+cd+zxywebi.ouuyieoeu 主義者
+{0}ca+mkic.tuuwui 土屋
 {0}ca+zrrfs.uieuie 仕事
 {0}ca+za+ekkvm.tuuvruqio 土耳其
 {0}ca+vj+sjspo.liujiorze 里脊肉
@@ -4615,6 +4628,7 @@
 {0}ca+kpmrp.liumme 里面
 {0}ca+kle.tuudze 土豆
 {0}ca+kixmw.ouudse 主动
+{0}ca+ki.fu+rjxmcu.tuuwuiliuyhi 土屋李央
 {0}ca+kkgw.ouuyro 主元
 {0}ca+kjlkll.tuulue 吐露
 {0}ca+fygw.ouusee 主色
@@ -4635,6 +4649,7 @@
 {1}mnc 쫂
 {0}mnj 臀
 {0}mnj+ 臀
+{0}mnj+gv 贀
 {0}mx 区
 {0}mx+pkcis.yiigoo 伊国
 {0}mx+ur+uz+du+tusnseef.yiildemoelieyeu 伊濑茉莉也
@@ -4926,6 +4941,7 @@
 {0}md+rk+pwxvj.ffiyrotuo 分円図
 {0}md+uznv.ffioii 分枝
 {0}md+udkrv.ffixii 分析
+{0}md+ud+kjlklrbn.iuipiilue 初披露
 {0}md+gr+wr+evrsfsk.iuiileqiuyee 初创企业
 {0}md+gznv.ffiqio 分岐
 {0}md+ht+dsccfvvl.pbombojpi 貧民街
@@ -5381,6 +5397,7 @@
 {0}zl+zjeznj.huonjo 湖南
 {0}zl+wxd.ueotzo 舌头
 {0}zl+wguusdl.gruiuu 管𬺓
+{0}zl+wh+isudlfi.gruxmolee 管弦楽
 {0}zl+wedgdl.grudce 管道
 {0}zl+oxd.ueojmi 舌尖
 {0}zl+ozie.kuuoje 苦戦
@@ -5401,6 +5418,7 @@
 {0}zl+kw+mkhpzs.guedkeohu 固定長
 {0}zl+kftu.kuisiu 枯死
 {0}zl+fhdnsx.zoefje 做饭
+{0}zl+fwhidl.gruxmo 管弦
 {0}zl+fdsxms.guiwue 估務
 {0}zl+jxop.guerjo 固然
 {0}zl+ja+szjkpx.gueyzuoio 固有值
@@ -5541,6 +5559,7 @@
 {0}zj+jwmkcv.tmoxpu 填写
 {0}zj+jk+za+yzzkkid.icoyyoqmizcu 朝雲千早
 {0}za+ybkjd.qmiqko 千晴
+{0}za+yu.moerie 末日
 {0}za+ykzk.gjehje 干旱
 {0}za+ykkhy.zcuifo 早晨
 {0}za+nurvy.zculde 早瀬
@@ -5764,6 +5783,7 @@
 {0}vi+ftuu.ssiiio 松弛
 {0}vi+jxozx.tuirjo 突然
 {0}vi+jo+km+zjezuenmik.ssitgoyuunjo 松藤羽南
+{0}vdd,yo 鵜
 {0}vd+bkhioigi.moosue 魔素
 {0}vd+bfjxwn.bmehre 変換
 {0}vd+psrrigi.moojpe 魔界
@@ -5921,6 +5941,7 @@
 {0}va+uepif.xnuzyi 小樽
 {0}va+ua+ba+id+jp+llixlfowgkg.xnumiuuzuisidmeqie 小米手機急速充電器
 {0}va+ua+xn+kkkfub.xnulbotdesji 小林泰三
+{0}va+ua+ep+ifsfuwg.xnulbolsooii 小林竜之
 {0}va+gr+ma+zkjfx.jbighilieuie 金剛力士
 {0}va+gr+ma+ka+sfysjfxz.jbighilieuiexle 金剛力士像
 {0}va+gr+kljf.jbighiuio 金剛石
@@ -7211,6 +7232,7 @@
 {0}sx+jf+frzkgmou.yiixtoyre 医学院
 {1}st 仑
 {0}stu 他
+{0}stj+gv 貸
 {0}st+bt,ra+tjiddd.gzewueosixbi 购物中心
 {0}st+bwebu.toilai 拖拉
 {0}st+bk+mxled.hxiugijyi 花生君
@@ -8205,6 +8227,7 @@
 {0}ll.dudzcl.pbuosu 品種
 {0}ll.fjmdbwkx.wuejpu 誤解
 {0}lex 咲
+{0}les+l 嗒
 {0}le+ba+ebcle.xiuyhoyho 喜羊羊
 {0}le+nzkvwej.jluyju 講演
 {0}le+nodk.dzeuai 豆沙
@@ -8238,6 +8261,7 @@
 {0}le+ekhdk.dzeyao 豆芽
 {0}le+isscwej.jluzoe 講座
 {0}le+isijk.dzefuu 豆腐
+{0}le+if+ui+rj+dfuclfiuex.xiudoicyiykilio 喜多村英梨
 {0}le+dywgmb.qyodcu 群島
 {0}le+dnjekhi.ciopjo 磁盤
 {0}le+dn+rikvpku.dzebjujle 豆板醤
@@ -8372,6 +8396,7 @@
 {0}lk+if+lk+odifii.hoedoihoeucu 或多或少
 {0}lk+dhuhx.yuolee 娱乐
 {0}lk+kwrkwf.dkeoge 訂正
+{0}lk+kekjvwkl.yuutzo 語頭
 {0}lk+jbwkl.yuuyse 語用
 {0}lk+jsrfi.hoezeo 或则
 {0}lk+jf+skkikeou.yjoxtohve 研学会
@@ -8429,6 +8454,7 @@
 {0}lf+jmrnsif.uuifuo 舒服
 {0}lf+jjnwu.xluuze 享受
 {1}ljs 싐
+{0}lj+qd+mkhwld.gciufiohu 高身長
 {0}lj+pr+wzef.huolooboa 胡萝卜
 {0}lj+pwl.gcitmo 高田
 {0}lj+pa+fu+ia+fuwldf.gcitmoliovvazia 高田梨々子
@@ -8704,6 +8730,7 @@
 {0}ey+tk+stuxi.moouiehxe 模式化
 {0}ey+tk+lw+lmrfuxiwiy.moouieuiobpo 模式識別
 {0}ey+ta+ux+zkwswtcn.yieoiejtodke 意志決定
+{0}ey+rw+ojfuwhey.ybixluxto 音響学
 {0}ey+uecnux.mooyhe 模様
 {0}ey+ueejux.moogze 模構
 {0}ey+ue+jvrfjjd.mieigozeo 冪乗則
@@ -9224,8 +9251,8 @@
 {0}ea+jxoe.jkurjo 井然
 {0}ea+jg+jv+nrorudnu.ldozieufiyri 来自深渊
 {0}ea+jke.bkeqpu 并且
-{0}i ㄹ
-{1}i 我
+{0}i 我
+{1}i ㄹ
 {2}i 戈
 {0}iq+th+sifdqntwio.lueziuxme 漉紫餡
 {0}iq+sifdqnt.luexme 漉餡
@@ -11491,6 +11518,7 @@
 {0}kk.ra+ka+wtkkev.qioosiyiixpi 其中一些
 {0}kk.uxkwkzg.wjoogu 完整
 {0}kk.uudjv.juecdo 具材
+{0}kk.uu.si+fukuvi.sjisfilkozia 三森鈴子
 {0}kk.uznk.sjioii 三枝
 {0}kk.uw+st+zyfrsdze.rfokeihxidzi 仁科花都
 {0}kk.ul+md+uznwgdkcv.yruigoffioii 远程分枝
@@ -12614,6 +12642,7 @@
 {0}jr+sh+ywloefdin.qmohzejku 前後景
 {0}jr+sm+ut+wldzldfsdd.oiezoemiehxe 制作秘話
 {0}jr+sm+zxydfs.oiezoeoeu 制作者
+{0}jr+sm+sdfs.oiezoerfo 制作人
 {0}jr+ssxmuf.cieuhi 刺伤
 {0}jr+ssmdf.oiezoe 制作
 {0}jr+ss,dm+itkdfdkrw.oieyuefhiuie 制御方式
@@ -12739,6 +12768,7 @@
 {0}jg+vmdd.zieffi 自分
 {0}jg+ve+jg+dsykideud.zieyeeziedeo 自業自得
 {0}jg+vd+wlskjdxfn.zieuailye 自殺論
+{0}jg+wprju.xliyue 相遇
 {0}jg+wxuiu.xlidve 相対
 {0}jg+wtmkd.ziente 自虐
 {0}jg+wukbu.xliwwo 相違
