@@ -8215,6 +8215,7 @@
 {0}ll.wlmkll.pbucio 品詞
 {0}ll.wlkozl.pbupko 品評
 {0}ll.ojlcnu.zcutho 澡堂
+{0}ll.sm+yt+ey+zu+wlskjbusdiwtl.ccizoedeayiewwelye 操作的意味論
 {0}ll.sm+hi+hkwigbusdo.ccizoexietsu 操作系统
 {0}ll.sm+dhiobus.ccizoexie 操作系
 {0}ll.ssmbu.ccizoe 操作
