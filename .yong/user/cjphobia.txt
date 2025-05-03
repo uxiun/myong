@@ -1481,6 +1481,7 @@
 {0}xu+fytswi.dvexle 対象
 {0}xu+fifiwi.dvedoi 対多
 {0}xg+ncik.wuofau 无法
+{0}xg+xkkok.wuonde 无奈
 {0}xg+txfisk.wuoyio 无疑
 {0}xg+ry+jk+yjknkfhyn.wuoxmenrunru 无限暖暖
 {0}xg+rw+klykikfez.wuoohevde 无障碍
@@ -2192,6 +2193,7 @@
 {0}tk+udnl 性格
 {0}tk+uk+dul 性違和
 {0}tk+mzzptsv.qkitki 傾聴
+{0}tk+vlfs 性欲
 {0}tk+stojss.qkixni 倾销
 {0}tk+suwzsv.qkixpo 傾斜
 {0}tk+swcsf.dkioue 钉住
@@ -4300,6 +4302,7 @@
 {0}cml 超
 {0}cm+yp+mk+im+jgdgsxtnwsj.vcemjeyuupmijme 傲慢与偏見
 {0}cm+typnsx.vcemje 傲慢
+{0}cm+kchhpkbo.mauncu 瑪瑙
 {0}cm+jl+jl+izpzkbokklkkl.maulueluekue 瑪露露庫
 {0}cz+bdnfn.oyujue 準拠
 {0}cz+sedjn.oyubwe 準備
@@ -5121,6 +5124,7 @@
 {0}ma+zijik.wjeboo 万博
 {0}ma+zkx.lieuie 力士
 {0}ma+wvdnk.huebme 戸変
+{0}ma+wiszn.hvelve 汇率
 {0}ma+os+hojehkhc.wjewwowhu 万維網
 {0}ma+ojfux.liexto 力学
 {0}ma+suk.uiitiu 尸体
@@ -5337,6 +5341,7 @@
 {0}zv+rjxiv.maoyhi 麻央
 {0}zv+uiv.maomue 麻木
 {0}zv+gklol.rsoyjo 熔岩
+{0}zv+hhkol.rsosii 熔丝
 {0}zv+zp+epdunlwz.rsolmojyi 溶連菌
 {0}zv+zv+bnkprwtwt.bloblomme 𰻞𰻞麺
 {0}zv+vupnl.rsolme 溶錬
@@ -5617,6 +5622,7 @@
 {0}vb+mx+bweis.mooyiilai 摩伊拉
 {0}vb+ebythi.moojpo 摩羯
 {0}vb+dt+xbib.mootoiiei 摩托车
+{0}vb+dcxmo.juudse 挙動
 {0}vb+dzpco.juuose 举重
 {0}vb+dskkfo.juuxko 挙行
 {0}vp+nebk.xiiyho 西洋
@@ -5677,6 +5683,7 @@
 {0}vx+hf+sm+jbwkks.jnihuezoeyse 交互作用
 {0}vx+weydgzf.jqijke 究竟
 {0}vx+wfijw.jnitsi 交通
+{0}vx+swklw.jnixbe 交信
 {0}vx+ebkw.jniiae 交差
 {0}vx+dswcw.jniwhu 交往
 {0}vx+khfkw.jnihue 交互
@@ -5953,6 +5960,7 @@
 {0}va+hjkf.xnujpu 小姐
 {0}va+ct,na+bwzzfswkn.xnuheeulipbi 小鹤双拼
 {0}va+csmge.gseqiu 共起
+{0}va+cd+pclhwebi.lqeyieyro 六義園
 {0}va+cf,kf+xy+duyfpifpb.xnuyeutkiiyixli 小野町春香
 {0}va+mdrj.jbiuuu 金属
 {0}va+md+ejsxev.gseffisje 共分散
@@ -9684,6 +9692,7 @@
 {0}ik.pdnlsjs.lkulte 领略
 {0}ik.xrfuyhg.jiecyo 既存
 {0}ik.xa+ebsjsw.lkutzoyho 领头羊
+{0}ik.ggyhg.jieiui 既出
 {0}ik.csjv.lkutuu 領土
 {0}ik.cilksjv.lkuyue 領域
 {0}ik.zkwsyhg.jiedke 既定
@@ -10118,6 +10127,7 @@
 {0}dty 昏
 {0}dt+bwdfbk.diukhe 抵抗
 {0}dt+pdnlt.huilte 忽略
+{0}dt+nidlsk.diijmu 低減
 {0}dt+ndzlhy.hyihoo 婚活
 {0}dt+ta+skkiskc.diioiehve 低志会
 {0}dt+rkhik.diuoli 底妆
@@ -10535,6 +10545,7 @@
 {0}dk+swjmwr.jbebhe 近傍
 {0}dk+sitwr.jbedde 近代
 {0}dk+sklwjv.yjoheo 顔合
+{0}dk+sfxxc.kloqie 狂気
 {0}dk+ee,ba+uhiibrm.oeopkouzujii 折屏手機
 {0}dk+ejondjv.xuitgo 須藤
 {0}dk+ixwr.jbeyie 近义
@@ -10989,6 +11000,8 @@
 {0}kh+fubio.suezia 素子
 {0}kh+filb.bnumko 表名
 {0}kci 玉
+{0}kcf,s 玖
+{0}kcj+jn 璦
 {0}kc+bwzzs.qropbi 全拼
 {0}kc+puhl.jpogou 结果
 {0}kc+psrrpi.goojpe 国界
