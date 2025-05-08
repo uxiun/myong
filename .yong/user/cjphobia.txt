@@ -3912,6 +3912,7 @@
 {0}hs+szjhox.uueoio 数値
 {0}hs+szjkox.uueoio 数值
 {0}hs+sweox.uuewwe 数位
+{0}hs+sdmx.gdurue 改入
 {0}hs+sklri.rfemke 认命
 {0}hs+lllfrj.uiepbu 饰品
 {0}hs+erzmx.gdugeo 改革
@@ -6124,6 +6125,7 @@
 {0}wr+zhkk.ogevji 正安
 {0}wr+zjkkkk.ogeoio 正直
 {0}wr+vfrdhj.ziudie 姉弟
+{0}wr+wh+nudnkkfi.ogexmoboi 正弦波
 {0}wr+wlokk.ogedmu 正点
 {0}wr+wlskjkk.ogelye 正論
 {0}wr+wkkgbk.ieuyru 扯远
@@ -6686,6 +6688,7 @@
 {0}oz+nook.pkodje 平淡
 {0}oz+njjjk.pkohxo 平滑
 {0}oz+tk+szjhkck.pkojyioio 平均値
+{0}oz+tk+dsrbkck.pkojyilve 平均律
 {0}oz+ui+woixgky.pkouiojqe 平时就
 {0}oz+udnk.pkobju 平板
 {0}oz+hophiv.xmixie 繊細
@@ -10058,6 +10061,7 @@
 {0}dn+wlmklul.geocio 格詞
 {0}dn+wlvlgs.fjuuoi 仮説
 {0}dn+wlkklpl.lteyuu 略語
+{0}dn+wexw.fjusse 返送
 {0}dn+wiszul.geolve 格率
 {0}dn+wkow.fjuhdo 返还
 {0}dn+scjggzl.keegri 客観
@@ -11110,6 +11114,7 @@
 {0}kc+fjcs.qrojnu 全角
 {0}kc+jxxs.qrowhu 全网
 {0}kc+jt+iltsit.qrongogju 全能感
+{0}km 戸
 {0}km+bg,kciznmikd.yuumcoqqo 羽毛球
 {0}km+pmik.yuutmo 羽田
 {0}km+pa+vk+nevgmikz.yuutmoksighu 羽田空港
@@ -12766,6 +12771,7 @@
 {0}jg+cx+dc+wlmklddmwl.ziedsezcecio 自動造詞
 {0}jg+cx+de,hofdnddmy.ziedseugijio 自動昇級
 {0}jg+cx+jz+zzkkiddmwz.ziedseyyeoru 自動運転
+{0}jg+cwsd.ziezzu 自走
 {0}jg+cslgde.sreqiu 算起
 {0}jg+m 自己
 {0}jg+mu.xkwkdrd.ziebieoge 自闭症
