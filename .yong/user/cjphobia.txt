@@ -7571,6 +7571,7 @@
 {0}ss,dqjvdyn.fuexke 復興
 {0}ss,durkj.lluosu 两种
 {0}ss,dmdkrec.njosou 難所
+{0}ss,dd,iorprdkrxhs.yuehuoufo 御狐神
 {0}ss,kp+pwxicuo.zoebnituo 座標図
 {0}ss,kp+dhioicuo.zoebnixie 座標系
 {0}ss,klkewz.zuoyjo 卒研
