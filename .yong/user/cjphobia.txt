@@ -50,6 +50,7 @@
 {0}bx,kcjggz.uioxme 実現
 {0}bx,klfhkdi.izomau 筹码
 {0}bx,kd+zkiczmy.uioxiouie 実習室
+{0}bx,kfcvi.ouexko 鋳型
 {0}bx,frjsoz.uiojie 実際
 {0}bx,jbz.uioyse 実用
 {0}bx,js+zdnlbxwx.zzediokee 揍敵客
@@ -642,6 +643,7 @@
 {0}pz+js.mwuyte 毎月
 {0}pw+srsi.mwugee 每个
 {0}pw+kxsi.mwutmi 每天
+{0}po+dywgku.suedcu 粟島
 {0}po+fuf.yuozia 魚子
 {0}psr+r 界
 {0}ps+kpivnkm.cuesri 酢酸
@@ -972,6 +974,7 @@
 {0}yf+sklzr.dziheo 都合
 {0}yf+ebjgku.hzeoea 厚着
 {0}yf+ed,su+jghozrwgii.dzidcefuuxme 都道府県
+{0}yf+ikfzr.dzitki 都庁
 {0}yf+dx,jugncmn.ryefaeruu 潤髪乳
 {0}yj 明
 {0}yjz+z 暈
@@ -2364,6 +2367,7 @@
 {0}ry+okgfkd.yhogli 陽光
 {0}ry+scuz.zjejio 暫集
 {0}ry+ilf.yhotdo 阳台
+{0}ry+dgiznfkd.yhoqqo 陽毬
 {0}ry+djrffh.xmeoie 限制
 {0}ry+kufh.xmeyuo 限于
 {0}rn 版
@@ -3978,6 +3982,7 @@
 {0}hi+mkhui.jiiohu 機長
 {0}hi+ztdgui.jiimie 機密
 {0}hi+wlzpo.lwejie 累計
+{0}hi+wjzzui.jiiyye 機運
 {0}hi+ojfuw.xroxto 玄学
 {0}hi+sukui.jiitiu 機体
 {0}hi+sklbs.niuheo 拟合
@@ -4116,9 +4121,11 @@
 {0}ha+dbk.nvuugi 女生
 {0}ha+db,dytitk.nvuxkedea 女性的
 {0}ha+db,dm+bkhiotknx.nvuxkejiisue 女性激素
+{0}ha+db,djltk.nvuxkexle 女性向
 {0}ha+dsgoxz.vjihvi 安徽
 {0}ha+dd,od+kokjvzwbkikr.vjiijuqioyre 安産祈願
 {0}ha+dfkri.nvufgi 女風
+{0}ha+djl.nvuxle 女向
 {0}ha+kcpcz.vjiliu 安理
 {0}ha+kc+tdbkzs.vjiqroxke 安全性
 {0}ha+kw+iltzzs.vjidkegju 安定感
@@ -4277,6 +4284,7 @@
 {0}cu+skls.jioheo 集合
 {0}cu+skkis.jiohve 集会
 {0}cu+lmrf 特別
+{0}cu+lkhmdi.dguhce 等号
 {0}cu+evjyi.uioqii 時期
 {0}cu+eskls.jioheo 集荷
 {0}cu+itkdi.dguuie 等式
@@ -5225,6 +5233,7 @@
 {0}zn+ncii.qqofau 求法
 {0}zn+nojm.quuxni 取消
 {0}zn+tuxzc.oiekke 軽快
+{0}zn+ra+dcdgmf.quuybuxmi 取引先
 {0}zn+uxkwkm.quuogu 取整
 {0}zn+urkjvi.qqolde 求頼
 {0}zn+cydzc.oieugi 軽声
@@ -5254,6 +5263,7 @@
 {0}zn+dlzg.qiofue 岐阜
 {0}zn+djgm.quuzie 取自
 {0}zn+kkhmb.jieqnu 技巧
+{0}zn+frm.quuybu 取引
 {0}zn+fjmdbi.qqojpu 求解
 {0}zn+jt+sk+dcxmijndkf.qqovdexkodse 求愛行動
 {0}zn+jjtni.qqovde 求愛
@@ -5358,6 +5368,7 @@
 {0}zv+gklol.rsoyjo 熔岩
 {0}zv+hhkol.rsosii 熔丝
 {0}zv+zp+epdunlwz.rsolmojyi 溶連菌
+{0}zv+zn+ikscivu.maooiioyu 麻枝准
 {0}zv+zv+bnkprwtwt.bloblomme 𰻞𰻞麺
 {0}zv+vupnl.rsolme 溶錬
 {0}zv+okjsiv.maofjo 麻烦
@@ -5913,6 +5924,7 @@
 {0}vj+va+stwle.uhiyeehxe 商业化
 {0}vj+wjkce.qiiwhe 期望
 {0}vj+sc+cx+dbtddoudm.jioivodsewue 脊椎動物
+{0}vj+skkiwl.uhihve 商会
 {0}vj+lllwl.uhipbu 商品
 {0}vj+evwl.uhiyee 商业
 {0}vj+eveuwl.uhiyee 商業
@@ -6493,6 +6505,7 @@
 {0}wa+xmlr.buujxi 补加
 {0}wa+xdufk.xxelie 下痢
 {0}wa+tyk.xxexyo 下旬
+{0}wa+rcyk.xxeuui 下書
 {0}wa+hksklr.buugwu 补给
 {0}wa+ctuk.xxedie 下地
 {0}wa+mk+zn+md+lr+ncikljvuvzf.xxeveeoiiffigeifau 下顎枝矢状分割法
@@ -7397,6 +7410,7 @@
 {0}sc+bt,wlskjlddd.wwowuelye 唯物論
 {0}sc+bwrdw.jbebue 進捗
 {0}sc+bdws.tuouzu 徒手
+{0}sc+ywlodcf.jpijku 街景
 {0}sc+nkfln.hkoheo 淮河
 {0}sc+njvfb.tvicee 推測
 {0}sc+xmb.tvilie 推力
@@ -8107,6 +8121,7 @@
 {0}lm+xy+skkiwgz.jieoeuhve 記者会
 {0}lm+xl+ta+cp+ojfuwitskc.rfeoiixbiliuxto 認知心理学
 {0}lm+twetwg.jieyie 記憶
+{0}lm+rjmkhwg.jieohe 記帳
 {0}lm+hlsn.jxuruo 假如
 {0}lm+hkjpuwkl.ciohve 詞彙
 {0}lm+mdxnsn.jxufae 假髪
@@ -8150,6 +8165,7 @@
 {0}lv.sy+xmwlgdki.uoideolie 説得力
 {0}lv.dsykiwlg.uoideo 説得
 {0}lv.ja+wxwlgy.uoimkowfo 説明文
+{0}lv.ja+oa+lwswlgyk.uoimkobuezuo 説明不足
 {0}lv.ja+skkiwlgy.uoimkohve 説明会
 {0}lw 샤
 {0}lwx 哒
@@ -8568,6 +8584,7 @@
 {0}lj+stdbswl.gcitpu 高铁
 {0}lj+swlfwcl.dnetko 調停
 {0}lj+ssydbv.syuuhi 損傷
+{0}lj+siylwl.gcichi 高倉
 {0}lj+sdhiwl.gcidii 高低
 {0}lj+skrpwl.gcisie 高価
 {0}lj+li+llixlwclwtk.dneuieqie 調試器
@@ -8575,6 +8592,7 @@
 {0}lj+la+bmrnwlp.gcihvobce 高回报
 {0}lj+evdkrwl.gcisii 高斯
 {0}lj+ekezws.hcohxo 豪華
+{0}lj+iy+ry+dgiznwlslfkd.gcichiyhoqqo 高倉陽毬
 {0}lj+ihvlgz.huouoi 胡说
 {0}lj+izvvz.huomao 胡麻
 {0}lj+is+dm+kh+je+xkwkwlxcnxbiod.gcixsojiisuexteoge 高雄激素血症
@@ -8719,7 +8737,7 @@
 {0}la+jbw.ojeyse 占用
 {0}la+jwyhx.yzetvu 右腿
 {0}la+ja+oc+jjtnhhl.ruoytejpovde 如月結愛
-{1}e 是
+{0}e 是
 {0}eb 羊
 {0}eb,siyhn.yhouio 洋食
 {0}eb,lllu.yhepbu 样品
@@ -8736,6 +8754,7 @@
 {0}ep+ga+uyfpbg.mnoiuiljo 描出欄
 {0}ep+ztdgnh.nsomie 濃密
 {0}ep+zuiwi.zyiuzu 遵守
+{0}ep+wprjwy.zciyue 遭遇
 {0}ep+wxuy.ccotzo 槽头
 {0}ep+wsb.mnoyui 描込
 {0}ep+wldzlwc.tsohxe 童話
@@ -8904,6 +8923,7 @@
 {0}eg+vwzzw.nielme 逆鏈
 {0}eg+wlonj.mjudmu 満点
 {0}eg+wlowkj.dridmu 端点
+{0}eg+wew.nielie 逆立
 {0}eg+ouwewkj.drilie 端粒
 {0}eg+szwkj.driwuu 端午
 {0}eg+lwsnj.mjuzuo 満足
@@ -9403,6 +9423,7 @@
 {0}it+sds.dderue 代入
 {0}it+skrps.ddesie 代価
 {0}it+il+wlmklsf.ddemkocio 代名詞
+{0}it+ia+usf.ddevvamue 代々木
 {0}it+dskkfs.ddexko 代行
 {0}it+kh+pudsb.ddebnutro 代表团
 {0}it+kh+dytisb.ddebnudea 代表的
@@ -9932,6 +9953,7 @@
 {2}d ㄱ
 {0}db,pcfifyk.xkiyeu 星野
 {0}db,pkcisi.veogoo 俄国
+{0}db,yt+ty+djltkdib.xkedeaoiuxle 性的指向
 {0}db,yt+zt+hfutkdily.xkedeauiehcu 性的嗜好
 {0}db,yt+sj+uktkdikgv.xkedeaziibfu 性的資本
 {0}db,ygmg.wwubai 尾巴
@@ -10031,6 +10053,7 @@
 {0}dy+hoodlo.mkouai 鳴紗
 {0}dy+hilko.yrouiu 原始
 {0}dy+cydlo.mkougi 鳴声
+{0}dy+cx+xmkodm.yrodselie 原動力
 {0}dy+mkiceo.nnuwui 蔦屋
 {0}dy+zskyko.yrosue 原宿
 {0}dy+zfwxb.pdimde 拍卖
@@ -11162,6 +11185,7 @@
 {0}km+rcwdhsr.xpeoli 卸装
 {0}km+rs+ih+dbtddfgfkkin.wwixmufwewue 危险废物
 {0}km+uyhrw.fwigfi 非根
+{0}km+uyhmik.yuugfi 羽根
 {0}km+ux+kw+jg+cx+uhiirwnzsddm.fwijtodkeziedsejii 非決定性有限自動機
 {0}km+uhiifg.wwijii 危機
 {0}km+us+skkizszx.jxijnehve 家教会
@@ -11324,6 +11348,7 @@
 {0}ko+oa+hlwk.hdobueruo 还不如
 {0}ko+oa+steywk.hdobuecoe 还不错
 {0}ko+skffk.uielie 示例
+{0}ko+iltm.lkogju 灵感
 {0}ko+idkhk.uiewwi 示威
 {0}ko+ijttw.hdongo 还能
 {0}ko+df+xjwnn.hdomwoyzu 还没有
@@ -11971,6 +11996,7 @@
 {0}ka+wlfr.yiibue 一部
 {0}ka+weyt.yiiyie 一意
 {0}ka+weyu.bfuybi 本音
+{0}ka+wegkjx.zoudri 左端
 {0}ka+we+yi+siftwsug.uhewwegdenme 上位概念
 {0}ka+we+hf+bfjxwskk.uhewwehuehre 上位互換
 {0}ka+wizvw.uheuue 上述
@@ -12332,6 +12358,7 @@
 {0}fl+wexk.keusse 可送
 {0}fl+wegk.keunie 可逆
 {0}fl+oj+stkigg.keuuiehxe 可視化
+{0}fl+szlxk.keuzoe 可做
 {0}fl+sk+fjmdbkdkf.keuxkojpu 可行解
 {0}fl+ihvlgk.keuuoi 可说
 {0}fl+iznk.keuqqo 可求
