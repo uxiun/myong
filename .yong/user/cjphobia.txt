@@ -22,6 +22,7 @@
 {0}bx,ycuiz.uiouio 実時
 {0}bx,nldgz.uiokle 実況
 {0}bx,xrcz.uiozde 実在
+{0}bx,xrfuz.uiocyo 実存
 {0}bx,xmz.uiolie 実力
 {0}bx,rcwdhz.uiooli 実装
 {0}bx,rc,wlskjzx.uiozdelye 実在論
@@ -1485,6 +1486,7 @@
 {0}xu+kl+bkfbim.uzesiidau 寿司打
 {0}xu+fytswi.dvexle 対象
 {0}xu+fifiwi.dvedoi 対多
+{0}xu+jc+stwif.dvejnuhxe 対角化
 {0}xg+ncik.wuofau 无法
 {0}xg+xkkok.wuonde 无奈
 {0}xg+txfisk.wuoyio 无疑
@@ -1850,6 +1852,7 @@
 {0}xa+wkklw.wfoyjo 文言
 {0}xa+ohsxk.tmiuue 天数
 {0}xa+ow+sikjvhig.daetsulku 大統領
+{0}xa+oj 大学
 {0}xa+ojlck.tmitho 天堂
 {0}xa+ojljv.daeuhu 大賞
 {0}xa+ojfuw.wfoxto 文学
@@ -2991,6 +2994,7 @@
 {0}ux+wlecin.jtoyie 決議
 {0}ux+widgt.kkeisi 快充
 {0}ux+ozin.jtooje 決戦
+{0}ux+oddxj.xiiucu 稀少
 {0}ux+ebjgn.jtooea 決着
 {0}ux+eniidxj.xiibco 稀薄
 {0}ux+isut.kkelee 快楽
@@ -3200,6 +3204,7 @@
 {0}ui+mxy.uioqui 时区
 {0}ui+mddbgy.uiomco 时髦
 {0}ui+ztdgd.siimie 私密
+{0}ui+zhud.siivje 私案
 {0}ui+zldgy.jiiguu 稽古
 {0}ui+vj+dytiwe.goeqiidea 过期的
 {0}ui+wxrrn.dveqio 对齐
@@ -3376,6 +3381,7 @@
 {0}uk+zpuis.tiuori 体専
 {0}uk+zzskjk.wuulyo 五輪
 {0}uk+za+weyk.wuuuioybi 五十音
+{0}uk+za+df+yf+cw+jjtnkginckgj.wuuuioljoryeliovde 五十嵐潤璃愛
 {0}uk+wrkuko.jbeoiu 禁止
 {0}uk+wijs.tiuyue 体育
 {0}uk+ot+vwbhk.wwoytijbi 違約金
@@ -3755,6 +3761,8 @@
 {0}ga+ejrfj.mueqmo 目前
 {0}ga+ejvg.iuidmu 出典
 {0}ga+ihxng.iuifai 出发
+{0}ga+iz+ydhrznj.qiipuuvho 七浦昂
+{0}ga+iz+ga+hznjf.qiipuuyiunvu 七浦乙女
 {0}ga+is+kr+zvixyhi.baiyiuisitui 巴以冲突
 {0}ga+ilg.iuitdo 出台
 {0}ga+ierjg.iuixio 出席
@@ -3769,6 +3777,7 @@
 {0}ga+kcjggg.iuixme 出現
 {0}ga+kc+cu+pudzpis.qiigoojiotro 七国集团
 {0}ga+kvpy.baixii 巴西
+{0}ga+kokjvg.iuiyre 出願
 {0}ga+kkfsj.muecie 目次
 {0}ga+kjkkig.iuiyyo 出雲
 {0}ga+fygg.iuisee 出色
@@ -4864,6 +4873,7 @@
 {0}ms+wieuwx.fheqie 放棄
 {0}ms+wkwr.ujukau 闪卡
 {0}ms+odhur.ujuuoe 闪烁
+{0}ms+sizllwdh.lvugru 旅館
 {0}ms+lp+dshinwxwu.fhekeehze 放課後
 {0}ms+ljsic.gueyro 雇员
 {0}ms+ebjgwx.fheoea 放着
@@ -5178,6 +5188,7 @@
 {0}zp+tdc.osexbi 重心
 {0}zp+rr,ojfujzzf.jyiuiexto 軍事学
 {0}zp+rsyndc.osefue 重複
+{0}zp+ub+vmddcdkv.osejiiffi 重積分
 {0}zp+utidc.osegze 重构
 {0}zp+ugtwz.lmoxlu 連想
 {0}zp+uhiidc.osejii 重機
@@ -5436,6 +5447,7 @@
 {0}zl+sukp.guetiu 固体
 {0}zl+sm+evsxs.zoezoeyee 做作业
 {0}zl+lhtm.juimbo 居民
+{0}zl+llixlzmz.jioqie 輯器
 {0}zl+ljsmv.oioyro 职员
 {0}zl+essce.kuunjo 苦難
 {0}zl+ihzs.guijie 估计
@@ -6071,6 +6083,7 @@
 {0}va+fi+kkjvewj.gsetsixle 共通項
 {0}va+jgrf.jbighi 金剛
 {0}va+jc+kedddwf.lqejnuxko 六角形
+{0}va+jl+ce+kcddpwockrx.lqethoykilqo 六堂瑛瑠
 {0}va+jkle.gsetso 共同
 {0}va+jf+uwvxfou.xnuxtoxne 小学校
 {0}va+jf+sizllfou.xnuxtogru 小学館
@@ -6101,6 +6114,7 @@
 {0}wx+ga+ffwr.oeevrolea 这儿了
 {0}wx+hudkrf.mdudre 买断
 {0}wx+cy+sizllpr.tuouuigru 図書館
+{0}wx+mikz.uioxio 实习
 {0}wx+zkmsw.oeejxi 这家
 {0}wx+zfwxf.mdumde 买卖
 {0}wx+vmkep.tuojme 図鑑
@@ -7383,6 +7397,7 @@
 {0}sg+scudcx.ogijio 徴集
 {0}sg+swkldgx.wwixbe 微信
 {0}sg+skvdcx.ogibki 徴兵
+{0}sg+dubkvdgx.wwijii 微積
 {0}sg+fvdgx.wwixnu 微小
 {0}sh 値
 {0}sh+przjkdin.hzeoie 後置
@@ -9485,6 +9500,7 @@
 {0}im+od+dn+udfhyddb.hreykubjijii 幻影扳机
 {0}im+ojjggh.hrejto 幻覚
 {0}im+sth.hrehxe 幻化
+{0}im+sg+vmdsjdgx.pmiwwiffi 偏微分
 {0}im+szrxyr.jiouiu 即使
 {0}im+sifiyr.jiolke 即令
 {0}im+skrxyr.jiobme 即便
@@ -12979,6 +12995,7 @@
 {0}jm.ikupfdb.jpudse 解凍
 {0}jm.dunbfdb.jpuuie 解释
 {0}jm.dsklfdb.jpudao 解答
+{0}jm.dk+ojfufdbur.jpuxiixto 解析学
 {0}jm.dk+llixlfdbur.jpuxiiqie 解析器
 {0}jm.kjejxkk.xtuxme 雪霰
 {0}jm.kjkdkklz.piilie 霹靂
@@ -13516,6 +13533,7 @@
 {0}aee è
 {0}aei ì
 {0}aea à
+{0}aipri アイプリ
 {0}aiu ū
 {0}aio ō
 {0}aie ē
