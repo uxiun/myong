@@ -1406,6 +1406,7 @@
 {0}xx,hkkj.whuhso 网红
 {0}xx,cp+stwmkc.xneliuhxe 効理化
 {0}xx,cp+itkwmkc.xneliuuie 効理式
+{0}xx,cwrkj.whuoiu 网址
 {0}xx,mzexj.whulmo 网联
 {0}xx,vfknj.whulue 网録
 {0}xx,wlskjj.whulye 网論
@@ -2914,6 +2915,7 @@
 {0}ra+ea+klkee.osijkuyjo 中井研
 {0}ra+ihxnf.ybufai 引发
 {0}ra+ihdumf.ybuyze 引诱
+{0}ra+iorpr.osiufo 中神
 {0}ra+dywg.osidcu 中島
 {0}ra+dy+gprko.osiyrojxu 中原岬
 {0}ra+duo.osiqqi 中秋
@@ -3045,6 +3047,7 @@
 {0}ur+evjedf.lieyie 利益
 {0}ur+ienw.suedue 速度
 {0}ur+idmw.sueigo 速成
+{0}ur+drbw.suebiu 速筆
 {0}ur+ks+xa+du+ncidfhceef.liewwovdeliefau 利维艾莉法
 {0}ur+frdnbw.suejle 速降
 {0}ur+jbdf.lieyse 利用
@@ -3394,6 +3397,7 @@
 {0}uk+zzskjk.wuulyo 五輪
 {0}uk+za+weyk.wuuuioybi 五十音
 {0}uk+za+df+yf+cw+jjtnkginckgj.wuuuioljoryeliovde 五十嵐潤璃愛
+{0}uk+vlfsuko.jbeyue 禁欲
 {0}uk+wrkuko.jbeoiu 禁止
 {0}uk+wijs.tiuyue 体育
 {0}uk+ot+vwbhk.wwoytijbi 違約金
@@ -3575,6 +3579,7 @@
 {0}gp+ydjgk.hxemwo 画眉
 {0}gp+ncik.hxefau 画法
 {0}gp+nvfddkr.biotie 鼻涕
+{0}gp+xmk.hxelie 画力
 {0}gp+ra+kgpk.hxeosihxe 画中画
 {0}gp+ggk.hxeiui 画出
 {0}gp+mehk.hxeoju 画展
@@ -5255,6 +5260,7 @@
 {0}zp+jobmwz.lmouge 連勝
 {0}zyo 煮
 {0}znb 撃
+{0}znh+io 繋
 {0}zn+bsklm.quuueu 取捨
 {0}zn+yjknm.quunru 取暖
 {0}zn+ncii.qqofau 求法
@@ -5541,6 +5547,7 @@
 {0}zk+mkdynv.yjuxio 演習
 {0}zk+zxynv.yjuoeu 演者
 {0}zk+zzbxxzlp.fuocze 輻輳
+{0}zk+zizpzzki.oruzde 転載
 {0}zk+wrrfvs.dkejie 錠剤
 {0}zk+wsrfnv.yjujue 演劇
 {0}zk+wlmgzki.orujie 転記
@@ -5657,6 +5664,7 @@
 {0}za+sk+pa+sbskr.fgijmuyzorfo 丰俭由人
 {0}za+lzs.ufoyee 什叶
 {0}za+la+se+fudkbo.qmiuiofuuzia 千石撫子
+{0}za+ejrfs.wuuqmo 午前
 {0}za+ikfmuk.gjejke 干净
 {0}za+if+gfifi.uiodoisve 十多岁
 {0}za+ia+ykwssd.ufomeauie 什么是
@@ -5755,6 +5763,8 @@
 {0}vt+cydw.lmeugi 恋声
 {0}vt+weytk.veeyie 恶意
 {0}vt+weyw.lmeybi 恋音
+{0}vt+sw.lmerfo 恋人
+{0}vt+sa+znhiow.lmerfojie 恋人繋
 {0}vt+ia+iifrwx.lmetdelho 恋太郎
 {0}vt+dbtddw.lmewue 恋物
 {0}vt+klfsw.lmegei 恋歌
@@ -6408,6 +6418,7 @@
 {0}we+la+lkhmbh.jpikzuhce 接口号
 {0}we+ey+vsiivgw.jkeybilko 鏡音鈴
 {0}we+ey+wzpzvgw.jkeybilmo 鏡音連
+{0}we+ek+xfijnkjv.qietzotse 泣頭痛
 {0}we+ek+dlwezbhkjv.jpitzocio 接頭辞
 {0}we+ea+js+eyxjbkrc.laikdiwwomue 拉开帷幕
 {0}we+db,dlwezbhmg.jpiwwucio 接尾辞
@@ -7455,7 +7466,6 @@
 {0}sc+rixb.tvijlu 推奨
 {0}sc+ra Scrapbox$_
 {0}sc+uxkls.zoeyiu 坐椅
-{0}sc+uizc.dvioje 堆栈
 {0}sc+uiic.dvioje 堆棧
 {0}sc+uk+oj+op+jtlgvsiggh.ovitiuuiexiebci 錐体視細胞
 {0}sc+uf+dsrbbdif.tviyiolve 推移律
@@ -7526,6 +7536,7 @@
 {0}sm+bgug.qlijii 枪击
 {0}sm+pwxs.zoetuo 作図
 {0}sm+pa+zkmsse.zoequijxi 作曲家
+{0}sm+yy.zoorie 昨日
 {0}sm+ntwko.oaejii 炸鸡
 {0}sm+ncis.zoefau 作法
 {0}sm+xcdl.icidae 超大
@@ -8942,6 +8953,7 @@
 {0}er+wlmklns.hjecio 漢詞
 {0}er+wlkklns.hjeyuu 漢語
 {0}er+wdmns.hjefhi 漢方
+{0}er+wdkjvuv.hgoyjo 横顔
 {0}er+skudf.ugeyuo 剰余
 {0}er+kcsifuv.hgoqbo 横琴
 {0}er+kwlo.yjexxe 嚥下
@@ -10136,6 +10148,7 @@
 {0}dn+yfkeiul.geodze 格闘
 {0}dn+xooll.geitjo 咯痰
 {0}dn+xebxw.tgoyhu 疼痒
+{0}dn+xfijxw.tgotse 疼痛
 {0}dn+tk+stuli.geouiehxe 格式化
 {0}dn+tk+llixluli.geouieqie 格式器
 {0}dn+rf,dwfxcui.piohxetku 皮划艇
@@ -11870,6 +11883,7 @@
 {0}kf+djgeb.dausre 打算
 {0}kf+kphrii.jliyce 将要
 {0}kf+krkb.daugsi 打工
+{0}kf+kr+up+lkhmdrsxd.yzobmefjihce 郵便番号
 {0}kf+kr+mmldrsx.yzobmejuo 郵便局
 {0}kf+kgdnz.nkoxxe 宁夏
 {0}kf+kg+jr+nidlkskof.cieyroxtijmu 次元削減
