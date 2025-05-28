@@ -1903,6 +1903,7 @@
 {0}xa+ed,ui+xl+tewgcs.daedcesieoiiuie 大道寺知世
 {0}xa+ekkiw.wfoyyo 文芸
 {0}xa+efw.wfoyie 文艺
+{0}xa+iy+nerssh.daeuiohje 大食漢
 {0}xa+ixmip.ybiwwe 因为
 {0}xa+ix+xk+th+ulilclwio.qrufweqioziuxke 犬吠埼紫杏
 {0}xa+ix+cxklil.qrufweqio 犬吠埼
@@ -2709,6 +2710,7 @@
 {0}rk+ekezus.tcohxo 桃華
 {0}rk+ekjpffl.vailwu 阿蕾
 {0}rk+efk.gsiyie 工艺
+{0}rk+ejonk.gsitgo 工藤
 {0}rk+ihvlgli.sviuoi 虽说
 {0}rk+imwdmk.gsifho 工房
 {0}rk+iltwv.yiogju 遺感
@@ -2975,6 +2977,7 @@
 {0}up+lkhmd.fjihce 番号
 {0}up+exmld.fjijxi 番茄
 {0}up+jgd.fjimue 番目
+{0}uyf+l 櫚
 {0}uy.nrpd.xliyzo 香油
 {0}uy.nevgd.xlighu 香港
 {0}uy.nd.xliuvu 香水
@@ -5542,6 +5545,7 @@
 {0}zk+xk+skkinvbx.yjuzzehve 演奏会
 {0}zk+tnv.yjuxbi 演心
 {0}zk+tdbkzki.oruxke 転性
+{0}zk+uyfluo.zsilvo 棕櫚
 {0}zk+ggnv.yjuiui 演出
 {0}zk+hoprznv.yjuyie 演繹
 {0}zk+mkdynv.yjuxio 演習
@@ -6269,6 +6273,7 @@
 {0}wc+jgn.ouemue 注目
 {0}wc+jjkn.ouecee 注册
 {0}wm 放
+{0}wm+bjk.xpuuzu 写手
 {0}wm+ninu.yzoxie 游戏
 {0}wm+nifnnu.yzoysu 游泳
 {0}wm+xrcjk.xpuzde 写在
@@ -6646,6 +6651,7 @@
 {0}ot+kh+iy+zxyhgbiosh.iyosueuiooeu 純素食者
 {0}or+plipr.ufohvo 神回
 {0}or+pa+dx,kiprd.ufotmoxneyii 神田笑一
+{0}or+yl+ok+njgdiprwjvhpo.ufoyyepnumnu 神韻縹渺
 {0}or+ya+na+ju+eyjiprde.ufobdouvucdemgo 神白水菜萌
 {0}or+nkvpipr.ufojqu 神酒
 {0}or+xmipr.ufolie 神力
@@ -6880,6 +6886,7 @@
 {0}oi+nkflmvn.jyeheo 駿河
 {0}oi+ul+kk.wlkklhmjddcwl.bmiigoyjoyuu 編程言語
 {0}oi+hs+szjkpxi.moerfeoio 默认值
+{0}oi+cu+zxyhmjs.bmijiooeu 編集者
 {0}oi+mzwiywxg.jqeoio 就職
 {0}oi+mzlvwxg.jqeoio 就职
 {0}oi+mdxnhmj.bmifae 編髪
@@ -7368,6 +7375,7 @@
 {0}st+dbke.hxiugi 花生
 {0}st+driee.hxiljo 花篮
 {0}st+kcpcs.lyoliu 伦理
+{0}st+kk.eteuewl.hxiyjoyee 花言葉
 {0}st+fxdwkbu.toiyjo 拖延
 {0}st+fue.hxizia 花子
 {0}st+fwxji.gzemdu 购买
@@ -7452,6 +7460,7 @@
 {0}sh+dm+hf+fj+tdbkdinwkkbx.hzefhihuehrexke 後方互換性
 {0}sh+djldin.hzexle 後向
 {0}sh+kxdin.hzetmi 後天
+{0}sh+ksxdin.hzegsi 後攻
 {0}sc 仕
 {0}scn+ 雙
 {0}sc+bt,wlskjlddd.wwowuelye 唯物論
@@ -8117,6 +8126,7 @@
 {0}lu+oe+sljesfb.bcuxmiheo 保鮮盒
 {0}lu+oe+jeyxsfb.bcuxmimoo 保鮮膜
 {0}lu+srdds.bcuxqi 保修
+{0}lu+skcs.bcuqro 保全
 {0}lu+sfxbs.bcujme 保健
 {0}lu+le+mxswsn.bcuhuequi 保護区
 {0}lu+exdxkdn.poehoe 破获
@@ -8162,6 +8172,7 @@
 {0}lc+wswjg.duoyui 読込
 {0}lc+wlowjg.duodmu 読点
 {0}lc+sm+hoobwuicdl.uiiicibje 詩超絆
+{0}lc+swui.uiirfo 詩人
 {0}lc+dbtddwjg.duowue 読物
 {0}lc+ffwjg.duolea 読了
 {0}lm 号
@@ -8745,6 +8756,7 @@
 {0}la+wldzl.kzuhxe 口話
 {0}la+wlkkl.kzuyuu 口語
 {0}la+wljcl.kzudne 口調
+{0}la+wljjk.uiogci 石膏
 {0}la+wey.kzuybi 口音
 {0}la+wizv.kzuuue 口述
 {0}la+wkth.ruociu 如此
@@ -8855,6 +8867,7 @@
 {0}ey+cydw.ybiugi 音声
 {0}ey+ctwt.yieoie 意志
 {0}ey+cuxux.mookke 模块
+{0}ey+csmznwt.yieque 意趣
 {0}ey+zu+wlskjwtl.yiewwelye 意味論
 {0}ey+zu+ebjgwtl.yiewweoea 意味着
 {0}ey+zu+jm.udkrwtlfdb.yiewwejpuxii 意味解析
@@ -9681,6 +9694,7 @@
 {0}is+wrkzc.jpooiu 截止
 {0}is+wkh.yiuuhe 以上
 {0}is+sjh.yiunwe 以内
+{0}is+lzueu.ycewwe 薬味
 {0}is+ee,zj+edufeujluz.yceujenjolie 薬膳楠莉
 {0}is+ejrfh.yiuqmo 以前
 {0}is+ixmih.yiuwwe 以为
@@ -12503,6 +12517,7 @@
 {0}fi+ebkkz.cjoiae 残差
 {0}fi+ezlxj.tsekuu 痛苦
 {0}fi+evb.oriyee 专业
+{0}fi+esklel.mkoheo 茗荷
 {0}fi+ekxmwj.tsiqbo 通勤
 {0}fi+ihfzwj.tsixye 通讯
 {0}fi+durfb.orilie 专利
@@ -12571,6 +12586,7 @@
 {0}fk+wlokjv.dkudmu 頂点
 {0}fk+wlfrkjv.dkubue 頂部
 {0}fk+weyvn.lueybi 録音
+{0}fk+wk+ua+kldrislf.fgixbeziauio 風信子石
 {0}fk+wfijye.kditsi 開通
 {0}fk+suifjs.yuefue 预付
 {0}fk+su+xk+wzdriibx.fgileezzedze 風楽奏斗
@@ -13048,6 +13064,7 @@
 {0}jm.wlvlgfdb.jpuuoi 解説
 {0}jm.wjscfdb.jpulio 解離
 {0}jm.ouecokk.xtugci 雪糕
+{0}jm.estkk.xtuhxi 雪花
 {0}jm.ejukk.xtucde 雪菜
 {0}jm.ejsxfdb.jpusje 解散
 {0}jm.ixtkk.xtulso 雪龙
