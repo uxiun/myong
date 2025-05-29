@@ -2044,6 +2044,7 @@
 {0}tu+wedgc.diedce 地道
 {0}tu+wdmc.diefhi 地方
 {0}tu+wdms.taifhi 他方
+{0}tu+wa+nck.diexxeuvu 地下水
 {0}tu+wa+vdbsck.diexxeoio 地下鉄
 {0}tu+oubkjc.diejki 地精
 {0}tu+stwdhn.iiodde 池袋
@@ -2805,6 +2806,7 @@
 {0}rj+gp+styxk.ykehxehxe 映画化
 {0}rj+gp+sizllyxk.ykehxegru 映画館
 {0}rj+ggpgv.mduiui 買出
+{0}rj+hwcex.ykitzu 英妵
 {0}rj+cykdw.uieihu 市場
 {0}rj+cfmdw.uieihu 市场
 {0}rj+cjdgpgv.mdumde 買売
@@ -2915,6 +2917,7 @@
 {0}ra+evj.osiqii 中期
 {0}ra+ekez.osihxo 中華
 {0}ra+ea+klkee.osijkuyjo 中井研
+{0}ra+irj.osiysi 中庸
 {0}ra+ihxnf.ybufai 引发
 {0}ra+ihdumf.ybuyze 引诱
 {0}ra+iorpr.osiufo 中神
@@ -3189,6 +3192,7 @@
 {0}ul+fi+izpzdkcif.igoxuekue 程序庫
 {0}ul+fjmdbd.heojpu 和解
 {0}uep+i 樽
+{0}uek+v 棋
 {0}uej+s 檬
 {0}ue+xa+sk+pk+dbcuiepllfy.ldoybihailuutee 莱因哈鲁特
 {0}ue+zpzd.igoiei 乗車
@@ -3738,6 +3742,7 @@
 {0}ga+pa+jl+fuo.ujitmouhezia 山田尚子
 {0}ga+yt+ctujdi.muedeadie 目的地
 {0}ga+yt+wlkkljdi.muedeayuu 目的語
+{0}ga+nurvz.qiilde 七瀬
 {0}ga+nzkvg.iuiyju 出演
 {0}ga+nspwg.iuihdu 出海
 {0}ga+nspw.ujihdu 山海
@@ -5019,6 +5024,7 @@
 {0}md+meev.ffipko 分屏
 {0}md+mdrjdkr.souuuu 所属
 {0}md+zn+kw+sr+ncivuzspr.ffioiidkejpefau 分枝定界法
+{0}md+zxtr.iuilcu 初老
 {0}md+zwxt.qpeuio 切实
 {0}md+zlrft.qpegei 切割
 {0}md+zlrfv.ffigei 分割
@@ -5433,6 +5439,7 @@
 {0}zs,wufrzkj.lyogoi 輪郭
 {0}zs,wmsfszwz.woexro 斡旋
 {0}zs,wleejzkj.lyojlu 輪講
+{0}zs,wlfrzkz.gjebue 幹部
 {0}zs,wexzkf.uuisse 輸送
 {0}zs,olluzf.qmozce 乾燥
 {0}zs,szlxfx.gjuzoe 敢做
@@ -5746,6 +5753,7 @@
 {0}vx+ytddw.jniyie 交易
 {0}vx+yjzf.jqimko 究明
 {0}vx+nwigw.jnilqo 交流
+{0}vx+xnw.jniyzu 交友
 {0}vx+uknkzf.jqijio 究極
 {0}vx+hf+sm+jbwkks.jnihuezoeyse 交互作用
 {0}vx+weydgzf.jqijke 究竟
@@ -6246,6 +6254,7 @@
 {0}wh+rpgus.heodme 核电
 {0}wh+hkmkdeg.hlimzo 荒缪
 {0}wh+wlesnbc.ysihue 擁護
+{0}wh+lexeg.hlixne 荒咲
 {0}wh+ebjgt.mhooea 忙着
 {0}wh+ijttus.heongo 核能
 {0}wh+dndfli.jruiuu 呟処
@@ -6316,6 +6325,7 @@
 {0}wv+tmdwj.uieqpe 適切
 {0}wv+ggbj.odiiui 摘出
 {0}wv+cvpyoj.uhizgi 熵增
+{0}wv+zjllhjx.jninho 胶囊
 {0}wv+vp+kw+dsrbojcyzs.uhizgidkelve 熵增定律
 {0}wv+omkwj.uiedhi 適当
 {0}wv+sklwj.uieheo 適合
@@ -7082,6 +7092,7 @@
 {0}oj+frskun.xniiuo 消除
 {0}oj+fjcidg.uiejnu 视角
 {0}oj+fjmdbhkn.hrujpu 緩解
+{0}oj+fjmdbex.biejpu 蔽解
 {0}oj+fj+zxynrs.xnifweoeu 消费者
 {0}oj+jxosl.thurjo 倘然
 {0}oj+jj.xx,puiggoggwm.uiejtoxnegou 視覚効果
@@ -7263,6 +7274,7 @@
 {0}sy+xyhsd.uhihfo 傷痕
 {0}sy+xuscrn.fuezao 複雑
 {0}sy+xfijdh.hfutse 很痛
+{0}sy+tuxdh.hfukke 很快
 {0}sy+rr,ebbpkw.tiezveyho 替罪羊
 {0}sy+rkidg.paoiso 爬虫
 {0}sy+rfxdki.deojlu 得奖
@@ -7724,6 +7736,7 @@
 {0}sd+uhiifes.fwijii 飛機
 {0}sd+uefes.fwildo 飛来
 {0}sd+ck+df+ku+sk+fkskkdzgkojsuk.xyohrorsuyuojmuyje 循环冗余检验
+{0}sd+zpzfes.fwiiei 飛車
 {0}sd+zxydfn.yieoeu 役者
 {0}sd+zvixdcf.isitui 衝突
 {0}sd+zlrfdfn.yiegei 役割
@@ -9200,6 +9213,7 @@
 {0}ee,sdw.jberue 进入
 {0}ee,lw.jbekzu 进口
 {0}ee,eyxjm.pkomue 屏幕
+{0}ee,eojxm.pkobie 屏蔽
 {0}ee,idmuj.gzeigo 構成
 {0}ee,ij+skkiwzi.jbeboohve 进博会
 {0}ee,dulkcw.jbeigo 进程
@@ -9535,7 +9549,8 @@
 {0}ic+sifk.oiejbi 至今
 {0}ic+ka+ca+ecdbikww.oieuheouuyie 至上主義
 {0}ic+fifik.oiedoi 至多
-{0}imj.e 盛
+{0}imj.e 扁
+{1}imj.e 盛
 {0}im+ycuiyr.jiouio 即時
 {0}im+yodddh.hreyku 幻影
 {0}im+ya+lw+ejvhdez.hrerieciodmu 幻日辞典
@@ -10702,6 +10717,8 @@
 {0}dk+jo+wijdjven.xuitgoyue 須藤育
 {0}dk+jj.ssszbrpk.oeodposju 折畳傘
 {0}dfu 梨
+{0}dfl 船
+{-}dfl+ 船
 {0}dfd 第
 {0}df+bkfnn.mwodau 没打
 {0}df+bf,dinnmr.mwonaemea 没那么
@@ -10716,6 +10733,7 @@
 {0}df+rpgu.jiidme 机电
 {0}df+rudnnn.mwobwe 没被
 {0}df+uhiibn.tzojii 投機
+{0}df+gfnbn.tzohjo 投函
 {0}df+ga+uenng.mwoiuildo 没出来
 {0}df+hoprgbn.tzougo 投縄
 {0}df+mv+ncinnx.mwobjefau 没办法
@@ -11662,6 +11680,7 @@
 {0}kk.ydbkk.sjixki 三星
 {0}kk.ykwssi.hveuie 会是
 {0}kk.nizjk.sjipuu 三浦
+{0}kk.na+dsivfmli.xyouvuuue 尋水術
 {0}kk.xbskfwi.yyeuui 运输
 {0}kk.xk.sjidae 三大
 {0}kk.xfk.sjijqu 三九
@@ -11810,6 +11829,7 @@
 {0}kk.fjbk.sjijnu 三角
 {0}kk.fjck.sjijnu 三角
 {0}kk.jbwi.yyeyse 运用
+{0}kk.jg+dsuiwide.yyesrefuo 运算符
 {0}kk.jg+djrfsilv.hveyrooie 会員制
 {0}kk.jc+md+ekezkfr.sjijnuiuihxo 三角初華
 {0}kk.jc+vsckf.sjijnuovi 三角錐
@@ -11847,6 +11867,7 @@
 {0}kf+rmts.qiemfe 气闷
 {0}kf+rktnl.heobwu 河北
 {0}kf+uerii.jlildo 将来
+{0}kf+uekvrii.jliqio 将棋
 {0}kf+ggb.dauiui 打出
 {0}kf+ge+puxll.qioyiegou 奇异果
 {0}kf+gd+la+wmssxzknp.nkoxxehvozuo 宁夏回族
@@ -11952,6 +11973,7 @@
 {0}kj+vk+ya+efsxbz.qkiksiriekvo 青空日葵
 {0}kj+vk+xa+izpzbzw.qkiksiwfokue 青空文庫
 {0}kj+vjklb.qkitso 青銅
+{0}kj+va+mdrjrgv.gvejbiuuu 貴金属
 {0}kj+va+klb.qkijbiuio 青金石
 {0}kj+wnjgme.jmidui 監督
 {0}kj+wm+zjkvbjk.qkixpuofi 青写真
@@ -12627,6 +12649,7 @@
 {0}fj+cidmrs.fweigo 费城
 {0}fj+mkmikbx.hreyuu 換羽
 {0}fj+ecdbibx.hreyie 換義
+{0}fj+idmbx.hreigo 换成
 {0}fj+dfkridkv.juefgi 颶風
 {0}fj+kjsbx.hreyee 换页
 {0}fj+fkxmrs.fwejbe 费劲
@@ -13167,6 +13190,7 @@
 {0}js+gklk.yeeyjo 页岩
 {0}js+cioex.sjeree 散熱
 {0}js+mdxnex.sjefae 散髪
+{0}js+zs,wlfrwxzkz.diogjebue 敵幹部
 {0}js+wxmsf.ceebmi 侧边
 {0}js+wrkdex.sjebue 散歩
 {0}js+we+evdkrkcb.hoelaisii 霍拉斯
