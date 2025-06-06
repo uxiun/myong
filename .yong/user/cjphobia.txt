@@ -3754,6 +3754,7 @@
 {0}ga+pw+dszptbhi.oaimuudeo 扎姆德
 {0}ga+pobgg.iuiqri 出圈
 {0}ga+pa+jl+fuo.ujitmouhezia 山田尚子
+{0}ga+pa+jk+hofknzv.ujitmoofilve 山田真緑
 {0}ga+yt+ctujdi.muedeadie 目的地
 {0}ga+yt+wlkkljdi.muedeayuu 目的語
 {0}ga+nurvz.qiilde 七瀬
@@ -3896,6 +3897,7 @@
 {0}hh.uskkwh.xyojmu 巡检
 {0}hh.wprfwh.xyoloo 巡逻
 {0}hh.dwwdfwh.xyohho 巡航
+{0}hc 経
 {0}hm.pm+rmxlfkkr.maummeqyo 马面裙
 {0}hm.pw+ca+xkfltkhip.wuimuuliuqio 乌姆里奇
 {0}hm.pk+ua+wxrrtkfy.wuiluumueqio 乌鲁木齐
@@ -4813,6 +4815,7 @@
 {0}mg+oa+ta+he+rr,sdbkfmixlzf.veevrunionoeuiejme 厄尔尼诺事件
 {0}mg+oa+ta+ihexlkfm.veevrunionoe 厄尔尼诺
 {0}mg+srrk.veejpe 厄介
+{0}mg+sihys.chiiuu 仓储
 {0}mg+ixbs.chikue 仓库
 {0}mm.yevj.tuixmu 凸显
 {0}mm.hofygb.juejto 拒絶
@@ -5383,6 +5386,7 @@
 {0}zu+rgl.wwevro 味儿
 {0}zu+uwezh.mweziu 妹梓
 {0}zu+zfuzkb.hjozie 韓字
+{0}zu+vp+nzlly.wwecgioii 味噌汁
 {0}zu+wxzkb.hjowfo 韓文
 {0}zu+wlkklzkb.hjoyuu 韓語
 {0}zu+wdml.wwefhi 味方
@@ -5782,6 +5786,7 @@
 {0}vx+ytddw.jniyie 交易
 {0}vx+yjzf.jqimko 究明
 {0}vx+nwigw.jnilqo 交流
+{0}vx+niw.jniiai 交叉
 {0}vx+xnw.jniyzu 交友
 {0}vx+uknkzf.jqijio 究極
 {0}vx+hf+sm+jbwkks.jnihuezoeyse 交互作用
@@ -5854,6 +5859,7 @@
 {0}vw+xrjjl.tpibue 貼布
 {0}vw+oj+vjelsv.pwoihojbi 賠償金
 {0}vw+sojvjel.pwoiho 賠償
+{0}vs 欲
 {0}vs+ytddzl.rsoyie 容易
 {0}vs+ykpczl.rsolle 容量
 {0}vs+rktjx.bdebwu 敗北
@@ -6421,6 +6427,7 @@
 {0}wl+wkkisf.tkoyye 停运
 {0}wl+osf.tkohou 停火
 {0}wl+scjggyo.jkugri 景観
+{0}wl+slizji.dmepue 店舗
 {0}wl+sji.dmenwe 店内
 {0}wl+evsf.tkoyee 停业
 {0}wl+ihkhdto.jkiyae 惊讶
@@ -7471,6 +7478,7 @@
 {0}su+lkhmdi.fuohce 符号
 {0}su+epi.leequi 楽曲
 {0}su+dbkdbf.wweugi 衛生
+{0}su+dhtddn.biuuie 彼氏
 {0}su+kxi.leetmi 楽天
 {0}su+kf+dk+wedgjdhskwjs.cdojkipbodce 财经频道
 {0}su+fyge.iaosee 茶色
@@ -7512,6 +7520,7 @@
 {0}sh+evjdin.hzeqii 後期
 {0}sh+ejondin.hzetgo 後藤
 {0}sh+dyirdin.hzejpo 後節
+{0}sh+dm+rk+kk.ojfudiniwvsi.hzeigoyioyyoxto 後成遺伝学
 {0}sh+dm+hf+fj+tdbkdinwkkbx.hzefhihuehrexke 後方互換性
 {0}sh+djldin.hzexle 後向
 {0}sh+kxdin.hzetmi 後天
@@ -7658,6 +7667,7 @@
 {0}sm+kf+tu+kcizncdlhdnc.icijiodieqqo 超级地球
 {0}sm+kf+ja+wljgcdlhdn.icijioytelle 超级月亮
 {0}sm+fb,zk+hoclcgfszki.qiuigoorujpo 起承転結
+{0}sm+firicdl.iciqlo 超強
 {0}sm+ffcg.qiulea 起了
 {0}sm+jbs.zoeyse 作用
 {0}sm+jt+xmcdlit.icingolie 超能力
@@ -7987,6 +7997,7 @@
 {0}sj+ol.gj+wlskjbgvkk.zjefzullulye 賛否両論
 {0}sj+ey+stbggux.gvimoohxe 規模化
 {0}sj+enmgbdg.gvifje 规范
+{0}sj+ecxbgv.zjemwu 賛美
 {0}sj+irfbdg.gvihxe 规划
 {0}sj+idmbgv.zjeigo 賛成
 {0}sj+dzzgbgg.gvifje 規範
@@ -8634,7 +8645,9 @@
 {0}lf+klflkl.geigei 哥哥
 {0}lf+kl+ozikss.geiheooje 歌合戦
 {0}lf+ki.ebjgwrmc.buewuioea 部屋着
+{0}lf+fretswr.buedve 部隊
 {0}lf+fuks.geizia 歌子
+{0}lf+fmkhvs.yueohi 欲張
 {0}lf+fifitif.gzedoi 够多
 {0}lf+fkrxxhk.jxeuiu 驾驶
 {0}lf+jmrnsif.uuifuo 舒服
@@ -8748,6 +8761,7 @@
 {0}lj+kuwl.gciyuo 高于
 {0}lj+kcpcwcl.dneliu 調理
 {0}lj+kcdzups.yrooui 圆珠
+{0}lj+km+lj+czmrnwlfgwl.gciwwigcibce 高危高報
 {0}lj+kowg.hcobue 毫不
 {0}lj+kdyowl.gciyro 高原
 {0}lj+kkfswl.gcicie 高次
@@ -8755,6 +8769,7 @@
 {0}lj+kf+og+jt+rw+zbzlwlksjxitfez,ciiecugohede 高次脳機能障害
 {0}lj+kjuiwl.gcinde 高耐
 {0}lj+frttywl.gcijpi 高階
+{0}lj+fkmgwl.gciwwi 高危
 {0}lj+fjcps.yrojnu 圆角
 {0}lj+fjmdbwcl.dnejpu 調解
 {0}lj+jbwcl.dneyse 調用
@@ -8978,6 +8993,7 @@
 {0}ey+dbcuiux.mootee 模特
 {0}ey+dbsv.coeuii 錯失
 {0}ey+dyirw.ybijpo 音節
+{0}ey+drjgvw.ybioie 音質
 {0}ey+duejj.mieigo 冪乗
 {0}ey+dujux.moocee 模策
 {0}ey+dujgw.ybixli 音箱
@@ -9787,6 +9803,7 @@
 {0}is+fdnh.yiujio 以及
 {0}is+jgkzxsi.fuukje 俯瞰
 {0}is+jzpzh.yiujyi 以軍
+{0}is+jzhxc.xsovje 雄胺
 {0}is+jeeleu.yceuje 薬膳
 {0}il 台
 {0}ilt 感
@@ -10050,6 +10067,7 @@
 {0}ia+hktiv.gsiyti 公约
 {0}ia+cp+dhiovkc.gsiliuxie 公理系
 {0}ia+csmgt.gziqiu 勾起
+{0}ia+cl+ek+ziscidbk.glugceljojpo 広告拦截
 {0}ia+cixmc.queuie 去勢
 {0}ia+ca+fi+zl+wh+isuvwbdlfi.gsiouuorigruxmolee 公主专场管弦楽
 {0}ia+mehb.koeoju 扩展
@@ -10136,6 +10154,7 @@
 {0}db,wvxtk.xkejni 性交
 {0}db,obbxkj.cdiqro 猜拳
 {0}db,sitws.dpodde 迭代
+{0}db,sk+ixfotkdkf.xkexkowwe 性行為
 {0}db,lmrftk.xkebpo 性別
 {0}db,llmftk.xkebai 性哵
 {0}db,llixltk.xkeqie 性器
@@ -11045,6 +11064,7 @@
 {0}kt+od+hrweykydd.veeykuxlu 悪影響
 {0}kt+sp+wedgrnw.bwuhdudce 北海道
 {0}kt+stk.veehxe 悪化
+{0}kt+st+gj+wsfxweozz.ciuhxihviyee 此花輝夜
 {0}kt+scuixs.nkojio 凝集
 {0}kt+sd+if+hwvhkdfnsi.veeyielkenlo 悪役令嬢
 {0}kt+lo.zx+prdyorwom.bwujkikcuyai 北京烤鴨
@@ -11331,6 +11351,7 @@
 {0}kc+jxxs.qrowhu 全网
 {0}kc+jt+iltsit.qrongogju 全能感
 {0}km+bg,kciznmikd.yuumcoqqo 羽毛球
+{0}km+bf,is+zh+rrkrrwmrxcj.fwinaexsovjepme 非那雄胺片
 {0}km+pmik.yuutmo 羽田
 {0}km+pa+vk+nevgmikz.yuutmoksighu 羽田空港
 {0}km+nxbrws.ouojme 逐渐
@@ -11597,6 +11618,7 @@
 {0}kl+ctj.tsooie 同志
 {0}kl+cu+we+hocjgjyibh.tsouiojpixue 同時接続
 {0}kl+cu+we+oc+ohsxjyibhhjg.tsouiojpixueuue 同時接続数
+{0}kl+cu+oj+mzzptjyiigg.tsouiouietki 同時視聴
 {0}kl+zxyd.hzeoeu 后者
 {0}kl+zusxm.siijne 司教
 {0}kl+zskys.heosue 合宿
@@ -12420,6 +12442,7 @@
 {0}fu+estd.liohxi 梨花
 {0}fu+iknu.liubki 李冰
 {0}fu+dbjgh.hcukje 好看
+{0}fu+dytih.hcudea 好的
 {0}fu+dyirz.ziejpo 字節
 {0}fu+dnwh.hcuiue 好处
 {0}fu+duyh.hcuxli 好香
