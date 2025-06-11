@@ -874,6 +874,7 @@
 {0}yw+pdg.dcutmo 島田
 {0}yw+gdqvdg.dcuyuu 島嶼
 {0}yw+cjv.mkotuu 冥土
+{0}yw+ektedo.nnuzhe 鳥葬
 {0}yw+kcjv.mkowho 冥王
 {0}yo+nrrfz.ouufwe 煮沸
 {0}yo+idmz.ouuigo 煮成
@@ -1212,7 +1213,9 @@
 {0}nd+sklel.loeheo 落合
 {0}nd+ebjgel.loeoea 落着
 {0}nd+dbmb.xiinqo 犀牛
+{0}nd+dshinel.loehze 落後
 {0}nd+ddbgel.loebiu 落笔
+{0}nd+dklel.loehze 落后
 {0}nd+dfrdel.loedie 落第
 {0}nd+kcpcdf.iuuliu 処理
 {0}nd+kl+ry+kelsfkd.loeheoyhoyii 落合陽一
@@ -1312,6 +1315,7 @@
 {0}na+ebjg.uvuoea 水着
 {0}na+epui.bkigou 氷菓
 {0}na+ezccn.ulixpo 双鞋
+{0}na+ekte.uvuzhe 水葬
 {0}na+ixd.fjuyie 反义
 {0}na+itd.fjuyki 反応
 {0}na+ih 汉语
@@ -2013,7 +2017,6 @@
 {0}ty+jwdmj.oiifho 脂肪
 {0}tx+ey+wlkklbsw.niuybiyuu 擬音語
 {0}tx+ittbs.niutde 擬態
-{0}tt 比
 {0}tt,pc+tt,lpclzllz.bieliibielii 哔哩哔哩
 {0}tt,cixmi.tdeuie 態勢
 {0}tt,wlkozb.piipko 批評
@@ -2210,6 +2213,7 @@
 {0}td+ojxoyd.yierjo 易燃
 {0}td+ojfuyd.yiexto 易学
 {0}td+suk 物体
+{0}td+sfxtt.huiqie 惚気
 {0}td+lkdnlsbs.tpulue 铁路
 {0}td+ienzg.miedue 密度
 {0}td+duyidi.ueexli 麝香
@@ -4580,6 +4584,7 @@
 {0}cf,dh+skkisswr.hriykohve 歓迎会
 {0}cf,kciznpif.yeuqqo 野球
 {0}cf,kf+mbmopifks.yeuciemau 野次馬
+{0}cjr+k 壺
 {0}cjd+g 売
 {0}cjd+f 壳
 {0}cjk+s 塚
@@ -4704,6 +4709,7 @@
 {0}ca+lu+prfins.ugebculoo 圣保罗
 {0}ca+eyxck.whomue 王墓
 {0}ca+ecdbiw.ouuyie 主義
+{0}ca+ekte.tuuzhe 土葬
 {0}ca+ejuw.ouucde 主菜
 {0}ca+ixw.ouuyie 主义
 {0}ca+dbtddn.ugewue 圣物
@@ -4807,8 +4813,6 @@
 {0}mu.eyxjrd.biemue 闭幕
 {0}mu.ihixf.ogiyie 争议
 {0}mu.jbf.ogiyse 争用
-{0}mg 已
-{1}mg 己
 {0}mg+nmken.fjelje 氾濫
 {0}mg+hi+if+fokdsfi.veegxidoivru 厄瓜多尔
 {0}mg+csmggg.jtoqiu 崛起
@@ -5808,6 +5812,7 @@
 {0}vt+tw.lmexbi 恋心
 {0}vt+tk.veexbi 恶心
 {0}vt+cydw.lmeugi 恋声
+{0}vt+wldzlw.lmehxe 恋話
 {0}vt+weytk.veeyie 恶意
 {0}vt+weyw.lmeybi 恋音
 {0}vt+sw.lmerfo 恋人
@@ -10169,6 +10174,7 @@
 {0}db,it+llixlwss.dpoddeqie 迭代器
 {0}db,ihmgdg.biujie 笔记
 {0}db,isscyk.xkizoe 星座
+{0}db,ilttk.xkegju 性感
 {0}db,ijtttk.xkengo 性能
 {0}db,dn+ls+hudkrtkulwdd.xkegeoofudre 性格診断
 {0}db,drjgvtk.xkeoie 性質
@@ -11028,6 +11034,7 @@
 {0}kx+cweglkm.kxejke 跨境
 {0}kx+csihlkm.kxeyte 跨越
 {0}kx+mikhhv.lmexio 练习
+{0}kx+zrknnt.tmiqbu 添寝
 {0}kx+zfunt.tmizie 添字
 {0}kx+wlmkljm.ouecio 助詞
 {0}kx+we+pg+wvjllkmcgr.kxejkedmeuhi 跨境电商
@@ -12470,6 +12477,7 @@
 {0}fc,epb.nququi 扭曲
 {0}fmu 争
 {0}fm+ywlocd.ihujku 场景
+{0}fm+ca+jk+zkkonuzv.jketuuofizsi 浄土真宗
 {0}fm+mzexue.ykolmo 楹联
 {0}fm+wkklbd.yhoyjo 扬言
 {0}fm+ouvmdnh.ohuffu 漲粉
@@ -12623,6 +12631,7 @@
 {0}fi+zkmsb.orijxi 专家
 {0}fi+zkkgwj.tsiwjo 通完
 {0}fi+wuiwj.tsigoe 通过
+{0}fi+wsfxwj.tsiyee 通夜
 {0}fi+wldzlwj.tsihxe 通話
 {0}fi+wedgwj.tsidce 通道
 {0}fi+wk+xx,hkdnlwjslj.tsixbewhuloe 通信网络
@@ -12822,6 +12831,8 @@
 {0}jn+mznj.uzequu 受取
 {0}jn+mosksj.uzeyje 受験
 {0}jn+zbzlj.uzehde 受害
+{0}jn+zvslj.uzerso 受容
+{0}jn+vs+sukjzl.uzersotiu 受容体
 {0}jn+wlsddj.uzeofu 受診
 {0}jn+wleejj.uzejlu 受講
 {0}jn+wdmxj.uzeyci 受邀
@@ -13003,6 +13014,7 @@
 {0}ju+jbb.cduyse 採用
 {0}ju+jxbe.rsojyi 荣军
 {0}ju+ja+ydhre.cdeytevho 菜月昂
+{0}jg+bykfv.fuedji 負担
 {0}jg+bu.xliuzu 相手
 {0}jg+biod.zieree 自热
 {0}jg+bdyd.ziepdi 自拍
@@ -13291,6 +13303,7 @@
 {0}js+ur+wiszfdf.fuelielve 负利率
 {0}js+ul+ij+wvekiidzi.lkoheobooyie 零和博弈
 {0}js+gklk.yeeyjo 页岩
+{0}js+hmrrkii.lkojii 零姫
 {0}js+cioex.sjeree 散熱
 {0}js+mdxnex.sjefae 散髪
 {0}js+zs,wlfrwxzkz.diogjebue 敵幹部
@@ -13327,6 +13340,7 @@
 {0}js+fr+stexkf.sjelpehxe 散列化
 {0}js+fuwc.liozia 離子
 {0}js+jvlgwc.liotoi 離脱
+{0}js+jjjex.sjeguu 散骨
 {0}jl+bzvkob.ohukse 掌控
 {0}jl+ycuiorj.ihouio 常時
 {0}jl+ykpcd.xlelle 向量
@@ -13453,6 +13467,7 @@
 {0}jk+zvmggnl.dsekui 洞窟
 {0}jk+zizpzzk.oiozde 直載
 {0}jk+zisczk.oiojpo 直截
+{0}jk+zkkozv.ofizsi 真宗
 {0}jk+wczv.ofiouu 真主
 {0}jk+wclhwc.wheyru 望遠
 {0}jk+wvxzk.oiojni 直交
@@ -13562,6 +13577,7 @@
 {0}jj.udnlj.guugeo 骨格
 {0}jj.gu+weyjwi.guudcuybi 骨導音
 {0}jj.ciwl.goeque 過去
+{0}jj.cjrkj.guuhuo 骨壺
 {0}jj.zu+tdbkyny.vdemwexke 曖昧性
 {0}jj.ve+ouwzbneu.uzeyeelne 授業料
 {0}jj.va+lk+skrpwlfwoz.goexnupkosie 過小評価
