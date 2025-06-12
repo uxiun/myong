@@ -452,8 +452,10 @@
 {0}qd+yodddd.ufiyku 身影
 {0}qd+rjklpd.ufifuo 身幅
 {0}qd+uk+jv+zkwsdsnf.ufitiuceedke 身体測定
+{0}qd+md+lk+ja+rcydvwwky.ufiffiogemkouui 身分証明書
 {0}qd+mkhd.ufiohu 身長
 {0}qd+zzncd.ufioie 身軽
+{0}qd+vmdd.ufiffi 身分
 {0}qd+wxmd.ufibmi 身边
 {0}qd+whd.ufiwho 身亡
 {0}qd+wkd.ufiuhe 身上
@@ -916,9 +918,11 @@
 {0}yd+wljclc.ugidne 声調
 {0}yd+wepcrg.vrotso 児童
 {0}yd+weyc.ugiybi 声音
+{0}yd+wedgc.ugidce 声道
 {0}yd+sdfc.ugiohu 声仉
 {0}yd+skjnc.ugiyzi 声優
 {0}yd+ep+xa+ojfurgwcw.vrotsowfoxto 児童文学
+{0}yd+ezjrjc.ugidde 声帯
 {0}yd+eisuhg.mweyce 媚薬
 {0}yd+drjgvc.ugioie 声質
 {0}yd+dskkfg.mmuqmi 免签
@@ -1745,6 +1749,7 @@
 {0}xf+yh+kk.ihststwl.izohfeyjolye 仇恨言论
 {0}xf+yfltis.yiowfe 疑問
 {0}xf+yjjems.vzimgo 欧盟
+{0}xf+ncibi.oiofau 执法
 {0}xf+nirrms.vziozi 欧洲
 {0}xf+tyhs.izohfe 仇恨
 {0}xf+twmgj.yiodcu 胰岛
@@ -2581,6 +2586,7 @@
 {0}rs+sisrjsd.xqiuie 修飾
 {0}rs+sdbhx.uzijme 收件
 {0}rs+sdhx.uzirue 收入
+{0}rs+ldkrhx.uzitki 收听
 {0}rs+efskfii.ybijki 陰茎
 {0}rs+is+wlkklsdsrj.xqiuieyuu 修飾語
 {0}rs+is+fusdsrj.xqiuiezia 修飾子
@@ -3044,6 +3050,7 @@
 {0}ux+jglhtt.kkemmo 快眠
 {0}ut 想
 {0}ut+mtd.xiinio 悉尼
+{0}ut+mexldd.mienie 秘匿
 {0}ut+ztdgdd.miemie 秘密
 {0}ut+wluxdd.miejto 秘訣
 {0}ut+wldzldd.miehxe 秘話
@@ -3303,6 +3310,7 @@
 {0}ud+tz+iocwkrs.xbihxouee 新华社
 {0}ud+rydgfhs.guivro 孤児
 {0}ud+rrkrjdd.cdupme 彩片
+{0}ud+rcywkr.xbiuui 新書
 {0}ud+rmmzwkr.xbiwfo 新闻
 {0}ud+rz+it+wlddiwkrfpzs.xbiofeddexpe 新陣代謝
 {0}ud+rikjdd.cduhso 彩虹
@@ -3408,6 +3416,7 @@
 {0}uk+nwsxs.tiuyee 体液
 {0}uk+nfpouko.jbeyuo 禁漁
 {0}uk+xms.tiulie 体力
+{0}uk+rk+sifiukow.jbeoiulke 禁止令
 {0}uk+ul+iltwbd.wwoheogju 違和感
 {0}uk+udnls.tiugeo 体格
 {0}uk+hotkwb.wwoyti 違約
@@ -3616,6 +3625,7 @@
 {0}gp+kgpk.hxehxe 画画
 {0}gp+kwdkr.bioxxe 鼻下
 {0}gp+fy+scukss.hxexlejio 画像集
+{0}gp+jzvkdkr.bioqli 鼻腔
 {0}gy+pcjh.yjuliu 眼里
 {0}gy+yodddjh.yjuyku 眼影
 {0}gy+rkhjh.yjuoli 眼妆
@@ -4311,6 +4321,7 @@
 {0}cu+rmudci.fgibie 封闭
 {0}cu+rs.jioosi 集中
 {0}cu+rjklpyi.uiofuo 時幅
+{0}cu+rj+iocsex.jioykiuee 集英社
 {0}cu+ur+ks+kevkdndfhc.boiliewwoyae 玻利维亚
 {0}cu+uukkoci.fgijbe 封禁
 {0}cu+uhiiyi.uiojii 時機
@@ -6278,6 +6289,7 @@
 {0}wr+iojggkk.ogeuie 正視
 {0}wr+iksckk.ogeoyu 正准
 {0}wr+dz+ykpcjjnl.fwehoolle 肺活量
+{0}wr+ditwksk.qiuveo 企鹅
 {0}wr+kpmrkk.ogemme 正面
 {0}wr+kgpsk.qiuhxe 企画
 {0}wr+klsjckk.ogeqte 正確
@@ -7099,6 +7111,7 @@
 {0}oj+rfjgvn.xnifwe 消費
 {0}oj+rfjsn.xnifwe 消费
 {0}oj+uyhijl.hoegfi 禍根
+{0}oj+uukkoz.xnijbe 宵禁
 {0}oj+uknkn.xnijio 消極
 {0}oj+howiyhk.zuuoii 組織
 {0}oj+hodynigg.uiexme 視線
@@ -8890,6 +8903,7 @@
 {0}la+fk+jgyhidri.tdofgiyju 台風眼
 {0}la+jbw.ojeyse 占用
 {0}la+jgp.hvomue 回目
+{0}la+jzvk.kzuqli 口腔
 {0}la+jwyhx.yzetvu 右腿
 {0}la+ja+oc+jjtnhhl.ruoytejpovde 如月結愛
 {0}e 是
@@ -9440,6 +9454,7 @@
 {0}ea+wdmw.liefhi 立方
 {0}ea+or+wlskjiipr.bmeufolye 弁神論
 {0}ea+okkzxi.jpeyjo 戒厳
+{0}ea+sbu.ldonmo 来年
 {0}ea+sy+fdnudki.ldodeojio 来得及
 {0}ea+stzu.ldohxo 来华
 {0}ea+sr+rk+wddbktprwv.uiejpeyioiju 世界遺産
@@ -10194,6 +10209,7 @@
 {0}db,jzpzsi.veojyi 俄軍
 {0}db,jdyntk.xkexme 性腺
 {0}db,jjtntk.xkevde 性愛
+{0}dq+bizjbn.szibuu 搜捕
 {0}dq+xdtlbn.szigzu 搜狗
 {0}dq+zjhiobn.szisou 搜索
 {0}dq+ssmbn.szizoe 搜作
@@ -10313,6 +10329,7 @@
 {0}dn+il+er+fu+vd+bfjxsfnszwn.fjumkohjeziebmehre 仮名漢字変換
 {0}dn+drjgvu.piooie 皮質
 {0}dn+dufopl.lteigi 略称
+{0}dn+dd,kldfnlud.loeujijii 洛杉矶
 {0}dn+kpmrs.fjumme 仮面
 {0}dn+kh+kkoulb.geobnuuie 格表示
 {0}dn+kciznu.bjuqqo 板球
@@ -12618,6 +12635,7 @@
 {0}fi+bk+oz+dm+dulkzekw.cjoiaepkofhiheo 残差平方和
 {0}fi+bk+kp+cz+ll.ebkkzeuonwkx.cjoiaebnioyuwueiae 残差標準誤差
 {0}fi+ba+xx,xa+we+lwjjjebh.tsiysewhugrijpikzu 通用网关接口
+{0}fi+pr+fw+bnkprxfgddh.wjogvioiemme 丸亀製麺
 {0}fi+ycuiwj.tsiuio 通時
 {0}fi+ykpckz.cjolle 残量
 {0}fi+nzwzkz.cjoziu 残滓
@@ -12945,6 +12963,7 @@
 {0}jr+zzjef.qmoico 前朝
 {0}jr+zkwsdf.oiedke 制定
 {0}jr+wrkdf.oieoiu 制止
+{0}jr+wr+ditwkwjsk.dieqiuveo 帝企鹅
 {0}jr+wudkrmf.uxixbi 刷新
 {0}jr+wscef.qmojbe 前進
 {0}jr+wskuef.qmotuo 前途
