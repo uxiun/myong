@@ -775,6 +775,7 @@
 {0}ytd+d 易
 {0}yt+pwiwik.yyemuu 韵母
 {0}yt+yf+esuvdep.xiiljoiao 錫蘭茶
+{0}yt+nxxjnt.hyexno 混淆
 {0}yt+ntgnt.hyedye 混沌
 {0}yt+xx,kciznutj.gyewhuqqo 棍网球
 {0}yt+xuscnt.hyezao 混雑
@@ -1119,6 +1120,7 @@
 {0}nh+qd+wdhriod.jbuufiyii 紧身衣
 {0}nh+nnhn.poopoo 婆婆
 {0}nh+rh+yfnpoc.pooloomfo 婆羅門
+{0}nh+mt+rr,ittmiofzf.jbujiouietde 緊急事態
 {0}nh+dqdrio.jbuufi 紧身
 {0}nh+dlwezzio.xiecio 繫辞
 {0}nh+fmtmio.jbujio 緊急
@@ -2220,6 +2222,7 @@
 {0}td+suk 物体
 {0}td+sfxtt.huiqie 惚気
 {0}td+lkdnlsbs.tpulue 铁路
+{0}td+ezlty.jpikuu 皆苦
 {0}td+ienzg.miedue 密度
 {0}td+duyidi.ueexli 麝香
 {0}td+kuyd.yieyuo 易于
@@ -3308,6 +3311,7 @@
 {0}ud+xk+us+ecxdzcglwx.osuqiodyimwu 種崎敦美
 {0}ud+xa+nwcrne.bwegrioue 被关注
 {0}ud+tz+iocwkrs.xbihxouee 新华社
+{0}ud+rywkr.xbijqe 新旧
 {0}ud+rydgfhs.guivro 孤児
 {0}ud+rrkrjdd.cdupme 彩片
 {0}ud+rcywkr.xbiuui 新書
@@ -3460,6 +3464,7 @@
 {0}uk+kcjggs.tiuxme 体現
 {0}uk+keddds.tiuxko 体形
 {0}uk+ka+lm+evjksn.wuuyiijxuqii 五一假期
+{0}uk+ka+fo+ewyzekso.bfuvredjeooo 苯二氮䓬
 {0}uk+fkskks.tiuyje 体验
 {0}uk+jbuko.jbeyse 禁用
 {0}uk+judddk.wuucdu 五彩
@@ -3706,6 +3711,7 @@
 {0}gs+kedddtc.iuoxko 雛形
 {0}gs+kf+ed,tdbkscxlkdd.cviqioxkoxke 催奇形性
 {0}gs+jwmkmx.gduxpu 改写
+{0}gl+wrrfjht.mmojie 眠剤
 {0}gl+sfxjht.mmoqie 眠気
 {0}ge+rk+kk.dskkfmwdwi.yiebueyyexko 异步运行
 {0}ge+wplom.yiebku 异禀
@@ -4339,6 +4345,7 @@
 {0}cu+mkhyi.uioohu 時長
 {0}cu+zrrfyi.uiouie 時事
 {0}cu+zvkyi.uioksi 時空
+{0}cu+vojvci.fgisou 封鎖
 {0}cu+vk+yfyyiz.uioksijmi 時空間
 {0}cu+wsrfyi.uiokee 時刻
 {0}cu+wlzyi.uiojie 時計
@@ -5252,6 +5259,7 @@
 {0}zp+bkfwz.lmodau 連打
 {0}zp+przjkdc.oseoie 重置
 {0}zp+ph+tdbkdck.oseycexke 重要性
+{0}zp+ph+sa+dbtdddck.oseycerfowue 重要人物
 {0}zp+ykpcdc.oselle 重量
 {0}zp+yjjewz.lmomgo 連盟
 {0}zp+nnnkdc.osedpo 重叠
@@ -6091,6 +6099,7 @@
 {0}va+gr+kljf.jbighiuio 金剛石
 {0}va+hmt.jbinii 金妮
 {0}va+hs+wlofox.xnuuuedmu 小数点
+{0}va+hiyhf.xnunlo 小娘
 {0}va+hiof.xnumie 小糸
 {0}va+hk+xdsfxh.jbisiihzo 金丝猴
 {0}va+hk+hiyhfei.xnuycenlo 小药娘
@@ -6107,6 +6116,7 @@
 {0}va+zt+xl+estfeous.xnujuioiihxi 小鞠知花
 {0}va+za+ehzlv.jbiofigui 金針菇
 {0}va+vr+zk+djgepjfnv.siezeoyjusre 四則演算
+{0}va+vwigf.xnuise 小銃
 {0}va+vi+ua+fl+fufuzk.xnussiwwekeuzia 小松未可子
 {0}va+vi+ejufu.xnussicde 小松菜
 {0}va+va+cu+rpwyi.sielqeuioosi 四六時中
@@ -6312,6 +6322,7 @@
 {0}wh+ta+dwsmgus.heoxbichi 核心舱
 {0}wh+rpgus.heodme 核电
 {0}wh+hkmkdeg.hlimzo 荒缪
+{0}wh+ms+wldfnuswtu.heouiiuee 核施設
 {0}wh+wlesnbc.ysihue 擁護
 {0}wh+lexeg.hlixne 荒咲
 {0}wh+ebjgt.mhooea 忙着
@@ -6558,6 +6569,7 @@
 {0}wi+fup.muuzia 母子
 {0}wdl 話
 {1}wdk+jv 頻
+{0}wdk+js 频
 {0}wd+bdnfsh.yiijue 依拠
 {0}wd+pi+ta+sm+jbbfkvnss.khesrihxezoeyse 抗酸化作用
 {0}wd+xrfush.yiicyo 依存
@@ -6615,6 +6627,7 @@
 {0}wj+plbx.ieehvo 撤回
 {0}wj+wyhbx.ieetve 撤退
 {0}wj+wlode.pjodmu 盘点
+{0}wj+stojbx.ieexni 撤销
 {0}wj+ecvnbx.ieelko 撤菱
 {0}wj+kpivnce.yjosri 盐酸
 {0}wj+jjnsm.bheuze 傍受
@@ -6888,6 +6901,7 @@
 {0}ov.scuhit.zsujio 総集
 {0}ov.sklhit.zsuheo 総合
 {0}ov.dufohit.zsuigi 総称
+{0}ov.dlrjhit.zsuuke 総帥
 {0}ow+nilhig.tsuoie 統治
 {0}ow+tmdhjj.dieqpe 締切
 {0}ow+gxklflo.jkiqio 鯨崎
@@ -7616,6 +7630,7 @@
 {0}sc+dulkcw.jbeigo 進程
 {0}sc+dufifb.tviyio 推移
 {0}sc+dskkfw.jbexko 進行
+{0}sc+dkdfnf.ovehvu 坠毁
 {0}sc+kcpcb.tviliu 推理
 {0}sc+kw+ncibzs.tvidkefau 推定法
 {0}sc+ksxw.jbegsi 進攻
@@ -7656,6 +7671,7 @@
 {0}sm+wuicdl.icigoe 超过
 {0}sm+wudkrs.zoexbi 作新
 {0}sm+wlmkls.zoecio 作詞
+{0}sm+wldkwcg.qiusue 起訴
 {0}sm+wjjlcdl.icigoe 超過
 {0}sm+ozis.zoeoje 作戦
 {0}sm+of+lz+jg+uhiicdlhdnwde.icijiojiesrejii 超級計算機
@@ -8921,6 +8937,7 @@
 {0}ep+txfiswy.zciyio 遭疑
 {0}ep+ggb.mnoiui 描出
 {0}ep+ga+uyfpbg.mnoiuiljo 描出欄
+{0}ep+hozsynh.nsosoi 濃縮
 {0}ep+ztdgnh.nsomie 濃密
 {0}ep+zuiwi.zyiuzu 遵守
 {0}ep+wprjwy.zciyue 遭遇
@@ -8945,6 +8962,7 @@
 {0}ey+ptwt.yiesii 意思
 {0}ey+przjkb.coeoie 措置
 {0}ey+pwxwt.yietuo 意図
+{0}ey+yd+lm+wlwiywcwit.ybiugirfeuio 音声認識
 {0}ey+ykpcw.ybille 音量
 {0}ey+nzkvux.mooyju 模演
 {0}ey+nkflnx.moeheo 漠河
@@ -8984,6 +9002,7 @@
 {0}ey+wllkxv.coewue 錯誤
 {0}ey+wljlw.ybigci 音高
 {0}ey+ouzljux.moohuo 模糊
+{0}ey+ojjggv.coejto 錯覚
 {0}ey+su+wsrfwi.ybileejue 音楽劇
 {0}ey+su+swi.ybileerfo 音楽人
 {0}ey+su+skkiwi.ybileehve 音楽会
@@ -9252,6 +9271,7 @@
 {0}eo+db,zxystk.wuoxkeoeu 無性者
 {0}eo+db,kltlgsvs.wuooiopce 無鉄砲
 {0}eo+db,jt+zxystkjn.wuoxkevdeoeu 無性愛者
+{0}eo+db,jjtnstk.wuoxkevde 無性愛
 {0}eo+dc+ousng.wuoxiumiu 無洗米
 {0}eo+djls.wuoxle 無向
 {0}eo+kcpcs.wuoliu 無理
@@ -10747,6 +10767,7 @@
 {0}dd,bdyjh.mdepdi 脈拍
 {0}dd,ykpcwbk.ijulle 産量
 {0}dd,rp+pkciwbkn.ijuyzogoo 産油国
+{0}dd,ra+kptylhp.pdejxuoiu 哌甲酯
 {0}dd,ufseur.lquigo 柳橙
 {0}dd,gud.ujiuji 杉山
 {0}dd,ggnh.pdeiui 派出
@@ -10756,6 +10777,7 @@
 {0}dd,wrklnh.pdeqmu 派遣
 {0}dd,wuidfu.dougoe 躲过
 {0}dd,wmlzdfu.doubie 躲避
+{0}dd,skvnh.pdebki 派兵
 {0}dd,lllwbk.ijupbu 産品
 {0}dd,eveuwbk.ijuyee 産業
 {0}dd,dbknh.pdeugi 派生
@@ -10791,6 +10813,7 @@
 {0}dk+wuilr.tkigoe 听过
 {0}dk+whdsi.xuihde 戌亥
 {0}dk+wm+zjkvwjvjk.yjoxpuofi 顔写真
+{0}dk+wlevywjv.pbopuu 頻譜
 {0}dk+wedgwjs.pbodce 频道
 {0}dk+od+pwxbrhyn.oeoxmetuo 折線図
 {0}dk+oa+tedclrk.tkibuedsu 听不懂
@@ -10814,6 +10837,7 @@
 {0}dk+kpmrwjv.yjomme 顔面
 {0}dk+kuwr.jbeyuo 近于
 {0}dk+froubwr.jbelbo 近隣
+{0}dk+frskubw.idiiuo 拆除
 {0}dk+fskxtwjv.pbofai 頻発
 {0}dk+jbwjs.pboyse 频用
 {0}dk+jxmvih.wwixpo 威胁
@@ -11187,6 +11211,7 @@
 {0}kg+zzjk.yroico 元朝
 {0}kg+zf+ly+ijttrsbrs.ocebhioiengo 兆邦智能
 {0}kg+va+wlvlgkf.yroxnuuoi 元小説
+{0}kg+wlevyo.glipuu 光譜
 {0}kg+ojfuo.glixto 光学
 {0}kg+oj+dyirkz.yroxnijpo 元宵節
 {0}kg+srfxrs.ocehze 兆候
@@ -11357,6 +11382,7 @@
 {0}kc+dlgivn.lkolre 凌乱
 {0}kc+dimjs.qropmi 全篇
 {0}kc+ddmris.qrolru 全卵
+{0}kc+dk+wlevysfwjv.dcepbopuu 倒頻譜
 {0}kc+kpmrs.qromme 全面
 {0}kc+kcizns.qroqqo 全球
 {0}kc+kcjdgl.igoxme 呈现
@@ -11583,6 +11609,7 @@
 {0}ks+unhc.wwoqro 维权
 {0}ks+hdxjxj.bkejni 病嬌
 {0}ks+cimriii.lguqte 冷却
+{0}ks+zbzlxj.bkehde 病害
 {0}ks+zxmvkx.ogexpo 政协
 {0}ks+zkwshkl.gwudke 给定
 {0}ks+wmkhkl.gwuyuu 给与
@@ -12526,6 +12553,7 @@
 {0}fo+dbkeu.suiugi 蘇生
 {0}fs 久
 {1}fsc 坠
+{1}fsc+ 坠
 {0}fs+bxkxl.ivizze 吹奏
 {0}fs+pkcii.oiigoo 之国
 {0}fs+yi.oiirie 之日
@@ -13220,6 +13248,7 @@
 {0}jm.wlvlgfdb.jpuuoi 解説
 {0}jm.wjscfdb.jpulio 解離
 {0}jm.ouecokk.xtugci 雪糕
+{0}jm.lf+llixlfdbkhk.jpumauqie 解码器
 {0}jm.estkk.xtuhxi 雪花
 {0}jm.ee,zfufdbuj.jpugzezie 解構字
 {0}jm.ejukk.xtucde 雪菜
@@ -13234,6 +13263,7 @@
 {0}jm.dsklfdb.jpudao 解答
 {0}jm.dk+ojfufdbur.jpuxiixto 解析学
 {0}jm.dk+llixlfdbur.jpuxiiqie 解析器
+{0}jm.klfhkfdb.jpumau 解码
 {0}jm.kjejxkk.xtuxme 雪霰
 {0}jm.kjkdkklz.piilie 霹靂
 {0}jm.frskufdb.jpuiuo 解除
