@@ -7957,6 +7957,7 @@
 {0}sk+dskkffxt.faixko 発行
 {0}sk+dduifxt.faiuee 発射
 {0}sk+kpzxufxt.faijne 発酵
+{0}sk+kh+skkifxtb.faibnuhve 発表会
 {0}sk+kh+sj+ouwzfxtbkgv.faibnuziilne 発表資料
 {0}sk+kcpcsj.lyoliu 倫理
 {0}sk+kcjggfxt.faixme 発現
@@ -12649,6 +12650,7 @@
 {0}featuring $_feat.$_
 {0}fe+tyx.grixbi 関心
 {0}fe+upyx.gridsi 関東
+{0}fe+hs+kfcyxox.griuuexko 関数型
 {0}fe+wmkyx.griyuu 関与
 {0}fe+wzpzyx.grilmo 関連
 {0}fe+ohsxyx.griuue 関数
