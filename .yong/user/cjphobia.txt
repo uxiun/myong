@@ -936,6 +936,7 @@
 {0}ykj+i 曇
 {0}yk+yy.zxybsl.tioiheoeu 提唱者
 {0}yk+ykwss.djeuie 但是
+{0}yk+nilnd.thioie 湯治
 {0}yk+xidc.hlotde 皇太
 {0}yk+tb.djixbi 担心
 {0}yk+tus.djeyeu 但也
@@ -963,6 +964,7 @@
 {0}yk+lyybs.tioihe 提唱
 {0}yk+ejrfbs.tioqmo 提前
 {0}yk+ihtyu.iaoxyo 查询
+{0}yk+il+cykdndn.thioieihu 湯治場
 {0}yk+ia+dkldcx.hlotdehze 皇太后
 {0}yk+dbtddbd.yhowue 揚物
 {0}yk+dmdkrcd.ihusou 場所
@@ -1226,6 +1228,7 @@
 {0}nd+kcpcdf.iuuliu 処理
 {0}nd+kl+ry+kelsfkd.loeheoyhoyii 落合陽一
 {0}nd+kjpel.loelwo 落雷
+{0}nd+ffel.loelea 落了
 {0}nd+jel.loeyte 落月
 {0}nkv+p 酒
 {0}nkd+o 源
@@ -1408,6 +1411,7 @@
 {0}xy+jk+kgpbkkv.iyilkohxe 春霊画
 {0}xn+pkcib.tdegoo 泰国
 {0}xn+yk+ta+zldgbcm.tdetjuniokee 泰坦尼克
+{0}xn+ukb.baobfu 抜本
 {0}xx 爻
 {0}xx,puwm.xnegou 効果
 {0}xx,xnj.whuyzu 网友
@@ -1691,6 +1695,7 @@
 {0}xk+rmxlsle.druqyo 短裙
 {0}xk+rixbsle.drukue 短裤
 {0}xk+rf,llixlzlxu.jiecyoqie 寄存器
+{0}xk+ujkzhm.kcuoai 考査
 {0}xk+hozsysle.drusoi 短縮
 {0}xk+hs+rs+djgeuwkoxfku.oguuueiuosre 整数除算
 {0}xk+hi+ienojvss.lweuiedue 類似度
@@ -2347,6 +2352,7 @@
 {0}rp+ba+vj+rw+klykikxsefez.ggenmoqiiohevde 更年期障碍
 {0}rp+ba+evjkxs.ggenmoqii 更年期
 {0}rp+pn.yzotmo 油田
+{0}rp+yt+hi+uiebfsui.izixlejiixpe 抽象機械
 {0}rp+yt+stbfs.izixlehxe 抽象化
 {0}rp+ykwskx.ggeuie 更是
 {0}rp+nodev.hlouai 黄沙
@@ -2990,6 +2996,7 @@
 {0}ub+ienokj.jkidue 精度
 {0}ub+duldkv.jiiheo 積和
 {0}ub+dzllokj.jkigru 精管
+{0}ub+kn.dytidkvuk.jiijiodea 積極的
 {0}ub+kkhmokj.jkiqnu 精巧
 {0}ub+kjkkvokj.jkilko 精霊
 {0}ub+fgtdkv.jiiyre 積怨
@@ -3368,6 +3375,7 @@
 {0}ud+ssmwkr.xbizoe 新作
 {0}ud+sk+gy+uw+gp+iiirwkrzyjhdzk.xbisueyjukeihxelho 新宿眼科画廊
 {0}ud+sk+cykdwkrfle.xbidgiihu 新登場
+{0}ud+sj+tdbkwkrbgg.xbigvixke 新規性
 {0}ud+sa+ojljvwkr.xbirfouhu 新人賞
 {0}ud+lg+ma+zxnndk.boilrewjeohe 波乱万丈
 {0}ud+le+wsrfwkrcl.xbixiujue 新喜劇
@@ -3972,6 +3980,7 @@
 {0}hs+hojkox.uuezuu 数組
 {0}hs+cp+lz+gp+ncioxkcwk.uueliujiehxefau 数理計画法
 {0}hs+ckkiit.lyetjo 论坛
+{0}hs+mz+nwigoxbl.uuejuelqo 数据流
 {0}hs+mz+tw+lkdnloxblsxb.uuejuelmelue 数据链路
 {0}hs+mz+tw+kd+mkkioxblsxblnl.uuejuelmeluecgo 数据链路层
 {0}hs+mz+rjwjsoxbl.uuejueofi 数据帧
@@ -6556,6 +6565,7 @@
 {0}wi+wdmp.muufhi 母方
 {0}wi+wfijng.lqotsi 流通
 {0}wi+lkwvxbz.ukijni 摔跤
+{0}wi+ek+suknghu.lqomwotiu 流媒体
 {0}wi+iy+nnngnh.lqolhehje 流浪汉
 {0}wi+inng.lqobki 流氷
 {0}wi+itkng.lqouie 流式
@@ -8315,6 +8325,7 @@
 {0}lm+evjsn.jxuqii 假期
 {0}lm+ejvwkl.ciodmu 詞典
 {0}lm+if+ywgst.jienmerie 記念日
+{0}lm+if+sizllwgst.jienmegru 記念館
 {0}lm+dynwkl.cioqro 詞泉
 {0}lm+dzdfnkbo.maudre 碼段
 {0}lm+kh+bkhwglm.jiehcebnu 記号表
@@ -8500,6 +8511,7 @@
 {0}le+jugk.dzeruu 豆乳
 {0}le+jjxncl.xiuvde 喜爱
 {0}li+pdnlw.ojelte 战略
+{0}li+yflwtk.uiewfe 試問
 {0}li+nwelx.kuiqie 哭泣
 {0}li+hu+eplxld.qieleequi 器乐曲
 {0}li+cydlx.kuiugi 哭声
@@ -9223,6 +9235,7 @@
 {0}ev+kfwdhbr.siilpe 撕裂
 {0}ev+kjlklyn.bcelue 暴露
 {0}ev+fx+irnksb.yaejmekhi 亚健康
+{0}ev+fr+nd+kcpcekfdf.bkelpeiuuliu 並列処理
 {0}ev+jxbk.yaejyi 亚军
 {0}ev+jxoy.xmurjo 显然
 {0}ew+xrcwl.ojezde 站在
@@ -9299,6 +9312,7 @@
 {0}es+la+zldgclc.taujiokee 塔吉克
 {0}es+la+ld+vd+cykclczgekr.taujiokeesiitju 塔吉克斯坦
 {0}es+kpmgbl.daipwe 搭配
+{0}el 落
 {0}els+x 敬
 {0}el+zevswdg.jkesde 竞赛
 {0}el+wdcgwdg.jkexru 竞选
@@ -10302,6 +10316,7 @@
 {0}dn+xfijxw.tgotse 疼痛
 {0}dn+tk+stuli.geouiehxe 格式化
 {0}dn+tk+llixluli.geouieqie 格式器
+{0}dn+rcwdhs.fjuoli 仮装
 {0}dn+rf,dwfxcui.piohxetku 皮划艇
 {0}dn+uul.geomue 格木
 {0}dn+ugts.fjuxlu 仮想
@@ -11466,6 +11481,7 @@
 {0}km+kl+evjrwj.fwitsoqii 非同期
 {0}km+kkhmhkd.mzoqnu 缪巧
 {0}km+kksxzs.jxioge 家政
+{0}km+kkfsws.ouocie 逐次
 {0}km+kk.wlkklrwwl.fwiyjoyuu 非言語
 {0}km+kjpgzs.jxidme 家電
 {0}km+ka+ha+ua+jf+pclhmiksfou.yuuqqinvuziaxtoyro 羽丘女子学園
@@ -11744,6 +11760,7 @@
 {0}kl+kftwp.biisiu 逼死
 {0}kl+kj.tsoyii 同一
 {0}kl+ka+tdbkj.tsoyiixke 同一性
+{0}kl+ka+iojggj.tsoyiiuie 同一視
 {0}kl+filsr.mkemko 命名
 {0}kl+filj.tsomko 同名
 {0}kl+jxxhrg.ugowhu 绳网
@@ -13080,6 +13097,7 @@
 {0}jg+nidod.ziempe 自滅
 {0}jg+xu+wlskjuwi.xlidvelye 相対論
 {0}jg+xu+stuwi.xlidvehxe 相対化
+{0}jg+xu+db,cp+wlskjuwitkkc.xlidvexkeliulye 相対性理論
 {0}jg+xmde.srelie 算力
 {0}jg+xmd.zielie 自力
 {0}jg+xvdfnd.zieuai 自殺
@@ -13567,6 +13585,7 @@
 {0}jf+pclhou.xtoyro 学園
 {0}jf+yt+fc,suibmudik.jkedeaxkofue 静的型付
 {0}jf+yflou.xtowfe 学問
+{0}jf+xmou.xtolie 学力
 {0}jf+xitbmu.jketde 静态
 {0}jf+tmded.jmuqpe 剪切
 {0}jf+rk+kgpbmuw.jkeoiuhxe 静止画
