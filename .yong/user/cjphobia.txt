@@ -2029,6 +2029,7 @@
 {0}ty+jwdmj.oiifho 脂肪
 {0}tx+ey+wlkklbsw.niuybiyuu 擬音語
 {0}tx+ittbs.niutde 擬態
+{0}tt 比
 {0}tt,pc+tt,lpclzllz.bieliibielii 哔哩哔哩
 {0}tt,cixmi.tdeuie 態勢
 {0}tt,wlkozb.piipko 批評
@@ -2580,6 +2581,7 @@
 {0}rs+rfjshx.uzifwe 收费
 {0}rs+csmghx.uziqiu 收起
 {0}rs+cifku.iuoque 除去
+{0}rs+mhsxsd.xqigdu 修改
 {0}rs+ml+szjkfuix.fuejxioio 附加值
 {0}rs+mdrjfui.fueuuu 附属
 {0}rs+mkkifrr.jpicgo 阶层
@@ -4429,6 +4431,7 @@
 {0}cw+sisrjrdh.oliuie 装飾
 {0}cw+ebsiikxc.bjilko 斑羚
 {0}cw+iz+uhiirdhzpz.olizdejii 装載機
+{0}cw+is+llixlrdhsrj.oliuieqie 装飾器
 {0}cw+dqdrdh.oliufi 装身
 {0}cw+dujgrdh.olixli 装箱
 {0}cw+kgprdh.olihxe 装画
@@ -6677,6 +6680,7 @@
 {0}wa+kpmrk.xxemme 下面
 {0}wa+ks+wewlrhkl.buugwuoje 补给站
 {0}wa+kkfsk.xxecie 下次
+{0}wa+kfr.buudki 补丁
 {0}wa+ka+ljn.djijlikzu 丹江口
 {0}wa+fryhk.xxexme 下限
 {0}wa+frdnbk.xxejle 下降
@@ -10731,6 +10735,7 @@
 {0}ds+dskkfmn.lvuxko 履行
 {0}ds+kuukmn.lvulie 履歴
 {0}ds+kshkc.yauzii 雅姿
+{0}ds+fuxfx.hzozia 猴子
 {0}ds+ja+ddyirdny.liomkoqki 黎明卿
 {0}dlg 乱
 {0}dl+plm.ocehvo 召回
@@ -10798,6 +10803,7 @@
 {0}dd,eveuwbk.ijuyee 産業
 {0}dd,dbknh.pdeugi 派生
 {0}dd,fuxlj.uiizia 獅子
+{0}dd,fgtnp.lqiyre 溜怨
 {0}dd,jf+zlrlwbkou.ijuxtogri 産学官
 {0}dk 生
 {0}dkj 깅
@@ -11968,6 +11974,7 @@
 {0}kk.dcxmwl.yjodse 言動
 {0}kk.dm+lm+siftzgiwg.wjoigojienme 完成記念
 {0}kk.dm+lm+if+cf,clelzgiwgstss.wjoigojienmehrixiu 完成記念大歓喜
+{0}kk.dm+ienzgi.wjoigodue 完成度
 {0}kk.dzpcozx.yjoose 厳重
 {0}kk.dzdfnk.sjidre 三段
 {0}kk.dwek.sjilie 三笠
@@ -13264,6 +13271,7 @@
 {0}jm.ce+ivklkkwb.xtudaomoo 雪達磨
 {0}jm.ma+djrfrkhi.ohehueoie 帳户制
 {0}jm.wmsxfdb.jpufhe 解放
+{0}jm.wlrffdb.jpupzi 解剖
 {0}jm.wlcjgfdb.jpuduo 解読
 {0}jm.wlvlgfdb.jpuuoi 解説
 {0}jm.wjscfdb.jpulio 解離
