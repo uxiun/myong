@@ -16,6 +16,7 @@
 {0}bxn+ 泰
 {0}bxo 熬
 {0}bx,bx,jsdyoubub.bhebhejii 棒棒鶏
+{0}bx,bt,xzddd.uiowuedae 実物大
 {0}bx,bznz.uiojie 実技
 {0}bx,bkhz.uiobnu 実表
 {0}bx,bk+ndzlzd.uiougihoo 実生活
@@ -27,6 +28,7 @@
 {0}bx,rcwdhz.uiooli 実装
 {0}bx,rc,wlskjzx.uiozdelye 実在論
 {0}bx,rj+wkzfso.uiojieuhe 実際上
+{0}bx,uiz.uiocye 実寸
 {0}bx,uk+fe+zp+pwxzsyxwz.uiotiugrilmotuo 実体関連図
 {0}bx,hobkvz.uiojii 実績
 {0}bx,ctuz.uiodie 実地
@@ -922,12 +924,14 @@
 {0}yd+wedgc.ugidce 声道
 {0}yd+sdfc.ugiohu 声仉
 {0}yd+skjnc.ugiyzi 声優
+{0}yd+lm+llixlckbo.ugimauqie 声碼器
 {0}yd+ep+xa+ojfurgwcw.vrotsowfoxto 児童文学
 {0}yd+ezjrjc.ugidde 声帯
 {0}yd+eisuhg.mweyce 媚薬
 {0}yd+drjgvc.ugioie 声質
 {0}yd+dskkfg.mmuqmi 免签
 {0}yd+djrfsn.fueoie 复制
+{0}yd+klmboc.ugimau 声碼
 {0}yd+kj+yd+yjfgbgvc.mmuzeougimko 免責声明
 {0}yd+fygc.ugisee 声色
 {0}yd+frykddcl.hceyho 皓陽
@@ -1045,6 +1049,7 @@
 {0}ya+zzj.rieico 日朝
 {0}ya+zlld.bdogsi 白宫
 {0}ya+vmdk.bduffi 百分
+{0}ya+va+gr.jqejbiuji 旧金山
 {0}ya+wx.riewfo 日文
 {0}ya+wr+jrkk.jqeogeyte 旧正月
 {0}ya+wz,xa+lk+sezmc.rielmodaeugerfo 日蓮大聖人
@@ -2770,6 +2775,7 @@
 {0}rk+kk.fuwvsi.yioyyozia 遺伝子
 {0}rk+kk.jd+ofljgzng.geovjegrihou 隔岸观火
 {0}rk+fygus.tcosee 桃色
+{0}rk+frzpzj.yroofe 円陣
 {0}rk+frsbw.pdodve 排队
 {0}rk+frsm.wwedve 卫队
 {0}rk+frskubw.pdoiuo 排除
@@ -3848,6 +3854,7 @@
 {0}ga+ds+jx+kk.skkiydndwi.bailiovceyyehve 巴黎奥运会
 {0}ga+ddsny.bailio 巴黎
 {0}ga+kh+udnzkm.qiiqnubju 七巧板
+{0}ga+kcij.mueyue 目玉
 {0}ga+kcjggg.iuixme 出現
 {0}ga+kc+cu+pudzpis.qiigoojiotro 七国集团
 {0}ga+kvpy.baixii 巴西
@@ -5327,6 +5334,7 @@
 {0}zp+kw+ij+bimdcxkre.oseogejmihue 重症监护
 {0}zp+kw+djldczs.osedkexle 重定向
 {0}zp+klfhkdc.osemau 重码
+{0}zp+kl+jzpzwzs.lmoheojyi 連合軍
 {0}zp+jbwz.lmoyse 連用
 {0}zp+jcirwz.lmojnu 連脚
 {0}zp+jobmwz.lmouge 連勝
@@ -5446,6 +5454,7 @@
 {0}zm+tdbkedi.rfexke 靭性
 {0}zm+hodhtcrn.bceoiu 報紙
 {0}zm+cl+rcycrnd.bcegceuui 報告書
+{0}zm+zp+ujgcrnwz.bcelmoxli 報連相
 {0}zm+wedgcrn.bcedce 報道
 {0}zm+dclcrn.bcegce 報告
 {0}zm+dssyncrn.bcefue 報復
@@ -6204,6 +6213,7 @@
 {0}va+jc+kedddwf.lqejnuxko 六角形
 {0}va+jznp.sieoii 四肢
 {0}va+jl+ce+kcddpwockrx.lqethoykilqo 六堂瑛瑠
+{0}va+jd+iwlfcg.xnumdedme 小売店
 {0}va+jkle.gsetso 共同
 {0}va+jf+uwvxfou.xnuxtoxne 小学校
 {0}va+jf+sizllfou.xnuxtogru 小学館
@@ -6327,6 +6337,7 @@
 {0}wgw+eg 競
 {0}wg+sjjx.ncunwe 脑内
 {0}whh.h 巡
+{0}wh+pue.mhogou 芒果
 {0}wh+pg+wewlusr.heodmeoje 核电站
 {0}wh+ns+wvnusmss.heojuebme 核聚变
 {0}wh+tus.heoxbi 核心
@@ -6433,7 +6444,8 @@
 {0}ww,kxddf.hhotmi 航天
 {0}wo 点
 {0}wo+hnn.uuinvu 淑女
-{0}wsr+f 劇
+{0}wsr+f 刻
+{1}wsr+f 劇
 {0}ws,bzrssx.mbujpo 敏捷
 {0}ws,tlfifl.zuogze 足够
 {0}ws,ta+skfnxs.yeehxeqie 液化气
@@ -7586,6 +7598,7 @@
 {0}sc+rx+ga+wudkrbfug.tviifoiuixbi 推陈出新
 {0}sc+rixb.tvijlu 推奨
 {0}sc+ra Scrapbox$_
+{0}sc+uyfpdui.ddeljo 待欄
 {0}sc+uxkls.zoeyiu 坐椅
 {0}sc+uiic.dvioje 堆棧
 {0}sc+uk+oj+op+jtlgvsiggh.ovitiuuiexiebci 錐体視細胞
@@ -7666,6 +7679,7 @@
 {0}sm+xd,ohsxcdlidd.icicjiuue 超参数
 {0}sm+tw+bwehcdlsxb.icilmejpi 超链接
 {0}sm+tes.zoeuie 作世
+{0}sm+rs.zoeosi 作中
 {0}sm+uecg.qiuldo 起来
 {0}sm+gp+plsk.zoehxehvo 作画回
 {0}sm+hkfdncdl.icijio 超级
@@ -7765,6 +7779,7 @@
 {0}ss,mkdydyn.fuexio 復習
 {0}ss,ve+jr+ssmwzeudf.zuoyeeoiezoe 卒業制作
 {0}ss,wsrfdyn.fuekee 復刻
+{0}ss,wlcjgec.njoduo 難読
 {0}ss,wloec.njodmu 難点
 {0}ss,ojfuic.zoexto 座学
 {0}ss,ojfudyn.fuexto 復学
@@ -8256,6 +8271,7 @@
 {0}lu+exdxkdn.poehoe 破获
 {0}lu+dzlls.bcugru 保管
 {0}lu+ddps.bculqo 保留
+{0}lu+djgekdn.poesre 破算
 {0}lu+kfwdhkdn.poelpe 破裂
 {0}lu+fx+zkicssb.bcujmeuie 保健室
 {0}lu+fx+lllssb.bcujmepbu 保健品
@@ -8932,6 +8948,7 @@
 {0}la+kcrfp.hvodce 回到
 {0}la+kwh.ruoxxe 如下
 {0}la+kekjv.kzutzo 口頭
+{0}la+kk.le+isijusk.xkerfodzefuu 杏仁豆腐
 {0}la+ka+ud+le+wsrfcuwkrcl.jiobfuxbixiujue 吉本新喜劇
 {0}la+fk+jgyhidri.tdofgiyju 台風眼
 {0}la+jbw.ojeyse 占用
@@ -9496,6 +9513,7 @@
 {0}ea+sbu.ldonmo 来年
 {0}ea+sy+fdnudki.ldodeojio 来得及
 {0}ea+stzu.ldohxo 来华
+{0}ea+sr+xa+ozitpr.uiejpedaeoje 世界大戦
 {0}ea+sr+rk+wddbktprwv.uiejpeyioiju 世界遺産
 {0}ea+sr+rk+dd,il+vfkntprwvwbkf.uiejpeyioijumkolue 世界遺産名録
 {0}ea+sr+hodyntpr.uiejpexme 世界線
@@ -12271,6 +12289,7 @@
 {0}ka+wlmgw.uhejie 上記
 {0}ka+wlow.uhejki 上京
 {0}ka+wlo.yiidmu 一点
+{0}ka+wlik.vreoje 二战
 {0}ka+wlfr.yiibue 一部
 {0}ka+weyt.yiiyie 一意
 {0}ka+weyu.bfuybi 本音
@@ -12481,6 +12500,8 @@
 {0}fr+ka+ui+rmyddy.dieyiiuiojmi 第一时间
 {0}fr+ka+wlfrddk.dievrebue 第二部
 {0}fr+ka+dufuddk.dievrejie 第二季
+{0}fr+ka+kf+sr+xa+oziddkspr.dieyiiciejpedaeoje 第一次世界大戦
+{0}fr+ka+kf+sr+xa+oziddkkspr.dievreciejpedaeoje 第二次世界大戦
 {0}fr+fuvd.diezia 弟子
 {0}fr+filkf.lpemko 列名
 {0}fu+pm+ykpczkr.ziemmelle 字面量
@@ -13416,6 +13437,7 @@
 {0}js+kfrfex.sjelpe 散列
 {0}js+fr+stexkf.sjelpehxe 散列化
 {0}js+fuwc.liozia 離子
+{0}js+jvudex.sjecdo 散財
 {0}js+jvlgwc.liotoi 離脱
 {0}js+jjjex.sjeguu 散骨
 {0}jl+bzvkob.ohukse 掌控
