@@ -87,6 +87,7 @@
 .fl =}$SPACE
 .fw ##$|##$SPACE
 .fk [_$|_]$SPACE
+.fj ::$SPACE
 
 .du ¡®$|¡¯$SPACE
 .di ¡°$|¡±$SPACE

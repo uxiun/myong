@@ -2036,6 +2036,7 @@
 {0}tx+ittbs.niutde 擬態
 {0}tt 比
 {0}tt,pc+tt,lpclzllz.bieliibielii 哔哩哔哩
+{0}tt,rkiy.kyiiso 昆虫
 {0}tt,cixmi.tdeuie 態勢
 {0}tt,wlkozb.piipko 批評
 {0}tt,obrfb.piipje 批判
@@ -4320,6 +4321,7 @@
 {0}cx+kc+lt+hkwigepiv.mwugoozsutsu 美国总统
 {0}cx+kc+lt+kw+oi+mzlvepivhigwxg.mwugoozsutsujqeoio 美国总统就职
 {0}cx+kc+ds+frzkgepifxm.mwugoowueyre 美国務院
+{0}cx+keddde.mwuxko 美形
 {0}cx+kkge.mwuyro 美元
 {0}cx+kkjije.mwulie 美丽
 {0}cx+kkjjte.mwulie 美麗
@@ -4790,6 +4792,7 @@
 {0}mx+iijs.yiilhu 伊朗
 {0}mx+kj+no+dyskijed.yiilieuaibdo 伊丽莎白
 {0}mx+furl.qyozia 裙子
+{0}mx+fiffs.yiiyuu 伊予
 {0}mx+jo+lz+rkrfsenw.yiitgojiehxe 伊藤計劃
 {0}mt+twhf.jiomho 急忙
 {0}mt+tdbkf.jioxke 急性
@@ -4903,6 +4906,7 @@
 {0}mz+od+plynhnw.zveosihvo 最終回
 {0}mz+od+wldzlynhnw.zveosihxe 最終話
 {0}mz+od+weyzynhnw.zveosiohi 最終章
+{0}mz+od+obmgynhnw.zveosijre 最終巻
 {0}mz+sxkleyn.zvedru 最短
 {0}mz+sccyn.zvejxi 最佳
 {0}mz+sdtkyn.zvedii 最低
@@ -5904,6 +5908,7 @@
 {0}vwi+g 銃
 {0}vw+xrjjl.tpibue 貼布
 {0}vw+oj+vjelsv.pwoihojbi 賠償金
+{0}vw+suijl.tpifue 貼付
 {0}vw+sojvjel.pwoiho 賠償
 {0}vs 欲
 {0}vs+ytddzl.rsoyie 容易
@@ -5956,6 +5961,7 @@
 {0}vd+bkhioigi.moosue 魔素
 {0}vd+bfjxwn.bmehre 変換
 {0}vd+psrrigi.moojpe 魔界
+{0}vd+yd+evjwnc.bmeugiqii 変声期
 {0}vd+ykpcwn.bmelle 変量
 {0}vd+nciigi.moofau 魔法
 {0}vd+xmigi.moolie 魔力
@@ -6444,8 +6450,7 @@
 {0}ww,kxddf.hhotmi 航天
 {0}wo 点
 {0}wo+hnn.uuinvu 淑女
-{0}wsr+f 刻
-{1}wsr+f 劇
+{0}wsr+f 劇
 {0}ws,bzrssx.mbujpo 敏捷
 {0}ws,tlfifl.zuogze 足够
 {0}ws,ta+skfnxs.yeehxeqie 液化气
@@ -8688,12 +8693,14 @@
 {0}lf+zwxkjc.qteuio 确实
 {0}lf+zkwskjc.qtedke 确定
 {0}lf+vmdwr.bueffi 部分
+{0}lf+wsrfks.geijue 歌劇
 {0}lf+wlmklks.geicio 歌詞
 {0}lf+wljsgks.geiyco 歌謡
 {0}lf+wjkcvs.yuewhe 欲望
 {0}lf+st+ta+kevklst.geilyobiuyae 哥伦比亚
 {0}lf+svmdwr.bueffe 部份
 {0}lf+swewr.buewwe 部位
+{0}lf+sefibks.geiwuu 歌舞
 {0}lf+sdbwr.buejme 部件
 {0}lf+sdfks.geiohu 歌仉
 {0}lf+lyyks.geiihe 歌唱
@@ -8705,6 +8712,7 @@
 {0}lf+edjgwr.bueuzu 部首
 {0}lf+ed,cx+kcsiimrwge.jyedcemwulko 郡道美玲
 {0}lf+ekuvs.yueyue 欲芋
+{0}lf+ef+sznkssib.geiwuujie 歌舞伎
 {0}lf+iznvs.yueqqo 欲求
 {0}lf+dbkwxk.djeugi 誕生
 {0}lf+kr+ljsxhkfx.jxeuiuyro 驾驶员
@@ -9575,6 +9583,7 @@
 {0}iy+izpzsl.chikue 倉庫
 {0}iy+iltsh.uiogju 食感
 {0}iy+dbtddsh.uiowue 食物
+{0}iy+ddmrish.uiolru 食卵
 {0}iy+ka+za+xkkoslud.chibfuqminde 倉本千奈
 {0}iy+ft,dscwsshk.uiosiutuo 食死徒
 {0}iy+jbsh.uioyse 食用
@@ -10465,6 +10474,7 @@
 {0}dt+dm+ukski.diiigobfu 低成本
 {0}dt+dzllb.toigru 托管
 {0}dt+dwjeik.diupjo 底盘
+{0}dt+ddmrib.toilru 托卵
 {0}dt+djrfbk.diuoie 抵制
 {0}dt+kwsk.diixxe 低下
 {0}dt+kw+hm.zldgbwfk.toikaumaukee 托卡马克
@@ -10717,6 +10727,7 @@
 {0}dz+dswrsw.qmixiu 迁徙
 {0}dz+kpmgwl.uiepwe 适配
 {0}dz+kuwl.uieyuo 适于
+{0}dz+kgpbr.iaihxe 挿画
 {0}dz+kixmnl.hoodse 活动
 {0}dz+fskxtnl.hoofai 活発
 {0}dz+fdhsbl.koehuo 括弧
@@ -11827,6 +11838,7 @@
 {0}kd+nudndf.oueboi 筑波
 {0}kd+tpzvmy.xiogre 習慣
 {0}kd+tu+wpchlnlc.luedieliu 路地裏
+{0}kd+tdbkmy.xioxke 習性
 {0}kd+td+vd+le+oulnlydekrcl.lueyiesiijximiu 路易斯嘉米
 {0}kd+rjhht.oiujbi 纸巾
 {0}kd+ud+xa+ojfudfnn.oueboidaexto 筑波大学
@@ -11863,6 +11875,7 @@
 {0}kk.bm+iqtkmo.sjimaulue 三馬鹿
 {0}kk.ba+sj+dzllkobgg.sjibjegvigru 三半規管
 {0}kk.pgz.vjetmo 岸田
+{0}kk.yh+pa+jjtnxoi.ndellotmovde 奈良田愛
 {0}kk.ydbkk.sjixki 三星
 {0}kk.ykwssi.hveuie 会是
 {0}kk.nizjk.sjipuu 三浦
@@ -12444,6 +12457,7 @@
 {0}fx+wlkklvb.jmeyuu 鍵語
 {0}fx+sy+wcrdki.jludeoouu 奖得主
 {0}fx+srfxs.qiehze 気候
+{0}fx+suis.qiefue 気付
 {0}fx+szjkvb.jmeoio 鍵值
 {0}fx+skcsb.jmeqro 健全
 {0}fx+lzus.qiewwe 気味
@@ -13639,6 +13653,7 @@
 {0}jf+wknu.fuouhe 浮上
 {0}jf+wkou.xtouhe 学上
 {0}jf+oxkjvou.xtolwe 学類
+{0}jf+sbou.xtonmo 学年
 {0}jf+srsdou.xtoxqi 学修
 {0}jf+sw,udnedjl.jmutpibju 剪贴板
 {0}jf+si+md+pcfifoudvfv.xtouueffiyeu 学術分野
@@ -13841,7 +13856,6 @@
 {0}.cx ×
 {0}.st ★
 {-}.st ★$SPACE
-{0}.fj ::
 {0}att #$yyyy年/$mon月/$day日$_#$yyyy年$mon月$_#$yyyy年$_#$mon月$_#$day日$SPACE
 {0}auu ǔ
 {0}auo ǒ
