@@ -1867,6 +1867,7 @@
 {0}xa+mirb.daesie 大肆
 {0}xa+ma+jjtnk.daehuevde 大戸愛
 {0}xa+zr+sizllsx.daeuiugru 大使館
+{0}xa+zzskj.daelyo 大輪
 {0}xa+zvkk.tmiksi 天空
 {0}xa+zevs.daesde 大赛
 {0}xa+zkms.daejxi 大家
@@ -2776,6 +2777,7 @@
 {0}rk+kk.fuwvsi.yioyyozia 遺伝子
 {0}rk+kk.jd+ofljgzng.geovjegrihou 隔岸观火
 {0}rk+fygus.tcosee 桃色
+{0}rk+frprjrr.pmeyuo 片隅
 {0}rk+frzpzj.yroofe 円陣
 {0}rk+frsbw.pdodve 排队
 {0}rk+frsm.wwedve 卫队
@@ -2801,6 +2803,7 @@
 {0}rf,rc,lk+yjxuxwwk.cyozdeogemko 存在証明
 {0}rf,rc,iltxux.cyozdegju 存在感
 {0}rf,rizjsx.hzebuu 候補
+{0}rf,uomkxu.cyodhe 存档
 {0}rf,hm.ta+kevpifkm.loomaunioyae 罗马尼亚
 {0}rf,cidmcv.iieigo 赤城
 {0}rf,mznxu.cyoquu 存取
@@ -4788,6 +4791,8 @@
 {0}mx+ur+uz+du+tusnseef.yiildemoelieyeu 伊濑茉莉也
 {0}mx+hkfcu.uuinqu 枢纽
 {0}mx+ma+ia+mx+ca+xkflskqsp.yiiwjevvayiiliuqio 伊万･伊里奇
+{0}mx+zzrpu.uuiozo 枢軸
+{0}mx+zzskju.uuilyo 枢輪
 {0}mx+ejons.yiitgo 伊藤
 {0}mx+iijs.yiilhu 伊朗
 {0}mx+kj+no+dyskijed.yiilieuaibdo 伊丽莎白
@@ -8342,6 +8347,7 @@
 {0}lm+wlkklws.yieyuu 訳語
 {0}lm+wizvwg.jieuue 記述
 {0}lm+sxlwit.rfeoii 認知
+{0}lm+scuwkl.ciojio 詞集
 {0}lm+szrxsn.jxuuiu 假使
 {0}lm+siftwg.jienme 記念
 {0}lm+sdwg.jierue 記入
@@ -11658,6 +11664,7 @@
 {0}ks+rimiii.lgumfo 冷门
 {0}ks+rkixxj.bkeole 病状
 {0}ks+rkixj.bkeiso 病虫
+{0}ks+ra+ekeziii.lguosihxo 冷中華
 {0}ks+unhc.wwoqro 维权
 {0}ks+hdxjxj.bkejni 病嬌
 {0}ks+cimriii.lguqte 冷却
@@ -13397,6 +13404,7 @@
 {0}jw+cymkc.tjitai 坍塌
 {0}jw+wxmwdm.phobmi 旁边
 {0}jw+dywdm.phobdo 旁白
+{0}jo 祭
 {0}job+o 騰
 {0}jo+pa+lexen.tgotmoxne 藤田咲
 {0}jo+ui+cx+dszptence.tgosiemwudeo 藤寺美徳
