@@ -3452,6 +3452,7 @@
 {0}uk+zzskjk.wuulyo 五輪
 {0}uk+za+weyk.wuuuioybi 五十音
 {0}uk+za+df+yf+cw+jjtnkginckgj.wuuuioljoryeliovde 五十嵐潤璃愛
+{0}uk+vmdk.wuuffi 五分
 {0}uk+vlfsuko.jbeyue 禁欲
 {0}uk+wrkuko.jbeoiu 禁止
 {0}uk+wijs.tiuyue 体育
@@ -3558,6 +3559,7 @@
 {0}ua+uez.wweldo 未来
 {0}ua+ui+yh+kozui.muecyillopko 木村良平
 {0}ua+ua+oa+sf+lepllkl.ddiddibueiiimni 呆呆不吃喵
+{0}ua+gxkl.mueqio 木崎
 {0}ua+ga+sefibo.miuujiwuu 米山舞
 {0}ua+hosjz.wwenae 未納
 {0}ua+hdtyz.wwehyi 未婚
@@ -3748,6 +3750,7 @@
 {0}gd+ya+zp+kcjdgkndc.xxerieosexme 夏日重现
 {0}gd+xk+ldyojggl.jmeqiomko 見崎鳴
 {0}gd+rjyjgjzk.uvemce 睡帽
+{0}gd+ub+cu+yfyjgdkvyi.jmejiiuiojmi 見積時間
 {0}gd+ukjg.jmebfu 見本
 {0}gd+gl+vlfsjzkjht.uvemmoyue 睡眠欲
 {0}gd+gl+jg+kw+rf,mlebjzkjhtuxksx,vemoligezeyo 睡眠相後退症候群
@@ -3760,6 +3763,7 @@
 {0}gd+evjkn.xxeqii 夏期
 {0}gd+dbkkn.xxeugi 夏生
 {0}gd+db,dk+ecxwyomgdjv.jqewwuxuimwu 鷲尾須美
+{0}gd+dubkvjg.jmejii 見積
 {0}gd+kickn.xxeoie 夏至
 {0}gd+jglhtjzk.uvemmo 睡眠
 {0}gd+jmrnkn.xxefuo 夏服
@@ -4328,6 +4332,7 @@
 {0}cx+kkge.mwuyro 美元
 {0}cx+kkjije.mwulie 美丽
 {0}cx+kkjjte.mwulie 美麗
+{0}cx+jzpze.mwujyi 美軍
 {0}cx+jdfe.mwujii 美肌
 {0}ct,kcygkt.piopao 琵琶
 {0}cr,uekf.dceldo 到来
@@ -5727,6 +5732,7 @@
 {0}za+ykkhy.zcuifo 早晨
 {0}za+nurvy.zculde 早瀬
 {0}za+nwrdk.gjeuee 干渉
+{0}za+ty+jg+blbu.uiooiuxlikze 十指相扣
 {0}za+te+ds+tudeukc.qmiyeeyauyeu 千葉雅也
 {0}za+rr,xa+izpzyrw.zcuiriwfokue 早川文庫
 {0}za+rr,cy+imwdmyrr.zcuiriuuifho 早川書房
@@ -6177,6 +6183,7 @@
 {0}va+le+uwezfk.xnudzeziu 小豆梓
 {0}va+li+mosksfwtk.xnuuieyje 小試験
 {0}va+ldyoe.gsemko 共鳴
+{0}va+lkdnlf.xnulue 小路
 {0}va+lf+sdbfwr.xnubuejme 小部件
 {0}va+eztouf.xnujui 小鞠
 {0}va+ev+iltfe.xnubkegju 小並感
@@ -9517,6 +9524,7 @@
 {0}ea+zbktw.liexme 立憲
 {0}ea+zvdpxk.kdiili 开窗
 {0}ea+zkmsu.ldojxi 来家
+{0}ea+zkicu.ldouie 来室
 {0}ea+wxk.kditzo 开头
 {0}ea+wmsxk.kdifhe 开放
 {0}ea+wlskjt.uielye 世論
@@ -10343,7 +10351,8 @@
 {0}dy+fuko.yrozia 原子
 {0}dy+fopcvj.jbuliu 錦鯉
 {0}dy+jvrfko.yrozeo 原則
-{0}dnw 冬
+{0}dnw 处
+{1}dnw 冬
 {0}dn+ 略
 {0}dn+bkjw.fjuqki 返青
 {0}dn+plw.fjuhvo 返回
@@ -13135,6 +13144,7 @@
 {0}jg+bdyd.ziepdi 自拍
 {0}jg+pu+tdei.ziezyixbi 自尊心
 {0}jg+pkcid.ziegoo 自国
+{0}jg+pa+rjmkhdr.zieyzoohe 自由帳
 {0}jg+pa+iendr.zieyzodue 自由度
 {0}jg+yfykv.yeejmi 頁間
 {0}jg+yfexu.xligri 相関
