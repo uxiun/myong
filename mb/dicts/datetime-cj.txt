@@ -7,20 +7,20 @@ atw $yyyy年/$mon月/$day日$SPACE
 ate #$yyyy年$mon月$_#$mon0月$day0日$_#$day日$_#$mon月$_#$yyyy年$SPACE
 atr #$yyyy年$mon0月$day0日$_#$yyyy年$mon月$_#$mon0月$day0日$_#$day日$_#$mon月$_#$yyyy年$SPACE
 
-ath $yyyy年$mon0月$SPACE
-atm $mon0月$day0日$SPACE
-atn $hour0時$min分$SPACE
-atv $hour0時$min分$sec秒$SPACE
+ath $yyyy年$mon月$SPACE
+atm $mon月$day日$SPACE
+atn $hour時$min分$SPACE
+atv $mon/$day$SPACE
 atz $YYYY0年$MON月$DAY日$SPACE
 
 aty $yyyy$SPACE
 atys $yyyy年$SPACE
 atu $mon0$SPACE
 atus $mon0月$SPACE
-ati $day0$SPACE
-atis $day0日$SPACE
-ato $hour0$SPACE
-atos $hour0時$SPACE
+ati $mon/$day$SPACE
+atis $day日$SPACE
+ato $hour$SPACE
+atos $hour時$SPACE
 atp $min$SPACE
 atps $min分$SPACE
 

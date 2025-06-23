@@ -7842,6 +7842,7 @@
 {0}se+fubo.fuuzia 撫子
 {0}si 会
 {2}si 伐
+{0}sif+s 飲
 {0}si+pcfifch.yteyeu 越野
 {0}si+xmlch.ytejxi 越加
 {0}si+tuxch.ytekke 越快
@@ -7902,6 +7903,7 @@
 {0}sk+ 行
 {0}sk+buznu.tuomou 涂抹
 {0}sk+bkhfxt.faibnu 発表
+{0}sk+bk+nkdofxtd.faiugiyro 発生源
 {0}sk+bjzzfxt.faihvi 発揮
 {0}sk+przxydk.qmiuuu 签署
 {0}sk+puzv.bbigou 宾果
@@ -8784,6 +8786,7 @@
 {0}lj+gdnzwl.gcifgi 高峰
 {0}lj+hv+sa+wedgzilgd.huouoibaidce 胡说八道
 {0}lj+hofdnwl.gcijio 高級
+{0}lj+hi+ijttwlui.gcijiingo 高機能
 {0}lj+hi+fpozds.huogxiyuo 胡瓜魚
 {0}lj+ha+yuiwgz.hcovjiuio 毫安时
 {0}lj+cu+iw+br,dmdkrwldizdhof.gcidgucdopjesou 高等裁判所
@@ -10080,6 +10083,7 @@
 {0}if+srfi.doigee 多个
 {0}if+ssmfi.doizoe 多作
 {0}if+ssi.lkerfo 令人
+{0}if+siyhss.ybuuio 飲食
 {0}if+sa+sm+lmxsis.lkerfozoevzu 令人作呕
 {0}if+lzuds.faowwe 乏味
 {0}if+lf+ncisvvs.tjiyuefau 貪欲法
@@ -10087,6 +10091,7 @@
 {0}if+ecdbifi.doiyie 多義
 {0}if+ec+tdbkfiun.doiyhexke 多様性
 {0}if+evjs.jbiqii 今期
+{0}if+iy+iwlsssh.ybuuiodme 飲食店
 {0}if+ixsl.hjoyie 含义
 {0}if+izvves.oiimao 芝麻
 {0}if+ivbfi.doimoo 多摩
@@ -10222,6 +10227,7 @@
 {0}db,yt+ty+djltkdib.xkedeaoiuxle 性的指向
 {0}db,yt+zt+hfutkdily.xkedeauiehcu 性的嗜好
 {0}db,yt+sj+uktkdikgv.xkedeaziibfu 性的資本
+{0}db,yt+da+hs+zxytkdioox.xkedeaucuuueoeu 性的少数者
 {0}db,ygmg.wwubai 尾巴
 {0}db,xmlztk.xkepiu 性癖
 {0}db,thmksi.veowui 俄乌
@@ -10351,8 +10357,7 @@
 {0}dy+fuko.yrozia 原子
 {0}dy+fopcvj.jbuliu 錦鯉
 {0}dy+jvrfko.yrozeo 原則
-{0}dnw 处
-{1}dnw 冬
+{0}dnw 冬
 {0}dn+ 略
 {0}dn+bkjw.fjuqki 返青
 {0}dn+plw.fjuhvo 返回
@@ -11026,6 +11031,7 @@
 {0}da+ga+xmsg.rueiuilie 入出力
 {0}da+ho.ucunvu 少女
 {0}da+hs+nddhoox.ucuuuepde 少数派
+{0}da+hs+zxyoox.ucuuueoeu 少数者
 {0}da+ha+yp+kgponn.ucunvumjehxe 少女漫画
 {0}da+ha+od+za+ms+dskkfohnwuwdh.ucunvuosimoelvuxko 少女終末旅行
 {0}da+cfmds.rueihu 入场
@@ -12476,6 +12482,7 @@
 {0}fx+suis.qiefue 気付
 {0}fx+szjkvb.jmeoio 鍵值
 {0}fx+skcsb.jmeqro 健全
+{0}fx+skls.qieheo 気合
 {0}fx+lzus.qiewwe 気味
 {0}fx+irnsb.jmekhi 健康
 {0}fx+dqdbc.tkuufi 挺身
@@ -12695,6 +12702,7 @@
 {0}fl+wlcjgk.keuduo 可読
 {0}fl+wexk.keusse 可送
 {0}fl+wegk.keunie 可逆
+{0}fl+ojxok.keurjo 可燃
 {0}fl+oj+stkigg.keuuiehxe 可視化
 {0}fl+szlxk.keuzoe 可做
 {0}fl+sevk.keugsi 可供
