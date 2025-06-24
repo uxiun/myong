@@ -521,7 +521,8 @@
 {0}pr+jxosj.vzurjo 偶然
 {0}pr+jgdgef.mgejme 夢見
 {0}pr+jdgwj.yuejme 遇见
-{0}pu 困
+{0}pu 果
+{1}pu 困
 {0}pu+yfzi.orimfo 専門
 {0}pu+tlgu.kyubci 梱包
 {0}pu+uecnei.zyiyhe 尊様
@@ -666,6 +667,7 @@
 {0}pe+sx+ca+ecdbikzjucw.baeqroouuyie 覇権主義
 {0}pe+kpivnky.cuesri 醋酸
 {0}pi 国
+{0}pi+hfdmkvn.srindu 酸奶
 {0}pi+stkvn.srihxe 酸化
 {0}pi+fskvn.sriqme 酸欠
 {0}pdn+l 略
@@ -3807,6 +3809,7 @@
 {0}ga+nspw.ujihdu 山海
 {0}ga+xu.ujidsi 山东
 {0}ga+xmg.iuilie 出力
+{0}ga+xjm.yiuyzu 已有
 {0}ga+ta+weyrs.vrohxeybi 儿化音
 {0}ga+rrr.ujiiri 山川
 {0}ga+rrdng.iuibju 出版
@@ -5726,6 +5729,7 @@
 {0}zj+fi+wrrfvvxj.ofetsejie 鎮痛剤
 {0}zj+jwmkcv.tmoxpu 填写
 {0}zj+jk+za+yzzkkid.icoyyoqmizcu 朝雲千早
+{0}za+puk.gjegou 干果
 {0}za+ybkjd.qmiqko 千晴
 {0}za+yu.moerie 末日
 {0}za+ykzk.gjehje 干旱
@@ -5960,6 +5964,7 @@
 {0}vi+pa+ed,nuwfi.ssitmosaeuvu 松田颯水
 {0}vi+ggzx.tuiiui 突出
 {0}vi+mkicu.ssiwui 松屋
+{0}vi+wszx.tuiyui 突込
 {0}vi+lzt.ilikzu 窓口
 {0}vi+emzu.ssirsi 松茸
 {0}vi+ejonu.ssitgo 松藤
@@ -6517,6 +6522,7 @@
 {0}we+psrrcg.jkejpe 境界
 {0}we+ncib.laifau 拉法
 {0}we+xvdfnyy.vjeuai 暗殺
+{0}we+xksjjt.yiebke 臆病
 {0}we+tywotc.isijku 憧憬
 {0}we+ta+hmbrbm.lainionae 拉尼娜
 {0}we+rz+bk+czmrnspjktj.wweoieqkobce 位置情報
@@ -7053,6 +7059,7 @@
 {0}od+ubxbhyj.mmobhe 綿棒
 {0}od+uy.st+ohynde.xmexlihxihou 線香花火
 {0}od+uzhnw.osimoe 終末
+{0}od+udnhht.oiubju 紙板
 {0}od+hrweyydd.ykuxlu 影響
 {0}od+hudkrhss.zsedre 縦断
 {0}od+hojkhss.zsezuu 縦組
@@ -7083,6 +7090,7 @@
 {0}od+ed,kfchynkdd.xmexkoxko 線形型
 {0}od+iobxiikr.qiodcu 祈祷
 {0}od+dbcuin.uaitee 沙特
+{0}od+dn+dujghhtu.oiubjuxli 紙板箱
 {0}od+kgphyn.xmehxe 線画
 {0}od+kwrohnw.osiyji 終焉
 {0}od+kotikr.qioyre 祈愿
@@ -8064,6 +8072,9 @@
 {0}sj+nczbgg.gvioyu 規準
 {0}sj+nkdokgv.ziiyro 資源
 {0}sj+xx,pt+ce+jtykojkyui.bkuxiioiuuueoii 丙烯酯樹脂
+{0}sj+xx,pi+ea+rrdpzkojkvnw.bkuxiisriliepdo 丙烯酸立牌
+{0}sj+xx,pi+kptykojkvn.bkuxiisrioiu 丙烯酸酯
+{0}sj+xx,kpivnkoj.bkuxiisri 丙烯酸
 {0}sj+rf,przxybdgi.gvihxeuuu 规划署
 {0}sj+ueyxbgg.gvimoo 規模
 {0}sj+udnlbgg.gvigeo 規格
@@ -8506,6 +8517,7 @@
 {0}ll.fjmdbwkx.wuejpu 誤解
 {0}lex 咲
 {0}les+l 嗒
+{0}le+bm+jghombmo.qyomauxme 群馬県
 {0}le+ba+ebcle.xiuyhoyho 喜羊羊
 {0}le+nzkvwej.jluyju 講演
 {0}le+nodk.dzeuai 豆沙
@@ -8515,6 +8527,7 @@
 {0}le+xvdfnwku.mzouai 謀殺
 {0}le+tzjvwrk.jbuufe 謹慎
 {0}le+hopwb.xloxie 詳細
+{0}le+mbmomb.qyomau 群馬
 {0}le+mzddrmb.qyolno 群聊
 {0}le+mdxnwsn.huefae 護髪
 {0}le+zzlmzwvy.puujio 譜輯
@@ -8871,6 +8884,7 @@
 {0}la+prwyz.kzuoce 口罩
 {0}la+pr+mkwszcnz.jiozeocve 吉澤翠
 {0}la+puh.ruogou 如果
+{0}la+pa+pt+ca+duyczp.jiotmohveliuxli 吉田恵里香
 {0}la+pa+cs+fuckii.jiotmolkozia 吉田玲子
 {0}la+yd+zkicpc.hvougiuie 回声室
 {0}la+nprzc.jiozeo 吉澤
@@ -9506,6 +9520,7 @@
 {0}ea+yfyt.uiejmi 世間
 {0}ea+nkdok.kdiyro 开源
 {0}ea+nkflk.kdiheo 开河
+{0}ea+rrdpzw.liepdo 立牌
 {0}ea+ruuok.kdijbi 开襟
 {0}ea+rmndlk.kdikoe 开阔
 {0}ea+uu.bg,wdhkrod.kdijbimcoyii 开襟毛衣
@@ -10524,6 +10539,7 @@
 {0}dr+dqdxki.duoufi 独身
 {0}dr+djgxki.duozie 独自
 {0}dr+kumj.uuuyuo 属于
+{0}dr+fjcxki.duojnu 独角
 {0}dup+u 稞
 {0}dur 种
 {0}duf+u 季
@@ -11543,6 +11559,7 @@
 {0}km+ka+ha+ua+jf+pclhmiksfou.yuuqqinvuziaxtoyro 羽丘女子学園
 {0}km+ka+kkgrwk.fwivreyro 非二元
 {0}km+fx+us+dlkrjzsiczx.jxitkojneuii 家庭教師
+{0}km+fx+ju+pclhzsice.jxitkocdeyro 家庭菜園
 {0}km+frsksfg.wwixmu 危険
 {0}km+frskkfg.wwixmu 危险
 {0}km+fuhkd.mzozia 缪子
@@ -12421,6 +12438,7 @@
 {0}ka+frtty.yiijpi 一階
 {0}ka+frcvns.qqilko 丘陵
 {0}ka+fil.yiimko 一名
+{0}ka+jc+olixf.yiijnuuze 一角獣
 {0}ka+jwyhx.zoutvu 左腿
 {0}ka+jl+kf+va+bxyuocpf.bfuthotkixnuiyi 本堂町小春
 {0}ka+jk+xg+wxmwck.yiiwhewuobmi 一望无边
@@ -13129,6 +13147,7 @@
 {0}jr+jv+wsfxefnu.qmoufiyee 前深夜
 {0}jr+jkkr.vroqpu 而且
 {0}ju+bmsb.cduzeo 採択
+{0}ju+pclhe.cdeyro 菜園
 {0}ju+xb,frzkgej.rsojyiyre 荣军院
 {0}ju+tdbkki.ndexke 耐性
 {0}ju+ri+fuede.cdeljozia 菜篮子
