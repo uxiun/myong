@@ -521,8 +521,6 @@
 {0}pr+jxosj.vzurjo 偶然
 {0}pr+jgdgef.mgejme 夢見
 {0}pr+jdgwj.yuejme 遇见
-{0}pu 果
-{1}pu 困
 {0}pu+yfzi.orimfo 専門
 {0}pu+tlgu.kyubci 梱包
 {0}pu+uecnei.zyiyhe 尊様
@@ -1999,6 +1997,7 @@
 {0}xa+jogx.daencu 大脳
 {0}xa+jsktkk.tmifue 天赋
 {0}xa+jddhw.wfomde 文脈
+{0}xa+jk+ya+efsxics.qruosuriekvo 犬塚日葵
 {0}xa+jk+hhokkh.daeofezdi 大震災
 {0}xa+jf+us+ljgvouzx.daextojneyro 大学教員
 {0}xa+jf+cdklou.daextogze 大学垢
@@ -2840,6 +2839,7 @@
 {0}rj+nezjfk.zuuoie 阻滞
 {0}rj+xiscex.ykixso 英雄
 {0}rj+rrtfmt.ybuhre 隠患
+{0}rj+rkw.yuuosi 雨中
 {0}rj+uu.va+wsfxkwuf.yuusfixnuyee 雨森小夜
 {0}rj+uviw.uiessi 市松
 {0}rj+uwcl.dneoue 吊柱
@@ -3516,6 +3516,7 @@
 {0}uf+kwdif.yioxxe 移下
 {0}uf+kw+tdbkdmtzs.wfudkexke 稳定性
 {0}uf+kixmdif.yiodse 移动
+{0}uf+kicdif.yiooie 移至
 {0}uf+jxbdu.jiejyi 季军
 {0}ujk 査
 {0}uj+pdnld.ceelte 策略
@@ -3861,6 +3862,7 @@
 {0}ga+db,xt+fumgs.ujiwwuyzizia 山尾悠子
 {0}ga+dqdg.iuiufi 出身
 {0}ga+dytij.muedea 目的
+{0}ga+dgpkrj.muebio 目鼻
 {0}ga+dskkfg.iuixko 出行
 {0}ga+ds+jx+kk.skkiydndwi.bailiovceyyehve 巴黎奥运会
 {0}ga+ddsny.bailio 巴黎
@@ -5670,6 +5672,7 @@
 {0}zk+dufifzki.oruyio 転移
 {0}zk+djgenv.yjusre 演算
 {0}zk+djlzki.oruxle 転向
+{0}zk+kkonv.yjuuie 演示
 {0}zk+jbzki.oruyse 転用
 {0}zk+jgnv.yjumue 演目
 {0}zk+jg+rz+zvslnvlvfpz.yjuyrooferso 演員陣容
@@ -6081,6 +6084,7 @@
 {0}vj+va+stwle.uhiyeehxe 商业化
 {0}vj+wjkce.qiiwhe 期望
 {0}vj+sc+cx+dbtddoudm.jioivodsewue 脊椎動物
+{0}vj+sc+fiwedui.qiiddewde 期待外
 {0}vj+skkiwl.uhihve 商会
 {0}vj+lllwl.uhipbu 商品
 {0}vj+evwl.uhiyee 商业
@@ -7570,6 +7574,7 @@
 {0}su+fhfse.iaoybu 茶饮
 {0}su+fl+jjtnik.leekeuvde 楽可愛
 {0}sg 仙
+{0}sg+bf,sdbdgxxs.wwirrujme 微软件
 {0}sg+nudndgx.wwiboi 微波
 {0}sg+xbfsdgx.wwirru 微软
 {0}sg+xk+mlrfdgxsle.wwidrujue 微短剧
@@ -8217,6 +8222,7 @@
 {0}lt+txkji.ddedoe 怠惰
 {0}lt+ugti.gjuxlu 感想
 {0}lt+uk+ea+dbjgvsu.zsutiuldokje 总体来看
+{0}lt+gt,wxiu.gjuxluwfo 感想文
 {0}lt+hkwigv.zsutsu 总统
 {0}lt+cx+wlmklidm.gjudsecio 感動詞
 {0}lt+mmlv.zsujuo 总局
@@ -9305,6 +9311,7 @@
 {0}eo+ykjis.wuotjo 無曇
 {0}eo+nu+sdbsd.wuotnojme 無条件
 {0}eo+xx,stswm.wuoxnehxe 無効化
+{0}eo+xfijs.wuotse 無痛
 {0}eo+tixds.wuocju 無惨
 {0}eo+ry+mkhsfh.wuoxmeohu 無限長
 {0}eo+rrps.wuoxqe 無袖
@@ -9646,6 +9653,7 @@
 {0}ix+zitsg.yzihve 优惠
 {0}ix+zfus.fuozie 伏字
 {0}ix+wlosg.yzidmu 优点
+{0}ix+or+nfuhmmrr.yzexyorju 幼馴染
 {0}ix+od+la+hrnshynp.fuoxmehvouzi 伏線回収
 {0}ix+okjstg.yzifjo 忧烦
 {0}ix+ojfur.jluxto 奨学
@@ -9756,6 +9764,7 @@
 {0}im+oco.luozce 炉灶
 {0}im+od+ms+puihyddwdh.hreykulvutro 幻影旅団
 {0}im+od+dn+udfhyddb.hreykubjijii 幻影扳机
+{0}im+okfh.hredgi 幻灯
 {0}im+ojjggh.hrejto 幻覚
 {0}im+sth.hrehxe 幻化
 {0}im+sg+vmdsjdgx.pmiwwiffi 偏微分
@@ -9777,6 +9786,7 @@
 {0}im+kpkkor.mfopne 门票
 {0}im+kcpcb.hueliu 护理
 {0}im+kflyr.jiokeu 即可
+{0}im+kf+rrkrho.hredgipme 幻灯片
 {0}im+ka+rk+kcircbzbw.hueuiepdobji 护士排班
 {0}im+fl+sy+kcrfyrkdki.jiokeudeodce 即可得到
 {0}im+jbsb.huefui 护肤
@@ -10415,6 +10425,7 @@
 {0}dn+scjggzl.keegri 客観
 {0}dn+szl.keerfo 客人
 {0}dn+szjkgz.fgioio 峰值
+{0}dn+swklw.fjuxbe 返信
 {0}dn+skkigz.fgihve 峰会
 {0}dn+sfyspw.tuoxle 图像
 {0}dn+sjsu.piorze 皮肉
@@ -11276,12 +11287,14 @@
 {0}ku+sre.mzugee 某个
 {0}ku+sklrs.yuomke 余命
 {0}ku+iznmi.xyoqqo 寻求
+{0}ku+iw+iltfrf.uuiwdegju 疎外感
 {0}ku+dys.yuobdo 余白
 {0}ku+dure.mzuosu 某种
 {0}ku+dwwdfz.yuuhho 宇航
 {0}ku+kw+kw+kolixzsys.jtodkeuiefzu 决定是否
 {0}ku+koix.jtobue 决不
 {0}ku+fwhis.yuoxmo 余弦
+{0}ku+fiwfr.uuiwde 疎外
 {0}kg 配
 {0}kgk+js 顾
 {0}kg+bzrsji.grijpo 冠捷
@@ -13381,6 +13394,7 @@
 {0}jm.js+db,db,rw+zbzlfdbwctktkfez,puiokekehede 解離性同一性障害
 {0}jm.jdtikk.xtubce 雪豹
 {0}jm.jk+sefibklzkdk.piiliewuu 霹靂舞
+{0}jz+ntgnz.hyodye 渾沌
 {0}jz+nkflwz.yyeheo 運河
 {0}jz+cx+skkiwzdm.yyedsehve 運動会
 {0}jz+cx+ezstwzdm.yyedsexti 運動靴
@@ -13901,6 +13915,7 @@
 {0}.cx ×
 {0}.st ★
 {-}.st ★$SPACE
+{0}anime アニメ
 {0}att #$yyyy年/$mon月/$day日$_#$yyyy年$mon月$_#$yyyy年$_#$mon月$_#$day日$SPACE
 {0}auu ǔ
 {0}auo ǒ

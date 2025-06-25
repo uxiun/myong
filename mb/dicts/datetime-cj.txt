@@ -4,8 +4,8 @@ atd $yyyy$mon0$day0$SPACE
 atg $yyyy-$mon0-$day0T$hour0:$min.$sec$SPACE
 
 atw $yyyy年/$mon月/$day日$SPACE
-ate #$yyyy年$mon月$_#$mon0月$day0日$_#$day日$_#$mon月$_#$yyyy年$SPACE
-atr #$yyyy年$mon0月$day0日$_#$yyyy年$mon月$_#$mon0月$day0日$_#$day日$_#$mon月$_#$yyyy年$SPACE
+ate #$yyyy年$mon月$_#$mon月$day日$_#$day日$_#$mon月$_#$yyyy年$SPACE
+atr #$yyyy年$mon0月$day0日$_#$yyyy年$mon月$_#$mon月$day日$_#$day日$_#$mon月$_#$yyyy年$SPACE
 
 ath $yyyy年$mon月$SPACE
 atm $mon月$day日$SPACE
