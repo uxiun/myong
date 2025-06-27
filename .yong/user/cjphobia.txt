@@ -555,6 +555,7 @@
 {0}pg+jxxr.dmewhu 电网
 {0}pg+jwgxr.dmencu 电脑
 {0}ph+bkhiok.ycesue 要素
+{0}ph+pxk.yceybi 要因
 {0}ph+tyk.yceoiu 要旨
 {0}ph+hotkk.yceyti 要約
 {0}ph+wjkck.ycewhe 要望
@@ -600,6 +601,7 @@
 {0}pm+wlitkkr.mmeuie 面試
 {0}pm+wexkg.pwesse 配送
 {0}pm+wk+zxykgsl.pwexbeoeu 配信者
+{-}pm+suikg.pwefue 配付
 {0}pm+su+zzlmzkgi.pweleejio 配楽輯
 {0}pm+swklkg.pwexbe 配信
 {0}pm+skcfkr.mmedce 面倒
@@ -1125,6 +1127,7 @@
 {0}nu+sdbd.tnojme 条件
 {0}nu+skffd.tnolie 条例
 {0}nu+eprfen.boiloo 菠萝
+{0}nu+kfrfd.tnolpe 条列
 {0}nh 派
 {0}nh+qd+rixbriod.jbuufikue 紧身裤
 {0}nh+qd+wdhriod.jbuufiyii 紧身衣
@@ -1568,6 +1571,7 @@
 {0}xm+hobkvk.gsijii 功績
 {0}xm+hotkzm.xpoyti 協約
 {0}xm+hojkp.njozuu 男組
+{0}xm+hiyhp.njonlo 男娘
 {0}xm+hi+mkkizvix.xpoyiecgo 协议层
 {0}xm+ha+xu+wepwi.njonvudvelie 男女対立
 {0}xm+ha+wlskjp.njonvulye 男女論
@@ -1740,6 +1744,8 @@
 {0}xk+ed,ur+njjjslewgw.drudcesuehxo 短道速滑
 {0}xk+ejons.zoutgo 佐藤
 {0}xk+ihitkzhm.kcuuie 考试
+{0}xk+ia+usf.zouvvamue 佐々木
+{0}xk+ia+ua+bm+weysfekk.zouvvamuexloybi 佐々木翔音
 {0}xk+dbkzl.jieugi 寄生
 {0}xk+dmdkrsle.drusou 短所
 {0}xk+dimjsle.drupmi 短篇
@@ -2317,6 +2323,7 @@
 {0}ta+wlidmr.osiigo 忠誠
 {0}ta+wlkwk.xbioge 心証
 {0}ta+wiszt.biulve 比率
+{0}ta+wjkcc.oiewhe 志望
 {0}ta+ouics.hxeoli 化粧
 {0}ta+ok+rcyckjv.oieyreuui 志願書
 {0}ta+ojfus.hxexto 化学
@@ -4381,6 +4388,7 @@
 {0}cu+uhiiyi.uiojii 時機
 {0}cu+hotks.jioyti 集約
 {0}cu+hocjgbi.iioxue 持続
+{0}cu+hosklyi.uiogwu 時給
 {0}cu+hofdndi.dgujio 等級
 {0}cu+hsi.uienvu 侍女
 {0}cu+hi+kfrfyido.uioxielpe 時系列
@@ -5195,6 +5203,7 @@
 {0}md+fsrkit.qpedje 切蛋
 {0}md+fjmdbv.ffijpu 分解
 {0}md+jbv.ffiyse 分用
+{0}md+jugvv.pboruu 貧乳
 {0}md+js+md+udkrvexv.ffisjeffixii 分散分析
 {0}md+ja+cu+yfydkrxyi.souyzuuiojmi 所有時間
 {0}md+ja+vlfsdkrx.souyzuyue 所有欲
@@ -5532,6 +5541,7 @@
 {0}zv+fjmdbnl.rsojpu 溶解
 {0}zv+jr+ilbkdf.kseoietdo 控制台
 {0}zv+je+tdbknld.rsoxtexke 溶血性
+{0}zw,smiy.oiorfo 職人
 {0}zw,swemiy.oiowwe 職位
 {0}zw,lskfmkl.pieyue 譬喻
 {0}zw,ljgvmiy.oioyro 職員
@@ -6128,6 +6138,7 @@
 {0}va+ymkc.jbiyce 金曜
 {0}va+yd+db,jjtnfrgtk.xnuvroxkevde 小児性愛
 {0}va+ykwsl.oiuuie 只是
+{0}va+nprz.jbizeo 金澤
 {0}va+ntuf.xnuiio 小池
 {0}va+ns+fhzllfwih.xnucjigru 小餐馆
 {0}va+xrfue.gsecyo 共存
@@ -8066,6 +8077,7 @@
 {0}sk+fkskkuk.jmuyje 检验
 {0}sk+fkknfle.dgilue 登录
 {0}sk+jp+dmdkrfxtkg.faidmesou 発電所
+{0}sk+jgyjv.tiomue 題目
 {0}sk+jgdgfxt.faijme 発見
 {0}sk+jgdkf.xkomue 行目
 {0}sk+jh.rf,rizjusziosx.jmusouhzebuu 検索候補
@@ -8123,6 +8135,7 @@
 {0}sj+ecxbgv.zjemwu 賛美
 {0}sj+irfbdg.gvihxe 规划
 {0}sj+idmbgv.zjeigo 賛成
+{0}sj+drjgvkgv.ziioie 資質
 {0}sj+dzzgbgg.gvifje 規範
 {0}sj+dsrbbgg.gvilve 規律
 {0}sj+djrfbgg.gvioie 規制
@@ -8696,6 +8709,7 @@
 {0}lk+vx+ki.pm+mdrjkezfzckg.yjojqiuiepweuuu 研究室配属
 {0}lk+vx+ki.lv.ja+skkikezfzcwlgy.yjojqiuieuoimkohve 研究室説明会
 {0}lk+vx+frzkgkezf.yjojqiyre 研究院
+{0}lk+vx+jf+pclhkezfou.yjojqixtoyro 研究学園
 {0}lk+vx+jf+cl+yf+wrjkezfouphzr.yjojqixtoyrodziuie 研究学園都市
 {0}lk+wxzjs.veotzo 额头
 {0}lk+wlskjwoz.pkolye 評論
@@ -9264,6 +9278,7 @@
 {1}ev 业
 {0}evf+s 欺
 {0}evj 期
+{0}ev+bsye.bketie 並替
 {0}ev+nn.hsouvu 洪水
 {0}ev+nw+skkikd.yaedsihve 亚冬会
 {0}ev+nirrk.yaeozi 亚洲
@@ -9612,6 +9627,7 @@
 {0}ea+djgu.ldozie 来自
 {0}ea+kme.jkuhue 井戸
 {0}ea+kicd.ugioie 升至
+{0}ea+kkjvw.liexle 立項
 {0}ea+kk.sifiiozx.jpeyjolke 戒厳令
 {0}ea+fiwt.uiewde 世外
 {0}ea+fili.jpemko 戒名
@@ -10121,6 +10137,7 @@
 {0}if+mvpyfi.doicgo 多層
 {0}if+md+kedddfiw.doibmixko 多辺形
 {0}if+zp+stfidc.doiosehxe 多重化
+{0}if+zzjs.jbiico 今朝
 {0}if+zojs.jbixni 今宵
 {0}if+zkwsff.yuudke 予定
 {0}if+vb+cx+si+xa+ojfufiiedvf.doimoomwuuuedaexto 多摩美術大学
@@ -11388,6 +11405,7 @@
 {0}kh+vj+yfyme.ohuqiijmi 長期間
 {0}kh+wpchb.bnuliu 表裏
 {0}kh+wxb.bnudao 表达
+{0}kh+wxm.ohuwfo 長文
 {0}kh+wlmgb.bnujie 表記
 {0}kh+weyb.bnuybi 表音
 {0}kh+op+zv+cp+krrkmhrgivkc.ohuugomaoliuyae 長縄麻理亜
@@ -11934,6 +11952,7 @@
 {0}kd+va+kozmy.xiojbipko 習金平
 {0}kd+wxmlnl.luebmi 路边
 {0}kd+wegkjhnw.osidri 终端
+{0}kd+od+pwxlnlhyn.luexmetuo 路線図
 {0}kd+sbmxfxr.jnivce 骄傲
 {0}kd+svslmy.xiosuo 習俗
 {0}kd+sizllzv.bbigru 賓館
@@ -12191,6 +12210,7 @@
 {0}kf+sfvmds.qieffi 气氛
 {0}kf+lgexl.qioyie 奇异
 {0}kf+lkwrvxl.qiojii 奇跡
+{0}kf+la+jgslp.heohvomue 何回目
 {0}kf+ecelks.cieuje 次善
 {0}kf+ev+oufuxlk.qioyaeziu 奇亚籽
 {0}kf+edygxl.qiopai 奇葩
