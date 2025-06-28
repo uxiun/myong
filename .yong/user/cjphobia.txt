@@ -2530,6 +2530,7 @@
 {0}rm+uk+ra+wxdys.jmutiuosiwfo 简体中文
 {0}rm+uf+ixmidydo.jmuigiwwe 简称为
 {0}rm+hosjrkj.gvinae 帰納
+{0}rm+zdtrkj.gviodo 帰宅
 {0}rm+zkmsrkj.gvijxi 帰家
 {0}rm+vpzdy.jmudji 简单
 {0}rm+wprhrkj.gvihdo 帰還
@@ -10387,6 +10388,7 @@
 {0}dy+bgw.poejii 迫击
 {0}dy+bmznb.pdiuee 拍摄
 {0}dy+pxko.yroybi 原因
+{0}dy+prrkwko.yrozve 原罪
 {0}dy+ylob.pdioce 拍照
 {0}dy+ye+om+if+tk+ejvkoonhgsti.yrobcejienmeuiedmu 原爆紀念式典
 {0}dy+tmdw.poeqpe 迫切
