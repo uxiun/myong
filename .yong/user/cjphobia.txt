@@ -601,7 +601,6 @@
 {0}pm+wlitkkr.mmeuie 面試
 {0}pm+wexkg.pwesse 配送
 {0}pm+wk+zxykgsl.pwexbeoeu 配信者
-{-}pm+suikg.pwefue 配付
 {0}pm+su+zzlmzkgi.pweleejio 配楽輯
 {0}pm+swklkg.pwexbe 配信
 {0}pm+skcfkr.mmedce 面倒
@@ -1909,6 +1908,7 @@
 {0}xa+ojfuw.wfoxto 文学
 {0}xa+ojfu.daexto 大学
 {0}xa+oa+kcrfwk.daobuedce 达不到
+{0}xa+sp+yyw.daehverie 大晦日
 {0}xa+sxk.daezou 大佐
 {0}xa+sx+ca+ecdbivucw.fueqroouuyie 父権主義
 {0}xa+st 文化
@@ -4904,6 +4904,7 @@
 {0}mm.yevj.tuixmu 凸显
 {0}mm.hofygb.juejto 拒絶
 {0}mm.vn+rj+xiscjwex.tuibmeykixso 凸变英雄
+{0}mm.owcbo.juedao 炬燵
 {0}mm.il+ua+terzfk.wfomkoyuouie 闻名于世
 {0}mm.kolb.juefzu 拒否
 {0}mm.fuikk.ujezia 扇子
@@ -7486,6 +7487,7 @@
 {0}sxl 知
 {0}sxf 仇
 {0}sx+pdnlk.gsilte 攻略
+{0}sx+nb+tdbkkz.gsijiixke 攻撃性
 {0}sx+xxvom.yiilno 医療
 {0}sx+xmuc.qrolie 権力
 {0}sx+xksjx.jiobke 疾病
@@ -12452,6 +12454,7 @@
 {0}ka+lmkjvw.uhevee 上顎
 {0}ka+lf+jxxkwr.vrebuewhu 二部网
 {0}ka+ebjgw.uheoea 上着
+{0}ka+en+zrknki.vredueqbu 二度寝
 {0}ka+esmgw.uhechi 上苍
 {0}ka+ee,djrfkw.vrejbeoie 二进制
 {0}ka+ie+udfiunn.bfuduefgi 本渡楓
