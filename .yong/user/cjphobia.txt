@@ -512,6 +512,7 @@
 {0}pr+eeb.yaijku 押井
 {0}pr+ea+zuibe.yaijkuuzu 押井守
 {0}pr+ihdkwr.ufisue 申诉
+{0}pr+ivdgief.mgemoo 夢魔
 {0}pr+dl+ebmkkefwl.mgeovixlo 夢追翔
 {0}pr+kcrfwj.yuedce 遇到
 {0}pr+kk.mkhkfsi.fuehveohu 副会長
@@ -2549,6 +2550,7 @@
 {0}rm+kurk.gviyuo 归于
 {0}rz+bfjxpjk.oiehre 置換
 {0}rz+riphoft.tooloo 陀螺
+{0}rz+cykdpjk.oieihu 置場
 {0}rz+zvslfpz.oferso 陣容
 {0}rz+wscfkg.yrejbe 院進
 {0}rz+wlitkfkg.yreuie 院試
@@ -3176,6 +3178,7 @@
 {0}uw+bzndz.keijie 科技
 {0}uw+nezjol.ojioie 粘滞
 {0}uw+xk+dwdfldzzhm.keikcuiro 科考船
+{0}uw+tdbkol.ojixke 粘性
 {0}uw+ua+srimfhsf.hdoziamfa 孩子们
 {0}uw+hodynsz.xpoxme 斜線
 {0}uw+himdz.keihre 科幻
@@ -13418,6 +13421,7 @@
 {0}jm.ncifdb.jpufau 解法
 {0}jm.nojfdb.jpuxni 解消
 {0}jm.un+llixlfdbdb.jpuuieqie 解释器
+{0}jm.ux+dujfdbn.jpujtocee 解決策
 {0}jm.ueejfdb.jpugze 解構
 {0}jm.udggkk.xtuqni 雪橇
 {0}jm.udkrfdb.jpuxii 解析
