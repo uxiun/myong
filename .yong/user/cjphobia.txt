@@ -1825,6 +1825,7 @@
 {0}xa+xa+kf+lkfflf.daedaelpulpu 大大咧咧
 {0}xa+tu+jr+zjkpcdf.ybidieoieyio 因地制宜
 {0}xa+tmde.griqpe 关切
+{0}xa+tlw.wfojue 文句
 {0}xa+te.grixbi 关心
 {0}xa+tdbkk.tmixke 天性
 {0}xa+tf,ykwsesxb.grijmeuie 关键是
@@ -4068,6 +4069,7 @@
 {0}hs+kyox.uuebdu 数百
 {0}hs+kcpcox.uueliu 数理
 {0}hs+kcpcit.lyeliu 论理
+{0}hs+kwrkmx.gduoge 改正
 {0}hs+klfhkox.uuemau 数码
 {0}hs+kktmx.gduvee 改悪
 {0}hs+fu+ui+kk.hl+dsuioxznuoiv.uueziedvebniuiofuo 数字对象标识符
@@ -4592,6 +4594,7 @@
 {0}ci+rrkjn.fauuii 法师
 {0}ci+ukzkzn.qqogji 球杆
 {0}ci+ukjr.jnubfu 脚本
+{0}ci+hs+kwrknmx.faugduoge 法改正
 {0}ci+hkfdnkrc.bjijio 班级
 {0}ci+zu+rgkrcl.bjiwwevro 班味儿
 {0}ci+zhun.fauvje 法案
@@ -7632,6 +7635,7 @@
 {0}sh+przjkdin.hzeoie 後置
 {0}sh+ywlodin.hzejku 後景
 {0}sh+ya+wloodin.hzerietjo 後日談
+{0}sh+tspwdin.hzehvu 後悔
 {0}sh+rgj.ykivro 婴儿
 {0}sh+rz+rs+sisrjdinpjksd.hzeoiexqiuie 後置修飾
 {0}sh+rwzpzdin.hzebwe 後輩
@@ -8627,6 +8631,7 @@
 {0}li+su+eplxli.qieleequi 器楽曲
 {0}li+ssmwtk.uiezoe 試作
 {0}li+sklwtk.uieheo 試合
+{0}li+ebjgwtk.uieoea 試着
 {0}li+evk.kleyee 矿业
 {0}li+isulxl.qielee 器楽
 {0}li+dn+kl+sm+oa+sobwplsss.ojelteheozoehoubje 战略合作伙伴
@@ -10378,6 +10383,7 @@
 {0}dq+zjhiobn.szisou 搜索
 {0}dq+ssmbn.szizoe 搜作
 {0}dq+dt+bs,da+ncibnxlxkfs.szigzuuuiruefau 搜狗输入法
+{0}dq+kcrfbn.szidce 搜到
 {0}dpk+hm 粤
 {0}dp+przjkd.lqooie 留置
 {0}dp+nwigd.lqolqo 留流
@@ -12933,6 +12939,7 @@
 {0}fk+uwcdri.fgioue 風柱
 {0}fk+ui+wkwfjss.yuefuekau 预付卡
 {0}fk+udnldri.fgigeo 風格
+{0}fk+ujrfdri.fgicie 風刺
 {0}fk+gd+is+kkdrijgxc.fgijmexsovre 風見雄二
 {0}fk+hilye.kdiuiu 開始
 {0}fk+ms+itkyewx.kdifheuie 開放式
@@ -12977,6 +12984,8 @@
 {0}fk+fkfikjg.cveroe 脆弱
 {0}fk+jprisx.hzojto 侯爵
 {0}fk+jr+ejufjsdf.yueoiecde 预制菜
+{0}fk+jr+kgpdriuf.fgiciehxe 風刺画
+{0}fk+jl+ncidriodl.fgiykofau 風営法
 {0}fk+jfkgjg.cvecve 脆脆
 {0}ff,zkfw.lnonko 辽宁
 {0}ff,sfebssk.qkiyhu 氢氧
@@ -13961,6 +13970,7 @@
 {0}ja+kp+bk+dbtddxbwid.yzuduougiwue 有毒生物
 {0}ja+kxy.mkotmi 明天
 {0}ja+kuuk.ytelie 月歴
+{0}ja+kgpo.xnehxe 肖画
 {0}ja+kcpcx.yzuliu 有理
 {0}ja+kcizn.yteqqo 月球
 {0}ja+klsjcy.mkoqte 明確
