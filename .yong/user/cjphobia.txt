@@ -840,6 +840,7 @@
 {0}yg+klmbof.seemau 色碼
 {0}yg+klfhkf.seemau 色码
 {0}yg+kj+sefibeep.bailwuwuu 芭蕾舞
+{0}yg+fif.seevva 色々
 {0}yg+judddf.seecdu 色彩
 {0}yh+bmzlu.gfijue 根据
 {0}yh+nzzjw.tveico 退潮
@@ -2965,6 +2966,7 @@
 {0}ra+wrk.osioiu 中止
 {0}ra+wh+mlebus.osiheoqyo 中核群
 {0}ra+ww,pa+ybkjprx.jxufwutmoqko 甲斐田晴
+{0}ra+wsku.osituo 中途
 {0}ra+wdm.osifhi 中方
 {0}ra+ohsxf.ybuuue 引数
 {0}ra+ojfu.osixto 中学
@@ -6086,6 +6088,7 @@
 {0}vk+cf,na+eyjzpif.ksiyeuuvumgo 空野水萌
 {0}vk+zipevzhd.iridde 穿戴
 {0}vk+wtevz.ksixui 空虚
+{0}vk+ouvmdil.mooffu 磨粉
 {0}vk+si+cu+zvkzhdchyi.iriyteuioksi 穿越時空
 {0}vk+sfxz.ksiqie 空気
 {0}vk+ebjgzhd.irioea 穿着
@@ -8857,6 +8860,7 @@
 {0}lj+hi+ijttwlui.gcijiingo 高機能
 {0}lj+hi+fpozds.huogxiyuo 胡瓜魚
 {0}lj+ha+yuiwgz.hcovjiuio 毫安时
+{0}lj+cydwcl.dneugi 調声
 {0}lj+cu+iw+br,dmdkrwldizdhof.gcidgucdopjesou 高等裁判所
 {0}lj+ccvpwl.gciqlo 高墙
 {0}lj+csmgwg.lleqiu 亮起
@@ -11372,6 +11376,7 @@
 {0}kg+cl+xksjwouj.iiuozibke 歯周病
 {0}kg+zzjk.yroico 元朝
 {0}kg+zf+ly+ijttrsbrs.ocebhioiengo 兆邦智能
+{0}kg+vk+ouvmdwouil.iiumooffu 歯磨粉
 {0}kg+va+wlvlgkf.yroxnuuoi 元小説
 {0}kg+wlevyo.glipuu 光譜
 {0}kg+ojfuo.glixto 光学
@@ -11381,6 +11386,7 @@
 {0}kg+sfxk.yroqie 元気
 {0}kg+ezojk.yroqne 元鞘
 {0}kg+efskwou.iiujki 歯茎
+{0}kg+ivklwou.iiumoo 歯磨
 {0}kg+iojkk.yrozuu 元祖
 {0}kg+ku+zrpkz.yroyuuoze 元宇宙
 {0}kg+kh+wlmgkb.yrobnujie 元表記
@@ -11632,6 +11638,7 @@
 {0}km+kk.wlkklrwwl.fwiyjoyuu 非言語
 {0}km+kjpgzs.jxidme 家電
 {0}km+ka+ha+ua+jf+pclhmiksfou.yuuqqinvuziaxtoyro 羽丘女子学園
+{0}km+ka+drjgvrwu.fwibfuoie 非本質
 {0}km+ka+kkgrwk.fwivreyro 非二元
 {0}km+fx+us+dlkrjzsiczx.jxitkojneuii 家庭教師
 {0}km+fx+ju+pclhzsice.jxitkocdeyro 家庭菜園
@@ -13770,6 +13777,7 @@
 {0}jf+rk+kgpbmuw.jkeoiuhxe 静止画
 {0}jf+uwvxou.xtoxne 学校
 {0}jf+ga+ulkdm.wueujixke 霧山杏
+{0}jf+hofdnou.xtojio 学級
 {0}jf+cx+va+hs+lo.ohsxnudmfoxw.fuodsexnuuuedmuuue 浮動小数点数
 {0}jf+cx+va+lo.hs+kfcnudmfwox.fuodsexnudmuuuexko 浮動小数点数型
 {0}jf+cl+mkhouph.xtoyroohu 学園長
@@ -13788,6 +13796,7 @@
 {0}jf+wknu.fuouhe 浮上
 {0}jf+wkou.xtouhe 学上
 {0}jf+oxkjvou.xtolwe 学類
+{0}jf+of+skkiouhdn.xtojiohve 学級会
 {0}jf+sbou.xtonmo 学年
 {0}jf+srsdou.xtoxqi 学修
 {0}jf+sw,udnedjl.jmutpibju 剪贴板
