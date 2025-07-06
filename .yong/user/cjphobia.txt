@@ -1326,6 +1326,7 @@
 {0}na+wlkwkd.fjuoge 反証
 {0}na+wlkkld.fjuyuu 反語
 {0}na+wepg.uvulso 水竜
+{0}na+wedg.uvudce 水道
 {0}na+wd+evjdbf.fjukheqii 反抗期
 {0}na+oz+hodynk.uvupkoxme 水平線
 {0}na+odjgd.fjuugu 反省
@@ -1338,6 +1339,7 @@
 {0}na+ebjg.uvuoea 水着
 {0}na+epui.bkigou 氷菓
 {0}na+ezccn.ulixpo 双鞋
+{0}na+ed,udxjwg.uvudceqno 水道橋
 {0}na+ekte.uvuzhe 水葬
 {0}na+ixd.fjuyie 反义
 {0}na+itd.fjuyki 反応
@@ -2810,6 +2812,7 @@
 {0}rk+ffflj.geolea 隔了
 {0}rk+jxoli.svirjo 虽然
 {0}rk+jclj.yroozi 円周
+{0}rk+jvvpywv.yiozge 遺贈
 {0}rk+jvlgws.tcotoi 逃脱
 {0}rk+jv+sk+zkwsrrsfus.pmeceejmudke 片側検定
 {0}rk+js+kjujgfljwc.geoliouli 隔離霜
@@ -6449,6 +6452,7 @@
 {0}wm+hu.pkkgnud.yzoleeyro 游乐园
 {0}wm+mijggwu.yzolju 遊覧
 {0}wm+mkwszrkk.fwucve 翡翠
+{0}wm+zxywu.yzooeu 遊者
 {0}wm+zkkgjk.xpuwjo 写完
 {0}wm+zfujk.xpuzie 写字
 {0}wm+zjkvjk.xpuofi 写真
@@ -7676,6 +7680,7 @@
 {0}sc+ra Scrapbox$_
 {0}sc+uyfpdui.ddeljo 待欄
 {0}sc+uxkls.zoeyiu 坐椅
+{0}sc+uhiidui.ddejii 待機
 {0}sc+uiic.dvioje 堆棧
 {0}sc+uk+oj+op+jtlgvsiggh.ovitiuuiexiebci 錐体視細胞
 {0}sc+uf+dsrbbdif.tviyiolve 推移律
@@ -7685,6 +7690,7 @@
 {0}sc+hhpuo.qteico 雀巢
 {0}sc+hofdnw.jbejio 進級
 {0}sc+hisn.njoyiu 难以
+{0}sc+hi+kfrfduiui.ddejiilpe 待機列
 {0}sc+cp+va+wlvlgbkcf.tviliuxnuuoi 推理小説
 {0}sc+cu+kfcduiyi.ddeuioxko 待時型
 {0}sc+mehw.jbeoju 進展
@@ -9274,6 +9280,7 @@
 {0}eh+kem.ojukdi 展开
 {0}eh+kkom.ojuuie 展示
 {0}eh+fhzllm.ojugru 展馆
+{0}ec+ua+jgdgunf.yheziajme 様子見
 {0}ec+lllun.yhepbu 様品
 {0}ec+itkun.yheuie 様式
 {0}ec+itksi.yiouie 儀式
@@ -9806,6 +9813,7 @@
 {0}ic+sifk.oiejbi 至今
 {0}ic+ka+ca+ecdbikww.oieuheouuyie 至上主義
 {0}ic+fifik.oiedoi 至多
+{0}imj.e 盛
 {0}im+ycuiyr.jiouio 即時
 {0}im+yodddh.hreyku 幻影
 {0}im+ya+lw+ejvhdez.hrerieciodmu 幻日辞典
@@ -11401,6 +11409,7 @@
 {0}kh+nuxb.bnujto 表決
 {0}kh+nzkvb.bnuyju 表演
 {0}kh+nkm.ohujli 長江
+{0}kh+xm.ohudae 長大
 {0}kh+xk+xx,temglxx.ohuqiouluuie 長崎爽世
 {0}kh+xk+wrjmgl.ohuqiouie 長崎市
 {0}kh+xk+jghomgl.ohuqioxme 長崎県
@@ -13830,6 +13839,7 @@
 {0}jj.nrksg.bgikve 崩溃
 {0}jj.xd,mkhjfwk.guuyjoohu 骨延長
 {0}jj.tmdj.guuqpe 骨切
+{0}jj.tkklogg.jtowue 覚悟
 {0}jj.rcyogg.jtouui 覚書
 {0}jj.uvfdnj.hxotii 滑梯
 {0}jj.udnnj.hxobju 滑板
