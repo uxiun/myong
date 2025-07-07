@@ -2281,6 +2281,7 @@
 {0}tk+djlsv.qkixle 傾向
 {0}tk+kck.jyiyii 均一
 {0}tf 忆
+{0}tj+btlgr.bwebce 背抱
 {0}tj+ywlor.bwejku 背景
 {0}tj+ysts.yceuia 钥匙
 {0}tj+tlgr.bwebci 背包
@@ -3302,6 +3303,7 @@
 {0}ui+ztdgd.siimie 私密
 {0}ui+zhud.siivje 私案
 {0}ui+zldgy.jiiguu 稽古
+{0}ui+vfkns.fuelue 付録
 {0}ui+vj+dytiwe.goeqiidea 过期的
 {0}ui+wxrrn.dveqio 对齐
 {0}ui+wttw.goelve 过虑
@@ -3435,6 +3437,7 @@
 {0}ud+ik.iocjddr.cduhsouee 彩虹社
 {0}ud+ififdbs.oiexue 秩序
 {0}ud+dbcuinn.boitee 波特
+{0}ud+dbkwkr.xbiugi 新生
 {0}ud+dqjvwkr.xbixke 新興
 {0}ud+drjgvwkr.xbioie 新質
 {0}ud+dr+jk+nwvhfhsxkibg.guiduoycogyu 孤独揺滾
@@ -4563,6 +4566,7 @@
 {0}cl+sbj.ozinmo 周年
 {0}cl+sxlj.ozioii 周知
 {0}cl+evjj.oziqii 周期
+{0}cl+ekkiph.yroyyo 園芸
 {0}cl+ihdkwd.gcesue 告诉
 {0}cl+dyd.gcebdo 告白
 {0}cl+dn+dx,jskkhlud.xiipioxnelmu 嬉皮笑脸
@@ -7001,6 +7005,7 @@
 {0}ov.dlrjhit.zsuuke 総帥
 {0}ow+nilhig.tsuoie 統治
 {0}ow+tmdhjj.dieqpe 締切
+{0}ow+tlghdz.fgebci 縫包
 {0}ow+gxklflo.jkiqio 鯨崎
 {0}ow+hotkhjj.dieyti 締約
 {0}ow+mr+ydbkhiyhr.oiijiixki 織姫星
@@ -7081,6 +7086,7 @@
 {0}oi+scuhmj.bmijio 編集
 {0}oi+slummj.pmebcu 騙保
 {0}oi+sdcwxg.jqerfe 就任
+{0}oi+lm+llixlhmjws.bmiyieqie 編訳器
 {0}oi+lkhmhmj.bmihce 編号
 {0}oi+ephmj.bmiqui 編曲
 {0}oi+eveuwxg.jqeyee 就業
@@ -11832,6 +11838,7 @@
 {0}kl+ycuij.tsouio 同時
 {0}kl+yoddds.heoyku 合影
 {0}kl+yskjvsr.mketio 命題
+{0}kl+ncis.heofau 合法
 {0}kl+nwigs.heolqo 合流
 {0}kl+njklg.yjodse 岩洞
 {0}kl+xa+ka+wv+kphzpwubj.fuewfobfuodiyce 富文本摘要
