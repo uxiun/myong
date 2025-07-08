@@ -1764,6 +1764,7 @@
 {0}xk+fuul.yiuzia 椅子
 {0}xk+jwjr.odiyte 斋月
 {0}xk+jo+ds+zusxsenkc.zoutgoyaujne 佐藤雅教
+{0}xk+jesle.drucee 短冊
 {0}xf 九
 {0}xfu 끚
 {0}xfl 끗
@@ -5925,6 +5926,7 @@
 {0}vt+ia+iifrwx.lmetdelho 恋太郎
 {0}vt+dbtddw.lmewue 恋物
 {0}vt+klfsw.lmegei 恋歌
+{0}vt+jt+bx,wsrfwjnz.lmevdeuiojue 恋愛実劇
 {0}vt+jt+le+wsrfwjncl.lmevdexiujue 恋愛喜劇
 {0}vt+jk+va+eprfwcsf.lmeosuxnumge 恋塚小夢
 {0}vt+jjtnw.lmevde 恋愛
@@ -5976,6 +5978,7 @@
 {0}vs+ykpczl.rsolle 容量
 {0}vs+rktjx.bdebwu 敗北
 {0}vs+zxyjx.bdeoeu 敗者
+{0}vs+wlkklsl.suoyuu 俗語
 {0}vs+wdhnl.yueyii 浴衣
 {0}vs+ozijx.bdeoje 敗戦
 {0}vs+llixlzl.rsoqie 容器
@@ -9597,6 +9600,7 @@
 {0}ea+nkdok.kdiyro 开源
 {0}ea+nkflk.kdiheo 开河
 {0}ea+xmvk.kdibje 开办
+{0}ea+teu.ldouie 来世
 {0}ea+rrdpzw.liepdo 立牌
 {0}ea+ruuok.kdijbi 开襟
 {0}ea+rmndlk.kdikoe 开阔
