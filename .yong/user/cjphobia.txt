@@ -1696,7 +1696,9 @@
 {0}xd,dm+ua+ku+bwehvkrfs.fuundumueyuojpi 斧乃木余接
 {0}xd,dsykiex.hoedeo 获得
 {0}xd,kwrksxj.jnuoge 矯正
+{0}xd,ks+ojldgiddkx.cjiogedhu 参政党
 {0}xd,kdyoeo.dioyro 荻原
+{0}xd,kksxidd.cjioge 参政
 {0}xkf+l 奇
 {0}xk+bdtzl.jietoi 寄托
 {0}xk+bk+olixzld.jieugiuze 寄生獣
@@ -7012,6 +7014,8 @@
 {0}ow+gxklflo.jkiqio 鯨崎
 {0}ow+hotkhjj.dieyti 締約
 {0}ow+mr+ydbkhiyhr.oiijiixki 織姫星
+{0}ow+zzskjmc.ouelyo 駐輪
+{0}ow+zs,cykdmczkj.ouelyoihu 駐輪場
 {0}ow+wlzhig.tsujie 統計
 {0}ow+wlkklhig.tsuyuu 統語
 {0}ow+weyhdm.fhuybi 紡音
@@ -7481,6 +7485,7 @@
 {0}sy+wsfxmk.ozeyee 昼夜
 {0}sy+wlodki.deodmu 得点
 {0}sy+weytdki.deoyie 得意
+{0}sy+opzdki.deodji 得単
 {0}sy+ou+uvfddguh.paolzotii 爬楼梯
 {0}sy+ohsxrn.fueuue 複数
 {0}sy+oddh.hfuucu 很少
