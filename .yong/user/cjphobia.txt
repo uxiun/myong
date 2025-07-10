@@ -21,6 +21,7 @@
 {0}bx,bkhz.uiobnu 実表
 {0}bx,bk+ndzlzd.uiougihoo 実生活
 {0}bx,ycuiz.uiouio 実時
+{0}bx,nzkvz.uioyju 実演
 {0}bx,nldgz.uiokle 実況
 {0}bx,xrcz.uiozde 実在
 {0}bx,xrfuz.uiocyo 実存
@@ -36,6 +37,7 @@
 {0}bx,mosksz.uioyje 実験
 {0}bx,mkdyz.uioxio 実習
 {0}bx,zkmsz.uiojxi 実家
+{0}bx,zk+wsrfznv.uioyjujue 実演劇
 {0}bx,wlkwkz.uiooge 実証
 {0}bx,wedgxf.gvudce 轨道
 {0}bx,sukz.uiotiu 実体
@@ -942,6 +944,7 @@
 {0}yd+fygc.ugisee 声色
 {0}yd+frykddcl.hceyho 皓陽
 {0}yd+frskufg.mmuiuo 免除
+{0}yd+jk+shisczv.ugiofiuie 声真似
 {0}yk 星
 {0}ykj+i 曇
 {0}yk+yy.zxybsl.tioiheoeu 提唱者
@@ -2299,6 +2302,7 @@
 {0}tj+dshinr.bwehze 背後
 {0}tj+kpmrr.bwemme 背面
 {0}ta+bk+dm+kixmtjnx.xbiqkojiidse 心情激动
+{0}ta+bjkni.ykiyro 応援
 {0}ta+ba+bk+xy+li+mosksijtjzwtk.ykiyseqkooeuuieyje 応用情報技術者試験
 {0}ta+pt.xbisii 心思
 {0}ta+nkdop.siiyro 思源
@@ -2371,6 +2375,7 @@
 {0}ta+jp+pwxkg.xbidmetuo 心電図
 {0}ta+jum.niocdu 尼采
 {0}ta+jeim.xbizhe 心臓
+{0}ta+jk+ka+yrjxibnw.ykiyrouheyke 応援上映
 {0}r 中
 {0}rb,nudnn.jbiboi 津波
 {0}rb,ggn.jbiiui 津出
@@ -3256,6 +3261,7 @@
 {0}ul+ufdndv.jiijio 积极
 {0}ul+cu+sklds.heojioheo 和集合
 {0}ul+ce+uudkcui.igouuelbo 程樹林
+{0}ul+wh+sc+dskkfdfiw.heoxmojbexko 和弦進行
 {0}ul+wlmsd.heoyie 和訳
 {0}ul+wlkkld.heoyuu 和語
 {0}ul+weyd.heoybi 和音
@@ -3267,6 +3273,7 @@
 {0}ul+dubkvd.heojii 和積
 {0}ul+dfkrid.heofgi 和風
 {0}ul+kozd.heopko 和平
+{0}ul+fwhid.heoxmo 和弦
 {0}ul+fi+tlgdkcif.igoxuebci 程序包
 {0}ul+fi+izpzdkcif.igoxuekue 程序庫
 {0}ul+fjmdbd.heojpu 和解
@@ -12374,6 +12381,7 @@
 {0}ka+ba+jwo.uhebjeyte 上半月
 {0}ka+pzjgv.yiigre 一貫
 {0}ka+pa+kj+xkkowkjt.uhetmoliende 上田麗奈
+{0}ka+yrjxw.uheyke 上映
 {0}ka+ycui.yiiuio 一時
 {0}ka+yskjvu.bfutio 本題
 {0}ka+ydew.uheugi 上昇
@@ -12603,6 +12611,7 @@
 {0}fx+rf,vd+stssxwn.qiehzebmehxe 気候変化
 {0}fx+rf,vd+dcxmssxwn.qiehzebmedse 気候変動
 {0}fx+gu+weyswi.qiedcuybi 気導音
+{0}fx+hofygs.qiejto 気絶
 {0}fx+hfubc.tkuhcu 挺好
 {0}fx+md+rw+zbzlsvfez.qieffiohehde 気分障害
 {0}fx+md+zk+bfjxsvzki.qieffioruhre 気分転換
@@ -13754,6 +13763,7 @@
 {0}jk+wegkjkki.yyodri 雲端
 {0}jk+wdmzk.oiofhi 直方
 {0}jk+su+wlfrsvi.jueleebue 俱楽部
+{0}jk+shiszv.ofiuie 真似
 {0}jk+scjggzk.oiogri 直観
 {0}jk+sixozv.ofiwwu 真偽
 {0}jk+ecxzv.ofimwu 真美
