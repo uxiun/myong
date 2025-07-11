@@ -2102,6 +2102,7 @@
 {0}tu+wa+nck.diexxeuvu 地下水
 {0}tu+wa+vdbsck.diexxeoio 地下鉄
 {0}tu+oubkjc.diejki 地精
+{0}tu+ojfuc.diexto 地学
 {0}tu+stwdhn.iiodde 池袋
 {0}tu+srimh.taimfa 她们
 {0}tu+srims.taimfa 他们
@@ -7355,6 +7356,7 @@
 {0}oa+wimj.houbme 火遍
 {0}oa+wko.yjouhe 炎上
 {0}oa+ob+xa+dhiosse.houbjegrixie 伙伴关系
+{0}oa+op+krkkh.buexiegsi 不細工
 {0}oa+omm.houjue 火炬
 {0}oa+omkk.buedhi 不当
 {0}oa+oz+dcuikk.buepkodgu 不平等
@@ -8186,6 +8188,7 @@
 {0}sj+jvrfbgg.gvizeo 規則
 {0}sj+jvizie.dcezwo 盗賊
 {0}sj+jkxmis.ziioue 资助
+{0}sj+jklbgv.zjetso 賛同
 {0}sa+bljvf.qmesyu 欠損
 {0}sa+pcfiff.jquyeu 久野
 {0}sa+yw+mxdyofdg.jqudcuvzi 久島鴎
@@ -11593,6 +11596,7 @@
 {0}kc+klzi.bcuuio 宝石
 {0}kc+kk.lu+wlskjpisiwi.goohvetculye 国会討論
 {0}kc+kjspwsf.dcemwo 倒霉
+{0}kc+kj+zkwssw.qrokfudke 全肯定
 {0}kc+frwdmpi.goofho 国防
 {0}kc+frkkopi.goojie 国际
 {0}kc+frjsopi.goojie 国際
