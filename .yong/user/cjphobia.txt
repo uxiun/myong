@@ -3378,6 +3378,7 @@
 {0}ud+rydgfhs.guivro 孤児
 {0}ud+rrkrjdd.cdupme 彩片
 {0}ud+rcywkr.xbiuui 新書
+{0}ud+rcwdhwkr.xbioli 新装
 {0}ud+rmmzwkr.xbiwfo 新闻
 {0}ud+rz+it+wlddiwkrfpzs.xbiofeddexpe 新陣代謝
 {0}ud+rikjdd.cduhso 彩虹
@@ -5377,6 +5378,7 @@
 {0}zp+wlodc.osedmu 重点
 {0}zp+wlkklwz.lmoyuu 連語
 {0}zp+weydc.oseybi 重音
+{0}zp+wdhwz.lmoyii 連衣
 {0}zp+oc+tdbkwzhjg.lmoxuexke 連続性
 {0}zp+od+dcdgwzhnl.lmoloexmi 連絡先
 {0}zp+ojfujz.jyixto 軍学
@@ -8881,6 +8883,7 @@
 {0}lj+ufmdz.huoyho 胡杨
 {0}lj+ujgwg.llexli 亮相
 {0}lj+ujkwcl.dneoai 調査
+{0}lj+gp+drjgvwlk.gcihxeoie 高画質
 {0}lj+ggwl.gciiui 高出
 {0}lj+gwl.gciuji 高山
 {0}lj+gs+stwlwii.gcilkohxe 高齢化
