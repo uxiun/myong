@@ -1680,6 +1680,7 @@
 {0}xd,xmlidd.cjijxi 参加
 {0}xd,xk+xa+zjixiddzhmw.cjikcuwfoxme 参考文献
 {0}xd,xk+rcyiddzhm.cjikcuuui 参考書
+{0}xd,rz+wlgviddfkg.cjiyrexru 参院選
 {0}xd,gsiibu.qbolku 秦岭
 {0}xd,hkzfxfwk.yjoxue 延续
 {0}xd,mznex.hoequu 获取
@@ -1694,6 +1695,7 @@
 {0}xd,skkiidd.cjihve 参会
 {0}xd,sk+ydbksuhdkf.vduxkoxki 矮行星
 {0}xd,sjsjyo.jiirze 鷄肉
+{0}xd,le+frzkgiddwci.cjiyieyre 参議院
 {0}xd,dy+sj+fueokobgg.dioyrogvizia 荻原規子
 {0}xd,dm+uvkrf.fuundumue 斧乃木
 {0}xd,dm+ua+ku+bwehvkrfs.fuundumueyuojpi 斧乃木余接
@@ -1702,6 +1704,7 @@
 {0}xd,ks+ojldgiddkx.cjiogedhu 参政党
 {0}xd,kdyoeo.dioyro 荻原
 {0}xd,kksxidd.cjioge 参政
+{0}xd,frzkgidd.cjiyre 参院
 {0}xkf+l 奇
 {0}xk+bdtzl.jietoi 寄托
 {0}xk+bk+olixzld.jieugiuze 寄生獣
@@ -8606,6 +8609,7 @@
 {0}ll.durl.pbuosu 品种
 {0}ll.dudzcl.pbuosu 品種
 {0}ll.fjmdbwkx.wuejpu 誤解
+{0}ll.jbwkx.wueyse 誤用
 {0}lex 咲
 {0}les+l 嗒
 {0}le+bm+jghombmo.qyomauxme 群馬県
@@ -8651,6 +8655,7 @@
 {0}le+dsubfwsn.huewwe 護衛
 {0}le+dlekdk.tmotmo 甜甜
 {0}le+dlkrjwej.jluuii 講師
+{0}le+frzkgwci.yieyre 議院
 {0}le+fjrkikev.pgeiue 碰触
 {0}le+jugk.dzeruu 豆乳
 {0}le+jjxncl.xiuvde 喜爱
@@ -12593,6 +12598,7 @@
 {0}fy+skkiyg.wjuhve 晚会
 {0}fy+sjsbg.wjurze 挽肉
 {0}fy+ddpbg.wjulqo 挽留
+{0}fy+df+wlmklybn.jmitzocio 間投詞
 {0}fy+ka+mdxny.jmiyiifae 間一髪
 {0}fy+frkljy.jmigeo 間隔
 {0}fy+jvlgwi.yietoi 逸脱
@@ -13525,6 +13531,7 @@
 {0}jm.jk+sefibklzkdk.piiliewuu 霹靂舞
 {0}jz+ntgnz.hyodye 渾沌
 {0}jz+nkflwz.yyeheo 運河
+{0}jz+cx+cykdwzdm.yyedseihu 運動場
 {0}jz+cx+skkiwzdm.yyedsehve 運動会
 {0}jz+cx+ezstwzdm.yyedsexti 運動靴
 {0}jz+zzskfwz.yyeuui 運輸
@@ -13731,7 +13738,8 @@
 {0}jd+sssng.griose 观众
 {0}jd+siyhjg.mieuio 觅食
 {0}jd+ik.okfkqgr.niohsodgi 霓虹灯
-{0}jk 且
+{0}jk 囗
+{1}jk 且
 {0}jkm+s 豚
 {0}jkz 읖
 {0}jk+bx,sf+hoxklzvzwx.ofiuioyeeqiu 真実夜綺
