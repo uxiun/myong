@@ -191,6 +191,7 @@
 {0}bd,xmlzno.jpopiu 潔癖
 {0}bd,tewr.uieuie 逝世
 {0}bd,exdxxkr.ojuhoe 斩获
+{0}bd,dyno.jpobdo 潔白
 {0}bd+nknr.oeejli 浙江
 {0}bd+wegon.pjenie 叛逆
 {0}bd+okpclx.iiiyji 喫煙
@@ -1044,6 +1045,7 @@
 {0}ya+rr,homgdkk.bdoyaejie 白亜紀
 {0}ya+rfjsd.bdofwe 白费
 {0}ya+ul+lj+uxkwkdkcwcl.rieigodneogu 日程調整
+{0}ya+udnd.bdobju 白板
 {0}ya+ud+ja+mgewkr.riexbiyteyie 日新月异
 {0}ya+uk.riebfu 日本
 {0}ya+hodhtd.bdooiu 白紙
@@ -1458,6 +1460,7 @@
 {0}xx,kpmrj.whumme 网面
 {0}xx,kt+xbjhi.whuytiiei 网约车
 {0}xx,kciznj.whuqqo 网球
+{0}xx,kwj.whuxxe 网下
 {0}xx,kd+mkkijhnl.whuloecgo 网络层
 {0}xx,kd+wm+nijhnlnu.whuloeyzoxie 网络游戏
 {0}xx,kjsj.whuyee 网页
@@ -1527,6 +1530,7 @@
 {0}xu+ecdbiwi.dveyie 対義
 {0}xu+itwi.dveyki 対応
 {0}xu+dndfwi.dveiuu 対処
+{0}xu+dufowi.dveigi 対称
 {0}xu+dujwi.dvecee 対策
 {0}xu+kpmrwi.dvemme 対面
 {0}xu+kl+bkfbim.uzesiidau 寿司打
@@ -4525,6 +4529,7 @@
 {0}co+xt+ka+odjgpin.hwilsojliugu 黑龙江省
 {0}co+rr,ekvppr.hwiiriqme 黒川茜
 {0}co+uzkjv.soumoe 瑣末
+{0}co+udnp.hwibju 黒板
 {0}co+mdxnp.hwifae 黒髪
 {0}co+mk+la+rjmkhpyck.hwiyceuioohe 黒曜石帳
 {0}co+mk+klpyc.hwiyceuio 黒曜石
@@ -7382,6 +7387,7 @@
 {0}oa+sobs.houbje 伙伴
 {0}oa+ssyd.houuhi 火傷
 {0}oa+ssmk.buezoe 不作
+{0}oa+sedjk.buebwe 不備
 {0}oa+sdtkk.buedii 不低
 {0}oa+sdhik.buedii 不低
 {0}oa+skrxk.buebme 不便
@@ -9541,12 +9547,14 @@
 {0}ed,zijicdd.pgoboo 彭博
 {0}ed,vs+wlmklkddzl.xkorsocio 形容詞
 {0}ed,va+stwxbwe.ijuyeelme 产业链
+{0}ed,wh+ousjep.bwexuemiu 備蓄米
 {0}ed,weytkdd.xkoyie 形意
 {0}ed,svmdsj.bweffe 備份
 {0}ed,sfyskdd.xkoxle 形像
 {0}ed,lllw.ijupbu 产品
 {0}ed,lkdnlwg.dcelue 道路
 {0}ed,evw.ijuyee 产业
+{0}ed,ewhpsj.bwexue 備蓄
 {0}ed,ixkdd.xkoyie 形义
 {0}ed,ittkdd.xkotde 形態
 {0}ed,itkkdd.xkouie 形式
@@ -11625,6 +11633,7 @@
 {0}km+ncirw.fwifau 非法
 {0}km+nirrrw.fwiozi 非洲
 {0}km+xu+itrwwi.fwidveyki 非対応
+{0}km+xu+duforwwi.fwidveigi 非対称
 {0}km+xdrkirw.fwiduo 非独
 {0}km+rpgzs.jxidme 家电
 {0}km+rr,mkpevmikr.yuuiriyie 羽川翼
