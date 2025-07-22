@@ -2861,6 +2861,7 @@
 {0}rf,ih+llixlxusy.cyoiuuqie 存储器
 {0}rf,iz+vfxbsxrj.hzebuujme 候補鍵
 {0}rf,db,okgcvmg.iiewwugli 赤尾光
+{0}rf,duifmt.ybusii 隐私
 {0}rf,dufowv.yieigi 亦称
 {0}rf,dwfxci.hxetku 划艇
 {0}rf,km+te+fucvmikeu.iieyuuyeezia 赤羽葉子
@@ -2922,6 +2923,7 @@
 {0}rj+iltdgv.oiegju 質感
 {0}rj+dbtddpgv.mduwue 買物
 {0}rj+dbgfmt.ybumco 隠毛
+{0}rj+dqdfmt.ybuufi 隠身
 {0}rj+dytidgv.oiedea 質的
 {0}rj+duifmt.ybusii 隠私
 {0}rj+dsccfw.uiejpi 市街
@@ -7706,6 +7708,7 @@
 {0}sc+bwrdw.jbebue 進捗
 {0}sc+bdws.tuouzu 徒手
 {0}sc+ywlodcf.jpijku 街景
+{0}sc+ndzlb.tvihoo 推活
 {0}sc+nkfln.hkoheo 淮河
 {0}sc+njvfb.tvicee 推測
 {0}sc+xmb.tvilie 推力
@@ -13960,6 +13963,7 @@
 {0}ja+xx,dm+vmdxwmi.yzuxneigoffi 有効成分
 {0}ja+xrfus.nwecyo 内存
 {0}ja+xksj.ytebke 月病
+{0}ja+xa+styw.mkowfohxe 明文化
 {0}ja+tbkjx.yzuqko 有情
 {0}ja+tbkjs.nweqko 内情
 {0}ja+txfisx.yzuyio 有疑
