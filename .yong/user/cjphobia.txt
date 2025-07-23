@@ -430,6 +430,7 @@
 {0}ba+kuuks.nmolie 年歴
 {0}ba+kujgx.ieixli 车厢
 {0}ba+kuj.yseyuo 用于
+{0}ba+kg+zj+dbtddewouuk.yhoiiuoiowue 羊歯植物
 {0}ba+kcizn.uzuqqo 手球
 {0}ba+ka+dzpcok.bjevreose 半二重
 {0}ba+fu+rixbds.nqozdukue 牛仔裤
@@ -1113,6 +1114,7 @@
 {0}ya+ka+wddbku.riebfuiju 日本産
 {0}ya+ka+su.riebfurfo 日本人
 {0}ya+ka+jx+dskkfur.riebfuyhixko 日本央行
+{0}ya+ka+jf+kk.qj+skkiuoubhdv.riebfuxtoofexkehve 日本学術振興会
 {0}ya+ka+jf+jk+hi+ueejuoubnui.riebfuxtoyrojiigze 日本学生支援機構
 {0}ya+jr+jmrnrdf.jqeoiefuo 旧制服
 {0}ya+jgd.bdomue 白目
@@ -1638,6 +1640,7 @@
 {0}xw+dclekl.jkugce 警告
 {0}xo 灰
 {0}xou 大学
+{0}xo+zfup.moezie 黙字
 {0}xo+wsfxc.vcoyee 熬夜
 {0}xo+sydnt.hvifue 恢复
 {0}xo+il+iifrgn.tjeoielho 炭治郎
@@ -3053,6 +3056,7 @@
 {0}ub+or+cj+yt+ojfuokjiprkggfs.jkiufoxmexlexto 精神現象学
 {0}ub+or+sx+rrtokjiprx.jkiufojiohre 精神疾患
 {0}ub+or+duwzokjipr.jkiufokei 精神科
+{0}ub+lg+kjkkidkvd.jiilreyyo 積乱雲
 {0}ub+iorprokj.jkiufo 精神
 {0}ub+ienokj.jkidue 精度
 {0}ub+duldkv.jiiheo 積和
@@ -5233,6 +5237,7 @@
 {0}md+kpmgv.ffipwe 分配
 {0}md+krkv.ffigsi 分工
 {0}md+kgdnr.iuixxe 初夏
+{0}md+kedddv.ffixko 分形
 {0}md+kkfsr.iuicie 初次
 {0}md+kfwdhv.ffilpe 分裂
 {0}md+frzpzr.iuiofe 初陣
@@ -6825,6 +6830,7 @@
 {0}on+houkbhc.jkiwwu 経緯
 {0}on+moskshc.jkiyje 経験
 {0}on+vxw.uuifue 叔父
+{0}on+wx+na+bjknhcnrz.jkijieoiiyro 経済支援
 {0}on+wx+ojfuhcnr.jkijiexto 経済学
 {0}on+wjjlhc.jkigoe 経過
 {0}on+os+wloohcmks.jkiyjetjo 経験談
@@ -8768,6 +8774,7 @@
 {0}lk+vx+zxykezf.yjojqioeu 研究者
 {0}lk+vx+zkickezf.yjojqiuie 研究室
 {0}lk+vx+skkikezf.yjojqihve 研究会
+{0}lk+vx+ljgvkezf.yjojqiyro 研究員
 {0}lk+vx+dmdkrkezf.yjojqisou 研究所
 {0}lk+vx+ki.pm+mdrjkezfzckg.yjojqiuiepweuuu 研究室配属
 {0}lk+vx+ki.lv.ja+skkikezfzcwlgy.yjojqiuieuoimkohve 研究室説明会
@@ -11883,6 +11890,7 @@
 {0}kl+yoddds.heoyku 合影
 {0}kl+yskjvsr.mketio 命題
 {0}kl+ncis.heofau 合法
+{0}kl+nvslj.tsoyue 同浴
 {0}kl+nwigs.heolqo 合流
 {0}kl+njklg.yjodse 岩洞
 {0}kl+xa+ka+wv+kphzpwubj.fuewfobfuodiyce 富文本摘要
@@ -11988,6 +11996,7 @@
 {0}ke+bzfygfb.xmiyje 鲜艳
 {0}ke+rpgki.iuodme 厨电
 {0}ke+wedgez.hxodce 華道
+{0}ke+oxkjves.jtolwe 蕨類
 {0}ke+stsiilv.yaulko 哑铃
 {0}ke+itkddd,xkouie 形式
 {0}ke+imwdmki.iuofho 厨房
@@ -12181,6 +12190,7 @@
 {0}kk.id+jghoescm.cioigoxme 茨城県
 {0}kk.ikscuo.bnioyu 标准
 {0}kk.db,csckyk.sjixkidvi 三星堆
+{0}kk.dqjvbh.ofexke 振興
 {0}kk.dy+jvrfkko.sjiyrozeo 三原則
 {0}kk.dn+filbhs.ofefjumko 振仮名
 {0}kk.duwzs.rfokei 仁科
@@ -13124,6 +13134,7 @@
 {0}jp+kckg.dmeyai 電圧
 {0}jp+kjfxck.lwotko 雷霆
 {0}jp+fx+sitkgs.dmeqiedde 電気代
+{0}jp+fx+ebkgs.dmeqieyho 電気羊
 {0}jp+fukg.dmezia 電子
 {0}jp+jx+vd+xa+uu.dbcuikdekrwu.lwovcesiiwfosfitee 雷奥斯･文森特
 {0}jp+jx+evdkrkd.lwovcesii 雷奥斯
@@ -13750,7 +13761,6 @@
 {0}jd+sssng.griose 观众
 {0}jd+siyhjg.mieuio 觅食
 {0}jd+ik.okfkqgr.niohsodgi 霓虹灯
-{0}jk 囗
 {1}jk 且
 {0}jkm+s 豚
 {0}jkz 읖
