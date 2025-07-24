@@ -5995,7 +5995,8 @@
 {0}vm+nzkvbd.bjeyju 扮演
 {0}vm+ca+foedp.ffiliuvru 芬里尔
 {0}vm+ekked.ffiljo 芬兰
-{0}vm+imjkh.ohehue 賬户
+{-}vm+imjkh.ohehue 賬户
+{0}vm+kmjkh.ohehue 賬戸
 {0}vv.llljpy.zgepbu 贈品
 {0}vwi+g 銃
 {0}vw+xrjjl.tpibue 貼布
@@ -11635,6 +11636,7 @@
 {0}kc+fjcs.qrojnu 全角
 {0}kc+jxxs.qrowhu 全网
 {0}kc+jt+iltsit.qrongogju 全能感
+{0}km 戸
 {0}km+bg,kciznmikd.yuumcoqqo 羽毛球
 {0}km+bf,is+zh+rrkrrwmrxcj.fwinaexsovjepme 非那雄胺片
 {0}km+pmik.yuutmo 羽田
@@ -12127,6 +12129,7 @@
 {0}kk.wx+ykwsevz.qiouiouie 其实是
 {0}kk.wguisi.yyodcu 伝導
 {0}kk.wsbh.ofeyui 振込
+{0}kk.wlgvk.sjixru 三選
 {0}kk.wlmgsi.yyojie 伝記
 {0}kk.wlouo.bnidmu 标点
 {0}kk.wloosi.hvetjo 会談
