@@ -5995,7 +5995,6 @@
 {0}vm+nzkvbd.bjeyju 扮演
 {0}vm+ca+foedp.ffiliuvru 芬里尔
 {0}vm+ekked.ffiljo 芬兰
-{-}vm+imjkh.ohehue 賬户
 {0}vm+kmjkh.ohehue 賬戸
 {0}vv.llljpy.zgepbu 贈品
 {0}vwi+g 銃
@@ -12377,6 +12376,7 @@
 {0}kj+va+mdrjrgv.gvejbiuuu 貴金属
 {0}kj+va+klb.qkijbiuio 青金石
 {0}kj+wnjgme.jmidui 監督
+{0}kj+wthiob.qkiziu 青紫
 {0}kj+wm+zjkvbjk.qkixpuofi 青写真
 {0}kj+wdmrgv.gvefhi 貴方
 {0}kj+okgb.qkigli 青光
