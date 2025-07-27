@@ -1335,6 +1335,7 @@
 {0}na+wepg.uvulso 水竜
 {0}na+wedg.uvudce 水道
 {0}na+wd+evjdbf.fjukheqii 反抗期
+{0}na+wfjsn.uliyko 双赢
 {0}na+oz+hodynk.uvupkoxme 水平線
 {0}na+odjgd.fjuugu 反省
 {0}na+okg.uvugli 水光
@@ -4240,6 +4241,7 @@
 {0}ha+brkw.nvupdo 女排
 {0}ha+ytddz.vjiyie 安易
 {0}ha+yz+rrdnzw.vjiooobju 安卓版
+{0}ha+yd+dhiorg.nvuvroxie 女児系
 {0}ha+nclz.vjijpo 安洁
 {0}ha+xn.nvuyzu 女友
 {0}ha+xisc.nvuxso 女雄
@@ -6140,6 +6142,7 @@
 {0}vk+fy+lz+jg+ykpczywde.ksijmijiesrelle 空間計算量
 {0}vk+fx+ev+uskczszc.ksiqiesdiuri 空気塞栓
 {0}vk+fiffjtk.fueyuu 賦予
+{0}vk+jr+of+dshinzefhyg.ksiqmojtohze 空前絶後
 {0}vk+jsynz.ksifue 空腹
 {0}vk+jdgjz.hjujme 罕见
 {0}vf+yerjes.qiimfe 欺暪
@@ -6440,6 +6443,7 @@
 {0}wu 新
 {0}wg 就
 {0}wgw+eg 競
+{0}wgs+ii 龄
 {0}wg+sjjx.ncunwe 脑内
 {0}whh.h 巡
 {0}wh+pue.mhogou 芒果
@@ -6572,6 +6576,7 @@
 {0}wld+fi 諷
 {0}wlj+g 毫
 {0}wlj+sg 謡
+{0}wlj+jfyko 赢
 {0}wl+bxnyo.jkutde 景泰
 {0}wl+nezjsf.tkooie 停滞
 {0}wl+ut+kh+zxyeudtym.gcujpiohuoeu 藁稭長者
@@ -6591,6 +6596,7 @@
 {0}wl+ihkhdto.jkiyae 惊讶
 {0}wl+ijttsy.iuungo 儲能
 {0}wl+ddxbj.gcuxne 搞笑
+{0}wl+kekjvi.dmetzo 店頭
 {0}wl+kftto.jkiksu 惊恐
 {0}wl+fygyo.jkusee 景色
 {0}wl+fiwi.dmewde 店外
@@ -8389,6 +8395,7 @@
 {0}lu+xa+ewhgkdnk.poetmihli 破天荒
 {0}lu+rs+mkicsfks.bcuxmuwui 保険屋
 {0}lu+utix.jxegze 架构
+{0}lu+gs+kciznswii.bculkoqqo 保龄球
 {0}lu+hpwis.bcumuu 保姆
 {0}lu+hoeels.bcuuje 保繕
 {0}lu+czphkdn.poehke 破壊
@@ -9563,6 +9570,7 @@
 {0}ed,sfyskdd.xkoxle 形像
 {0}ed,lllw.ijupbu 产品
 {0}ed,lkdnlwg.dcelue 道路
+{0}ed,ecdbikdd.xkoyie 形義
 {0}ed,evw.ijuyee 产业
 {0}ed,ewhpsj.bwexue 備蓄
 {0}ed,ixkdd.xkoyie 形义
@@ -11458,6 +11466,7 @@
 {0}kg+jtlgk.yrobci 元胞
 {0}kg+je+stou.gliujihxe 光柵化
 {0}kh+bnkprbio.suemme 素麺
+{0}kh+bk+tlgbtj.bnuqkobci 表情包
 {0}kh+bk+za+zklpbtjb.bnuqkofgifue 表情丰富
 {0}kh+yjb.bnumko 表明
 {0}kh+nuxb.bnujto 表決
@@ -11622,6 +11631,7 @@
 {0}kc+kc+sa+xspi.qrogoorfodae 全国人大
 {0}kc+km+rj+fm+zl+lt+mmlpizswcddlv,ooxiiehurusuuo 国家市场监管总局
 {0}kc+km+rj+fm+lt+mmlpizswcdv.goojxiuieihuzsujuo 国家市场监管总局
+{0}kc+kz+kciznsfu.dcegjiqqo 倒杆球
 {0}kc+klzi.bcuuio 宝石
 {0}kc+kk.lu+wlskjpisiwi.goohvetculye 国会討論
 {0}kc+kjspwsf.dcemwo 倒霉
@@ -12605,6 +12615,7 @@
 {0}ka+jc+olixf.yiijnuuze 一角獣
 {0}ka+jwyhx.zoutvu 左腿
 {0}ka+jl+kf+va+bxyuocpf.bfuthotkixnuiyi 本堂町小春
+{0}ka+jdfnk.vreguu 二股
 {0}ka+jk+xg+wxmwck.yiiwhewuobmi 一望无边
 {0}ka+jk+xg+frkkowck.yiiwhewuojie 一望无际
 {0}fb,bykfs.igodji 承担
@@ -13217,6 +13228,7 @@
 {0}jt+xa+kcrfitw.ngodaodce 能达到
 {0}jt+tlfifit.ngogze 能够
 {0}jt+uujgdkdn.yziyue 憂鬱
+{0}jt+hmrrjn.vdejii 愛姫
 {0}jt+hfujn.vdehcu 愛好
 {0}jt+cx+dytiitdm.ngodsedea 能動的
 {0}jt+cl+jt+ecxjnphjn.vdeyrovdemwu 愛園愛美
@@ -13444,6 +13456,7 @@
 {0}jg+ssydfv.fueuhi 負傷
 {0}jg+ssmd.ziezoe 自作
 {0}jg+si+itkdedvf.sreuueuie 算術式
+{0}jg+sdnld.ziehee 自佫
 {0}jg+sklu.xliheo 相合
 {0}jg+skkiu.xlihve 相会
 {0}jg+sk+xbddkf.ziexkoiei 自行车
@@ -13883,6 +13896,7 @@
 {0}jf+sw,udnedjl.jmutpibju 剪贴板
 {0}jf+si+md+pcfifoudvfv.xtouueffiyeu 学術分野
 {0}jf+skkiou.xtohve 学会
+{0}jf+sfxnu.fuoqie 浮気
 {0}jf+eg+jghobmuj.jkeghixme 静岡県
 {0}jf+eveuou.xtoyee 学業
 {0}jf+evjou.xtoqii 学期
