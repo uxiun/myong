@@ -6074,6 +6074,7 @@
 {0}vd+higi.moonvu 魔女
 {0}vd+ha+us+rr,kl+zusxigizxpkwm.moonvujnezvesiijne 魔女教大罪司教
 {0}vd+ha+zusxigi.moonvujne 魔女教
+{0}vd+ha+iw+obrfigizdh.moonvucdopje 魔女裁判
 {0}vd+cykekr.siitju 斯坦
 {0}vd+cwegigi.moojke 魔境
 {0}vd+ci+bk+dbtddigind.moofauugiwue 魔法生物
