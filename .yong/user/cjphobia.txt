@@ -3485,6 +3485,7 @@
 {0}ud+frsp.trodve 团队
 {0}ud+fu+sukwkrz.xbizietiu 新字体
 {0}ud+fckpkwkr.xbijli 新疆
+{0}ud+fopzwkr.xbidje 新弾
 {0}ud+foebwkr.xbixmi 新鮮
 {0}ud+filwkr.xbimko 新名
 {0}ud+jt+nkdowkrit.xbingoyro 新能源
