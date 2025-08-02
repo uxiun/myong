@@ -1904,6 +1904,7 @@
 {0}xa+zevs.daesde 大赛
 {0}xa+zkms.daejxi 大家
 {0}xa+zkic.daeuie 大室
+{0}xa+zk+fuzki.daeoruzia 大転子
 {0}xa+zfuw.wfozie 文字
 {0}xa+zjixw.wfoxme 文献
 {0}xa+zjkvk.tmiofi 天真
@@ -3877,6 +3878,7 @@
 {0}ga+rrdng.iuibju 出版
 {0}ga+rd+iocgrn.iuibjuuee 出版社
 {0}ga+rfjgvg.iuifwe 出費
+{0}ga+rf,xrcmxu.yiucyozde 已存在
 {0}ga+rjyogu.oaohlu 札幌
 {0}ga+uyhb.oaigfi 扎根
 {0}ga+ux+kt+ka+kpwlufowsck.yiugveciovreiyo 乙炔雌二醇
@@ -4621,7 +4623,6 @@
 {0}ce+kedddui.uuexko 樹形
 {0}ce+jtyui.uueoii 樹脂
 {0}ci 去
-{0}cix+m 勢
 {0}ci+bznkzn.qqojie 球技
 {0}ci+bsjggn.faugvi 法規
 {0}ci+pkcin.faugoo 法国
@@ -5996,6 +5997,7 @@
 {0}vc+jl+xa+vd+ceslcrvkkleekr.heeluevdesiitau 赫露艾斯塔
 {0}vmd+e 盆
 {0}vm+nzkvbd.bjeyju 扮演
+{0}vm+rcwdhbd.bjeoli 扮装
 {0}vm+ca+foedp.ffiliuvru 芬里尔
 {0}vm+ekked.ffiljo 芬兰
 {0}vm+kmjkh.ohehue 賬戸
@@ -6830,6 +6832,7 @@
 {0}op+ztdgh.xiemie 細密
 {0}op+wsxmfz.djeheo 弾劾
 {0}op+eyxjfz.djemue 弾幕
+{0}op+dqdh.xieufi 細身
 {0}op+dervfz.djehlo 弾簧
 {0}op+jtlgh.xiebci 細胞
 {0}on+nwxrhc.jkijie 経済
@@ -6965,6 +6968,7 @@
 {0}oc+idmhl.jpoigo 結成
 {0}oc+dbi.ueenqo 社牛
 {0}oc+db,lmrfitk.ueexkebpo 社性別
+{0}oc+dsrbi.ueelve 社律
 {0}oc+krki.ueegsi 社工
 {0}oc+koi.ueebue 社不
 {0}oc+kl+se+dr+tdbkhlsdwsmj.jpoheocsouuuxke 結合従属性
@@ -7270,6 +7274,7 @@
 {0}oj+rp+kpwluidgev.uiehloiyo 视黄醇
 {0}oj+rp+kpivnidgev.uiehlosri 视黄酸
 {0}oj+rrdnhk.zuubju 組版
+{0}oj+rcwdhs.qneoli 俏装
 {0}oj+rw+ljgvnfdm.xnifhoyro 消防員
 {0}oj+rfjgvn.xnifwe 消費
 {0}oj+rfjsn.xnifwe 消费
@@ -7891,6 +7896,7 @@
 {0}sw,jbsjl.tpifui 贴肤
 {0}sw,jswljl.tpitpi 贴贴
 {0}sw,jl+ka+uebdcorj.whuihoyiiyhe 往常一样
+{0}sou 侎
 {0}ss 从
 {0}sst 伦
 {0}ssr+f 剣
@@ -10383,6 +10389,7 @@
 {2}d ㄱ
 {0}db,pcfifyk.xkiyeu 星野
 {0}db,pkcisi.veogoo 俄国
+{0}db,pa+ju+ka+iifrmgo.wwutmorsoyiilho 尾田栄一郎
 {0}db,yt+ty+djltkdib.xkedeaoiuxle 性的指向
 {0}db,yt+zt+hfutkdily.xkedeauiehcu 性的嗜好
 {0}db,yt+sj+uktkdikgv.xkedeaziibfu 性的資本
@@ -12649,6 +12656,7 @@
 {0}fn+ohsxg.hjouue 函数
 {0}fn+oc+stihjg.ysuxuehxe 永続化
 {0}fn+ea+ctkkie.ysujkujyi 永井均
+{0}fn+ix+la+rrmkjicmp.ysujpohvogvi 永劫回帰
 {0}fn+koi.ysubue 永不
 {0}fn+fd+iocddyc.fgehlouee 凤凰社
 {0}fx+qd+jr+ggbcdkr.tkuufivroiui 挺身而出
@@ -12757,6 +12765,7 @@
 {0}fu+zevcyd.biesdi 閉塞
 {0}fu+vojvyd.biesou 閉鎖
 {0}fu+va+xdiyhuf.liuxnulho 李小狼
+{0}fu+wlmsz.zieyie 字訳
 {0}fu+wlmklz.ziecio 字詞
 {0}fu+ohsxz.zieuue 字数
 {0}fu+oa+hfuhk.hcubuehcu 好不好
@@ -13502,6 +13511,7 @@
 {0}jg+fe+dh+ohsxuyxso.xligrixieuue 相関係数
 {0}jg+jxod.zierjo 自然
 {0}jg+ji+zxykvzx.gsexmeoeu 貢献者
+{0}jg+jddygu.xlimce 相貌
 {0}jg+jklu.xlitso 相同
 {0}jh 妥
 {0}jh.bznd.nsojie 农技
@@ -13802,6 +13812,7 @@
 {0}jk+ht+hk+wkkluiyikl.oaixyoyuuyjo 査询语言
 {0}jk+hhokkh.ofezdi 震災
 {0}jk+hodynzk.oioxme 直線
+{0}jk+hokzv.ofihso 真紅
 {0}jk+hi+ctuzvidm.ofiigodie 真诚地
 {0}jk+hkizzk.oioxme 直线
 {0}jk+hfuzv.ofihcu 真好
