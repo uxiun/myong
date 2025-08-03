@@ -1255,6 +1255,7 @@
 {0}nkd+o 源
 {0}nkj+i 澪
 {0}nk.tlgbpr.mmebci 麺包
+{0}nk.oxkjvbpr.mmelwe 麺類
 {0}nk.lg+iwlbprt.mmebcidme 麺包店
 {0}nfu 染
 {0}njs 흠
@@ -1714,9 +1715,11 @@
 {0}xd,kksxidd.cjioge 参政
 {0}xd,frzkgidd.cjiyre 参院
 {0}xkf+l 奇
+{0}xk+bykdvcv.fuuyho 釜揚
 {0}xk+bdtzl.jietoi 寄托
 {0}xk+bk+olixzld.jieugiuze 寄生獣
 {0}xk+ycuisle.druuio 短時
+{0}xk+yk+iy+sitgvcvbdsje.fuuyhowfityo 釜揚饂飩
 {0}xk+ncizhm.kcufau 考法
 {0}xk+niluwk.oguoie 整治
 {0}xk+xrysle.druzje 短暂
@@ -9748,6 +9751,7 @@
 {0}iy+vlfssh.uioyue 食欲
 {0}iy+wlevysh.uiopuu 食譜
 {0}iy+ouwzsh.uiolne 食料
+{0}iy+sitgsje.wfityo 饂飩
 {0}iy+sa+ivdgish.uiorfomoo 食人魔
 {0}iy+lllsh.uiopbu 食品
 {0}iy+llixlsh.uioqie 食器
@@ -10599,6 +10603,7 @@
 {0}dn+jusnf.jioxii 及膝
 {0}dn+jjtnxw.tgovde 疼愛
 {0}dxt 懲
+{0}dx,bknej.qnomde 蕎麦
 {0}dx,pobgmn.faeqri 髪圈
 {0}dx,nrpmn.faeyzo 髪油
 {0}dx,xmlnt.tmijxi 添加
@@ -13050,6 +13055,7 @@
 {0}fk+hilye.kdiuiu 開始
 {0}fk+ms+itkyewx.kdifheuie 開放式
 {0}fk+mijggfjv.yuelju 預覧
+{0}fk+mkdydri.fgixio 風習
 {0}fk+zn+cykdyeib.dzejieihu 闘技場
 {0}fk+zkwsfjv.yuedke 預定
 {0}fk+zkwsfjs.yuedke 预定
