@@ -3128,6 +3128,7 @@
 {0}ux+isut.kkelee 快楽
 {0}ux+iltt.kkegju 快感
 {0}ux+dhut.kkelee 快乐
+{0}ux+da+iendxjo.xiiucudue 稀少度
 {0}ux+kcrft.kkedce 快到
 {0}ux+kw+tdbknzs.jtodkexke 決定性
 {0}ux+kw+db,jg+cx+uhiinzstkddm.jtodkexkeziedsejii 決定性有限自動機
@@ -3759,6 +3760,7 @@
 {0}gt,oa+sm+ueukcg.xlubueqiuldo 想不起来
 {0}gt,sm+ueucg.xluqiuldo 想起来
 {0}gt,sfysu.xluxle 想像
+{0}gt,kphu.xluyce 想要
 {0}gt,kcrfu.xludce 想到
 {0}gt,fy+wkuss.xluxleuhe 想像上
 {0}gt,fud.xiizia 息子
@@ -4373,6 +4375,7 @@
 {0}cx+zvsle.mwurso 美容
 {0}cx+ze+sihyemx.mwulmoiuu 美联储
 {0}cx+vs+nwsxezl.mwursoyee 美容液
+{0}cx+vs+zkicezl.mwursouie 美容室
 {0}cx+vs+dlkrjezl.mwursouii 美容師
 {0}cx+wlmkldm.dsecio 動詞
 {0}cx+wldumsm.qreyze 勧誘
@@ -5084,6 +5087,7 @@
 {0}ms+dujwtu.uiicee 施策
 {0}ms+dwjdgwev.qiojme 旗舰
 {0}ms+dsrbwfs.xrolve 旋律
+{0}ms+dsivfwtu.uiiuue 施術
 {0}ms+dskkfwdh.lvuxko 旅行
 {0}ms+kwwev.qioxxe 旗下
 {0}ms+kewx.fhekdi 放开
@@ -5866,6 +5870,7 @@
 {0}za+sk+pa+sbskr.fgijmuyzorfo 丰俭由人
 {0}za+lzs.ufoyee 什叶
 {0}za+la+se+fudkbo.qmiuiofuuzia 千石撫子
+{0}za+ekuk.gjeyue 干芋
 {0}za+ejrfs.wuuqmo 午前
 {0}za+ikfmuk.gjejke 干净
 {0}za+if+gfifi.uiodoisve 十多岁
@@ -6706,6 +6711,7 @@
 {0}wi+cing.lqoque 流去
 {0}wi+cilkng.lqoyue 流域
 {0}wi+znbvg.isejii 銃撃
+{0}wi+zkmsp.muujxi 母家
 {0}wi+wurng.lqosue 流速
 {0}wi+wujggp.muuqbi 母親
 {0}wi+wgxjng.lqolio 流离
