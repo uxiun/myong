@@ -492,6 +492,7 @@
 {0}pr+ygyn.mjebai 曼巴
 {0}pr+ya+wlmgef.mgeriejie 夢日記
 {0}pr+nscwj.yuenjo 遇难
+{0}pr+ndzlsj.vzuhoo 偶活
 {0}pr+nj+ud+ojxmkfmxn.fueufepiolco 副腎疲労
 {0}pr+xblmzwf.loojio 逻辑
 {0}pr+rrref.mgeiri 夢川
@@ -1213,6 +1214,7 @@
 {0}nl+sd.geerfo 各人
 {0}nl+dudzcd.geeosu 各種
 {0}nl+dmdkrd.geesou 各所
+{0}nl+dskkfd.geexko 各行
 {0}nl+djgd.geezie 各自
 {0}nl+kj+jgdkv.geexlemue 各項目
 {0}neg+j 満
@@ -3201,6 +3203,8 @@
 {0}uc+bzun.tuomwe 塗抺
 {0}uc+xrjn.tuobue 塗布
 {0}uc+vmdn.tuoffi 塗分
+{0}uc+vwegdvn.lgojke 稜鏡
+{0}uc+we+la+iwldvnvgk.lgojkeuiodme 稜鏡石店
 {0}um.jwmki.uuixpu 书写
 {0}uzn 枝
 {0}uz+rkixolj.huoole 糊状
@@ -3901,6 +3905,7 @@
 {0}ga+uj+xbgdk.iuizuiiei 出租车
 {0}ga+hisy.baiyiu 巴以
 {0}ga+hkfskm.yiujki 已经
+{0}ga+hf.yiunvu 乙女
 {0}ga+cykdg.iuiihu 出場
 {0}ga+cwegs.xmijke 仙境
 {0}ga+csih.ujiyte 山越
@@ -4511,6 +4516,7 @@
 {0}cc,xrjbw.gxebue 掛布
 {0}cc,wdhb.gxeyii 挂衣
 {0}cc,ssms.jxizoe 佳作
+{0}cc,dgoobw.gxetju 掛毯
 {0}cc,filb.gxemko 挂名
 {0}cm 勢
 {0}cml 超
@@ -6777,6 +6783,7 @@
 {0}wk+sl+rmdnsv.seeguuiui 渋谷初
 {0}wk+siftsl.xbenme 信念
 {0}wk+sdhrsl.xbeyhu 信仰
+{0}wk+sdcsl.xberfe 信任
 {0}wk+lkhmsl.xbehce 信号
 {0}wk+dnusl.xbetno 信条
 {0}wk+dujgsl.xbexli 信箱
@@ -9232,6 +9239,7 @@
 {0}ey+wllhxv.coewue 錯誤
 {0}ey+wllkxv.coewue 錯誤
 {0}ey+wljlw.ybigci 音高
+{0}ey+wk+oa+wfijwslk.ybixbebuetsi 音信不通
 {0}ey+ouzljux.moohuo 模糊
 {0}ey+ojjggv.coejto 錯覚
 {0}ey+su+xk+rk+dlkrjwislerr.ybileedrupmeuii 音楽短片師
@@ -10669,6 +10677,7 @@
 {0}dt+pdnlt.huilte 忽略
 {0}dt+nidlsk.diijmu 低減
 {0}dt+ndzlhy.hyihoo 婚活
+{0}dt+ndzls.toihoo 仛活
 {0}dt+ta+skkiskc.diioiehve 低志会
 {0}dt+rkhik.diuoli 底妆
 {0}dt+gp+drjgvskk.diihxeoie 低画質
