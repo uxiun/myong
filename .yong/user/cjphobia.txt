@@ -3693,6 +3693,7 @@
 {0}ua+dsdfnf.ziayie 子役
 {0}ua+da+skkizt.wwebiehve 未必会
 {0}ua+kpht.yeuyce 也要
+{0}ua+kn.rrkrpb.goumdepme 果麦片
 {0}ua+ku+klepip.goudsedze 果凍豆
 {0}ua+kcsif.mueqbo 木琴
 {0}ua+kvpx.dsixii 东西
@@ -4721,6 +4722,7 @@
 {0}cf,ci+cj+ozipifkznsgg.yeuqqogrioje 野球観戦
 {0}cf,wnsihpif.yeucji 野餐
 {0}cf,wdhrss.hriyko 歓迎
+{0}cf,olixpif.yeuuze 野獣
 {0}cf,ojldgpif.yeudhu 野党
 {0}cf,ejupif.yeucde 野菜
 {0}cf,iyhpif.yeullo 野良
@@ -5073,6 +5075,7 @@
 {0}ms+rjlvwev.qiooie 旗帜
 {0}ms+uviwx.fhessi 放松
 {0}ms+ukzwev.qiogji 旗杆
+{0}ms+gn.zeouji 沢山
 {0}ms+ggwx.fheiui 放出
 {0}ms+ms+hx+wljgrrin.ujuujufaille 闪闪发亮
 {0}ms+vzkswtu.uiidke 施錠
@@ -11329,6 +11332,7 @@
 {0}kn.bkjly.taeqki 踏青
 {0}kn.twmgi.bkidcu 冰岛
 {0}kn.ry+jz+dcxmukfhwz.jioxmeyyedse 極限運動
+{0}kn.rrkrb.mdepme 麦片
 {0}kn.uytti.bkigye 冰棍
 {0}kn.ctuuk.jiodie 極地
 {0}kn.cjevi.bkihuo 冰壶
@@ -12686,6 +12690,7 @@
 {0}fy+bwehy.jmijpi 間接
 {0}fy+rk+na+dssynyfljd.jmigeofjufue 間隔反復
 {0}fy+wnsihyg.wjucji 晚餐
+{0}fy+siyhy.jmiuio 間食
 {0}fy+skkiyg.wjuhve 晚会
 {0}fy+sjsbg.wjurze 挽肉
 {0}fy+ddpbg.wjulqo 挽留
