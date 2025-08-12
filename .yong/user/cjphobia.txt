@@ -1529,6 +1529,7 @@
 {0}xu+nuxwi.dvejto 対決
 {0}xu+ttwi.dvebiu 対比
 {0}xu+ta+fe+sdhowiiyx.dveykigrixie 対応関係
+{0}xu+uf+dsrbwido.dveigilve 対称律
 {0}xu+gcuiwi.dveoie 対峙
 {0}xu+cd+wlkklwiebi.dveyieyuu 対義語
 {0}xu+mklbi.uzesii 寿司
@@ -1988,6 +1989,7 @@
 {0}xa+iumw.wfouui 文书
 {0}xa+im+ud+eteuiskljdd.qrusiecduyee 犬飼彩葉
 {0}xa+izpzw.wfokue 文庫
+{0}xa+ioebk.tmixlo 天祥
 {0}xa+id+wrjcm.daeigouie 大城市
 {0}xa+if+yh+ycuisi.daejbillouio 大今良時
 {0}xa+if+ohsxfi.daedoiuue 大多数
@@ -5110,6 +5112,7 @@
 {0}ml+bz,zxyxzl.jxihdeoeu 加害者
 {0}ml+yskjsr.wfetio 问题
 {0}ml+nrpx.jxiyzo 加油
+{0}ml+ncix.jxifau 加法
 {0}ml+nodx.jxiuai 加沙
 {0}ml+nscwz.bienjo 避难
 {0}ml+tuxx.jxikke 加快
@@ -6653,6 +6656,7 @@
 {0}we+rz+bk+czmrnspjktj.wweoieqkobce 位置情報
 {0}we+rz+fe+sdhospjkyx.wweoiegrixie 位置関係
 {0}we+hocjgbh.jpixue 接続
+{0}we+hodynbh.jpixme 接線
 {0}we+hkzfxbh.jpixue 接续
 {0}we+cfdnc.laijii 垃圾
 {0}we+mznbh.jpiquu 接取
@@ -6664,6 +6668,7 @@
 {0}we+wdkrbh.jpijbe 接近
 {0}we+ohsxsl.bweuue 倍数
 {0}we+oc+wlmklbhhjg.jpixuecio 接続詞
+{0}we+oz+kpmrbhk.jpipkomme 接平面
 {0}we+oa+dm+cydnki.qiebueigougi 泣不成声
 {0}we+srprb.laiufi 拉伸
 {0}we+sr+hodyncgpr.jkejpexme 境界線
@@ -9126,6 +9131,7 @@
 {0}la+ltdd.kzuwfu 口吻
 {0}la+lu+eidkkdn.uiopoemce 石破茂
 {0}la+lc+wlotwjg.jueduodmu 句読点
+{0}la+lkdnlp.hvolue 回路
 {0}la+lj+pa+ca+fucwlrp.jiogciyzoliuzia 吉高由里子
 {0}la+lj+efsxzxgv.guuheekvo 古賀葵
 {0}la+exlh.ruoroe 如若
@@ -9301,6 +9307,7 @@
 {0}end+l 落
 {0}en+ykpci.duelle 度量
 {0}en+wuii.duegoe 度过
+{0}en+ohsxi.dueuue 度数
 {0}ex 关
 {1}exf+r 郑
 {0}ex,yh+klfsli.xnellogei 咲良歌
@@ -9930,6 +9937,7 @@
 {0}im+gt,bk+dbtddhud.hrexluugiwue 幻想生物
 {0}im+hx+bkhiobin.huefaisue 护发素
 {0}im+hfusj.pmihcu 偏好
+{0}im+czxfisj.pmioio 偏執
 {0}im+cjdgyr.jiomde 即売
 {0}im+zkb.hueuie 护士
 {0}im+zfuh.hrezie 幻字
@@ -11296,6 +11304,7 @@
 {0}kp+cz+ll.ebkuonwkx.bnioyuwueiae 標準誤差
 {0}kp+cz+im+rm+dh+ohsxuonsjrkjso.bnioyupmigvixieuue 標準偏回帰係数
 {0}kp+cz+im+ebkuonsj.bnioyupmiiae 標準偏差
+{0}kp+cz+keddduon.bnioyuxko 標準形
 {0}kp+msk.jliuii 僵尸
 {0}kp+zvixoc.yjitui 煙突
 {0}kp+wlmguo.bnijie 標記
@@ -11550,6 +11559,7 @@
 {0}kh+zxtm.ohulcu 長老
 {0}kh+zxm.ohuohe 長丈
 {0}kh+zlsxhfs.yrogue 缘故
+{0}kh+zjkkbio.sueoio 素直
 {0}kh+vpzb.bnudji 表单
 {0}kh+vj+yfyme.ohuqiijmi 長期間
 {0}kh+wpchb.bnuliu 表裏
@@ -11834,7 +11844,9 @@
 {0}kw+rkhzs.dkeoli 定妆
 {0}kw+rkixxk.ogeole 症状
 {0}kw+rf,mlebxksx.ogehzeqyo 症候群
+{0}kw+ub+vmdzsdkv.dkejiiffi 定積分
 {0}kw+ueys.uieldo 是来
+{0}kw+he+pwxwixl.kaunoetuo 卡诺図
 {0}kw+cd+nwxrzsebi.dkeyiejie 定義済
 {0}kw+cd+cilkzsebi.dkeyieyue 定義域
 {0}kw+mb+edufhohr.yjinaelie 嫣娜莉
@@ -12544,6 +12556,7 @@
 {0}ka+mvdfnu.bfudme 本殿
 {0}ka+mijgg.yiilju 一覧
 {0}ka+mdbg.yiiwwu 一尾
+{0}ka+md+ukv.vreffimue 二分木
 {0}ka+mkicu.bfuwui 本屋
 {0}ka+zp+sa+udnlkdc.vreoserfogeo 二重人格
 {0}ka+zkms.yiijxi 一家
