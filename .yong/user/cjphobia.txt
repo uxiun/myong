@@ -5266,6 +5266,7 @@
 {0}md+dnwdkr.souiue 所处
 {0}md+dzdfnv.ffidre 分段
 {0}md+dscuibl.ocidde 招待
+{0}md+df+duwljrbn.iuitzogcu 初投稿
 {0}md+kphdkr.souyce 所要
 {0}md+kpmgv.ffipwe 分配
 {0}md+krkv.ffigsi 分工
@@ -13219,6 +13220,7 @@
 {0}jp+ld+ds+ja+evdkrkzgkcs.lwokeeyaunwesii 雷克雅内斯
 {0}jp+ey+wlfrkgw.dmeybibue 電音部
 {0}jp+iojggkg.dmeuie 電視
+{0}jp+ilkg.dmetdo 電台
 {0}jp+dcxmkg.dmedse 電動
 {0}jp+dkfrkg.dmeyzo 電郵
 {0}jp+djgekg.dmesre 電算
@@ -13475,6 +13477,7 @@
 {0}jg+ga+kj+kw+iltdmwzs.ziejiukfudkegju 自己肯定感
 {0}jg+ga+fu+lkdnldmyd.ziejiubielue 自己閉路
 {0}jg+ga+jg+shisdmu.ziejiuxliuie 自己相似
+{0}jg+ga+jjtndm.ziejiuvde 自己愛
 {0}jg+ht+ojldgdl.ziembodhu 自民党
 {0}jg+hocjgu.xlixue 相続
 {0}jg+hi+tdbkuss.xliuiexke 相似性
@@ -14032,6 +14035,7 @@
 {0}jj.ia+kedddwlc.goequexko 過去形
 {0}jj.ia+fl+scuwlcy.goequewfejio 過去問集
 {0}jj.dn+ls+hudkrjulwdd.guugeoofudre 骨格診断
+{0}jj.dn+kfcjul.guugeoxko 骨格型
 {0}jj.dtrfwl.goeuge 過剩
 {0}jj.duldcwl.goeigo 過程
 {0}jj.duigynj.hxojii 滑稽
