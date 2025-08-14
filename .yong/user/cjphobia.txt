@@ -684,6 +684,7 @@
 {0}pd+ecjeksn.fuegde 覆盖
 {0}pd+ed,ft,txrjkgikddk.izuxkoksubue 醜形恐怖
 {0}pd+ittkgi.izutde 醜態
+{0}pd+kwdz.bwixxe 卑下
 {0}pd+kedddkgi.izuxko 醜形
 {0}pk 置
 {0}pkf 町
@@ -832,6 +833,7 @@
 {0}yg 巴
 {0}yg+bmkcb.bauwoe 把握
 {0}yg+bkhiof.seesue 色素
+{0}yg+bk+rrkrftj.seeqkopme 色情片
 {0}yg+negjj.fwomju 肥満
 {0}yg+xj.fwodae 肥大
 {0}yg+tbkjf.seeqko 色情
@@ -840,8 +842,10 @@
 {0}yg+vlfsf.seeyue 色欲
 {0}yg+vk+yfyfz.seeksijmi 色空間
 {0}yg+wljclf.seedne 色調
+{0}yg+sfxf.seeqie 色気
 {0}yg+escoe.baijni 芭蕉
 {0}yg+ekjpe.bailwu 芭蕾
+{0}yg+dyf.seebdo 色白
 {0}yg+kh+rj+ebjgfbiong.seesueufuoea 色素沈着
 {0}yg+klmbof.seemau 色碼
 {0}yg+klfhkf.seemau 色码
@@ -1014,6 +1018,7 @@
 {0}yj 明
 {0}yjz+z 暈
 {0}yjk+n 暖
+{0}yj.pxmkx.yjenjo 厭男
 {0}yj.pa+dc+fueeo.mgotmoxyizia 萌田薫子
 {0}yj.yjknne.wfinru 温暖
 {0}yj.nne.wfiuvu 温水
@@ -1234,6 +1239,7 @@
 {0}nd+prwlfdf.iuufao 処罰
 {0}nd+nspwel.loehdu 落海
 {0}nd+nkmxel.loelwe 落涙
+{0}nd+tedf.iuuuie 処世
 {0}nd+cp+llixldfkc.iuuliuqie 処理器
 {0}nd+cp+dhiodfkc.iuuliuxie 処理系
 {0}nd+mbmoel.loemau 落馬
@@ -1331,6 +1337,7 @@
 {0}na+vr+hofdndjf.fjuzeojio 反則級
 {0}na+vmd.uvuffi 水分
 {0}na+vweg.uvujke 水鏡
+{0}na+vj+cjdgwl.uvuuhimde 水商売
 {0}na+wxuin.ulidve 双対
 {0}na+wxuid.fjudve 反対
 {0}na+wx.uvuwfo 水文
@@ -1597,6 +1604,7 @@
 {0}xm+hi+mkkizvix.xpoyiecgo 协议层
 {0}xm+ha+xu+wepwi.njonvudvelie 男女対立
 {0}xm+ha+wlskjp.njonvulye 男女論
+{0}xm+ha+ebkp.njonvuiae 男女差
 {0}xm+cydp.njougi 男声
 {0}xm+ca+fjcpw.njoouujnu 男主角
 {0}xm+mx+zkevs.suiyiiuie 苏伊士
@@ -1640,6 +1648,7 @@
 {0}xm+jklzv.xpotso 协同
 {0}xm+jjjj.leiguu 肋骨
 {0}xm+ja+xnpj.njopgoyzu 男朋友
+{0}xz 参考
 {0}xzx+y 奢
 {0}xv+ncixo.lnofau 療法
 {0}xw+rk+frseklm.jkuwwedve 警卫队
@@ -3456,6 +3465,7 @@
 {0}ud+os+sukrnmks.bweyjetiu 被験体
 {0}ud+okvwkr.xbixki 新兴
 {0}ud+ojxmxn.piolco 疲労
+{0}ud+oj+wlowkrigg.xbiuiedmu 新視点
 {0}ud+sbwkr.xbinmo 新年
 {0}ud+sp+wlidmwkrnw.xbihduigo 新海誠
 {0}ud+sukp.trotiu 团体
@@ -4033,6 +4043,7 @@
 {0}hh.wprfwh.xyoloo 巡逻
 {0}hh.dwwdfwh.xyohho 巡航
 {0}hc 経
+{0}hm 娚
 {0}hm.pm+rmxlfkkr.maummeqyo 马面裙
 {0}hm.pw+ca+xkfltkhip.wuimuuliuqio 乌姆里奇
 {0}hm.pk+ua+wxrrtkfy.wuiluumueqio 乌鲁木齐
@@ -4895,6 +4906,7 @@
 {0}mx+pkcis.yiigoo 伊国
 {0}mx+tu+xl+ik.kgdnscsr.yiidieoiihsoxxe 伊地知虹夏
 {0}mx+ur+uz+du+tusnseef.yiildemoelieyeu 伊濑茉莉也
+{0}mx+hkm.lienvu 励女
 {0}mx+hkfcu.uuinqu 枢纽
 {0}mx+ma+ia+mx+ca+xkflskqsp.yiiwjevvayiiliuqio 伊万･伊里奇
 {0}mx+zzrpu.uuiozo 枢軸
@@ -6159,6 +6171,7 @@
 {0}vk+xa+zfuzw.ksiwfozie 空文字
 {0}vk+rz.ksiosi 空中
 {0}vk+ra+dm+sfyszi.ksiosiigoxle 空中成像
+{0}vk+usxcjtk.fueqro 賦権
 {0}vk+udnlz.ksigeo 空格
 {0}vk+gt,kftzicd.oiexiisiu 窒息死
 {0}vk+cu+sklzs.ksijioheo 空集合
@@ -6195,6 +6208,7 @@
 {0}vj+uze.qiimoe 期末
 {0}vj+uwco.jiooue 脊柱
 {0}vj+usco.jioivo 脊椎
+{0}vj+cjdgwl.uhimde 商売
 {0}vj+za+zm+dcleucrn.qiimoebcegce 期末報告
 {0}vj+za+li+moskseuwtk.qiimoeuieyje 期末試験
 {0}vj+ve+stwleu.uhiyeehxe 商業化
@@ -7987,6 +8001,7 @@
 {0}ss,kp+dhioicuo.zoebnixie 座標系
 {0}ss,klkewz.zuoyjo 卒研
 {0}ss,kkkkj.llusji 两三
+{0}ss,fygec.njosee 難色
 {0}ss,jeeldkr.yueuje 御膳
 {0}sl 何
 {0}sl+uecg.qiuldo 起来
@@ -8727,6 +8742,7 @@
 {0}le+dsubfwsn.huewwe 護衛
 {0}le+dlekdk.tmotmo 甜甜
 {0}le+dlkrjwej.jluuii 講師
+{0}le+kpmrwvy.puumme 譜面
 {0}le+frzkgwci.yieyre 議院
 {0}le+fjrkikev.pgeiue 碰触
 {0}le+jugk.dzeruu 豆乳
@@ -9943,6 +9959,7 @@
 {0}im+zkb.hueuie 护士
 {0}im+zfuh.hrezie 幻字
 {0}im+wcskl.sieouu 飼主
+{0}im+wlevyyr.jiopuu 即譜
 {0}im+wjwdmsj.pmipho 偏旁
 {0}im+oco.luozce 炉灶
 {0}im+od+ms+puihyddwdh.hreykulvutro 幻影旅団
@@ -11725,6 +11742,7 @@
 {0}km+xu+itrwwi.fwidveyki 非対応
 {0}km+xu+duforwwi.fwidveigi 非対称
 {0}km+xdrkirw.fwiduo 非独
+{0}km+xa+kh+djrfzsvm.jxifueohuoie 家父長制
 {0}km+rpgzs.jxidme 家电
 {0}km+rr,mkpevmikr.yuuiriyie 羽川翼
 {0}km+rcwdhsr.xpeoli 卸装
@@ -12412,6 +12430,7 @@
 {0}kf+kl+kj+hklvhskshk.jkiheozuuoii 经合组织
 {0}kf+keb.daukdi 打开
 {0}kf+kedddxl.qioxko 奇形
+{0}kf+kixmb.daudse 打动
 {0}kf+kkgks.cieyro 次元
 {0}kf+kflz.nkokeu 宁可
 {0}kf+fusf.liezia 例子
@@ -13468,6 +13487,7 @@
 {0}jg+udfu.xlijii 相机
 {0}jg+ggde.sreiui 算出
 {0}jg+ga+negjdm.ziejiumju 自己満
+{0}jg+ga+rt,kpxfzdmfsg.ziejiutcozve 自己陶酔
 {0}jg+ga+ca+fmkhdmw.ziejiuouuohi 自己主張
 {0}jg+ga+wc+dduidmn.ziejiuoueuee 自己注射
 {0}jg+ga+om+srrdmhdl.ziejiuucejpe 自己紹介
@@ -13660,6 +13680,7 @@
 {0}jz+zzkkiwz.yyeoru 運転
 {0}jz+zk+yd+wlszwzzkifg.yyeorummuxuu 運転免許
 {0}jz+ojldlwz.yyeyko 運営
+{0}jz+sklrwz.yyemke 運命
 {0}jz+sk+tdbkbzfxt.hvifaixke 揮発性
 {0}jz+dcxmwz.yyedse 運動
 {0}jz+dskkfwz.yyexko 運行
@@ -13851,12 +13872,16 @@
 {0}jd+poixng.ifomoe 沉默
 {0}jd+ncing.grifau 观法
 {0}jd+nmknng.ifojbe 沉浸
+{0}jd+xk+nudnjnlojv.geolweboi 骼類波
+{0}jd+xk+zjkkjnlojv.geolweoio 骼類直
+{0}jd+xk+fmkhjnlojv.geolweohi 骼類張
 {0}jd+rikkqg.niohso 霓虹
 {0}jd+udnrfi.fjibju 帆板
 {0}jd+mk+itkngnn.ifojbeuie 沉浸式
 {0}jd+woung.ifomio 沉迷
 {0}jd+wlong.gridmu 观点
 {0}jd+wkcg.mdeuhe 売上
+{0}jd+oxkjvjnl.geolwe 骼類
 {0}jd+sssng.griose 观众
 {0}jd+siyhjg.mieuio 觅食
 {0}jd+ik.okfkqgr.niohsodgi 霓虹灯
@@ -13872,6 +13897,7 @@
 {0}jk+pa+ez+uuizvc.ofitmoxkecyi 真田幸村
 {0}jk+yjknyn.nrunru 暖暖
 {0}jk+nwvhbg.ycogyu 揺滾
+{0}jk+nddhbn.yropde 援派
 {0}jk+xbzblzk.oioxxo 直辖
 {0}jk+tzv.ofixbi 真心
 {0}jk+rpzv.ofiyzo 真由
@@ -14012,6 +14038,7 @@
 {0}jj.tkklogg.jtowue 覚悟
 {0}jj.rcyogg.jtouui 覚書
 {0}jj.uvfdnj.hxotii 滑梯
+{0}jj.usxcbn.uzeqro 授権
 {0}jj.udnnj.hxobju 滑板
 {0}jj.udnlj.guugeo 骨格
 {0}jj.gu+weyjwi.guudcuybi 骨導音
@@ -14034,6 +14061,7 @@
 {0}jj.ia+vfknwlc.goequelue 過去録
 {0}jj.ia+kedddwlc.goequexko 過去形
 {0}jj.ia+fl+scuwlcy.goequewfejio 過去問集
+{0}jj.dn+ud+kfcjulnn.guugeoboixko 骨格波型
 {0}jj.dn+ls+hudkrjulwdd.guugeoofudre 骨格診断
 {0}jj.dn+kfcjul.guugeoxko 骨格型
 {0}jj.dtrfwl.goeuge 過剩
@@ -14105,6 +14133,7 @@
 {0}ja+zzjy.mkoico 明朝
 {0}ja+zvsls.nwerso 内容
 {0}ja+zvkx.yzuksi 有空
+{0}ja+zk+djxmszki.nweorujbi 内転筋
 {0}ja+vx+jg+cx+uhiixzmddm.yzuqsoziedsejii 有穷自動機
 {0}ja+vwzzs.nwelme 内鏈
 {0}ja+vs+wi+nj+yi+wlskjszlngdeug.nwersolqopjogdelye 内容流通基盤概論
