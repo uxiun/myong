@@ -1405,6 +1405,7 @@
 {0}na+jm.jz+dcxmikkwz.bkixtuyyedse 氷雪運動
 {0}na+jvrfd.fjuzeo 反則
 {0}na+jl+wz,bwehddvz.fjuxlelmejpi 反向鏈接
+{0}na+jk+zkiczbn.oiiyrouie 支援室
 {0}x 大
 {0}xb,bwehw.lmojpi 连接
 {0}xb,bdupw.lmoboi 连播
@@ -2801,6 +2802,7 @@
 {0}rk+sstew.fwilyo 菲伦
 {0}rk+ssmwv.yiozoe 遺作
 {0}rk+ssmk.gsizoe 工作
+{0}rk+si+ey+weyusviw.tcolkoybiybi 桃鈴音音
 {0}rk+skkiwv.yioyyo 遺伝
 {0}rk+skjnsw.pdoyzi 俳優
 {0}rk+sk.gsirfo 工人
@@ -7387,6 +7389,7 @@
 {0}oa+bf,dikmr.buenaemea 不那么
 {0}oa+bf+dikmr.buenaemea 不那么
 {0}oa+qv+zvslke.buejmirso 不兼容
+{0}oa+prjgvk.buemdu 不買
 {0}oa+ph+ffkk.bueycelea 不要了
 {0}oa+pa+jg+wckrd.bueyzozieouu 不由自主
 {0}oa+ymkc.houyce 火曜
@@ -8534,6 +8537,7 @@
 {0}lm+xl+ta+cp+ojfuwitskc.rfeoiixbiliuxto 認知心理学
 {0}lm+twetwg.jieyie 記憶
 {0}lm+rjmkhwg.jieohe 記帳
+{0}lm+ggws.yieiui 訳出
 {0}lm+hlsn.jxuruo 假如
 {0}lm+hkjpuwkl.ciohve 詞彙
 {0}lm+mdxnsn.jxufae 假髪
@@ -9479,6 +9483,7 @@
 {0}ev+dt+edufkb.yaetoilie 亚托莉
 {0}ev+dulkczs.sdeigo 赛程
 {0}ev+dg+vfrdpl.yiexsidie 異兄弟
+{0}ev+dcxmp.yiedse 異動
 {0}ev+dzpckd.yjoose 严重
 {0}ev+dwfxczs.sdetku 赛艇
 {0}ev+dskkfe.bkexko 並行
@@ -10009,6 +10014,7 @@
 {0}iz+wlkklwv.uueyuu 述語
 {0}iz+szpz.zderfo 載人
 {0}iz+lwsrj.buuzuo 補足
+{0}iz+lllwn.qqopbu 逑品
 {0}iz+lk+ls+kcpcwvwklwkj.uueyuulyeliu 述語論理
 {0}iz+it+xs+iokrljreuwx.huodpoxneyki 蝴蝶效应
 {0}iz+it+ekkrljreu.huodpoljo 蝴蝶兰
@@ -10162,6 +10168,7 @@
 {0}il+la+ki.momsfzmc.mkoguuwuiyie 名古屋駅
 {0}il+la+ki.vf+kfkjvfzmcz.mkoguuwuiqsodku 名古屋穹頂
 {0}il+la+ki.wrjfzmc.mkoguuwuiuie 名古屋市
+{0}il+enydt.yiodhe 怡蕩
 {0}il+ecdbif.mkoyie 名義
 {0}il+ejrff.mkoqmo 名前
 {0}il+ihmklf.mkocio 名词
@@ -11838,6 +11845,7 @@
 {0}kv+bszd.gxufui 寡夫
 {0}kv+rtjyp.udebwe 晒背
 {0}kv+hmkjzd.gxufue 寡婦
+{0}kv+csmgo.xkiqiu 兴起
 {0}kv+csmzno.xkique 兴趣
 {0}kv+mbmos.bkimau 兵馬
 {0}kv+wh+hm.dlgsegfk.bkihlimaulre 兵荒马乱
@@ -12551,6 +12559,7 @@
 {0}ka+rj+dytiudgv.bfuoiedea 本質的
 {0}ka+ra+og+dbkbzsi.yiigeeliubde 一个礼拜
 {0}ka+ra+ss.yiigeerfo 一个人
+{0}ka+ra+js.yiigeeyte 一个月
 {0}ka+ur+bxdf.zoulieuzu 左利手
 {0}ka+ueb.yiiyhe 一样
 {0}ka+ueu.bfuldo 本来
@@ -13140,6 +13149,7 @@
 {0}fk+zn+cykdyeib.dzejieihu 闘技場
 {0}fk+zkwsfjv.yuedke 預定
 {0}fk+zkwsfjs.yuedke 预定
+{0}fk+zjkkye.kdioio 開直
 {0}fk+vfjv.yuejbi 預金
 {0}fk+wurdri.fgisue 風速
 {0}fk+wmsxye.kdifhe 開放
@@ -14083,6 +14093,7 @@
 {0}ja+bdzqs.nweiai 内插
 {0}ja+bkpwix.yzuduo 有毒
 {0}ja+pxs.nweybi 内因
+{0}ja+pm+stskr.nwemmehxe 内面化
 {0}ja+psrrx.yzujpe 有界
 {0}ja+yy.mkorie 明日
 {0}ja+yuix.yzuuio 有时
@@ -14188,6 +14199,7 @@
 {0}ja+dfwdhs.nweoie 内製
 {0}ja+df+xjxnn.yzumwoyzu 有没有
 {0}ja+djlx.yzuxle 有向
+{0}ja+kpmrs.nwemme 内面
 {0}ja+kpmr.ytemme 月面
 {0}ja+kp+bk+dbtddxbwid.yzuduougiwue 有毒生物
 {0}ja+kxy.mkotmi 明天
