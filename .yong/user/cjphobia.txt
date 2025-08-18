@@ -1232,6 +1232,7 @@
 {0}ni.erpvei.bcohlo 薄黄
 {0}ni.esuei.bcoiao 薄茶
 {0}ni.fkfikei.bcoroe 薄弱
+{0}ni.ja+kg+hodyneiyo.bcomkoglixme 薄明光線
 {0}nd 没
 {0}ndm+x 激
 {0}ndf+i 汎
@@ -4396,6 +4397,7 @@
 {0}cx+zvsle.mwurso 美容
 {0}cx+ze+sihyemx.mwulmoiuu 美联储
 {0}cx+vs+nwsxezl.mwursoyee 美容液
+{0}cx+vs+xk+kedddezluwk.mwursooguxko 美容整形
 {0}cx+vs+zkicezl.mwursouie 美容室
 {0}cx+vs+dlkrjezl.mwursouii 美容師
 {0}cx+wlmkldm.dsecio 動詞
@@ -5364,6 +5366,7 @@
 {0}mk+kd+njvuxilnl.tcelueufi 套路深
 {0}mk+ka+bmkb.scuyiiscu 扫一扫
 {0}mk+frskubj.scuiuo 掃除
+{0}mk+fe+yi+xkwkljvyxdr.veegrijpooge 顎関節症
 {0}mk+jbne.ljeyse 濫用
 {0}mk+jxoo.dhirjo 当然
 {0}mk+jo.dhiyte 当月
@@ -6681,6 +6684,7 @@
 {0}we+vd+ks+ml+evdkrbekrhcx.laisiiwwojxisii 拉斯维加斯
 {0}we+wursl.bwesue 倍速
 {0}we+wlmgyy.vjejie 暗記
+{0}we+wiszsl.bwelve 倍率
 {0}we+wijcl.pwoyue 培育
 {0}we+wdkrbh.jpijbe 接近
 {0}we+ohsxsl.bweuue 倍数
@@ -11533,6 +11537,7 @@
 {0}kg+uek.yroldo 元来
 {0}kg+ukkoo.glibni 光标
 {0}kg+ufdnljj.bgejio 蹦极
+{0}kg+hodyno.glixme 光線
 {0}kg+hojkk.yrozuu 元組
 {0}kg+hs+bmzlkox.yrouuejue 元数据
 {0}kg+cl+xksjwouj.iiuozibke 歯周病
@@ -13386,6 +13391,7 @@
 {0}jr+mdxnef.qmofae 前髪
 {0}jr+zxyef.qmooeu 前者
 {0}jr+zzjef.qmoico 前朝
+{0}jr+zvixef.qmotui 前突
 {0}jr+zkwsdf.oiedke 制定
 {0}jr+wrkdf.oieoiu 制止
 {0}jr+wr+ditwkwjsk.dieqiuveo 帝企鹅
