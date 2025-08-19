@@ -1684,6 +1684,7 @@
 {0}xl+usxcs.oiiqro 知権
 {0}xl+csplw.lbesee 吝嗇
 {0}xl+ca+ykpckl.tyituulle 吞吐量
+{0}xl+zpts.oiihve 知恵
 {0}xl+zrrfs.oiiuie 知事
 {0}xl+wlwiys.oiiuio 知識
 {0}xl+wedgs.oiidce 知道
@@ -2022,6 +2023,7 @@
 {0}xa+dd,jg+pa+xa+nciwjhdrw.wfomdezieyzowfofau 文脈自由文法
 {0}xa+dd,jg+pa+kk.wlkklwjhdrwl.wfomdezieyzoyjoyuu 文脈自由言語
 {0}xa+dd,jg+rpwjhd.wfomdezieyzo 文脈自由
+{0}xa+kpmrw.wfomme 文面
 {0}xa+krkk.tmigsi 天工
 {0}xa+kue.griyuo 关于
 {0}xa+kcrfw.daodce 达到
@@ -2519,6 +2521,7 @@
 {0}rr,nirrkk.yaeozi 亜洲
 {0}rr,nddhbj.bhipde 帮派
 {0}rr,tbkjzf.uieqko 事情
+{0}rr,rpzf.uieyzo 事由
 {0}rr,rktkk.yaebwu 亞北
 {0}rr,gxklr.iriqio 川崎
 {0}rr,gsf.fuouji 佛山
@@ -3549,6 +3552,7 @@
 {0}uk+vmdk.wuuffi 五分
 {0}uk+vlfsuko.jbeyue 禁欲
 {0}uk+wrkuko.jbeoiu 禁止
+{0}uk+wljcls.tiudne 体調
 {0}uk+wijs.tiuyue 体育
 {0}uk+ot+vwbhk.wwoytijbi 違約金
 {0}uk+ouwepjv.keilie 顆粒
@@ -6449,8 +6453,10 @@
 {0}wt+wsrfr.bwijue 悲劇
 {0}wt+wldhr.bwivdi 悲哀
 {0}wt+wklj.zvuuhe 嘴上
+{0}wt+wjjlnt.lvegoe 濾過
 {0}wt+scjggr.bwigri 悲観
 {0}wt+lersr.bwitje 悲嘆
+{0}wt+frskunt.lveiuo 濾除
 {0}wr 部
 {0}wrk+s 逃
 {0}wr+bsjggkk.ogegvi 正規
