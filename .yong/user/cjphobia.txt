@@ -10730,6 +10730,7 @@
 {0}dt+hpxhy.hyiybi 婚姻
 {0}dt+hotkhy.hyiyti 婚約
 {0}dt+hixmsk.diiyze 低幼
+{0}dt+hdchy.hyirfe 婚妊
 {0}dt+mvpysk.diicgo 低層
 {0}dt+me+fxdwkskwb.diiiioyjo 低遅延
 {0}dt+zvksk.diiksi 低空
@@ -13921,6 +13922,7 @@
 {0}jk+nwvhbg.ycogyu 揺滾
 {0}jk+nddhbn.yropde 援派
 {0}jk+xbzblzk.oioxxo 直辖
+{0}jk+tyn.nruxbi 暖心
 {0}jk+tzv.ofixbi 真心
 {0}jk+rpzv.ofiyzo 真由
 {0}jk+rjxzv.ofiyhi 真央
