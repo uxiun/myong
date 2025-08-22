@@ -3365,6 +3365,7 @@
 {0}ui+zldgy.jiiguu 稽古
 {0}ui+vfkns.fuelue 付録
 {0}ui+vj+dytiwe.goeqiidea 过期的
+{0}ui+va+wlvlgdf.siixnuuoi 私小説
 {0}ui+wxrrn.dveqio 对齐
 {0}ui+wttw.goelve 过虑
 {0}ui+wmks.fueyuu 付与
@@ -13918,6 +13919,7 @@
 {0}jk+bdupzk.oioboi 直播
 {0}jk+pcfiful.tsoyeu 桐野
 {0}jk+pm+jgzvkr.ofimmemue 真面目
+{0}jk+pwikki.yyomuu 雲母
 {0}jk+pa+ez+uuizvc.ofitmoxkecyi 真田幸村
 {0}jk+yjknyn.nrunru 暖暖
 {0}jk+nwvhbg.ycogyu 揺滾
