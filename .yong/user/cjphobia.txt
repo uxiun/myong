@@ -7322,6 +7322,7 @@
 {0}of+sghkn.lvexmi 緑仙
 {0}of+ep+epduhknjh.lvensojyi 緑膿菌
 {0}of+esuhkn.lveiao 緑茶
+{0}of+kfkjvhyg.jtodku 絶頂
 {0}of+kjpghkn.lvedme 緑電
 {0}of+fyghkn.lvesee 緑色
 {0}of+ja+frwezhkns.lvenweohe 緑内障
@@ -8211,6 +8212,7 @@
 {0}sk+kedddjk.lmuxko 脸形
 {0}sk+kekjvdkf.xkotzo 行頭
 {0}sk+kixmdkf.xkodse 行动
+{0}sk+kd+nudnjkodf.jieoueboi 祭筑波
 {0}sk+kksxdkf.xkooge 行政
 {0}sk+kfrfdkf.xkolpe 行列
 {0}sk+kjpgfxt.faidme 発電
@@ -10803,6 +10805,7 @@
 {0}du+ggbp.boiiui 播出
 {0}du+ggdi.ueeiui 射出
 {0}du+znbdi.ueejii 射撃
+{0}du+zzfsf.rzorru 柔軟
 {0}du+wmsxbp.boifhe 播放
 {0}du+weybp.boiybi 播音
 {0}du+wedgf.rzodce 柔道
@@ -11787,6 +11790,7 @@
 {0}km+zkwsrw.fwidke 非定
 {0}km+zjezmik.yuunjo 羽南
 {0}km+zjkkrw.fwioio 非直
+{0}km+vfxbzs.jxijme 家鍵
 {0}km+wrkrw.fwioiu 非止
 {0}km+wrksrw.fwiyio 非遗
 {0}km+wmssxzs.jxizuo 家族
@@ -12163,6 +12167,7 @@
 {0}kd+va+kozmy.xiojbipko 習金平
 {0}kd+wxmlnl.luebmi 路边
 {0}kd+wegkjhnw.osidri 终端
+{0}kd+wklnl.lueuhe 路上
 {0}kd+od+pwxlnlhyn.luexmetuo 路線図
 {0}kd+sbmxfxr.jnivce 骄傲
 {0}kd+svslmy.xiosuo 習俗
