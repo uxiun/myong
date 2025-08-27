@@ -7093,6 +7093,7 @@
 {0}oz+sf+kciznkdxf.pkohgoqqo 平衡球
 {0}oz+lhtk.pkombo 平民
 {0}oz+ilk.pkotdo 平台
+{0}oz+idmk.pkoigo 平成
 {0}oz+dn+pwxhsypl.soiltetuo 縮略図
 {0}oz+dn+filks.pkofjumko 平仮名
 {0}oz+dulk.pkoheo 平和
@@ -7891,6 +7892,7 @@
 {0}sm+tw+bwehcdlsxb.icilmejpi 超链接
 {0}sm+tes.zoeuie 作世
 {0}sm+rs.zoeosi 作中
+{0}sm+usxlcdl.icioii 超椥
 {0}sm+uecg.qiuldo 起来
 {0}sm+gp+plsk.zoehxehvo 作画回
 {0}sm+hkfdncdl.icijio 超级
@@ -11566,6 +11568,7 @@
 {0}kg+srfxrs.ocehze 兆候
 {0}kg+sixo.glifuo 光伏
 {0}kg+sfxk.yroqie 元気
+{0}kg+lkhmk.yrohce 元号
 {0}kg+ezojk.yroqne 元鞘
 {0}kg+efskwou.iiujki 歯茎
 {0}kg+ivklwou.iiumoo 歯磨
@@ -12202,6 +12205,7 @@
 {0}kk.ydbkk.sjixki 三星
 {0}kk.ykwssi.hveuie 会是
 {0}kk.nizjk.sjipuu 三浦
+{0}kk.nkflk.sjiheo 三河
 {0}kk.na+dsivfmli.xyouvuuue 尋水術
 {0}kk.xbskfwi.yyeuui 运输
 {0}kk.xk.sjidae 三大
