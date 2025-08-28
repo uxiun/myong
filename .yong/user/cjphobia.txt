@@ -3601,6 +3601,7 @@
 {0}uf+srfxdu.jiehze 季候
 {0}uf+sddif.yiorue 移入
 {0}uf+lhtdif.yiombo 移民
+{0}uf+estdu.jiehxi 季花
 {0}uf+ixmido.igiwwe 称为
 {0}uf+ix+na+suidifkmz.yiodseoiifue 移动支付
 {0}uf+ix+ildifkm.yiodsetdo 移动台
@@ -3866,6 +3867,7 @@
 {0}gd+wdmjg.jmefhi 見方
 {0}gd+ojjdgjzk.uvejto 睡觉
 {0}gd+evjkn.xxeqii 夏期
+{0}gd+estkn.xxehxi 夏花
 {0}gd+dbkkn.xxeugi 夏生
 {0}gd+db,dk+ecxwyomgdjv.jqewwuxuimwu 鷲尾須美
 {0}gd+dubkvjg.jmejii 見積
@@ -4676,10 +4678,12 @@
 {0}ci+niln.fauoie 法治
 {0}ci+njklkzn.qqodse 球洞
 {0}ci+xmk.yailie 压力
+{0}ci+xei.yiedae 藝大
 {0}ci+tlgd.dqibci 丢包
 {0}ci+rrkjn.fauuii 法师
 {0}ci+ukzkzn.qqogji 球杆
 {0}ci+ukjr.jnubfu 脚本
+{0}ci+hrweyk.yuexlu 玉響
 {0}ci+hs+kwrknmx.faugduoge 法改正
 {0}ci+hkfdnkrc.bjijio 班级
 {0}ci+zu+rgkrcl.bjiwwevro 班味儿
@@ -4702,6 +4706,7 @@
 {0}ci+ka+zkmsjru.jnubfujxi 脚本家
 {0}ci+fydik.yuetue 玉兔
 {0}ci+frzkgn.fauyre 法院
+{0}ci+jskkoei.yiejie 藝祭
 {0}cd+bljvdfn.hvusyu 毀損
 {0}cd+nspwkzu.ouihdu 珠海
 {0}cd+xa+tdbkdgk.xmitmixke 先天性
@@ -7693,11 +7698,13 @@
 {0}st+ey+tdbkkwt.zieyiexke 恣意性
 {0}st+ex,rrrel.hxixneiri 花咲川
 {0}st+ex,rr,ua+jf+pclhelrfou.hxixneiriziaxtoyro 花咲川女子学園
+{0}st+evje.hxiqii 花期
 {0}st+ewzze.hxilmo 花蓮
 {0}st+imjs.ohehue 账户
 {0}st+dbtddji.gzewue 购物
 {0}st+dbke.hxiugi 花生
 {0}st+driee.hxiljo 花篮
+{0}st+dufue.hxijie 花季
 {0}st+kcpcs.lyoliu 伦理
 {0}st+kk.eteuewl.hxiyjoyee 花言葉
 {0}st+fxdwkbu.toiyjo 拖延
@@ -8068,6 +8075,7 @@
 {0}si+kfzjkeyh.yhuoio 養殖
 {0}si+fueyh.yhuzia 養子
 {0}si+fk+howdmvidri.lkofgifhu 鈴風紡
+{-}si+fk+zgeldri.chifgiqii 蒼風七
 {0}si+fk+kk.xkkoeldrixo.chifgindende 蒼風奈奈
 {0}sd+brkwjyo.jiipdo 鶏排
 {0}sd+nykdjyo.jiithi 鶏湯
@@ -11089,6 +11097,7 @@
 {0}de,sxy.lperfo 猎人
 {0}de,sluxsn.hoebcu 獲保
 {0}de,lite 悳来(^Delite)
+{0}de,ekezy.ugihxo 昇華
 {0}de,dsykixsn.hoedeo 獲得
 {0}de,ki.ms+kjmkxpmcix.mciwuifuixtu 猫屋敷雪
 {0}de,ki.ms+jk+rpxpmcixzv.mciwuifuiofiyzo 猫屋敷真由
@@ -12638,6 +12647,7 @@
 {0}ka+wm+wviswu.hsoyzohui 仜遊戯
 {0}ka+wzpz.yiilmo 一連
 {0}ka+wl 一点
+{0}ka+wlgv.yiixru 一選
 {0}ka+wlmgw.uhejie 上記
 {0}ka+wlow.uhejki 上京
 {0}ka+wlo.yiidmu 一点
