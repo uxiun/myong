@@ -906,6 +906,7 @@
 {0}ye+rj+tk+fk+fskxtnnxiye.puebueuiekdifai 瀑布式開発
 {0}ye+cofson.bcekru 爆款
 {0}ye+oon.bcehou 爆火
+{0}ye+od+rjnvhht.uiioiujbi 湿紙巾
 {0}ye+okgyn.puegli 曝光
 {0}ye+ihxnon.bcefai 爆发
 {0}ye+kfwdhon.bcelpe 爆裂
@@ -1681,6 +1682,7 @@
 {0}xl+ba+rr,le+zxyesswsn.roenmojpehueoeu 若年介護者
 {0}xl+yt+bk+wddbksdid.oiideaugiiju 知的生産
 {0}xl+te+jgcvceeu.roeyeemue 若葉睦
+{0}xl+rr,wlgvszf.oiiuiexru 知事選
 {0}xl+usxcs.oiiqro 知権
 {0}xl+csplw.lbesee 吝嗇
 {0}xl+ca+ykpckl.tyituulle 吞吐量
@@ -2278,6 +2280,7 @@
 {0}te+ffsy.coelea 错了
 {0}ti 勾
 {0}ti+ts+nkvpejeg.puotcojqu 葡萄酒
+{0}ti+vibv.dneqmo 釣銭
 {0}ti+wdclu.gzezce 构造
 {0}ti+wfijn.gzitsi 沟通
 {0}ti+etsgej.puotco 葡萄
@@ -2680,6 +2683,7 @@
 {0}rs+sdhx.uzirue 收入
 {0}rs+ldkrhx.uzitki 收听
 {0}rs+lfii.ybikzu 陰口
+{0}rs+epdufku.iuojyi 除菌
 {0}rs+efskfii.ybijki 陰茎
 {0}rs+is+wlkklsdsrj.xqiuieyuu 修飾語
 {0}rs+is+fusdsrj.xqiuiezia 修飾子
@@ -3816,6 +3820,7 @@
 {0}gg 出
 {0}gg,bdkrm.quioeo 屈折
 {0}gg,dk+wlkklmbr.quioeoyuu 屈折語
+{0}gh+xl+zrrfjos.xmeoiiuie 県知事
 {0}gmg+g 崛
 {0}gm+kcwxcokc.ycebji 耀斑
 {0}gm+jgjdj.ouumue 瞩目
@@ -3872,6 +3877,7 @@
 {0}gd+db,dk+ecxwyomgdjv.jqewwuxuimwu 鷲尾須美
 {0}gd+dubkvjg.jmejii 見積
 {0}gd+kickn.xxeoie 夏至
+{0}gd+ka+wlctjgu.jmebfuoie 見本誌
 {0}gd+jglhtjzk.uvemmo 睡眠
 {0}gd+jmrnkn.xxefuo 夏服
 {0}gd+jk+kgpknkkv.xxelkohxe 夏霊画
@@ -5095,6 +5101,7 @@
 {0}ms+niyhwx.fhelhe 放浪
 {0}ms+xrcwx.fhezde 放在
 {0}ms+xrfur.ujucyo 闪存
+{0}ms+xrjix.fuibue 敷布
 {0}ms+xmlwtu.uiijxi 施加
 {0}ms+twx.fhexbi 放心
 {0}ms+rpgr.ujudme 闪电
@@ -5259,6 +5266,7 @@
 {0}md+wjkct.qpewhe 切望
 {0}md+oxkjvv.ffilwe 分類
 {0}md+ouxv.ffilwe 分类
+{0}md+okgv.ffigli 分光
 {0}md+strv.ffiosi 分钟
 {0}md+stv.ffihxe 分化
 {0}md+sgrfr.iuiile 初创
@@ -5611,6 +5619,7 @@
 {0}zm+dclcrn.bcegce 報告
 {0}zm+dssyncrn.bcefue 報復
 {0}zm+kpirrcrn.bceizo 報酬
+{0}zm+kgpcrn.bcehxe 報画
 {0}zz,pcfidg.fjeizo 範疇
 {0}zz,peedg.fjetsi 範囲
 {0}zz,nfinj.icoxii 潮汐
@@ -6008,6 +6017,7 @@
 {0}vx+fi+wkwwwj.jnitsikau 交通卡
 {0}vx+fi+jxxwwj.jnitsiwhu 交通网
 {0}vx+ja+xnwj.jnipgoyzu 交朋友
+{0}vti 釣
 {0}vt+bwljk.veegcu 恶搞
 {0}vt+tw.lmexbi 恋心
 {0}vt+tk.veexbi 恶心
@@ -7232,6 +7242,7 @@
 {0}od+rrkrydd.ykupme 影片
 {0}od+rcyhss.zseuui 縦書
 {0}od+rw+xmyddhey.ykuxlulie 影響力
+{0}od+rjhht.oiujbi 紙巾
 {0}od+ubxbhyj.mmobhe 綿棒
 {0}od+uy.st+ohynde.xmexlihxihou 線香花火
 {0}od+uzhnw.osimoe 終末
@@ -8075,7 +8086,6 @@
 {0}si+kfzjkeyh.yhuoio 養殖
 {0}si+fueyh.yhuzia 養子
 {0}si+fk+howdmvidri.lkofgifhu 鈴風紡
-{-}si+fk+zgeldri.chifgiqii 蒼風七
 {0}si+fk+kk.xkkoeldrixo.chifgindende 蒼風奈奈
 {0}sd+brkwjyo.jiipdo 鶏排
 {0}sd+nykdjyo.jiithi 鶏湯
@@ -10644,6 +10654,7 @@
 {0}dn+uhiib.bjijii 扳機
 {0}dn+uhiizl.keejii 客機
 {0}dn+um.fhzllpwi.tuouuigru 图书馆
+{0}dn+usxlu.bjuoii 板椥
 {0}dn+udnlf.jiogeo 及格
 {0}dn+udfb.bjijii 扳机
 {0}dn+udfzl.keejii 客机
@@ -11590,6 +11601,7 @@
 {0}kg+jtlgk.yrobci 元胞
 {0}kg+je+stou.gliujihxe 光柵化
 {0}kh+bnkprbio.suemme 素麺
+{0}kh+bepbio.suemno 素描
 {0}kh+bk+tlgbtj.bnuqkobci 表情包
 {0}kh+bk+za+zklpbtjb.bnuqkofgifue 表情丰富
 {0}kh+yjb.bnumko 表明
@@ -11636,6 +11648,7 @@
 {0}kh+siyhbio.sueuio 素食
 {0}kh+lm+bjkgbwg.bnujieyco 表記揺
 {0}kh+ld+xmkmzg.qnukeelie 巧克力
+{0}kh+ep+ukbiob.suemnobfu 素描本
 {0}kh+etxtm.ohucsi 長葱
 {0}kh+evjm.ohuqii 長期
 {0}kh+esiyhbio.sueyhu 素養
@@ -13823,6 +13836,7 @@
 {0}js+ejsxwc.liosje 離散
 {0}js+ihitknf.ceeuie 测试
 {0}js+io+llixlexc.sjereeqie 散熱器
+{0}js+ierjwc.lioxio 離席
 {0}js+dn+dx,eikskculn.hoegeowoecio 霍格沃茨
 {0}js+dulkii.lkoheo 零和
 {0}js+dmdkrkf.ceesou 厕所
