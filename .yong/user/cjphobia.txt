@@ -1242,6 +1242,7 @@
 {0}nd+nspwel.loehdu 落海
 {0}nd+nkmxel.loelwe 落涙
 {0}nd+tedf.iuuuie 処世
+{0}nd+hdf.iuunvu 処女
 {0}nd+cp+llixldfkc.iuuliuqie 処理器
 {0}nd+cp+dhiodfkc.iuuliuxie 処理系
 {0}nd+mbmoel.loemau 落馬
