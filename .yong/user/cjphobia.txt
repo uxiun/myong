@@ -2072,7 +2072,8 @@
 {0}xa+jf+frzkgou.daextoyre 大学院
 {0}xa+jf+jj.eveuoubn.daextouzeyee 大学授業
 {0}tp+xosco.ddehvi 黛灰
-{0}ty 旨
+{0}ty 旬
+{1}ty 旨
 {0}ty+bzvkb.oiukse 指控
 {0}ty+bwvjb.oiuodi 指摘
 {0}ty+bjzzb.oiuhvi 指揮
@@ -3260,6 +3261,7 @@
 {0}uw+zn+iltdzb.keijiegju 科技感
 {0}uw+zxkhmdz.keikcu 科考
 {0}uw+zusxdz.keijne 科教
+{0}uw+voz.lnejbi 料金
 {0}uw+ojfudz.keixto 科学
 {0}uw+sgrfdz.keiile 科创
 {0}uw+slrfdz.keiile 科創
@@ -5222,6 +5224,7 @@
 {0}md+xrcdkr.souzde 所在
 {0}md+xrjv.ffibue 分布
 {0}md+xjdkr.souyzu 所有
+{0}md+tyr.iuixyo 初旬
 {0}md+ta+zxyr.iuixbioeu 初心者
 {0}md+rr.iuiosi 初中
 {0}md+rkrfv.ffihxe 分劃
@@ -5875,6 +5878,7 @@
 {0}zj+kp+sk+njsfdsycuk.oiellejmucee 质量检测
 {0}zj+kixmerj.ddedse 带动
 {0}zj+ki.pwxerjrx.ddeoletuo 帯状図
+{0}zj+kjlmnz.icoxxo 朝霞
 {0}zj+foebz.icoxmi 朝鮮
 {0}zj+fi+wrrfvvxj.ofetsejie 鎮痛剤
 {0}zj+jwmkcv.tmoxpu 填写
