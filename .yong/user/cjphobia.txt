@@ -1585,6 +1585,7 @@
 {0}xg+fryhk.wuoxme 无限
 {0}xh+uk+ra+wxsios.fjotiuosiwfo 繁体中文
 {0}xh+uk+zfusios.fjotiuzie 繁体字
+{0}xh+ha+nirrf.wuenvuozi 婺女洲
 {0}xh+suksio.fjotiu 繁体
 {0}xh+estsio.fjohxi 繁花
 {0}xh+dyfysio.fjojmu 繁簡
@@ -7654,6 +7655,7 @@
 {0}sx+nb+tdbkkz.gsijiixke 攻撃性
 {0}sx+xxvom.yiilno 医療
 {0}sx+xmuc.qrolie 権力
+{0}sx+xv+vl.dbgmxojg.yiilnotoimco 医療脱毛
 {0}sx+xksjx.jiobke 疾病
 {0}sx+rrtx.jiohre 疾患
 {0}sx+cwsx.jiozzu 疾走
@@ -8752,6 +8754,7 @@
 {0}le+njfukhi.ciofuo 磁浮
 {0}le+xvdfnwku.mzouai 謀殺
 {0}le+tzjvwrk.jbuufe 謹慎
+{0}le+rfnk.dzejli 豆浆
 {0}le+hopwb.xloxie 詳細
 {0}le+mbmomb.qyomau 群馬
 {0}le+mzddrmb.qyolno 群聊
