@@ -58,6 +58,7 @@
 {0}bx,kd+zkiczmy.uioxiouie 実習室
 {0}bx,kfcvi.ouexko 鋳型
 {0}bx,frjsoz.uiojie 実際
+{0}bx,fdsxmz.uiowue 実務
 {0}bx,jbz.uioyse 実用
 {0}bx,js+zdnlbxwx.zzediokee 揍敵客
 {0}bt,nwigddd.wuelqo 物流
@@ -2073,8 +2074,6 @@
 {0}xa+jf+frzkgou.daextoyre 大学院
 {0}xa+jf+jj.eveuoubn.daextouzeyee 大学授業
 {0}tp+xosco.ddehvi 黛灰
-{0}ty 旬
-{1}ty 旨
 {0}ty+bzvkb.oiukse 指控
 {0}ty+bwvjb.oiuodi 指摘
 {0}ty+bjzzb.oiuhvi 指揮
@@ -8256,6 +8255,7 @@
 {0}sk+fkrxdkf.xkouiu 行驶
 {0}sk+fkskkuk.jmuyje 检验
 {0}sk+fkknfle.dgilue 登录
+{0}sk+fk+vd+jd+zxyflevnjncg.dgiluefjemdeoeu 登録販売者
 {0}sk+jp+dmdkrfxtkg.faidmesou 発電所
 {0}sk+jgyjv.tiomue 題目
 {0}sk+jgdgfxt.faijme 発見
