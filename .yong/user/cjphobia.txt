@@ -3314,6 +3314,7 @@
 {0}us+dlkrjzx.jneuii 教師
 {0}us+fifixc.zaodoi 雑多
 {0}us+jxofx.ziirjo 孜然
+{0}ul+bx,hocldz.heouiojpo 和実結
 {0}ul+rj+eseodx.heobuewuo 和布蕪
 {0}ul+uceidkc.igouue 程樹
 {0}ul+ufdndv.jiijio 积极
@@ -4765,6 +4766,7 @@
 {0}cf,iyhpif.yeullo 野良
 {0}cf,dbsxpif.yeumue 野牧
 {0}cf,dh+skkisswr.hriykohve 歓迎会
+{0}cf,dm+estpiff.yeunduhxi 野乃花
 {0}cf,kciznpif.yeuqqo 野球
 {0}cf,kf+mbmopifks.yeuciemau 野次馬
 {0}cjr+k 壺
