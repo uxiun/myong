@@ -1561,6 +1561,7 @@
 {0}xu+fytswi.dvexle 対象
 {0}xu+fifiwi.dvedoi 対多
 {0}xu+jc+stwif.dvejnuhxe 対角化
+{0}xg+bljsk.wuosyu 无损
 {0}xg+ncik.wuofau 无法
 {0}xg+xkkok.wuonde 无奈
 {0}xg+txfisk.wuoyio 无疑
@@ -5935,6 +5936,7 @@
 {0}za+dshins.wuuhze 午後
 {0}za+dis.ufomea 什么
 {0}za+dkls.wuuhze 午后
+{0}za+dfum.vrudou 耳朵
 {0}za+kpdnlk.gjelce 干酪
 {0}za+kckom.vruhro 耳环
 {0}za+kmd.qmiwje 千万
@@ -9352,6 +9354,7 @@
 {0}ey+dujux.moocee 模策
 {0}ey+dujgw.ybixli 音箱
 {0}ey+dzzgux.moofje 模範
+{0}ey+dzjsw.ybioie 音质
 {0}ey+dsj.laebai 腊八
 {0}ey+kcw.ybiyai 音圧
 {0}ey+kotwt.yieyre 意愿
@@ -11215,7 +11218,8 @@
 {0}dk+jwmklr.tkixpu 听写
 {0}dk+jo+wijdjven.xuitgoyue 須藤育
 {0}dk+jj.ssszbrpk.oeodposju 折畳傘
-{0}dfu 梨
+{0}dfu 朵
+{1}dfu 梨
 {0}dfl 船
 {0}dfd 第
 {0}df+bkfnn.mwodau 没打
@@ -11992,6 +11996,7 @@
 {0}ko+kgpm.lkohxe 灵画
 {0}ko+kidgim.lkohyo 灵魂
 {0}ko+kdyow.hdoyro 还原
+{0}ko+fmfut.hkoyye 怀孕
 {0}ko+fl+hiswk.hdokeuyiu 还可以
 {0}ko+fifiw.hdodoi 还多
 {0}ko+ffc.hkelea 坏了
@@ -13373,6 +13378,7 @@
 {0}jx+oj+jxxridg.yhiuiewhu 央视网
 {0}jx+oa+ekkjnf.vdevruljo 爱尔兰
 {0}jx+st+ia+mx+rf,evdkremsqspi.lcolyovvayiiloosii 劳伦･伊罗斯
+{0}jx+swer.yhiwwe 央位
 {0}jx+sweg.ghuwwe 岗位
 {0}jx+sstem.lcolyo 劳伦
 {0}jx+sdcmom.lcodse 労働
