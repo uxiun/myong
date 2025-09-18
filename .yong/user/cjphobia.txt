@@ -3295,6 +3295,7 @@
 {0}uo+jmrnd.qqifuo 秋服
 {0}uo+jk+kgpdkkv.qqilkohxe 秋霊画
 {0}uo+ja+sr+fuddb.qqiytelvezia 秋月律子
+{0}us+bjjnzx.jneuze 教授
 {0}us+rrkjzx.jneuii 教师
 {0}us+uudzx.jnecdo 教材
 {0}us+uw+rcyzxdz.jnekeiuui 教科書
@@ -12014,6 +12015,7 @@
 {0}ks+rkixj.bkeiso 病虫
 {0}ks+ra+ekeziii.lguosihxo 冷中華
 {0}ks+unhc.wwoqro 维权
+{0}ks+us+bjjniczx.oyujneuze 准教授
 {0}ks+hwvhiii.lgunlo 冷嬢
 {0}ks+hdxjxj.bkejni 病嬌
 {0}ks+cimriii.lguqte 冷却
