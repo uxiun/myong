@@ -2003,6 +2003,7 @@
 {0}xa+ixmip.ybiwwe 因为
 {0}xa+ix+xk+th+ulilclwio.qrufweqioziuxke 犬吠埼紫杏
 {0}xa+ix+cxklil.qrufweqio 犬吠埼
+{0}xa+ix+zrrftd.daecjuuie 大惨事
 {0}xa+irfm.quihxe 区划
 {0}xa+iumw.wfouui 文书
 {0}xa+im+ud+eteuiskljdd.qrusiecduyee 犬飼彩葉
@@ -9903,6 +9904,7 @@
 {0}ix+ctus.fuodie 伏地
 {0}ix+ce+zxysoel.wwuujeoeu 偽善者
 {0}ix+zxyso.wwuoeu 偽者
+{0}ix+zrrftd.cjuuie 惨事
 {0}ix+zitsg.yzihve 优惠
 {0}ix+zfus.fuozie 伏字
 {0}ix+wlosg.yzidmu 优点
@@ -10636,6 +10638,7 @@
 {0}dy+st+ouirluje.mmohxitho 棉花糖
 {0}dy+sgrfko.yroile 原创
 {0}dy+ssmko.yrozoe 原作
+{0}dy+slrfko.yroile 原創
 {0}dy+la+od+zzizjkon.yrokzuuaifuu 原口沙輔
 {0}dy+ecdbiko.yroyie 原義
 {0}dy+estuj.mmohxi 棉花
@@ -11938,6 +11941,7 @@
 {0}kw+cd+nwxrzsebi.dkeyiejie 定義済
 {0}kw+cd+cilkzsebi.dkeyieyue 定義域
 {0}kw+mb+edufhohr.yjinaelie 嫣娜莉
+{0}kw+zlkjvzs.dkeveo 定額
 {0}kw+za+diyss.uieufomea 是什么
 {0}kw+vj+ve+wlcjgzsejej.dkeqiigzeduo 定期購読
 {0}kw+vj+li+moskszsewtk.dkeqiiuieyje 定期試験
@@ -12900,6 +12904,7 @@
 {0}fr+kk.pkciddk.diesjigoo 第三国
 {0}fr+kk.wdmddk.diesjifhi 第三方
 {0}fr+kk.lhoolllt.vaaliesii 啊囇噝
+{0}fr+kk.kf+sr+xa+oziddkkspr.diesjiciejpedaeoje 第三次世界大戦
 {0}fr+ka+bttdd.dieyiipii 第一批
 {0}fr+ka+ui+rmyddy.dieyiiuiojmi 第一时间
 {0}fr+ka+wlfrddk.dievrebue 第二部
