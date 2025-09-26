@@ -4741,6 +4741,7 @@
 {0}cd+dbkdg.xmiugi 先生
 {0}cd+dskkfdg.xmixko 先行
 {0}cd+kxdg.xmitmi 先天
+{0}cd+kcpcebi.yieliu 義理
 {0}cd+kcwgjkdp.lqolio 瑠璃
 {0}cd+kw+zn+vibsfwm.pkokauquuqmo 凭卡取銭
 {0}cd+kekjvdg.xmitzo 先頭
@@ -12825,6 +12826,7 @@
 {0}fn+ea+ctkkie.ysujkujyi 永井均
 {0}fn+ix+la+rrmkjicmp.ysujpohvogvi 永劫回帰
 {0}fn+koi.ysubue 永不
+{0}fn+fsi.ysujqu 永久
 {0}fn+fd+iocddyc.fgehlouee 凤凰社
 {0}fx+qd+jr+ggbcdkr.tkuufivroiui 挺身而出
 {0}fx+pclhic.tkoyro 庭園
