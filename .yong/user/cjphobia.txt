@@ -6651,7 +6651,8 @@
 {0}ww,kxddf.hhotmi 航天
 {0}wo 点
 {0}wo+hnn.uuinvu 淑女
-{0}wsr+f 劇
+{0}wsr+f 刻
+{1}wsr+f 劇
 {0}ws,bzrssx.mbujpo 敏捷
 {0}ws,tlfifl.zuogze 足够
 {0}ws,ta+skfnxs.yeehxeqie 液化气
@@ -7561,6 +7562,7 @@
 {0}oa+fl+wegkk.buekeunie 不可逆
 {0}oa+fl+sxlkk.buekeuoii 不可知
 {0}oa+fl+ijttkk.buekeungo 不可能
+{0}oa+fl+fjmdbkk.buekeujpu 不可解
 {0}oa+fl+jbkk.buekeuyse 不可用
 {0}oa+ffk.buelea 不了
 {0}oa+jxok.buerjo 不然
