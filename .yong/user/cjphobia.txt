@@ -4828,6 +4828,7 @@
 {0}cj+siftsgg.grinme 観念
 {0}cj+skkik.zdehve 再会
 {0}cj+sk+yjkfxt.zdefaimko 再発明
+{0}cj+sk+wluikus.zdejmutcu 再検討
 {0}cj+sfyskgg.xmexle 現像
 {0}cj+ee,idmkuj.zdegzeigo 再構成
 {0}cj+ee,dkfukuj.zdegzeoue 再構築
@@ -6651,8 +6652,6 @@
 {0}ww,kxddf.hhotmi 航天
 {0}wo 点
 {0}wo+hnn.uuinvu 淑女
-{0}wsr+f 刻
-{1}wsr+f 劇
 {0}ws,bzrssx.mbujpo 敏捷
 {0}ws,tlfifl.zuogze 足够
 {0}ws,ta+skfnxs.yeehxeqie 液化气
