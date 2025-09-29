@@ -5370,6 +5370,7 @@
 {0}mk+wznj.lzedze 漏斗
 {0}mk+wluibj.scutcu 掃討
 {0}mk+wlgvo.dhixru 当選
+{0}mk+wlcjgo.dhiduo 当読
 {0}mk+wlwhso.dhigdi 当該
 {0}mk+wdcgo.dhixru 当选
 {0}mk+wktw.yuuciu 与此
