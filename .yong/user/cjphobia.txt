@@ -13940,6 +13940,7 @@
 {0}je+howigd.xtetsu 血統
 {0}je+hofksd.xteyro 血縁
 {0}je+cx+nirrzze.njomwuozi 南美洲
+{0}je+cx+kcsiizze.njomwulko 南美玲
 {0}je+zl+ou+db,bs,iorprddlwtkd.xtegrumioxkeuiiufo 血管迷走神経性失神
 {0}je+va+udndf.xtexnubju 血小板
 {0}je+wlozz.njojki 南京
