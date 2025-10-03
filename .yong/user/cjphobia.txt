@@ -12449,6 +12449,7 @@
 {0}kf+rrrnl.heoiri 河川
 {0}kf+rmts.qiemfe 气闷
 {0}kf+rktnl.heobwu 河北
+{0}kf+rk+ffbk.daugsilea 打工了
 {0}kf+uerii.jlildo 将来
 {0}kf+uekvrii.jliqio 将棋
 {0}kf+ggb.dauiui 打出
