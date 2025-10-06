@@ -4924,6 +4924,7 @@
 {0}ca+jobmk.yaiuge 圧勝
 {0}ca+jkgik.whogri 王冠
 {0}m 为
+{1}m ㅉ
 {0}mb+tdylr.naupae 哪怕
 {0}mb+rglr.nauvro 哪儿
 {0}mb+wtkklr.nauxpi 哪些
@@ -12943,6 +12944,7 @@
 {0}fu+va+xdiyhuf.liuxnulho 李小狼
 {0}fu+wlmsz.zieyie 字訳
 {0}fu+wlmklz.ziecio 字詞
+{0}fu+weyth.hcuyie 好意
 {0}fu+ohsxz.zieuue 字数
 {0}fu+oa+hfuhk.hcubuehcu 好不好
 {0}fu+sukz.zietiu 字体
