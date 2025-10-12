@@ -8874,6 +8874,7 @@
 {0}ld+dutddht.uiemie 舐秘
 {0}ld+dsivfwzl.hxeuue 話術
 {0}ld+dsivflg.ozeuue 呪術
+{0}ld+kw+kgpwfnzs.ueedkehxe 設定画
 {0}ld+kedddwfn.ueexko 設形
 {0}ld+kj+kdsczgep.keelwuyau 克蕾雅
 {0}ld+fxdczl.gsitko 宮廷
@@ -9284,6 +9285,7 @@
 {0}ep+kcrfwy.zcidce 遭到
 {0}ep+jgcvcl.mnimue 喵睦
 {0}ep+jwmkb.mnoxpu 描写
+{0}ey+btxsux.mooniu 模擬
 {0}ey+bhisux.mooniu 模拟
 {0}ey+bkhiow.ybisue 音素
 {0}ey+ptwt.yiesii 意思
@@ -14038,6 +14040,7 @@
 {0}jk+su+wlfrsvi.jueleebue 俱楽部
 {0}jk+shiszv.ofiuie 真似
 {0}jk+scjggzk.oiogri 直観
+{0}jk+szv.ofirfo 真人
 {0}jk+sixozv.ofiwwu 真偽
 {0}jk+ecxzv.ofimwu 真美
 {0}jk+ejrfzk.oioqmo 直前
