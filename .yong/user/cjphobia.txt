@@ -3079,6 +3079,7 @@
 {0}ra+kfcp.jxuxko 甲型
 {0}ra+kfc.osixko 中型
 {0}ra+fy+sdby.osijmijme 中間件
+{0}ra+fy+sk+bkhyfxt.osijmifaibnu 中間発表
 {0}ra+jbf.ybuyse 引用
 {0}ra+jx+da+oj+lt+ilrwidgv.osiyhigluuiezsutdo 中央广播电视总台
 {0}ra+jf+uwvxou.osixtoxne 中学校
@@ -10416,6 +10417,8 @@
 {0}if+kkifi.doiyyo 多云
 {0}if+kkfsfi.doicie 多次
 {0}if+kkjvfi.doixle 多項
+{0}if+kk.wlkklfiwl.doiyjoyuu 多言語
+{0}if+kk.lk+xu+itfiwlwklwi.doiyjoyuudveyki 多言語対応
 {0}if+kf+kkgfiks.doicieyro 多次元
 {0}if+kj+tk+cu+yfyfikviyi.doixleuieuiojmi 多項式時間
 {0}if+kj+itkfikv.doixleuie 多項式
@@ -13096,6 +13099,7 @@
 {0}fl+oj+stkigg.keuuiehxe 可視化
 {0}fl+szlxk.keuzoe 可做
 {0}fl+sevk.keugsi 可供
+{0}fl+sk+ey+wlwiyyyjvwt.wfetioyieuio 問題意識
 {0}fl+sk+fjmdbkdkf.keuxkojpu 可行解
 {0}fl+ihvlgk.keuuoi 可说
 {0}fl+iznk.keuqqo 可求
