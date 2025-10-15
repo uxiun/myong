@@ -6924,6 +6924,7 @@
 {0}ob+hi+frxbpgbs.qriniuofe 圈拟阵
 {0}ob+hf+jxxjkiz.tgoxyewhu 腾讯网
 {0}ob+szgfkj.ogifzu 鯖缶
+{0}ob+sldls.bjelvu 伴侶
 {0}ob+sj.pherfo 胖人
 {0}ob+ixbjk.tgokue 腾库
 {0}ob+ihfzjk.tgoxye 腾讯
@@ -7989,8 +7990,8 @@
 {0}sm+jbs.zoeyse 作用
 {0}sm+jt+xmcdlit.icingolie 超能力
 {0}sm+jg+jxocdld.icizierjo 超自然
-{0}sz 午
-{1}sz 什
+{0}sz 什
+{1}sz 午
 {0}sz,pkcidpt.deogoo 德国
 {0}sz,wlkkldpt.deoyuu 德語
 {0}sz,we+duwzdptb.deolaikei 德拉科
@@ -9764,6 +9765,7 @@
 {0}efr+d 萨
 {0}ef+lkfijsib.wuuysu 舞踊
 {0}ef+lkjdqsib.wuudcu 舞蹈
+{0}ef+la+is+bhhfsibibx.wuutdovdizai 舞台挨拶
 {0}ef+ilsib.wuutdo 舞台
 {0}ef+id+ca+ia+iifrsibcmkx.wuuigowhotdelho 舞城王太郎
 {0}ef+kn.yt+od+kotsibidiikr.wuubkideaqioyre 舞冰的祈愿
@@ -10162,6 +10164,7 @@
 {0}is 该
 {0}isi 冷
 {0}is+bt,ju+tdbkeudddki.ycewuendexke 薬物耐性
+{0}is+bhhfbx.vdizai 挨拶
 {0}is+yg+kfrfhf.yiuseelpe 以色列
 {0}is+ya+fj+wudkrhrbx.yiujqehrexbi 以旧换新
 {0}is+nwsxeu.yceyee 薬液
@@ -12919,6 +12922,7 @@
 {0}fr+ixmikf.lpewwe 列为
 {0}fr+kdd.dieyii 第一
 {0}fr+kk.pkciddk.diesjigoo 第三国
+{0}fr+kk.zxyddk.diesjioeu 第三者
 {0}fr+kk.wdmddk.diesjifhi 第三方
 {0}fr+kk.lhoolllt.vaaliesii 啊囇噝
 {0}fr+kk.kf+sr+xa+oziddkkspr.diesjiciejpedaeoje 第三次世界大戦
