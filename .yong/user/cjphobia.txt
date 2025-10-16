@@ -2201,6 +2201,7 @@
 {0}th+iw+hodynwiof.ziuwdexme 紫外線
 {0}th+iw+od+fd+rn+wrrfwiofhynlnh.ziuwdexmexiiuzijie 紫外線吸収剤
 {0}th+kjkkiwio.ziuyyo 紫雲
+{0}th+fs+eyfpwiol.ziuiviljo 紫吹蘭
 {0}th+jgyhwio.ziuyju 紫眼
 {0}th+jk+bk+kgdnwiokkinj.ziuyyoqkixxe 紫雲清夏
 {0}tc,hudkri.lsudre 垄断
@@ -3048,6 +3049,7 @@
 {0}ra+erjx.osiyki 中英
 {0}ra+ecx.osimwu 中美
 {0}ra+evj.osiqii 中期
+{0}ra+ee.osijku 中井
 {0}ra+ekez.osihxo 中華
 {0}ra+ea+klkee.osijkuyjo 中井研
 {0}ra+irj.osiysi 中庸
@@ -3657,6 +3659,7 @@
 {0}ua+bntouo.miuqui 米麹
 {0}ua+pr+uz+swklonzdpt.miuzeosvexbe 米澤穂信
 {0}ua+ymkc.mueyce 木曜
+{0}ua+ys.xqirie 休日
 {0}ua+ylmns.xqixxo 休暇
 {0}ua+ydbk.muexki 木星
 {0}ua+ykwsk.yuouie 于是
@@ -5157,6 +5160,7 @@
 {0}mle+b 群
 {0}mlf+r 郡
 {0}mlj+gg 覗
+{0}ml+bykx.jxidji 加担
 {0}ml+bz,tdbkxzl.jxihdexke 加害性
 {0}ml+bz,zxyxzl.jxihdeoeu 加害者
 {0}ml+yskjsr.wfetio 问题
@@ -5588,6 +5592,7 @@
 {0}zt+uejsuf.nkomgo 檸檬
 {0}zt+hfuly.uiehcu 嗜好
 {0}zt+ej+nzufus.nkomgooii 檸檬汁
+{0}zt+khuim.iiuruu 恥辱
 {0}zr 都
 {0}zr+ba+ykpcsxj.uiuyselle 使用量
 {0}zr+ba+ssxj.uiuyserfo 使用人
@@ -5761,6 +5766,7 @@
 {0}ze+bdupmx.lmoboi 联播
 {0}ze+yjjemx.lmomgo 联盟
 {0}ze+nfsmx.lmohri 联欢
+{0}ze+tyigtv.ffekdu 憤慨
 {0}ze+ugtmx.lmoxlu 联想
 {0}ze+gt,dujgmxu.lmoxluxli 联想箱
 {0}ze+hnttv.ffenue 憤怒
@@ -6128,6 +6134,7 @@
 {0}vl.wyhjg.toitve 脱退
 {0}vl.sttijg.toigzi 脱钩
 {0}vl.ee,dkfujguj.toigzeoue 脱構築
+{0}vl.isutg.ytelee 悦楽
 {0}vl.dbgjg.toimco 脱毛
 {0}vl.fygjg.toisee 脱色
 {0}vl.fjbvg.rvejnu 鋭角
@@ -7484,6 +7491,7 @@
 {0}oa+cezk.buexke 不幸
 {0}oa+ck+slukko.buehrobcu 不环保
 {0}oa+mggk.buequi 不屈
+{0}oa+mitk.buerfu 不忍
 {0}oa+mk+yyc.houycerie 火曜日
 {0}oa+zbzlz.zdihde 灾害
 {0}oa+zp+hocjgkwz.buelmoxue 不連続
@@ -8022,6 +8030,7 @@
 {0}ss,tlgs.osebci 众包
 {0}ss,td+ienecyd.njoyiedue 難易度
 {0}ss,rydyn.fuejqe 復旧
+{0}ss,rrmkjdyn.fuegvi 復帰
 {0}ss,rj+puiicx.zoebuetro 座布団
 {0}ss,ukpoic.zoebni 座標
 {0}ss,ukkj.llubfu 两本
@@ -8471,6 +8480,7 @@
 {0}lt+skkiv.zsuhve 总会
 {0}lt+lni.gjutje 感叹
 {0}lt+lersi.gjutje 感嘆
+{0}lt+ebjgi.ddeoea 怠着
 {0}lt+er+wlmklils.gjutjecio 感嘆詞
 {0}lt+ix+ljsvkm.zsudseyro 总动员
 {0}lt+ihzv.zsujie 总计
@@ -11925,6 +11935,7 @@
 {0}kz+jeimj.gjizhe 肝臓
 {0}kv+bm+sfijsmo.bkimauysu 兵馬俑
 {0}kv+bszd.gxufui 寡夫
+{0}kv+nd+ebjgnpel.sauloeoea 洒落着
 {0}kv+rtjyp.udebwe 晒背
 {0}kv+hmkjzd.gxufue 寡婦
 {0}kv+csmgo.xkiqiu 兴起
