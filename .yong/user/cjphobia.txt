@@ -1486,6 +1486,7 @@
 {0}xx,kwj.whuxxe 网下
 {0}xx,kd+mkkijhnl.whuloecgo 网络层
 {0}xx,kd+wm+nijhnlnu.whuloeyzoxie 网络游戏
+{0}xx,kd+iw+lf+tdbkjhnlfwr.whuloewdebuexke 网络外部性
 {0}xx,kjsj.whuyee 网页
 {0}xx,jstij.whugze 网购
 {0}xx,js+wkjk.whuyeeuhe 网页上
@@ -3585,6 +3586,7 @@
 {0}uk+ij+ra+tsw.tiuyueosixbi 体育中心
 {0}uk+ij+ojfusw.tiuyuexto 体育学
 {0}uk+ij+sizllsw.tiuyuegru 体育館
+{0}uk+dbgs.tiumco 体毛
 {0}uk+dnwb.wwofju 違反
 {0}uk+dubkvs.tiujii 体積
 {0}uk+dulvs.tiujii 体积
@@ -5321,6 +5323,7 @@
 {0}md+dnwdkr.souiue 所处
 {0}md+dzdfnv.ffidre 分段
 {0}md+dscuibl.ocidde 招待
+{0}md+dk+llixlvur.ffixiiqie 分析器
 {0}md+df+duwljrbn.iuitzogcu 初投稿
 {0}md+kphdkr.souyce 所要
 {0}md+kpmgv.ffipwe 分配
@@ -7083,6 +7086,7 @@
 {0}oc+dsrbi.ueelve 社律
 {0}oc+krki.ueegsi 社工
 {0}oc+koi.ueebue 社不
+{0}oc+kl+tdbkhls.jpoheoxke 結合性
 {0}oc+kl+se+dr+tdbkhlsdwsmj.jpoheocsouuuxke 結合従属性
 {0}oc+kk.bk+ndzlisid.ueehveugihoo 社会生活
 {0}oc+kk.tdbkisi.ueehvexke 社会性
@@ -8609,6 +8613,7 @@
 {0}lm+ggws.yieiui 訳出
 {0}lm+hlsn.jxuruo 假如
 {0}lm+hkjpuwkl.ciohve 詞彙
+{0}lm+ci+md+dk+llixlwklnvur.ciofauffixiiqie 詞法分析器
 {0}lm+mdxnsn.jxufae 假髪
 {0}lm+zxywg.jieoeu 記者
 {0}lm+zrrfwg.jieuie 記事
@@ -8658,6 +8663,7 @@
 {0}lw 샤
 {0}lwx 哒
 {0}lw+bkjgvwrl.qmuzeo 譴責
+{-}lw+yfwdm.fhumfo 訪門
 {0}lw+yflwdm.fhuwfe 訪問
 {0}lw+rrkrksz.svepme 碎片
 {0}lw+rcydez.ciouui 辞書
@@ -8910,6 +8916,7 @@
 {0}lk+uw+izpzwkloz.yuulnekue 語料庫
 {0}lk+hmc.ugenvu 聖女
 {0}lk+hkjpuwkl.yuuhve 語彙
+{0}lk+ci+md+dk+llixlwklnvur.yuufauffixiiqie 語法分析器
 {0}lk+mdbgwkl.yuuwwu 語尾
 {0}lk+mdkrdrj.uiijle 師匠
 {0}lk+zxyi.hoeoeu 或者
@@ -9266,6 +9273,7 @@
 {0}eb 羊
 {0}eb,siyhn.yhouio 洋食
 {0}eb,lllu.yhepbu 样品
+{0}eb,isun.yholee 洋楽
 {0}eq+xf+shvtis.xmoyiorfo 嫌疑人
 {0}eq+txfishv.xmoyio 嫌疑
 {0}eq+lzuhv.xmowwe 嫌味
@@ -10851,6 +10859,7 @@
 {0}dr+ea+cu+kl+wmssxxkiwss.duoliejioheozuo 独立集合族
 {0}dr+ea+scuxkiw.duoliejio 独立集
 {0}dr+dbcuixki.duotee 独特
+{0}dr+db,xa+ncimjtkw.uuuxkewfofau 属性文法
 {0}dr+db,szjhmjtk.uuuxkeoio 属性値
 {0}dr+dqdxki.duoufi 独身
 {0}dr+djgxki.duozie 独自
@@ -13642,6 +13651,7 @@
 {0}jg+mkmiku.xliyuu 相羽
 {0}jg+mkdyd.ziexio 自習
 {0}jg+zzkkid.zieoru 自転
+{0}jg+zkmsd.ziejxi 自家
 {0}jg+zkicd.zieuie 自室
 {0}jg+zk+zpzdzki.zieoruiei 自転車
 {0}jg+zjixkv.gsexme 貢献
@@ -14280,6 +14290,7 @@
 {0}ja+wfijs.nwetsi 内通
 {0}ja+wa+dzekpk.wwexxeivo 胃下垂
 {0}ja+obmgs.nwejru 内卷
+{0}ja+obmgs.nwejre 内巻
 {0}ja+ouwzx.yzulne 有料
 {0}ja+odjgs.nweugu 内省
 {0}ja+okg.ytegli 月光
