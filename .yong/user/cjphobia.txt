@@ -566,6 +566,7 @@
 {0}ph+pxk.yceybi 要因
 {0}ph+tyk.yceoiu 要旨
 {0}ph+hotkk.yceyti 要約
+{0}ph+wlok.ycedmu 要点
 {0}ph+wjkck.ycewhe 要望
 {0}ph+oa+jxokk.ycebuerjo 要不然
 {0}ph+su+xkkoki.yceleende 要楽奈
@@ -3162,6 +3163,7 @@
 {0}ux+iltt.kkegju 快感
 {0}ux+dhut.kkelee 快乐
 {0}ux+da+iendxjo.xiiucudue 稀少度
+{0}ux+kt+kpwluowsc.gvecioiyo 炔雌醇
 {0}ux+kcrft.kkedce 快到
 {0}ux+kw+tdbknzs.jtodkexke 決定性
 {0}ux+kw+db,jg+cx+uhiinzstkddm.jtodkexkeziedsejii 決定性有限自動機
