@@ -612,6 +612,8 @@
 {0}pm+wk+zxykgsl.pwexbeoeu 配信者
 {0}pm+su+zzlmzkgi.pweleejio 配楽輯
 {0}pm+swklkg.pwexbe 配信
+{0}pm+ssrrkg.pwejxe 配价
+{0}pm+skrpkg.pwesie 配価
 {0}pm+skcfkr.mmedce 面倒
 {0}pm+sklkg.pweheo 配合
 {0}pm+lyydkk.fjiihe 翻唱
@@ -948,6 +950,7 @@
 {0}yd+ep+xa+ojfurgwcw.vrotsowfoxto 児童文学
 {0}yd+ezjrjc.ugidde 声帯
 {0}yd+eisuhg.mweyce 媚薬
+{0}yd+ix+ssrrsnkm.fuedsejxe 复动价
 {0}yd+drjgvc.ugioie 声質
 {0}yd+dskkfg.mmuqmi 免签
 {0}yd+djrfsn.fueoie 复制
@@ -1216,10 +1219,12 @@
 {0}nl+psrrd.geejpe 各界
 {0}nl+pkcid.geegoo 各国
 {0}nl+xjd.geeyzu 各有
+{0}nl+cx+skrpddm.geedsesie 各動価
 {0}nl+ctud.geedie 各地
 {0}nl+mznd.geequu 各取
 {0}nl+zn+md+kjkjrdmdkr.geequusouxui 各取所需
 {0}nl+sd.geerfo 各人
+{0}nl+ix+ssrrdkm.geedsejxe 各动价
 {0}nl+dudzcd.geeosu 各種
 {0}nl+dmdkrd.geesou 各所
 {0}nl+dskkfd.geexko 各行
@@ -1693,6 +1698,7 @@
 {0}xl+csplw.lbesee 吝嗇
 {0}xl+ca+ykpckl.tyituulle 吞吐量
 {0}xl+zpts.oiihve 知恵
+{0}xl+zxys.oiioeu 知者
 {0}xl+zrrfs.oiiuie 知事
 {0}xl+wlwiys.oiiuio 知識
 {0}xl+wedgs.oiidce 知道
@@ -1709,6 +1715,7 @@
 {0}xl+fskxti.qiufai 啓発
 {0}xl+fils.oiimko 知名
 {0}xl+jxxs.oiiwhu 知网
+{-}xl+jj.zxysogg.oiijtooeu 知覚者
 {0}xe,vslg.xxoguu 峡谷
 {0}xi 太
 {0}xi+njdgz.hsogri 宏观
@@ -1733,6 +1740,7 @@
 {0}xd,sk+ydbksuhdkf.vduxkoxki 矮行星
 {0}xd,sjsjyo.jiirze 鷄肉
 {0}xd,le+frzkgiddwci.cjiyieyre 参議院
+{0}xd,ix+ssrriddkm.cjidsejxe 参动价
 {0}xd,dy+sj+fueokobgg.dioyrogvizia 荻原規子
 {0}xd,dm+uvkrf.fuundumue 斧乃木
 {0}xd,dm+ua+ku+bwehvkrfs.fuundumueyuojpi 斧乃木余接
@@ -1809,6 +1817,7 @@
 {0}xk+kfcojv.lwexko 類型
 {0}xk+fr+dhiouwkkf.ogulpexie 整列系
 {0}xk+fuul.yiuzia 椅子
+{0}xk+ffzhm.kculea 考了
 {0}xk+jwjr.odiyte 斋月
 {0}xk+jo+ds+zusxsenkc.zoutgoyaujne 佐藤雅教
 {0}xk+jesle.drucee 短冊
@@ -1871,6 +1880,7 @@
 {0}xa+xo+skfkj.tmirjoqie 天然气
 {0}xa+xdiyhk.tmilho 天狼
 {0}xa+xksjp.ybibke 因病
+{0}xa+xa+bsz.daeohefui 大丈夫
 {0}xa+xa+zfuw.daewfozie 大文字
 {0}xa+xa+sizllkw.tmiwfogru 天文館
 {0}xa+xa+kf+lkfflf.daedaelpulpu 大大咧咧
@@ -2491,6 +2501,7 @@
 {0}ry+ycuiz.zjeuio 暫時
 {0}ry+ga+tkkldi.tueujiwue 兎山悟
 {0}ry+ha+iifrdi.tuenvulho 兎女郎
+{0}ry+cilkfh.xmeyue 限域
 {0}ry+zkwsz.zjedke 暫定
 {0}ry+zkwsfh.xmedke 限定
 {0}ry+okgfkd.yhogli 陽光
@@ -3044,6 +3055,7 @@
 {0}ra+stz.osihxo 中华
 {0}ra+srr.osijpe 中介
 {0}ra+suks.geetiu 个体
+{0}ra+sz.osiwuu 中午
 {0}ra+ss.geerfo 个人
 {0}ra+six.osifuo 中伏
 {0}ra+sdf.yburue 引入
@@ -4115,6 +4127,7 @@
 {0}hv+jmrnilg.uoifuo 说服
 {0}hw+bkjsirl.qmuzeo 谴责
 {0}hw+rmlidm.fhuwfe 访问
+{0}hw+wxidd.yjewfo 谚文
 {0}hw+sik.rherfo 让人
 {0}hw+ihooidm.fhutjo 访谈
 {0}hw+dbiik.rhewou 让我
@@ -4289,11 +4302,13 @@
 {0}hf+rizjkk.huebuu 互補
 {0}hf+ur+va+wfjskkdfe.hueliegseyko 互利共赢
 {0}hf+ujgkk.huexli 互相
+{0}hf+cx+skrpkkdm.huedsesie 互動価
 {0}hf+mzexkk.huelmo 互联
 {0}hf+zh+hojehkkmie.huelmowhu 互聯網
 {0}hf+ze+jxxkkmx.huelmowhu 互联网
 {0}hf+wfijkk.huetsi 互通
 {0}hf+lkhmiz.xyehce 讯号
+{0}hf+ix+ssrrkkkm.huedsejxe 互动价
 {0}hf+durfkk.huelie 互利
 {0}hf+klhiuki.waulie 瓦礫
 {0}hf+kixmkk.huedse 互动
@@ -4437,6 +4452,7 @@
 {0}cx+wdkjve.mwuyjo 美顔
 {0}cx+od+xa+ojlcehk.mwumnetmitho 美妙天堂
 {0}cx+od+hi+kfrfehdo.mwumnexielpe 美妙系列
+{0}cx+od+ms+dsrbehwfs.mwumnexrolve 美妙旋律
 {0}cx+od+vd+nciehigi.mwumnemoofau 美妙魔法
 {0}cx+ojfue.mwuxto 美学
 {0}cx+sm+iz+blwsdmsbj.dsezoebuuooi 動作捕捉
@@ -4878,6 +4894,7 @@
 {0}ca+uepyl.tuucco 吐槽
 {0}ca+uecns.uieyhe 仕様
 {0}ca+udnw.ouubju 主板
+{0}ca+udnlw.ouugeo 主格
 {0}ca+ggl.tuuiui 吐出
 {0}ca+hozsyk.yaisoi 圧縮
 {0}ca+hodynw.ouuxme 主線
@@ -5464,6 +5481,7 @@
 {0}zp+przjkdc.oseoie 重置
 {0}zp+ph+tdbkdck.oseycexke 重要性
 {0}zp+ph+sa+dbtdddck.oseycerfowue 重要人物
+{0}zp+yd+ujgdcsn.osefuexli 重复相
 {0}zp+ykpcdc.oselle 重量
 {0}zp+yjjewz.lmomgo 連盟
 {0}zp+nnnkdc.osedpo 重叠
@@ -5626,6 +5644,7 @@
 {0}zu+od+sd+brkwwrojyo.laeicujiipdo 辣炒鶏排
 {0}zu+lvpyl.wwecgi 味噌
 {0}zu+itkzkb.hjouie 韓式
+{0}zu+dfkrizkb.hjofgi 韓風
 {0}zu+kpuul.wwelju 味醂
 {0}zu+kc+wlkklzkbpi.hjogooyuu 韓国語
 {0}zu+kf+wf+nudndouj.ouidgitsiboi 朱灯樋波
@@ -5715,6 +5734,7 @@
 {0}zs,da+ncizkfs.uuiruefau 輸入法
 {0}zs,kpdnlzf.qmolce 乾酪
 {0}zs,kwet.xtixxe 靴下
+{0}zs,kokx.gjubue 敢不
 {0}zs,jp+ntuzfkg.qmodmeiio 乾電池
 {0}zs,jilzkj.lyotdi 輪胎
 {0}zlg 克
@@ -6343,6 +6363,7 @@
 {0}va+hk+xdsfxh.jbisiihzo 金丝猴
 {0}va+hk+hiyhfei.xnuycenlo 小药娘
 {0}va+hjkf.xnujpu 小姐
+{0}va+cx+skrpedm.gsedsesie 共動価
 {0}va+ct,na+bwzzfswkn.xnuheeulipbi 小鹤双拼
 {0}va+csmge.gseqiu 共起
 {0}va+cd+pclhwebi.lqeyieyro 六義園
@@ -6389,6 +6410,7 @@
 {0}va+eztouf.xnujui 小鞠
 {0}va+ev+iltfe.xnubkegju 小並感
 {0}va+ek+mr+skffnje.xnumjujpoqie 小满节气
+{0}va+ix+ssrrekm.gsedsejxe 共动价
 {0}va+ihvlgf.xnuuoi 小说
 {0}va+ihitkf.xnuuie 小试
 {0}va+ilte.gsegju 共感
@@ -6530,6 +6552,7 @@
 {0}wr+omkkk.ogedhi 正当
 {0}wr+ojlrjkk.ogeiho 正常
 {0}wr+sukkk.ogetiu 正体
+{0}wr+szkk.ogewuu 正午
 {0}wr+sj+tdbkkkbgg.ogegvixke 正規性
 {0}wr+sj+md+xrjkkbggv.ogegviffibue 正規分布
 {0}wr+sj+stkkbgg.ogegvihxe 正規化
@@ -6760,6 +6783,7 @@
 {0}we+ek+xfijnkjv.qietzotse 泣頭痛
 {0}we+ek+dlwezbhkjv.jpitzocio 接頭辞
 {0}we+ea+js+eyxjbkrc.laikdiwwomue 拉开帷幕
+{0}we+ix+ssrrbhkm.jpidsejxe 接动价
 {0}we+db,dlwezbhmg.jpiwwucio 接尾辞
 {0}we+dn+eveubhzl.jpikeeyee 接客業
 {0}we+dlwezbh.jpicio 接辞
@@ -6822,6 +6846,7 @@
 {0}wi+dskkfng.lqoxko 流行
 {0}wi+klng.lqouio 流石
 {0}wi+fup.muuzia 母子
+{0}wi+jbng.lqoyse 流用
 {0}wdl 話
 {1}wdk+jv 頻
 {0}wdk+js 频
@@ -6916,6 +6941,7 @@
 {0}wa+ebjgk.xxeoea 下着
 {0}wa+ehkik.xxeyce 下药
 {0}wa+evjk.xxeqii 下期
+{0}wa+ix+ssrrrkm.buudsejxe 补动价
 {0}wa+ikfsk.xxecie 下次
 {0}wa+dzekk.xxeivo 下垂
 {0}wa+dzdfnk.xxedre 下段
@@ -7138,6 +7164,7 @@
 {0}oz+sk+hodynkdkf.pkoxkoxme 平行線
 {0}oz+sk+ss,kp+pwxkdkficuo.pkoxkozoebnituo 平行座標図
 {0}oz+sk+ea+psrrkdkft.pkoxkouiejpe 平行世界
+{0}oz+sfxk.pkoqie 平気
 {0}oz+sf+ukdxf.pkohgomue 平衡木
 {0}oz+sf+kciznkdxf.pkohgoqqo 平衡球
 {0}oz+lhtk.pkombo 平民
@@ -8176,6 +8203,7 @@
 {0}sk+xbnf.qieiei 汽车
 {0}sk+xbdkf.xkoiei 行车
 {0}sk+xdkcfxt.faiklo 発狂
+{0}sk+xkwkfxt.faioge 発症
 {0}sk+xf+et+dskkfdkfiows.xkowwesvexko 行為遂行
 {0}sk+xa+wwmufle.dgidaeyzo 登大遊
 {0}sk+tuxtf.yuokke 愉快
@@ -8665,7 +8693,6 @@
 {0}lw 샤
 {0}lwx 哒
 {0}lw+bkjgvwrl.qmuzeo 譴責
-{-}lw+yfwdm.fhumfo 訪門
 {0}lw+yflwdm.fhuwfe 訪問
 {0}lw+rrkrksz.svepme 碎片
 {0}lw+rcydez.ciouui 辞書
@@ -8678,6 +8705,7 @@
 {0}lw+mzwiydez.ciooio 辞職
 {0}lw+mzlvdez.ciooio 辞职
 {0}lw+md+deejwiyw.uiobmigzi 識辺篝
+{0}lw+zxywiy.uiooeu 識者
 {0}lw+vojss.cuexni 促銷
 {0}lw+wyhdez.ciotve 辞退
 {0}lw+wrkdwvh.rhebue 譲歩
@@ -8691,6 +8719,7 @@
 {0}lw+db,dy+ms+dm+bkhiosstkjnwxnx,uekemeheiiue 促性腺激素释放激素
 {0}lw+fs+cx+dryiwouie.miooiimwutue 謎之美兎
 {0}lo.bgw.dmujii 点击
+{0}lo.yd+ujgwsn.dmufuexli 点复相
 {0}lo.nidow.dmumpe 点滅
 {0}lo.te+klkubeu.lboyeeuio 磷葉石
 {0}lo.rb,rtpevwn.jkijbijie 京津冀
@@ -8698,6 +8727,7 @@
 {0}lo.rgw.dmuvro 点儿
 {0}lo.ui+wlown.dmudvedmu 点对点
 {0}lo.ujgy.ocexli 照相
+{0}lo.gj+ujgwjjb.dmuuyexli 点瞬相
 {0}lo.zyfrw.jkidzi 京都
 {0}lo.za+klkubl.lboyeeuio 磷叶石
 {0}lo.wleciwo.tjoyie 談議
@@ -10099,6 +10129,7 @@
 {0}iz+wlgvrj.buuxru 補選
 {0}iz+wlkklrj.buuyuu 補語
 {0}iz+wlkklwv.uueyuu 述語
+{0}iz+widgrj.buuisi 補充
 {0}iz+szpz.zderfo 載人
 {0}iz+lwsrj.buuzuo 補足
 {0}iz+lllwn.qqopbu 逑品
@@ -10850,6 +10881,7 @@
 {0}dr+xmxki.duolie 独力
 {0}dr+tdbkmj.uuuxke 属性
 {0}dr+hudkrxki.duodre 独断
+{0}dr+cx+skrpxkidm.duodsesie 独動価
 {0}dr+csmgbs.xmiqiu 掀起
 {0}dr+mznbs.oxiquu 抓取
 {0}dr+mdvf.tiedci 剃刀
@@ -10860,6 +10892,7 @@
 {0}dr+ea+tdbkxkiw.duoliexke 独立性
 {0}dr+ea+cu+kl+wmssxxkiwss.duoliejioheozuo 独立集合族
 {0}dr+ea+scuxkiw.duoliejio 独立集
+{0}dr+ix+ssrrxkikm.duodsejxe 独动价
 {0}dr+dbcuixki.duotee 独特
 {0}dr+db,xa+ncimjtkw.uuuxkewfofau 属性文法
 {0}dr+db,szjhmjtk.uuuxkeoio 属性値
@@ -12033,6 +12066,7 @@
 {0}ko+oa+hlwk.hdobueruo 还不如
 {0}ko+oa+steywk.hdobuecoe 还不错
 {0}ko+skffk.uielie 示例
+{0}ko+ix+ssrrkkm.uiedsejxe 示动价
 {0}ko+iltm.lkogju 灵感
 {0}ko+idkhk.uiewwi 示威
 {0}ko+ijttw.hdongo 还能
@@ -12466,6 +12500,7 @@
 {0}kf+bdkrb.dauoeo 打折
 {0}kf+ba+ohsxdus.ouenmouue 築年数
 {0}kf+pp.tkitmo 町田
+{0}kf+przjkv.dkioie 釘置
 {0}kf+pr+wv+fkskkxlsjux.qiovzuxneyje 奇偶校验
 {0}kf+pevxl.qioyie 奇異
 {0}kf+pa+za+izvvpd.tkitmoqmimao 町田千麻
@@ -13163,6 +13198,7 @@
 {0}fe+dyiryx.grijpo 関節
 {0}fe+dh+zxyyxso.grixieoeu 関係者
 {0}fe+dh+it+ohsxyxsos.grixieddeuue 関係代数
+{0}fe+dh+dyiryxso.grixiejpo 関係節
 {0}fi 夕
 {1}fi 々
 {0}fii 多
@@ -13685,6 +13721,7 @@
 {0}jg+sc+zxydixi.credoooeu 篡奪者
 {0}jg+sc+endldf.zieoveloe 自墜落
 {0}jg+sm+jg+jjndsd.ziezoezieuze 自作自受
+{0}jg+sweu.xliwwe 相位
 {0}jg+swklu.xlixbe 相信
 {0}jg+swkld.ziexbe 自信
 {0}jg+ssydd.zieuhi 自傷
