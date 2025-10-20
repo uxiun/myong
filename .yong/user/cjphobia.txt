@@ -301,6 +301,7 @@
 {0}bk+jd.ugiyte 生月
 {0}bk+jjtntj.qkovde 情愛
 {0}bfm+u 挣
+{0}bfj+x 換
 {0}bf,bs,mkkisixkf.irouuicgo 传输层
 {0}bf,bdupsi.iroboi 传播
 {0}bf,ytddxsk.qkiyie 轻易
@@ -1715,7 +1716,6 @@
 {0}xl+fskxti.qiufai 啓発
 {0}xl+fils.oiimko 知名
 {0}xl+jxxs.oiiwhu 知网
-{-}xl+jj.zxysogg.oiijtooeu 知覚者
 {0}xe,vslg.xxoguu 峡谷
 {0}xi 太
 {0}xi+njdgz.hsogri 宏观
@@ -4225,6 +4225,7 @@
 {0}hi+uieui.jiixpe 機械
 {0}hi+howigdo.xietsu 系統
 {0}hi+heqvui.jiixmo 機嫌
+{0}hi+hi+lygitkitk.uieuiebaa 试试吧
 {0}hi+hkwigdo.xietsu 系统
 {0}hi+cx+zi+zkuidmo.jiidseojeuie 機動戦士
 {0}hi+mkpevui.jiiyie 機翼
@@ -4242,6 +4243,7 @@
 {0}hi+ebjgitk.uieoea 试着
 {0}hi+ecelet.ciouje 慈善
 {0}hi+iuui.jiiilo 機床
+{0}hi+ihitkitk.uieuie 试试
 {0}hi+ioebet.cioxlo 慈祥
 {0}hi+ie+fl+wlcjguiuk.jiixpekeuduo 機械可読
 {0}hi+ie+jf+mkdyuiuou.jiixpextoxio 機械学習
@@ -4409,6 +4411,7 @@
 {0}cp+fjmdbkc.liujpu 理解
 {0}cp+jm.xmkcfdb.liujpulie 理解力
 {0}cy 増
+{0}cy+bfjxr.uuihre 書換
 {0}cy+wsr.uuiyui 書込
 {0}cy+wlctr.uuioie 書誌
 {0}cy+wlcjgr.uuiduo 書読
@@ -7069,6 +7072,7 @@
 {0}og+zjkkjx.ncuoio 脳直
 {0}og+secii.liuyio 礼儀
 {0}og+sjjx.ncunwe 脳内
+{0}og+lk+zjkkjxkrx.ncuykeoio 脳硬直
 {0}og+ecdbii.liuyie 礼義
 {0}og+dbtddi.liuwue 礼物
 {0}og+dbkbzi.liubde 礼拜
@@ -7591,6 +7595,7 @@
 {0}oa+kwrkk.bueoge 不正
 {0}oa+kw+evjkzs.buedkeqii 不定期
 {0}oa+kl+udnlks.bueheogeo 不合格
+{0}oa+kl+wlokj.buetsodmu 不同点
 {0}oa+kl+kukj.buetsoyuo 不同于
 {0}oa+kl+kcpcks.bueheoliu 不合理
 {0}oa+kk.skckzg.buewjoqro 不完全
@@ -14225,6 +14230,7 @@
 {0}jj.ws,xkwkwlsx.goembuoge 過敏症
 {0}jj.wlkklpk.dpoyuu 畳語
 {0}jj.swsxwl.goembu 過敏
+{0}jj.siyhwl.goeuio 過食
 {0}jj.lg+sjsvlt.goibcirze 鍋包肉
 {0}jj.ebmkknj.hxoxlo 滑翔
 {0}jj.endlnj.hxoloe 滑落
