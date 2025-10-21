@@ -609,6 +609,7 @@
 {0}pm+wlmsdkk.fjiyie 翻訳
 {0}pm+wlookr.mmetjo 面談
 {0}pm+wlitkkr.mmeuie 面試
+{0}pm+weykg.pweybi 配音
 {0}pm+wexkg.pwesse 配送
 {0}pm+wk+zxykgsl.pwexbeoeu 配信者
 {0}pm+su+zzlmzkgi.pweleejio 配楽輯
@@ -732,6 +733,7 @@
 {0}pa+uer.yzoldo 由来
 {0}pa+ui+si+eprfuvi.tmocyilkomge 田村鈴夢
 {0}pa+ud+cr,ryrwkrkf.yzoxbidcejqe 由新到旧
+{0}pa+ga+kk.rjxuxo.dsiujindeyhi 東山奈央
 {0}pa+hkdume.mnoxqe 苗绣
 {0}pa+zjezu.dsinjo 東南
 {0}pa+wlou.dsijki 東京
@@ -1111,6 +1113,7 @@
 {0}ya+dulkc.rieigo 日程
 {0}ya+dwwdf.riehho 日航
 {0}ya+djl.riexle 日向
+{0}ya+kpmg.riepwe 日配
 {0}ya+kxm.rielie 日历
 {0}ya+krrkd.bdoyae 白亜
 {0}ya+kuuyr.jqelie 旧暦
@@ -1232,6 +1235,7 @@
 {0}nl+djgd.geezie 各自
 {0}nl+kj+jgdkv.geexlemue 各項目
 {0}neg+j 満
+{0}nix+d 渗
 {0}nim+x 涙
 {0}ni.bei.bcouzu 薄手
 {0}ni.ta+ouiceis.bcohxeoli 薄化粧
@@ -1557,6 +1561,7 @@
 {0}xu+wewi.dvelie 対立
 {0}xu+ohsxwi.dveuue 対数
 {0}xu+swi.dverfo 対人
+{0}xu+skrpwi.dvesie 対価
 {0}xu+sklrbi.uzemke 寿命
 {0}xu+sa+ft,xr+xkwkwiktj.dverfoksubueoge 対人恐怖症
 {0}xu+ecdbiwi.dveyie 対義
@@ -2196,6 +2201,7 @@
 {0}tg,sjso.dyerze 炖肉
 {0}tg,sjsjx.xsirze 胸肉
 {0}tg,ejuo.dyecde 炖菜
+{0}tg,iltv.dyegju 鈍感
 {0}tg,djxmjx.xsijbi 胸筋
 {0}tg,jzvkjx.xsiqli 胸腔
 {0}tg,jjjjx.xsiguu 胸骨
@@ -3076,6 +3082,7 @@
 {0}ra+dimj.osipmi 中篇
 {0}ra+dk+pm+mkhwjvkr.osiyjommeohu 中顔面長
 {0}ra+dk+kpmrwjv.osiyjomme 中顔面
+{0}ra+kpmg.osipwe 中配
 {0}ra+kp+tdbkbwi.osiduoxke 中毒性
 {0}ra+kc+yf+wrjpizr.osigoodziuie 中国都市
 {0}ra+kc+wlkklpi.osigooyuu 中国語
@@ -3386,6 +3393,7 @@
 {0}ui+rfnorl.thojli 糖浆
 {0}ui+rfjss.fuefwe 付费
 {0}ui+uk+ka+kpvmdnek.dvebfuvreffi 对苯二酚
+{0}ui+ggs.fueiui 付出
 {0}ui+hi+sklwbs.goeniuheo 过拟合
 {0}ui+cofss.fuekru 付款
 {0}ui+ciw.goeque 过去
@@ -7668,6 +7676,7 @@
 {0}sy+xuscrn.fuezao 複雑
 {0}sy+xfijdh.hfutse 很痛
 {0}sy+xf+zp+ssdxjz.uhiyiojyirfo 傷痍軍人
+{0}sy+typndh.hfumje 很慢
 {0}sy+tuxdh.hfukke 很快
 {0}sy+rr,ebbpkw.tiezveyho 替罪羊
 {0}sy+rkidg.paoiso 爬虫
@@ -8877,6 +8886,7 @@
 {0}li+os+gx+firiwtkmksfm.uieyjemmuqlo 試験勉強
 {0}li+os+zlrlwtkmks.uieyjegri 試験官
 {0}li+su+eplxli.qieleequi 器楽曲
+{0}li+sox.uzerfo 獣人
 {0}li+ssmwtk.uiezoe 試作
 {0}li+sklwtk.uieheo 試合
 {0}li+ebjgwtk.uieoea 試着
@@ -8893,6 +8903,7 @@
 {0}li+jbwtk.uieyse 試用
 {0}li+jblxl.qieyse 器用
 {0}li+jkkvlxl.qiejue 器具
+{0}ld+prrkwwdi.xpezve 謝罪
 {0}ld+przjkwfn.ueeoie 設置
 {0}ld+pcfifzl.gsiyeu 宮野
 {0}ld+yskjvwzl.hxetio 話題
@@ -9952,6 +9963,8 @@
 {1}ix 庆
 {0}ix+bixmsg.yziuie 优势
 {0}ix+pxmk.yjenjo 厌男
+{0}ix+nnd.ufeuvu 渗水
+{0}ix+nkmxnd.ufelwe 渗涙
 {0}ix+xbmzgkm.dseoeo 动辄
 {0}ix+xmcm.uielie 勢力
 {0}ix+xmkm.dselie 动力
@@ -11653,6 +11666,7 @@
 {0}ku+dys.yuobdo 余白
 {0}ku+dure.mzuosu 某种
 {0}ku+dwwdfz.yuuhho 宇航
+{0}ku+kxe.mzutmi 某天
 {0}ku+kw+kw+kolixzsys.jtodkeuiefzu 决定是否
 {0}ku+koix.jtobue 决不
 {0}ku+fwhis.yuoxmo 余弦
@@ -13096,6 +13110,7 @@
 {1}fsc 坠
 {1}fsc+ 坠
 {0}fs+bxkxl.ivizze 吹奏
+{0}fs+bsyl.ivitie 吹替
 {0}fs+pkcii.oiigoo 之国
 {0}fs+yi.oiirie 之日
 {0}fs+yfyi.oiijmi 之間
@@ -13121,6 +13136,7 @@
 {0}fs+ouwzit.fwelne 廃料
 {0}fs+okgy.ujugli 閃光
 {0}fs+ok+fygueh.igohsosee 橙紅色
+{0}fs+sy+rrdnlb.ivitiebju 吹替版
 {0}fs+sji.oiinwe 之内
 {0}fs+ldjll.ivixlu 吹响
 {0}fs+lkdnli.oiilue 之路
@@ -13626,6 +13642,7 @@
 {0}jg+bu.xliuzu 相手
 {0}jg+biod.zieree 自热
 {0}jg+bdyd.ziepdi 自拍
+{0}jg+ba+dsdfnu.xliuzuyie 相手役
 {0}jg+pu+tdei.ziezyixbi 自尊心
 {0}jg+pkcid.ziegoo 自国
 {0}jg+pa+rjmkhdr.zieyzoohe 自由帳
@@ -14416,6 +14433,7 @@
 {0}aee è
 {0}aei ì
 {0}aea à
+{0}ai AI
 {0}aipri アイプリ
 {0}aiu ū
 {0}aio ō
