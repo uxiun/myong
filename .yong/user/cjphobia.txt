@@ -618,6 +618,7 @@
 {0}pm+skrpkg.pwesie 配価
 {0}pm+skcfkr.mmedce 面倒
 {0}pm+sklkg.pweheo 配合
+{0}pm+skkikr.mmehve 面会
 {0}pm+lyydkk.fjiihe 翻唱
 {0}pm+lm+wlkkldkkws.fjiyieyuu 翻訳語
 {0}pm+ejrfkr.mmeqmo 面前
@@ -734,6 +735,7 @@
 {0}pa+ui+si+eprfuvi.tmocyilkomge 田村鈴夢
 {0}pa+ud+cr,ryrwkrkf.yzoxbidcejqe 由新到旧
 {0}pa+ga+kk.rjxuxo.dsiujindeyhi 東山奈央
+{0}pa+ga+fr+bkhejkf.quimuelpebnu 曲目列表
 {0}pa+hkdume.mnoxqe 苗绣
 {0}pa+zjezu.dsinjo 東南
 {0}pa+wlou.dsijki 東京
@@ -754,6 +756,7 @@
 {0}pa+krrku.dsiyae 東亜
 {0}pa+kur.yzoyuo 由于
 {0}pa+file.quimko 曲名
+{0}pa+jge.quimue 曲目
 {0}pa+jm.ewzzukk.dsixtulmo 東雪蓮
 {0}pa+jl+cw+kcdyuocktg.dsithohuupoe 東堂琥珀
 {0}pa+je+krrkuzz.dsinjoyae 東南亜
@@ -3610,6 +3613,7 @@
 {0}uk+ij+sizllsw.tiuyuegru 体育館
 {0}uk+dbgs.tiumco 体毛
 {0}uk+dnwb.wwofju 違反
+{0}uk+drjgvs.tiuoie 体質
 {0}uk+dubkvs.tiujii 体積
 {0}uk+dulvs.tiujii 体积
 {0}uk+dulwb.wwoheo 違和
@@ -5786,6 +5790,7 @@
 {0}zl+dp+zuimd.juilqouzu 居留守
 {0}zl+dytisx.zoedea 做的
 {0}zl+dhise.kuugxi 苦瓜
+{0}zl+dlwezp.guecio 固辞
 {0}zl+ddpm.juilqo 居留
 {0}zl+djges.guisre 估算
 {0}zl+kcpcdl.gruliu 管理
@@ -6338,6 +6343,7 @@
 {0}va+ns+fhzllfwih.xnucjigru 小餐馆
 {0}va+xrfue.gsecyo 共存
 {0}va+xdmge.gsefje 共犯
+{0}va+xdiyhf.xnulho 小狼
 {0}va+xjl.oiuyzu 只有
 {0}va+xje.gseyzu 共有
 {0}va+xa+zfufw.xnuwfozie 小文字
@@ -7217,6 +7223,7 @@
 {0}ow+wlzhig.tsujie 統計
 {0}ow+wlkklhig.tsuyuu 統語
 {0}ow+weyhdm.fhuybi 紡音
+{0}ow+sm+eveuhjjs.diezoeyee 締作業
 {0}ow+sisrjhx.wfouie 紋飾
 {0}ow+sklhig.tsuheo 統合
 {0}ow+lz+yt+sk+zkwshigwdius.tsujiedeajmudke 統計的検定
@@ -8919,6 +8926,7 @@
 {0}ld+gxklzl.gsiqio 宮崎
 {0}ld+gu+sukwumwi.yzedcutiu 誘導体
 {0}ld+hmc.ugenvu 聖女
+{0}ld+hofygwdi.xpejto 謝絶
 {0}ld+mvdfnzl.gsidme 宮殿
 {0}ld+ms+nj+nilzlnmgv.gsizeoxmooie 宮沢賢治
 {0}ld+zn+wlowkwi.sueqqodmu 訴求点
@@ -10978,6 +10986,7 @@
 {0}dh 很
 {0}dh+ 低
 {0}dh+bwehwr.ykojpi 迎接
+{0}dh+bsyw.yiitie 衣替
 {0}dh+nyjesi.diiwfi 低温
 {0}dh+xpyr.vhoffe 昂奋
 {0}dh+rcwdhw.yiioli 衣装
