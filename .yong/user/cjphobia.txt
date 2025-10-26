@@ -632,6 +632,7 @@
 {0}pz+bgv.djijii 单击
 {0}pz+ba+ky+skffsstk.mwunmohgolie 毎年恒例
 {0}pz+pls.mwuhvo 毎回
+{0}pz+yg+dhioof.djiseexie 単色系
 {0}pz+ys.mwurie 毎日
 {0}pz+nu+rjmkhdld.geetnoohe 箇条帳
 {0}pz+xbxfv.djigvu 单轨
@@ -667,6 +668,7 @@
 {0}pz+ko.djiyii 単一
 {0}pz+kkgo.djiyro 単元
 {0}pz+ka+sto.djiyiihxe 単一化
+{0}pz+fygo.djisee 単色
 {0}pz+fuo.djizia 単子
 {0}pz+fskxto.djifai 単発
 {0}pz+js.mwuyte 毎月
@@ -1001,6 +1003,7 @@
 {0}yk+il+cykdndn.thioieihu 湯治場
 {0}yk+ia+dkldcx.hlotdehze 皇太后
 {0}yk+dbtddbd.yhowue 揚物
+{0}yk+dbjgu.iaokje 查看
 {0}yk+dmdkrcd.ihusou 場所
 {0}yk+debs.tiougi 提升
 {0}yk+kpydkbs.tioxku 提醒
@@ -5962,6 +5965,7 @@
 {0}za+udfm.vrujii 耳机
 {0}za+uj+pydry.zcudcetmo 早稲田
 {0}za+uj+pa+xa+ojfuydry.zcudcetmodaexto 早稲田大学
+{0}za+gd+bkhyjg.zcujmebnu 早見表
 {0}za+gd+od+howiyyjgn.zcujmeuaioii 早見沙織
 {0}za+hrweyl.yeexlu 叶響
 {0}za+hofdnd.qmijio 千級
@@ -7240,6 +7244,7 @@
 {0}oo.ce+rixccfubui.lbouuekvo 鱗樹蝰
 {0}oo.dyn.djebdo 淡白
 {0}oo.dufun.djejie 淡季
+{0}oo.fygn.djesee 淡色
 {0}oo.judddn.djecdu 淡彩
 {0}os 不是
 {0}osc 雀
@@ -7829,6 +7834,7 @@
 {0}su+bk+yfydbfd.wweugijmi 衛生間
 {0}su+pclhe.iaoyro 茶園
 {0}su+pclhi.leeyro 楽園
+{0}su+pa+nddhie.leequipde 楽曲派
 {0}su+ydbkdbf.wwexki 衛星
 {0}su+nbkve.iaozie 茶漬
 {0}su+tsjd.cdoohu 财长
@@ -8114,6 +8120,7 @@
 {0}ss,lkhmdyn.fuehce 復号
 {0}ss,eveuwz.zuoyee 卒業
 {0}ss,ejrfdkr.yueqmo 御前
+{0}ss,iogdkr.yueliu 御礼
 {0}ss,ienec.njodue 難度
 {0}ss,ikfskj.llucie 两次
 {0}ss,dbxis.oseizo 众筹
@@ -9333,6 +9340,7 @@
 {0}eb,isun.yholee 洋楽
 {0}eq+xf+shvtis.xmoyiorfo 嫌疑人
 {0}eq+txfishv.xmoyio 嫌疑
+{0}eq+skrpiv.lmosie 廉価
 {0}eq+lzuhv.xmowwe 嫌味
 {0}eq+kkthv.xmovee 嫌悪
 {0}epr+f 夢
@@ -9360,6 +9368,7 @@
 {0}ep+kyfunh.nsohze 濃厚
 {0}ep+kgpb.mnohxe 描画
 {0}ep+kcrfwy.zcidce 遭到
+{0}ep+fygnh.nsosee 濃色
 {0}ep+jgcvcl.mnimue 喵睦
 {0}ep+jwmkb.mnoxpu 描写
 {0}ey+btxsux.mooniu 模擬
@@ -13677,6 +13686,7 @@
 {0}jg+xo+kk.wlkkldjwl.zierjoyjoyuu 自然言語
 {0}jg+xo+kk.lk+nd+kcpcdjwlwkldf.zierjoyjoyuuiuuliu 自然言語処理
 {0}jg+xscidi.credoo 篡奪
+{0}jg+xjd.zieyzu 自有
 {0}jg+typnd.ziemje 自慢
 {0}jg+ttu.xlibiu 相比
 {0}jg+tl+rk+ififyngbw.mcepcepdoxue 冒泡排序
@@ -14100,6 +14110,7 @@
 {0}jk+pm+jgzvkr.ofimmemue 真面目
 {0}jk+pwikki.yyomuu 雲母
 {0}jk+pa+ez+uuizvc.ofitmoxkecyi 真田幸村
+{0}jk+yg+dhioynf.nruseexie 暖色系
 {0}jk+yjknyn.nrunru 暖暖
 {0}jk+nwvhbg.ycogyu 揺滾
 {0}jk+nddhbn.yropde 援派
@@ -14171,6 +14182,7 @@
 {0}jk+kscvzv.ofiyje 真贋
 {0}jk+kfrfzk.oiolpe 直列
 {0}jk+ka+skkiw.yyouherfo 雲上人
+{0}jk+fygyn.nrusee 暖色
 {0}jk+fx+nzljnlic.dsetkohuo 洞庭湖
 {0}jk+fjczk.oiojnu 直角
 {0}jk+jc+kk.jc+kedddzkfkf.oiojnusjijnuxko 直角三角形
