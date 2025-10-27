@@ -6854,6 +6854,7 @@
 {0}wi+weyp.muuybi 母音
 {0}wi+wdmp.muufhi 母方
 {0}wi+wfijng.lqotsi 流通
+{0}wi+sukp.muutiu 母体
 {0}wi+lkwvxbz.ukijni 摔跤
 {0}wi+ek+suknghu.lqomwotiu 流媒体
 {0}wi+iy+nnngnh.lqolhehje 流浪汉
@@ -7265,6 +7266,7 @@
 {0}os+ouwzhkl.gwulne 給料
 {0}os+suihkl.gwufue 給付
 {0}os+suihj.naefue 納付
+{0}os+lllhj.naepbu 納品
 {0}os+dsykihj.naedeo 納得
 {0}os+dlkrjhki.hveuii 絵師
 {0}os+kpmrhki.hvemme 絵面
@@ -7874,6 +7876,7 @@
 {0}sg+scudcx.ogijio 徴集
 {0}sg+swkldgx.wwixbe 微信
 {0}sg+skvdcx.ogibki 徴兵
+{0}sg+ek+skldgxgs.wwiqmeheo 微嵌合
 {0}sg+dubkvdgx.wwijii 微積
 {0}sg+fvdgx.wwixnu 微小
 {0}sh 値
@@ -10302,6 +10305,7 @@
 {0}il+yk+wjrjhdc.uiuhlodie 始皇帝
 {0}il+nn.oieuvu 治水
 {0}il+xxvon.oielno 治療
+{0}il+rydgj.tdivro 胎児
 {0}il+hodnwh.uiuosi 始終
 {0}il+cidmf.mkoigo 名城
 {0}il+momsf.mkoyie 名駅
@@ -11464,6 +11468,7 @@
 {0}da+irirw.gluozi 广州
 {0}da+il+jxxwck.gluyuewhu 广域网
 {0}da+ijttu.cdongo 才能
+{0}da+duwljs.ruegcu 入稿
 {0}da+dclw.glugce 广告
 {0}da+ddkjvt.biexui 必須
 {0}da+djgeo.ucusre 少算
@@ -12066,6 +12071,7 @@
 {0}kw+srfxxk.ogehze 症候
 {0}kw+swezs.dkewwe 定位
 {0}kw+lmtys.uienea 是呢
+{0}kw+ebjgzs.dkeoea 定着
 {0}kw+ecdbizs.dkeyie 定義
 {0}kw+ezxmfig.uuilwi 疏勒
 {0}kw+evjzs.dkeqii 定期
