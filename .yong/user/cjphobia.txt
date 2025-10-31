@@ -352,6 +352,7 @@
 {0}bj+sm+uedgcg.kjeqiuldo 看起来
 {0}bj+swkleg.oeaxbe 着信
 {0}bj+sl+uedgcg.kjeqiuldo 看起来
+{0}bj+le+hmkjdgwsn.kjehuefue 看護婦
 {0}bj+dbtddeg.oeawue 着物
 {0}bj+dscuidg.kjedde 看待
 {0}bj+kcrfdg.kjedce 看到
@@ -864,6 +865,7 @@
 {0}yg+kj+sefibeep.bailwuwuu 芭蕾舞
 {0}yg+fif.seevva 色々
 {0}yg+judddf.seecdu 色彩
+{0}yg+jjtnf.seevde 色愛
 {0}yh+bmzlu.gfijue 根据
 {0}yh+nzzjw.tveico 退潮
 {0}yh+nscn.jminjo 艰难
@@ -1020,6 +1022,7 @@
 {0}yf+tzr.dzixbi 都心
 {0}yf+uk+zfudys.jmutiuzie 簡体字
 {0}yf+hotkdy.jmuyti 簡約
+{0}yf+cw+jjtnnckgj.ryeliovde 潤璃愛
 {0}yf+mgzr.dziyiu 都已
 {0}yf+wrjzr.dziuie 都市
 {0}yf+opzdy.jmudji 簡単
@@ -2337,6 +2340,7 @@
 {0}td+ezlty.jpikuu 皆苦
 {0}td+ienzg.miedue 密度
 {0}td+duyidi.ueexli 麝香
+{0}td+djrfyd.yieoie 易制
 {0}td+kuyd.yieyuo 易于
 {0}td+klfhkzg.miemau 密码
 {0}td+ki.rk+jvlgzgzcws.mieuietcotoi 密室逃脱
@@ -2935,6 +2939,7 @@
 {0}rf,duifmt.ybusii 隐私
 {0}rf,dufowv.yieigi 亦称
 {0}rf,dwfxci.hxetku 划艇
+{0}rf,kpmrcv.iiemme 赤面
 {0}rf,km+te+fucvmikeu.iieyuuyeezia 赤羽葉子
 {0}rf,km+fpopirw.loofwiyuo 罗非魚
 {0}rf,fygcv.iiesee 赤色
@@ -3689,6 +3694,7 @@
 {0}uj+fuwgg.qbizia 親子
 {0}uj+ffugd.yuelea 鬱了
 {0}ua+bntouo.miuqui 米麹
+{0}ua+bx.uaiuzu 杀手
 {0}ua+pr+uz+swklonzdpt.miuzeosvexbe 米澤穂信
 {0}ua+ymkc.mueyce 木曜
 {0}ua+ys.xqirie 休日
@@ -3732,6 +3738,7 @@
 {0}ua+vpzi.ilodji 床单
 {0}ua+vdyjz.ssejbu 宋錦
 {0}ua+wrks.xqioiu 休止
+{0}ua+wetsz.wwesve 未遂
 {0}ua+wdmx.dsifhi 东方
 {0}ua+wfijz.wwetsi 未通
 {0}ua+ouvmdo.miuffu 米粉
@@ -3804,6 +3811,7 @@
 {0}gp+kpmrk.hxemme 画面
 {0}gp+kgpk.hxehxe 画画
 {0}gp+kwdkr.bioxxe 鼻下
+{0}gp+kk.hxeyii 画一
 {0}gp+fy+scukss.hxexlejio 画像集
 {0}gp+jzvkdkr.bioqli 鼻腔
 {0}gy+pcjh.yjuliu 眼里
@@ -4509,6 +4517,7 @@
 {0}cx+kkjije.mwulie 美丽
 {0}cx+kkjjte.mwulie 美麗
 {0}cx+jzpze.mwujyi 美軍
+{0}cx+je.mwuyte 美月
 {0}cx+jdfe.mwujii 美肌
 {0}ct,kcygkt.piopao 琵琶
 {0}cr,uekf.dceldo 到来
@@ -4607,6 +4616,7 @@
 {0}cm+yp+mk+im+jgdgsxtnwsj.vcemjeyuupmijme 傲慢与偏見
 {0}cm+typnsx.vcemje 傲慢
 {0}cm+kchhpkbo.mauncu 瑪瑙
+{0}cm+kkjjtkbo.maulie 瑪麗
 {0}cm+jl+jl+izpzkbokklkkl.maulueluekue 瑪露露庫
 {0}cz+bdnfn.oyujue 準拠
 {0}cz+sedjn.oyubwe 準備
@@ -4725,6 +4735,7 @@
 {0}ce+idmwb.daoigo 達成
 {0}ce+dm+wiszwbi.daoigolve 達成率
 {0}ce+dskkfel.ujexko 善行
+{0}ce+kcddpkrx.ykilqo 瑛瑠
 {0}ce+kedddui.uuexko 樹形
 {0}ce+jtyui.uueoii 樹脂
 {0}ci 去
@@ -4935,6 +4946,7 @@
 {0}ca+su+sy+sucnddndki.ugebiudeobcu 圣彼得堡
 {0}ca+sgscw.ouucvi 主催
 {0}ca+scjggw.ouugri 主観
+{0}ca+sw.ouurfo 主人
 {0}ca+skf.tuuqie 土气
 {0}ca+sk+su+pclhwyjvi.ouutioleeyro 主題楽園
 {0}ca+sk+epwyjv.ouutioqui 主題曲
@@ -5161,6 +5173,8 @@
 {0}ms+xrfur.ujucyo 闪存
 {0}ms+xrjix.fuibue 敷布
 {0}ms+xmlwtu.uiijxi 施加
+{0}ms+tm+xdkcwtuwk.uiinteklo 施虐狂
+{0}ms+tm+twtuwk.uiintexbi 施虐心
 {0}ms+twx.fhexbi 放心
 {0}ms+rpgr.ujudme 闪电
 {0}ms+rmsr.ujuuju 闪闪
@@ -5173,6 +5187,7 @@
 {0}ms+ggwx.fheiui 放出
 {0}ms+ms+hx+wljgrrin.ujuujufaille 闪闪发亮
 {0}ms+vzkswtu.uiidke 施錠
+{0}ms+wtmkwtu.uiinte 施虐
 {0}ms+wldfnwtu.uiiuee 施設
 {0}ms+wldfnix.fuiuee 敷設
 {0}ms+wexwx.fhesse 放送
@@ -6095,6 +6110,7 @@
 {0}vt+tw.lmexbi 恋心
 {0}vt+tk.veexbi 恶心
 {0}vt+cydw.lmeugi 恋声
+{0}vt+zrrfw.lmeuie 恋事
 {0}vt+wldzlw.lmehxe 恋話
 {0}vt+weytk.veeyie 恶意
 {0}vt+weyw.lmeybi 恋音
@@ -6437,6 +6453,7 @@
 {0}va+ihitkf.xnuuie 小试
 {0}va+ilte.gsegju 共感
 {0}va+ijttl.oiungo 只能
+{0}va+ia+iifrx.jbitdelho 金太郎
 {0}va+dnup.sietno 四条
 {0}va+dn+yp+kgppulnn.siegeomjehxe 四格漫画
 {0}va+dx,oubkjfh.xnuycijki 小妖精
@@ -7730,6 +7747,7 @@
 {0}sy+fu+dbjgdhh.hfuhcukje 很好看
 {0}sy+fw+sukrnddh.fueoietiu 複製体
 {0}sy+fl+ijttdhk.hfukeungo 很可能
+{0}sy+fl+jjxndhk.hfukeuvde 很可爱
 {0}sy+fildki.deomko 得名
 {0}sy+fifidh.hfudoi 很多
 {0}sn 仅
@@ -13664,6 +13682,7 @@
 {0}ju+jbb.cduyse 採用
 {0}ju+jxbe.rsojyi 荣军
 {0}ju+ja+ydhre.cdeytevho 菜月昂
+{0}jg+bymnd.ziecoi 自撮
 {0}jg+bykfv.fuedji 負担
 {0}jg+bu.xliuzu 相手
 {0}jg+biod.zieree 自热
