@@ -15,8 +15,7 @@ atz $YYYY0年$MON月$DAY日$SPACE
 
 aty $yyyy$SPACE
 atys $yyyy年$SPACE
-atu $mon0$SPACE
-atus $mon0月$SPACE
+atu $yyyy年$mon0月$day日$SPACE
 ati $mon/$day$SPACE
 atis $day日$SPACE
 ato $hour$SPACE
@@ -26,7 +25,7 @@ atps $min分$SPACE
 
 ats $hour0:$min$SPACE
 
-atj $yyyy年$mon0月$day0日$SPACE
+atj $yyyy年$mon0月$day日$SPACE
 atk $yyyy/$mon0/$day0$SPACE
 atl $yyyy-$mon0-$day0$SPACE
 

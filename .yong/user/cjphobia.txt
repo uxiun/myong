@@ -7124,6 +7124,7 @@
 {0}oh+ffbshou.jieigo 継承
 {0}oc 尘
 {0}oc+puhl.jpogou 結果
+{0}oc+pcfifhvn.lkoyeu 綾野
 {0}oc+po+fufcf.gviyuozia 鮭魚子
 {0}oc+ra+iodkrhlu.jpouueqio 結束祈
 {0}oc+urhl.jpouue 結束
@@ -8223,6 +8224,7 @@
 {0}sd+sk+llixlfesdkf.fwixkoqie 飛行器
 {0}sd+sk+dwdflfesdkf.fwixkoiro 飛行船
 {0}sd+sjsjyo.jiirze 鶏肉
+{0}sd+lj+znhiofeswl.fwigcijie 飛高繋
 {0}sd+dcxmdcf.isidse 衝動
 {0}sd+dmdkrdfn.yiesou 役所
 {0}sd+dwdflfes.fwiiro 飛船
@@ -8239,6 +8241,7 @@
 {0}sk+buznu.tuomou 涂抹
 {0}sk+bkhfxt.faibnu 発表
 {0}sk+bk+nkdofxtd.faiugiyro 発生源
+{0}sk+bk+evjfxttj.faiqkoqii 発情期
 {0}sk+bjzzfxt.faihvi 発揮
 {0}sk+przxydk.qmiuuu 签署
 {0}sk+puzv.bbigou 宾果
@@ -8257,6 +8260,7 @@
 {0}sk+xkwkfxt.faioge 発症
 {0}sk+xf+et+dskkfdkfiows.xkowwesvexko 行為遂行
 {0}sk+xa+wwmufle.dgidaeyzo 登大遊
+{0}sk+tbkjfxt.faiqko 発情
 {0}sk+tuxtf.yuokke 愉快
 {0}sk+rcwdhnu.tuooli 涂装
 {0}sk+rwu.tuoosi 途中
