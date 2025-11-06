@@ -3139,6 +3139,7 @@
 {0}ub+ienokj.jkidue 精度
 {0}ub+duldkv.jiiheo 積和
 {0}ub+dzllokj.jkigru 精管
+{0}ub+djgeokj.jkisre 精算
 {0}ub+kn.dytidkvuk.jiijiodea 積極的
 {0}ub+kkhmokj.jkiqnu 精巧
 {0}ub+kjkkvokj.jkilko 精霊
@@ -11939,7 +11940,8 @@
 {0}kc+fjcs.qrojnu 全角
 {0}kc+jxxs.qrowhu 全网
 {0}kc+jt+iltsit.qrongogju 全能感
-{0}km 戸
+{0}km 万
+{1}km 戸
 {0}km+bg,kciznmikd.yuumcoqqo 羽毛球
 {0}km+bf,is+zh+rrkrrwmrxcj.fwinaexsovjepme 非那雄胺片
 {0}km+pmik.yuutmo 羽田
@@ -14373,6 +14375,7 @@
 {0}ja+ud+eprfyyr.mkoxiimge 明晰夢
 {0}ja+ga+va+jgzxyxje.yzumuegseduu 有目共睹
 {0}ja+hopy.mkoxie 明細
+{0}ja+hoskl.ytegwu 月給
 {0}ja+hi+ta+kl+dbtddxuiss.yzujiihxeheowue 有機化合物
 {0}ja+hkizx.yzuxme 有线
 {0}ja+czmrn.ytebce 月報
