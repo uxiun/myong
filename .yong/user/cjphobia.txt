@@ -9958,6 +9958,7 @@
 {0}ea+iw+rk+nkdotfus.uiewdetcoyro 世外桃源
 {0}ea+iijk.kdilhu 开朗
 {0}ea+dbjgu.ldokje 来看
+{0}ea+dnww.liedsi 立冬
 {0}ea+dk+kk.ejueers.jkuqborfocde 井芹仁菜
 {0}ea+djgu.ldozie 来自
 {0}ea+kme.jkuhue 井戸
@@ -10275,6 +10276,7 @@
 {0}io+dutw.uuoxii 熟悉
 {0}io+djec.reexte 熱血
 {0}io+kk.wguicsi.reeyyodcu 熱伝導
+{0}io+fl+kflbk.reekeukeu 热可可
 {0}is 该
 {0}isi 冷
 {0}is+bt,ju+tdbkeudddki.ycewuendexke 薬物耐性
