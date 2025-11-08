@@ -11942,8 +11942,6 @@
 {0}kc+fjcs.qrojnu 全角
 {0}kc+jxxs.qrowhu 全网
 {0}kc+jt+iltsit.qrongogju 全能感
-{0}km 万
-{1}km 戸
 {0}km+bg,kciznmikd.yuumcoqqo 羽毛球
 {0}km+bf,is+zh+rrkrrwmrxcj.fwinaexsovjepme 非那雄胺片
 {0}km+pmik.yuutmo 羽田
