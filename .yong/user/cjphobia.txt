@@ -4581,10 +4581,12 @@
 {0}cu+evjyi.uioqii 時期
 {0}cu+eskls.jioheo 集荷
 {0}cu+itkdi.dguuie 等式
+{0}cu+idms.jioigo 集成
 {0}cu+dbtddbi.iiowue 持物
 {0}cu+dqddi.dguufi 等身
 {0}cu+du+eo+ka+iifryiwms.uiotzewuoyiilho 時透無一郎
 {0}cu+dcuidi.dgudgu 等等
+{0}cu+dm+wvjlsi.jioigouhi 集成商
 {0}cu+dsgcx 特徴
 {0}cu+dscuidi.dgudde 等待
 {0}cu+djrfyi.uiooie 時制
@@ -6207,6 +6209,7 @@
 {0}ve+sdjej.gzerue 購入
 {0}ve+lc+ouwzjejwjg.gzeduolne 購読料
 {0}ve+ivdgieu.yeemoo 業魔
+{0}ve+fdsxmeu.yeewue 業務
 {0}vi+pa+ed,nuwfi.ssitmosaeuvu 松田颯水
 {0}vi+ggzx.tuiiui 突出
 {0}vi+mkicu.ssiwui 松屋
