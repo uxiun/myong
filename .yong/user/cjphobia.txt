@@ -282,6 +282,7 @@
 {0}bk+ikldgtj.qkokle 情况
 {0}bk+dbtddnv.ziewue 漬物
 {0}bk+dbtddd.ugiwue 生物
+{0}bk+dbkbzdbz.bdebde 拜拜
 {0}bk+dqdd.ugiufi 生身
 {0}bk+dcxmtj.qkodse 情動
 {0}bk+dm+sj+jvrfdibgg.ugiigogvizeo 生成規則
@@ -2561,6 +2562,7 @@
 {0}rr,tbkjzf.uieqko 事情
 {0}rr,rpzf.uieyzo 事由
 {0}rr,rktkk.yaebwu 亞北
+{0}rr,uddrr.irilqu 川柳
 {0}rr,gxklr.iriqio 川崎
 {0}rr,gsf.fuouji 佛山
 {0}rr,hkmdls.jpeuce 介绍
@@ -7428,6 +7430,7 @@
 {0}ok+iririlp.fuoozi 福州
 {0}ok+ihwhsi.ykigdi 应该
 {0}ok+iowrkilp.fuooiu 福祉
+{0}ok+dyh.hsobdo 紅白
 {0}ok+dywgilp.fuodcu 福島
 {0}ok+kwrkyjv.xmuoge 顯正
 {0}ok+fbrkih.hsoxpe 紅蟹
@@ -9301,6 +9304,7 @@
 {0}la+zvmggk.uiokui 石窟
 {0}la+zkmsp.hvojxi 回家
 {0}la+vj+sc+cx+dbtddzoudm.guujioivodsewue 古脊椎動物
+{0}la+wxp.hvowfo 回文
 {0}la+wmlzp.hvobie 回避
 {0}la+wmdx.yzebmi 右辺
 {0}la+wwrvz.guujie 古迹
