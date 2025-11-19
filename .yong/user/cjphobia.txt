@@ -519,6 +519,8 @@
 {0}pr+su+prhocyne.mjeiaoloo 曼茶羅
 {0}pr+sm+jbkfs.fuezoeyse 副作用
 {0}pr+sfyssj.vzuxle 偶像
+{0}pr+ey+cydkfw.fueybiugi 副音声
+{0}pr+ey+zzxfkfw.fueybigvu 副音軌
 {0}pr+eeb.yaijku 押井
 {0}pr+ea+zuibe.yaijkuuzu 押井守
 {0}pr+ihdkwr.ufisue 申诉
@@ -3936,6 +3938,7 @@
 {0}gd+ka+wlctjgu.jmebfuoie 見本誌
 {0}gd+jglhtjzk.uvemmo 睡眠
 {0}gd+jmrnkn.xxefuo 夏服
+{0}gd+jskkokn.xxejie 夏祭
 {0}gd+jk+kgpknkkv.xxelkohxe 夏霊画
 {0}gkc+c 崖
 {0}gk+pzlkjv.wjogue 頑固
@@ -8394,6 +8397,7 @@
 {0}sf+bixmcmk.quiuie 趋势
 {0}sf+ywlowx.yeejku 夜景
 {0}sf+yfywx.yeejmi 夜間
+{0}sf+xfijlx.hzotse 喉痛
 {0}sf+rwx.yeeosi 夜中
 {0}sf+gd+kj+hmbrwxjgep.yeejmelwunae 夜見蕾娜
 {0}sf+ca+pkciwxk.yeewhogoo 夜王国
@@ -9440,6 +9444,7 @@
 {0}ey+zu+wlskjwtl.yiewwelye 意味論
 {0}ey+zu+ebjgwtl.yiewweoea 意味着
 {0}ey+zu+jm.udkrwtlfdb.yiewwejpuxii 意味解析
+{0}ey+zzxfw.ybigvu 音軌
 {0}ey+zkux.moouie 模士
 {0}ey+zjhioux.moosou 模索
 {0}ey+wmstub.coeuii 措施
@@ -9500,6 +9505,7 @@
 {0}ey+fygw.ybisee 音色
 {0}ey+frttyw.ybijpi 音階
 {0}ey+fiwwt.yiewde 意外
+{0}ey+fjmdbw.ybijpu 音解
 {0}ey+jbs.jpeyse 借用
 {0}ey+jp+uknkjxkg.moodmejio 膜電極
 {0}ey+jxowdg.jkerjo 竟然
