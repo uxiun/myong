@@ -729,6 +729,7 @@
 {0}pa+yt+kcizneut.quigyeqqo 曲棍球
 {0}pa+yrjxu.dsiyke 東映
 {0}pa+ya+uku.dsiriebfu 東日本
+{0}pa+ya+cr,wudkrrrkf.yzojqedcexbi 由旧到新
 {0}pa+ya+ka+xa+jk+hhouukkh.dsiriebfudaeofezdi 東日本大震災
 {0}pa+nspwu.dsihdu 東海
 {0}pa+nebu.dsiyho 東洋
@@ -5830,6 +5831,7 @@
 {0}zl+jxop.guerjo 固然
 {0}zl+ja+szjkpx.gueyzuoio 固有值
 {0}zl+ja+il+wlmklpxf.gueyzumkocio 固有名詞
+{0}zej+g 寛
 {0}ze+bzfrmx.lmobhi 联邦
 {0}ze+bdupmx.lmoboi 联播
 {0}ze+yjjemx.lmomgo 联盟
@@ -6557,6 +6559,7 @@
 {0}wx+diw.oeemea 这么
 {0}wx+kcjdgz.uioxme 实现
 {0}wx+kw.oeeyii 这一
+{0}wx+kw+za+diwyss.oeeuieufomea 这是什么
 {0}wx+ks+zkiczfkk.uioyjeuie 实验室
 {0}wx+kedddp.tuoxko 図形
 {0}wx+frkkoz.uiojie 实际
@@ -10196,6 +10199,7 @@
 {0}iz+blwsbj.buuooi 捕捉
 {0}iz+pcon.qmuhwi 浅黒
 {0}iz+yskjvrj.buutio 補題
+{0}iz+nrj.buuuvu 補水
 {0}iz+xmdu.mwelie 魅力
 {0}iz+riythrt.ueoxpi 蛇蝎
 {0}iz+riteurlj.huodpo 蝴蝶
@@ -10344,6 +10348,7 @@
 {0}il+yk+wjrjhdc.uiuhlodie 始皇帝
 {0}il+nn.oieuvu 治水
 {0}il+xxvon.oielno 治療
+{0}il+xsktn.oieyue 治癒
 {0}il+rydgj.tdivro 胎児
 {0}il+hodnwh.uiuosi 始終
 {0}il+cidmf.mkoigo 名城
@@ -12816,6 +12821,7 @@
 {0}ka+md+ukv.vreffimue 二分木
 {0}ka+mkicu.bfuwui 本屋
 {0}ka+zp+sa+udnlkdc.vreoserfogeo 二重人格
+{0}ka+zizpzw.uhezde 上載
 {0}ka+zkms.yiijxi 一家
 {0}ka+zkws.yiidke 一定
 {0}ka+zk+kk.zzkkikzkik.vreorusjioru 二転三転
