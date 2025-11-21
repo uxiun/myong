@@ -360,6 +360,7 @@
 {0}bj+kludndg.kjepoe 看破
 {0}bj+frcvceg.oealue 着陸
 {0}bj+ffdg.kjelea 看了
+{0}bj+jbeg.oeayse 着用
 {0}bj+judddeg.oeacdu 着彩
 {0}ba+bxys.nmoiyi 年春
 {0}ba+bty.uzuoiu 手指
@@ -1390,6 +1391,7 @@
 {0}na+ebjg.uvuoea 水着
 {0}na+epui.bkigou 氷菓
 {0}na+ezccn.ulixpo 双鞋
+{0}na+eo+kf+pcso.uvuwuodgiliu 水無灯里
 {0}na+ed,udxjwg.uvudceqno 水道橋
 {0}na+ekte.uvuzhe 水葬
 {0}na+ixd.fjuyie 反义
@@ -3546,6 +3548,7 @@
 {0}ud+le+wsrfwkrcl.xbixiujue 新喜劇
 {0}ud+ljsp.troyro 团员
 {0}ud+ekknn.boiljo 波兰
+{0}ud+efrdbn.piisae 披萨
 {0}ud+ea+psrrwkrt.xbiuiejpe 新世界
 {0}ud+ea+wlkklfhsw.guilieyuu 孤立語
 {0}ud+ea+kh+fuwkrebio.xbijkusuezia 新井素子
@@ -5042,6 +5045,7 @@
 {0}mr+rr,mkpevhrr.jiiiriyie 姫川翼
 {0}mr+rcwdhjn.fuooli 服装
 {0}mr+rmye.jpojmi 节间
+{0}mr+riml.kzemfo 叩门
 {0}mr+ud+zv+uceiwjdxjiv.gcijnimaouue 髙穚麻樹
 {0}mr+cdkllf.bpogze 別垢
 {0}mr+zlrlzr.hregri 宦官
@@ -6047,6 +6051,7 @@
 {0}vp+nidlcy.zgijmu 増減
 {0}vp+xmlcy.zgijxi 増加
 {0}vp+tscy.zgiohu 增长
+{0}vp+rcwdhk.xiioli 西装
 {0}vp+ggfz.djeiui 弹出
 {0}vp+cu+nidlcydi.zgidgujmu 増等減
 {0}vp+cl+za+eyzkphd.xiiyroqmiccu 西園千草
@@ -9728,6 +9733,7 @@
 {0}eo+ss.wuorfo 無人
 {0}eo+lt+tbkjsi.wuogjuqko 無感情
 {0}eo+lj+dbssbv.wuosyuuii 無損失
+{0}eo+ey+lzuswt.wuoyiewwe 無意味
 {0}eo+ey+ecdbiswt.wuoyieyie 無意義
 {0}eo+ed,xa+ta+rk+wddbkskddwswv.wuoxkowfohxeyioiju 無形文化遺産
 {0}eo+ek+ox+zkskjvmkl.wuotzoqiouie 無頭騎士
@@ -10212,6 +10218,7 @@
 {0}iz+wlkklwv.uueyuu 述語
 {0}iz+widgrj.buuisi 補充
 {0}iz+szpz.zderfo 載人
+{0}iz+sieezpz.zdebku 載餅
 {0}iz+lwsrj.buuzuo 補足
 {0}iz+lllwn.qqopbu 逑品
 {0}iz+lk+ls+kcpcwvwklwkj.uueyuulyeliu 述語論理
@@ -10418,6 +10425,7 @@
 {0}id+riskfrzl.koeyuo 蛞蝓
 {0}id+cslenl.jmuyjo 減塩
 {0}id+cilkcm.igoyue 城域
+{0}id+mkokgi.hyolko 魂灵
 {0}id+vzjvcm.igoofe 城鎮
 {0}id+wpkhnl.jmuuki 減衰
 {0}id+wyhnl.jmutve 減退
@@ -10429,6 +10437,7 @@
 {0}id+szjkwg.isioio 充值
 {0}id+sidbisf.jiivee 飢餓
 {0}id+skflhi.jiuheo 幾何
+{0}id+lwswg.isizuo 充足
 {0}id+ekskeh.wwirvo 葳蕤
 {0}id+il+jxxcmck.igoyuewhu 城域网
 {0}id+ijttsn.fjengo 飯能
@@ -12479,6 +12488,7 @@
 {0}kk.wdmwg.yrufhi 远方
 {0}kk.wkmszg.wjoouo 完逐
 {0}kk.wkklsi.yyoyjo 伝言
+{0}kk.oc+lv.ja+skkisiiwlgy.hveueeuoimkohve 会社説明会
 {0}kk.os+ishkhc.sjiwwozii 三維姿
 {0}kk.ojlrjmli.xyoiho 尋常
 {0}kk.oa+skkisik.hvebuehve 会不会
@@ -13409,6 +13419,7 @@
 {0}fk+swekjv.dkuwwe 頂位
 {0}fk+sizllye.kdigru 開館
 {0}fk+skkiye.kdihve 開会
+{0}fk+sk+mzwiyyefxt.kdifaioio 開発職
 {0}fk+sk+zxyyefxt.kdifaioeu 開発者
 {0}fk+lye.kdikzu 開口
 {0}fk+lzudri.fgiwwe 風味
@@ -14199,6 +14210,7 @@
 {0}jk+wvxzk.oiojni 直交
 {0}jk+wegkjkki.yyodri 雲端
 {0}jk+wdmzk.oiofhi 直方
+{0}jk+ozk.oiohou 直火
 {0}jk+su+wlfrsvi.jueleebue 俱楽部
 {0}jk+shiszv.ofiuie 真似
 {0}jk+scjggzk.oiogri 直観
@@ -14348,6 +14360,7 @@
 {0}jj.kjmknj.hxoxtu 滑雪
 {0}jj.fvwl.goexnu 過小
 {0}jj.fifiwl.goedoi 過多
+{0}jj.jglhtwl.goemmo 過眠
 {0}jj.jjnbn.uzeuze 授受
 {0}jj.jj.uvfdnjnj.hxohxotii 滑滑梯
 {0}ja+bm+ml+xkkoxmox.yzumaujxinde 有馬加奈
