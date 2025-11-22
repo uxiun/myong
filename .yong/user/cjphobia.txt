@@ -4840,6 +4840,7 @@
 {0}cf,dh+skkisswr.hriykohve 歓迎会
 {0}cf,dm+estpiff.yeunduhxi 野乃花
 {0}cf,kciznpif.yeuqqo 野球
+{0}cf,kkjijkhk.maulie 玛丽
 {0}cf,kf+mbmopifks.yeuciemau 野次馬
 {0}cjr+k 壺
 {0}cjd+g 売
@@ -7052,11 +7053,13 @@
 {0}on+kcpchc.jkiliu 経理
 {0}ox 数
 {0}oxr+j 幣
+{0}ox+bm+ozimklmo.qiomauoje 騎馬戦
 {0}ox+prhochkl.qiuloo 綺羅
 {0}ox+xa+ui+xl+bknilkce.yzetmisieroemde 祐天寺若麦
 {0}ox+xa+cuiilk.yzetmisie 祐天寺
 {0}ox+rh+prhochklpoc.qiulooloo 綺羅羅
 {0}ox+rh+rh+jk+kgphklpocpockkv.qiulooloolkohxe 綺羅羅霊画
+{0}ox+mbmomkl.qiomau 騎馬
 {0}ox+zkmkl.qiouie 騎士
 {0}ox+skvmkl.qiobki 騎兵
 {0}ox+dskkfmkl.qioxko 騎行
