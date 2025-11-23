@@ -1793,6 +1793,7 @@
 {0}xk+hi+ienojvss.lweuiedue 類似度
 {0}xk+cu+yfysleyi.druuiojmi 短時間
 {0}xk+cd+wlkklojvebi.lweyieyuu 類義語
+{0}xk+mssle.druiiu 短尺
 {0}xk+mlrfsle.drujue 短剧
 {0}xk+mdxnsle.drufae 短髪
 {0}xk+zhuzhm.kcuvje 考案
@@ -3073,6 +3074,7 @@
 {0}ra+wh+mlebus.osiheoqyo 中核群
 {0}ra+ww,pa+ybkjprx.jxufwutmoqko 甲斐田晴
 {0}ra+wsku.osituo 中途
+{0}ra+wljcl.osidne 中調
 {0}ra+wdm.osifhi 中方
 {0}ra+ohsxf.ybuuue 引数
 {0}ra+ojfu.osixto 中学
@@ -3095,6 +3097,7 @@
 {0}ra+ihxnf.ybufai 引发
 {0}ra+ihdumf.ybuyze 引诱
 {0}ra+iorpr.osiufo 中神
+{0}ra+isuip.jxufuu 甲府
 {0}ra+dywg.osidcu 中島
 {0}ra+dy+gprko.osiyrojxu 中原岬
 {0}ra+duo.osiqqi 中秋
@@ -3892,6 +3895,7 @@
 {0}gv+cfdfnj.bweqne 貝殻
 {0}gv+wjkcjmd.pjewhe 盼望
 {0}gw+bznweg.jkejie 競技
+{0}gw+cwsweg.jkezzu 競走
 {0}gw+cjdgweg.jkemde 競売
 {0}gw+mbmoweg.jkemau 競馬
 {0}gw+fugjec.tsoksu 瞳孔
@@ -5226,6 +5230,7 @@
 {0}ms+kjpgwx.fhedme 放電
 {0}ms+jbic.gueyse 雇用
 {0}mlr+f 剧
+{0}mlr+j 屌
 {0}mle+b 群
 {0}mlf+r 郡
 {0}mlj+gg 覗
@@ -5442,6 +5447,7 @@
 {0}mk+mmlo.dhijuo 当局
 {0}mk+zrrfo.dhiuie 当事
 {0}mk+zkwsve.jmedke 鑑定
+{0}mk+zfuo.dhizie 当字
 {0}mk+za+jtgxnjw.lzedzexsi 漏斗胸
 {0}mk+wtwdhsn.qbixio 侵襲
 {0}mk+wznj.lzedze 漏斗
@@ -7935,6 +7941,7 @@
 {0}sh+mdxndin.hzefae 後髪
 {0}sh+zxydin.hzeoeu 後者
 {0}sh+wyhdin.hzetve 後退
+{0}sh+wljcldin.hzedne 後調
 {0}sh+wdmdin.hzefhi 後方
 {0}sh+obdin.hzebje 後半
 {0}sh+sf+jskkodinwx.hzeyeejie 後夜祭
@@ -9137,6 +9144,7 @@
 {0}lf+fkrxxhk.jxeuiu 驾驶
 {0}lf+jmrnsif.uuifuo 舒服
 {0}lf+jjnwu.xluuze 享受
+{0}lj 調
 {1}ljs 싐
 {0}lj+bs,fo+dbkwlugf.gcigvimiougi 高槻弥生
 {0}lj+qd+mkhwld.gciufiohu 高身長
@@ -12871,6 +12879,7 @@
 {0}ka+we+hf+bfjxwskk.uhewwehuehre 上位互換
 {0}ka+wizvw.uheuue 上述
 {0}ka+wdhw.uheyii 上衣
+{0}ka+wdm.yiifhi 一方
 {0}ka+wd+stdfn.yiibjihxe 一般化
 {0}ka+wd+sdfn.yiibjirfo 一般人
 {0}ka+wkpgx.zouqmi 左遷
@@ -13038,6 +13047,7 @@
 {0}fx+dqdsb.jmeufi 健身
 {0}fx+dnjevb.jmepjo 鍵盤
 {0}fx+dsykir.jludeo 奖得
+{0}fx+kciznic.tkoqqo 庭球
 {0}fx+kmxmr.jlulie 奖励
 {0}fx+ki.st+mbfrsbmce.jmewuihxinae 健屋花那
 {0}fx+kfrfvb.jmelpe 鍵列
@@ -13655,6 +13665,7 @@
 {0}jr+wscef.qmojbe 前進
 {0}jr+wskuef.qmotuo 前途
 {0}jr+wsfxef.qmoyee 前夜
+{0}jr+wljclef.qmodne 前調
 {0}jr+wegkjef.qmodri 前端
 {0}jr+wdcldf.oiezce 制造
 {0}jr+obef.qmobje 前半
