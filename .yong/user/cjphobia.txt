@@ -1780,6 +1780,7 @@
 {0}xk+niluwk.oguoie 整治
 {0}xk+xrysle.druzje 短暂
 {0}xk+xrfuzl.jiecyo 寄存
+{0}xk+xcl.qiodae 埼大
 {0}xk+ttojv.lwebiu 類比
 {0}xk+tdbktj.doexke 惰性
 {0}xk+tdbkojv.lwexke 類性
@@ -7073,11 +7074,13 @@
 {0}ox+kkjjthkl.qiulie 綺麗
 {0}ot+pa+jk+xkkohgzv.iyotmoofinde 純田真奈
 {0}ot+ywlok.yrejku 愿景
+{0}ot+yk+jskkomlcd.juiihujie 駒場祭
 {0}ot+xa+skkidw.izowfohve 愁文会
 {0}ot+ux+cp+db,tt,obrfhgofzkctkb.iyocveliuxkepiipje 純粋理性批判
 {0}ot+urhk.ytiuue 約束
 {0}ot+ua+oojriml.juimueyko 駒木螢
 {0}ot+hhg.iyonvu 純女
+{0}ot+cykdml.juiihu 駒場
 {0}ot+weytk.yreyie 愿意
 {0}ot+ouxfzhg.iyocve 純粋
 {0}ot+sthg.iyohxe 純化
@@ -12423,6 +12426,7 @@
 {0}kkwl 言語
 {0}kket 言葉
 {0}kk.bm+iqtkmo.sjimaulue 三馬鹿
+{0}kk.bsybh.ofetie 振替
 {0}kk.ba+sj+dzllkobgg.sjibjegvigru 三半規管
 {0}kk.pgz.vjetmo 岸田
 {0}kk.yh+pa+jjtnxoi.ndellotmovde 奈良田愛
@@ -12504,6 +12508,7 @@
 {0}kk.ojlrjmli.xyoiho 尋常
 {0}kk.oa+skkisik.hvebuehve 会不会
 {0}kk.sbkh.ifonmo 辰年
+{0}kk.sy+ua+ybhbs.ofetiexqirie 振替休日
 {0}kk.stuev.qiotai 其他
 {0}kk.suibh.ofefue 振付
 {0}kk.sukjv.juetiu 具体
