@@ -3297,6 +3297,7 @@
 {0}uv+lo.ouirlomdkd.ffuuaitho 粉砂糖
 {0}uv+idtkomd.ffudiu 粉底
 {0}uv+dh+nwsxomdii.ffudiuyee 粉底液
+{0}uv+fygomd.ffusee 粉色
 {0}uv+fheeomd.ffubku 粉饼
 {0}uw+bzndz.keijie 科技
 {0}uw+nezjol.ojioie 粘滞
@@ -6692,6 +6693,7 @@
 {0}wm+xrcjk.xpuzde 写在
 {0}wm+rikoknw.yuipio 淤蚽
 {0}wm+hu.pkkgnud.yzoleeyro 游乐园
+{0}wm+cl+ctuwuph.yzoyrodie 遊園地
 {0}wm+mijggwu.yzolju 遊覧
 {0}wm+mkwszrkk.fwucve 翡翠
 {0}wm+zxywu.yzooeu 遊者
@@ -10405,6 +10407,7 @@
 {0}il+filck.yuemko 域名
 {0}il+fkknf.mkolue 名录
 {0}il+jr+vk+yfyfefz.mkoqmoksijmi 名前空間
+{0}il+jv+swjvfbu.mkotjeofi 名探偵
 {0}il+jdbkf.mkouge 名胜
 {0}ie 戒
 {0}ie+bomkwo.oeidhu 遮挡
@@ -13483,6 +13486,7 @@
 {0}fa+tj+wlkklkzf.dkinkoyuu 丁寧語
 {0}fa+ztjfk.dkinko 丁寧
 {0}fa+wedg.gsidce 弓道
+{0}fa+se.yierfo 艺人
 {0}fa+evjd.jiuqii 几期
 {0}fa+irirx.jquozi 九州
 {0}fa+imy.mfohue 門户
