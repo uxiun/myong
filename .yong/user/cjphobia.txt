@@ -1223,6 +1223,7 @@
 {0}ns+ggix.jqeiui 救出
 {0}ns+hhoix.jqezdi 救災
 {0}ns+oxkjvmss.juelwe 聚類
+{0}ns+okgmss.juegli 聚光
 {0}ns+scumss.juejio 聚集
 {0}ns+scomss.juejni 聚焦
 {0}ns+sklmss.jueheo 聚合
@@ -1230,6 +1231,7 @@
 {0}ns+ea+wcixt.jqeuieouu 救世主
 {0}ns+imctwih.cjitki 餐廳
 {0}ns+dwjewih.cjipjo 餐盘
+{0}ns+kg+okfmsso.jueglidgi 聚光灯
 {0}ns+kkfwih.cjitki 餐厅
 {0}ns+jkxmix.jqeoue 救助
 {0}ns+jkkvwih.cjijue 餐具
@@ -2872,6 +2874,7 @@
 {0}rk+ekjpffl.vailwu 阿蕾
 {0}rk+efk.gsiyie 工艺
 {0}rk+ejonk.gsitgo 工藤
+{0}rk+ea+sxlfflt.vaiuieoii 阿世知
 {0}rk+ihvlgli.sviuoi 虽说
 {0}rk+imwdmk.gsifho 工房
 {0}rk+iltwv.yiogju 遺感
@@ -4894,6 +4897,7 @@
 {0}cj+widgkdg.xmeisi 现充
 {0}cj+oc+idmkhl.zdejpoigo 再結成
 {0}cj+ozisgg.grioje 観戦
+{0}cj+okgsgg.grigli 観光
 {0}cj+stjgvsgv.lbedde 賃貸
 {0}cj+sm+dcxmkcg.zdeqiudse 再起動
 {0}cj+swcle.yeioue 噎住
@@ -4914,6 +4918,7 @@
 {0}cj+io+rs+nyevkcfku.zdereeiuouii 再熱除湿
 {0}cj+dbkk.zdeugi 再生
 {0}cj+desdssgg.griose 観衆
+{0}cj+kg+ctusggo.griglidie 観光地
 {0}cj+kczljkjk.ujihuo 珊瑚
 {0}cj+kcjggk.zdexme 再現
 {0}cj+kkkk.zdesji 再三
@@ -5645,6 +5650,7 @@
 {0}zn+jjtni.qqovde 求愛
 {0}zx+prdyoom.kcuyai 烤鴨
 {0}zx+nk.tlgombpr.kcummebci 烤麺包
+{0}zx+rr,jmrncfizf.oiouiefuo 執事服
 {0}zx+zxyey.oueoeu 著者
 {0}zx+zrrfcfi.oiouie 執事
 {0}zx+zjhioem.lwisou 勒索
@@ -12371,12 +12377,14 @@
 {0}ki.tt,ykpcrxi.oletdelle 状態量
 {0}ki.tt,kp+uf+pwxrxiwgdif.oletdeqmiyiotuo 状態遷移図
 {0}ki.tt,kp+dufifrxiwg.oletdeqmiyio 状態遷移
+{0}ki.hosjwdo.svenae 歳納
 {0}ki.hkztghpc.ijorce 缠绕
 {0}ki.mznfmj.pmequu 骗取
 {0}ki.mkiczc.uiewui 室屋
 {0}ki.zjhiohz.xmesou 线索
 {0}ki.wkhz.xmeuhe 线上
 {0}ki.oxhvil.yeulme 冶炼
+{0}ki.os+lo.fuwdohjw.svenaejkizia 歳納京子
 {0}ki.scjgvmc.wuilbe 屋賃
 {0}ki.sa+dywgmcf.wuijqudcu 屋久島
 {0}ki.lkhmmc.wuihce 屋号
@@ -13411,6 +13419,7 @@
 {0}fk+nd+kcpcfjvdf.yueiuuliu 預処理
 {0}fk+nkdoye.kdiyro 開源
 {0}fk+njsffjs.yuecee 预测
+{0}fk+xmdri.fgilie 風力
 {0}fk+ugtfjs.yuexlu 预想
 {0}fk+uwcdri.fgioue 風柱
 {0}fk+ui+wkwfjss.yuefuekau 预付卡
