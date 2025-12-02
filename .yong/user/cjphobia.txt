@@ -4644,6 +4644,7 @@
 {0}cz+kj+jobmnsn.oyuyziuge 準優勝
 {0}cz+jvrfn.oyuzeo 準則
 {0}cvp+y 增
+{0}cv+pa+wr+dulenkk.lkotmoogeheo 菱田正和
 {0}cv+keddden.lkoxko 菱形
 {0}cw+bm+fpokxcmo.bjimauyuo 斑馬魚
 {0}cw+qd+jkkvrdhd.oliufijue 装身具
@@ -5289,6 +5290,7 @@
 {0}ml+fmfuwz.bieyye 避孕
 {0}ml+flrix.jxiqlo 加强
 {0}ml+jbi.qiuyse 启用
+{0}ml+jo+rj+cx+pcxenexe.jxitgoykimwuliu 加藤英美里
 {0}ml+jo+uz+du+duyxeneef.jxitgomoeliexli 加藤茉莉香
 {0}ml+jo+zptxen.jxitgohve 加藤恵
 {0}me+wsrfwb.iiokee 遅刻
@@ -8560,6 +8562,7 @@
 {0}sa+frjso.rfojie 人際
 {0}sa+fil.rfomko 人名
 {0}sa+fif.jquvva 久々
+{0}sa+fa+ui+jk+zojdxczv.baijqusieofixni 八九寺真宵
 {0}sa+jogx.rfoncu 人脳
 {0}sa+jl+bk+kjlmnfocnj.jquthoqkixxo 久堂清霞
 {0}sa+jd+sp+vsiidrupnw.baifjihdulko 八幡海鈴
@@ -11355,6 +11358,7 @@
 {0}dk+ 生物
 {0}dk+bxncl.gzebao 垢抜
 {0}dk+ba+uewrs.jbenmoldo 近年来
+{0}dk+pr+skjnernz.qbozeoyzi 芹澤優
 {0}dk+pjjkbr.oeodpo 折畳
 {0}dk+ywr.jberie 近日
 {0}dk+yf+cx+dn+fuxcepenl.kloljomwuloezia 狂蘭美洛子
