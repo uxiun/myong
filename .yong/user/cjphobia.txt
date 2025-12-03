@@ -886,6 +886,7 @@
 {0}yh+mzwiyw.tveoio 退職
 {0}yh+mdxnv.ybofae 銀髪
 {0}yh+wmlzw.tvebie 退避
+{0}yh+ojfuw.tvexto 退学
 {0}yh+sxli.llooii 良知
 {0}yh+suw.tvexqi 退休
 {0}yh+sk+wkwvdkf.yboxkokau 銀行卡
@@ -1731,6 +1732,7 @@
 {0}xl+lck.tyituu 吞吐
 {0}xl+eteue.roeyee 若葉
 {0}xl+ed,ffswg.oiidcelea 知道了
+{0}xl+ejue.roecde 若菜
 {0}xl+ijtts.oiingo 知能
 {0}xl+dups.oiifji 知番
 {0}xl+dous.oiihui 知乎
@@ -2604,6 +2606,7 @@
 {0}rr,dshinzf.uiehze 事後
 {0}rr,ds+dmdkrzffxm.uiewuesou 事務所
 {0}rr,kt+iltpkwk.zveveegju 罪悪感
+{0}rr,klflrj.ukegei 帅哥
 {0}rr,kkfsrv.uyecie 順次
 {0}rr,kkjvzf.uiexle 事項
 {0}rr,kfrfrv.uyelpe 順列
@@ -4252,6 +4255,7 @@
 {0}he+sa+oa+rfxixljf.noebwevrujlu 诺贝尔奖
 {0}he+sa+foixlj.noebwevru 诺贝尔
 {0}he+ihdzlie.jluhxe 讲话
+{0}he+kevixl.noeyae 诺亚
 {0}hi 絵
 {0}hix+m 幼
 {0}him 幻
@@ -4482,6 +4486,7 @@
 {0}cx+xmdm.dselie 動力
 {0}cx+xe.mwudae 美大
 {0}cx+tduudm.dsejie 動悸
+{0}cx+uuue.mwusfi 美森
 {0}cx+uhiidm.dsejii 動機
 {0}cx+hode.mwumne 美妙
 {0}cx+hfue.mwuhcu 美好
@@ -4527,6 +4532,7 @@
 {0}cx+kgpdm.dsehxe 動画
 {0}cx+kcrkwkml.jxibwe 珈琲
 {0}cx+kcsiie.mwulko 美玲
+{0}cx+kcerxe.mwuyki 美瑛
 {0}cx+kc+sepi.mwugoorfo 美国人
 {0}cx+kc+lt+hkwigepiv.mwugoozsutsu 美国总统
 {0}cx+kc+lt+kw+oi+mzlvepivhigwxg.mwugoozsutsujqeoio 美国总统就职
@@ -4645,6 +4651,7 @@
 {0}cz+jvrfn.oyuzeo 準則
 {0}cvp+y 增
 {0}cv+pa+wr+dulenkk.lkotmoogeheo 菱田正和
+{0}cv+vwegun.lgojke 棱鏡
 {0}cv+keddden.lkoxko 菱形
 {0}cw+bm+fpokxcmo.bjimauyuo 斑馬魚
 {0}cw+qd+jkkvrdhd.oliufijue 装身具
@@ -5402,6 +5409,7 @@
 {0}md+dqdt.qpeufi 切身
 {0}md+dyirv.ffijpo 分節
 {0}md+dnwdkr.souiue 所处
+{0}md+dulyl.ociheo 昭和
 {0}md+dzdfnv.ffidre 分段
 {0}md+dscuibl.ocidde 招待
 {0}md+dk+llixlvur.ffixiiqie 分析器
@@ -5583,6 +5591,7 @@
 {0}zp+sdcwz.lmorfe 連任
 {0}zp+sklwz.lmoheo 連合
 {0}zp+sjz.jyirfo 軍人
+{0}zp+lkrkswz.lmotne 連跳
 {0}zp+la+rrmkjdcp.osehvogvi 重回帰
 {0}zp+ebjgdc.oseoea 重着
 {0}zp+ey+su+lkhmdcwdi.oseybifuohce 重音符号
@@ -5806,6 +5815,7 @@
 {0}zl+be.kuuuzu 苦手
 {0}zl+ycuis.guiuio 估時
 {0}zl+ncisx.zoefau 做法
+{0}zl+xfije.kuutse 苦痛
 {0}zl+xjp.gueyzu 固有
 {0}zl+rmte.kuumfe 苦闷
 {0}zl+rm.juiosi 居中
@@ -8816,6 +8826,7 @@
 {0}lw+idmss.cueigo 促成
 {0}lw+db,dy+ms+dm+bkhiosstkjnwxnx,uekemeheiiue 促性腺激素释放激素
 {0}lw+fs+cx+dryiwouie.miooiimwutue 謎之美兎
+{0}lw+fjmdbwlo.llejpu 諒解
 {0}lo.bgw.dmujii 点击
 {0}lo.yd+ujgwsn.dmufuexli 点复相
 {0}lo.nidow.dmumpe 点滅
@@ -10378,6 +10389,7 @@
 {0}il 台
 {0}ilt 感
 {0}il+yk+wjrjhdc.uiuhlodie 始皇帝
+{0}il+yff.mkomfo 名門
 {0}il+nn.oieuvu 治水
 {0}il+xxvon.oielno 治療
 {0}il+xsktn.oieyue 治癒
@@ -10415,6 +10427,7 @@
 {0}il+kcpcn.oieliu 治理
 {0}il+filck.yuemko 域名
 {0}il+fkknf.mkolue 名录
+{0}il+fa+uwvxfy.mkomfoxne 名門校
 {0}il+jr+vk+yfyfefz.mkoqmoksijmi 名前空間
 {0}il+jv+swjvfbu.mkotjeofi 名探偵
 {0}il+jdbkf.mkouge 名胜
@@ -11294,6 +11307,7 @@
 {0}dl+ml+kcrfwlx.ovijxidce 追加到
 {0}dl+wmsxwl.ovifhe 追放
 {0}dl+wlmgwl.ovijie 追記
+{0}dl+wlitkwl.oviuie 追試
 {0}dl+wkwl.oviuhe 追上
 {0}dl+lpxlo.wuiyje 嗚咽
 {0}dl+ldoulo.wuihui 嗚呼
@@ -11764,6 +11778,7 @@
 {0}ku+ww,ljszddf.yuuhhoyro 宇航员
 {0}ku+wfijip.dsetsi 凍通
 {0}ku+sre.mzugee 某个
+{0}ku+sdnle.mzuhee 某佫
 {0}ku+sklrs.yuomke 余命
 {0}ku+iznmi.xyoqqo 寻求
 {0}ku+iw+iltfrf.uuiwdegju 疎外感
@@ -12251,7 +12266,6 @@
 {0}ks+frzkgxj.bkeyre 病院
 {0}ks+jxohs.zserjo 纵然
 {0}kli 矿
-{0}kl+bxdxs.heozze 合奏
 {0}kl+bxkxs.heozze 合奏
 {0}kl+bwehj.tsojpi 同接
 {0}kl+bixts.heolsu 合拢
@@ -13093,6 +13107,7 @@
 {0}ft,itwdhk.ksuxio 恐袭
 {0}ft,iorprk.siuufo 死神
 {0}ft,dbkk.siuugi 死生
+{0}ft,kerfk.siuxko 死刑
 {0}ft,ffk.siulea 死了
 {0}fr 引
 {0}frw+xj 随
@@ -13666,6 +13681,7 @@
 {0}jr+nidlof.xtijmu 削減
 {0}jr+ndmxuf.ciejii 刺激
 {0}jr+nd+kcpcefdf.qmoiuuliu 前処理
+{0}jr+xvdfnuf.cieuai 刺殺
 {0}jr+xfijuf.cietse 刺痛
 {0}jr+teef.qmouie 前世
 {0}jr+rz+rs+sisrjefpjksd.qmooiexqiuie 前置修飾
@@ -13772,6 +13788,7 @@
 {0}jg+ntlgy.mcepce 冒泡
 {0}jg+nuiu.xlidve 相对
 {0}jg+ncide.srefau 算法
+{0}jg+ncjgy.mceduo 冒涜
 {0}jg+nild.zieoie 自治
 {0}jg+nidod.ziempe 自滅
 {0}jg+xu+wlskjuwi.xlidvelye 相対論
@@ -14169,6 +14186,7 @@
 {0}je+ecxzz.njomwu 南美
 {0}je+eekhfvg.ghipko 鋼瓶
 {0}je+ia+oz+nebzzxk.njotdepkoyho 南太平洋
+{0}je+dywgzz.njodcu 南島
 {0}je+dzlld.xtegru 血管
 {0}je+dskkfd.xtexko 血行
 {0}je+dfkrizz.njofgi 南風
