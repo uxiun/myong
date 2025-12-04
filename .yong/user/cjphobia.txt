@@ -593,6 +593,7 @@
 {0}pc+wsc.mdoyui 埋込
 {0}pc+wlkkls.liuyuu 俚語
 {0}pc+ouk.liomiu 厘米
+{0}pc+lf+dsruehwr.yrobuexnu 薗部篠
 {0}pc+kpmrwh.liumme 裏面
 {0}pc+kpjkldez.gcitso 睾酮
 {0}pc+fgtc.mdoyre 埋怨
@@ -2452,6 +2453,7 @@
 {0}ta+dytiz.taidea 它的
 {0}ta+dzpct.biuose 比重
 {0}ta+dskli.ykidao 応答
+{0}ta+djlc.oiexle 志向
 {0}ta+kcpc.xbiliu 心理
 {0}ta+kokjvc.oieyre 志願
 {0}ta+kls.hxeuio 化石
@@ -2591,7 +2593,7 @@
 {0}rr,la+du+xkkoref.irikzuliende 川口莉奈
 {0}rr,ebkrs.uyeiae 顺差
 {0}rr,ex,estkkl.yaexnehxi 亜咲花
-{0}rr,evzf.uieyee 事业
+{-}rr,evzf.uieyee 事业
 {0}rr,eveuzf.uieyee 事業
 {0}rr,ejrfzf.uieqmo 事前
 {0}rr,ejur.iricde 川菜
@@ -4741,6 +4743,7 @@
 {0}cl+wdkrwh.yrujbe 遠近
 {0}cl+sbj.ozinmo 周年
 {0}cl+sxlj.ozioii 周知
+{-}cl+lf+dsruphwr.yrobuexnu 園部篠
 {0}cl+evjj.oziqii 周期
 {0}cl+ekkiph.yroyyo 園芸
 {0}cl+ihdkwd.gcesue 告诉
@@ -6347,6 +6350,7 @@
 {0}vk+dgtzic.oiexii 窒息
 {0}vk+dskkfz.ksixko 空行
 {0}vk+devnzjs.dmibou 颠簸
+{0}vk+kcjggyjv.xmuxme 顕現
 {0}vk+fy+wewlzy.ksijmioje 空間站
 {0}vk+fy+lz+jg+ykpczywde.ksijmijiesrelle 空間計算量
 {0}vk+fx+ev+uskczszc.ksiqiesdiuri 空気塞栓
@@ -6642,7 +6646,7 @@
 {0}wr+sj+kh+kcjggkkbggb.ogegvibnuxme 正規表現
 {0}wr+sj+kedddkkbgg.ogegvixko 正規形
 {0}wr+ecdbikk.ogeyie 正義
-{0}wr+evsk.qiuyee 企业
+{-}wr+evsk.qiuyee 企业
 {0}wr+eveusk.qiuyee 企業
 {0}wr+itkkk.ogeuie 正式
 {0}wr+irfsk.qiuhxe 企划
@@ -6747,6 +6751,7 @@
 {0}wz,furpz.bwezia 輩子
 {0}wv+bwyzbj.odidne 摘掉
 {0}wv+pm+llixlwjkg.uiepweqie 適配器
+{0}wv+nyjewj.uiewfi 適温
 {0}wv+tmdwj.uieqpe 適切
 {0}wv+ggbj.odiiui 摘出
 {0}wv+cvpyoj.uhizgi 熵增
@@ -11677,6 +11682,7 @@
 {0}kx+db,zxylkmtk.kxexkeoeu 跨性者
 {0}kx+db,lmrflkmtk.kxexkebpo 跨性别
 {0}kx+dk+llixljmlr.ouetkiqie 助听器
+{0}kx+fdsxmem.qbowue 勤務
 {0}kt+bk.veeuzu 悪手
 {0}kt+ba+kciznro.bwubjeqqo 北半球
 {0}kt+nclhg.iyojpo 纯洁
@@ -13283,6 +13289,7 @@
 {0}fs+fx+udfld.ivifgijii 吹风机
 {0}fs+fx+djklld.ivifgitsu 吹风筒
 {0}fs+fiwi.oiiwde 之外
+{0}fs+fk+uhiildri.ivifgijii 吹風機
 {0}fl+bfjxk.keuhre 可換
 {0}fl+yskjvy.wfetio 問題
 {0}fl+ykwsk.keuuie 可是
