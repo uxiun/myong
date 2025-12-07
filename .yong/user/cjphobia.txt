@@ -2127,6 +2127,7 @@
 {0}ty+ra+nrpbp.oiujxuyzo 指甲油
 {0}ty+ukpob.oiubni 指標
 {0}ty+ga+uebg.oiuiuildo 指出来
+{0}ty+zzskjb.oiulyo 指輪
 {0}ty+zkwsb.oiudke 指定
 {0}ty+zjezb.oiunjo 指南
 {0}ty+vzb.oiuofi 指針
@@ -2308,6 +2309,7 @@
 {0}tl+urb.juiuue 拘束
 {0}tl+sklbg.bceheo 抱合
 {0}tl+lzxulg.pcoxni 咆哮
+{0}tl+ebsng.pcefuo 泡芙
 {0}tl+evfsbg.bceqme 抱歉
 {0}tl+kpmrng.pcemme 泡面
 {0}tl+kl+wlkklbgs.bceheoyuu 抱合語
@@ -3707,6 +3709,7 @@
 {0}uj+xksjugd.yuebke 鬱病
 {0}uj+tmdwgg.qbiqpe 親切
 {0}uj+tlgdg.xlibci 箱包
+{0}uj+te+ykjidryeu.dceyeetjo 稲葉曇
 {0}uj+ua+eeiwggf.qbiziajku 親子丼
 {0}uj+hopok.cuixie 粗細
 {0}uj+ztdgwgg.qbimie 親密
@@ -10534,6 +10537,7 @@
 {0}ik.lguisjs.lkudcu 领导
 {0}ik.il+zl+ja+kk.wlkklsjvckpxwl.lkuyuegueyzuyjoyuu 領域固有言語
 {0}ik.dwwdfsjs.lkuhho 领航
+{0}ik.da+lexrs.hsovvaxne 虹ヶ咲
 {0}ik.kwsjv.lkuxxe 領下
 {0}ik.kw+szjhyhgzs.jiedkeoio 既定値
 {0}ik.fygr.hsosee 虹色
