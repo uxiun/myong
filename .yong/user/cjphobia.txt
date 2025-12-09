@@ -11765,6 +11765,7 @@
 {0}kt+jwvxixs.nkojni 凝胶
 {0}kr 列
 {0}krr,k 亜
+{1}krr,k 亞
 {0}kr+bgi.isijii 冲击
 {0}kr+bzrssx.bmejpo 便捷
 {0}kr+bweci.isiole 冲撞
@@ -12998,6 +12999,7 @@
 {0}ka+dbtddu.bfuwue 本物
 {0}ka+dqdu.bfuufi 本身
 {0}ka+dqdw.uheufi 上身
+{0}ka+dy+rk+eprfwkowd.uheyrobuemge 上原歩夢
 {0}ka+dnu.yiitno 一条
 {0}ka+dt+ey+lkhmwskw.uhediiybihce 上低音号
 {0}ka+drju.bfubie 本币
