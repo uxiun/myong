@@ -6360,6 +6360,7 @@
 {0}vk+cu+sklzs.ksijioheo 空集合
 {0}vk+csihzhd.iriyte 穿越
 {0}vk+cf,na+eyjzpif.ksiyeuuvumgo 空野水萌
+{0}vk+mzz.ksivru 空耳
 {0}vk+zipevzhd.iridde 穿戴
 {0}vk+wtevz.ksixui 空虚
 {0}vk+ouvmdil.mooffu 磨粉
@@ -11765,7 +11766,6 @@
 {0}kt+jwvxixs.nkojni 凝胶
 {0}kr 列
 {0}krr,k 亜
-{1}krr,k 亞
 {0}kr+bgi.isijii 冲击
 {0}kr+bzrssx.bmejpo 便捷
 {0}kr+bweci.isiole 冲撞
@@ -12504,6 +12504,7 @@
 {0}kk.nkflk.sjiheo 三河
 {0}kk.na+dsivfmli.xyouvuuue 尋水術
 {0}kk.xbskfwi.yyeuui 运输
+{0}kk.xy+pm+wlookzkr.sjioeummetjo 三者面談
 {0}kk.xk.sjidae 三大
 {0}kk.xfk.sjijqu 三九
 {0}kk.xjjv.jueyzu 具有
