@@ -3957,6 +3957,7 @@
 {0}gd+mdbgwyo.jqewwu 鷲尾
 {0}gd+zn+pwxjgm.jmequutuo 見取図
 {0}gd+wuijzk.uvegoe 睡过
+{0}gd+wsjg.jmeyui 見込
 {0}gd+wdhjzk.uveyii 睡衣
 {0}gd+wdmjg.jmefhi 見方
 {0}gd+ojjdgjzk.uvejto 睡觉
@@ -7120,6 +7121,7 @@
 {0}ox+dskkfmkl.qioxko 騎行
 {0}ox+kv+endlminp.toosauloe 駄洒落
 {0}ox+kkjjthkl.qiulie 綺麗
+{0}ox+jgmi.toomue 駄目
 {0}ot+pa+jk+xkkohgzv.iyotmoofinde 純田真奈
 {0}ot+ywlok.yrejku 愿景
 {0}ot+yk+jskkomlcd.juiihujie 駒場祭
@@ -7358,6 +7360,7 @@
 {0}os+uksjhki.hvebku 絵柄
 {0}os+cdklhki.hvegze 絵垢
 {0}os+wudkrhc.wwoxbi 維新
+{0}os+wmkhkl.gwuyuu 給与
 {0}os+wlesnhc.wwohue 維護
 {0}os+wl+mxhjno.naelloqui 納涼区
 {0}os+ouwzhkl.gwulne 給料
