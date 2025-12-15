@@ -1324,6 +1324,7 @@
 {0}na+bk+rydgnd.uliugivro 双生児
 {0}na+bjknz.oiiyro 支援
 {0}na+bj+pleg.uvuoeahvo 水着回
+{0}na+ba+jmrn.uvuuzufuo 水手服
 {0}na+pu.uvugou 水果
 {0}na+pclhn.uliyro 双園
 {0}na+pm+kwzkg.oiipwexxe 支配下
@@ -6902,6 +6903,7 @@
 {0}we+dlwezbh.jpicio 接辞
 {0}we+dkdfnbc.olehvu 撞毁
 {0}we+dfxbh.jpifgi 接风
+{0}we+df+kcdzuvcgi.osiljooui 鐘嵐珠
 {0}we+kus.wweyuo 位于
 {0}we+kh+jm.wlcjgyylmfdb.vjehcejpuduo 暗号解読
 {0}we+kcsxb.laioie 拉致
@@ -8464,6 +8466,7 @@
 {0}sk+jh.zk+tuszionv.jmusouyjuxbi 検索演心
 {0}sk+jh.wlkkluszio.jmusouyuu 検索語
 {0}sk+jh.lk+tlusziowkl.jmusouyuujue 検索語句
+{0}sk+jd+yfxtcg.faimderie 発売日
 {0}sk+jfle.dgiyte 登月
 {0}sk+ja+zxyfxty.faimkooeu 発明者
 {0}sf 例
