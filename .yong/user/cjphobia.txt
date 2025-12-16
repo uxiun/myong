@@ -1197,6 +1197,7 @@
 {0}nm+itkeg.fjeuie 范式
 {0}nm+fs+kedddczi.ugioiixko 聲之形
 {0}nzt+g 浇
+{0}nzk+v 濱
 {0}nvx 횪
 {0}nwr+d 涉
 {0}nwc 注
@@ -5351,6 +5352,7 @@
 {0}md+xrjv.ffibue 分布
 {0}md+xjdkr.souyzu 所有
 {0}md+tyr.iuixyo 初旬
+{0}md+tr.iuixbi 初心
 {0}md+ta+zxyr.iuixbioeu 初心者
 {0}md+rr.iuiosi 初中
 {0}md+rkrfv.ffihxe 分劃
@@ -5718,6 +5720,7 @@
 {0}zr+wjscdt.gkilio 乖離
 {0}zr+ssx.uiurfo 使人
 {0}zr+sklrsx.uiumke 使命
+{0}zr+ecxmjg.djimwu 耽美
 {0}zr+dskkfkf.kjixko 刊行
 {0}zr+jb 使用
 {0}zr+jbmpm.pbeyse 聘用
@@ -9389,6 +9392,7 @@
 {0}la+zzkkip.hvooru 回転
 {0}la+zvmggk.uiokui 石窟
 {0}la+zkmsp.hvojxi 回家
+{0}la+zk+ebmkkknv.uiobbixlo 石濱翔
 {0}la+vj+sc+cx+dbtddzoudm.guujioivodsewue 古脊椎動物
 {0}la+wxp.hvowfo 回文
 {0}la+wmlzp.hvobie 回避
