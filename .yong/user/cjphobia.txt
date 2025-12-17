@@ -531,7 +531,7 @@
 {0}pr+kk.mkhkfsi.fuehveohu 副会長
 {0}pr+ka+isujiz.jtouielee 爵士楽
 {0}pr+fy+puisjss.vzuxletro 偶像団
-{0}pr+fy+xa+rrkjsjss.vzuxledaeuii 偶像大师
+{-}pr+fy+xa+rrkjsjss.vzuxledaeuii 偶像大师
 {0}pr+fy+xa+dlkrjsjss.vzuxledaeuii 偶像大師
 {0}pr+fy+hmrrsjss.vzuxlejii 偶像姫
 {0}pr+jxosj.vzurjo 偶然
@@ -1968,6 +1968,7 @@
 {0}xa+ci+db,wlevykeeyk.tmigdexkipuu 天蓋星譜
 {0}xa+ckkik.tmitjo 天坛
 {0}xa+cf,kcprhwpif.wfoyeuhro 文野環
+{0}xa+ca+ui+cw+xkkokkckgj.tmiwhosielionde 天王寺璃奈
 {0}xa+mrmr.daeifo 大臣
 {0}xa+mzexe.grilmo 关联
 {0}xa+mirb.daesie 大肆
@@ -4675,6 +4676,7 @@
 {0}cw+bm+fpokxcmo.bjimauyuo 斑馬魚
 {0}cw+qd+jkkvrdhd.oliufijue 装身具
 {0}cw+przjkrdh.olioie 装置
+{0}cw+xkkokgj.lionde 璃奈
 {0}cw+urrdh.oliuue 装束
 {0}cw+hm.fpkkxcfk.bjimauyuo 斑马鱼
 {0}cw+mbmokxc.bjimau 斑馬
