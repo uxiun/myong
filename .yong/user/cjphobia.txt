@@ -531,7 +531,6 @@
 {0}pr+kk.mkhkfsi.fuehveohu 副会長
 {0}pr+ka+isujiz.jtouielee 爵士楽
 {0}pr+fy+puisjss.vzuxletro 偶像団
-{-}pr+fy+xa+rrkjsjss.vzuxledaeuii 偶像大师
 {0}pr+fy+xa+dlkrjsjss.vzuxledaeuii 偶像大師
 {0}pr+fy+hmrrsjss.vzuxlejii 偶像姫
 {0}pr+jxosj.vzurjo 偶然
@@ -8771,6 +8770,7 @@
 {0}lg+kkjvwv.xruxle 選項
 {0}lh 跟
 {0}lh+isuhv.yuolee 娯楽
+{0}lh+kg+xisckiio.jiiglixso 磯光雄
 {0}lc+bsywl.jpotie 詰替
 {0}lc+rcywjg.duouui 読書
 {0}lc+ggwjg.duoiui 読出
@@ -12512,6 +12512,7 @@
 {0}kk.ba+sj+dzllkobgg.sjibjegvigru 三半規管
 {0}kk.pgz.vjetmo 岸田
 {0}kk.yh+pa+jjtnxoi.ndellotmovde 奈良田愛
+{0}kk.yw+pa+om+bskdgrhg.sjidcuyzojiefui 三島由紀夫
 {0}kk.ydbkk.sjixki 三星
 {0}kk.ykwssi.hveuie 会是
 {0}kk.nizjk.sjipuu 三浦
