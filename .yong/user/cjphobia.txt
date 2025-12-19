@@ -735,6 +735,7 @@
 {0}pa+ya+ka+xa+jk+hhouukkh.dsiriebfudaeofezdi 東日本大震災
 {0}pa+nspwu.dsihdu 東海
 {0}pa+nebu.dsiyho 東洋
+{0}pa+ta+da+sk+oc+wdhrtsnvhl.yzobiuvvabhijpoyii 由比ヶ浜結衣
 {0}pa+rktu.dsibwu 東北
 {0}pa+rk+xuk.dsigsidae 東工大
 {0}pa+rj+jk+ij+bt,sizlluyxkkvziddd,sikekoooueru 東映霊画博物館
@@ -6289,6 +6290,7 @@
 {0}vi+ihxnzx.tuifai 突发
 {0}vi+ftuu.ssiiio 松弛
 {0}vi+fskxtzx.tuifai 突発
+{0}vi+fs+mkicui.ssioiiwui 松之屋
 {0}vi+jxozx.tuirjo 突然
 {0}vi+jo+km+zjezuenmik.ssitgoyuunjo 松藤羽南
 {0}vdd,yo 鵜
