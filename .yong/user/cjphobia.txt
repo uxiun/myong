@@ -2433,6 +2433,8 @@
 {0}ta+zjsop.siiiao 思察
 {0}ta+wxuii.ykidve 応対
 {0}ta+wtptp.siilve 思慮
+{0}ta+wr+vsltsk.biuqiuguu 比企谷
+{0}ta+wr+sl+sa+rjduptskvd.biuqiuguubaifji 比企谷八幡
 {0}ta+wlidmr.osiigo 忠誠
 {0}ta+wlkwk.xbioge 心証
 {0}ta+wiszt.biulve 比率
@@ -4494,6 +4496,7 @@
 {0}cx+bt,pclhdmddd.dsewueyro 動物園
 {0}cx+bjkgdm.dseyco 動揺
 {0}cx+bjfmudm.dsejke 動静
+{0}cx+ba+zfudmj.dseysezie 動用字
 {0}cx+prfie.mwuloo 美罗
 {0}cx+pkcie.mwugoo 美国
 {0}cx+yt+lz+gp+ncidmdiwk.dsedeajiehxefau 動的計画法
@@ -9459,6 +9462,7 @@
 {0}la+jbw.ojeyse 占用
 {0}la+jgp.hvomue 回目
 {0}la+jzvk.kzuqli 口腔
+{0}la+jv+wlfrze.guudmubue 古典部
 {0}la+jwyhx.yzetvu 右腿
 {0}la+ja+za+yzhd.ruoyteqmizcu 如月千早
 {0}la+ja+oc+jjtnhhl.ruoytejpovde 如月結愛
@@ -9725,6 +9729,7 @@
 {0}ev+rimb.gsumfo 拱门
 {0}ev+rizljss.puohuo 僕蝴
 {0}ev+udnlkd.yjogeo 严格
+{0}ev+uk+zfups.yietiuzie 異体字
 {0}ev+ggy.xmuiui 显出
 {0}ev+ggne.yieiui 溢出
 {0}ev+hm.uo+nkflkfkf.yaemausyiheo 亚马孙河
@@ -11438,6 +11443,7 @@
 {0}dk+tewr.jbeuie 近世
 {0}dk+tedclr.tkidsu 听懂
 {0}dk+uj+jg+hhhwrwggu.jbeqbixlijmi 近親相姦
+{0}dk+ua+xb,ia+iifrbrbx.oeomuefgetdelho 折木奉太郎
 {0}dk+ua+uewrz.jbewweldo 近未来
 {0}dk+ggwjv.pboiui 頻出
 {0}dk+ggwjs.pboiui 频出
@@ -13658,6 +13664,7 @@
 {0}jn+ssxmj.uzeuhi 受伤
 {0}jn+sikjvj.uzelku 受領
 {0}jn+ebjgj.uzeoea 受着
+{0}jn+dqdj.uzeufi 受身
 {0}jn+dcxmj.uzedse 受動
 {0}jn+kcpcj.uzeliu 受理
 {0}jn+kcrfj.uzedce 受到
@@ -14054,6 +14061,7 @@
 {0}jm.dsklfdb.jpudao 解答
 {0}jm.dk+ojfufdbur.jpuxiixto 解析学
 {0}jm.dk+llixlfdbur.jpuxiiqie 解析器
+{0}jm.da+wa+jm.fdmkkkkk 雪ノ下雪乃
 {0}jm.klfhkfdb.jpumau 解码
 {0}jm.kjejxkk.xtuxme 雪霰
 {0}jm.kjkdkklz.piilie 霹靂
