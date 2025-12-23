@@ -2332,6 +2332,7 @@
 {0}te+ihssy.coerfe 错认
 {0}te+ihlkxsy.coewue 错误
 {0}te+kcjggwv.xuixme 虚現
+{0}te+kjlkln.xpelue 泄露
 {0}te+ffsy.coelea 错了
 {0}ti 勾
 {0}ti+ts+nkvpejeg.puotcojqu 葡萄酒
@@ -3577,6 +3578,7 @@
 {0}ud+lg+ma+zxnndk.boilrewjeohe 波乱万丈
 {0}ud+le+wsrfwkrcl.xbixiujue 新喜劇
 {0}ud+ljsp.troyro 团员
+{0}ud+eteujdd.cduyee 彩葉
 {0}ud+ekknn.boiljo 波兰
 {0}ud+efrdbn.piisae 披萨
 {0}ud+ea+psrrwkrt.xbiuiejpe 新世界
@@ -4047,6 +4049,7 @@
 {0}ga+oa+ta+wlecizkp.qiibuesiiyie 七不思議
 {0}ga+oa+zrrf.ujihouuie 山火事
 {0}ga+sp+zv+ecxznwiv.qiihdumaomwu 七海麻美
+{0}ga+sp+za+duoznwd.qiihduqmiqqi 七海千秋
 {0}ga+str.vrohxe 儿化
 {0}ga+stjgvg.iuihoe 出貨
 {0}ga+stjsg.iuihoe 出货
@@ -6506,6 +6509,7 @@
 {0}va+wlvlgf.xnuuoi 小説
 {0}va+wlfue.gsexlu 共享
 {0}va+wddbke.gseiju 共産
+{0}va+wd+xrfuesh.gseyiicyo 共依存
 {0}va+wfije.gsetsi 共通
 {0}va+wfjse.gseyko 共赢
 {0}va+ouf.xnumiu 小米
@@ -7234,6 +7238,7 @@
 {0}oc+wzhvn.lkouio 綾辻
 {0}oc+wvxi.ueejni 社交
 {0}oc+wlskjhl.jpolye 結論
+{0}oc+wdhhl.jpoyii 結衣
 {0}oc+ojfui.ueexto 社学
 {0}oc+slui.ueebcu 社保
 {0}oc+sklhl.jpoheo 結合
@@ -7289,6 +7294,7 @@
 {0}oz+cykk.pkotju 平坦
 {0}oz+ctikk.pkojyi 平均
 {0}oz+ctkkk.pkojyi 平均
+{0}oz+cjksk.pkoosu 平塚
 {0}oz+mijgghko.zsilju 綜覧
 {0}oz+wyhhsy.soitve 縮退
 {0}oz+wdmk.pkofhi 平方
@@ -9273,6 +9279,7 @@
 {0}lj+cd+ddbgpskzu.yroouibiu 圆珠笔
 {0}lj+mvpywl.gcicgo 高層
 {0}lj+zxkhmwl.gcikcu 高考
+{0}lj+zu+ouwzwcll.dnewwelne 調味料
 {0}lj+zhwg.hcovji 毫安
 {0}lj+zlrlwl.gcigri 高官
 {0}lj+zldgwg.hcokee 毫克
@@ -10164,6 +10171,7 @@
 {0}ix+it+obmdsgz.yzihveqre 优惠券
 {0}ix+it+sj+irfkmxbdg.dsetdegvihxe 动态规划
 {0}ix+ijttkm.dsengo 动能
+{0}ix+dbtddso.wwuwue 偽物
 {0}ix+duschm.yzeoie 幼稚
 {0}ix+dufdmsg.yzixqe 优秀
 {0}ix+dh+ixbsgw.yziyiikue 优衣库
@@ -10330,6 +10338,7 @@
 {0}iw+tsf.wdeohu 外长
 {0}iw+tlgf.wdebci 外包
 {0}iw+rcwdhf.wdeoli 外装
+{0}iw+rjmkhrx.wfoohe 蚊帳
 {0}iw+umkcf.wdekli 外框
 {0}iw+uef.wdeldo 外来
 {0}iw+ggf.wdeiui 外出
@@ -12884,6 +12893,7 @@
 {0}ka+pzjgv.yiigre 一貫
 {0}ka+pa+kj+xkkowkjt.uhetmoliende 上田麗奈
 {0}ka+yrjxw.uheyke 上映
+{0}ka+yg+ud+eteufjdd.yiiseecduyee 一色彩葉
 {0}ka+ycui.yiiuio 一時
 {0}ka+yskjvu.bfutio 本題
 {0}ka+ydew.uheugi 上昇
@@ -14168,6 +14178,7 @@
 {0}js+suis.rzefue 肉付
 {0}js+suks.rzetiu 肉体
 {0}js+sdbkii.lkojme 零件
+{0}js+sdcwc.liorfe 離任
 {0}js+ll.fhdnsou.rzezcefje 肉燥饭
 {0}js+le+szjhwcmb.lioqyooio 離群値
 {0}js+eyxjrc.wwomue 帷幕
