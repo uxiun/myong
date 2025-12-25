@@ -192,6 +192,7 @@
 {0}bd,nknr.oeejli 浙江
 {0}bd,xmlzno.jpopiu 潔癖
 {0}bd,tewr.uieuie 逝世
+{0}bd,mnhiolx.iiijbu 喫緊
 {0}bd,exdxxkr.ojuhoe 斩获
 {0}bd,dyno.jpobdo 潔白
 {0}bd+nknr.oeejli 浙江
@@ -3885,6 +3886,7 @@
 {0}gt,oa+sm+ueukcg.xlubueqiuldo 想不起来
 {0}gt,sm+ueucg.xluqiuldo 想起来
 {0}gt,sfysu.xluxle 想像
+{0}gt,lsfu.xluiii 想吃
 {0}gt,kphu.xluyce 想要
 {0}gt,kcrfu.xludce 想到
 {0}gt,fy+xmuss.xluxlelie 想像力
@@ -8730,6 +8732,7 @@
 {0}lu+hpwis.bcumuu 保姆
 {0}lu+hoeels.bcuuje 保繕
 {0}lu+czphkdn.poehke 破壊
+{0}lu+cjuikdn.poelpe 破埒
 {0}lu+zp+xmkdnch.poehkelie 破壊力
 {0}lu+zuis.bcuuzu 保守
 {0}lu+zvkx.jxeksi 架空
@@ -10096,6 +10099,7 @@
 {0}ip+wmsfsrho.looxro 螺旋
 {0}ip+wkzev.ddeuhe 戴上
 {0}ip+ebjgzev.ddeoea 戴着
+{0}iy+bk+ndzlshd.uiougihoo 食生活
 {0}iy+ba+ekpzshj.uioysexye 食用蕈
 {0}iy+nypnnh.lhemje 浪漫
 {0}iy+rr,skkishzf.uiouiehve 食事会
@@ -10981,6 +10985,7 @@
 {0}dn+il+er+fu+vd+bfjxsfnszwn.fjumkohjeziebmehre 仮名漢字変換
 {0}dn+drjgvu.piooie 皮質
 {0}dn+dufopl.lteigi 略称
+{0}dn+dsklw.fjudao 返答
 {0}dn+dd,kldfnlud.loeujijii 洛杉矶
 {0}dn+kpmrs.fjumme 仮面
 {0}dn+ky+srpruck.bjuyroufi 板垣伸
@@ -14056,6 +14061,7 @@
 {0}jm.wlvlgfdb.jpuuoi 解説
 {0}jm.wjscfdb.jpulio 解離
 {0}jm.ouecokk.xtugci 雪糕
+{0}jm.skk.xturfo 雪人
 {0}jm.lf+llixlfdbkhk.jpumauqie 解码器
 {0}jm.estkk.xtuhxi 雪花
 {0}jm.ee,zfufdbuj.jpugzezie 解構字
