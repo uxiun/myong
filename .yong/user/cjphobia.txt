@@ -49,6 +49,7 @@
 {0}bx,sk+fl+ijttzdkfk.uioxkokeungo 実行可能
 {0}bx,sk+fl+jt+fjmdbzdkfkit.uioxkokeungojpu 実行可能解
 {0}bx,lkizz.uiojme 実践
+{0}bx,ittz.uiotde 実態
 {0}bx,iltz.uiogju 実感
 {0}bx,drjgvz.uiooie 実質
 {0}bx,dskkfz.uioxko 実行
@@ -227,6 +228,7 @@
 {0}bk+hocltj.qkojpo 情結
 {0}bk+hozxytj.qkoxue 情緒
 {0}bk+cp+dz+tdbkdkcnl.ugiliuhooxke 生理活性
+{0}bk+cx+za+sm+kd+wlvlgtjdmucgno.qkodsemoeqiuyrouoi 情動末梢起源説
 {0}bk+ch+ozegde.ugijliuci 生姜焼
 {0}bk+czmrntj.qkobce 情報
 {0}bk+csmgd.ugiqiu 生起
@@ -363,6 +365,7 @@
 {0}bj+ffdg.kjelea 看了
 {0}bj+jbeg.oeayse 着用
 {0}bj+judddeg.oeacdu 着彩
+{0}bj+jskkdg.kjelmu 看脸
 {0}ba+bxys.nmoiyi 年春
 {0}ba+bty.uzuoiu 手指
 {0}ba+brkwd.nqopdo 牛排
@@ -510,6 +513,7 @@
 {0}pr+cf,ia+ifsnzpiff.zeoyeuhsooii 澤野弘之
 {0}pr+mnjkf.fueufe 副腎
 {0}pr+zkji.jtouie 爵士
+{0}pr+va+wlvlgeff.mgexnuuoi 夢小説
 {0}pr+wrkvr.ufiyio 申遺
 {0}pr+wwmuef.mgeyzo 夢遊
 {0}pr+wsb.yaiyui 押込
@@ -1358,6 +1362,7 @@
 {0}na+uwcz.oiioue 支柱
 {0}na+ui+zkcizs.oiifuebcu 支付宝
 {0}na+ukkon.ulibni 双标
+{0}na+ua+isscnf.uliziazoe 双子座
 {0}na+ga+bk+ca+ecdbidgdw.fjuiuiugiouuyie 反出生主義
 {0}na+ga+dm+sxfdji.fjumueigoizo 反目成仇
 {0}na+hk+na+oz+xk+ihitkniklkzhm.hjeyuuuvupkokcuuie 汉语水平考试
@@ -1438,6 +1443,7 @@
 {0}na+kjmki.bkixtu 氷雪
 {0}na+fyg.uvusee 水色
 {0}na+fryhu.qroxme 权限
+{0}na+fun.ulizia 双子
 {0}na+fu+suknz.hjezietiu 汉字体
 {0}na+fhrksd.fjukve 反馈
 {0}na+ff,pc+kpjklnsskdez.uliqkigcitso 双氢睾酮
@@ -1725,6 +1731,7 @@
 {0}xl+ba+rr,le+zxyesswsn.roenmojpehueoeu 若年介護者
 {0}xl+yt+bk+wddbksdid.oiideaugiiju 知的生産
 {0}xl+te+jgcvceeu.roeyeemue 若葉睦
+{0}xl+tdbks.oiixke 知性
 {0}xl+rr,wlgvszf.oiiuiexru 知事選
 {0}xl+usxcs.oiiqro 知権
 {0}xl+csplw.lbesee 吝嗇
@@ -2964,6 +2971,7 @@
 {0}rf,sihyxu.cyoiuu 存储
 {0}rf,sdfdq.xmerue 陷入
 {0}rf,endlfdq.xmeloe 陷落
+{0}rf,evjxu.cyoqii 存期
 {0}rf,eikmfmt.ybucho 隐藏
 {0}rf,ih+llixlxusy.cyoiuuqie 存储器
 {0}rf,iz+vfxbsxrj.hzebuujme 候補鍵
@@ -4587,6 +4595,7 @@
 {0}cu+nwigyi.uiolqo 時流
 {0}cu+xek.qbojxi 琹夹
 {0}cu+xdi.dgudae 等大
+{0}cu+xksjbi.iiobke 持病
 {0}cu+rcwdhyi.uiooli 時装
 {0}cu+rcwdhci.fgioli 封装
 {0}cu+rcwdhs.jiooli 集装
@@ -4947,6 +4956,7 @@
 {0}cj+sk+yjkfxt.zdefaimko 再発明
 {0}cj+sk+wluikus.zdejmutcu 再検討
 {0}cj+sfyskgg.xmexle 現像
+{0}cj+li+dskkfkwtk.zdeuiexko 再試行
 {0}cj+ee,idmkuj.zdegzeigo 再構成
 {0}cj+ee,dkfukuj.zdegzeoue 再構築
 {0}cj+it+ta+ugtkggsp.xmeddesiixlu 現代思想
@@ -6053,6 +6063,7 @@
 {0}za+rr,cy+imwdmyrr.zcuiriuuifho 早川書房
 {0}za+ur+cwsynv.zculdezzu 早瀬走
 {0}za+uhiim.vrujii 耳機
+{0}za+uoju.moeuci 末梢
 {0}za+ui+jv+jwunu.uiocyiufiyte 辻村深月
 {0}za+udfm.vrujii 耳机
 {0}za+uj+pydry.zcudcetmo 早稲田
@@ -6081,6 +6092,7 @@
 {0}za+wiom.vruuuo 耳熟
 {0}za+wkidod.qmisve 千歳
 {0}za+omkm.vrudhi 耳当
+{0}za+oj+sm+kd+wlvlguucgno.moeuciqiuyrouoi 末梢起源説
 {0}za+sixu.moefuo 末伏
 {0}za+sk+pa+sbskr.fgijmuyzorfo 丰俭由人
 {0}za+lzs.ufoyee 什叶
@@ -6945,6 +6957,7 @@
 {0}wi+nkmxng.lqolwe 流涙
 {0}wi+njgng.lqolwe 流泪
 {0}wi+xvdfnvg.iseuai 銃殺
+{0}wi+tdbkp.muuxke 母性
 {0}wi+rrfmdng.lqoihe 流畅
 {0}wi+ung.lqomue 流木
 {0}wi+uwvxp.muuxne 母校
@@ -7064,6 +7077,7 @@
 {0}wa+wizvk.xxeuue 下述
 {0}wa+wdmk.xxefhi 下方
 {0}wa+ouwzk.xxelne 下料
+{0}wa+sy+wlfrkjn.xxefuebue 下腹部
 {0}wa+srk.xxegee 下个
 {0}wa+sc+jg+cx+uhiikbddm.xxetviziedsejii 下推自動機
 {0}wa+swek.xxewwe 下位
@@ -7538,6 +7552,7 @@
 {0}of+yg+sthknf.lveseehxe 緑色化
 {0}of+yhks.yrorie 縁日
 {0}of+nidohyg.jtompe 絶滅
+{0}of+xu+dytihygwi.jtodvedea 絶対的
 {0}of+xu+kd+dsfskhygwilnl.jtodveluejke 絶対路径
 {0}of+hodynhkn.lvexme 緑線
 {0}of+csmghyg.jtoqiu 絶起
@@ -7995,6 +8010,8 @@
 {0}sg+md+ub+vmddgxvdkv.wwiffijiiffi 微分積分
 {0}sg+md+weydgxv.wwiffiybi 微分音
 {0}sg+vmddgx.wwiffi 微分
+{0}sg+wvdndgx.wwibme 微変
+{0}sg+wezdgx.wwixbi 微辛
 {0}sg+scudcx.ogijio 徴集
 {0}sg+swkldgx.wwixbe 微信
 {0}sg+skvdcx.ogibki 徴兵
@@ -8122,6 +8139,7 @@
 {0}sm+yy.zoorie 昨日
 {0}sm+ntwko.oaejii 炸鸡
 {0}sm+ncis.zoefau 作法
+{0}sm+nkdocg.qiuyro 起源
 {0}sm+xns.zoeyzu 作友
 {0}sm+xcdl.icidae 超大
 {0}sm+xd,ohsxcdlidd.icicjiuue 超参数
@@ -8406,6 +8424,7 @@
 {0}sk+wluius.jmutcu 検討
 {0}sk+wlsddus.jmuofu 検診
 {0}sk+wlkwkus.jmuoge 検証
+{0}sk+wlfrjk.lmubue 脸部
 {0}sk+weyfxt.faiybi 発音
 {0}sk+wexfxt.faisse 発送
 {0}sk+wkwu.tuouhe 途上
@@ -8462,6 +8481,7 @@
 {0}sk+kksxdkf.xkooge 行政
 {0}sk+kfrfdkf.xkolpe 行列
 {0}sk+kjpgfxt.faidme 発電
+{0}sk+kjlklfxt.failue 発露
 {0}sk+frbgfle.dgilue 登陆
 {0}sk+fr+sc+kcpcdkfkfb.xkolpetviliu 行列推理
 {0}sk+fu+xludkfu.xkoliujxe 行李架
@@ -10264,6 +10284,7 @@
 {0}im+hfusj.pmihcu 偏好
 {0}im+czxfisj.pmioio 偏執
 {0}im+cjdgyr.jiomde 即売
+{0}im+zn+xfijhj.hreoiitse 幻肢痛
 {0}im+zkb.hueuie 护士
 {0}im+zfuh.hrezie 幻字
 {0}im+wcskl.sieouu 飼主
@@ -10299,6 +10320,7 @@
 {0}im+fl+sy+kcrfyrkdki.jiokeudeodce 即可得到
 {0}im+jbsb.huefui 护肤
 {0}im+jgdgsj.pmijme 偏見
+{0}im+jznh.hreoii 幻肢
 {0}im+jdgsj.pmijme 偏见
 {0}im+jd+skkiyrcg.jiomdehve 即売会
 {0}izn 求
@@ -10318,10 +10340,12 @@
 {0}iz+wlkklwv.uueyuu 述語
 {0}iz+widgrj.buuisi 補充
 {0}iz+szpz.zderfo 載人
+{0}iz+siyhbj.buuuio 捕食
 {0}iz+sieezpz.zdebku 載餅
 {0}iz+lwsrj.buuzuo 補足
 {0}iz+lllwn.qqopbu 逑品
 {0}iz+lk+ls+kcpcwvwklwkj.uueyuulyeliu 述語論理
+{0}iz+iy+zxybjsh.buuuiooeu 捕食者
 {0}iz+it+xs+iokrljreuwx.huodpoxneyki 蝴蝶效应
 {0}iz+it+ekkrljreu.huodpoljo 蝴蝶兰
 {0}iz+klfszpz.zdegei 載歌
@@ -10483,6 +10507,7 @@
 {0}il+enydt.yiodhe 怡蕩
 {0}il+ecdbif.mkoyie 名義
 {0}il+ejrff.mkoqmo 名前
+{0}il+ixmif.mkowwe 名为
 {0}il+ihmklf.mkocio 名词
 {0}il+dbtddf.mkowue 名物
 {0}il+db,la+wwrvfjkz.mkougeguujie 名胜古迹
@@ -11100,6 +11125,7 @@
 {0}dr+db,xa+ncimjtkw.uuuxkewfofau 属性文法
 {0}dr+db,szjhmjtk.uuuxkeoio 属性値
 {0}dr+dqdxki.duoufi 独身
+{0}dr+dyxki.duobdo 独白
 {0}dr+djgxki.duozie 独自
 {0}dr+kumj.uuuyuo 属于
 {0}dr+fjcxki.duojnu 独角
@@ -12208,6 +12234,7 @@
 {0}kv+ea+kmnpe.jqujkuhue 酒井戸
 {0}kv+iwlnp.jqudme 酒店
 {0}kv+dynnp.jquqro 酒泉
+{0}kw+bsjggzs.dkegvi 定規
 {0}kw+przjkzs.dkeoie 定置
 {0}kw+psrrzs.dkejpe 定界
 {0}kw+ykpczs.dkelle 定量
@@ -12487,6 +12514,7 @@
 {0}ki.dulkchmj.bmiigo 编程
 {0}ki.fpkfxg.yzoyuo 鱿鱼
 {0}ki.fiwmc.wuiwde 屋外
+{0}ki.fik.yyovva 云々
 {0}kd 形
 {0}kdy+o 原
 {0}kd+pz+stmytv.xiogrehxe 習慣化
@@ -13104,6 +13132,7 @@
 {0}fy+bxkxy.jmizze 間奏
 {0}fy+bwehy.jmijpi 間接
 {0}fy+rk+na+dssynyfljd.jmigeofjufue 間隔反復
+{0}fy+ggwi.yieiui 逸出
 {0}fy+wnsihyg.wjucji 晚餐
 {0}fy+siyhy.jmiuio 間食
 {0}fy+skkiyg.wjuhve 晚会
@@ -13732,6 +13761,7 @@
 {0}jt+xmit.ngolie 能力
 {0}jt+xl+yh+dskkfjnsv.vdeoiiyboxko 愛知銀行
 {0}jt+xa+kcrfitw.ngodaodce 能达到
+{0}jt+tbkjjn.vdeqko 愛情
 {0}jt+tlfifit.ngogze 能够
 {0}jt+uujgdkdn.yziyue 憂鬱
 {0}jt+hmrrjn.vdejii 愛姫
@@ -14181,6 +14211,7 @@
 {0}js+wkwk.yeekau 页卡
 {0}js+ouvmdex.sjeffu 散粉
 {0}js+ojjdgzo.iaojto 察觉
+{0}js+sxlzo.iaooii 察知
 {0}js+suis.rzefue 肉付
 {0}js+suks.rzetiu 肉体
 {0}js+sdbkii.lkojme 零件
@@ -14490,6 +14521,7 @@
 {0}jj.ia+vfknwlc.goequelue 過去録
 {0}jj.ia+kedddwlc.goequexko 過去形
 {0}jj.ia+fl+scuwlcy.goequewfejio 過去問集
+{0}jj.dnjej.guupjo 骨盤
 {0}jj.dn+ud+kfcjulnn.guugeoboixko 骨格波型
 {0}jj.dn+ls+hudkrjulwdd.guugeoofudre 骨格診断
 {0}jj.dn+kfcjul.guugeoxko 骨格型
