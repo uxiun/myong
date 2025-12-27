@@ -147,6 +147,7 @@
 {0}bzf+r 邦
 {0}bz,tdyzl.hdepae 害怕
 {0}bz,ebfczl.hdexqi 害羞
+{0}bw,sxklexvx.jnedru 较短
 {0}bo 素
 {0}boj+g 撹
 {0}bs,bzvkd.uiikse 失控
@@ -2418,6 +2419,7 @@
 {0}ta+xbwvxt.biujne 比较
 {0}ta+xy+evjpb.siiiyiqii 思春期
 {0}ta+xk+xmpzhm.siikculie 思考力
+{0}ta+xk+la+lkdnlpzhmp.siikcuhvolue 思考回路
 {0}ta+xfij.xbitse 心痛
 {0}ta+tbkj.xbiqko 心情
 {0}ta+tscp.siiwwo 思惟
@@ -3770,6 +3772,7 @@
 {0}ua+ua+oa+sf+lepllkl.ddiddibueiiimni 呆呆不吃喵
 {0}ua+gxkl.mueqio 木崎
 {0}ua+ga+sefibo.miuujiwuu 米山舞
+{0}ua+houpoz.wwelme 未練
 {0}ua+hosjz.wwenae 未納
 {0}ua+hdtyz.wwehyi 未婚
 {0}ua+ha+szw.wwewhorfo 未亡人
@@ -4721,6 +4724,7 @@
 {0}co+xt+nkpi.hwilsojli 黑龙江
 {0}co+xt+ka+odjgpin.hwilsojliugu 黑龙江省
 {0}co+rr,ekvppr.hwiiriqme 黒川茜
+{0}co+uu.rxpkk.hwilieuiu 黒歴史
 {0}co+uzkjv.soumoe 瑣末
 {0}co+udnp.hwibju 黒板
 {0}co+mdxnp.hwifae 黒髪
@@ -6804,6 +6808,7 @@
 {0}wv+pm+llixlwjkg.uiepweqie 適配器
 {0}wv+nyjewj.uiewfi 適温
 {0}wv+tmdwj.uieqpe 適切
+{0}wv+tdbkwj.uiexke 適性
 {0}wv+ggbj.odiiui 摘出
 {0}wv+cvpyoj.uhizgi 熵增
 {0}wv+zjllhjx.jninho 胶囊
@@ -8400,6 +8405,7 @@
 {0}sk+hm.evdkrllfk.haimausii 哈马斯
 {0}sk+hfutl.qxehcu 恰好
 {0}sk+cp+ojfusjkc.lyoliuxto 倫理学
+{0}sk+cp+dytisjkc.lyoliudea 倫理的
 {0}sk+cydfxt.faiugi 発声
 {0}sk+cykdfle.dgiihu 登場
 {0}sk+cx+uhiifxtdm.faidsejii 発動機
@@ -9842,6 +9848,7 @@
 {0}eo+zw,zk+dbksmiyzki.wuooiooruugi 無職転生
 {0}eo+vj+fryhse.wuoqiixme 無期限
 {0}eo+wxxms.wuoxne 無効
+{0}eo+weyzs.wuoohi 無章
 {0}eo+wjsxs.wuodio 無敵
 {0}eo+ouwzs.wuolne 無料
 {0}eo+ouirls.wuotho 無糖
@@ -14338,7 +14345,7 @@
 {0}jd+sssng.griose 观众
 {0}jd+siyhjg.mieuio 觅食
 {0}jd+ik.okfkqgr.niohsodgi 霓虹灯
-{1}jk 且
+{0}jk 且
 {0}jkm+s 豚
 {0}jkz 읖
 {0}jk+bx,sf+hoxklzvzwx.ofiuioyeeqiu 真実夜綺
