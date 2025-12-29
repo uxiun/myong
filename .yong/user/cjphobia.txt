@@ -2539,6 +2539,7 @@
 {0}rp+evdkrz.ozesii 宙斯
 {0}rp+ejun.yzocde 油菜
 {0}rp+dbkbzw.diobde 迪拜
+{0}rp+dbkkx.ggeugi 更生
 {0}rp+dnun.yzotno 油条
 {0}rp+dhisev.hlogxi 黄瓜
 {0}rp+djxmb.izijbi 抽筋
@@ -2708,6 +2709,7 @@
 {0}rw+wedgfes.svedce 隧道
 {0}rw+wkklbkl.uieyjo 誓言
 {0}rw+ofdm.fhohou 防火
+{0}rw+su+hi+djrffdmdbfui.fhowwejiioie 防衛機制
 {0}rw+su+jzpzfdmdbf.fhowwejyi 防衛軍
 {0}rw+skrxfxj.svobme 随便
 {0}rw+ly+zxyfezkki.ohevdeoeu 障碍者
@@ -3462,6 +3464,7 @@
 {0}ui+cofss.fuekru 付款
 {0}ui+ciw.goeque 过去
 {0}ui+mxy.uioqui 时区
+{0}ui+mosksd.siiyje 私験
 {0}ui+mddbgy.uiomco 时髦
 {0}ui+ztdgd.siimie 私密
 {0}ui+zhud.siivje 私案
@@ -9155,6 +9158,7 @@
 {0}lk+zvxfke.yjojqi 研究
 {0}lk+zevckrx.ykesdi 硬塞
 {0}lk+zkkjs.uoeuie 硕士
+{0}lk+zjkkkrx.ykeoio 硬直
 {0}lk+vbsvke.yjozre 研鑚
 {0}lk+vx+uupkezf.yjojqidse 研究棟
 {0}lk+vx+zxykezf.yjojqioeu 研究者
@@ -10011,6 +10015,7 @@
 {0}ek+sisrjkjv.tzouie 頭飾
 {0}ek+sdgs.qmerue 嵌入
 {0}ek+sklgs.qmeheo 嵌合
+{0}ek+ltddxjv.jxowfu 頬吻
 {0}ek+dqdkjv.tzoufi 頭身
 {0}ek+dufoch.kjiigi 堪称
 {0}ek+da+tk+ra+jbgssif.qmerueuieybuyse 嵌入式引用
@@ -11014,6 +11019,7 @@
 {0}dn+ll.oa+kflwlk.fjupbubuekeu 返品不可
 {0}dn+la+szjkwp.fjuhvooio 返回值
 {0}dn+ebkul.geoiae 格差
+{0}dn+itw.fjuyki 返応
 {0}dn+itkul.geouie 格式
 {0}dn+iumpw.tuouui 图书
 {0}dn+imzl.keehue 客户
