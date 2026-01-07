@@ -1428,6 +1428,7 @@
 {0}na+durf.uvulie 水利
 {0}na+du+dsrbddi.fjuueelve 反射律
 {0}na+dhio.uvuxie 水系
+{0}na+dcxmd.fjudse 反動
 {0}na+dssynd.fjufue 反復
 {0}na+dsfxfu.qrohgo 权衡
 {0}na+dduid.fjuuee 反射
@@ -11006,6 +11007,7 @@
 {0}dn+wexw.fjusse 返送
 {0}dn+wiszul.geolve 格率
 {0}dn+wkow.fjuhdo 返还
+{0}dn+suiul.geofue 格付
 {0}dn+scjggzl.keegri 客観
 {0}dn+szl.keerfo 客人
 {0}dn+szjkgz.fgioio 峰值
