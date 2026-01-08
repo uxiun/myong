@@ -1283,6 +1283,7 @@
 {0}nd+tedf.iuuuie 処世
 {0}nd+hdf.iuunvu 処女
 {0}nd+cp+llixldfkc.iuuliuqie 処理器
+{0}nd+cp+endldfkc.iuuliuloe 処理落
 {0}nd+cp+dhiodfkc.iuuliuxie 処理系
 {0}nd+mbmoel.loemau 落馬
 {0}nd+wlgvel.loexru 落選
@@ -2129,6 +2130,7 @@
 {0}xa+jf+cdklou.daextogze 大学垢
 {0}xa+jf+im+jd+skkiwouyrcg.wfoxtojiomdehve 文学即売会
 {0}xa+jf+dbkou.daextougi 大学生
+{0}xa+jf+dytiwou.wfoxtodea 文学的
 {0}xa+jf+frzkgou.daextoyre 大学院
 {0}xa+jf+jj.eveuoubn.daextouzeyee 大学授業
 {0}tp+xosco.ddehvi 黛灰
@@ -4124,6 +4126,7 @@
 {0}hx+cydin.faiugi 发声
 {0}hx+mehin.faioju 发展
 {0}hx+wxin.faidao 发达
+{0}hx+wukbem.kjiwwo 勘違
 {0}hx+weyin.faiybi 发音
 {0}hx+wkklin.faiyjo 发言
 {0}hx+opxin.faiyji 发烟
@@ -4981,6 +4984,7 @@
 {0}cj+kg+ctusggo.griglidie 観光地
 {0}cj+kczljkjk.ujihuo 珊瑚
 {0}cj+kcjggk.zdexme 再現
+{0}cj+ki.os+bcuikggrxhc.xmeolewwoiio 現状維持
 {0}cj+kkkk.zdesji 再三
 {0}cj+kkfsk.zdecie 再次
 {0}cj+fytskgg.xmexle 現象
@@ -5873,6 +5877,7 @@
 {0}zl+ncisx.zoefau 做法
 {0}zl+xfije.kuutse 苦痛
 {0}zl+xjp.gueyzu 固有
+{0}zl+togxe.kuuncu 苦悩
 {0}zl+rmte.kuumfe 苦闷
 {0}zl+rm.juiosi 居中
 {0}zl+rktnj.huobwu 湖北
@@ -6678,6 +6683,7 @@
 {0}wt+wjjlnt.lvegoe 濾過
 {0}wt+scjggr.bwigri 悲観
 {0}wt+lersr.bwitje 悲嘆
+{0}wt+ldyor.bwimko 悲鳴
 {0}wt+frskunt.lveiuo 濾除
 {0}wr 部
 {0}wrk+s 逃
@@ -10857,6 +10863,7 @@
 {0}db,md+sttkv.xkeffihxe 性分化
 {0}db,zn+djltkm.xkequuxle 性取向
 {0}db,zvkyk.xkiksi 星空
+{0}db,zl+togxtke.xkekuuncu 性苦悩
 {0}db,zk+bfjxtkzki.xkeoruhre 性転換
 {0}db,vlfstk.xkeyue 性欲
 {0}db,vj+kukyke.xkiqiiwuu 星期五
@@ -11512,6 +11519,7 @@
 {0}dk+meebr.oeopko 折屏
 {0}dk+zxylr.tkioeu 听者
 {0}dk+zvslih.wwirso 威容
+{0}dk+vmdcl.gzeffi 垢分
 {0}dk+wuilr.tkigoe 听过
 {0}dk+whdsi.xuihde 戌亥
 {0}dk+wm+zjkvwjvjk.yjoxpuofi 顔写真
@@ -11726,6 +11734,7 @@
 {0}kp+lw+rrkruowiy.bniuiopme 標識片
 {0}kp+eyzoc.yjiccu 煙草
 {0}kp+emrh.xiejpo 细节
+{0}kp+dyno.pnibdo 漂白
 {0}kp+dytiyc.lledea 量的
 {0}kp+dufifwg.qmiyio 遷移
 {0}kp+dzlbwi.duoueo 毒舌
@@ -12356,6 +12365,7 @@
 {0}ks+hwvhiii.lgunlo 冷嬢
 {0}ks+hdxjxj.bkejni 病嬌
 {0}ks+cimriii.lguqte 冷却
+{0}ks+cdklxj.bkegze 病垢
 {0}ks+zbzlxj.bkehde 病害
 {0}ks+zxmvkx.ogexpo 政协
 {0}ks+zkwshkl.gwudke 给定
@@ -12997,6 +13007,7 @@
 {0}ka+cslg.yiiqiu 一起
 {0}ka+ce+nciwwb.uhedaofau 上達法
 {0}ka+cdgi.yiikke 一塊
+{0}ka+cdklu.bfugze 本垢
 {0}ka+cf,za+cd+fuwpifdzyo.uheyeuqmiheezia 上野千鶴子
 {0}ka+cj+rrmkjxk.zouzdegvi 左再帰
 {0}ka+mvdfnu.bfudme 本殿
