@@ -25,7 +25,7 @@ atps $min分$SPACE
 
 ats $hour0:$min$SPACE
 
-atj $yyyy年$mon0月$day日$SPACE
+atj $yyyy年$mon月$day日$SPACE
 atk $yyyy/$mon0/$day0$SPACE
 atl $yyyy-$mon0-$day0$SPACE
 

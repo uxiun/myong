@@ -2248,6 +2248,7 @@
 {0}tg,jzvkjx.xsiqli 胸腔
 {0}tg,jjjjx.xsiguu 胸骨
 {0}th+na+yyywio.ziuuvujki 紫水晶
+{0}th+ry+estwiofkd.ziuyhohxi 紫陽花
 {0}th+rj+twiokw.ziuyuuxbi 紫雨心
 {0}th+ulwio.ziuxke 紫杏
 {0}th+mdxnwio.ziufae 紫髪
@@ -3672,6 +3673,7 @@
 {0}uk+ouorx.jkimiu 粳米
 {0}uk+ouojj.noemiu 糯米
 {0}uk+os+rrdnsmks.tiuyjebju 体験版
+{0}uk+os+wloosmks.tiuyjetjo 体験談
 {0}uk+st+sjske.wuuhxirze 五花肉
 {0}uk+skkk.wuurfo 五仁
 {0}uk+sjs.tiunwe 体内
@@ -4112,6 +4114,7 @@
 {0}ga+fskxtg.iuifai 出発
 {0}ga+fiz.qiixii 七夕
 {0}ga+jk+kjlmngkki.iuiyyoxxo 出雲霞
+{0}ga+jj.jt+xifjkdn.yiuguuyzitde 乙骨憂太
 {0}hb+rmlikj.qkuwfe 请问
 {0}hb+slmnikj.qkujxu 请假
 {0}hp+ukiu.keebfu 课本
@@ -4743,6 +4746,7 @@
 {0}co+zdnlp.hwikee 黒客
 {0}co+zfup.hwizie 黒字
 {0}co+vd+ncipigi.hwimoofau 黑魔法
+{0}co+vd+hpigi.hwimoonvu 黒魔女
 {0}co+vd+ci+rw+ss,iupiginfdmdkr.hwimoofaufhoyueuue 黑魔法防御术
 {0}co+va+ymkcp.hwijbiyce 黒金曜
 {0}co+wt+mxtwkplj.hwizvuvzi 黑嘴鸥
@@ -4979,6 +4983,7 @@
 {0}cj+it+skggs.xmedderfo 現代人
 {0}cj+it+sk+xbkdgsnf.xmeddeqieiei 现代汽车
 {0}cj+io+rs+nyevkcfku.zdereeiuouii 再熱除湿
+{0}cj+ij+zpzsggmgg.griljuiei 観覧車
 {0}cj+dbkk.zdeugi 再生
 {0}cj+desdssgg.griose 観衆
 {0}cj+kg+ctusggo.griglidie 観光地
@@ -5396,6 +5401,7 @@
 {0}md+uznv.ffioii 分枝
 {0}md+udkrv.ffixii 分析
 {0}md+ud+kjlklrbn.iuipiilue 初披露
+{0}md+uk+mosksrs.iuitiuyje 初体験
 {0}md+gr+wr+evrsfsk.iuiileqiuyee 初创企业
 {0}md+gznv.ffiqio 分岐
 {0}md+ht+dsccfvvl.pbombojpi 貧民街
@@ -5426,6 +5432,7 @@
 {0}md+wmkdkr.souyuu 所与
 {0}md+wzirzv.ffibme 分辨
 {0}md+wvtr.iuilme 初恋
+{0}md+wsfxr.iuiyee 初夜
 {0}md+wlpjdkr.souwwe 所謂
 {0}md+wlmklv.fficio 分詞
 {0}md+wlfuv.ffixlu 分享
@@ -6216,6 +6223,7 @@
 {0}vx+ja+xnwj.jnipgoyzu 交朋友
 {0}vti 釣
 {0}vt+bwljk.veegcu 恶搞
+{0}vt+tbkjw.lmeqko 恋情
 {0}vt+tw.lmexbi 恋心
 {0}vt+tk.veexbi 恶心
 {0}vt+cydw.lmeugi 恋声
@@ -7873,6 +7881,7 @@
 {0}sy+sdtkdh.hfudii 很低
 {0}sy+sklrn.fueheo 複合
 {0}sy+ebkdh.hfuiae 很差
+{0}sy+dbtdddki.deowue 得物
 {0}sy+dbdh.hfunqo 很牛
 {0}sy+dsyhdki.deohfu 得很
 {0}sy+dfwdhrn.fueoie 複製
@@ -8650,6 +8659,7 @@
 {0}sa+dt+cr,wljlsskkf.csodiidcegci 从低到高
 {0}sa+dur.rfoosu 人种
 {0}sa+dufo.rfoigi 人称
+{0}sa+dm+cx+sdwe.baifhimwurfo 八方美人
 {0}sa+dwdflf.fwiiro 飞船
 {0}sa+dscwsp.qqotuo 囚徒
 {0}sa+dswcf.fwiwhu 飞往
@@ -9125,6 +9135,7 @@
 {0}ld+sr+zkmsjddwf.dnikeejxi 彫刻家
 {0}ld+sedjwfn.ueebwe 設備
 {0}ld+simzwum.yzevru 誘餌
+{0}ld+si+xp+ozilgdvffl.ozeuuehvooje 呪術廻戦
 {0}ld+lz+zxywfnw.ueejieoeu 設計者
 {0}ld+lz+dlkrjwfnw.ueejieuii 設計師
 {0}ld+lf+dyirmcwxh.ugedjejpo 聖誕節
@@ -9456,6 +9467,7 @@
 {0}la+wmlzp.hvobie 回避
 {0}la+wmdx.yzebmi 右辺
 {0}la+wwrvz.guujie 古迹
+{0}la+wwmup.hvoyzo 回遊
 {0}la+ws.kzuyui 口込
 {0}la+wlmkli.tdocio 台詞
 {0}la+wlot.juedmu 句点
@@ -10194,6 +10206,7 @@
 {0}ix+ha+xkwkk.yjenvuoge 厌女症
 {0}ix+ha+zi+wlmghmo.yzenvuojejie 幼女戦記
 {0}ix+ctus.fuodie 伏地
+{0}ix+co+zptsp.fuohwihve 伏黒恵
 {0}ix+ce+zxysoel.wwuujeoeu 偽善者
 {0}ix+zxyso.wwuoeu 偽者
 {0}ix+zrrftd.cjuuie 惨事
@@ -11311,6 +11324,7 @@
 {0}dm+okgnx.jiigli 激光
 {0}dm+sxg.fjerfo 犯人
 {0}dm+stdru.fuihxe 孵化
+{0}dm+swew.fhiwwe 方位
 {0}dm+si.igorfo 成人
 {0}dm+skrxw.fhibme 方便
 {0}dm+sfysi.igoxle 成像
@@ -12114,6 +12128,7 @@
 {0}kc+ijtts.qrongo 全能
 {0}kc+dqds.qroufi 全身
 {0}kc+dnxmpi.goowue 国务
+{0}kc+dm+swesw.qrofhiwwe 全方位
 {0}kc+ds+frzkgpifxm.goowueyre 国務院
 {0}kc+dlgivn.lkolre 凌乱
 {0}kc+dimjs.qropmi 全篇
@@ -13234,6 +13249,7 @@
 {0}ft,bt,wlkklkddd.siuwueyuu 死物語
 {0}ft,bk+scjggkd.siuugigri 死生観
 {0}ft,pxk.siuybi 死因
+{0}ft,nidok.siumpe 死滅
 {0}ft,xr+xkwkktj.ksubueoge 恐怖症
 {0}ft,xr+tw+znbktjwdh.ksubuexiojii 恐怖襲撃
 {0}ft,xr+rrkrktj.ksubuepme 恐怖片
@@ -13574,6 +13590,7 @@
 {0}fkw+ig 疏
 {0}fk+bt,wlcuidriddd.fgiwueuii 風物詩
 {0}fk+bznyei.dzejie 闘技
+{0}fk+bdupye.kdiboi 開播
 {0}fk+yx+epyeej.kdimuequi 開幕曲
 {0}fk+yx+itkyeej.kdimueuie 開幕式
 {0}fk+ywlodri.fgijku 風景
