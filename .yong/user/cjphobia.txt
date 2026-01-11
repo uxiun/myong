@@ -91,6 +91,7 @@
 {0}bg,hkizd.mcorso 毛绒
 {0}bg,ki.ck+jkkvdhzkkg.mcorsowjojue 毛绒玩具
 {0}bg,fygd.mcosee 毛色
+{0}bc,bzndui.teejie 特技
 {0}bc,pevdui.teeyie 特異
 {0}bc,nddhdui.teepde 特派
 {0}bc,xjdui.teeyzu 特有
@@ -1683,6 +1684,7 @@
 {0}xm+lrkwll.kaifwi 咖啡
 {0}xm+lsklii.wweuao 为啥
 {0}xm+lkpcll.kailio 咖喱
+{0}xm+ejrfp.njoqmo 男前
 {0}xm+irirev.suiozi 苏州
 {0}xm+ihixzv.xpoyie 协议
 {0}xm+ijttk.gsingo 功能
@@ -2331,6 +2333,7 @@
 {0}tl+kl+wlkklbgs.bceheoyuu 抱合語
 {0}tl+fgtbg.bceyre 抱怨
 {0}tl+foufssj.goiozi 锅粥
+{0}tl+fjgvbg.bcefue 抱負
 {0}te+bhiswv.xuiniu 虚拟
 {0}te+nmkjn.xpelze 泄漏
 {0}te+nevn.xpehso 泄洪
@@ -3106,6 +3109,7 @@
 {0}ra+csmgf.ybuqiu 引起
 {0}ra+csihf.ybuyte 引越
 {0}ra+mxfs.osivzi 中欧
+{0}ra+mznf.ybuquu 引取
 {0}ra+msx.osiyii 中医
 {0}ra+vwigf.dneise 弔銃
 {0}ra+wyhf.ybutve 引退
@@ -3698,6 +3702,7 @@
 {0}uk+djrfs.tiuoie 体制
 {0}uk+kpvmde.bfuffi 苯酚
 {0}uk+kcjggs.tiuxme 体現
+{0}uk+kc+ya+wlmgwbpi.wwogooriejie 違国日記
 {0}uk+keddds.tiuxko 体形
 {0}uk+ka+lm+evjksn.wuuyiijxuqii 五一假期
 {0}uk+ka+fo+ewyzekso.bfuvredjeooo 苯二氮䓬
@@ -4805,6 +4810,7 @@
 {0}cl+dn+dx,jskkhlud.xiipioxnelmu 嬉皮笑脸
 {0}cl+dulkcwh.yruigo 遠程
 {0}cl+dk+iltwhwr.yrujbegju 遠近感
+{-}cl+kc+ya+wlmgwhpi.yrugooriejie 遠国日記
 {0}cl+frkljwh.yrugeo 遠隔
 {0}cl+fuu.juozia 桔子
 {0}cl+jx+cj+kczljjrkjk.oziyhiujihuo 周央珊瑚
@@ -4985,6 +4991,7 @@
 {0}cj+io+rs+nyevkcfku.zdereeiuouii 再熱除湿
 {0}cj+ij+zpzsggmgg.griljuiei 観覧車
 {0}cj+dbkk.zdeugi 再生
+{0}cj+dskkfkgg.xmexko 現行
 {0}cj+desdssgg.griose 観衆
 {0}cj+kg+ctusggo.griglidie 観光地
 {0}cj+kczljkjk.ujihuo 珊瑚
@@ -7756,6 +7763,7 @@
 {0}oa+lwsk.buezuo 不足
 {0}oa+ls+zkwskkjc.bueqtedke 不確定
 {0}oa+le+tzjvkwrk.buejbuufe 不謹慎
+{0}oa+li+jbklxl.bueqieyse 不器用
 {0}oa+lf+jmrnksif.bueuuifuo 不舒服
 {0}oa+ekte.houzhe 火葬
 {0}oa+iyhk.buello 不良
@@ -9534,6 +9542,7 @@
 {0}eb,siyhn.yhouio 洋食
 {0}eb,lllu.yhepbu 样品
 {0}eb,isun.yholee 洋楽
+{0}eb,jmrnn.yhofuo 洋服
 {0}eq+xf+shvtis.xmoyiorfo 嫌疑人
 {0}eq+txfishv.xmoyio 嫌疑
 {0}eq+skrpiv.lmosie 廉価
