@@ -196,7 +196,9 @@
 {0}bd,xmlzno.jpopiu 潔癖
 {0}bd,tewr.uieuie 逝世
 {0}bd,mnhiolx.iiijbu 喫緊
+{0}bd,su+iwllxe.iiiiaodme 喫茶店
 {0}bd,exdxxkr.ojuhoe 斩获
+{0}bd,esulx.iiiiao 喫茶
 {0}bd,dyno.jpobdo 潔白
 {0}bd+nknr.oeejli 浙江
 {0}bd+wegon.pjenie 叛逆
@@ -818,6 +820,7 @@
 {0}yt+nxxjnt.hyexno 混淆
 {0}yt+ntgnt.hyedye 混沌
 {0}yt+xx,kciznutj.gyewhuqqo 棍网球
+{0}yt+xrcnt.hyezde 混在
 {0}yt+xuscnt.hyezao 混雑
 {0}yt+xa+lmrfdim.deaquibpo 的区别
 {0}yt+udxrewk.qteqno 鹊桥
@@ -1294,6 +1297,7 @@
 {0}nd+scumds.juejio 聚集
 {0}nd+sdel.loerue 落入
 {0}nd+sklel.loeheo 落合
+{0}nd+ebkel.loeiae 落差
 {0}nd+ebjgel.loeoea 落着
 {0}nd+dbmb.xiinqo 犀牛
 {0}nd+dm+diidfw.iuufhijmi 処方箋
@@ -2030,6 +2034,7 @@
 {0}xa+sukw.wfotiu 文体
 {0}xa+sukk.tmitiu 天体
 {0}xa+suk.daetiu 大体
+{0}xa+sgk.tmixmi 天仙
 {0}xa+sm+yj.kgdnsse.uiuzoemgoxxe 矢作萌夏
 {0}xa+szrxk.tmiuiu 天使
 {0}xa+szrx.daeuiu 大使
@@ -2387,6 +2392,7 @@
 {0}td+jx+td+oyenydooyd.yierjoyiebce 易燃易爆
 {0}td+jjnyd.yieuze 易受
 {0}tk 性
+{0}tkp+u 慄
 {0}tkj+v 頃
 {0}tk+udnl 性格
 {0}tk+uk+dul 性違和
@@ -2866,6 +2872,7 @@
 {0}rk+mdbgrr.pmewwu 片尾
 {0}rk+zhj.yrovji 円安
 {0}rk+zkm.wweuie 卫士
+{0}rk+zkiczn.qbuuie 寝室
 {0}rk+vd+bknfflekr.vaisiimde 阿斯麦
 {0}rk+wrkdw.oiubue 止步
 {0}rk+wgxjflj.geolio 隔离
@@ -3159,6 +3166,7 @@
 {0}ra+kc+la+stpik.osigoouiohxe 中国石化
 {0}ra+kc+itkpi.osigoouie 中国式
 {0}ra+kc+dfwdhpi.osigoooie 中国製
+{0}ra+kv+dsubffs.dnebkiwwe 弔兵衛
 {0}ra+ksjgv.osizii 中資
 {0}ra+kltlgf.dnepce 弔砲
 {0}ra+kev.osiyae 中亚
@@ -3878,6 +3886,7 @@
 {0}gp+do+lfdndkrlu.biohuixii 鼻呼吸
 {0}gp+dsuik.hxefuo 画符
 {0}gp+dfxk.hxefgi 画风
+{0}gp+dj+xfikyg.hxemwowjo 画眉丸
 {0}gp+kpmrk.hxemme 画面
 {0}gp+kgpk.hxehxe 画画
 {0}gp+kwdkr.bioxxe 鼻下
@@ -3915,6 +3924,7 @@
 {0}gt,sfysu.xluxle 想像
 {0}gt,lsfu.xluiii 想吃
 {0}gt,kphu.xluyce 想要
+{0}gt,kgpu.xluhxe 想画
 {0}gt,kcrfu.xludce 想到
 {0}gt,fy+xmuss.xluxlelie 想像力
 {0}gt,fy+wkuss.xluxleuhe 想像上
@@ -4810,7 +4820,6 @@
 {0}cl+dn+dx,jskkhlud.xiipioxnelmu 嬉皮笑脸
 {0}cl+dulkcwh.yruigo 遠程
 {0}cl+dk+iltwhwr.yrujbegju 遠近感
-{-}cl+kc+ya+wlmgwhpi.yrugooriejie 遠国日記
 {0}cl+frkljwh.yrugeo 遠隔
 {0}cl+fuu.juozia 桔子
 {0}cl+jx+cj+kczljjrkjk.oziyhiujihuo 周央珊瑚
@@ -5255,6 +5264,8 @@
 {0}mv+ouvmdnn.dmeffu 澱粉
 {0}mv+ihzfxrlg.yteduo 阅读
 {0}mw+rmyidm.fhojmi 房间
+{0}mw+ridm.fhoosi 房中
+{0}mw+ra+dsivfidm.fhoosiuue 房中術
 {0}mw+my.sjidmr.fhojminwe 房间内
 {0}mw+mkicidm.fhowui 房屋
 {0}mw+wedidm.fhoiju 房产
@@ -5888,6 +5899,7 @@
 {0}zl+bzvkdl.grukse 管控
 {0}zl+be.kuuuzu 苦手
 {0}zl+ycuis.guiuio 估時
+{0}zl+yfym.juijmi 居間
 {0}zl+ncisx.zoefau 做法
 {0}zl+xfije.kuutse 苦痛
 {0}zl+xjp.gueyzu 固有
@@ -5965,6 +5977,7 @@
 {0}zi+pkcio.ojegoo 戦国
 {0}zi+yfkeio.ojedze 戦闘
 {0}zi+xno.ojeyzu 戦友
+{0}zi+tkpuo.ojelie 戦慄
 {0}zi+cykdo.ojeihu 戦場
 {0}zi+ctuo.ojedie 戦地
 {0}zi+mr+of+lyyohrhyg.ojejiijtoihe 戦姫絶唱
@@ -6839,6 +6852,7 @@
 {0}wv+tdbkwj.uiexke 適性
 {0}wv+ggbj.odiiui 摘出
 {0}wv+cvpyoj.uhizgi 熵增
+{0}wv+msxux.xneyii 校医
 {0}wv+zjllhjx.jninho 胶囊
 {0}wv+vp+kw+dsrbojcyzs.uhizgidkelve 熵增定律
 {0}wv+omkwj.uiedhi 適当
@@ -8875,6 +8889,7 @@
 {0}lm+wlwiywit.rfeuio 認識
 {0}lm+wlkwkwit.rfeoge 認証
 {0}lm+wlkklws.yieyuu 訳語
+{0}lm+we+ll.dbswgttch.jieyiesheuii 記憶喪失
 {0}lm+wizvwg.jieuue 記述
 {0}lm+sxlwit.rfeoii 認知
 {0}lm+scuwkl.ciojio 詞集
@@ -10648,6 +10663,7 @@
 {0}ik.fygr.hsosee 虹色
 {0}ik.judddr.hsocdu 虹彩
 {0}ik.jeyxr.hsomoo 虹膜
+{0}if 러
 {0}if+bwefi.doilai 多拉
 {0}if+pm+sukfikr.doimmetiu 多面体
 {0}if+pls.jbihvo 今回
@@ -11262,6 +11278,7 @@
 {0}dc+nwsxng.xiuyee 洗液
 {0}dc+nfmung.xiujke 洗浄
 {0}dc+tlwl.zcejue 造句
+{0}dc+ggwl.zceiui 造出
 {0}dc+hmkjh.rfefue 妊婦
 {0}dc+houpong.xiulme 洗練
 {0}dc+hkxhvng.xiulme 洗练
@@ -12286,6 +12303,7 @@
 {0}kv+ea+kmnpe.jqujkuhue 酒井戸
 {0}kv+iwlnp.jqudme 酒店
 {0}kv+dynnp.jquqro 酒泉
+{0}kv+dsubfs.bkiwwe 兵衛
 {0}kw+bsjggzs.dkegvi 定規
 {0}kw+przjkzs.dkeoie 定置
 {0}kw+psrrzs.dkejpe 定界
@@ -13111,6 +13129,7 @@
 {0}ka+lf+jxxkwr.vrebuewhu 二部网
 {0}ka+ebjgw.uheoea 上着
 {0}ka+en+zrknki.vredueqbu 二度寝
+{0}ka+evj.yiiqii 一期
 {0}ka+esmgw.uhechi 上苍
 {0}ka+ee,djrfkw.vrejbeoie 二进制
 {0}ka+edjg.yiiuzu 一首
@@ -13833,6 +13852,8 @@
 {0}jt+oa+ijttitk.ngobuengo 能不能
 {0}jt+sxljn.vdeoii 愛知
 {0}jt+sk+ba+dywgitfleo.ngodgibjedcu 能登半島
+{0}jt+sjn.vderfo 愛人
+{0}jt+sa+kedddjn.vderfoxko 愛人形
 {0}jt+sa+jjtnjnf.vdejquvde 愛久愛
 {0}jt+lythit.ngohei 能喝
 {0}jt+eyxjrs.ohemue 帐幕
@@ -14610,6 +14631,7 @@
 {0}ja+yuix.yzuuio 有时
 {0}ja+yudry.mkoxii 明晰
 {0}ja+ymkc.yteyce 月曜
+{0}ja+yweyy.mkovje 明暗
 {0}ja+yw+xy+pudgb.ytedcuiyigou 月島春果
 {0}ja+yevy.mkoxmu 明显
 {0}ja+ydbky.mkoxki 明星
