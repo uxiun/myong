@@ -1036,6 +1036,7 @@
 {0}yf+ytdddy.jmuyie 簡易
 {0}yf+yjdy.jmumko 簡明
 {0}yf+nbdody.jmujpo 簡潔
+{0}yf+njjjnc.ryehxo 潤滑
 {0}yf+xl+rr,wlgvzrszf.dzioiiuiexru 都知事選
 {0}yf+xl+zrrfzrs.dzioiiuie 都知事
 {0}yf+tzr.dzixbi 都心
@@ -1052,6 +1053,7 @@
 {0}yf+ed,su+jghozrwgii.dzidcefuuxme 都道府県
 {0}yf+ikfzr.dzitki 都庁
 {0}yf+dx,jugncmn.ryefaeruu 潤髪乳
+{0}yf+jj.wrrfncnj.ryehxojie 潤滑剤
 {0}yj 明
 {0}yjz+z 暈
 {0}yjk+n 暖
@@ -3406,6 +3408,7 @@
 {0}uo+ja+sr+fuddb.qqiytelvezia 秋月律子
 {0}us+bjjnzx.jneuze 教授
 {0}us+rrkjzx.jneuii 教师
+{0}us+urjgjn.xiiofu 膝枕
 {0}us+uudzx.jnecdo 教材
 {0}us+uw+rcyzxdz.jnekeiuui 教科書
 {0}us+uw+wxzxdz.jnekeiwfo 教科文
@@ -3826,6 +3829,7 @@
 {0}ua+scuf.ziajio 子集
 {0}ua+sevf.ziagsi 子供
 {0}ua+sk+vfknzfle.wwedgilue 未登録
+{0}ua+sfxl.ddiqie 呆気
 {0}ua+la+wktth.yeuruociu 也如此
 {0}ua+ezkgx.dsigru 东莞
 {0}ua+esuj.cduiao 采茶
@@ -7120,6 +7124,7 @@
 {0}wa+zixbk.xxezde 下载
 {0}wa+zizpzk.xxezde 下載
 {0}wa+wxrrr.buuqio 补齐
+{0}wa+wlfrk.xxebue 下部
 {0}wa+we+yi+siftksug.xxewwegdenme 下位概念
 {0}wa+wizvk.xxeuue 下述
 {0}wa+wdmk.xxefhi 下方
@@ -10263,6 +10268,7 @@
 {0}ix+dzjssg.yzioie 优质
 {0}ix+kusg.yziyuo 优于
 {0}ix+kgpkm.dsehxe 动画
+{0}ix+kvtk.yjevee 厌恶
 {0}ix+kfotd.cjulpe 惨烈
 {0}ix+furb.kuezia 裤子
 {0}ix+jf+vrou.jluxtojbi 奨学金
@@ -10373,6 +10379,7 @@
 {0}im+dqjvyr.jioxke 即興
 {0}im+djlsj.pmixle 偏向
 {0}im+kpkkor.mfopne 门票
+{0}im+kuukwj.bmelie 遍歴
 {0}im+kcpcb.hueliu 护理
 {0}im+kflyr.jiokeu 即可
 {0}im+kf+rrkrho.hredgipme 幻灯片
