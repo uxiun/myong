@@ -397,6 +397,7 @@
 {0}ba+gu+sukowi.bjedcutiu 半導体
 {0}ba+hocjg.uzuxue 手続
 {0}ba+hodhtj.yseoiu 用紙
+{0}ba+hodht.uzuoiu 手紙
 {0}ba+hils.nmouiu 年始
 {0}ba+hkmgs.nmojie 年纪
 {0}ba+hfuj.ysehcu 用好
@@ -447,6 +448,7 @@
 {0}ba+kg+zj+dbtddewouuk.yhoiiuoiowue 羊歯植物
 {0}ba+kcizn.uzuqqo 手球
 {0}ba+ka+dzpcok.bjevreose 半二重
+{0}ba+fx+kcsifd.uzufgiqbo 手风琴
 {0}ba+fu+rixbds.nqozdukue 牛仔裤
 {0}ba+fjco.bjejnu 半角
 {0}ba+fjce.yhojnu 羊角
@@ -2541,6 +2543,7 @@
 {0}rp+vev.hlojbi 黄金
 {0}rp+vd+ta+su+pclhwekrmi.diosiinioleeyro 迪斯尼楽園
 {0}rp+vd+mtwekr.diosiinio 迪斯尼
+{0}rp+va+cu+sitevyi.hlojbiuiodde 黄金時代
 {0}rp+wudkrkx.ggexbi 更新
 {0}rp+wlgvb.izixru 抽選
 {0}rp+wdkrkx.ggejbe 更近
@@ -2657,6 +2660,7 @@
 {0}rr,jkxms.jpeoue 介助
 {0}ru 被
 {0}ruby <ruby>$|<rt></rt></ruby>
+{0}rh+zjhiopoj.jresou 羂索
 {0}rc,bu+zm+dclxdycrn.zdejiobcegce 在籍報告
 {0}rc,pkkgfvn.lkoyro 陵园
 {0}rc,hodynpcw.gxexme 罫線
@@ -3140,6 +3144,7 @@
 {0}ra+ss.geerfo 个人
 {0}ra+six.osifuo 中伏
 {0}ra+sdf.yburue 引入
+{0}ra+lj+dbkwl.osigciugi 中高生
 {0}ra+exbf.ybuqko 引擎
 {0}ra+erjx.osiyki 中英
 {0}ra+ecx.osimwu 中美
@@ -3238,6 +3243,7 @@
 {0}un+yjdb.uiemko 释明
 {0}un+ur+kevsdf.xuelieyae 叙利亚
 {0}un+wmsxdb.uiefhe 释放
+{0}un+wizvs.xueuue 叙述
 {0}un+ihvlgs.xueuoi 叙说
 {0}ux+bzrst.kkejpo 快捷
 {0}ux+ylot.kkeoce 快照
@@ -4442,6 +4448,7 @@
 {0}hj.djrfwb.qmioie 牽制
 {0}ha+brkwz.vjipdo 安排
 {0}ha+brkw.nvupdo 女排
+{0}ha+bsw.whofui 亡夫
 {0}ha+ytddz.vjiyie 安易
 {0}ha+yz+rrdnzw.vjiooobju 安卓版
 {0}ha+yd+dhiorg.nvuvroxie 女児系
@@ -7402,6 +7409,7 @@
 {0}ov.dufohit.zsuigi 総称
 {0}ov.dlrjhit.zsuuke 総帥
 {0}ow+nilhig.tsuoie 統治
+{0}ow+xvdfnhvx.jnuuai 絞殺
 {0}ow+tmdhjj.dieqpe 締切
 {0}ow+tlghdz.fgebci 縫包
 {0}ow+gxklflo.jkiqio 鯨崎
@@ -7425,6 +7433,7 @@
 {0}ow+djrfhig.tsuoie 統制
 {0}ow+khig.tsuyii 統一
 {0}ow+kl+bs,lj+xkwkhigsdwcl.tsuheouiidneoge 統合失調症
+{0}ow+kfthvx.jnusiu 絞死
 {0}ow+froyohdz.fgexie 縫隙
 {0}oo.ce+rixccfubui.lbouuekvo 鱗樹蝰
 {0}oo.dyn.djebdo 淡白
@@ -7768,6 +7777,7 @@
 {0}oa+sxlk.bueoii 不知
 {0}oa+steyk.buecoe 不错
 {0}oa+shisk.bueuie 不似
+{0}oa+scck.buejxi 不佳
 {0}oa+sm+sm+jbkcgs.bueqiuzoeyse 不起作用
 {0}oa+sobs.houbje 伙伴
 {0}oa+ssyd.houuhi 火傷
@@ -8463,6 +8473,7 @@
 {0}sk+cwpkjko.jietjo 祭壇
 {0}sk+cwscz.gjuzzu 赶走
 {0}sk+cwssf.tzizzu 偷走
+{0}sk+ce+rw+zbzlfxtwbfez.faidaoohehde 発達障害
 {0}sk+cicz.gjuque 赶去
 {0}sk+cfmdfle.dgiihu 登场
 {0}sk+cjdgfxt.faimde 発売
@@ -9267,7 +9278,6 @@
 {0}lf+cydks.geiugi 歌声
 {0}lf+mkhwr.bueohu 部長
 {0}lf+mkicwr.buewui 部屋
-{0}lf+zwxkjb.qteuio 确实
 {0}lf+zwxkjc.qteuio 确实
 {0}lf+zkwskjc.qtedke 确定
 {0}lf+vmdwr.bueffi 部分
@@ -10716,6 +10726,7 @@
 {0}if+zojs.jbixni 今宵
 {0}if+zkwsff.yuudke 予定
 {0}if+vb+cx+si+xa+ojfufiiedvf.doimoomwuuuedaexto 多摩美術大学
+{0}if+vmdfi.doiffi 多分
 {0}if+vlfssv.tjiyue 貪欲
 {0}if+weytsl.hjoyie 含意
 {0}if+wdkrsr.lbojbe 邻近
@@ -11534,6 +11545,7 @@
 {0}dd,lllwbk.ijupbu 産品
 {0}dd,eveuwbk.ijuyee 産業
 {0}dd,dbknh.pdeugi 派生
+{0}dd,dshinwbk.ijuhze 産後
 {0}dd,fuxlj.uiizia 獅子
 {0}dd,fgtnp.lqiyre 溜怨
 {0}dd,jf+zlrlwbkou.ijuxtogri 産学官
@@ -12473,6 +12485,7 @@
 {0}kl+gxklg.yjoqio 岩崎
 {0}kl+gzp.fueuji 富山
 {0}kl+ga+jghozp.fueujixme 富山県
+{0}kl+hdbkj.tsoxke 同姓
 {0}kl+hknnnd.hzeove 后缀
 {0}kl+hkxhvs.heolme 合练
 {0}kl+cp+stskc.heoliuhxe 合理化
@@ -12537,6 +12550,7 @@
 {0}kl+if+jm.un+ul+ififsrsifdbdbdkc,kekepuiegoue 命令解释程序
 {0}kl+dbjgd.hzekje 后看
 {0}kl+db,wvtjtk.tsoxkelme 同性恋
+{0}kl+db,kl+filjhkj.tsoxketsomko 同姓同名
 {0}kl+db,jjtnjtk.tsoxkevde 同性愛
 {0}kl+dn+ihkwksul.heogeooge 合格证
 {0}kl+dcuij.tsodgu 同等
@@ -13140,6 +13154,7 @@
 {0}ka+esmgw.uhechi 上苍
 {0}ka+ee,djrfkw.vrejbeoie 二进制
 {0}ka+edjg.yiiuzu 一首
+{0}ka+il+uy.howiynpkd.jligooxlioii 江國香織
 {0}ka+ie+udfiunn.bfuduefgi 本渡楓
 {0}ka+iifr.yiilho 一郎
 {0}ka+ijttu.bfungo 本能
@@ -13243,6 +13258,7 @@
 {0}fx+nyjes.qiewfi 気温
 {0}fx+ntlgs.qiepce 気泡
 {0}fx+nj+pm+kfrfvbdekg.jmepjopwelpe 鍵盤配列
+{0}fx+nj+su+llixlvbdei.jmepjoleeqie 鍵盤楽器
 {0}fx+xms.qielie 気力
 {0}fx+tl+pwxsng.qiepcetuo 気泡図
 {0}fx+tdbks.qiexke 気性
@@ -14411,6 +14427,7 @@
 {0}jd+poixng.ifomoe 沉默
 {0}jd+ncing.grifau 观法
 {0}jd+nmknng.ifojbe 沉浸
+{0}jd+xy+zskycgb.mdeiyisue 売春宿
 {0}jd+xk+nudnjnlojv.geolweboi 骼類波
 {0}jd+xk+zjkkjnlojv.geolweoio 骼類直
 {0}jd+xk+fmkhjnlojv.geolweohi 骼類張
