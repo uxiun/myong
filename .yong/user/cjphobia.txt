@@ -637,6 +637,7 @@
 {0}pm+skkikr.mmehve 面会
 {0}pm+lyydkk.fjiihe 翻唱
 {0}pm+lm+wlkkldkkws.fjiyieyuu 翻訳語
+{0}pm+lm+dc+wlkkldkkwswl.fjiyiezceyuu 翻訳造語
 {0}pm+ejrfkr.mmeqmo 面前
 {0}pm+ihnbdkk.fjiyie 翻译
 {0}pm+isukg.pwelee 配楽
@@ -691,6 +692,7 @@
 {0}pz+js.mwuyte 毎月
 {0}pw+srsi.mwugee 每个
 {0}pw+kxsi.mwutmi 每天
+{0}pob+g 圏
 {0}po+dywgku.suedcu 粟島
 {0}po+fuf.yuozia 魚子
 {0}psr+r 界
@@ -858,6 +860,8 @@
 {0}yt+jbnt.hyeyse 混用
 {0}yt+jklnt.hyetso 混同
 {0}yr 即
+{0}yu.pm+rrdnwkr.ooimmebju 桌面版
+{0}yu.pm+rd+ok+jbwkrrni.ooimmebjuykiyse 桌面版应用
 {0}yu.pm+rk+rrdnwkrbw.ooimmepdobju 桌面排版
 {0}yu.wxmw.ooibmi 桌边
 {0}yu.kpmrw.ooimme 桌面
@@ -2925,6 +2929,7 @@
 {0}rk+efk.gsiyie 工艺
 {0}rk+ejonk.gsitgo 工藤
 {0}rk+ea+sxlfflt.vaiuieoii 阿世知
+{0}rk+ea+sr+bk+hozxy ヰ世界情緒
 {0}rk+ihvlgli.sviuoi 虽说
 {0}rk+imwdmk.gsifho 工房
 {0}rk+iltwv.yiogju 遺感
@@ -3144,6 +3149,7 @@
 {0}ra+ss.geerfo 个人
 {0}ra+six.osifuo 中伏
 {0}ra+sdf.yburue 引入
+{0}ra+lj+cu+sitwlyi.osigciuiodde 中高時代
 {0}ra+lj+dbkwl.osigciugi 中高生
 {0}ra+exbf.ybuqko 引擎
 {0}ra+erjx.osiyki 中英
@@ -3473,6 +3479,7 @@
 {0}ui+yuiw.goeuio 过时
 {0}ui+nprzc.siezeo 寺澤
 {0}ui+nwign.dvelqo 对流
+{0}ui+nienw.goedue 过渡
 {0}ui+xmls.fuejxi 付加
 {0}ui+xzed.siibfi 私奔
 {0}ui+xkwkn.dveoge 对症
@@ -4092,6 +4099,7 @@
 {0}ga+zk+zxygnv.iuiyjuoeu 出演者
 {0}ga+wskuj.muetuo 目途
 {0}ga+wepcr.vrotso 儿童
+{0}ga+wddbkg.iuiiju 出産
 {0}ga+wa+sa+wkzkd.qiixxebaiuhe 七下八上
 {0}ga+or+lf+wi+fifiiprksng.ujiufogeilqodoi 山神歌流多
 {0}ga+ouxf.yiugve 乙炔
@@ -4280,8 +4288,8 @@
 {0}hs+zfuox.uuezie 数字
 {0}hs+zjkvi.rfeofi 认真
 {0}hs+za+duodox.uueuiomnu 数十秒
-{0}hs+w 改変
-{0}hs+wvnmx.gdubme 改变
+{-}hs+w 改変
+{-}hs+wvnmx.gdubme 改变
 {0}hs+wvdnmx.gdubme 改変
 {0}hs+wlkfmx.gdudke 改訂
 {0}hs+we+xa+uomkoxsw.uuewwewfodhe 数位文档
@@ -4800,7 +4808,9 @@
 {0}cs+wldhkx.oievdi 致哀
 {0}cs+sxmlkkf.yuogai 瑜伽
 {0}cs+sklrkx.oiemke 致命
+{0}cs+ls+fi+xblmzkxexb.oiejkeorijio 致敬专辑
 {0}cs+ll.dbtddkxxg.oievdowue 致癌物
+{0}cs+elsxkx.oiejke 致敬
 {0}cs+edsxep.qlowwi 薔薇
 {0}cs+kcdgikx.mwogvi 玫瑰
 {0}cs+kl+ha+iifrkxsr.oiemkenvulho 致命女郎
@@ -6564,6 +6574,7 @@
 {0}va+mkicf.xnuwui 小屋
 {0}va+mk+yyc.jbiycerie 金曜日
 {0}va+zt+xl+estfeous.xnujuioiihxi 小鞠知花
+{0}va+zvitf.xnuili 小窓
 {0}va+za+ehzlv.jbiofigui 金針菇
 {0}va+vr+zk+djgepjfnv.siezeoyjusre 四則演算
 {0}va+vwigf.xnuise 小銃
@@ -7435,9 +7446,12 @@
 {0}ow+kl+bs,lj+xkwkhigsdwcl.tsuheouiidneoge 統合失調症
 {0}ow+kfthvx.jnusiu 絞死
 {0}ow+froyohdz.fgexie 縫隙
+{0}oo.ggn.djeiui 淡出
 {0}oo.ce+rixccfubui.lbouuekvo 鱗樹蝰
+{0}oo.sdn.djerue 淡入
 {0}oo.dyn.djebdo 淡白
 {0}oo.dufun.djejie 淡季
+{0}oo.da+oo.ggnsn.djeruedjeiui 淡入淡出
 {0}oo.fygn.djesee 淡色
 {0}oo.judddn.djecdu 淡彩
 {0}os 不是
@@ -7843,6 +7857,7 @@
 {0}oa+jwyh.houtvu 火腿
 {0}oa+jklk.buetso 不同
 {0}oa+jjnk.bueuze 不受
+{0}spotify Spotify
 {0}sp+bxnnw.hdubao 海抜
 {0}sp+pcnw.hduliu 海里
 {0}sp+nwignw.hdulqo 海流
@@ -8972,6 +8987,8 @@
 {0}lw+db,dy+ms+dm+bkhiosstkjnwxnx,uekemeheiiue 促性腺激素释放激素
 {0}lw+fs+cx+dryiwouie.miooiimwutue 謎之美兎
 {0}lw+fjmdbwlo.llejpu 諒解
+{0}lovelive LoveLive!
+{-}lovelive Lovelive
 {0}lo.bgw.dmujii 点击
 {0}lo.yd+ujgwsn.dmufuexli 点复相
 {0}lo.nidow.dmumpe 点滅
@@ -9280,6 +9297,7 @@
 {0}lf+mkicwr.buewui 部屋
 {0}lf+zwxkjc.qteuio 确实
 {0}lf+zkwskjc.qtedke 确定
+{0}lf+vpzks.geidji 歌单
 {0}lf+vmdwr.bueffi 部分
 {0}lf+wsrfks.geijue 歌劇
 {0}lf+wlmklks.geicio 歌詞
@@ -9332,6 +9350,7 @@
 {0}lj+xg+xf+rmlwgktis.hcowuoyiowfe 毫无疑问
 {0}lj+xsktwg.lleyue 亮癒
 {0}lj+xluwl.gcijxe 高架
+{0}lj+tdbkwcl.dnexke 調性
 {0}lj+rt,fn+ohsxwlftyg.gcijpihjouue 高階函数
 {0}lj+rs+ml+szjkwlfuix.gcifuejxioio 高附加值
 {0}lj+riteuz.huodpo 胡蝶
@@ -9651,11 +9670,13 @@
 {0}ey+wlwiywt.yieuio 意識
 {0}ey+wllhxv.coewue 錯誤
 {0}ey+wllkxv.coewue 錯誤
+{0}ey+wljclw.ybidne 音調
 {0}ey+wljlw.ybigci 音高
 {0}ey+wk+oa+wfijwslk.ybixbebuetsi 音信不通
 {0}ey+ouzljux.moohuo 模糊
 {0}ey+ojjggv.coejto 錯覚
 {0}ey+su+xk+rk+dlkrjwislerr.ybileedrupmeuii 音楽短片師
+{0}ey+su+cp+wlskjwikc.ybileeliulye 音楽理論
 {0}ey+su+wsrfwi.ybileejue 音楽劇
 {0}ey+su+swi.ybileerfo 音楽人
 {0}ey+su+skkiwi.ybileehve 音楽会
@@ -10151,6 +10172,7 @@
 {0}ea+sbu.ldonmo 来年
 {0}ea+sy+fdnudki.ldodeojio 来得及
 {0}ea+stzu.ldohxo 来华
+{-}ea+sr+bk+hozxytprtj.uiejpeqkoxue 世界情緒
 {0}ea+sr+xa+ozitpr.uiejpedaeoje 世界大戦
 {0}ea+sr+rk+wddbktprwv.uiejpeyioiju 世界遺産
 {0}ea+sr+rk+dd,il+vfkntprwvwbkf.uiejpeyioijumkolue 世界遺産名録
@@ -11228,6 +11250,7 @@
 {0}du+ujkzp.ufuoai 審査
 {0}du+ggbp.boiiui 播出
 {0}du+ggdi.ueeiui 射出
+{0}du+ms+llixlbpwx.boifheqie 播放器
 {0}du+znbdi.ueejii 射撃
 {0}du+zzfsf.rzorru 柔軟
 {0}du+wmsxbp.boifhe 播放
@@ -12082,7 +12105,8 @@
 {0}kh+fytsb.bnuxle 表象
 {0}kh+fubio.suezia 素子
 {0}kh+filb.bnumko 表名
-{0}kcs+x 玫
+{0}kcs+x 致
+{1}kcs+x 玫
 {0}kci 玉
 {0}kcf,s 玖
 {0}kcj+jn 璦
@@ -12391,6 +12415,7 @@
 {0}ko+xjw.hdoyzu 还有
 {0}ko+rb,furjn.oiujbizia 襧津子
 {0}ko+hfuw.hdohcu 还好
+{0}ko+zuw.hdowwe 还未
 {0}ko+oubkjm.lkojki 灵精
 {0}ko+oa+hlwk.hdobueruo 还不如
 {0}ko+oa+steywk.hdobuecoe 还不错
@@ -12471,6 +12496,7 @@
 {0}kl+nvslj.tsoyue 同浴
 {0}kl+nwigs.heolqo 合流
 {0}kl+njklg.yjodse 岩洞
+{0}kl+xblmzs.heojio 合辑
 {0}kl+xa+ka+wv+kphzpwubj.fuewfobfuodiyce 富文本摘要
 {0}kl+tdbkj.tsoxke 同性
 {0}kl+rvslzp.fueyue 富裕
@@ -13569,7 +13595,7 @@
 {0}fi+ycuiwj.tsiuio 通時
 {0}fi+ykpckz.cjolle 残量
 {0}fi+nzwzkz.cjoziu 残滓
-{0}fi+xbwj.tsiiei 通车
+{-}fi+xbwj.tsiiei 通车
 {0}fi+xblmzb.orijio 专辑
 {0}fi+xrfukz.cjocyo 残存
 {0}fi+ub+bc,wudkrbokjdui.orijkiteexbi 专精特新
@@ -14422,6 +14448,7 @@
 {0}jix 욲
 {0}jic 욶
 {0}ji+ejvzx.xmedmu 献典
+{0}ji+jv+oj+rfjgvzxen.xmedmuxnifwe 献典消費
 {0}jdf+ 冗
 {0}jd+bxycg.mdeiyi 売春
 {0}jd+poixng.ifomoe 沉默
