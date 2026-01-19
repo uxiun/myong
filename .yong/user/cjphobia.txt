@@ -1664,6 +1664,7 @@
 {0}xm+rk+pxlllw.kaifwiybi 咖啡因
 {0}xm+rk+ukolllw.kaifwibwi 咖啡杯
 {0}xm+uznem.lieoii 荔枝
+{0}xm+ua+uwvxpf.njoziaxne 男子校
 {0}xm+hp.njonvu 男女
 {0}xm+hobkvk.gsijii 功績
 {0}xm+hotkzm.xpoyti 協約
@@ -4307,6 +4308,7 @@
 {0}hs+sklri.rfemke 认命
 {0}hs+lllfrj.uiepbu 饰品
 {0}hs+erzmx.gdugeo 改革
+{0}hs+ecelmx.gduuje 改善
 {0}hs+iyhmx.gdullo 改良
 {0}hs+ixmii.rfewwe 认为
 {0}hs+itkox.uueuie 数式
@@ -9726,6 +9728,7 @@
 {0}ey+fjmdbw.ybijpu 音解
 {0}ey+jbs.jpeyse 借用
 {0}ey+jp+uknkjxkg.moodmejio 膜電極
+{0}ey+jxonx.moerjo 漠然
 {0}ey+jxowdg.jkerjo 竟然
 {0}ey+jgdgwt.yiejme 意見
 {0}ey+jwmkux.mooxpu 模写
@@ -11373,6 +11376,7 @@
 {0}dm+ul+itkwdkc.fhiigouie 方程式
 {0}dm+uki.igobfu 成本
 {0}dm+uf.ndumue 乃木
+{0}dm+ua+cl+fufph.ndumueyrozia 乃木園子
 {0}dm+ua+cdnf.ndumuebju 乃木坂
 {0}dm+ua+dbtddip.igogouwue 成果物
 {0}dm+hobkvi.igojii 成績
@@ -11509,6 +11513,7 @@
 {0}dl+twetwl.oviyie 追憶
 {0}dl+uufiwl.ovimge 追梦
 {0}dl+ml+kcrfwlx.ovijxidce 追加到
+{0}dl+znbwl.ovijii 追撃
 {0}dl+wmsxwl.ovifhe 追放
 {0}dl+wlmgwl.ovijie 追記
 {0}dl+wlitkwl.oviuie 追試
