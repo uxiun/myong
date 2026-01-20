@@ -3437,6 +3437,7 @@
 {0}us+livnzx.jnesoi 教唆
 {0}us+ljgvzx.jneyro 教員
 {0}us+ecdbizx.jneyie 教義
+{0}us+dbizx.jnewou 教我
 {0}us+duwzzx.jnekei 教科
 {0}us+dlkrjzx.jneuii 教師
 {0}us+fifixc.zaodoi 雑多
@@ -4289,8 +4290,6 @@
 {0}hs+zfuox.uuezie 数字
 {0}hs+zjkvi.rfeofi 认真
 {0}hs+za+duodox.uueuiomnu 数十秒
-{-}hs+w 改変
-{-}hs+wvnmx.gdubme 改变
 {0}hs+wvdnmx.gdubme 改変
 {0}hs+wlkfmx.gdudke 改訂
 {0}hs+we+xa+uomkoxsw.uuewwewfodhe 数位文档
@@ -4405,6 +4404,7 @@
 {0}hd+ixmiifn.ueewwe 设为
 {0}hd+ihxnium.yzefai 诱发
 {0}hd+ihzifn.ueejie 设计
+{0}hd+ihddiidi.xpexpe 谢谢
 {0}hd+dnpifn.ueebwe 设备
 {0}hd+djklizl.hxetsu 话筒
 {0}hk 組
@@ -8990,7 +8990,6 @@
 {0}lw+fs+cx+dryiwouie.miooiimwutue 謎之美兎
 {0}lw+fjmdbwlo.llejpu 諒解
 {0}lovelive LoveLive!
-{-}lovelive Lovelive
 {0}lo.bgw.dmujii 点击
 {0}lo.yd+ujgwsn.dmufuexli 点复相
 {0}lo.nidow.dmumpe 点滅
@@ -10138,6 +10137,7 @@
 {0}ea+yx+itkkej.kdimueuie 开幕式
 {0}ea+yimrw.liejio 立即
 {0}ea+yfyt.uiejmi 世間
+{0}ea+nkdou.ldoyro 来源
 {0}ea+nkdok.kdiyro 开源
 {0}ea+nkflk.kdiheo 开河
 {0}ea+xmvk.kdibje 开办
@@ -10175,7 +10175,6 @@
 {0}ea+sbu.ldonmo 来年
 {0}ea+sy+fdnudki.ldodeojio 来得及
 {0}ea+stzu.ldohxo 来华
-{-}ea+sr+bk+hozxytprtj.uiejpeqkoxue 世界情緒
 {0}ea+sr+xa+ozitpr.uiejpedaeoje 世界大戦
 {0}ea+sr+rk+wddbktprwv.uiejpeyioiju 世界遺産
 {0}ea+sr+rk+dd,il+vfkntprwvwbkf.uiejpeyioijumkolue 世界遺産名録
@@ -12110,8 +12109,6 @@
 {0}kh+fytsb.bnuxle 表象
 {0}kh+fubio.suezia 素子
 {0}kh+filb.bnumko 表名
-{0}kcs+x 致
-{1}kcs+x 玫
 {0}kci 玉
 {0}kcf,s 玖
 {0}kcj+jn 璦
@@ -13600,7 +13597,6 @@
 {0}fi+ycuiwj.tsiuio 通時
 {0}fi+ykpckz.cjolle 残量
 {0}fi+nzwzkz.cjoziu 残滓
-{-}fi+xbwj.tsiiei 通车
 {0}fi+xblmzb.orijio 专辑
 {0}fi+xrfukz.cjocyo 残存
 {0}fi+ub+bc,wudkrbokjdui.orijkiteexbi 专精特新
@@ -14681,6 +14677,7 @@
 {0}ja+bdzqs.nweiai 内插
 {0}ja+bkpwix.yzuduo 有毒
 {0}ja+pxs.nweybi 内因
+{0}ja+przjks.nweoie 内置
 {0}ja+pm+stskr.nwemmehxe 内面化
 {0}ja+psrrx.yzujpe 有界
 {0}ja+yy.mkorie 明日
