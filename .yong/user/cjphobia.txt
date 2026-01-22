@@ -1383,6 +1383,7 @@
 {0}na+hk+na+oz+xk+ihitkniklkzhm.hjeyuuuvupkokcuuie 汉语水平考试
 {0}na+hk+wj+wloniklde.hjeyuupjodmu 汉语盘点
 {0}na+hfux.yzuhcu 友好
+{0}na+cornh.nuolie 奴隷
 {0}na+cilk.uvuyue 水域
 {0}na+cdgii.bkikke 氷塊
 {0}na+ms+sizllwsx.uvuzuogru 水族館
@@ -3552,6 +3553,7 @@
 {0}udf+i 楓
 {0}ud+bz,zxyrnzl.bwehdeoeu 被害者
 {0}ud+bsjggwkr.xbigvi 新規
+{0}ud+bizjrn.bwebuu 被捕
 {0}ud+bk+yd+im+ks+imwdmwkrdrgbxj.xbiugivrohuebkefho 新生児重症监护病房
 {0}ud+bk+rydgwkrd.xbiugivro 新生児
 {0}ud+ba+ux+dhuwkrst.xbinmokkelee 新年快乐
@@ -5054,6 +5056,7 @@
 {0}ca+usxcw.ouuqro 主権
 {0}ca+ul+kldpzpdkc.liuigobwi 里程碑
 {0}ca+uepyl.tuucco 吐槽
+{0}ca+uecnw.ouuyhe 主様
 {0}ca+uecns.uieyhe 仕様
 {0}ca+udnw.ouubju 主板
 {0}ca+udnlw.ouugeo 主格
@@ -6395,6 +6398,7 @@
 {0}vd+ta+dhiowns.bmehxexie 変化系
 {0}vd+rp+lm+vfknwnkxwg.bmeggejielue 変更記録
 {0}vd+rcwdhwn.bmeoli 変装
+{0}vd+gu+dlkrjigiwi.moodcuuii 魔導師
 {0}vd+hs+xd,ylownoxidd.bmeuuecjioce 変数参照
 {0}vd+hs+ra+hoijiwnoxu.bmeuueuuefue 変数束縛
 {0}vd+higi.moonvu 魔女
@@ -7862,11 +7866,13 @@
 {0}spotify Spotify
 {0}sp+bxnnw.hdubao 海抜
 {0}sp+pcnw.hduliu 海里
+{0}sp+nnw.hduuvu 海水
 {0}sp+nwignw.hdulqo 海流
 {0}sp+nebnw.hduyho 海洋
 {0}sp+xt+jk+slynwzcs.hdulcuosuoie 海老塚智
 {0}sp+xe,ss,gkkznwgkj.hduxxolluvje 海峡两岸
 {0}sp+rc,zvknwfvc.hdulueksi 海陸空
+{0}sp+riztnw.hduueo 海蛇
 {0}sp+uepynw.hducco 海槽
 {0}sp+gxenw.hduxxo 海峡
 {0}sp+gkkznw.hduvje 海岸
@@ -8264,6 +8270,7 @@
 {0}sm+evjcdl.iciqii 超期
 {0}sm+ea+lygcgu.qiuldobaa 起来吧
 {0}sm+ixmis.zoewwe 作为
+{0}sm+ixfos.zoewwe 作為
 {0}sm+iucg.qiuilo 起床
 {0}sm+idms.zoeigo 作成
 {0}sm+dbtdds.zoewue 作物
@@ -9224,6 +9231,7 @@
 {0}lk+uzwkl.yuumoe 語末
 {0}lk+uw+izpzwkloz.yuulnekue 語料庫
 {0}lk+hmc.ugenvu 聖女
+{0}lk+hofkszjv.veoyro 額縁
 {0}lk+hkjpuwkl.yuuhve 語彙
 {0}lk+ci+md+dk+llixlwklnvur.yuufauffixiiqie 語法分析器
 {0}lk+mdbgwkl.yuuwwu 語尾
@@ -11266,6 +11274,7 @@
 {0}du+ecxzp.ufumwu 審美
 {0}du+edufef.lielie 莉莉
 {0}du+ed,rkivokdd.qnixkoiso 鍬形虫
+{0}du+iojggwm.tzeuie 透視
 {0}du+iojdgwm.tzeuie 透视
 {0}du+db,jk+zyfreomgwc.qqiwwuwhedzi 萩尾望都
 {0}du+dy+jm.wrkdeokokk.qqiyroxtubue 萩原雪歩
@@ -12035,6 +12044,7 @@
 {0}kg+efskwou.iiujki 歯茎
 {0}kg+ivklwou.iiumoo 歯磨
 {0}kg+iojkk.yrozuu 元祖
+{0}kg+dbtddo.gliwue 光物
 {0}kg+ku+zrpkz.yroyuuoze 元宇宙
 {0}kg+kh+wlmgkb.yrobnujie 元表記
 {0}kg+fuo.glizia 光子
@@ -14158,6 +14168,7 @@
 {0}jg+dbsy.mceuii 冒失
 {0}jg+dbid.ziewou 自我
 {0}jg+dqdd.zieufi 自身
+{0}jg+dyd.ziebdo 自白
 {0}jg+dnu.xlifju 相反
 {0}jg+dufou.xliigi 相称
 {0}jg+dufod.zieigi 自称
