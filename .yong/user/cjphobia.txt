@@ -9643,6 +9643,7 @@
 {0}ey+yd+lm+wlwiywcwit.ybiugirfeuio 音声認識
 {0}ey+ykpcw.ybille 音量
 {0}ey+nzkvux.mooyju 模演
+{0}ey+nkdow.ybiyro 音源
 {0}ey+nkflnx.moeheo 漠河
 {0}ey+xa+qv+ihnbwie.ybiyiejmiyie 音义兼译
 {0}ey+xa+na+ihnbwin.ybiyieuliyie 音义双译
@@ -14791,6 +14792,7 @@
 {0}ja+ieny.mkodue 明度
 {0}ja+iijy.mkolhu 明朗
 {0}ja+ififx.yzuxue 有序
+{0}ja+ijttx.yzungo 有能
 {0}ja+ia+ry+dhiosxfkd.nwetdeyhoxie 内太陽系
 {0}ja+ia+fuyx.mkotdezia 明太子
 {0}ja+dbkx.yzuugi 有生
