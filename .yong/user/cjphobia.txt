@@ -4550,6 +4550,7 @@
 {0}cy+wsr.uuiyui 書込
 {0}cy+wlctr.uuioie 書誌
 {0}cy+wlcjgr.uuiduo 書読
+{0}cy+wdmr.uuifhi 書方
 {0}cy+oxkjvr.uuilwe 書類
 {0}cy+sukr.uuitiu 書体
 {0}cy+itkr.uuiuie 書式
@@ -14082,6 +14083,7 @@
 {0}jg+ga+kk.fdndmwl.ziejiuyjojio 自己言及
 {0}jg+ga+kj+kw+iltdmwzs.ziejiukfudkegju 自己肯定感
 {0}jg+ga+fu+lkdnldmyd.ziejiubielue 自己閉路
+{0}jg+ga+fk+kkodmye.ziejiukdiuie 自己開示
 {0}jg+ga+jg+shisdmu.ziejiuxliuie 自己相似
 {0}jg+ga+jjtndm.ziejiuvde 自己愛
 {0}jg+ht+ojldgdl.ziembodhu 自民党
