@@ -3069,6 +3069,7 @@
 {0}rj+ihkklex.ykiyuu 英语
 {0}rj+iltdgv.oiegju 質感
 {0}rj+dbtddpgv.mduwue 買物
+{0}rj+dbtddfso.jiewue 際物
 {0}rj+dbgfmt.ybumco 隠毛
 {0}rj+dqdfmt.ybuufi 隠身
 {0}rj+dytidgv.oiedea 質的
@@ -13190,6 +13191,7 @@
 {0}ka+sa+dufo.yiirfoigi 一人称
 {0}ka+ly+ey+itkssux.tsooiemoouie 仝智模式
 {0}ka+lmkjvw.uhevee 上顎
+{0}ka+lllw.uhepbu 上品
 {0}ka+lf+jxxkwr.vrebuewhu 二部网
 {0}ka+ebjgw.uheoea 上着
 {0}ka+en+zrknki.vredueqbu 二度寝
@@ -14486,6 +14488,7 @@
 {0}jd+sssng.griose 观众
 {0}jd+siyhjg.mieuio 觅食
 {0}jd+ik.okfkqgr.niohsodgi 霓虹灯
+{0}jd+dlgnc.ybolre 淫乱
 {0}jk 且
 {0}jkm+s 豚
 {0}jkz 읖
@@ -14615,6 +14618,7 @@
 {0}jf+si+md+pcfifoudvfv.xtouueffiyeu 学術分野
 {0}jf+skkiou.xtohve 学会
 {0}jf+sfxnu.fuoqie 浮気
+{0}jf+eniinu.fuobco 浮薄
 {0}jf+eg+jghobmuj.jkeghixme 静岡県
 {0}jf+eveuou.xtoyee 学業
 {0}jf+evjou.xtoqii 学期
@@ -14791,6 +14795,7 @@
 {0}ja+eidms.nwezhi 内蔵
 {0}ja+ejkss.nwemgo 内蒙
 {0}ja+ixmix.yzuwwe 有为
+{0}ja+ixfox.yzuwwe 有為
 {0}ja+ieny.mkodue 明度
 {0}ja+iijy.mkolhu 明朗
 {0}ja+ififx.yzuxue 有序
