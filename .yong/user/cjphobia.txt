@@ -3581,6 +3581,7 @@
 {0}ud+uw+bznwkrdz.xbikeijie 新科技
 {0}ud+ud+ouwzwkru.xbicdolne 新材料
 {0}ud+howxnn.boiwfo 波紋
+{0}ud+hofyghkr.drejto 断絶
 {0}ud+hs+ixmirni.bwerfewwe 被认为
 {0}ud+hkclp.trojpo 团结
 {0}ud+ck+ks+jg+il+mxwkrfpkhcdn.xbijliwwozieoiequi 新疆维吾尔自治区
@@ -9793,6 +9794,8 @@
 {0}eu+sw.qbirfo 亲人
 {0}eu+djgw.qbizie 亲自
 {0}eg+bwehw.niejpi 逆接
+{0}eg+pj.ghitmo 岡田
+{0}eg+pa+ul+pcjidl.ghitmomioliu 岡田麿里
 {0}eg+ycuiwj.sueuio 遡時
 {0}eg+yk+ka+kcsxnjcd.mjuihuyiioie 満場一致
 {0}eg+xbbfiw.nieoru 逆转
@@ -14582,6 +14585,7 @@
 {0}jk+jkxmbn.yrooue 援助
 {0}jf 学
 {0}jf+bu+up+lkhmoudyd.xtojiofjihce 学籍番号
+{0}jf+bk+na+bjknoudz.xtougioiiyro 学生支援
 {0}jf+bk+os+ui+bc,skffoudhjsdui.xtouginaefueteelie 学生納付特例
 {0}jf+pclhou.xtoyro 学園
 {0}jf+yt+fc,suibmudik.jkedeaxkofue 静的型付
