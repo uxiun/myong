@@ -653,6 +653,7 @@
 {0}pz+pls.mwuhvo 毎回
 {0}pz+yg+dhioof.djiseexie 単色系
 {0}pz+ys.mwurie 毎日
+{0}pz+nu+rcydld.geetnouui 箇条書
 {0}pz+nu+rjmkhdld.geetnoohe 箇条帳
 {0}pz+xbxfv.djigvu 单轨
 {0}pz+xdrkio.djiduo 単独
@@ -4376,6 +4377,7 @@
 {0}hi+uudui.jiicdo 機材
 {0}hi+ueejui.jiigze 機構
 {0}hi+uieui.jiixpe 機械
+{0}hi+ud+wvdnuidzc.jiiosubme 機種変
 {0}hi+howigdo.xietsu 系統
 {0}hi+heqvui.jiixmo 機嫌
 {0}hi+hi+lygitkitk.uieuiebaa 试试吧
@@ -4403,6 +4405,7 @@
 {0}hi+ijttui.jiingo 機能
 {0}hi+dytiss.uiedea 似的
 {0}hi+dubkvpo.lwejii 累積
+{0}hi+dudzcui.jiiosu 機種
 {0}hi+dcxmui.jiidse 機動
 {0}hi+douss.uiehui 似乎
 {0}hi+dk+hoskisswjv.uieyjohve 似顔絵
@@ -5535,7 +5538,6 @@
 {0}md+eidmdkr.souzhi 所蔵
 {0}md+ejsxv.ffisje 分散
 {0}md+ixmiv.ffiwwe 分为
-{-}md+ihzfxr.iuiduo 初读
 {0}md+ihvlgdkr.souuoi 所说
 {0}md+il+ncivn.ffioiefau 分治法
 {0}md+il+strh.iuiuiuhxe 初始化
@@ -6323,6 +6325,7 @@
 {0}vu+puijd.cdotro 財団
 {0}vu+yfsijd.cdofao 財閥
 {0}vu+xrjjd.cdobue 財布
+{0}vu+rj+sc+ezjrjjdxbm.cdobuexpodde 財布携帯
 {0}vu+zklpjd.cdofue 財富
 {0}vu+wddbkjd.cdoiju 財産
 {0}vh+rydgj.ykivro 嬰児
@@ -6398,6 +6401,7 @@
 {0}vl.fygjg.toisee 脱色
 {0}vl.fjbvg.rvejnu 鋭角
 {0}ve+psrreu.yeejpe 業界
+{0}ve+zxyeu.yeeoeu 業者
 {0}ve+wlcjgjej.gzeduo 購読
 {0}ve+sr+ba+wlkkleuprj.yeejpeyseyuu 業界用語
 {0}ve+sdjej.gzerue 購入
@@ -9364,6 +9368,7 @@
 {0}lf+wsrfks.geijue 歌劇
 {0}lf+wlmklks.geicio 歌詞
 {0}lf+wljsgks.geiyco 歌謡
+{0}lf+wiszkhk.maulve 码率
 {0}lf+wjkcvs.yuewhe 欲望
 {0}lf+st+ta+kevklst.geilyobiuyae 哥伦比亚
 {0}lf+svmdwr.bueffe 部份
@@ -9525,6 +9530,7 @@
 {0}lj+fjcps.yrojnu 圆角
 {0}lj+fjmdbwcl.dnejpu 調解
 {0}lj+jbwcl.dneyse 調用
+{0}lj+jm.sfyswlfdb.gcijpuxle 高解像
 {0}lj+jwvxps.yrojni 圆胶
 {0}lj+jobowl.gcitgo 高騰
 {0}lj+jk+mmlwclu.dneoaijuo 調査局
@@ -10385,6 +10391,7 @@
 {0}it+bkhs.ddebnu 代表
 {0}it+przjkj.xrooie 悬置
 {0}it+pcfifm.rfuyeu 忍野
+{0}it+njfuj.xrofuo 悬浮
 {0}it+hs+sm+jbsoxs.ddeuuezoeyse 代数作用
 {0}it+hkxhvs.ddelme 代练
 {0}it+cp+sskc.ddeliurfo 代理人
@@ -10408,6 +10415,7 @@
 {0}it+klfhks.ddemau 代码
 {0}it+kjkkvm.wwelko 慰霊
 {0}it+jbs.ddeyse 代用
+{0}it+jf+kciznjnu.xrofuoqqo 悬浮球
 {0}it+jjnm.rfuuze 忍受
 {0}ir+bkpwirie.guuduo 蠱毒
 {0}ir+xmfi.qlolie 強力
@@ -14038,6 +14046,7 @@
 {0}jr+rz+wlmklefpjk.qmooiecio 前置詞
 {0}jr+uekr.vroldo 而来
 {0}jr+udxjef.qmoqno 前橋
+{0}jr+ud+wiszmfwkr.uxixbilve 刷新率
 {0}jr+honnnef.qmoove 前綴
 {0}jr+hotkdf.oieyti 制約
 {0}jr+hodynef.qmoxme 前線
@@ -14328,6 +14337,7 @@
 {0}jm.wjscfdb.jpulio 解離
 {0}jm.ouecokk.xtugci 雪糕
 {0}jm.skk.xturfo 雪人
+{0}jm.sfysfdb.jpuxle 解像
 {0}jm.lf+llixlfdbkhk.jpumauqie 解码器
 {0}jm.estkk.xtuhxi 雪花
 {0}jm.ee,zfufdbuj.jpugzezie 解構字
