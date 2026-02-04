@@ -1044,6 +1044,7 @@
 {0}yk+km+fd+esudczshm.hlojxinduiao 皇家奶茶
 {0}yk+kkobs.tiouie 提示
 {0}yk+filbs.tiomko 提名
+{1}yfs 閃
 {0}yf+ytdddy.jmuyie 簡易
 {0}yf+yjdy.jmumko 簡明
 {0}yf+nbdody.jmujpo 簡潔
@@ -1110,6 +1111,7 @@
 {0}ya+hodhtd.bdooiu 白紙
 {0}ya+heku.riemwo 日媒
 {0}ya+czmrn.riebce 日報
+{0}ya+cw+oj+wlkklkigik.rielqozuuyuu 日琉祖語
 {0}ya+ci+ouvmddk.bdoyueffu 白玉粉
 {0}ya+msykd.bdooze 白昼
 {0}ya+mdxnd.bdofae 白髪
@@ -1172,6 +1174,7 @@
 {0}ya+ka+ms+ex,xm+skkiuwxwzm.riebfufhessexpohve 日本放送協会
 {0}ya+ka+wlkklu.riebfuyuu 日本語
 {0}ya+ka+wddbku.riebfuiju 日本産
+{0}ya+ka+oj+wlkkluik.riebfuzuuyuu 日本祖語
 {0}ya+ka+su.riebfurfo 日本人
 {0}ya+ka+jx+dskkfur.riebfuyhixko 日本央行
 {0}ya+ka+jf+kk.qj+skkiuoubhdv.riebfuxtoofexkehve 日本学術振興会
@@ -2001,6 +2004,7 @@
 {0}xa+ci+sizllkkzn.tmiqqogru 天球館
 {0}xa+ci+db,wlevykeeyk.tmigdexkipuu 天蓋星譜
 {0}xa+ckkik.tmitjo 天坛
+{0}xa+cf,ekvpspif.uiuyeuqme 矢野茜
 {0}xa+cf,kcprhwpif.wfoyeuhro 文野環
 {0}xa+ca+ui+cw+xkkokkckgj.tmiwhosielionde 天王寺璃奈
 {0}xa+mrmr.daeifo 大臣
@@ -2318,6 +2322,7 @@
 {0}tw+mk+gkrko.wuudhiuji 武当山
 {0}tw+znbwdh.xiojii 襲撃
 {0}tw+wxseg.jketzo 镜头
+{0}tw+wedgkrk.wuudce 武道
 {0}tw+we+hs+bmzlsxbbhox.lmejpiuuejue 链接数据
 {0}tw+we+fk+ms+hs+bmzlsxbbhyewxox,mepidiheueue 链接開放数据
 {0}tw+omkkrk.wuudhi 武当
@@ -2327,6 +2332,7 @@
 {0}tw+lkdnlsxb.lmelue 链路
 {0}tw+epnk.jiimno 鸡苗
 {0}tw+eesl.zrijku 钻井
+{0}tw+ed,sizllkrkwg.wuudcegru 武道館
 {0}tw+id+pcfifkrkem.wuuzhiyeu 武蔵野
 {0}tw+ij+skkisxbzi.lmeboohve 链博会
 {0}tw+kxmkrk.wuugsi 武功
@@ -4962,6 +4968,7 @@
 {0}ck+zdnlijv.guekee 顧客
 {0}ck+sluko.hrobcu 环保
 {0}ck+sj+mf+kpjklkokfu.hrobkuyyetso 环丙孕酮
+{0}ck+emrko.hrojpo 环节
 {0}ck+dn+up+lkhmijvzld.guekeefjihce 顧客番号
 {0}ck+jxxko.hrowhu 环网
 {0}ck+jkkvkkg.wjojue 玩具
@@ -5570,6 +5577,7 @@
 {0}md+jbv.ffiyse 分用
 {0}md+jugvv.pboruu 貧乳
 {0}md+js+md+udkrvexv.ffisjeffixii 分散分析
+{0}md+jdgdkr.soujme 所见
 {0}md+ja+cu+yfydkrxyi.souyzuuiojmi 所有時間
 {0}md+ja+vlfsdkrx.souyzuyue 所有欲
 {0}md+ja+dytidkrx.souyzudea 所有的
@@ -5626,6 +5634,7 @@
 {0}mk+lkdnlxi.tcelue 套路
 {0}mk+ebjgjd.jnioea 膠着
 {0}mk+eyxcb.scumue 扫墓
+{0}mk+ezjrjjd.jnidde 膠帯
 {0}mk+ekkvw.yuuqio 与其
 {0}mk+ejrfo.dhiqmo 当前
 {0}mk+ejurk.jqucde 韭菜
@@ -6159,6 +6168,7 @@
 {0}za+ykzk.gjehje 干旱
 {0}za+ykkhy.zcuifo 早晨
 {0}za+nurvy.zculde 早瀬
+{0}za+nmkjy.zculze 早漏
 {0}za+nwrdk.gjeuee 干渉
 {0}za+ty+jg+blbu.uiooiuxlikze 十指相扣
 {0}za+te+ds+tudeukc.qmiyeeyauyeu 千葉雅也
@@ -6199,6 +6209,7 @@
 {0}za+sixu.moefuo 末伏
 {0}za+sk+pa+sbskr.fgijmuyzorfo 丰俭由人
 {0}za+lzs.ufoyee 什叶
+{0}za+lj+kg+edufdxgvo.qmiheeglilie 千賀光莉
 {0}za+la+se+fudkbo.qmiuiofuuzia 千石撫子
 {0}za+ekuk.gjeyue 干芋
 {0}za+ejrfs.wuuqmo 午前
@@ -6295,6 +6306,8 @@
 {0}vx+swklw.jnixbe 交信
 {0}vx+ldyow.jnimko 交鳴
 {0}vx+ebkw.jniiae 交差
+{0}vx+dy+xmwlo.jnimkolie 交鳴力
+{0}vx+dy+frwezwlo.jnimkoohe 交鳴障
 {0}vx+dswcw.jniwhu 交往
 {0}vx+khfkw.jnihue 交互
 {0}vx+kjrkiw.jnirso 交融
@@ -7604,6 +7617,7 @@
 {0}od+cidmydd.ykuigo 影城
 {0}od+mmlhnw.osijuo 終局
 {0}od+mkhhss.zseohu 縦長
+{0}od+mk+ezjrjhhtjd.oiujnidde 紙膠帯
 {0}od+zzrphss.zseozo 縦軸
 {0}od+za+ms+dskkfhnwuwdh.osimoelvuxko 終末旅行
 {0}od+vfknb.icilue 抄録
@@ -8673,6 +8687,7 @@
 {0}sf+fhdnl.iiifje 吃饭
 {1}sj 內
 {0}sjzl 内容
+{0}sj+bymnie.dcecoi 盗撮
 {0}sj+bmznie.dceuee 盗摄
 {0}sj+nczbgg.gvioyu 規準
 {0}sj+nkdokgv.ziiyro 資源
@@ -11167,6 +11182,7 @@
 {0}dn+ma+wegkjzli.keehuedri 客户端
 {0}dn+zn+dn+lznlllll.geioiigeioii 咯吱咯吱
 {0}dn+zkwss.fjudke 仮定
+{0}dn+wprhw.fjuhdo 返還
 {0}dn+wtpju.piofui 皮膚
 {0}dn+wuipl.ltegoe 略过
 {0}dn+wlmklul.geocio 格詞
@@ -11189,6 +11205,7 @@
 {0}dn+ll.oa+kflwlk.fjupbubuekeu 返品不可
 {0}dn+la+szjkwp.fjuhvooio 返回值
 {0}dn+ebkul.geoiae 格差
+{0}dn+eg+vdyjuj.bjughijbu 板岡錦
 {0}dn+itw.fjuyki 返応
 {0}dn+itkul.geouie 格式
 {0}dn+iumpw.tuouui 图书
@@ -14119,6 +14136,7 @@
 {0}ju+uecnb.cduyhe 採様
 {0}ju+cioki.nderee 耐熱
 {0}ju+mznb.cduquu 採取
+{0}ju+vpze.cdedji 菜单
 {0}ju+wlwdmb.cdufhu 採訪
 {0}ju+wlevye.cdepuu 菜譜
 {0}ju+ogmkce.rsoyce 荣耀
@@ -14198,6 +14216,7 @@
 {0}jg+cx+jz+zzkkiddmwz.ziedseyyeoru 自動運転
 {0}jg+cwsd.ziezzu 自走
 {0}jg+cslgde.sreqiu 算起
+{0}jg+ca+sj+djrfdwbgg.zieouugvioie 自主規制
 {0}jg+m 自己
 {0}jg+mu.xkwkdrd.ziebieoge 自闭症
 {0}jg+mgsxdi.cregdu 篡改
@@ -14288,6 +14307,7 @@
 {0}jg+kekjvy.mcetzo 冒頭
 {0}jg+kixmd.ziedse 自动
 {0}jg+kk.wlkkldwl.zieyjoyuu 自言語
+{0}jg+kjmktv.ofixtu 眞雪
 {0}jg+ka+jr+kwdwkr.zieuhevroxxe 自上而下
 {0}jg+fskxtd.ziefai 自発
 {0}jg+fe+dh+ohsxuyxso.xligrixieuue 相関係数
@@ -14755,6 +14775,7 @@
 {0}jj.udnnj.hxobju 滑板
 {0}jj.udnlj.guugeo 骨格
 {0}jj.gu+weyjwi.guudcuybi 骨導音
+{0}jj.czphg.bgihke 崩壊
 {0}jj.ciwl.goeque 過去
 {0}jj.cjrkj.guuhuo 骨壺
 {0}jj.zu+tdbkyny.vdemwexke 曖昧性
