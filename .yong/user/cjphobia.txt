@@ -3500,6 +3500,7 @@
 {0}ui+pcu.cyiliu 村里
 {0}ui+yuiw.goeuio 过时
 {0}ui+nprzc.siezeo 寺澤
+{0}ui+nurvu.cyilde 村瀬
 {0}ui+nwign.dvelqo 对流
 {0}ui+nienw.goedue 过渡
 {0}ui+xmls.fuejxi 付加
@@ -3512,6 +3513,7 @@
 {0}ui+rdddr.ifeuji 衬衫
 {0}ui+rfnorl.thojli 糖浆
 {0}ui+rfjss.fuefwe 付费
+{0}ui+ur+rs+kxmunvsd.cyildexqigsi 村瀬修功
 {0}ui+uk+ka+kpvmdnek.dvebfuvreffi 对苯二酚
 {0}ui+ggs.fueiui 付出
 {0}ui+hi+sklwbs.goeniuheo 过拟合
@@ -6630,6 +6632,7 @@
 {0}va+md+ejsxev.gseffisje 共分散
 {0}va+mkicf.xnuwui 小屋
 {0}va+mk+yyc.jbiycerie 金曜日
+{0}va+zp+bxkxpdc.sieosezze 四重奏
 {0}va+zt+xl+estfeous.xnujuioiihxi 小鞠知花
 {0}va+zvitf.xnuili 小窓
 {0}va+za+ehzlv.jbiofigui 金針菇
@@ -6828,11 +6831,13 @@
 {0}wr+irfsk.qiuhxe 企划
 {0}wr+iojggkk.ogeuie 正視
 {0}wr+iksckk.ogeoyu 正准
+{0}wr+dy+kj+fuujkosn.uieyroyzizia 柿原優子
 {0}wr+dz+ykpcjjnl.fwehoolle 肺活量
 {0}wr+ditwksk.qiuveo 企鹅
 {0}wr+kpmrkk.ogemme 正面
 {0}wr+kgpsk.qiuhxe 企画
 {0}wr+klsjckk.ogeqte 正確
+{0}wr+kdyouj.uieyro 柿原
 {0}wr+ka+ia+xujui.uiebfugludae 柿本広大
 {0}wr+fwhikk.ogexmo 正弦
 {0}wr+fiwnd.ueewde 涉外
@@ -8678,6 +8683,7 @@
 {0}sf+zvkwx.yeeksi 夜空
 {0}sf+vk+pcwxz.yeeksiliu 夜空里
 {0}sf+ouirll.iiitho 吃糖
+{0}sf+oh+va+zp+bxkxwxupdc.yeeykisieosezze 夜桜四重奏
 {0}sf+okgl.iiigli 吃光
 {0}sf+silx.hzofoo 喉仏
 {0}sf+skkiwx.yeehve 夜会
@@ -12246,6 +12252,7 @@
 {0}kc+uk+epss.qrotiuqui 全体曲
 {0}kc+uk+dytiss.qrotiudea 全体的
 {0}kc+ht+ht+ca+ojldgpillw.goombomboouudhu 国民民主党
+{0}kc+ht+du+ujkpilzp.goomboufuoai 国民審査
 {0}kc+ht+fx+dqdslsb.qrombojmeufi 全民健身
 {0}kc+hoimjs.qrobmi 全編
 {0}kc+hodyns.qroxme 全線
@@ -13149,6 +13156,7 @@
 {0}kj+kl+ix+sthkssg.zuuheoyzihxe 组合优化
 {0}kj+kdscsn.yziyau 優雅
 {0}kj+frshk.zuudve 组队
+{0}kj+fusn.yzizia 優子
 {0}kj+jgkv.xlemue 項目
 {0}kj+jcirlu.cdujnu 踩脚
 {0}kj+jobmsn.yziuge 優勝
