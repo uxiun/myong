@@ -404,6 +404,7 @@
 {0}ba+hfuj.ysehcu 用好
 {0}ba+hfdmd.nqondu 牛奶
 {0}ba+csihs.nmoyte 年越
+{0}ba+cixm.uzuuie 手勢
 {0}ba+cjks.uzuosu 手塚
 {0}ba+ca+epduej.yhoduejyi 羊肚菌
 {0}ba+mehx.ieioju 车展
@@ -1090,6 +1091,7 @@
 {0}ya+ba+lllj.rieysepbu 日用品
 {0}ya+pr+nwsxdni.bdooooyee 白濁液
 {0}ya+pcod.bdohwi 白黒
+{0}ya+yx+pcey.riemueliu 日暮里
 {0}ya+ycui.rieuio 日時
 {0}ya+ymkc.rieyce 日曜
 {0}ya+ywlok.bdujku 百景
@@ -1382,6 +1384,7 @@
 {0}na+ur+mx+howiynvs.uvuldeyiioii 水瀬伊織
 {0}na+ur+wlfrdf.uvuliebue 水利部
 {0}na+ur+iodkrnv.uvuldeqio 水瀬祈
+{0}na+uznx.yzuoii 友枝
 {0}na+uwcz.oiioue 支柱
 {0}na+ui+zkcizs.oiifuebcu 支付宝
 {0}na+ukkon.ulibni 双标
@@ -3428,6 +3431,7 @@
 {0}uw+jf+sizlldzou.keixtogru 科学館
 {0}uo+nwksd.qqisee 秋渋
 {0}uo+typndj.ucimje 稍慢
+{0}uo+te+kdyodeu.qqiyeeyro 秋葉原
 {0}uo+gd.qqiuji 秋山
 {0}uo+ga+xy+fdmdb.qqiujiiyindu 秋山春乃
 {0}uo+wurdd.mnusue 秒速
@@ -5217,6 +5221,7 @@
 {0}mr+sisrjjn.fuouie 服飾
 {0}mr+skfe.jpoqie 节气
 {0}mr+ihvlglf.bpouoi 别说
+{0}mr+is+cidmjnsrj.fuouieigo 服飾城
 {0}mr+dnxmjn.fuowue 服务
 {0}mr+dudxjwj.gcijni 髙穚
 {0}mr+dclbn.bcegce 报告
@@ -8553,6 +8558,7 @@
 {0}sk+ur+ci+cesllldfn.hailiefautau 哈利法塔
 {0}sk+uudyjv.tiocdo 題材
 {0}sk+ugtfxt.faixlu 発想
+{0}sk+uvinv.bhissi 浜松
 {0}sk+ufudkf.xkoliu 行李
 {0}sk+uf+cs+wkkgdkfdmtkx.xkowfuoieyru 行稳致远
 {0}sk+ujkus.jmuoai 検査
@@ -8579,6 +8585,7 @@
 {0}sk+zhudl.daovje 答案
 {0}sk+zkwsus.jmudke 検定
 {0}sk+zjhious.jmusou 検索
+{0}sk+vi+pkfnvu.bhissitki 浜松町
 {0}sk+vfknfle.dgilue 登録
 {0}sk+wczy.sueouu 宿主
 {0}sk+wcebfxt.faidao 発達
@@ -9144,6 +9151,7 @@
 {0}lli+x 哭
 {0}ll.bzvkbu.ccikse 操控
 {0}ll.nzkvbu.cciyju 操演
+{0}ll.rrrl.pbuiri 品川
 {0}ll.rrdpzl.pbupdo 品牌
 {0}ll.hodssbu.ccizse 操縦
 {0}ll.mkftch.sheuii 喪屍
@@ -10090,6 +10098,7 @@
 {0}ee,bmznm.pkouee 屏摄
 {0}ee,bkfs.bkedau 併打
 {0}ee,pwxuj.gzetuo 構図
+{0}ee,yx+is+pdnwmejzc.pkomuejpotuo 屏幕截图
 {0}ee,njvuw.jbeufi 进深
 {0}ee,xrfus.bkecyo 併存
 {0}ee,xa+uujw.gzewfomue 構文木
@@ -10633,6 +10642,7 @@
 {0}isi 冷
 {0}is+bt,ju+tdbkeudddki.ycewuendexke 薬物耐性
 {0}is+bhhfbx.vdizai 挨拶
+{0}is+pdnwzc.jpotuo 截图
 {0}is+yg+kfrfhf.yiuseelpe 以色列
 {0}is+ya+fj+wudkrhrbx.yiujqehrexbi 以旧换新
 {0}is+nwsxeu.yceyee 薬液
@@ -13185,6 +13195,7 @@
 {0}ka+nu+cuid.yiitnosie 一条寺
 {0}ka+nu+wudkrd.yiitnoxbi 一条新
 {0}ka+nu+wi+ydbkdng.yiitnolqoxki 一条流星
+{0}ka+nu+dsccfd.yiitnojpi 一条街
 {0}ka+nspwn.jlihdu 江海
 {0}ka+nspww.uhehdu 上海
 {0}ka+nkvpe.gjijqu 甘酒
@@ -13198,6 +13209,7 @@
 {0}ka+rt,ojlckfty.vrejpitho 二階堂
 {0}ka+rt,iz+lk+ls+kcpcftywvwklwkj.yiijpiuueyuulyeliu 一階述語論理
 {0}ka+rt,jl+cd+hmrrkftyockzu.vrejpithoouijii 二階堂珠姫
+{0}ka+rt,jl+jx+wkgoukftyocd.vrejpithovceiiu 二階堂奥歯
 {0}ka+rrore.gjisue 甘肃
 {0}ka+rrkr.yiipme 一片
 {0}ka+rj+dytiudgv.bfuoiedea 本質的
@@ -13821,6 +13833,7 @@
 {0}fk+ui+wkwfjss.yuefuekau 预付卡
 {0}fk+udnldri.fgigeo 風格
 {0}fk+ujrfdri.fgicie 風刺
+{0}fk+gp+ilvnk.luehxetdo 録画台
 {0}fk+gd+is+kkdrijgxc.fgijmexsovre 風見雄二
 {0}fk+hilye.kdiuiu 開始
 {0}fk+ms+itkyewx.kdifheuie 開放式
@@ -13943,6 +13956,7 @@
 {0}jp+kjfxck.lwotko 雷霆
 {0}jp+fx+sitkgs.dmeqiedde 電気代
 {0}jp+fx+ebkgs.dmeqieyho 電気羊
+{0}jp+fx+dsccfkgs.dmeqiejpi 電気街
 {0}jp+fukg.dmezia 電子
 {0}jp+jx+vd+xa+uu.dbcuikdekrwu.lwovcesiiwfosfitee 雷奥斯･文森特
 {0}jp+jx+evdkrkd.lwovcesii 雷奥斯
@@ -13993,6 +14007,7 @@
 {0}jx+ua+va+evdkrdum.vcelbopiusii 奥林匹斯
 {0}jx+hm.scjnfk.vdemauuie 爱马仕
 {0}jx+zxyfm.ysuoeu 勇者
+{0}jx+wkgoud.vceiiu 奥歯
 {0}jx+wkkid.vceyye 奥运
 {0}jx+oupodm.jbilme 筋煉
 {0}jx+ouwzoo.rjolne 燃料
@@ -14993,4 +15008,5 @@
 {0}aio ō
 {0}aie ē
 {0}aii ī
+{0}aikatsu アイカツ
 {0}aia ā
