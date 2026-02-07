@@ -10734,6 +10734,8 @@
 {0}il+jr+vk+yfyfefz.mkoqmoksijmi 名前空間
 {0}il+jv+swjvfbu.mkotjeofi 名探偵
 {0}il+jdbkf.mkouge 名胜
+{0}il+jf+rz+xa+djfupkdufkg.gooxtoyredaexto 國學院大學
+{0}il+jf+frzkgpkdu.gooxtoyre 國學院
 {0}ie 戒
 {0}ie+bomkwo.oeidhu 遮挡
 {0}ie+usxcwu.qieqro 棄権
@@ -11827,6 +11829,7 @@
 {0}djx 奥
 {0}djx+m 筋
 {0}djg 自
+{0}djf+u 學
 {0}dj+btteg.uzupii 首批
 {0}dj+pdnlog.ugulte 省略
 {0}dj+ytdddgv.mceyie 貿易
@@ -12942,6 +12945,7 @@
 {0}kk.idmzg.wjoigo 完成
 {0}kk.id+jghoescm.cioigoxme 茨城県
 {0}kk.ikscuo.bnioyu 标准
+{0}kk.ijttei.yyongo 芸能
 {0}kk.db,csckyk.sjixkidvi 三星堆
 {0}kk.dqjvbh.ofexke 振興
 {0}kk.dy+jvrfkko.sjiyrozeo 三原則
@@ -12970,6 +12974,7 @@
 {0}kk.kixmwi.yyedse 运动
 {0}kk.kiceh.ufeoie 甚至
 {0}kk.kj+mxtwkkkij.sjilievzi 三丽鸥
+{0}kk.ka+zn+howiykwu.sjiuheoiioii 三上枝織
 {0}kk.fygh.hsosee 红色
 {0}kk.frkljwg.yrugeo 远隔
 {0}kk.filjv.juemko 具名
@@ -12979,6 +12984,7 @@
 {0}kk.fjbk.sjijnu 三角
 {0}kk.fjck.sjijnu 三角
 {0}kk.jbwi.yyeyse 运用
+{0}kk.jt+psrreiit.yyongojpe 芸能界
 {0}kk.jg+dsuiwide.yyesrefuo 运算符
 {0}kk.jg+djrfsilv.hveyrooie 会員制
 {0}kk.jc+md+ekezkfr.sjijnuiuihxo 三角初華
@@ -14084,6 +14090,7 @@
 {0}jr+teef.qmouie 前世
 {0}jr+rz+rs+sisrjefpjksd.qmooiexqiuie 前置修飾
 {0}jr+rz+wlmklefpjk.qmooiecio 前置詞
+{0}jr+rs+nwxroffku.xtiiuojie 削除済
 {0}jr+uekr.vroldo 而来
 {0}jr+udxjef.qmoqno 前橋
 {0}jr+ud+wiszmfwkr.uxixbilve 刷新率
