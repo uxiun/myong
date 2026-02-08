@@ -3325,6 +3325,7 @@
 {0}ur+ga+dytidfm.liejiudea 利己的
 {0}ur+hdbkd.osuxke 种姓
 {0}ur+hkjkdt.igozuu 乘组
+{0}ur+czmrnw.suebce 速報
 {0}ur+mgdf.liejiu 利己
 {0}ur+wmssxd.osuzuo 种族
 {0}ur+wlodf.liedmu 利点
@@ -9090,6 +9091,7 @@
 {0}lo.ui+wlown.dmudvedmu 点对点
 {0}lo.ujgy.ocexli 照相
 {0}lo.gj+ujgwjjb.dmuuyexli 点瞬相
+{0}lo.ca+hodynwk.jkiwhoxme 京王線
 {0}lo.zyfrw.jkidzi 京都
 {0}lo.za+klkubl.lboyeeuio 磷叶石
 {0}lo.wleciwo.tjoyie 談議
@@ -9764,6 +9766,7 @@
 {0}ey+zzxfw.ybigvu 音軌
 {0}ey+zkux.moouie 模士
 {0}ey+zjhioux.moosou 模索
+{0}ey+vfilw.ybimko 音銘
 {0}ey+wmstub.coeuii 措施
 {0}ey+wlcjgw.ybiduo 音読
 {0}ey+wlmswt.yieyie 意訳
@@ -10081,6 +10084,7 @@
 {0}ess,c 難
 {0}esi+l 蒼
 {0}esk+l 荷
+{0}es+rz+wlgvddsfkg.oseyrexru 衆院選
 {0}es+csmgbl.daiqiu 搭起
 {0}es+zixbbl.daizde 搭载
 {0}es+zizpzbl.daizde 搭載
@@ -13822,6 +13826,7 @@
 {0}fk+bt,wlcuidriddd.fgiwueuii 風物詩
 {0}fk+bznyei.dzejie 闘技
 {0}fk+bdupye.kdiboi 開播
+{0}fk+pk+ur+czmrnyekkow.kdipnesuebce 開票速報
 {0}fk+yx+epyeej.kdimuequi 開幕曲
 {0}fk+yx+itkyeej.kdimueuie 開幕式
 {0}fk+ywlodri.fgijku 風景
@@ -13879,6 +13884,7 @@
 {0}fk+dwdfldri.fgiiro 風船
 {0}fk+djrffjs.yueoie 预制
 {0}fk+djgefjs.yuesre 预算
+{0}fk+kpkkoye.kdipne 開票
 {0}fk+kgpvn.luehxe 録画
 {0}fk+kkoye.kdiuie 開示
 {0}fk+kk.itkyesi.kdihveuie 開会式
