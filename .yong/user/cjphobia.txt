@@ -679,6 +679,7 @@
 {0}pz+sa+up+lkhmsld.geerfofjihce 個人番号
 {0}pz+sa+oi+lkhmslhmj.geerfobmihce 個人編号
 {0}pz+sa+sj+ouwzslkgv.geerfoziilne 個人資料
+{0}pz+sa+dytisl.geerfodea 個人的
 {0}pz+lmrfsl.geebpo 個別
 {0}pz+ihmklv.djicio 单词
 {0}pz+ihjclv.djidne 单调
@@ -899,6 +900,7 @@
 {0}yh+nkdou.gfiyro 根源
 {0}yh+nkflv.yboheo 銀河
 {0}yh+tdbku.gfixke 根性
+{0}yh+tdbki.lloxke 良性
 {0}yh+ulv.yboxke 銀杏
 {0}yh+uku.gfibfu 根本
 {0}yh+hfui.llohcu 良好
@@ -1003,6 +1005,7 @@
 {0}yd+jk+shisczv.ugiofiuie 声真似
 {0}yk 星
 {0}ykj+i 曇
+{0}yk+pm+zk+bfjxcdkrzki.ihummeoruhre 場面転換
 {0}yk+yy.zxybsl.tioiheoeu 提唱者
 {0}yk+ykwss.djeuie 但是
 {0}yk+nilnd.thioie 湯治
@@ -1342,6 +1345,7 @@
 {0}nj+zxymgv.xmooeu 賢者
 {0}nj+wlfrm.tyobue 臀部
 {0}nj+wkde.pjouhe 盤上
+{0}nj+smgv.xmorfo 賢人
 {0}nj+ei+xksjmjm.ufezhebke 腎臓病
 {0}nj+ka+gw+bzndewweg.pjouhejkejie 盤上競技
 {0}nj+jeimm.ufezhe 腎臓
@@ -1911,6 +1915,7 @@
 {0}xf+twmgj.yiodcu 胰岛
 {0}xf+tk+km+wjscmsilm.vziuiejuelio 欧式距離
 {0}xf+rmltis.yiowfe 疑问
+{0}xf+ua+kcimf.kciziayue 尻子玉
 {0}xf+vepbm.pcimco 抛錨
 {0}xf+wm+bkhiojtg.yiodcusue 胰岛素
 {0}xf+stepbm.pcimco 抛锚
@@ -2477,6 +2482,7 @@
 {0}ta+mt+nd+przjkifdf.ykijioiuuoie 応急処置
 {0}ta+zbxr.osiuio 忠実
 {0}ta+zxkhmp.siikcu 思考
+{0}ta+zhup.siivje 思案
 {0}ta+zzwvxt.biujne 比較
 {0}ta+zw,zk+jg+futzvxnvde.biujneyjusrezia 比較演算子
 {0}ta+zevst.biusde 比赛
@@ -2978,6 +2984,7 @@
 {0}rk+kk.vwzzkjv.gsijuelme 工具鏈
 {0}rk+kk.fuwvsi.yioyyozia 遺伝子
 {0}rk+kk.jd+ofljgzng.geovjegrihou 隔岸观火
+{0}rk+kfrfbw.pdolpe 排列
 {0}rk+fygus.tcosee 桃色
 {0}rk+frprjrr.pmeyuo 片隅
 {0}rk+frzpzj.yroofe 円陣
@@ -3996,6 +4003,7 @@
 {0}gu+wlosx.qtidmu 缺点
 {0}gu+odsx.qtiucu 缺少
 {0}gu+sdwi.dcurue 導入
+{0}gu+sdli.dcurue 导入
 {0}gu+ljsli.dcuyro 导员
 {0}gu+dzllli.dcugru 导管
 {0}gu+dwwdfli.dcuhho 导航
@@ -5166,7 +5174,6 @@
 {0}mnc 堅
 {1}mnc 쫂
 {0}mnj+ 臀
-{0}mnj+gv 贀
 {0}mx 区
 {0}mx+pkcis.yiigoo 伊国
 {0}mx+tu+xl+ik.kgdnscsr.yiidieoiihsoxxe 伊地知虹夏
@@ -5484,6 +5491,7 @@
 {0}md+tr.iuixbi 初心
 {0}md+ta+zxyr.iuixbioeu 初心者
 {0}md+rr.iuiosi 初中
+{0}md+rc,ctudkrx.souzdedie 所在地
 {0}md+rkrfv.ffihxe 分劃
 {0}md+rkidg.dziiso 兜虫
 {0}md+rk+pwxvj.ffiyrotuo 分円図
@@ -8538,6 +8546,7 @@
 {0}sk+ydbkdkf.xkoxki 行星
 {0}sk+yd+ou+mkdyfxtchpo.faiugilmexio 発声練習
 {0}sk+yk+sa+dbtddflecd.dgiihurfowue 登場人物
+{0}sk+yfydkf.xkojmi 行間
 {0}sk+yjfxt.faimko 発明
 {0}sk+nrpnf.qieyzo 汽油
 {0}sk+nwcfxt.faioue 発注
@@ -10729,6 +10738,7 @@
 {0}il+dbtddf.mkowue 名物
 {0}il+db,la+wwrvfjkz.mkougeguujie 名胜古迹
 {0}il+dykch.uiuhlo 始皇
+{0}il+dniif.mkobue 名簿
 {0}il+dufof.mkoigi 名称
 {0}il+kuh.uiuyuo 始于
 {0}il+kcpcn.oieliu 治理
@@ -13046,8 +13056,10 @@
 {0}kf+wxsf.liewfo 例文
 {0}kf+wtwdhxl.qioxio 奇襲
 {0}kf+wuihsk.jkigoe 经过
+{0}kf+wsrfb.daukee 打刻
 {0}kf+wloxl.qiodmu 奇点
 {0}kf+wlofik.roedmu 弱点
+{0}kf+wepcnl.heotso 河童
 {0}kf+weyzks.cieohi 次章
 {0}kf+wdclb.dauzce 打造
 {0}kf+wkwb.daukau 打卡
@@ -14228,6 +14240,7 @@
 {0}jg+ga+negjdm.ziejiumju 自己満
 {0}jg+ga+rt,kpxfzdmfsg.ziejiutcozve 自己陶酔
 {0}jg+ga+ca+fmkhdmw.ziejiuouuohi 自己主張
+{0}jg+ga+zl+kcpcdmdl.ziejiugruliu 自己管理
 {0}jg+ga+wc+dduidmn.ziejiuoueuee 自己注射
 {0}jg+ga+om+srrdmhdl.ziejiuucejpe 自己紹介
 {0}jg+ga+eg+lwsdmnj.ziejiumjuzuo 自己満足
@@ -14372,6 +14385,7 @@
 {0}jc+lo.ouirlfkd.jnuuaitho 角砂糖
 {0}jc+ienf.jnudue 角度
 {0}jc+drjgvf.jnuoie 角質
+{0}jc+kkfswl.ozicie 週次
 {0}jc+fygf.jnusee 角色
 {0}jm.ywlokk.xtujku 雪景
 {0}jm.yjfdb.jpumko 解明
