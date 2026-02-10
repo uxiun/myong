@@ -508,6 +508,7 @@
 {0}pripara pripara
 {0}pri+para プリパラ
 {0}pr+ygyn.mjebai 曼巴
+{0}pr+yskjvkf.fuetio 副題
 {0}pr+ya+wlmgef.mgeriejie 夢日記
 {0}pr+nscwj.yuenjo 遇难
 {0}pr+ndzlsj.vzuhoo 偶活
@@ -1701,6 +1702,7 @@
 {0}xm+zkwszm.xpodke 協定
 {0}xm+za+diiis.wweufomea 为什么
 {0}xm+vd+hpwn.njobmenvu 男変女
+{0}xm+wcii.wweouu 为主
 {0}xm+wvjlzm.xpouhi 協商
 {0}xm+wvjlzv.xpouhi 协商
 {0}xm+wlecizm.xpoyie 協議
@@ -2623,6 +2625,7 @@
 {0}rx+kpiyhfu.ifonle 陈酿
 {0}rx+krjwfb.ofeyuu 阵雨
 {0}rx+kvpfe.ujuxii 陕西
+{0}rt,xieo.yjetde 燕太
 {0}rt,rrtpsc.liohre 罹患
 {0}rt,mvpyfty.jpicgo 階層
 {0}rt,zxyr.hreoeu 患者
@@ -2735,6 +2738,7 @@
 {0}rz+wscfkg.yrejbe 院進
 {0}rz+wlitkfkg.yreuie 院試
 {0}rz+sklre.geomke 革命
+{0}rz+sjfpz.ofenwe 陣内
 {0}rz+filpxy.uuumko 署名
 {0}rv 順
 {0}rw+bz,bt,gw+fmufezzldddweg.ohehdewuejkeogi 障害物競争
@@ -3056,6 +3060,7 @@
 {0}rj+uu.va+wsfxkwuf.yuusfixnuyee 雨森小夜
 {0}rj+uviw.uiessi 市松
 {0}rj+uwcl.dneoue 吊柱
+{0}rj+ui+zvitfmtd.ybusiiili 隠私窓
 {0}rj+udex.ykicdo 英才
 {0}rj+gp+styxk.ykehxehxe 映画化
 {0}rj+gp+sizllyxk.ykehxegru 映画館
@@ -5600,11 +5605,13 @@
 {0}mkr 쯭
 {0}mkc 쯚
 {0}mke 쯬
+{0}mk+bbc.woeuzu 握手
 {0}mk+bwyzo.dhidne 当掉
 {0}mk+bepb.scumno 扫描
 {0}mk+bk+jk+uewdsv.yuuugijueldo 与生俱来
 {0}mk+bf,kc+dywgwmrpi.yuunaegoodcu 与那国島
 {0}mk+bj+wlkkljdeg.jnioeayuu 膠着語
+{0}mk+ba+skkibc.woeuzuhve 握手会
 {0}mk+pdnlsn.qbilte 侵略
 {0}mk+yyc.ycerie 曜日
 {0}mk+yuio.dhiuio 当时
@@ -7823,6 +7830,7 @@
 {0}oa+xkwko.yjooge 炎症
 {0}oa+xk+sklkuwk.bueoguheo 不整合
 {0}oa+tt,fo+evdkrfif.vruteemiosii 尔忒弥斯
+{0}oa+tuxk.buekke 不快
 {0}oa+toub.houlmo 火憐
 {0}oa+tlfifk.buegze 不够
 {0}oa+teyk.buexii 不惜
@@ -7989,6 +7997,7 @@
 {0}sy 像
 {0}sy+bfjxb.tiehre 替換
 {0}sy+prrkwb.tiezve 替罪
+{0}sy+pudh.hfukye 很困
 {0}sy+xyhsd.uhihfo 傷痕
 {0}sy+xxfsd.uhiyio 傷痍
 {0}sy+xuscrn.fuezao 複雑
@@ -8798,6 +8807,7 @@
 {0}sa+lj+cr,sdtkswlkf.csogcidcedii 从高到低
 {0}sa+la+bxkxfk.jquuiozze 久石奏
 {0}sa+la+td+ienzg.rfokzumiedue 人口密度
+{0}sa+ehitf.jqucio 久慈
 {0}sa+ejrfs.csoqmo 从前
 {0}sa+ixddd.rfocji 人参
 {0}sa+ixfo.rfowwe 人為
@@ -8865,6 +8875,7 @@
 {0}lt+ugti.gjuxlu 感想
 {0}lt+uk+ea+dbjgvsu.zsutiuldokje 总体来看
 {0}lt+gt,wxiu.gjuxluwfo 感想文
+{0}lt+hkclv.zsujpo 总结
 {0}lt+hkwigv.zsutsu 总统
 {0}lt+cx+wlmklidm.gjudsecio 感動詞
 {0}lt+mmlv.zsujuo 总局
@@ -10427,6 +10438,7 @@
 {0}ix+jf+vrou.jluxtojbi 奨学金
 {0}it 応
 {0}itt 態
+{1}itt, 庇
 {0}itc 垄
 {0}ito 熊
 {0}it+brmlj.xrogei 悬搁
@@ -11348,6 +11360,7 @@
 {0}dr+cx+skrpxkidm.duodsesie 独動価
 {0}dr+csmgbs.xmiqiu 掀起
 {0}dr+mznbs.oxiquu 抓取
+{0}dr+mdxnvf.tiefae 剃髪
 {0}dr+mdvf.tiedci 剃刀
 {0}dr+wlxki.duooje 独占
 {0}dr+wexki.duolie 独立
@@ -12462,6 +12475,7 @@
 {0}kz+mp+kciznuxug.gjuljuqqo 橄欖球
 {0}kz+mzwiynm.wuioio 汚職
 {0}kz+wmsxhsy.soifhe 缩放
+{0}kz+wlonm.wuidmu 汚点
 {0}kz+weehsy.soijbe 缩进
 {0}kz+wkkghtg.rceyru 绕远
 {0}kz+wkklnm.wuiyjo 汚言
@@ -13234,6 +13248,7 @@
 {0}ka+rt,jl+jx+wkgoukftyocd.vrejpithovceiiu 二階堂奥歯
 {0}ka+rrore.gjisue 甘肃
 {0}ka+rrkr.yiipme 一片
+{0}ka+rcyw.uheuui 上書
 {0}ka+rj+dytiudgv.bfuoiedea 本質的
 {0}ka+ra+og+dbkbzsi.yiigeeliubde 一个礼拜
 {0}ka+ra+ss.yiigeerfo 一个人
@@ -14013,6 +14028,7 @@
 {0}jn+dcxmj.uzedse 受動
 {0}jn+kcpcj.uzeliu 受理
 {0}jn+kcrfj.uzedce 受到
+{0}jn+kerfj.uzexko 受刑
 {0}jn+fs+wdhrjn.uzehriyko 受欢迎
 {0}jxo 然
 {0}jxd,yo 鷄
