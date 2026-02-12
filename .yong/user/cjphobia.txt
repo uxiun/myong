@@ -2270,9 +2270,11 @@
 {0}tu+ks+ojfuckx.dieogexto 地政学
 {0}tu+kedddc.diexko 地形
 {0}tu+kksxc.dieoge 地政
+{0}tu+kjpc.dielwo 地雷
 {0}tu+kjkkhc.dieofe 地震
 {0}tu+ka+nudncw.dieuheboi 地上波
 {0}tu+filc.diemko 地名
+{0}tu+jp+dhiock.dielwoxie 地雷系
 {0}tu+jg+mghd.taiziejiu 她自己
 {0}tgx 匈
 {0}tg,ba+sjsod.dyenqorze 炖牛肉
@@ -2311,6 +2313,7 @@
 {0}th+jgyhwio.ziuyju 紫眼
 {0}th+jk+bk+kgdnwiokkinj.ziuyyoqkixxe 紫雲清夏
 {0}tc,hudkri.lsudre 垄断
+{0}tm+yt+nddhdrfs.ybexlepde 印象派
 {0}tm+mtdr.ybenio 印尼
 {0}tm+mjrfdr.ybeuxi 印刷
 {0}tm+en+nebdri.ybedueyho 印度洋
@@ -4159,6 +4162,7 @@
 {0}ga+wskuj.muetuo 目途
 {0}ga+wepcr.vrotso 儿童
 {0}ga+wddbkg.iuiiju 出産
+{0}ga+wa+ga+nspwkz.ujixxeqiihdu 山下七海
 {0}ga+wa+sa+wkzkd.qiixxebaiuhe 七下八上
 {0}ga+or+lf+wi+fifiiprksng.ujiufogeilqodoi 山神歌流多
 {0}ga+ouxf.yiugve 乙炔
@@ -4469,8 +4473,6 @@
 {0}hd+dnpifn.ueebwe 设备
 {0}hd+djklizl.hxetsu 话筒
 {0}hk 組
-{0}hki.z 线
-{1}hki.z 绒
 {0}hkj+x 纲
 {0}hkj+j 绷
 {0}hk+yjiwk.ogemko 证明
@@ -7080,6 +7082,7 @@
 {0}we+vd+ks+ml+evdkrbekrhcx.laisiiwwojxisii 拉斯维加斯
 {0}we+wursl.bwesue 倍速
 {0}we+wlmgyy.vjejie 暗記
+{0}we+wlfryy.vjebue 暗部
 {0}we+wiszsl.bwelve 倍率
 {0}we+wijcl.pwoyue 培育
 {0}we+wdkrbh.jpijbe 接近
@@ -7131,6 +7134,7 @@
 {0}wi+ykpcng.lqolle 流量
 {0}wi+nu+rjmkhngd.lqotnoohe 流条帳
 {0}wi+niyhng.lqolhe 流浪
+{0}wi+nddhng.lqopde 流派
 {0}wi+nkmxng.lqolwe 流涙
 {0}wi+njgng.lqolwe 流泪
 {0}wi+xvdfnvg.iseuai 銃殺
@@ -9976,8 +9980,6 @@
 {0}ec+itkun.yheuie 様式
 {0}ec+itksi.yiouie 儀式
 {0}ec+fuun.yhezia 様子
-{0}ezj+rj 带
-{1}ezj+rj 帯
 {0}ez+bcn.guuuzu 鼓手
 {0}ez+ok+kd+lo.wewlcilphnww.xkefuoosidmuoje 幸福终点站
 {0}ez+ojlbcn.guuohu 鼓掌
@@ -10431,6 +10433,7 @@
 {0}ix+zfus.fuozie 伏字
 {0}ix+wlosg.yzidmu 优点
 {0}ix+or+nfuhmmrr.yzexyorju 幼馴染
+{0}ix+odhm.yzeucu 幼少
 {0}ix+od+la+hrnshynp.fuoxmehvouzi 伏線回収
 {0}ix+okjstg.yzifjo 忧烦
 {0}ix+ojfur.jluxto 奨学
@@ -10454,6 +10457,7 @@
 {0}ix+dh+ixbsgw.yziyiikue 优衣库
 {0}ix+dcdgsg.yzixmi 优先
 {0}ix+dzjssg.yzioie 优质
+{0}ix+da+evjhmo.yzeucuqii 幼少期
 {0}ix+kusg.yziyuo 优于
 {0}ix+kgpkm.dsehxe 动画
 {0}ix+kvtk.yjevee 厌恶
@@ -12003,6 +12007,7 @@
 {0}kp+dytiyc.lledea 量的
 {0}kp+dufifwg.qmiyio 遷移
 {0}kp+dzlbwi.duoueo 毒舌
+{0}kp+dd,dhioycwbk.lleijuxie 量産系
 {0}kp+dd,kfcycwbk.lleijuxko 量産型
 {0}kp+kcsxh.xieoie 细致
 {0}kp+ka+oz+ctkkuouk.bnibfupkojyi 標本平均
