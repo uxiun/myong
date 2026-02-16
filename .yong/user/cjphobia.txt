@@ -664,6 +664,7 @@
 {0}pz+ra+sss.mwugeerfo 毎个人
 {0}pz+udnv.djibju 单板
 {0}pz+hotgo.djiiyo 単純
+{0}pz+mehsl.geeoju 個展
 {0}pz+mkdytv.grexio 慣習
 {0}pz+zzkgjz.ieille 車輌
 {0}pz+wldzlo.djihxe 単話
@@ -1616,6 +1617,7 @@
 {0}xr+idmfb.jmeigo 建成
 {0}xr+dkfufb.jmeoue 建築
 {0}xr+kufb.jmeyuo 建于
+{0}xr+ft,if+wtptxjkst.xiisiunmelve 希死念慮
 {0}xr+jeyxj.xiilae 希腊
 {0}xu 东
 {0}xu+bwdfwi.dvekhe 対抗
@@ -10124,6 +10126,7 @@
 {0}eo+kj+nj+jf+mkdysmewgou.wuojmiduixtoxio 無監督学習
 {0}eo+fx+xmss.wuoqielie 無気力
 {0}eo+fryhs.wuoxme 無限
+{0}eo+fu+eyxjsz.wuoziemue 無字幕
 {0}eo+fl+yskjvsy.wuowfetio 無問題
 {0}eo+fe+tsyx.wuogrixbi 無関心
 {0}eo+fils.wuomko 無名
