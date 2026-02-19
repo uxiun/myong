@@ -920,6 +920,7 @@
 {0}yh+sk+wkwvdkf.yboxkokau 銀行卡
 {0}yh+sfxu.gfiqie 根気
 {0}yh+lkdnlw.tvelue 退路
+{0}yh+ekxmw.tveqbo 退勤
 {0}yh+isscv.ybozoe 銀座
 {0}yh+dmdkrw.tvesou 退所
 {0}yh+dskkfv.yboxko 銀行
@@ -1062,6 +1063,7 @@
 {0}yf+xl+rr,wlgvzrszf.dzioiiuiexru 都知事選
 {0}yf+xl+zrrfzrs.dzioiiuie 都知事
 {0}yf+tzr.dzixbi 都心
+{0}yf+rc,zkmszrx.dzizdejxi 都在家
 {0}yf+uk+zfudys.jmutiuzie 簡体字
 {0}yf+hotkdy.jmuyti 簡約
 {0}yf+cw+jjtnnckgj.ryeliovde 潤璃愛
@@ -2029,6 +2031,7 @@
 {0}xa+mirb.daesie 大肆
 {0}xa+ma+jjtnk.daehuevde 大戸愛
 {0}xa+zr+sizllsx.daeuiugru 大使館
+{0}xa+zusxw.wfojne 文教
 {0}xa+zzskj.daelyo 大輪
 {0}xa+zvkk.tmiksi 天空
 {0}xa+zevs.daesde 大赛
@@ -4189,6 +4192,7 @@
 {0}ga+ihxng.iuifai 出发
 {0}ga+iz+ydhrznj.qiipuuvho 七浦昂
 {0}ga+iz+ga+hznjf.qiipuuyiunvu 七浦乙女
+{0}ga+iocg.iuiuee 出社
 {0}ga+is+kr+zvixyhi.baiyiuisitui 巴以冲突
 {0}ga+ilg.iuitdo 出台
 {0}ga+ierjg.iuixio 出席
@@ -4209,6 +4213,7 @@
 {0}ga+kkfsj.muecie 目次
 {0}ga+kjkkig.iuiyyo 出雲
 {0}ga+fygg.iuisee 出色
+{0}ga+fmkhg.iuiohi 出張
 {0}ga+fsg.iuiqme 出欠
 {0}ga+fskxtg.iuifai 出発
 {0}ga+fiz.qiixii 七夕
@@ -6134,6 +6139,7 @@
 {0}zk+lllulk.xrizce 喧噪
 {0}zk+lekzlk.xrihxi 喧嘩
 {0}zk+ljgvnv.yjuyro 演員
+{0}zk+ekxmzki.oruqbo 転勤
 {0}zk+ejrfvs.dkeqmo 錠前
 {0}zk+itouo.zsixso 棕熊
 {0}zk+iheenv.yjujlu 演讲
@@ -6917,6 +6923,7 @@
 {0}wc+pcfifs.oueyeu 住野
 {0}wc+nrpn.oueyzo 注油
 {0}wc+xrcs.ouezde 住在
+{0}wc+xmn.ouelie 注力
 {0}wc+rp+dmdkrnn.oueyzosou 注油所
 {0}wc+rkixu.oueole 柱状
 {0}wc+ui+la+hoimjudgyz.ouejiiguubmi 柱稽古編
@@ -7295,6 +7302,7 @@
 {0}ob+szgfkj.ogifzu 鯖缶
 {0}ob+sldls.bjelvu 伴侶
 {0}ob+sj.pherfo 胖人
+{0}ob+lyys.bjeihe 伴唱
 {0}ob+ixbjk.tgokue 腾库
 {0}ob+ihfzjk.tgoxye 腾讯
 {0}ob+durfjm.ugelie 勝利
@@ -7318,6 +7326,7 @@
 {0}on+wx+ojfuhcnr.jkijiexto 経済学
 {0}on+wjjlhc.jkigoe 経過
 {0}on+os+wloohcmks.jkiyjetjo 経験談
+{0}on+ojldlhc.jkiyko 経営
 {0}on+lhc.jkikzu 経口
 {0}on+lkdnlhc.jkilue 経路
 {0}on+la+ml+dc+eisuhcwzh.jkikzubierfeyce 経口避妊薬
@@ -7426,6 +7435,7 @@
 {0}oc+puhl.jpogou 結果
 {0}oc+pcfifhvn.lkoyeu 綾野
 {0}oc+po+fufcf.gviyuozia 鮭魚子
+{0}oc+ykwsi.ueeuie 社是
 {0}oc+ra+iodkrhlu.jpouueqio 結束祈
 {0}oc+urhl.jpouue 結束
 {0}oc+ughiohl.jpozai 結紮
@@ -7448,6 +7458,7 @@
 {0}oc+slui.ueebcu 社保
 {0}oc+sklhl.jpoheo 結合
 {0}oc+skkii.ueehve 社会
+{0}oc+sji.ueenwe 社内
 {0}oc+ljgvi.ueeyro 社員
 {0}oc+inhl.jpobki 結氷
 {0}oc+irni.ueekhi 社康
@@ -7455,6 +7466,7 @@
 {0}oc+dbi.ueenqo 社牛
 {0}oc+db,lmrfitk.ueexkebpo 社性別
 {0}oc+dsrbi.ueelve 社律
+{0}oc+dfkrii.ueefgi 社風
 {0}oc+krki.ueegsi 社工
 {0}oc+koi.ueebue 社不
 {0}oc+kl+tdbkhls.jpoheoxke 結合性
@@ -8776,6 +8788,7 @@
 {0}sj+ecxbgv.zjemwu 賛美
 {0}sj+irfbdg.gvihxe 规划
 {0}sj+idmbgv.zjeigo 賛成
+{0}sj+dn+li+moskskgvulwtk.ziigeouieyje 資格試験
 {0}sj+drjgvkgv.ziioie 資質
 {0}sj+dzzgbgg.gvifje 規範
 {0}sj+dsrbbgg.gvilve 規律
@@ -9567,6 +9580,7 @@
 {0}lj+stdbswl.gcitpu 高铁
 {0}lj+swlfwcl.dnetko 調停
 {0}lj+ssydbv.syuuhi 損傷
+{0}lj+slubv.syubcu 損保
 {0}lj+siylwl.gcichi 高倉
 {0}lj+sdhiwl.gcidii 高低
 {0}lj+skrpwl.gcisie 高価
@@ -9647,6 +9661,7 @@
 {0}la+rm+fi+ebkprkjkz.hvogvicjoiae 回帰残差
 {0}la+rs+ur+jbphxdf.hvouzilieyse 回收利用
 {0}la+ur+bxdf.yzelieuzu 右利手
+{0}la+uuu.xkelbo 杏林
 {0}la+ugtp.hvoxlu 回想
 {0}la+uep.hvoldo 回来
 {0}la+udyz.guubdu 古柏
@@ -11103,6 +11118,7 @@
 {0}db,ga+zldgyky.xkibaikee 星巴克
 {0}db,ga+ld+xm+lrkwykyzgll.xkibaikeekaifwi 星巴克咖啡
 {0}db,hx+ij+ge+ojlrjtkinwm.xkefaiyueyieiho 性发育异常
+{0}db,hm.ukdgig.biujiebfu 笔记本
 {0}db,hm.ok+jbdgigi.biujieykiyse 笔记应用
 {0}db,ceslvs.oiotau 鉄塔
 {0}db,cf,jt+sa+jt+nspwykpifjnfjn.xkiyeuvdejquvdehdu 星野愛久愛海
@@ -12077,6 +12093,7 @@
 {0}kx+ldkrjm.ouetki 助听
 {0}kx+db,zxylkmtk.kxexkeoeu 跨性者
 {0}kx+db,lmrflkmtk.kxexkebpo 跨性别
+{0}kx+ds+ctuemfxm.qbowuedie 勤務地
 {0}kx+dk+llixljmlr.ouetkiqie 助听器
 {0}kx+fdsxmem.qbowue 勤務
 {0}kt+bk.veeuzu 悪手
@@ -12315,6 +12332,7 @@
 {0}kc+xr.oledae 壮大
 {0}kc+xmpi.goolie 国力
 {0}kc+xjpi.gooyzu 国有
+{0}kc+xa+yf+xrcskzr.qrotmidzizde 全天都在
 {0}kc+xa+sk+zjhioswus.qrowfojmusou 全文検索
 {0}kc+xa+emrpii.gooqkejpo 国庆节
 {0}kc+twmkpi.goonnu 国鸟
@@ -12399,6 +12417,7 @@
 {0}kc+ddmris.qrolru 全卵
 {0}kc+dk+wlevysfwjv.dcepbopuu 倒頻譜
 {0}kc+kpmrs.qromme 全面
+{0}kc+kxs.qrotmi 全天
 {0}kc+kcizns.qroqqo 全球
 {0}kc+kcjdgl.igoxme 呈现
 {0}kc+kc+ga+cykdspig.qrogooiuiihu 全国出場
@@ -12787,6 +12806,7 @@
 {0}kl+kcpcs.heoliu 合理
 {0}kl+ks.heoyii 合一
 {0}kl+klg.yjouio 岩石
+{0}kl+kl+lv.ja+skkisjwlgy.heotsouoimkohve 合同説明会
 {0}kl+kl+lk+jf+skkisjkeou.heotsoyjoxtohve 合同研学会
 {0}kl+kedddj.tsoxko 同形
 {0}kl+kftwp.biisiu 逼死
@@ -13455,6 +13475,7 @@
 {0}ka+frcvns.qqilko 丘陵
 {0}ka+fiwk.vrewde 二外
 {0}ka+fil.yiimko 一名
+{0}ka+jgjjb.yiiuye 一瞬
 {0}ka+jc+olixf.yiijnuuze 一角獣
 {0}ka+jwyhx.zoutvu 左腿
 {0}ka+jl+kf+va+bxyuocpf.bfuthotkixnuiyi 本堂町小春
@@ -13807,6 +13828,7 @@
 {0}fe+dh+zxyyxso.grixieoeu 関係者
 {0}fe+dh+it+ohsxyxsos.grixieddeuue 関係代数
 {0}fe+dh+dyiryxso.grixiejpo 関係節
+{0}fe+kvpyx.grixii 関西
 {0}fi 夕
 {1}fi 々
 {0}fii 多
@@ -14386,6 +14408,7 @@
 {0}jg+ix+udfdkm.ziedsejii 自动机
 {0}jg+io+ua+fhdndbo.ziereemiufje 自热米饭
 {0}jg+il+mxdn.zieoiequi 自治区
+{0}jg+il+sukdn.zieoietiu 自治体
 {0}jg+ied.ziejpe 自戒
 {0}jg+ie+prjgvdwu.zieqiemdu 自棄買
 {0}jg+if+dzjgufd.xlimcodye 相矛盾
