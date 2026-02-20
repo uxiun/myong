@@ -2473,6 +2473,7 @@
 {0}tj+dwdflss.hoeiro 货船
 {0}tj+dshinr.bwehze 背後
 {0}tj+kpmrr.bwemme 背面
+{0}ta+bkjgvl.iiezeo 叱責
 {0}ta+bk+dm+kixmtjnx.xbiqkojiidse 心情激动
 {0}ta+bjkni.ykiyro 応援
 {0}ta+ba+bk+xy+li+mosksijtjzwtk.ykiyseqkooeuuieyje 応用情報技術者試験
@@ -3840,6 +3841,7 @@
 {0}uj+ed,pwxdgkdd.xlixkotuo 箱形図
 {0}uj+ejung.xlicde 湘菜
 {0}uj+idwkowgg.qbiqii 親戚
+{0}uj+dqdwgg.qbiufi 親身
 {0}uj+dk+iltwggwr.qbijbegju 親近感
 {0}uj+djxmok.cuijbi 粗筋
 {0}uj+kpmrok.cuimme 粗面
@@ -7768,6 +7770,7 @@
 {0}of+mdxnhkn.lvefae 緑髪
 {0}of+wxuihyg.jtodve 絶対
 {0}of+wvxhyg.jtojni 絶交
+{0}of+wjkchyg.jtowhe 絶望
 {0}of+sghkn.lvexmi 緑仙
 {0}of+ep+epduhknjh.lvensojyi 緑膿菌
 {0}of+esuhkn.lveiao 緑茶
@@ -8137,6 +8140,7 @@
 {0}st+uge.hxioao 花札
 {0}st+uv+xkwkeomd.hxiffuoge 花粉症
 {0}st+uebe.hxiyhe 花样
+{0}st+ue.hximue 花木
 {0}st+uksje.hxibku 花柄
 {0}st+hzkse.hxijxe 花嫁
 {0}st+cl+oc+tephhl.hxiyrojpoxbi 花園結心
@@ -9107,6 +9111,7 @@
 {0}lz+jg+ow+wlzwdehig.jiesretsujie 計算統計
 {0}lv 只
 {0}lv.yjwlg.uoimko 説明
+{0}lv.zusxwlg.uoijne 説教
 {0}lv.sy+xmwlgdki.uoideolie 説得力
 {0}lv.dsykiwlg.uoideo 説得
 {0}lv.ja+wxwlgy.uoimkowfo 説明文
