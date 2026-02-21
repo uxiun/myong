@@ -6485,6 +6485,7 @@
 {0}vi+ftuu.ssiiio 松弛
 {0}vi+fskxtzx.tuifai 突発
 {0}vi+fs+mkicui.ssioiiwui 松之屋
+{0}vi+fjrkizx.tuiiue 突触
 {0}vi+jxozx.tuirjo 突然
 {0}vi+jo+km+zjezuenmik.ssitgoyuunjo 松藤羽南
 {0}vdd,yo 鵜
@@ -6524,6 +6525,7 @@
 {0}vd+zvrjzpx.ililmo 窗帘
 {0}vd+wurwn.bmesue 変速
 {0}vd+wljclwn.bmedne 変調
+{0}vd+wdkjvwn.bmeyjo 変顔
 {0}vd+ohsxwn.bmeuue 変数
 {0}vd+olixigi.moouze 魔獣
 {0}vd+okgwn.bmegli 変光
@@ -7388,6 +7390,7 @@
 {0}or+ojfuipr.ufoxto 神学
 {0}or+sgipr.ufoxmi 神仙
 {0}or+sk+ez+mkliprnvc.ufobhixkesii 神浜幸司
+{0}or+ltddipr.ufowfu 神吻
 {0}or+lk+iojggiprmc.ufougeuie 神聖視
 {0}or+iocipr.ufouee 神社
 {0}or+isuipr.ufolee 神楽
@@ -8544,6 +8547,7 @@
 {0}si+wlkkldvf.uueyuu 術語
 {0}si+wijeyh.yhuyue 養育
 {0}si+odch.yteucu 越少
+{0}si+odjgch.yteugu 越省
 {0}si+sl+td+svivty.lkoguujpirfo 鈴谷皆人
 {0}si+sl+duoviv.lkoguuqqi 鈴谷秋
 {0}si+eprfvi.lkomge 鈴夢
@@ -10214,6 +10218,7 @@
 {0}ed,ykpcw.ijulle 产量
 {0}ed,xitkdd.xkotde 形态
 {0}ed,tt,bkhiokddi.xkotdesue 形態素
+{0}ed,tt,wlskjkddi.xkotdelye 形態論
 {0}ed,tt,kh+jm.udkrkddibiofdb.xkotdesuejpuxii 形態素解析
 {0}ed,tt,kh+jm.dk+llixlkddibiofdbur,kodeuepuiiie 形態素解析器
 {0}ed,tk+xa+ncikddiw.xkouiewfofau 形式文法
@@ -12094,6 +12099,7 @@
 {0}kx+we+jp+vj+oz+illkmcgkgwlk.kxejkedmeuhipkotdo 跨境電商平台
 {0}kx+wkkljm.oueyjo 助言
 {0}kx+oz+illkmk.kxepkotdo 跨平台
+{0}kx+odjglkm.kxeugu 跨省
 {0}kx+suint.tmifue 添付
 {0}kx+ldkrjm.ouetki 助听
 {0}kx+db,zxylkmtk.kxexkeoeu 跨性者
