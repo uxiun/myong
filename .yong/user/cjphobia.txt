@@ -6314,6 +6314,7 @@
 {0}vp+wdmk.xiifhi 西方
 {0}vp+skvcy.zgibki 增兵
 {0}vp+lf+wsrfkwr.xiibuejue 西部劇
+{0}vp+lj+xrjkwcl.xiidnebue 西調布
 {0}vp+eb,ixdddkn.xiiyhocji 西洋参
 {0}vp+eyxjfz.djemue 弹幕
 {0}vp+eikmk.xiicho 西藏
@@ -6355,6 +6356,8 @@
 {0}vx+xnw.jniyzu 交友
 {0}vx+uknkzf.jqijio 究極
 {0}vx+hf+sm+jbwkks.jnihuezoeyse 交互作用
+{0}vx+wm+rfjgvwwu.jniyzofwe 交遊費
+{0}vx+wwmuw.jniyzo 交遊
 {0}vx+weydgzf.jqijke 究竟
 {0}vx+wfijw.jnitsi 交通
 {0}vx+swklw.jnixbe 交信
@@ -7737,6 +7740,7 @@
 {0}ok+nuii.ykidve 应对
 {0}ok+nzzjh.hsoico 紅潮
 {0}ok+xfih.hsowjo 紅丸
+{0}ok+rcykjv.yreuui 願書
 {0}ok+gilp.fuouji 福山
 {0}ok+ga+ds+nililpkc.fuoujiyauoie 福山雅治
 {0}ok+hodynh.hsoxme 紅線
@@ -12823,6 +12827,7 @@
 {0}kl+kedddj.tsoxko 同形
 {0}kl+kftwp.biisiu 逼死
 {0}kl+kj.tsoyii 同一
+{0}kl+ka+pkfgu.yjobfutki 岩本町
 {0}kl+ka+tdbkj.tsoyiixke 同一性
 {0}kl+ka+iojggj.tsoyiiuie 同一視
 {0}kl+filsr.mkemko 命名
