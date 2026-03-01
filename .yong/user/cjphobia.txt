@@ -1484,6 +1484,7 @@
 {0}na+kjmki.bkixtu 氷雪
 {0}na+fyg.uvusee 水色
 {0}na+fryhu.qroxme 权限
+{0}na+fryhs.jbuxme 仅限
 {0}na+fun.ulizia 双子
 {0}na+fu+suknz.hjezietiu 汉字体
 {0}na+fhrksd.fjukve 反馈
@@ -1572,6 +1573,7 @@
 {0}xx,kd+wm+nijhnlnu.whuloeyzoxie 网络游戏
 {0}xx,kd+iw+lf+tdbkjhnlfwr.whuloewdebuexke 网络外部性
 {0}xx,kjsj.whuyee 网页
+{0}xx,ffxx.ululea 爽了
 {0}xx,jstij.whugze 网购
 {0}xx,js+rrdnjk.whuyeebju 网页版
 {0}xx,js+wkjk.whuyeeuhe 网页上
@@ -2191,6 +2193,7 @@
 {0}ty+tz+szjhbs.oiuofioio 指针値
 {0}ty+ra+nrpbp.oiujxuyzo 指甲油
 {0}ty+ukpob.oiubni 指標
+{0}ty+gu+us+ljgvbwizx.oiudcujneyro 指導教員
 {0}ty+ga+uebg.oiuiuildo 指出来
 {0}ty+zzskjb.oiulyo 指輪
 {0}ty+zkwsb.oiudke 指定
@@ -2808,6 +2811,7 @@
 {0}rs+rh+cykdsdpoc.xqilooihu 修羅場
 {0}rs+rkmwfku.iuofwi 除非
 {0}rs+rfjshx.uzifwe 收费
+{0}rs+uwhsfii.ybiheo 陰核
 {0}rs+csmghx.uziqiu 收起
 {0}rs+cifku.iuoque 除去
 {0}rs+mhsxsd.xqigdu 修改
@@ -3059,6 +3063,7 @@
 {0}rf,kpmrcv.iiemme 赤面
 {0}rf,km+te+fucvmikeu.iieyuuyeezia 赤羽葉子
 {0}rf,km+fpopirw.loofwiyuo 罗非魚
+{0}rf,kedddfmt.ybuxko 隐形
 {0}rf,fygcv.iiesee 赤色
 {0}rf,freefdq.xmejku 陷阱
 {0}rj+bomkfk.zuudhu 阻挡
@@ -3111,6 +3116,7 @@
 {0}rj+lk+zs,wleejexwklzkj.ykiyuulyojlu 英語輪講
 {0}rj+lk+jr+kc+ca+ecdbiexwklwjpiw.ykiyuudiegooouuyie 英語帝国主義
 {0}rj+ebjgng.ufuoea 沈着
+{0}rj+ewjjf.ybidie 阴蒂
 {0}rj+eojxfmt.ybubie 隠蔽
 {0}rj+eidmfmt.ybuzhi 隠蔵
 {0}rj+ihkklex.ykiyuu 英语
@@ -3952,6 +3958,7 @@
 {0}ua+jm.nuxzfdb.wwejpujto 未解決
 {0}ua+jstij.cdugze 采购
 {0}ua+jjnz.wweuze 未受
+{0}g 把
 {0}gp+pm+wkkkr.hxemmeuhe 画面上
 {0}gp+ydjgk.hxemwo 画眉
 {0}gp+ncik.hxefau 画法
@@ -4846,6 +4853,7 @@
 {0}co+yweyp.hwivje 黑暗
 {0}co+yw+eb,nirrpdgn.hwidcuyhoozi 黒島洋洲
 {0}co+nmsp.hwizeo 黒沢
+{0}co+nfup.hwirju 黒染
 {0}co+njklp.hwidse 黒洞
 {0}co+xt+nkpi.hwilsojli 黑龙江
 {0}co+xt+ka+odjgpin.hwilsojliugu 黑龙江省
@@ -5258,6 +5266,7 @@
 {0}mr+slf.bporfo 別人
 {0}mr+sisrjjn.fuouie 服飾
 {0}mr+skfe.jpoqie 节气
+{0}mr+eisujn.fuoyce 服薬
 {0}mr+ihvlglf.bpouoi 别说
 {0}mr+is+cidmjnsrj.fuouieigo 服飾城
 {0}mr+dnxmjn.fuowue 服务
@@ -5360,6 +5369,7 @@
 {0}mz+kt+wegkjynr.zvebwudri 最北端
 {0}mz+klkrxyn.zveyke 最硬
 {0}mz+kktyn.zvevee 最悪
+{0}mz+kj+dcdgynsn.zveyzixmi 最優先
 {0}mz+ka+gu+ggynxwi.zvezoudcuiui 最左導出
 {0}mz+fy+wxbnss.ueexletzo 摄像头
 {0}mz+fvyn.zvexnu 最小
@@ -5370,6 +5380,7 @@
 {0}mv+ncix.bjefau 办法
 {0}mv+ouvmdnn.dmeffu 澱粉
 {0}mv+ihzfxrlg.yteduo 阅读
+{0}mv+kcpcx.bjeliu 办理
 {0}mw+rmyidm.fhojmi 房间
 {0}mw+ridm.fhoosi 房中
 {0}mw+ra+dsivfidm.fhoosiuue 房中術
@@ -5658,6 +5669,7 @@
 {0}mk+rr,zxyozf.dhiuieoeu 当事者
 {0}mk+rmdo.dhiiui 当初
 {0}mk+ro.dhiosi 当中
+{0}mk+ggbj.scuiui 掃出
 {0}mk+ctuo.dhidie 当地
 {0}mk+mmlo.dhijuo 当局
 {0}mk+zrrfo.dhiuie 当事
@@ -7509,6 +7521,7 @@
 {0}oz+pdnlhsy.soilte 縮略
 {0}oz+yuik.pkouio 平时
 {0}oz+ycuik.pkouio 平時
+{0}oz+yk.pkorie 平日
 {0}oz+nook.pkodje 平淡
 {0}oz+njjjk.pkohxo 平滑
 {0}oz+tk+szjhkck.pkojyioio 平均値
@@ -10178,6 +10191,7 @@
 {0}els+x 敬
 {0}el+zevswdg.jkesde 竞赛
 {0}el+wdcgwdg.jkexru 竞选
+{0}ee 并
 {0}ee,bmznm.pkouee 屏摄
 {0}ee,bkfs.bkedau 併打
 {0}ee,pwxuj.gzetuo 構図
@@ -10750,6 +10764,7 @@
 {0}is+wrrfeu.ycejie 薬剤
 {0}is+wrkzc.jpooiu 截止
 {0}is+wkh.yiuuhe 以上
+{0}is+skrxh.yiubme 以便
 {0}is+sjh.yiunwe 以内
 {0}is+lzueu.ycewwe 薬味
 {0}is+ee,zj+edufeujluz.yceujenjolie 薬膳楠莉
@@ -13427,6 +13442,7 @@
 {0}ka+ly+ey+itkssux.tsooiemoouie 仝智模式
 {0}ka+lmkjvw.uhevee 上顎
 {0}ka+lllw.uhepbu 上品
+{0}ka+le.gjikzu 甘口
 {0}ka+lf+jxxkwr.vrebuewhu 二部网
 {0}ka+ebjgw.uheoea 上着
 {0}ka+en+zrknki.vredueqbu 二度寝
@@ -14102,6 +14118,7 @@
 {0}jn+sikjvj.uzelku 受領
 {0}jn+ebjgj.uzeoea 受着
 {0}jn+dqdj.uzeufi 受身
+{0}jn+dtmrj.uzeybe 受印
 {0}jn+dcxmj.uzedse 受動
 {0}jn+kcpcj.uzeliu 受理
 {0}jn+kcrfj.uzedce 受到
@@ -14478,10 +14495,12 @@
 {0}jc+wdcle.suezce 塑造
 {0}jc+ouwze.suelne 塑料
 {0}jc+lo.ouirlfkd.jnuuaitho 角砂糖
+{0}jc+ey+vwegfjx.jnumoojke 角膜鏡
 {0}jc+ienf.jnudue 角度
 {0}jc+drjgvf.jnuoie 角質
 {0}jc+kkfswl.ozicie 週次
 {0}jc+fygf.jnusee 角色
+{0}jc+jeyxf.jnumoo 角膜
 {0}jm.ywlokk.xtujku 雪景
 {0}jm.yjfdb.jpumko 解明
 {0}jm.nuxfdb.jpujto 解決
@@ -14850,6 +14869,7 @@
 {0}jf 学
 {0}jf+bu+up+lkhmoudyd.xtojiofjihce 学籍番号
 {0}jf+bk+na+bjknoudz.xtougioiiyro 学生支援
+{0}jf+bk+wlpuoud.xtougikee 学生課
 {0}jf+bk+os+ui+bc,skffoudhjsdui.xtouginaefueteelie 学生納付特例
 {0}jf+pclhou.xtoyro 学園
 {0}jf+yt+fc,suibmudik.jkedeaxkofue 静的型付
