@@ -13820,6 +13820,7 @@
 {0}fl+wegk.keunie 可逆
 {0}fl+ojxok.keurjo 可燃
 {0}fl+oj+stkigg.keuuiehxe 可視化
+{0}fl+oa+kflkk.keubuekeu 可不可
 {0}fl+szlxk.keuzoe 可做
 {0}fl+sevk.keugsi 可供
 {0}fl+sk+ey+wlwiyyyjvwt.wfetioyieuio 問題意識
@@ -14912,6 +14913,7 @@
 {0}jf+evjou.xtoqii 学期
 {0}jf+ittbmu.jketde 静態
 {0}jf+ikwpobmu.jkelbu 静凛
+{0}jf+d 学生
 {0}jf+dbuyou.xtojio 学籍
 {0}jf+dbkou.xtougi 学生
 {0}jf+dytibmu.jkedea 静的
