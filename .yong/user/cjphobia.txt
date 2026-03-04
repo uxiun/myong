@@ -1154,6 +1154,7 @@
 {0}ya+sklk.bduheo 百合
 {0}ya+lwsk.bduzuo 百足
 {0}ya+lo.od+rjdfidkdn.bdouaiuaifji 白砂沙帆
+{0}ya+ld+ry+ekhddlyofkd.bdolueyhoyao 白鷺陽芽
 {0}ya+eb,nzksdn.bdoyhodme 白洋淀
 {0}ya+evje.rieyie 日益
 {0}ya+evj.rieqii 日期
@@ -4546,7 +4547,9 @@
 {0}ha+nclz.vjijpo 安洁
 {0}ha+xn.nvuyzu 女友
 {0}ha+xisc.nvuxso 女雄
+{0}ha+tz.vjixbi 安心
 {0}ha+tdbk.nvuxke 女性
+{0}ha+ta+iltz.vjixbigju 安心感
 {0}ha+rydg.nvuvro 女児
 {0}ha+rcwdhz.vjioli 安装
 {0}ha+rcwdh.nvuoli 女装
@@ -8555,6 +8558,7 @@
 {0}si+xmlch.ytejxi 越加
 {0}si+tuxch.ytekke 越快
 {0}si+uvi.lkomue 鈴木
+{0}si+ua+la+xkkoviu.lkomuexkende 鈴木杏奈
 {0}si+ua+jobmvi.lkomueuge 鈴木勝
 {0}si+cwegch.ytejke 越境
 {0}si+mxch.ytequi 越区
@@ -14730,6 +14734,7 @@
 {0}je+cx+nirrzze.njomwuozi 南美洲
 {0}je+cx+kcsiizze.njomwulko 南美玲
 {0}je+zl+ou+db,bs,iorprddlwtkd.xtegrumioxkeuiiufo 血管迷走神経性失神
+{0}je+zl+sefibvgdl.ghigruwuu 鋼管舞
 {0}je+va+udndf.xtexnubju 血小板
 {0}je+wlozz.njojki 南京
 {0}je+wdmzz.njofhi 南方
