@@ -1777,6 +1777,7 @@
 {0}xs+evjewx.xneyie 效益
 {0}xs+iokwx.xneyki 效应
 {0}xl 右
+{0}xl+be.roeuzu 若手
 {0}xl+ba+rr,le+zxyesswsn.roenmojpehueoeu 若年介護者
 {0}xl+yt+bk+wddbksdid.oiideaugiiju 知的生産
 {0}xl+te+jgcvceeu.roeyeemue 若葉睦
@@ -3867,6 +3868,7 @@
 {0}ua+nprzo.miuzeo 米澤
 {0}ua+nrbo.miujbi 米津
 {0}ua+nzp.gouoii 果汁
+{0}ua+nvsln.mueyue 沐浴
 {0}ua+nscp.kyenjo 困难
 {0}ua+negjz.wwemju 未満
 {0}ua+nkvpo.miujqu 米酒
@@ -3901,6 +3903,7 @@
 {0}ua+zkkgz.wwewjo 未完
 {0}ua+za+emrzk.ssegjejpo 宋干节
 {0}ua+vpzi.ilodji 床单
+{0}ua+vs+kjlklnnl.mueyuelue 沐浴露
 {0}ua+vdyjz.ssejbu 宋錦
 {0}ua+wrks.xqioiu 休止
 {0}ua+wetsz.wwesve 未遂
@@ -6833,6 +6836,7 @@
 {0}wx+wtkkw.oeexpi 这些
 {0}wx+wmstuz.uiouii 实施
 {0}wx+wdmw.oeefhi 这方
+{0}wx+ouf.mdumiu 买米
 {0}wx+srw.oeegee 这个
 {0}wx+sukz.uiotiu 实体
 {0}wx+scuw.oeejio 这集
@@ -7260,6 +7264,7 @@
 {0}wf 剤
 {0}wf+luj.tsikzu 樋口
 {0}wf+la+udfiuj.tsikzufgi 樋口楓
+{0}wf+la+ufdjuj.tsikzujuo 樋口橘
 {0}wf+la+ka+eteuuj.tsikzuyiiyee 樋口一葉
 {0}wj 論
 {0}wjj.l 過
@@ -7388,6 +7393,7 @@
 {0}ot+kh+siyhhgbio.iyosueuio 純素食
 {0}ot+kh+iy+zxyhgbiosh.iyosueuiooeu 純素食者
 {0}or+plipr.ufohvo 神回
+{0}or+pa+od+ua+xmliprnt.ufotmouaiyeujxi 神田沙也加
 {0}or+pa+dx,kiprd.ufotmoxneyii 神田笑一
 {0}or+yl+ok+njgdiprwjvhpo.ufoyyepnumnu 神韻縹渺
 {0}or+ya+na+ju+eyjiprde.ufobdouvucdemgo 神白水菜萌
@@ -8425,6 +8431,7 @@
 {0}sm+of+lz+jg+uhiicdlhdnwde.icijiojiesrejii 超級計算機
 {0}sm+srsdbg.qluxqi 抢修
 {0}sm+lmxs.zoevzu 作呕
+{0}sm+lm+zkmsswkl.zoeciojxi 作詞家
 {0}sm+lzuczn.quewwe 趣味
 {0}sm+llls.zoepbu 作品
 {0}sm+ll.filsl.zoepbumko 作品名
@@ -11446,6 +11453,7 @@
 {0}dr+mdvf.tiedci 剃刀
 {0}dr+wlxki.duooje 独占
 {0}dr+wexki.duolie 独立
+{0}dr+wkklxki.duoyjo 独言
 {0}dr+slrfxki.duoile 独創
 {0}dr+la+pm+swklxkiwkg.duoojepwexbe 独占配信
 {0}dr+la+vlfsxkiw.duoojeyue 独占欲
@@ -11862,6 +11870,7 @@
 {0}dk+ihvlglr.tkiuoi 听说
 {0}dk+ivklbr.oeomoo 折磨
 {0}dk+ienwjv.pbodue 頻度
+{0}dk+dqdwr.jbeufi 近身
 {0}dk+duldcwr.jbeigo 近程
 {0}dk+kpmrwjv.yjomme 顔面
 {0}dk+kuwr.jbeyuo 近于
@@ -12580,11 +12589,13 @@
 {0}kv+bm+sfijsmo.bkimauysu 兵馬俑
 {0}kv+bszd.gxufui 寡夫
 {0}kv+nd+ebjgnpel.sauloeoea 洒落着
+{0}kv+xk+ud+eteunpzljdd.jqujiecduyee 酒寄彩葉
 {0}kv+rtjyp.udebwe 晒背
 {0}kv+hmkjzd.gxufue 寡婦
 {0}kv+csmgo.xkiqiu 兴起
 {0}kv+csmzno.xkique 兴趣
 {0}kv+mbmos.bkimau 兵馬
+{0}kv+zxklnp.jqujie 酒寄
 {0}kv+wh+hm.dlgsegfk.bkihlimaulre 兵荒马乱
 {0}kv+oubkjnp.jqujki 酒精
 {0}kv+oudynp.jqupoe 酒粕
@@ -13544,6 +13555,7 @@
 {0}fy+jvlgwi.yietoi 逸脱
 {0}fnk 丞
 {0}fn+ykci.ysuwhe 永旺
+{0}fn+nurvi.ysulde 永瀬
 {0}fn+uuui.ysusfi 永森
 {0}fn+hocjgi.ysuxue 永続
 {0}fn+wclhi.ysuyru 永遠
