@@ -6938,6 +6938,7 @@
 {0}wh+rpgus.heodme 核电
 {0}wh+hkmkdeg.hlimzo 荒缪
 {0}wh+ms+wldfnuswtu.heouiiuee 核施設
+{0}wh+vc+rmoicrv.xreheejsi 炫赫冂
 {0}wh+wlesnbc.ysihue 擁護
 {0}wh+lexeg.hlixne 荒咲
 {0}wh+ebjgt.mhooea 忙着
@@ -8184,6 +8185,7 @@
 {0}st+ope.hxitmo 花畑
 {0}st+ouvmde.hxiffu 花粉
 {0}st+oe.hxihou 花火
+{0}st+of+bkjehkn.hxilveqki 花緑青
 {0}st+sp+xl+ekhdenws.hxihduyzeyao 花海佑芽
 {0}st+sp+ex,dufuenwl.hxihduxnejie 花海咲季
 {0}st+stize.hxiqmo 花钱
@@ -13945,6 +13947,7 @@
 {0}fd+ga+pa+om+bsxyorhg.jqiujiyzojiefui 鳩山由紀夫
 {0}fd+hrnln.xiiuzi 吸収
 {0}fd+hfdmhm.ndundu 奶奶
+{0}fd+cd+wdhujkdp.juolqoyii 橘瑠衣
 {0}fd+wurun.jiosue 极速
 {0}fd+okgun.jiogli 极光
 {0}fd+sdhiun.jiodii 极低
@@ -14888,6 +14891,7 @@
 {0}jf+bu+up+lkhmoudyd.xtojiofjihce 学籍番号
 {0}jf+bk+na+bjknoudz.xtougioiiyro 学生支援
 {0}jf+bk+wlpuoud.xtougikee 学生課
+{0}jf+bk+wlkwkoud.xtougioge 学生証
 {0}jf+bk+os+ui+bc,skffoudhjsdui.xtouginaefueteelie 学生納付特例
 {0}jf+pclhou.xtoyro 学園
 {0}jf+yt+fc,suibmudik.jkedeaxkofue 静的型付
