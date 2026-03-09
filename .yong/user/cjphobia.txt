@@ -1374,6 +1374,7 @@
 {0}na+pm+kwzkg.oiipwexxe 支配下
 {0}na+yyyn.ulijki 双晶
 {0}na+yrjxd.fjuyke 反映
+{0}na+yh+ofsev.uvuybodgi 水銀燈
 {0}na+ymkc.uvuyce 水曜
 {0}na+yw+hnxmdg.uvudcunuu 水島努
 {0}na+yw+kj+wnjgdgme.uvudcujmidui 水島監督
@@ -1419,6 +1420,7 @@
 {0}na+zkici.bkiuie 氷室
 {0}na+zk+iz+xmdzkidu.fjuorumwelie 反転魅力
 {0}na+zfun.hjezie 汉字
+{0}na+vyh.uvuybo 水銀
 {0}na+vr+hofdndjf.fjuzeojio 反則級
 {0}na+vmd.uvuffi 水分
 {0}na+vweg.uvujke 水鏡
@@ -12320,6 +12322,7 @@
 {0}kh+cu+yfymyi.ohuuiojmi 長時間
 {0}kh+cj+xmbkgg.bnuxmelie 表現力
 {0}kh+cj+dhiobkgg.bnuxmexie 表現系
+{0}kh+mzlm.ohujui 長居
 {0}kh+mdxnm.ohufae 長髪
 {0}kh+zxtm.ohulcu 長老
 {0}kh+zxm.ohuohe 長丈
