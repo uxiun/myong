@@ -1130,6 +1130,7 @@
 {0}ya+mdxnd.bdofae 白髪
 {0}ya+md+wiszkv.bduffilve 百分率
 {0}ya+md+ifskv.bduffioii 百分之
+{0}ya+mk+yyc.rieycerie 日曜日
 {0}ya+mk+zzjyc.rieyceico 日曜朝
 {0}ya+zzj.rieico 日朝
 {0}ya+zlld.bdogsi 白宫
