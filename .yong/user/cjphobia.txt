@@ -155,6 +155,7 @@
 {0}bs,nny.qmouvu 潜水
 {0}bs,nienxt.lyodue 轮渡
 {0}bs,na+dwfxcny.qmouvutku 潜水艇
+{0}bs,xbxfxt.lyogvu 轮轨
 {0}bs,xrcny.qmozde 潜在
 {0}bs,xmny.qmolie 潜力
 {0}bs,ukkony.qmobni 潜标
@@ -319,6 +320,7 @@
 {0}bf,xkflsi.iroqio 传奇
 {0}bf,tk+smrwk.naexpirfo 那些人
 {0}bf,rgmr.naevro 那儿
+{0}bf,uvixsk.qkissi 轻松
 {0}bf,uebmr.naeyhe 那样
 {0}bf,hkwigsi.irotsu 传统
 {0}bf,hksklsi.irogwu 传给
@@ -2450,6 +2452,7 @@
 {0}td+ki.rk+jvlgzgzcws.mieuietcotoi 密室逃脱
 {0}td+fuszk.ivozia 锤子
 {0}td+jx+td+oyenydooyd.yierjoyiebce 易燃易爆
+{0}td+jzi.mieyte 蜜月
 {0}td+jjnyd.yieuze 易受
 {0}tk 性
 {0}tkp+u 慄
@@ -3278,6 +3281,7 @@
 {0}ub+or+cj+yt+ojfuokjiprkggfs.jkiufoxmexlexto 精神現象学
 {0}ub+or+sx+rrtokjiprx.jkiufojiohre 精神疾患
 {0}ub+or+duwzokjipr.jkiufokei 精神科
+{0}ub+sfxokj.jkiqie 精気
 {0}ub+lg+kjkkidkvd.jiilreyyo 積乱雲
 {0}ub+iorprokj.jkiufo 精神
 {0}ub+ienokj.jkidue 精度
@@ -5258,6 +5262,7 @@
 {0}mt+eh+yfkefm.jioojukdi 急展開
 {0}mt+ia+xmvsd.zfumeabje 怎么办
 {0}mt+ia+uebsd.zfumeayhe 怎么样
+{0}mt+dbkf.jiougi 急生
 {0}mt+db,evjftk.jioxkeqii 急性期
 {0}mt+dis.zfumea 怎么
 {0}mt+fdsxmf.jiowue 急務
@@ -6091,6 +6096,7 @@
 {0}zl+fwhidl.gruxmo 管弦
 {0}zl+fdsxms.guiwue 估務
 {0}zl+jxop.guerjo 固然
+{0}zl+jjxnsx.zoevde 做爱
 {0}zl+ja+szjkpx.gueyzuoio 固有值
 {0}zl+ja+il+wlmklpxf.gueyzumkocio 固有名詞
 {0}zej+g 寛
@@ -8188,6 +8194,7 @@
 {0}st+cixmcgg.quiuie 趨勢
 {0}st+cidmji.gzeigo 购城
 {0}st+mirbk.ziesie 恣肆
+{0}st+mdbgbu.toiwwu 拖尾
 {0}st+zyfre.hxidzi 花都
 {0}st+wlevye.hxipuu 花譜
 {0}st+weytk.zieyie 恣意
@@ -9324,6 +9331,7 @@
 {0}le+ecdbiwej.jluyie 講義
 {0}le+ezjrjkhi.ciodde 磁帯
 {0}le+ekhdk.dzeyao 豆芽
+{0}le+it+njfukhij.cioxrofuo 磁悬浮
 {0}le+isscwej.jluzoe 講座
 {0}le+isijk.dzefuu 豆腐
 {0}le+if+ui+rj+dfuclfiuex.xiudoicyiykilio 喜多村英梨
@@ -10727,6 +10735,7 @@
 {0}iw+swrkf.wdeqiu 外企
 {0}iw+ssydf.wdeuhi 外傷
 {0}iw+lkrksf.wdetne 外跳
+{0}iw+lf+stfwr.wdebuehxe 外部化
 {0}iw+ebjgf.wdeoea 外着
 {0}iw+ea+wlkklfu.wdeldoyuu 外来語
 {0}iw+ixfof.wdewwe 外為
@@ -11350,6 +11359,7 @@
 {0}dn+lznll.geioii 咯吱
 {0}dn+lllw.fjupbu 返品
 {0}dn+ll.oa+kflwlk.fjupbubuekeu 返品不可
+{0}dn+la+ha+kklcz.bjukzuvjiwuo 坂口安吾
 {0}dn+la+szjkwp.fjuhvooio 返回值
 {0}dn+ebkul.geoiae 格差
 {0}dn+eg+vdyjuj.bjughijbu 板岡錦
@@ -11424,6 +11434,7 @@
 {0}dt+hotkhy.hyiyti 婚約
 {0}dt+hixmsk.diiyze 低幼
 {0}dt+hdchy.hyirfe 婚妊
+{0}dt+hkodhy.hyiuai 婚纱
 {0}dt+mvpysk.diicgo 低層
 {0}dt+me+fxdwkskwb.diiiioyjo 低遅延
 {0}dt+zvksk.diiksi 低空
