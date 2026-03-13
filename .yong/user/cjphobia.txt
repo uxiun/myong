@@ -4475,6 +4475,7 @@
 {0}hi+ie+fl+wlcjguiuk.jiixpekeuduo 機械可読
 {0}hi+ie+jf+mkdyuiuou.jiixpextoxio 機械学習
 {0}hi+ijttui.jiingo 機能
+{0}hi+dbkwp.iueugi 畜生
 {0}hi+dytiss.uiedea 似的
 {0}hi+dubkvpo.lwejii 累積
 {0}hi+dudzcui.jiiosu 機種
@@ -6407,6 +6408,7 @@
 {0}vx+ja+xnwj.jnipgoyzu 交朋友
 {0}vti 釣
 {0}vt+bwljk.veegcu 恶搞
+{0}vt+xksjw.lmebke 恋病
 {0}vt+tbkjw.lmeqko 恋情
 {0}vt+tw.lmexbi 恋心
 {0}vt+tk.veexbi 恶心
@@ -13496,6 +13498,7 @@
 {0}ka+il+uy.howiynpkd.jligooxlioii 江國香織
 {0}ka+ie+udfiunn.bfuduefgi 本渡楓
 {0}ka+iifr.yiilho 一郎
+{0}ka+if+sk+csmgstfxt.yiinmefaiqiu 一念発起
 {0}ka+ijttu.bfungo 本能
 {0}ka+ij+bkhmgg.yiiljubnu 一覧表
 {0}ka+ij+tdbkmgg.yiiljuxke 一覧性
