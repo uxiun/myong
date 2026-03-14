@@ -3503,6 +3503,7 @@
 {0}us+wlrrrzx.jnexye 教訓
 {0}us+wlctxc.zaooie 雑誌
 {0}us+wlmgxc.zaojie 雑記
+{0}us+wlooxc.zaotjo 雑談
 {0}us+wijzx.jneyue 教育
 {0}us+ojlczx.jnetho 教堂
 {0}us+skkizx.jnehve 教会
@@ -3840,6 +3841,7 @@
 {0}uf+kw+tdbkdmtzs.wfudkexke 稳定性
 {0}uf+kixmdif.yiodse 移动
 {0}uf+kicdif.yiooie 移至
+{0}uf+kddm.xqeyii 秀一
 {0}uf+jxbdu.jiejyi 季军
 {0}ujk 査
 {0}uj+pdnld.ceelte 策略
@@ -4520,6 +4522,7 @@
 {0}hk+wkklikl.yuuyjo 语言
 {0}hk+ouwzikl.yuulne 语料
 {0}hk+szlioz.pkogui 评估
+{0}hk+ezjrjh.siidde 丝带
 {0}hk+ixikl.yuuyie 语义
 {0}hk+ihstioz.pkolye 评论
 {0}hk+kh+iwleir.yceolidme 药妆店
@@ -6345,6 +6348,7 @@
 {0}vp+wnsihk.xiicji 西餐
 {0}vp+wlfrk.xiibue 西部
 {0}vp+wdmk.xiifhi 西方
+{0}vp+sldlsy.sgilvu 僧侶
 {0}vp+skvcy.zgibki 增兵
 {0}vp+lf+wsrfkwr.xiibuejue 西部劇
 {0}vp+lj+xrjkwcl.xiidnebue 西調布
@@ -7474,6 +7478,7 @@
 {0}oh+hojclhio.siiizo 絲綢
 {0}oh+oc+kokjvhouhjg.jiexueyre 継続願
 {0}oh+oj+fs+lkdnlhiohcli.siiizooiilue 絲綢之路
+{0}oh+ezjrjhio.siidde 絲帯
 {0}oh+kwrkhr.jqioge 糾正
 {0}oh+kw+juipo.ykilbuyte 桜凛月
 {0}oh+fx+ka+uceiuic.ykitkoyiiuue 桜庭一樹
@@ -7593,6 +7598,7 @@
 {0}ov.bdzlhit.zsukoe 総括
 {0}ov.cu+hoimjhits.zsujiobmi 総集編
 {0}ov.zlkjvhit.zsuveo 総額
+{0}ov.wlkozhit.zsupko 総評
 {0}ov.sukhit.zsutiu 総体
 {0}ov.scuhit.zsujio 総集
 {0}ov.sklhit.zsuheo 総合
@@ -7745,6 +7751,7 @@
 {0}od+sfysydd.ykuxle 影像
 {0}od+eyxjhnw.osimue 終幕
 {0}od+eg+lm+lkhmhnwwkjwg.osidrijiehce 終端記号
+{0}od+ezjrjhzn.dredde 緞帯
 {0}od+ed,lz+gp+ncihynkddwk.xmexkojiehxefau 線形計画法
 {0}od+ed,lz+gp+fl+yskjvhynkddwky.xmexkojiehxewfetio 線形計画問題
 {0}od+ed,lz+kgphynkddw.xmexkojiehxe 線形計画
@@ -8437,6 +8444,7 @@
 {0}sm+zu+zt+hfucznlly.quewweuiehcu 趣味嗜好
 {0}sm+zhus.zoevje 作案
 {0}sm+zkmss.zoejxi 作家
+{0}sm+ve+rseu.zoeyeeosi 作業中
 {0}sm+ve+cykdseu.zoeyeeihu 作業場
 {0}sm+ve+jbseu.zoeyeeyse 作業用
 {0}sm+vfxbcdl.icijme 超鍵
@@ -10059,6 +10067,7 @@
 {0}ec+itkun.yheuie 様式
 {0}ec+itksi.yiouie 儀式
 {0}ec+fuun.yhezia 様子
+{0}ezj+rj 帯
 {0}ez+bcn.guuuzu 鼓手
 {0}ez+ok+kd+lo.wewlcilphnww.xkefuoosidmuoje 幸福终点站
 {0}ez+ojlbcn.guuohu 鼓掌
@@ -10621,6 +10630,7 @@
 {0}im+ycuiyr.jiouio 即時
 {0}im+yodddh.hreyku 幻影
 {0}im+ya+lw+ejvhdez.hrerieciodmu 幻日辞典
+{0}im+xjcr.qteyzu 却有
 {0}im+rkfiiyr.jiojli 即将
 {0}im+ugth.hrexlu 幻想
 {0}im+gt,bk+dbtddhud.hrexluugiwue 幻想生物
@@ -10653,6 +10663,7 @@
 {0}im+iojggh.hreuie 幻視
 {0}im+ilkyr.jiohoe 即或
 {0}im+ierjyr.jioxio 即席
+{0}im+idmh.hreigo 幻成
 {0}im+ikth.hrehoe 幻惑
 {0}im+dqjvyr.jioxke 即興
 {0}im+djlsj.pmixle 偏向
@@ -10693,6 +10704,8 @@
 {0}iz+lk+ls+kcpcwvwklwkj.uueyuulyeliu 述語論理
 {0}iz+iy+zxybjsh.buuuiooeu 捕食者
 {0}iz+it+xs+iokrljreuwx.huodpoxneyki 蝴蝶效应
+{0}iz+it+hoclrljreu.huodpojpo 蝴蝶結
+{0}iz+it+hkclrljreu.huodpojpo 蝴蝶结
 {0}iz+it+ekkrljreu.huodpoljo 蝴蝶兰
 {0}iz+klfszpz.zdegei 載歌
 {0}iz+fygn.qmusee 浅色
@@ -12957,6 +12970,7 @@
 {0}kd+ebhyj.mmoyho 绵羊
 {0}kd+exwkllnl.luejku 路警
 {0}kd+eg+wd+jk+llixlhnwwkjsmzv.osidrifhuofiqie 终端仿真器
+{0}kd+ezjrjhzn.dredde 缎带
 {0}kd+esthum.xqehxi 绣花
 {0}kd+du+ioclnlwm.luetzeuee 路透社
 {0}kd+dhtno.yrouie 源氏
@@ -15135,6 +15149,7 @@
 {0}ja+ey+ptxwt.yzuyiesii 有意思
 {0}ja+ey+na+nczxwt.yzuyieuvuoyu 有意水準
 {0}ja+exx.yzugri 有关
+{0}ja+evjex.yzuyie 有益
 {0}ja+eidms.nwezhi 内蔵
 {0}ja+ejkss.nwemgo 内蒙
 {0}ja+ixmix.yzuwwe 有为
