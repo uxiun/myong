@@ -3541,6 +3541,7 @@
 {0}uep+i 樽
 {0}uek+v 棋
 {0}uej+s 檬
+{0}ue+ncid.igofau 乗法
 {0}ue+xa+sk+pk+dbcuiepllfy.ldoybihailuutee 莱因哈鲁特
 {0}ue+zpzd.igoiei 乗車
 {0}ue+zdnld.igokee 乗客
@@ -12897,6 +12898,7 @@
 {0}kl+kl+lk+jf+skkisjkeou.heotsoyjoxtohve 合同研学会
 {0}kl+kedddj.tsoxko 同形
 {0}kl+kftwp.biisiu 逼死
+{0}kl+kfcj.tsoxko 同型
 {0}kl+kj.tsoyii 同一
 {0}kl+ka+pkfgu.yjobfutki 岩本町
 {0}kl+ka+tdbkj.tsoyiixke 同一性
