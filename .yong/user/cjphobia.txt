@@ -2404,6 +2404,7 @@
 {0}te+bhiswv.xuiniu 虚拟
 {0}te+nmkjn.xpelze 泄漏
 {0}te+nevn.xpehso 泄洪
+{0}te+rrkreu.yeepme 葉片
 {0}te+ua+lexd.tiamuexne 笹木咲
 {0}te+hi+ca+bdupwvbsw.xuiniuouuboi 虚拟主播
 {0}te+ml+ur+nw+kjmkeuxnvd.yeejxildedsixtu 葉加瀬冬雪
@@ -4773,6 +4774,7 @@
 {0}cu+hkzfxbi.iioxue 持续
 {0}cu+cw+oz+hosckdnkgjhiv.boilioxmiwwo 玻璃繊維
 {0}cu+cw+ix+stsrdhsg.jiooliyzihxe 集装优化
+{0}cu+cw+dujgsrdh.jioolixli 集装箱
 {0}cu+cilkyi.uioyue 時域
 {0}cu+mlebs.jioqyo 集群
 {0}cu+md+ejsxdiv.dguffisje 等分散
@@ -5243,7 +5245,9 @@
 {0}mx+ma+ia+mx+ca+xkflskqsp.yiiwjevvayiiliuqio 伊万･伊里奇
 {0}mx+zzrpu.uuiozo 枢軸
 {0}mx+zzskju.uuilyo 枢輪
+{0}mx+wnsihs.yiicji 伊餐
 {0}mx+weytte.qpeyie 惬意
+{0}mx+siyhs.yiiuio 伊食
 {0}mx+ejons.yiitgo 伊藤
 {0}mx+iijs.yiilhu 伊朗
 {0}mx+kj+no+dyskijed.yiilieuaibdo 伊丽莎白
@@ -6963,6 +6967,7 @@
 {0}wh+wlesnbc.ysihue 擁護
 {0}wh+lexeg.hlixne 荒咲
 {0}wh+ebjgt.mhooea 忙着
+{0}wh+ey+uhiiepw.xueybijii 蓄音機
 {0}wh+ijttus.heongo 核能
 {0}wh+dndfli.jruiuu 呟処
 {0}wh+dubkvep.xuejii 蓄積
@@ -14074,11 +14079,13 @@
 {0}fk+kgpvn.luehxe 録画
 {0}fk+kkoye.kdiuie 開示
 {0}fk+kk.itkyesi.kdihveuie 開会式
+{0}fk+kjpgdri.fgidme 風電
 {0}fk+frwdmfjv.yuefho 預防
 {0}fk+frwdmfjs.yuefho 预防
 {0}fk+fskxtye.kdifai 開発
 {0}fk+fkfikjg.cveroe 脆弱
 {0}fk+jprisx.hzojto 侯爵
+{0}fk+jp+te+rrkrdrikgeu.fgidmeyeepme 風電葉片
 {0}fk+jr+ejufjsdf.yueoiecde 预制菜
 {0}fk+jr+kgpdriuf.fgiciehxe 風刺画
 {0}fk+jl+ncidriodl.fgiykofau 風営法
