@@ -8240,7 +8240,8 @@
 {0}st+fxdwkbu.toiyjo 拖延
 {0}st+fue.hxizia 花子
 {0}st+fwxji.gzemdu 购买
-{0}sr 个
+{0}sr 仲
+{1}sr 个
 {0}sr+bcuisf.jmeiio 剣持
 {0}sr+pr+iidunz.xnuzeoglu 篠澤広
 {0}sr+yk+rrdnwfcd.jueihubju 劇場版
@@ -13730,6 +13731,7 @@
 {0}fu+honcyd.biejki 閉経
 {0}fu+hfuh.hcuhcu 好好
 {0}fu+cydh.hcuugi 好声
+{0}fu+mdxnn.rjufae 染髪
 {0}fu+zs,jp+ntuvezfkg.mguqmodmeiio 錳乾電池
 {0}fu+zevcyd.biesdi 閉塞
 {0}fu+vojvyd.biesou 閉鎖
