@@ -5296,6 +5296,7 @@
 {0}mr+skfe.jpoqie 节气
 {0}mr+eisujn.fuoyce 服薬
 {0}mr+ihvlglf.bpouoi 别说
+{0}mr+im+zxylr.kzemfooeu 叩门者
 {0}mr+is+cidmjnsrj.fuouieigo 服飾城
 {0}mr+dnxmjn.fuowue 服务
 {0}mr+dudxjwj.gcijni 髙穚
@@ -8240,8 +8241,6 @@
 {0}st+fxdwkbu.toiyjo 拖延
 {0}st+fue.hxizia 花子
 {0}st+fwxji.gzemdu 购买
-{0}sr 仲
-{1}sr 个
 {0}sr+bcuisf.jmeiio 剣持
 {0}sr+pr+iidunz.xnuzeoglu 篠澤広
 {0}sr+yk+rrdnwfcd.jueihubju 劇場版
@@ -13638,6 +13637,7 @@
 {0}fx+gu+weyswi.qiedcuybi 気導音
 {0}fx+hofygs.qiejto 気絶
 {0}fx+hfubc.tkuhcu 挺好
+{0}fx+cdklvb.jmegze 鍵垢
 {0}fx+md+rw+zbzlsvfez.qieffiohehde 気分障害
 {0}fx+md+zk+bfjxsvzki.qieffioruhre 気分転換
 {0}fx+vmds.qieffi 気分
@@ -14396,6 +14396,7 @@
 {0}jg+yfexu.xligri 相関
 {0}jg+yjd.ziemko 自明
 {0}jg+ntlgy.mcepce 冒泡
+{0}jg+nuxd.ziejto 自決
 {0}jg+nuiu.xlidve 相对
 {0}jg+ncide.srefau 算法
 {0}jg+ncjgy.mceduo 冒涜
