@@ -6029,6 +6029,7 @@
 {0}zw,ljgvmiy.oioyro 職員
 {0}zw,eveumiy.oioyee 職業
 {0}zw,ds+ms+wieumiyfxmwx.oiowuefheqie 職務放棄
+{0}zw,kuukmiy.oiolie 職歴
 {0}zw,fvzvx.jnexnu 較小
 {0}zw,fdsxmmiy.oiowue 職務
 {0}zs,bdzlzkj.lyokoe 輪括
@@ -13381,6 +13382,7 @@
 {0}ka+ydew.uheugi 上昇
 {0}ka+yk.yiidje 一旦
 {0}ka+yfj.ghimfo 肛門
+{0}ka+yf+kk.jghozrk.yiidzisjixme 一都三県
 {0}ka+ya+la+yj.weywdke.uhebdouiomgoybi 上白石萌音
 {0}ka+nu+ui+uohdc.yiitnosieyki 一条寺桜
 {0}ka+nu+cuid.yiitnosie 一条寺
@@ -14997,6 +14999,7 @@
 {0}jf+duwzou.xtokei 学科
 {0}jf+dcxmnu.fuodse 浮動
 {0}jf+dsivfou.xtouue 学術
+{0}jf+kuukou.xtolie 学歴
 {0}jf+kd+hs+bmzloumyox.xtoxiouuejue 学習数据
 {0}jf+kd+db,eo+fx+xmoumytkss.xtoxioxkewuoqielie 学習性無気力
 {0}jf+kjpgbmu.jkedme 静電
