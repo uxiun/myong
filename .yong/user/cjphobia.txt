@@ -1121,6 +1121,7 @@
 {0}ya+rr,homgdkk.bdoyaejie 白亜紀
 {0}ya+rfjsd.bdofwe 白费
 {0}ya+ul+lj+uxkwkdkcwcl.rieigodneogu 日程調整
+{0}ya+uekzd.bdohxe 白樺
 {0}ya+udnd.bdobju 白板
 {0}ya+ud+ja+mgewkr.riexbiyteyie 日新月异
 {0}ya+uk.riebfu 日本
@@ -1137,6 +1138,7 @@
 {0}ya+mk+zzjyc.rieyceico 日曜朝
 {0}ya+zzj.rieico 日朝
 {0}ya+zlld.bdogsi 白宫
+{0}ya+vyhd.bdoybo 白銀
 {0}ya+vmdk.bduffi 百分
 {0}ya+va+gr.jqejbiuji 旧金山
 {0}ya+wx.riewfo 日文
@@ -2107,6 +2109,7 @@
 {0}xa+lkwrvr.uiujii 史跡
 {0}xa+lf+vmdwr.daebueffi 大部分
 {0}xa+la+ya+iyhky.daeuioihillo 大石昌良
+{0}xa+la+ia+fusf.uiukzuhsozia 矢口弘子
 {0}xa+eb,nirrn.daeyhoozi 大洋洲
 {0}xa+ey+itkux.daemoouie 大模式
 {0}xa+ey+kfcux.daemooxko 大模型
@@ -3308,6 +3311,7 @@
 {0}uy.nrpd.xliyzo 香油
 {0}uy.nevgd.xlighu 香港
 {0}uy.nd.xliuvu 香水
+{0}uy.nfsed.xliigo 香澄
 {0}uy.uhksd.xliyro 香橼
 {0}uy.ouwzd.xlilne 香料
 {0}uy.sfxd.xliqie 香気
@@ -3498,6 +3502,7 @@
 {0}us+uudzx.jnecdo 教材
 {0}us+uw+rcyzxdz.jnekeiuui 教科書
 {0}us+uw+wxzxdz.jnekeiwfo 教科文
+{0}us+ukzx.jnebfu 教本
 {0}us+houpozx.jnelme 教練
 {0}us+zkiczx.jneuie 教室
 {0}us+wguizx.jnedcu 教導
@@ -3731,6 +3736,7 @@
 {0}ud+dupwkr.xbifji 新番
 {0}ud+dudzcwkr.xbiosu 新種
 {0}ud+dh+rcwdhwkrw.xbiyiioli 新衣装
+{0}ud+df+tdbkrnbn.bwetzoxke 被投性
 {0}ud+da+dbkwkrs.xbirueugi 新入生
 {0}ud+kpdsnrn.bwefue 被覆
 {0}ud+kg+df+tbkjwkrjixn.xbigriyieqko 新冠疫情
@@ -4886,6 +4892,7 @@
 {0}co+uu.rxpkk.hwilieuiu 黒歴史
 {0}co+uzkjv.soumoe 瑣末
 {0}co+udnp.hwibju 黒板
+{0}co+ms+ikwpopn.hwizeolbu 黒沢凛
 {0}co+mdxnp.hwifae 黒髪
 {0}co+mk+la+rjmkhpyck.hwiyceuioohe 黒曜石帳
 {0}co+mk+klpyc.hwiyceuio 黒曜石
@@ -5030,6 +5037,7 @@
 {0}cd+eekhfzyo.heepko 鶴瓶
 {0}cd+dbkdg.xmiugi 先生
 {0}cd+dskkfdg.xmixko 先行
+{0}cd+da+scjggdgs.xmiruegri 先入観
 {0}cd+kxdg.xmitmi 先天
 {0}cd+kcpcebi.yieliu 義理
 {0}cd+kcwgjkdp.lqolio 瑠璃
@@ -6667,6 +6675,7 @@
 {0}vj+jbwl.uhiyse 商用
 {0}vj+jgvmde.qiipje 期盼
 {0}vj+jjwxjo.jiosvu 脊髄
+{0}va+bxyf.xnuiyi 小春
 {0}va+bknf.xnumde 小麦
 {0}va+bkfp.siedau 四打
 {0}va+bk+nfnj.xnuqkiuvu 小清水
@@ -8446,6 +8455,7 @@
 {0}sm+csihcdl.iciyte 超越
 {0}sm+cixmbg.qlujpo 抢劫
 {0}sm+cj+zbxcdlkgg.icixmeuio 超現実
+{0}sm+mkjes.zoejmi 作監
 {0}sm+ma+xcdlm.icijuedae 超巨大
 {0}sm+zxys.zoeoeu 作者
 {0}sm+zu+zt+hfucznlly.quewweuiehcu 趣味嗜好
@@ -11958,6 +11968,7 @@
 {0}df+wkbn.tzouhe 投上
 {0}df+op+lg+bmsbnhrgwv.tzougoxruzeo 投縄選択
 {0}df+stni.fjehxe 汎化
+{0}df+swrkbn.tzoqiu 投企
 {0}df+ssrrjn.guujxe 股价
 {0}df+sdbn.tzorue 投入
 {0}df+sdnn.mworue 没入
@@ -14888,6 +14899,7 @@
 {0}jk+cl+vwegwcwh.wheyrujke 望遠鏡
 {0}jk+cf,gd+dbkulpifkn.tsoyeuxxeugi 桐野夏生
 {0}jk+ca+ojldgzvw.ofiouudhu 真主党
+{0}jk+msykzk.oiooze 直昼
 {0}jk+mdrjzk.oiouuu 直属
 {0}jk+zbxzv.ofiuio 真実
 {0}jk+zzzblzk.oioxxo 直轄
