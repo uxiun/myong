@@ -1135,6 +1135,7 @@
 {0}ya+md+wiszkv.bduffilve 百分率
 {0}ya+md+ifskv.bduffioii 百分之
 {0}ya+mk+yyc.rieycerie 日曜日
+{0}ya+mk+rmxlkry.bduoeuqyo 百褶裙
 {0}ya+mk+zzjyc.rieyceico 日曜朝
 {0}ya+zzj.rieico 日朝
 {0}ya+zlld.bdogsi 白宫
@@ -2723,6 +2724,7 @@
 {0}rr,fytszf.uiexle 事象
 {0}rr,fdsxmzf.uiewue 事務
 {0}rr,jr+rn+vfknzfefh.uieqmouzilue 事前収録
+{0}rr,jr+sk+vfknzfeffle.uieqmodgilue 事前登録
 {0}rr,jkxmbj.bhioue 帮助
 {0}rr,jkxms.jpeoue 介助
 {0}ru 被
@@ -3484,6 +3486,7 @@
 {0}uw+jf+zkmsdzou.keixtojxi 科学家
 {0}uw+jf+sizlldzou.keixtogru 科学館
 {0}uo+nwksd.qqisee 秋渋
+{0}uo+xkkod.qqinde 秋奈
 {0}uo+typndj.ucimje 稍慢
 {0}uo+te+kdyodeu.qqiyeeyro 秋葉原
 {0}uo+gd.qqiuji 秋山
@@ -14686,6 +14689,7 @@
 {0}jv+en+zn+zjhionuii.ufidueqqosou 深度求索
 {0}jv+ee,sfxkmdp.ffitsiqie 雰囲気
 {0}jv+eidme.dmuzhi 典蔵
+{0}jv+iznbu.tjeqqo 探求
 {0}jv+ioge.dmuliu 典礼
 {0}jv+iennu.ufidue 深度
 {0}jv+dmdkrkf.ceesou 厠所
