@@ -591,6 +591,7 @@
 {0}ph+pxk.yceybi 要因
 {0}ph+tyk.yceoiu 要旨
 {0}ph+hotkk.yceyti 要約
+{0}ph+wc+weytkn.yceoueyie 要注意
 {0}ph+wlok.ycedmu 要点
 {0}ph+wjkck.ycewhe 要望
 {0}ph+oa+jxokk.ycebuerjo 要不然
@@ -3739,6 +3740,7 @@
 {0}ud+dupwkr.xbifji 新番
 {0}ud+dudzcwkr.xbiosu 新種
 {0}ud+dh+rcwdhwkrw.xbiyiioli 新衣装
+{0}ud+dskkfwkr.xbixko 新行
 {0}ud+df+tdbkrnbn.bwetzoxke 被投性
 {0}ud+da+dbkwkrs.xbirueugi 新入生
 {0}ud+kpdsnrn.bwefue 被覆
@@ -4676,6 +4678,7 @@
 {0}cx+bjkgdm.dseyco 動揺
 {0}cx+bjfmudm.dsejke 動静
 {0}cx+ba+zfudmj.dseysezie 動用字
+{0}cx+pre.mwujxu 美甲
 {0}cx+prfie.mwuloo 美罗
 {0}cx+pkcie.mwugoo 美国
 {0}cx+yt+lz+gp+ncidmdiwk.dsedeajiehxefau 動的計画法
@@ -8346,6 +8349,7 @@
 {0}sh+dyirdin.hzejpo 後節
 {0}sh+dm+rk+kk.ojfudiniwvsi.hzeigoyioyyoxto 後成遺伝学
 {0}sh+dm+hf+fj+tdbkdinwkkbx.hzefhihuehrexke 後方互換性
+{0}sh+dskkfdin.hzexko 後行
 {0}sh+djldin.hzexle 後向
 {0}sh+kxdin.hzetmi 後天
 {0}sh+ksxdin.hzegsi 後攻
@@ -8476,6 +8480,7 @@
 {0}sm+wudkrs.zoexbi 作新
 {0}sm+wlmkls.zoecio 作詞
 {0}sm+wldkwcg.qiusue 起訴
+{0}sm+wljlcdl.icigci 超高
 {0}sm+wjjlcdl.icigoe 超過
 {0}sm+ozis.zoeoje 作戦
 {0}sm+of+lz+jg+uhiicdlhdnwde.icijiojiesrejii 超級計算機
@@ -9930,6 +9935,7 @@
 {0}ey+wllkxv.coewue 錯誤
 {0}ey+wljclw.ybidne 音調
 {0}ey+wljlw.ybigci 音高
+{0}ey+wdkjsw.ybipbo 音频
 {0}ey+wk+oa+wfijwslk.ybixbebuetsi 音信不通
 {0}ey+ouzljux.moohuo 模糊
 {0}ey+ojjggv.coejto 錯覚
