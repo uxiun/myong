@@ -1677,6 +1677,7 @@
 {0}xg+weytk.wuoyie 无意
 {0}xg+sx+jr+hkdnwkxkr.wuojiovroosi 无疾而终
 {0}xg+suk.wuoxqi 无休
+{0}xg+sa+xl+yztgks.wuorfooiixnu 无人知晓
 {0}xg+sa+udfk.wuorfojii 无人机
 {0}xg+sa+lf+fkrxkxhk.wuorfojxeuiu 无人驾驶
 {0}xg+exk.wuogri 无关
@@ -2621,6 +2622,7 @@
 {0}rp+sukev.hlotiu 黄体
 {0}rp+skkii.mnehve 庙会
 {0}rp+eniikx.ggebco 更薄
+{0}rp+ecxzr.ufumwu 审美
 {0}rp+evdkrz.ozesii 宙斯
 {0}rp+ejun.yzocde 油菜
 {0}rp+dbkbzw.diobde 迪拜
@@ -2981,6 +2983,7 @@
 {0}rk+ssmk.gsizoe 工作
 {0}rk+si+ey+weyusviw.tcolkoybiybi 桃鈴音音
 {0}rk+skkiwv.yioyyo 遺伝
+{0}rk+skkik.gsihve 工会
 {0}rk+skjnsw.pdoyzi 俳優
 {0}rk+sk.gsirfo 工人
 {0}rk+sjvfrr.pmecee 片側
@@ -3689,6 +3692,7 @@
 {0}ud+vp+ekkwkrk.xbixiiljo 新西兰
 {0}ud+wxfho.syiwfo 孫文
 {0}ud+wmssxdzc.osuzuo 種族
+{0}ud+wsszwkr.xbizuo 新卒
 {0}ud+wlevywkr.xbipuu 新譜
 {0}ud+wldfnwkr.xbiuee 新設
 {0}ud+wlkklwkr.xbiyuu 新語
@@ -3934,6 +3938,7 @@
 {0}ua+wetsz.wwesve 未遂
 {0}ua+wdmx.dsifhi 东方
 {0}ua+wfijz.wwetsi 未通
+{0}ua+on+moskszhc.wwejkiyje 未経験
 {0}ua+ouvmdo.miuffu 米粉
 {0}ua+ojfus.xqixto 休学
 {0}ua+sxlz.wweoii 未知
@@ -9117,6 +9122,7 @@
 {0}lg+ggwv.xruiui 選出
 {0}lg+ht+ta+ugtwvlp.xrumbosiixlu 選民思想
 {0}lg+ms+jznwvb.xruzeooii 選択肢
+{0}lg+zxkhmwv.xrukcu 選考
 {0}lg+zvslt.bcirso 包容
 {0}lg+zl+cp+llixltdlkc.bcigruliuqie 包管理器
 {0}lg+zl+kcpctdl.bcigruliu 包管理
@@ -9770,6 +9776,7 @@
 {0}la+cydp.hvougi 回声
 {0}la+cuiz.guusie 古寺
 {0}la+cip.hvoque 回去
+{0}la+cidmz.guuigo 古城
 {0}la+cjksk.uioosu 石塚
 {0}la+mk+mmlio.tdodhijuo 台当局
 {0}la+znb.kzujii 口撃
@@ -11673,6 +11680,7 @@
 {0}dm+nciw.fhifau 方法
 {0}dm+nskfi.igoyuo 成渝
 {0}dm+nk.tlgwbpr.fhimmebci 方麺包
+{0}dm+xfrti.igoybu 成瘾
 {0}dm+tli.igojue 成句
 {0}dm+tl+jr+dm+bkhiodrijgufnx.lrubciciejiisue 卵胞刺激素
 {0}dm+ta+skffit.igobiulie 成比例
@@ -11924,6 +11932,7 @@
 {0}dk+sxhiowjv.pbofjo 頻繁
 {0}dk+shiswr.jbeuie 近似
 {0}dk+sm+uelrcg.tkiqiuldo 听起来
+{0}dk+szjkwjs.yjooio 颜值
 {0}dk+swjmwr.jbebhe 近傍
 {0}dk+sitwr.jbedde 近代
 {0}dk+sklwjv.yjoheo 顔合
@@ -13819,6 +13828,7 @@
 {0}fz+ra+ck+kpivnshpko.vjijxuhrosri 氨甲环酸
 {0}fz+wurw.xyesue 迅速
 {0}fz+evjn.xyeqii 汛期
+{0}fz+ekteksv.bbezhe 殡葬
 {0}fz+kjpw.xyelwo 迅雷
 {0}fv+mijggylg.ytelju 閲覧
 {0}fv+wlcjgylg.yteduo 閲読
@@ -14237,6 +14247,7 @@
 {0}jx+ua+va+za+ka+iorprdumk.vcelbopiuuiovreufo 奥林匹斯十二神
 {0}jx+ua+va+evdkrdum.vcelbopiusii 奥林匹斯
 {0}jx+hm.scjnfk.vdemauuie 爱马仕
+{0}jx+hojkom.lcozuu 労組
 {0}jx+zxyfm.ysuoeu 勇者
 {0}jx+wkgoud.vceiiu 奥歯
 {0}jx+wkkid.vceyye 奥运
@@ -14451,6 +14462,7 @@
 {0}jg+ga+zl+kcpcdmdl.ziejiugruliu 自己管理
 {0}jg+ga+wc+dduidmn.ziejiuoueuee 自己注射
 {0}jg+ga+om+srrdmhdl.ziejiuucejpe 自己紹介
+{0}jg+ga+sj+ka+ta+wiszdmkgvut.ziejiuziibfubiulve 自己資本比率
 {0}jg+ga+eg+lwsdmnj.ziejiumjuzuo 自己満足
 {0}jg+ga+dytidm.ziejiudea 自己的
 {0}jg+ga+kk.fdndmwl.ziejiuyjojio 自己言及
