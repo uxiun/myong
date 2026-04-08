@@ -558,6 +558,7 @@
 {0}pu+yfzi.orimfo 専門
 {0}pu+tlgu.kyubci 梱包
 {0}pu+uecnei.zyiyhe 尊様
+{0}pu+ua+nk.tlgefbpr.gouziammebci 菓子麺包
 {0}pu+hr.lounvu 裸女
 {0}pu+wmssxr.louzuo 裸族
 {0}pu+wlevyu.kyupuu 梱譜
@@ -6840,6 +6841,7 @@
 {0}va+fi+wloewj.gsetsidmu 共通点
 {0}va+fi+dh+rcwdhewjw.gsetsiyiioli 共通衣装
 {0}va+fi+kkjvewj.gsetsixle 共通項
+{0}va+jr+dhiokki.jbirsoxie 金融系
 {0}va+jgrf.jbighi 金剛
 {0}va+jc+kedddwf.lqejnuxko 六角形
 {0}va+jznp.sieoii 四肢
