@@ -2490,6 +2490,7 @@
 {0}tj+weyr.bweybi 背音
 {0}tj+oxrjsgv.hoebie 貨幣
 {0}tj+st+stwxbsy.yceuialme 钥匙链
+{0}tj+ezjrjr.bwedde 背帯
 {0}tj+dbtddss.hoewue 货物
 {0}tj+dnr.bwefju 背反
 {0}tj+dwdflss.hoeiro 货船
@@ -6795,6 +6796,7 @@
 {0}va+ldyoe.gsemko 共鳴
 {0}va+lkdnlf.xnulue 小路
 {0}va+lf+sdbfwr.xnubuejme 小部件
+{0}va+la+zzkkipp.siehvooru 四回転
 {0}va+eztouf.xnujui 小鞠
 {0}va+ev+iltfe.xnubkegju 小並感
 {0}va+ek+mr+skffnje.xnumjujpoqie 小满节气
@@ -8497,6 +8499,7 @@
 {0}sm+lzuczn.quewwe 趣味
 {0}sm+llls.zoepbu 作品
 {0}sm+ll.filsl.zoepbumko 作品名
+{0}sm+lkrkscg.qiutne 起跳
 {0}sm+eps.zoequi 作曲
 {0}sm+evs.zoeyee 作业
 {0}sm+eveus.zoeyee 作業
@@ -9687,6 +9690,7 @@
 {0}lj+sdhiwl.gcidii 高低
 {0}lj+skrpwl.gcisie 高価
 {0}lj+li+llixlwclwtk.dneuieqie 調試器
+{0}lj+lkrkswl.gcitne 高跳
 {0}lj+lk+skrpwlwoz.gcipkosie 高評価
 {0}lj+la+bmrnwlp.gcihvobce 高回报
 {0}lj+evdkrwl.gcisii 高斯
@@ -9836,6 +9840,7 @@
 {0}la+ilt.kzugju 口感
 {0}la+dtyk.uiosyu 石筍
 {0}la+dmdkri.tdosou 台所
+{0}la+dshinx.yzehze 右後
 {0}la+dssynp.hvofue 回復
 {0}la+dsklp.hvodao 回答
 {0}la+dep.hvougi 回升
@@ -13571,6 +13576,7 @@
 {0}ka+dzpck.vreose 二重
 {0}ka+dzdfnw.uhedre 上段
 {0}ka+dwdfn.yiibji 一般
+{0}ka+dshinx.zouhze 左後
 {0}ka+dskkf.yiixko 一行
 {0}ka+dimj.yiipmi 一篇
 {0}ka+ddxk.vrexne 二笑
@@ -13928,6 +13934,7 @@
 {0}fl+oa+kflkk.keubuekeu 可不可
 {0}fl+szlxk.keuzoe 可做
 {0}fl+sevk.keugsi 可供
+{0}fl+skly.wfeheo 問合
 {0}fl+sk+ey+wlwiyyyjvwt.wfetioyieuio 問題意識
 {0}fl+sk+fjmdbkdkf.keuxkojpu 可行解
 {0}fl+ihvlgk.keuuoi 可说
