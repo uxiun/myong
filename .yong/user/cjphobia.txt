@@ -3741,6 +3741,7 @@
 {0}ud+dbcuinn.boitee 波特
 {0}ud+dbkwkr.xbiugi 新生
 {0}ud+dqjvwkr.xbixke 新興
+{0}ud+dnptxn.piobwe 疲惫
 {0}ud+drjgvwkr.xbioie 新質
 {0}ud+dr+jk+nwvhfhsxkibg.guiduoycogyu 孤独揺滾
 {0}ud+dupwkr.xbifji 新番
@@ -4722,6 +4723,7 @@
 {0}cx+sm+iz+blwsdmsbj.dsezoebuuooi 動作捕捉
 {0}cx+ssmdm.dsezoe 動作
 {0}cx+se.mwurfo 美人
+{0}cx+siyhe.mwuuio 美食
 {0}cx+si+xa+ojfuedvf.mwuuuedaexto 美術大学
 {0}cx+si+sizlledvf.mwuuuegru 美術館
 {0}cx+sa+escoe.mwurfojni 美人蕉
@@ -7109,6 +7111,7 @@
 {0}ws,hkkc.zzuhso 走红
 {0}ws,zr+fk+fskxtsxbsye.mbujpokdifai 敏捷開発
 {0}ws,suknx.yeetiu 液体
+{0}ws,lkdnlc.zzulue 走路
 {0}ws,iltsx.mbugju 敏感
 {0}ws,iiirc.zzulho 走廊
 {0}ws,kciznl.zuoqqo 足球
@@ -9194,6 +9197,7 @@
 {0}lm+dzdfnkbo.maudre 碼段
 {0}lm+kh+bkhwglm.jiehcebnu 記号表
 {0}lm+kh+ojfuwglm.jiehcexto 記号学
+{0}lm+kkgwkl.cioyro 詞元
 {0}lm+jklwit.rfetso 認同
 {0}lz+ykpcw.jielle 計量
 {0}lz+njvfw.jiecee 計測
@@ -13608,6 +13612,7 @@
 {0}ka+kj+fe+sdhokkvyx.vrexlegrixie 二項関係
 {0}ka+ka+ob+fjgvujm.yiibfuugefue 一本勝負
 {0}ka+fy+jl+ya+efsxuyd.bfujmixleriekvo 本間向日葵
+{0}ka+fx+fi+pzjgvswj.yiiqietsigre 一気通貫
 {0}ka+fx+jgdgs.yiiqiejme 一気見
 {0}ka+fryhw.uhexme 上限
 {0}ka+frtty.yiijpi 一階
@@ -14014,6 +14019,7 @@
 {0}fi+ebkkz.cjoiae 残差
 {0}fi+ezlxj.tsekuu 痛苦
 {0}fi+evb.oriyee 专业
+{0}fi+eveukz.cjoyee 残業
 {0}fi+esklel.mkoheo 茗荷
 {0}fi+ekxmwj.tsiqbo 通勤
 {0}fi+ihfzwj.tsixye 通讯
