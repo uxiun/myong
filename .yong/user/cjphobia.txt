@@ -1221,6 +1221,7 @@
 {0}nu+sdbd.tnojme 条件
 {0}nu+skffd.tnolie 条例
 {0}nu+eprfen.boiloo 菠萝
+{0}nu+db,na+dduidsd.tnojmefjuuee 条件反射
 {0}nu+kfrfd.tnolpe 条列
 {0}nh 派
 {0}nh+qd+rixbriod.jbuufikue 紧身裤
@@ -3369,6 +3370,7 @@
 {0}ux+fc,sk+ujkokus.lwexkojmuoai 类型検査
 {0}ux+jglhtt.kkemmo 快眠
 {0}ut 想
+{0}ut+rcydd.mieuui 秘書
 {0}ut+mtd.xiinio 悉尼
 {0}ut+mexldd.mienie 秘匿
 {0}ut+ztdgdd.miemie 秘密
@@ -9333,6 +9335,7 @@
 {0}ll.wlkozl.pbupko 品評
 {0}ll.ojlcnu.zcutho 澡堂
 {0}ll.sm+yt+ey+zu+wlskjbusdiwtl.ccizoedeayiewwelye 操作的意味論
+{0}ll.sm+tdbkbus.ccizoexke 操作性
 {0}ll.sm+hi+hkwigbusdo.ccizoexietsu 操作系统
 {0}ll.sm+dhiobus.ccizoexie 操作系
 {0}ll.ssmbu.ccizoe 操作
