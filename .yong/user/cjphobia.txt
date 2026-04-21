@@ -706,6 +706,7 @@
 {0}pz+js.mwuyte 毎月
 {0}pw+srsi.mwugee 每个
 {0}pw+kxsi.mwutmi 每天
+{0}pw+kkfssi.mwucie 每次
 {0}pob+g 圏
 {0}po+dywgku.suedcu 粟島
 {0}po+fuf.yuozia 魚子
@@ -6806,7 +6807,7 @@
 {0}va+ek+mr+skffnje.xnumjujpoqie 小满节气
 {0}va+iy+lscfsl.xnuchiwwo 小倉唯
 {0}va+ix+ssrrekm.gsedsejxe 共动价
-{0}va+ihvlgf.xnuuoi 小说
+{-}va+ihvlgf.xnuuoi 小说
 {0}va+ihitkf.xnuuie 小试
 {0}va+ilte.gsegju 共感
 {0}va+ijttl.oiungo 只能
