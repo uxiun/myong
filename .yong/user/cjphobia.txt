@@ -950,6 +950,8 @@
 {0}yz+kdyoe.ccuyro 草原
 {0}yw+psrrjv.mkojpe 冥界
 {0}yw+pdg.dcutmo 島田
+{0}yw+yh+jghodgu.dcugfixme 島根県
+{0}yw+uyhdg.dcugfi 島根
 {0}yw+gdqvdg.dcuyuu 島嶼
 {0}yw+cjv.mkotuu 冥土
 {0}yw+ektedo.nnuzhe 鳥葬
@@ -6807,7 +6809,6 @@
 {0}va+ek+mr+skffnje.xnumjujpoqie 小满节气
 {0}va+iy+lscfsl.xnuchiwwo 小倉唯
 {0}va+ix+ssrrekm.gsedsejxe 共动价
-{-}va+ihvlgf.xnuuoi 小说
 {0}va+ihitkf.xnuuie 小试
 {0}va+ilte.gsegju 共感
 {0}va+ijttl.oiungo 只能
