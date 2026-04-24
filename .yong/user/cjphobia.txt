@@ -12721,6 +12721,7 @@
 {0}kw+rf,mlebxksx.ogehzeqyo 症候群
 {0}kw+ub+vmdzsdkv.dkejiiffi 定積分
 {0}kw+ueys.uieldo 是来
+{0}kw+ua+yzss.dkexqirie 定休日
 {0}kw+he+pwxwixl.kaunoetuo 卡诺図
 {0}kw+cd+nwxrzsebi.dkeyiejie 定義済
 {0}kw+cd+cilkzsebi.dkeyieyue 定義域
@@ -12737,6 +12738,7 @@
 {0}kw+oa+ykwsysk.uiebueuie 是不是
 {0}kw+stzfc.ouehxo 驻华
 {0}kw+srfxxk.ogehze 症候
+{0}kw+suzs.dkexqi 定休
 {0}kw+swezs.dkewwe 定位
 {0}kw+lmtys.uienea 是呢
 {0}kw+ebjgzs.dkeoea 定着
