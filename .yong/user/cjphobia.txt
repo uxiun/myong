@@ -1179,6 +1179,7 @@
 {0}ya+ihkkl.rieyuu 日语
 {0}ya+im+siyhsj.riepmiuio 日偏食
 {0}ya+ienk.bdudue 百度
+{0}ya+if+js+vy+fx+pclhreswcjtdic.jqeoiiliocietkoyro 旧芝離宮恩賜庭園
 {0}ya+dulkc.rieigo 日程
 {0}ya+dwwdf.riehho 日航
 {0}ya+djl.riexle 日向
@@ -1613,6 +1614,7 @@
 {0}xt+da+dk+zjkzoil.lcuucuxmoyio 老少咸宜
 {0}xt+kk.uecnss.yzirfoyhe 悠仁様
 {0}xt+fhmki.lsomau 龙马
+{0}xt+jvytdp.vficie 恩賜
 {0}xrc 在
 {0}xr+brlxj.xiioeo 希哲
 {0}xr+xa+ea+weewrwe.qiotzobkejbe 齐头并进
@@ -3674,6 +3676,7 @@
 {0}ud+rj+bk+dd,xmwkrdgvdwbk.xbioieugiijulie 新質生産力
 {0}ud+ugwkr.xbioao 新札
 {0}ud+uw+bznwkrdz.xbikeijie 新科技
+{0}ud+udxjwkr.xbiqno 新橋
 {0}ud+ud+ouwzwkru.xbicdolne 新材料
 {0}ud+howxnn.boiwfo 波紋
 {0}ud+hofyghkr.drejto 断絶
@@ -4090,6 +4093,7 @@
 {0}gg,bdkrm.quioeo 屈折
 {0}gg,dk+wlkklmbr.quioeoyuu 屈折語
 {0}gh+xl+zrrfjos.xmeoiiuie 県知事
+{0}gh+wloojkr.dkutjo 鼎談
 {0}gmg+g 崛
 {0}gm+kcwxcokc.ycebji 耀斑
 {0}gm+jgjdj.ouumue 瞩目
@@ -6688,6 +6692,7 @@
 {0}vj+lllwl.uhipbu 商品
 {0}vj+evwl.uhiyee 商业
 {0}vj+eveuwl.uhiyee 商業
+{0}vj+iwlwl.uhidme 商店
 {0}vj+dscuie.qiidde 期待
 {0}vj+fy+ry+zkwseyfh.qiijmixmedke 期間限定
 {0}vj+fryhe.qiixme 期限
@@ -8301,6 +8306,7 @@
 {0}su+tsjd.cdoohu 财长
 {0}su+hddn.biunvu 彼女
 {0}su+hkfskjd.cdojki 财经
+{0}su+weyzi.leeohi 楽章
 {0}su+wedge.iaodce 茶道
 {0}su+wdmddn.biufhi 彼方
 {0}su+ok+ezstiilp.leefuoxti 楽福靴
@@ -8842,6 +8848,7 @@
 {0}sk+jh.zk+tuszionv.jmusouyjuxbi 検索演心
 {0}sk+jh.wlkkluszio.jmusouyuu 検索語
 {0}sk+jh.lk+tlusziowkl.jmusouyuujue 検索語句
+{0}sk+js+ld+vy+fx+pclhnvwczljtdic,hiiosiiekoro 浜離宮恩賜庭園
 {0}sk+jd+yfxtcg.faimderie 発売日
 {0}sk+jfle.dgiyte 登月
 {0}sk+ja+zxyfxty.faimkooeu 発明者
@@ -9822,6 +9829,7 @@
 {0}la+om+kkgkhg.uiojieyro 石紀元
 {0}la+oe+dbtddcib.jioxlowue 吉祥物
 {0}la+stwdh.kzudde 口袋
+{0}la+ss,fk+wldfnicye.kzuzoekdiuee 口座開設
 {0}la+sitz.guudde 古代
 {0}la+skflh.ruoheo 如何
 {0}la+sfysk.uioxle 石像
@@ -13162,6 +13170,9 @@
 {0}kk.ecdbis.rfoyie 仁義
 {0}kk.ejus.rfocde 仁菜
 {0}kk.ejheg.yjosvi 芫荽
+{0}kk.ea+wc+na+yh+dskkfkesxv.sjijkuoueyzuyboxko 三井住友銀行
+{-}kk.ea+wc+xnkes.sjibkeoueyzu 三并住友
+{0}kk.ea+wc+xnkes.sjijkuoueyzu 三井住友
 {0}kk.iyhxo.ndello 奈良
 {0}kk.ix+skkiwikm.yyedsehve 运动会
 {0}kk.ix+jswlks.sjifuotpi 三伏贴
@@ -14106,6 +14117,7 @@
 {0}fk+wurdri.fgisue 風速
 {0}fk+wmsxye.kdifhe 開放
 {0}fk+wlokjv.dkudmu 頂点
+{0}fk+wldfnye.kdiuee 開設
 {0}fk+wlfrkjv.dkubue 頂部
 {0}fk+weyvn.lueybi 録音
 {0}fk+wk+ua+kldrislf.fgixbeziauio 風信子石
@@ -14769,6 +14781,7 @@
 {0}js+cioex.sjeree 散熱
 {0}js+mdxnex.sjefae 散髪
 {0}js+zs,wlfrwxzkz.diogjebue 敵幹部
+{0}js+zldlwc.liogsi 離宮
 {0}js+wxmsf.ceebmi 侧边
 {0}js+wxex.sjewfo 散文
 {0}js+wrkdex.sjebue 散歩
