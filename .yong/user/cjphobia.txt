@@ -1329,6 +1329,7 @@
 {0}nd+nspwel.loehdu 落海
 {0}nd+nkmxel.loelwe 落涙
 {0}nd+tedf.iuuuie 処世
+{0}nd+rcyel.loeuui 落書
 {0}nd+hdf.iuunvu 処女
 {0}nd+cp+llixldfkc.iuuliuqie 処理器
 {0}nd+cp+endldfkc.iuuliuloe 処理落
@@ -6987,7 +6988,8 @@
 {0}wr+jm.wiszkkfdb.ogejpulve 正解率
 {0}wr+jkk.ogeyte 正月
 {0}wu 新
-{0}wg 就
+{0}wg 説
+{1}wg 就
 {0}wgw+eg 競
 {0}wgs+ii 龄
 {0}wg+sjjx.ncunwe 脑内
@@ -7722,6 +7724,7 @@
 {0}oe+kfofb.xmilpe 鮮烈
 {0}oe+fuib.xlozia 祥子
 {0}oe+fd+nrpfbhm.xminduyzo 鮮奶油
+{0}oi 就
 {0}oi+bdxpx.moeqie 默契
 {0}oi+bkfwxg.jqedau 就打
 {0}oi+pa+zkmshmje.bmiquijxi 編曲家
@@ -8102,6 +8105,7 @@
 {0}sp+nnw.hduuvu 海水
 {0}sp+nwignw.hdulqo 海流
 {0}sp+nebnw.hduyho 海洋
+{0}sp+xt+filnwz.hdulcumko 海老名
 {0}sp+xt+jk+slynwzcs.hdulcuosuoie 海老塚智
 {0}sp+xe,ss,gkkznwgkj.hduxxolluvje 海峡两岸
 {0}sp+rc,zvknwfvc.hdulueksi 海陸空
@@ -9176,6 +9180,7 @@
 {0}lm+nciwg.jiefau 記法
 {0}lm+xy+skkiwgz.jieoeuhve 記者会
 {0}lm+xl+ta+cp+ojfuwitskc.rfeoiixbiliuxto 認知心理学
+{0}lm+xl+uw+ojfuwitsdz.rfeoiikeixto 認知科学
 {0}lm+twetwg.jieyie 記憶
 {0}lm+rjmkhwg.jieohe 記帳
 {0}lm+ggws.yieiui 訳出
@@ -9187,6 +9192,7 @@
 {0}lm+zrrfwg.jieuie 記事
 {0}lm+zizpzwg.jiezde 記載
 {0}lm+zkwswit.rfedke 認定
+{0}lm+vfilwg.jiemko 記銘
 {0}lm+vfknwg.jielue 記録
 {0}lm+wlwiywit.rfeuio 認識
 {0}lm+wlkwkwit.rfeoge 認証
@@ -10507,6 +10513,7 @@
 {0}ea+kicd.ugioie 升至
 {0}ea+kkjvw.liexle 立項
 {0}ea+kk.sifiiozx.jpeyjolke 戒厳令
+{0}ea+fs+ek+hodyn 井の頭線
 {0}ea+fiwt.uiewde 世外
 {0}ea+fili.jpemko 戒名
 {0}ea+jxoe.jkurjo 井然
@@ -12256,6 +12263,7 @@
 {0}kt+hk.veenvu 悪女
 {0}kt+zldghi.ytikee 约克
 {0}kt+zj+foebrz.bwuicoxmi 北朝鮮
+{0}kt+za+swcrd.bwuqmioue 北千住
 {0}kt+vhg.iyojbi 纯金
 {0}kt+wrkdllg.pcubue 跑步
 {0}kt+wzr.bwudze 北斗
@@ -13171,7 +13179,6 @@
 {0}kk.ejus.rfocde 仁菜
 {0}kk.ejheg.yjosvi 芫荽
 {0}kk.ea+wc+na+yh+dskkfkesxv.sjijkuoueyzuyboxko 三井住友銀行
-{-}kk.ea+wc+xnkes.sjibkeoueyzu 三并住友
 {0}kk.ea+wc+xnkes.sjijkuoueyzu 三井住友
 {0}kk.iyhxo.ndello 奈良
 {0}kk.ix+skkiwikm.yyedsehve 运动会
@@ -14018,6 +14025,7 @@
 {0}fi+zlkjvkz.cjoveo 残額
 {0}fi+zkmsb.orijxi 专家
 {0}fi+zkkgwj.tsiwjo 通完
+{0}fi+wxxmkz.cjoxne 残効
 {0}fi+wuiwj.tsigoe 通过
 {0}fi+wsfxwj.tsiyee 通夜
 {0}fi+wldzlwj.tsihxe 通話
