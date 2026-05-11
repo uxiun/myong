@@ -703,6 +703,7 @@
 {0}pz+fygo.djisee 単色
 {0}pz+fuo.djizia 単子
 {0}pz+fskxto.djifai 単発
+{0}pz+jgyho.djiyju 単眼
 {0}pz+js.mwuyte 毎月
 {0}pw+srsi.mwugee 每个
 {0}pw+kxsi.mwutmi 每天
@@ -2719,6 +2720,7 @@
 {0}rr,ejur.iricde 川菜
 {0}rr,ea+fu+estred.irijkuliohxi 川井梨花
 {0}rr,ittzf.uietde 事態
+{0}rr,itrv.uyeyki 順応
 {0}rr,ififrv.uyexue 順序
 {0}rr,dbtddzf.uiewue 事物
 {0}rr,db,oj+psrrzfsigg.uiejmeuiejpe 事件視界
@@ -4984,6 +4986,7 @@
 {0}cl+dyd.gcebdo 告白
 {0}cl+dn+dx,jskkhlud.xiipioxnelmu 嬉皮笑脸
 {0}cl+dulkcwh.yruigo 遠程
+{0}cl+dk+nciwhwr.yrujbefau 遠近法
 {0}cl+dk+iltwhwr.yrujbegju 遠近感
 {0}cl+frkljwh.yrugeo 遠隔
 {0}cl+fuu.juozia 桔子
@@ -5041,6 +5044,7 @@
 {0}ci+ka+zkmsjru.jnubfujxi 脚本家
 {0}ci+fydik.yuetue 玉兔
 {0}ci+frzkgn.fauyre 法院
+{0}ci+jvrfn.fauzeo 法則
 {0}ci+jskkoei.yiejie 藝祭
 {0}ci+ja+skkn.fauyterfo 法月仁
 {0}cd+bljvdfn.hvusyu 毀損
@@ -9297,6 +9301,7 @@
 {0}lsk+l 哈
 {1}lsk+l 啥
 {0}ls+pzlkjc.qtegue 確固
+{0}ls+nciwkj.lyefau 論法
 {0}ls+xxvowdd.ofulno 診療
 {0}ls+xv+dmdkrwddxo.ofulnosou 診療所
 {0}ls+xa+yt+iz+ouwzwkjwbtzpz.lyewfojpizdelne 論文掲載料
@@ -11226,6 +11231,7 @@
 {0}ia+desdsv.gsiose 公衆
 {0}ia+dkrv.gsijbi 公斤
 {0}ia+da+st+jm.fs+fnkxmekki.tdedcihxixtuoiiigo 太刀花雪之丞
+{0}ia+kpmgt.gzipwe 勾配
 {0}ia+kcpcv.gsiliu 公理
 {0}ia+kcrfb.ocudce 找到
 {0}ia+kwrkv.gsioge 公正
@@ -12190,11 +12196,13 @@
 {0}ky+xrjzk.xribue 宣布
 {0}ky+wlcjgzk.xriduo 宣読
 {0}ky+wkklzk.xriyjo 宣言
+{0}ky+ojlrjtk.hgoiho 恒常
 {0}ky+sbfizk.xriiro 宣传
 {0}ky+skkizk.xriyyo 宣伝
 {0}ky+skfftk.hgolie 恒例
 {0}ky+lkzkolh.gfizsi 跟踪
 {0}ky+kk.xa+szrxzksi.xriyyodaeuiu 宣伝大使
+{0}ky+jl+tdbktkorj.hgoihoxke 恒常性
 {0}kn 球
 {0}kn.bkjly.taeqki 踏青
 {0}kn.xluk.jioyze 極右
@@ -12819,6 +12827,7 @@
 {0}ks+pzjshs.zsegre 纵贯
 {0}ks+neyxiii.lgumoe 冷漠
 {0}ks+nilkx.ogeoie 政治
+{0}ks+njvuhs.zseufi 纵深
 {0}ks+rimiii.lgumfo 冷门
 {0}ks+rkixxj.bkeole 病状
 {0}ks+rkixj.bkeiso 病虫
@@ -14975,6 +14984,7 @@
 {0}jk+zizpzzk.oiozde 直載
 {0}jk+zisczk.oiojpo 直截
 {0}jk+zkkozv.ofizsi 真宗
+{0}jk+zjsonl.dseiao 洞察
 {0}jk+wczv.ofiouu 真主
 {0}jk+wclhwc.wheyru 望遠
 {0}jk+wvxzk.oiojni 直交
