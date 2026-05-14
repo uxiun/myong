@@ -6506,6 +6506,7 @@
 {0}vc+kluuse.jiiiuu 基礎
 {0}vc+klgge.jiiiuu 基础
 {0}vc+kkge.jiiyro 基元
+{0}vc+ka+dwjeeu.jiibfupjo 基本盘
 {0}vc+fa+xo+il+iifrzlgygn.zcemfotjeoielho 竈門炭治郎
 {0}vc+jl+xa+vd+ceslcrvkkleekr.heeluevdesiitau 赫露艾斯塔
 {0}vmd+e 盆
@@ -11409,6 +11410,7 @@
 {0}dn+uhiizl.keejii 客機
 {0}dn+um.fhzllpwi.tuouuigru 图书馆
 {0}dn+usxlu.bjuoii 板椥
+{0}dn+uizzl.keeoje 客栈
 {0}dn+udnlf.jiogeo 及格
 {0}dn+udfb.bjijii 扳机
 {0}dn+udfzl.keejii 客机
@@ -12006,6 +12008,7 @@
 {0}df+nspwnl.yjohdu 沿海
 {0}df+ndcgnn.mwoxiu 没洗
 {0}df+xdsfxxfo.miohzo 猕猴
+{0}df+xkflsj.pweqio 佩奇
 {0}df+xjnn.mwoyzu 没有
 {0}df+tbkjxn.yieqko 疫情
 {0}df+tlj.rsujue 冗句
