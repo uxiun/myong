@@ -1750,6 +1750,7 @@
 {0}xm+lsklii.wweuao 为啥
 {0}xm+lkpcll.kailio 咖喱
 {0}xm+ejrfp.njoqmo 男前
+{0}xm+itzm.xpoyki 協応
 {0}xm+irirev.suiozi 苏州
 {0}xm+ihixzv.xpoyie 协议
 {0}xm+ijttk.gsingo 功能
@@ -1862,6 +1863,7 @@
 {0}xd,frzkgidd.cjiyre 参院
 {0}xkf+l 奇
 {0}xk+bykdvcv.fuuyho 釜揚
+{0}xk+bscojv.lwetvi 類推
 {0}xk+bdtzl.jietoi 寄托
 {0}xk+bk+olixzld.jieugiuze 寄生獣
 {0}xk+ycuisle.druuio 短時
@@ -3282,6 +3284,7 @@
 {0}ra+fy+sk+bkhyfxt.osijmifaibnu 中間発表
 {0}ra+jbf.ybuyse 引用
 {0}ra+jx+da+oj+lt+ilrwidgv.osiyhigluuiezsutdo 中央广播电视总台
+{0}ra+js.geeyte 个月
 {0}ra+jf+uwvxou.osixtoxne 中学校
 {0}ra+jf+dbkou.osixtougi 中学生
 {0}ra+jf+jn+mosksouj.osixtouzeyje 中学受験
@@ -3352,6 +3355,7 @@
 {0}ux+gklub.pjiyjo 攀岩
 {0}ux+cr,fftkf.kkedcelea 快到了
 {0}ux+csmgzm.booqiu 勃起
+{0}ux+cdxj.xiituu 稀土
 {0}ux+ms+iwltr.kkeujudme 快闪店
 {0}ux+zr+vfxbtbs.kkejpojme 快捷鍵
 {0}ux+zkwsn.jtodke 決定
@@ -3669,6 +3673,7 @@
 {0}ud+tz+iocwkrs.xbihxouee 新华社
 {0}ud+rywkr.xbijqe 新旧
 {0}ud+rydgfhs.guivro 孤児
+{0}ud+rrkrhkr.drepme 断片
 {0}ud+rrkrjdd.cdupme 彩片
 {0}ud+rcywkr.xbiuui 新書
 {0}ud+rcwdhwkr.xbioli 新装
@@ -6128,6 +6133,7 @@
 {0}zl+lhtm.juimbo 居民
 {0}zl+llixlzmz.jioqie 輯器
 {0}zl+ljsmv.oioyro 职员
+{0}zl+ebjgp.gueoea 固着
 {0}zl+essce.kuunjo 苦難
 {0}zl+ihzs.guijie 估计
 {0}zl+dp+zuimd.juilqouzu 居留守
@@ -7281,6 +7287,7 @@
 {0}wi+klng.lqouio 流石
 {0}wi+fup.muuzia 母子
 {0}wi+jbng.lqoyse 流用
+{0}wdo 歳
 {0}wdl 話
 {1}wdk+jv 頻
 {0}wdk+js 频
@@ -7763,6 +7770,7 @@
 {0}oi+kphwxg.jqeyce 就要
 {0}oi+kw+ihvlgwxgys.jqeuieuoi 就是说
 {0}oi+klmbohmj.bmimau 編碼
+{0}oi+kflwxg.jqekeu 就可
 {0}oi+fpofxg.yzoyuo 魷魚
 {0}oi+fwxwxg.jqemdu 就买
 {0}oi+ja+dywxgy.jqemkobdo 就明白
@@ -8287,6 +8295,7 @@
 {0}st+fxdwkbu.toiyjo 拖延
 {0}st+fue.hxizia 花子
 {0}st+fwxji.gzemdu 购买
+{0}sr 个
 {0}sr+bcuisf.jmeiio 剣持
 {0}sr+pr+iidunz.xnuzeoglu 篠澤広
 {0}sr+yk+rrdnwfcd.jueihubju 劇場版
@@ -9010,6 +9019,7 @@
 {0}sa+jogx.rfoncu 人脳
 {0}sa+jl+bk+kjlmnfocnj.jquthoqkixxo 久堂清霞
 {0}sa+jd+sp+vsiidrupnw.baifjihdulko 八幡海鈴
+{0}l ㅅ
 {0}lb+iznwkj.qkuqqo 請求
 {0}lb+kokjvwkj.qkuyre 請願
 {0}lb+klfswsv.zjegei 讃歌
@@ -9097,6 +9107,7 @@
 {0}lr+is+llixlzfeu.geiyceqie 割薬器
 {0}lr+idmsf.ileigo 創成
 {0}lr+ijttzl.gringo 官能
+{0}lr+dc+tdbksfwl.ilezcexke 創造性
 {0}lr+dzxyzf.geioue 割箸
 {0}lr+kkowrr.xyeuie 訓示
 {0}lr+fskxtsf.ilefai 創発
@@ -10090,6 +10101,7 @@
 {0}eu+sw.qbirfo 亲人
 {0}eu+djgw.qbizie 亲自
 {0}eg+bwehw.niejpi 逆接
+{0}eg+pxnj.sueybi 溯因
 {0}eg+pj.ghitmo 岡田
 {0}eg+pa+ul+pcjidl.ghitmomioliu 岡田麿里
 {0}eg+ycuiwj.sueuio 遡時
@@ -10464,6 +10476,7 @@
 {0}ea+uu.bg,wdhkrod.kdijbimcoyii 开襟毛衣
 {0}ea+usmgk.kdiqli 开枪
 {0}ea+ukpoe.jkubni 井標
+{0}ea+uk+iojggws.lietiuuie 立体視
 {0}ea+hx+xy+ey+itkkinzux.kdifaioeumoouie 开发者模式
 {0}ea+hx+zxykin.kdifaioeu 开发者
 {0}ea+ht+ojldgwl.liembodhu 立民党
@@ -11446,6 +11459,7 @@
 {0}dn+sjsu.piorze 皮肉
 {0}dn+sa+la+dszptnlbz.loefuiguudeo 洛夫古德
 {0}dn+lznll.geioii 咯吱
+{0}dn+lv.zk+op+nciswlgnvhrz.fjuuoiyjuyiefau 仮説演繹法
 {0}dn+lllw.fjupbu 返品
 {0}dn+ll.oa+kflwlk.fjupbubuekeu 返品不可
 {0}dn+la+ha+kklcz.bjukzuvjiwuo 坂口安吾
@@ -13078,6 +13092,7 @@
 {0}kk.yw+pa+om+bskdgrhg.sjidcuyzojiefui 三島由紀夫
 {0}kk.ydbkk.sjixki 三星
 {0}kk.ykwssi.hveuie 会是
+{0}kk.ykklsi.hvewue 会晤
 {0}kk.nizjk.sjipuu 三浦
 {0}kk.nkflk.sjiheo 三河
 {0}kk.na+dsivfmli.xyouvuuue 尋水術
@@ -13696,6 +13711,7 @@
 {0}fn+wclhi.ysuyru 永遠
 {0}fn+wegkjuk.jiodri 極端
 {0}fn+ohsxg.hjouue 函数
+{0}fn+oc+tdbkihjg.ysuxuexke 永続性
 {0}fn+oc+stihjg.ysuxuehxe 永続化
 {0}fn+ea+ctkkie.ysujkujyi 永井均
 {0}fn+ix+la+rrmkjicmp.ysujpohvogvi 永劫回帰
@@ -14485,6 +14501,7 @@
 {0}jg+yfykv.yeejmi 頁間
 {0}jg+yfexu.xligri 相関
 {0}jg+yjd.ziemko 自明
+{0}jg+nprzu.xlizeo 相澤
 {0}jg+ntlgy.mcepce 冒泡
 {0}jg+nuxd.ziejto 自決
 {0}jg+nuiu.xlidve 相对
@@ -14532,6 +14549,7 @@
 {0}jg+hocjgu.xlixue 相続
 {0}jg+hi+tdbkuss.xliuiexke 相似性
 {0}jg+hi+ienuss.xliuiedue 相似度
+{0}jg+hf+sm+jbukks.xlihuezoeyse 相互作用
 {0}jg+cydu.xliugi 相声
 {0}jg+cykdu.xliihu 相場
 {0}jg+cx+uhiiddm.ziedsejii 自動機
