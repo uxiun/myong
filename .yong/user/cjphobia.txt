@@ -2245,6 +2245,7 @@
 {0}tx+ittbs.niutde 擬態
 {0}tt 比
 {0}tt,pc+tt,lpclzllz.bieliibielii 哔哩哔哩
+{0}tt,xrjy.kyibue 昆布
 {0}tt,rkiy.kyiiso 昆虫
 {0}tt,cixmi.tdeuie 態勢
 {0}tt,wlkozb.piipko 批評
@@ -4911,6 +4912,7 @@
 {0}cw+kcdyktg.huupoe 琥珀
 {0}cw+fukgj.liozia 璃子
 {0}cw+fhmkkxc.bjimau 斑马
+{0}cw+jtyklo.qsooii 琼脂
 {0}co+bkhiop.hwisue 黒素
 {0}co+yg+lx+wlttypfwo.hwiseehvixpo 黒色詼諧
 {0}co+yweyp.hwivje 黑暗
@@ -5287,9 +5289,11 @@
 {0}mx+ma+ia+mx+ca+xkflskqsp.yiiwjevvayiiliuqio 伊万･伊里奇
 {0}mx+zzrpu.uuiozo 枢軸
 {0}mx+zzskju.uuilyo 枢輪
+{0}mx+zj+ejurlerj.qyoddecde 裙带菜
 {0}mx+wnsihs.yiicji 伊餐
 {0}mx+weytte.qpeyie 惬意
 {0}mx+siyhs.yiiuio 伊食
+{0}mx+ezjrjrl.qyodde 裙带
 {0}mx+ejons.yiitgo 伊藤
 {0}mx+iijs.yiilhu 伊朗
 {0}mx+kj+no+dyskijed.yiilieuaibdo 伊丽莎白
@@ -8137,6 +8141,7 @@
 {0}sp+wknw.hduuhe 海上
 {0}sp+ojlunw.hdutho 海棠
 {0}sp+lnw.hdukzu 海口
+{0}sp+enlunw.hduzcu 海藻
 {0}sp+evcnw.hdujii 海基
 {0}sp+estuw.mwohxi 梅花
 {0}sp+ixdddnw.hducji 海参
@@ -10148,7 +10153,8 @@
 {0}ec+itkun.yheuie 様式
 {0}ec+itksi.yiouie 儀式
 {0}ec+fuun.yhezia 様子
-{0}ezj+rj 帯
+{0}ezj+rj 带
+{1}ezj+rj 帯
 {0}ez+bcn.guuuzu 鼓手
 {0}ez+ok+kd+lo.wewlcilphnww.xkefuoosidmuoje 幸福终点站
 {0}ez+ojlbcn.guuohu 鼓掌
@@ -10220,6 +10226,7 @@
 {0}ev+dwfxczs.sdetku 赛艇
 {0}ev+dskkfe.bkexko 並行
 {0}ev+dfkriyn.bcefgi 暴風
+{0}ev+kxzw.hjotmi 寒天
 {0}ev+kedddp.yiexko 異形
 {0}ev+kkmkd.yjolie 严厉
 {0}ev+kkoy.xmuuie 显示
