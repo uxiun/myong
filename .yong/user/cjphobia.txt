@@ -3079,6 +3079,7 @@
 {0}rf,mznxu.cyoquu 存取
 {0}rf,mdxncv.iiefae 赤髪
 {0}rf,md+hi+frxbivbs.hxeffiniuofe 划分拟阵
+{0}rf,zfucv.iiezie 赤字
 {0}rf,vmdi.hxeffi 划分
 {0}rf,wl+llixlxusy.cyoiuuqie 存儲器
 {0}rf,wl+jj.dulkcxusywl.cyoiuugoeigo 存儲過程
@@ -10153,8 +10154,6 @@
 {0}ec+itkun.yheuie 様式
 {0}ec+itksi.yiouie 儀式
 {0}ec+fuun.yhezia 様子
-{0}ezj+rj 带
-{1}ezj+rj 帯
 {0}ez+bcn.guuuzu 鼓手
 {0}ez+ok+kd+lo.wewlcilphnww.xkefuoosidmuoje 幸福终点站
 {0}ez+ojlbcn.guuohu 鼓掌
