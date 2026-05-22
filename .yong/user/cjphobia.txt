@@ -730,6 +730,7 @@
 {0}pd+ittkgi.izutde 醜態
 {0}pd+kwdz.bwixxe 卑下
 {0}pd+kedddkgi.izuxko 醜形
+{0}pd+fheeku.suibku 酥饼
 {0}pk 置
 {0}pkf 町
 {0}pk+ 票
@@ -2084,6 +2085,7 @@
 {0}xa+wdm.daefhi 大方
 {0}xa+wktp.ybiciu 因此
 {0}xa+wkklw.wfoyjo 文言
+{0}xa+wjsx.daedio 大敵
 {0}xa+ohsxk.tmiuue 天数
 {0}xa+ow+sikjvhig.daetsulku 大統領
 {0}xa+oj 大学
@@ -4082,6 +4084,7 @@
 {0}gr+ud+ee,sk+yuisfwkrwdkf.ilexbijbexkouio 创新进行时
 {0}gr+wudkrsf.ilexbi 创新
 {0}gr+weytsf.ileyie 创意
+{0}gr+ikntf.pcobki 刨冰
 {0}gr+dbgjf.ghimco 剛毛
 {0}gr+fxrbsf.ilejme 创建
 {0}gu+nzkvli.dcuyju 导演
@@ -4784,6 +4787,7 @@
 {0}cr,evjkf.dceqii 到期
 {0}cr,idtkkf.dcediu 到底
 {0}cr,idhikf.dcediu 到底
+{0}cr,iknsf.coebki 剉冰
 {0}cr,ffkf.dcelea 到了
 {0}cu 地
 {0}cu+qd+xdid.dguufidae 等身大
@@ -10717,6 +10721,7 @@
 {0}ic+fifik.oiedoi 至多
 {0}imj.e 盛
 {0}im+ycuiyr.jiouio 即時
+{0}im+ywloh.hrejku 幻景
 {0}im+yodddh.hreyku 幻影
 {0}im+ya+lw+ejvhdez.hrerieciodmu 幻日辞典
 {0}im+xjcr.qteyzu 却有
@@ -12503,6 +12508,7 @@
 {0}kh+kkob.bnuuie 表示
 {0}kh+fytsb.bnuxle 表象
 {0}kh+fubio.suezia 素子
+{0}kh+fl+ouirlkmk.qnukeutho 巧可糖
 {0}kh+filb.bnumko 表名
 {0}kci 玉
 {0}kcf,s 玖
@@ -13165,6 +13171,7 @@
 {0}kk.wlecisi.hveyie 会議
 {0}kk.wldzlsi.hvehxe 会話
 {0}kk.wlkklwl.yjoyuu 言語
+{0}kk.wljjul.wuogci 梧膏
 {0}kk.wexsi.yyosse 伝送
 {0}kk.wetszg.wjosve 完遂
 {0}kk.wi+zkkvg.sjiiseuie 三銃士
@@ -13328,12 +13335,14 @@
 {0}kf+wsrfb.daukee 打刻
 {0}kf+wloxl.qiodmu 奇点
 {0}kf+wlofik.roedmu 弱点
+{0}kf+wljjul.keigci 柯膏
 {0}kf+wepcnl.heotso 河童
 {0}kf+weyzks.cieohi 次章
 {0}kf+wdclb.dauzce 打造
 {0}kf+wkwb.daukau 打卡
 {0}kf+wkjz.nkokfu 宁肯
 {0}kf+obmgks.ciejre 次巻
+{0}kf+ouvmdul.keiffu 柯粉
 {0}kf+ohsxxl.qiouue 奇数
 {0}kf+ohsxks.cieuue 次数
 {0}kf+okgo.dgigli 灯光
@@ -13384,6 +13393,7 @@
 {0}kf+fulij.ysuzia 踊子
 {0}kf+fu+uhiibz.dauziejii 打字機
 {0}kf+fiwsf.liewde 例外
+{0}kf+jugul.keiruu 柯乳
 {0}kf+jzpzrii.jlijyi 将軍
 {0}kf+jvzkfdr.yzooue 郵貯
 {0}kf+jdbkb.dauuge 打胜
@@ -13940,6 +13950,7 @@
 {0}fs+xk+su+wlfrlbxi.ivizzeleebue 吹奏楽部
 {0}fs+xk+isulbx.ivizzelee 吹奏楽
 {0}fs+rrdnit.fwebju 廃版
+{0}fs+rcyi.oiiuui 之書
 {0}fs+rmyi.oiijmi 之间
 {0}fs+ri.oiiosi 之中
 {0}fs+uyhi.oiigfi 之根
