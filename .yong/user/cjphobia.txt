@@ -668,6 +668,7 @@
 {0}pz+xdrkio.djiduo 単独
 {0}pz+ra+sss.mwugeerfo 毎个人
 {0}pz+udnv.djibju 单板
+{0}pz+uk+ebksls.geetiuiae 個体差
 {0}pz+hotgo.djiiyo 単純
 {0}pz+mehsl.geeoju 個展
 {0}pz+mkdytv.grexio 慣習
@@ -682,6 +683,7 @@
 {0}pz+sbs.mwunmo 毎年
 {0}pz+srs.mwugee 毎个
 {0}pz+suko.djitiu 単体
+{0}pz+suksl.geetiu 個体
 {0}pz+sweo.djiwwe 単位
 {0}pz+ssl.geerfo 個人
 {0}pz+sa+bk+czmrnsltj.geerfoqkobce 個人情報
@@ -765,6 +767,7 @@
 {0}pa+ya+ka+xa+jk+hhouukkh.dsiriebfudaeofezdi 東日本大震災
 {0}pa+nspwu.dsihdu 東海
 {0}pa+nebu.dsiyho 東洋
+{0}pa+xu.dsidae 東大
 {0}pa+ta+da+sk+oc+wdhrtsnvhl.yzobiuvvabhijpoyii 由比ヶ浜結衣
 {0}pa+rktu.dsibwu 東北
 {0}pa+rk+xuk.dsigsidae 東工大
@@ -1208,6 +1211,7 @@
 {0}ya+ka+jx+dskkfur.riebfuyhixko 日本央行
 {0}ya+ka+jf+kk.qj+skkiuoubhdv.riebfuxtoofexkehve 日本学術振興会
 {0}ya+ka+jf+jk+hi+ueejuoubnui.riebfuxtoyrojiigze 日本学生支援機構
+{0}ya+jrkk.bduyro 百円
 {0}ya+jr+jmrnrdf.jqeoiefuo 旧制服
 {0}ya+jgd.bdomue 白目
 {0}ya+jm.ygdkk.bdoxtubai 白雪巴
@@ -3054,6 +3058,7 @@
 {0}rk+frsm.wwedve 卫队
 {0}rk+frskubw.pdoiuo 排除
 {0}rk+frskkbw.pdoxmu 排险
+{0}rk+fvli.svixnu 虽小
 {0}rk+filbw.pdomko 排名
 {0}rk+fkmnswd.bueoze 步骤
 {0}rk+ffflj.geolea 隔了
@@ -5162,6 +5167,7 @@
 {0}cj+oc+idmkhl.zdejpoigo 再結成
 {0}cj+ozisgg.grioje 観戦
 {0}cj+okgsgg.grigli 観光
+{0}cj+oj+klkekggigg.xmeuieyjo 現視研
 {0}cj+stjgvsgv.lbedde 賃貸
 {0}cj+sm+dcxmkcg.zdeqiudse 再起動
 {0}cj+swcle.yeioue 噎住
@@ -5372,6 +5378,7 @@
 {0}mu.stojsrd.biesou 闭锁
 {0}mu.eyxjrd.biemue 闭幕
 {0}mu.ihixf.ogiyie 争议
+{0}mu.kpezjf.ogibae 争覇
 {0}mu.jbf.ogiyse 争用
 {0}mg+nmken.fjelje 氾濫
 {0}mg+hi+if+fokdsfi.veegxidoivru 厄瓜多尔
@@ -6274,6 +6281,7 @@
 {0}zj+ti+udfdgu.dyegzejii 盾构机
 {0}zj+utidg.dyegze 盾构
 {0}zj+ueerj.ddeldo 带来
+{0}zj+ht+ctuukl.oiombodie 植民地
 {0}zj+ctuds.oiedie 质地
 {0}zj+cilksh.oioyue 値域
 {0}zj+cilkerj.ddeyue 帯域
@@ -6292,6 +6300,7 @@
 {0}zj+sduk.oiorue 植入
 {0}zj+sdcv.tmorue 填入
 {0}zj+lu+evjdss.oiebcuqii 质保期
+{0}zj+lhtuk.oiombo 植民
 {0}zj+ebjgerj.ddeoea 带着
 {0}zj+edufuz.njolie 楠莉
 {0}zj+il+rjklperjck.ddeyuefuo 帯域幅
@@ -6377,6 +6386,7 @@
 {0}za+fuu.moezia 末子
 {0}za+fkxmk.gjejbe 干劲
 {0}za+ffkjsk.gjeyue 干预
+{0}za+jrkd.qmiyro 千円
 {0}za+jgdgy.zcujme 早見
 {0}za+jgdzks.wuuuve 午睡
 {0}vb+bdti.mootoi 摩托
@@ -7371,6 +7381,7 @@
 {0}wa+xdufk.xxelie 下痢
 {0}wa+tyk.xxexyo 下旬
 {0}wa+rcyk.xxeuui 下書
+{0}wa+uymkk.xxetae 下榻
 {0}wa+hksklr.buugwu 补给
 {0}wa+ctuk.xxedie 下地
 {0}wa+mk+zn+md+lr+ncikljvuvzf.xxeveeoiiffigeifau 下顎枝矢状分割法
@@ -7511,6 +7522,7 @@
 {0}or+dn+stiprul.ufogeohxe 神格化
 {0}or+dutdipr.ufomie 神秘
 {0}or+djwiipr.ufoozi 神舟
+{0}or+kmipr.ufohue 神戸
 {0}or+fs+ceslipri.ufooiitau 神之塔
 {0}ou 米
 {0}oux+ 炔
@@ -11138,6 +11150,7 @@
 {0}if+ixsl.hjoyie 含义
 {0}if+izvves.oiimao 芝麻
 {0}if+ivbfi.doimoo 多摩
+{0}if+iltff.yuugju 予感
 {0}if+dbks.jbiugi 今生
 {0}if+dbkes.oiiugi 芝生
 {0}if+dn+jp+evdkrfinlk.doiloelwosii 多洛雷斯
@@ -11554,6 +11567,7 @@
 {0}dt+zvksk.diiksi 低空
 {0}dt+wursk.diisue 低速
 {0}dt+wvdnji.bcebme 豹変
+{0}dt+wvjlik.diuuhi 底商
 {0}dt+wljclsk.diidne 低調
 {0}dt+weysk.diiybi 低音
 {0}dt+wijb.toiyue 托育
@@ -12831,9 +12845,11 @@
 {0}ko+rb,furjn.oiujbizia 襧津子
 {0}ko+hfuw.hdohcu 还好
 {0}ko+zuw.hdowwe 还未
+{0}ko+ws,ienmsx.lkombudue 灵敏度
 {0}ko+oubkjm.lkojki 灵精
 {0}ko+oa+hlwk.hdobueruo 还不如
 {0}ko+oa+steywk.hdobuecoe 还不错
+{0}ko+swsxm.lkombu 灵敏
 {0}ko+skffk.uielie 示例
 {0}ko+ix+ssrrkkm.uiedsejxe 示动价
 {0}ko+iltm.lkogju 灵感
@@ -12971,6 +12987,7 @@
 {0}kl+sa+wlctj.tsorfooie 同人誌
 {0}kl+sa+ey+isujw.tsorfoybilee 同人音楽
 {0}kl+lj+ca+xmjwclk.tsodneyailie 同調圧力
+{0}kl+ebjgwp.biioea 逼着
 {0}kl+ey+zfujw.tsoybizie 同音字
 {0}kl+ey+ev+cd+wlkkljwpebi.tsoybiyieyieyuu 同音異義語
 {0}kl+ecdbij.tsoyie 同義
@@ -13356,6 +13373,7 @@
 {0}kf+sklhsk.jkiheo 经合
 {0}kf+sk+ul+ififsfdkfdkc.liexkoigoxue 例行程序
 {0}kf+sfvmds.qieffi 气氛
+{0}kf+sjnl.heonwe 河内
 {0}kf+lgexl.qioyie 奇异
 {0}kf+lkwrvxl.qiojii 奇跡
 {0}kf+la+jgslp.heohvomue 何回目
@@ -13910,7 +13928,9 @@
 {0}fm+dmdkrcd.ihusou 场所
 {0}fm+fhzllcd.ihugru 场馆
 {0}fz+ra+ck+kpivnshpko.vjijxuhrosri 氨甲环酸
+{0}fz+ht+ctukjkl.oiombodie 殖民地
 {0}fz+wurw.xyesue 迅速
+{0}fz+lhtkjk.oiombo 殖民
 {0}fz+evjn.xyeqii 汛期
 {0}fz+ekteksv.bbezhe 殡葬
 {0}fz+kjpw.xyelwo 迅雷
@@ -14264,6 +14284,7 @@
 {0}jp+vmzlkg.dmejue 電鋸
 {0}jp+vj+oz+ilkgwlk.dmeuhipkotdo 電商平台
 {0}jp+wyzkg.dmeooo 電卓
+{0}jp+wxk.lwodao 雷达
 {0}jp+wvjlkg.dmeuhi 電商
 {0}jp+wldzlkg.dmehxe 電話
 {0}jp+weykg.dmeybi 電音
