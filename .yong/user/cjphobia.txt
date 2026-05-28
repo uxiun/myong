@@ -379,6 +379,7 @@
 {0}ba+brkwd.nqopdo 牛排
 {0}ba+bep.uzumno 手描
 {0}ba+bixm.uzuuie 手势
+{0}ba+bdy.uzupdi 手拍
 {0}ba+bdt.uzutoi 手托
 {0}ba+bf,ssxsk.nmoqkirfo 年轻人
 {0}ba+yfys.nmojmi 年間
@@ -772,6 +773,7 @@
 {0}pa+rktu.dsibwu 東北
 {0}pa+rk+xuk.dsigsidae 東工大
 {0}pa+rj+jk+ij+bt,sizlluyxkkvziddd,sikekoooueru 東映霊画博物館
+{0}pa+ra+uf+dulddm.tmoosixqeheo 田中秀和
 {0}pa+uytte.quigye 曲棍
 {0}pa+uui.tmocyi 田村
 {0}pa+uer.yzoldo 由来
@@ -1386,6 +1388,7 @@
 {0}na+bwzzn.ulipbi 双拼
 {0}na+bwdfd.fjukhe 反抗
 {0}na+bojbz.oiiigi 支撑
+{0}na+bkhio.uvusue 水素
 {0}na+bk+rydgnd.uliugivro 双生児
 {0}na+bjknz.oiiyro 支援
 {0}na+bj+pleg.uvuoeahvo 水着回
@@ -1673,6 +1676,7 @@
 {0}xu+dujwi.dvecee 対策
 {0}xu+kpmrwi.dvemme 対面
 {0}xu+kl+bkfbim.uzesiidau 寿司打
+{0}xu+kl+iifrbim.uzesiilho 寿司郎
 {0}xu+fytswi.dvexle 対象
 {0}xu+fifiwi.dvedoi 対多
 {0}xu+jc+stwif.dvejnuhxe 対角化
@@ -2593,6 +2597,7 @@
 {0}ta+jp+pwxkg.xbidmetuo 心電図
 {0}ta+jum.niocdu 尼采
 {0}ta+jeim.xbizhe 心臓
+{0}ta+jk+zxycwc.oiewheoeu 志望者
 {0}ta+jk+ka+yrjxibnw.ykiyrouheyke 応援上映
 {0}r 中
 {0}rb,nudnn.jbiboi 津波
@@ -3699,6 +3704,7 @@
 {0}ud+hofyghkr.drejto 断絶
 {0}ud+hs+ixmirni.bwerfewwe 被认为
 {0}ud+hkclp.trojpo 团结
+{0}ud+cidmwkr.xbiigo 新城
 {0}ud+ck+ks+jg+il+mxwkrfpkhcdn.xbijliwwozieoiequi 新疆维吾尔自治区
 {0}ud+mbmodzc.osumau 種馬
 {0}ud+mm.hj.ujkwkrrzicl.xbiwfodneoai 新闻调査
@@ -4923,6 +4929,7 @@
 {0}cw+fukgj.liozia 璃子
 {0}cw+fhmkkxc.bjimau 斑马
 {0}cw+jtyklo.qsooii 琼脂
+{0}co+brrjp.hwibhi 黑帮
 {0}co+bkhiop.hwisue 黒素
 {0}co+yg+lx+wlttypfwo.hwiseehvixpo 黒色詼諧
 {0}co+yweyp.hwivje 黑暗
@@ -6765,6 +6772,7 @@
 {0}va+rydgf.xnuvro 小児
 {0}va+rrrp.sieiri 四川
 {0}va+rrdpz.jbipdo 金牌
+{0}va+rr,ke+pufrez.xnuirihxogou 小川華果
 {0}va+rr,ka+nfr.xnuiriyiiuvu 小川一水
 {0}va+riprgf.xnuyko 小蝿
 {0}va+rilqgf.xnuyko 小蠅
@@ -6874,6 +6882,7 @@
 {0}va+kk.va+lkktlltl.bailiebailie 叭囇叭囇
 {0}va+kfcf.xnuxko 小型
 {0}va+kjrki.jbirso 金融
+{0}va+ka+uwu.lqebfumue 六本木
 {0}va+fpo.jbiyuo 金魚
 {0}va+fyg.jbisee 金色
 {0}va+fxrbe.gsejme 共建
@@ -7109,6 +7118,7 @@
 {0}wz,if+fifibzfi.pbidoidoi 拼多多
 {0}wz,dnuvz.lmetno 鏈条
 {0}wz,furpz.bwezia 輩子
+{0}wz,fs+zvkezi.lmooiiksi 蓮之空
 {0}wv+bwyzbj.odidne 摘掉
 {0}wv+pm+llixlwjkg.uiepweqie 適配器
 {0}wv+nyjewj.uiewfi 適温
@@ -10440,6 +10450,7 @@
 {0}ek+ziscbk.ljojpo 拦截
 {0}ek+ws,oxkjvkjvl.tzozuolwe 頭足類
 {0}ek+wlfrkjv.tzobue 頭部
+{0}ek+wljlkjv.tzogci 頭高
 {0}ek+weytnj.mjuyie 满意
 {0}ek+wkkjv.tzouhe 頭上
 {0}ek+og+nddhkjvjx.tzoncupde 頭脳派
@@ -10717,8 +10728,8 @@
 {0}ir+dlkrjrii.isouii 蟲師
 {0}ir+djrffi.qlooie 強制
 {0}ir+kfofi.qlolpe 強烈
-{0}ig 说
-{1}ig 祝
+{-}ig 说
+{0}ig 祝
 {0}iht+y 询
 {0}ih+nnn.poiuvu 泼水
 {0}ih+na+emrnn.poiuvujpo 泼水节
@@ -11385,6 +11396,7 @@
 {0}dy+bb.pdiuzu 拍手
 {0}dy+bgw.poejii 迫击
 {0}dy+bmznb.pdiuee 拍摄
+{0}dy+bkhioko.yrosue 原素
 {0}dy+pxko.yroybi 原因
 {0}dy+prrkwko.yrozve 原罪
 {0}dy+ylob.pdioce 拍照
@@ -11513,6 +11525,7 @@
 {0}dn+fils.fjumko 仮名
 {0}dn+jbsu.piofui 皮肤
 {0}dn+jusnf.jioxii 及膝
+{0}dn+jegu.bjughi 板岡
 {0}dn+jjtnxw.tgovde 疼愛
 {0}dxt 懲
 {0}dx,bknej.qnomde 蕎麦
@@ -12174,6 +12187,7 @@
 {0}da+ojfus.ruexto 入学
 {0}da+sbo.ucunmo 少年
 {0}da+irirw.gluozi 广州
+{0}da+iocs.rueuee 入社
 {0}da+il+jxxwck.gluyuewhu 广域网
 {0}da+ijttu.cdongo 才能
 {0}da+duwljs.ruegcu 入稿
@@ -13266,6 +13280,7 @@
 {0}kk.dm+lm+if+cf,clelzgiwgstss.wjoigojienmehrixiu 完成記念大歓喜
 {0}kk.dm+ienzgi.wjoigodue 完成度
 {0}kk.dzpcozx.yjoose 厳重
+{0}kk.dzpck.sjiose 三重
 {0}kk.dzdfnk.sjidre 三段
 {0}kk.dwek.sjilie 三笠
 {0}kk.dsivfei.yyouue 芸術
@@ -13720,7 +13735,9 @@
 {0}fb,bykfs.igodji 承担
 {0}fb,zixbfs.igozde 承载
 {0}fb,wlmitfs.igorfe 承認
+{0}fb,wlexlfs.igonoe 承諾
 {0}fb,ssmsu.jpozoe 傑作
+{0}fb,le+rcyfswxl.igonoeuui 承諾書
 {0}fb,jjnfs.igouze 承受
 {0}fp+lhtno.yuombo 漁民
 {0}fp+eveuno.yuoyee 漁業
@@ -13784,6 +13801,7 @@
 {0}fx+sy+wcrdki.jludeoouu 奖得主
 {0}fx+srfxs.qiehze 気候
 {0}fx+suis.qiefue 気付
+{0}fx+suks.qietiu 気体
 {0}fx+szjkvb.jmeoio 鍵值
 {0}fx+skcsb.jmeqro 健全
 {0}fx+skls.qieheo 気合
@@ -13799,6 +13817,7 @@
 {0}fx+kfrfvb.jmelpe 鍵列
 {0}fx+fytss.qiexle 気象
 {0}fx+frskkd.fgixmu 风险
+{0}fx+fifibc.tkudoi 挺多
 {0}ft 発
 {0}ft,bt,wlkklkddd.siuwueyuu 死物語
 {0}ft,bk+scjggkd.siuugigri 死生観
@@ -13851,6 +13870,7 @@
 {0}fr+ka+kf+sr+xa+oziddkkspr.dievreciejpedaeoje 第二次世界大戦
 {0}fr+fuvd.diezia 弟子
 {0}fr+filkf.lpemko 列名
+{0}fu+bx,iodkrhz.hcuuioqio 好実祈
 {0}fu+pm+ykpczkr.ziemmelle 字面量
 {0}fu+pwiz.ziemuu 字母
 {0}fu+yx+epydej.biemuequi 閉幕曲
@@ -14149,6 +14169,7 @@
 {0}fd+ldldri.fgilvu 風呂
 {0}fd+esuhm.nduiao 奶茶
 {0}fd+djeln.xiixte 吸血
+{0}fd+kpdnlhm.ndulce 奶酪
 {0}fd+fryhun.jioxme 极限
 {0}fd+frln.xiiybu 吸引
 {0}fd+fuhm.nduzia 奶子
@@ -14518,6 +14539,7 @@
 {0}ju+vpze.cdedji 菜单
 {0}ju+wlwdmb.cdufhu 採訪
 {0}ju+wlevye.cdepuu 菜譜
+{0}ju+weyb.cduybi 採音
 {0}ju+ogmkce.rsoyce 荣耀
 {0}ju+scub.cdujio 採集
 {0}ju+exdxe.rsohoe 荣获
@@ -15266,6 +15288,7 @@
 {0}ja+hoskl.ytegwu 月給
 {0}ja+hi+ta+kl+dbtddxuiss.yzujiihxeheowue 有機化合物
 {0}ja+hkizx.yzuxme 有线
+{0}ja+cydx.yzuugi 有声
 {0}ja+czmrn.ytebce 月報
 {0}ja+csmznx.yzuque 有趣
 {0}ja+mbmox.yzumau 有馬
@@ -15275,6 +15298,7 @@
 {0}ja+zzjy.mkoico 明朝
 {0}ja+zvsls.nwerso 内容
 {0}ja+zvkx.yzuksi 有空
+{0}ja+zkwss.nwedke 内定
 {0}ja+zk+djxmszki.nweorujbi 内転筋
 {0}ja+vx+jg+cx+uhiixzmddm.yzuqsoziedsejii 有穷自動機
 {0}ja+vwzzs.nwelme 内鏈
