@@ -4579,6 +4579,7 @@
 {0}hk+ezjrjh.siidde 丝带
 {0}hk+ixikl.yuuyie 语义
 {0}hk+ihstioz.pkolye 评论
+{0}hk+il+ta+ixkjsfp.guemkosiiyie 顾名思义
 {0}hk+kh+iwleir.yceolidme 药妆店
 {0}hk+kk.ojfuiklwl.yuuyjoxto 语言学
 {0}hk+kj+fs+lkdnlhhcli.siiizooiilue 丝绸之路
@@ -12371,6 +12372,7 @@
 {0}kr+bweci.isiole 冲撞
 {0}kr+nlks.tneuvu 跳水
 {0}kr+niyhi.isilhe 冲浪
+{0}kr+xbhig.ljuiei 缆车
 {0}kr+rcwdhsx.bmeoli 便装
 {0}kr+ur+iwlsxdf.bmeliedme 便利店
 {0}kr+udnlsp.siegeo 価格
