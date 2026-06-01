@@ -68,6 +68,7 @@
 {0}bt,cp+ojfudddkc.wueliuxto 物理学
 {0}bt,cp+dytidddkc.wueliudea 物理的
 {0}bt,ze+jxxdddmx.wuelmowhu 物联网
+{0}bt,za+dkzdddk.wuegjegji 物干竿
 {0}bt,wlkklddd.wueyuu 物語
 {0}bt,sukddd.wuetiu 物体
 {0}bt,sfysddd.wuexle 物像
@@ -985,6 +986,7 @@
 {0}yi+pdnlug.gdelte 概略
 {0}yi+ydr.jporie 節日
 {0}yi+ueejug.gdegze 概構
+{0}yi+wlvlgug.gdeuoi 概説
 {0}yi+wlodr.jpodmu 節点
 {0}yi+wlskjug.gdelye 概論
 {0}yi+wizvug.gdeuue 概述
@@ -2125,6 +2127,7 @@
 {0}xa+sk+ge+wplokjtkm.tmifueyiebku 天赋异禀
 {0}xa+sfxk.tmiqie 天気
 {0}xa+sj+ueyxbgg.daegvimoo 大規模
+{0}xa+sa+sluf.daejqubcu 大久保
 {0}xa+lxml.daekai 大咖
 {0}xa+lr+ya+stjgvsfk.daeilebduhoe 大創百貨
 {0}xa+lmrfm.quibpo 区別
@@ -3082,6 +3085,7 @@
 {0}rf,xrcxu.cyozde 存在
 {0}rf,twmksx.hzennu 候鸟
 {0}rf,rrtfmt.ybuhre 隐患
+{0}rf,rc,wlskjxux.cyozdelye 存在論
 {0}rf,rc,lk+yjxuxwwk.cyozdeogemko 存在証明
 {0}rf,rc,iltxux.cyozdegju 存在感
 {0}rf,rizjsx.hzebuu 候補
@@ -3417,6 +3421,7 @@
 {0}ur+czmrnw.suebce 速報
 {0}ur+mgdf.liejiu 利己
 {0}ur+wmssxd.osuzuo 种族
+{0}ur+wlmgw.suejie 速記
 {0}ur+wlodf.liedmu 利点
 {0}ur+wiszdf.lielve 利率
 {0}ur+ouxd.osulwe 种类
@@ -9114,6 +9119,7 @@
 {0}lt+kv+csmznio.gjuxkique 感兴趣
 {0}lt+fu+xkwkin.gjurjuoge 感染症
 {0}lt+fjrkii.gjuiue 感触
+{0}lt+jj.nddhiogg.gjujtopde 感覚派
 {0}lrr,r 啸
 {0}lr+ 割
 {0}lr+bixmfi.qlouie 强势
@@ -9356,6 +9362,7 @@
 {0}ls+hotkkjc.qteyti 確約
 {0}ls+hofkszx.gueyro 故縁
 {0}ls+hojkwkj.lyezuu 論組
+{0}ls+cp+yt+ta+zxkhmwkjkcdip.lyeliudeasiikcu 論理的思考
 {0}ls+cp+zk+jg+fuwkjkcnvde.lyeliuyjusrezia 論理演算子
 {0}ls+cp+itkwkjkc.lyeliuuie 論理式
 {0}ls+cwpkwkj.lyetjo 論壇
@@ -9425,11 +9432,13 @@
 {0}le+njfukhi.ciofuo 磁浮
 {0}le+xvdfnwku.mzouai 謀殺
 {0}le+tzjvwrk.jbuufe 謹慎
+{0}le+rr,vfknwcizf.yieuielue 議事録
 {0}le+rfnk.dzejli 豆浆
 {0}le+hopwb.xloxie 詳細
 {0}le+mbmomb.qyomau 群馬
 {0}le+mzddrmb.qyolno 群聊
 {0}le+mdxnwsn.huefae 護髪
+{0}le+zrrfwci.yieuie 議事
 {0}le+zzlmzwvy.puujio 譜輯
 {0}le+zskvcl.jxibbi 嘉宾
 {0}le+zkdvcl.jxibbi 嘉賓
@@ -9914,6 +9923,7 @@
 {0}la+ilt.kzugju 口感
 {0}la+dtyk.uiosyu 石筍
 {0}la+dmdkri.tdosou 台所
+{0}la+dm+vjegci.jioigoghi 吉成鋼
 {0}la+dshinx.yzehze 右後
 {0}la+dssynp.hvofue 回復
 {0}la+dsklp.hvodao 回答
@@ -10173,6 +10183,7 @@
 {0}eh+mxm.ojuqui 展区
 {0}eh+mijggm.ojulju 展覧
 {0}eh+wjkcm.ojuwhe 展望
+{0}eh+ilm.ojutdo 展台
 {0}eh+kcjdgm.ojuxme 展现
 {0}eh+kem.ojukdi 展开
 {0}eh+kkom.ojuuie 展示
@@ -10557,6 +10568,7 @@
 {0}ea+ihvlgk.kdiuoi 开说
 {0}ea+imlk.kdiqiu 开启
 {0}ea+imje.bkejmi 并肩
+{0}ea+iznw.lieqqo 立求
 {0}ea+iw+rk+nkdotfus.uiewdetcoyro 世外桃源
 {0}ea+iijk.kdilhu 开朗
 {0}ea+dbjgu.ldokje 来看
@@ -10729,7 +10741,6 @@
 {0}ir+dlkrjrii.isouii 蟲師
 {0}ir+djrffi.qlooie 強制
 {0}ir+kfofi.qlolpe 強烈
-{-}ig 说
 {0}ig 祝
 {0}iht+y 询
 {0}ih+nnn.poiuvu 泼水
@@ -10830,6 +10841,7 @@
 {0}iz+fygn.qmusee 浅色
 {0}iz+juglj.buuruu 哺乳
 {0}iz+jkxmrj.buuoue 補助
+{0}iv+srrsn.jyejpe 俊介
 {0}iv+lmrfgn.jyebpo 峻別
 {0}iw+br,dmdkrzdhof.cdopjesou 裁判所
 {0}iw+br+zlrlzdhof.cdopjegri 裁判官
@@ -11374,6 +11386,7 @@
 {0}db,jg+wlmittkd.xkezierfe 性自認
 {0}db,jzpzsi.veojyi 俄軍
 {0}db,jdyntk.xkexme 性腺
+{0}db,jkkvtk.xkejue 性具
 {0}db,jjtntk.xkevde 性愛
 {0}dq+bizjbn.szibuu 搜捕
 {0}dq+xdtlbn.szigzu 搜狗
@@ -11414,6 +11427,7 @@
 {0}dy+hilko.yrouiu 原始
 {0}dy+cydlo.mkougi 鳴声
 {0}dy+cx+xmkodm.yrodselie 原動力
+{0}dy+cx+kgpkodm.yrodsehxe 原動画
 {0}dy+mkiceo.nnuwui 蔦屋
 {0}dy+zskyko.yrosue 原宿
 {0}dy+zfwxb.pdimde 拍卖
@@ -11873,6 +11887,7 @@
 {0}dz+durjxbq.iaiyhi 插秧
 {0}dz+dcxmnl.hoodse 活動
 {0}dz+dswrsw.qmixiu 迁徙
+{0}dz+da+klfsbrs.iairuegei 挿入歌
 {0}dz+kpmgwl.uiepwe 适配
 {0}dz+kuwl.uieyuo 适于
 {0}dz+kgpbr.iaihxe 挿画
@@ -13582,6 +13597,8 @@
 {0}ka+cf,za+cd+fuwpifdzyo.uheyeuqmiheezia 上野千鶴子
 {0}ka+cf,ia+pclhwpifv.uheyeugsiyro 上野公園
 {0}ka+cj+rrmkjxk.zouzdegvi 左再帰
+{0}ka+mx+bf,bc,jwwsmrd.uheyiinaemuudji 上伊那牡丹
+{0}ka+mx+mbfrws.uheyiinae 上伊那
 {0}ka+mvdfnu.bfudme 本殿
 {0}ka+mijgg.yiilju 一覧
 {0}ka+mdbg.yiiwwu 一尾
