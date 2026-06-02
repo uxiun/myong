@@ -7727,6 +7727,7 @@
 {0}ow+kl+bs,lj+xkwkhigsdwcl.tsuheouiidneoge 統合失調症
 {0}ow+kfthvx.jnusiu 絞死
 {0}ow+froyohdz.fgexie 縫隙
+{0}oo.yw+ya+ywlondgk.djedcubdujku 淡島百景
 {0}oo.ggn.djeiui 淡出
 {0}oo.ce+rixccfubui.lbouuekvo 鱗樹蝰
 {0}oo.sdn.djerue 淡入
@@ -9700,6 +9701,7 @@
 {0}lj+xsktwg.lleyue 亮癒
 {0}lj+xluwl.gcijxe 高架
 {0}lj+tdbkwcl.dnexke 調性
+{0}lj+rn+sdwlh.gciuzirue 高収入
 {0}lj+rt,fn+ohsxwlftyg.gcijpihjouue 高階函数
 {0}lj+rs+ml+szjkwlfuix.gcifuejxioio 高附加值
 {0}lj+riteuz.huodpo 胡蝶
@@ -9817,6 +9819,7 @@
 {0}lj+jwvxps.yrojni 圆胶
 {0}lj+jobowl.gcitgo 高騰
 {0}lj+jk+mmlwclu.dneoaijuo 調査局
+{0}lj+jf+kuukwlou.gcixtolie 高学歴
 {0}la+prwyz.kzuoce 口罩
 {0}la+pr+mkwszcnz.jiozeocve 吉澤翠
 {0}la+puh.ruogou 如果
@@ -12594,6 +12597,7 @@
 {0}kc+ci+on+nwxrskznhc.qroqqojkijie 全球経済
 {0}kc+ci+fr+kskzndd.qroqqodieyii 全球第一
 {0}kc+ci+je+wdmskznzz.qroqqonjofhi 全球南方
+{0}kc+cjkszi.bcuosu 宝塚
 {0}kc+mxs.qroqui 全区
 {0}kc+mzcgc.yaobie 崖壁
 {0}kc+mees.qropko 全屏
