@@ -1252,6 +1252,7 @@
 {0}nc+xa+rcytw.gkewfouui 怪文書
 {0}nc+zbxm.jmiuio 堅実
 {0}nc+zdbm.jmilco 堅牢
+{0}nc+wloot.gketjo 怪談
 {0}nc+olixt.gkeuze 怪獣
 {0}nc+dbtddt.gkewue 怪物
 {0}nc+dbit.gkewou 怪我
@@ -1768,6 +1769,7 @@
 {0}xm+dbkp.njougi 男生
 {0}xm+db,tdbkptk.njoxkexke 男性性
 {0}xm+dcln.qregce 劝告
+{0}xm+dsdfnp.njoyie 男役
 {0}xm+dfkrip.njofgi 男風
 {0}xm+kp+rfkvplllc.kailiojle 咖喱酱
 {0}xm+kp+ouvmdlllc.kailioffu 咖喱粉
@@ -3202,6 +3204,7 @@
 {0}ra+ymzn.osizve 中最
 {0}ra+yzxy.osiuuu 中暑
 {0}ra+ywlo.osijku 中景
+{0}ra+yw+cx+cleldge.osidcumwujxi 中島美嘉
 {0}ra+yfys.osejmi 仲間
 {0}ra+yfy.osijmi 中間
 {0}ra+ya+na+ihkkln.osirieuliyuu 中日双语
@@ -6810,6 +6813,7 @@
 {0}va+ct,na+bwzzfswkn.xnuheeulipbi 小鹤双拼
 {0}va+csmge.gseqiu 共起
 {0}va+cd+pclhwebi.lqeyieyro 六義園
+{0}va+cf,pfpif.xnuyeutmo 小野田
 {0}va+cf,kf+xy+duyfpifpb.xnuyeutkiiyixli 小野町春香
 {0}va+mdxn.jbifae 金髪
 {0}va+mdrj.jbiuuu 金属
@@ -8338,6 +8342,7 @@
 {0}sr 个
 {0}sr+bcuisf.jmeiio 剣持
 {0}sr+pr+iidunz.xnuzeoglu 篠澤広
+{0}sr+puiwf.juetro 劇団
 {0}sr+yk+rrdnwfcd.jueihubju 劇場版
 {0}sr+rwf.jueosi 劇中
 {0}sr+ra+wsrfwf.jueosijue 劇中劇
@@ -14762,6 +14767,7 @@
 {0}jc+uw+nieoz.suelneiai 塑料叉
 {0}jc+uw+eekhfeoz.suelnepko 塑料瓶
 {0}jc+czmrnwl.ozibce 週報
+{0}jc+wlmgwl.ozijie 週記
 {0}jc+wdcle.suezce 塑造
 {0}jc+ouwze.suelne 塑料
 {0}jc+lo.ouirlfkd.jnuuaitho 角砂糖
