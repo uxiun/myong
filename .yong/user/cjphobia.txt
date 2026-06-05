@@ -40,6 +40,7 @@
 {0}bx,zk+wsrfznv.uioyjujue 実演劇
 {0}bx,wlkwkz.uiooge 実証
 {0}bx,wedgxf.gvudce 轨道
+{0}bx,ohsxz.uiouue 実数
 {0}bx,sukz.uiotiu 実体
 {0}bx,skffz.uiolie 実例
 {0}bx,sk+ycuizdkf.uioxkouio 実行時
@@ -5000,6 +5001,7 @@
 {0}cl+pcfifwh.yruyeu 遠野
 {0}cl+peej.ozitsi 周囲
 {0}cl+ywlowh.yrujku 遠景
+{0}cl+yfked.gcekdi 告開
 {0}cl+nudnj.oziboi 周波
 {0}cl+njvuj.oziufi 周深
 {0}cl+uufikl.veemge 噩梦
@@ -5683,6 +5685,7 @@
 {0}md+wjkct.qpewhe 切望
 {0}md+oxkjvv.ffilwe 分類
 {0}md+ouxv.ffilwe 分类
+{0}md+ohsxv.ffiuue 分数
 {0}md+okgv.ffigli 分光
 {0}md+strv.ffiosi 分钟
 {0}md+stv.ffihxe 分化
@@ -15318,6 +15321,7 @@
 {0}ja+hoskl.ytegwu 月給
 {0}ja+hi+ta+kl+dbtddxuiss.yzujiihxeheowue 有機化合物
 {0}ja+hkizx.yzuxme 有线
+{0}ja+cp+ohsxxkc.yzuliuuue 有理数
 {0}ja+cydx.yzuugi 有声
 {0}ja+czmrn.ytebce 月報
 {0}ja+csmznx.yzuque 有趣
