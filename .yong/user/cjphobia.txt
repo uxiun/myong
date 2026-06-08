@@ -2586,6 +2586,7 @@
 {0}ta+efrdt.biusae 比萨
 {0}ta+if+sukpst.siinmetiu 思念体
 {0}ta+dqds.hxeufi 化身
+{0}ta+dqd.xbiufi 心身
 {0}ta+dytiz.taidea 它的
 {0}ta+dzpct.biuose 比重
 {0}ta+dskli.ykidao 応答
@@ -2678,6 +2679,7 @@
 {0}ry+zkwsfh.xmedke 限定
 {0}ry+okgfkd.yhogli 陽光
 {0}ry+scuz.zjejio 暫集
+{0}ry+sfxrkd.iheqie 暢気
 {0}ry+ilf.yhotdo 阳台
 {0}ry+dgiznfkd.yhoqqo 陽毬
 {0}ry+djrffh.xmeoie 限制
@@ -4724,6 +4726,7 @@
 {0}cy+kpmrr.uuimme 書面
 {0}cy+jwmkr.uuixpu 書写
 {0}cn+dn+jskkosgz.ulifgijie 雙峰祭
+{0}cn+kciirkci.faelho 琺瑯
 {0}cn+jzfgs.oiiwje 隻腕
 {0}cx+bt,pclhdmddd.dsewueyro 動物園
 {0}cx+bjkgdm.dseyco 動揺
@@ -8290,6 +8293,7 @@
 {0}sx+fk+fz+kjpxdriw.jiofgixyelwo 疾風迅雷
 {0}sx+jf+frzkgmou.yiixtoyre 医学院
 {1}st 仑
+{0}stt,i 钓
 {0}stu 他
 {0}st+bt,ra+tjiddd.gzewueosixbi 购物中心
 {0}st+bwebu.toilai 拖拉
