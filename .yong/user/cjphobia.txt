@@ -1,5 +1,6 @@
 {0}bb,bgo.qrojii 拳击
 {0}bb,bscxfi.orutvi 转推
+{0}bb,bepxfi.orumno 转描
 {0}bb,bfjxxfi.oruhre 转换
 {0}bb,xbxfxfi.orugvu 转轨
 {0}bb,xa+fu+dsuixfiiz.oruyieziefuo 转义字符
@@ -3860,6 +3861,7 @@
 {0}uk+dubkvs.tiujii 体積
 {0}uk+dulvs.tiujii 体积
 {0}uk+dulwb.wwoheo 違和
+{0}uk+dudzcuko.jbeosu 禁種
 {0}uk+dgixs.tiuize 体臭
 {0}uk+dhios.tiuxie 体系
 {0}uk+dzpcs.tiuose 体重
@@ -5652,6 +5654,7 @@
 {0}md+gznv.ffiqio 分岐
 {0}md+ht+dsccfvvl.pbombojpi 貧民街
 {0}md+hudkrt.qpedre 切断
+{0}md+hoskit.qpehve 切絵
 {0}md+hofdnr.iuijio 初級
 {0}md+hofksw.bmiyro 辺縁
 {0}md+hojkv.ffizuu 分組
@@ -13161,6 +13164,7 @@
 {0}kd+kuhnw.osiyuo 终于
 {0}kd+klfhkno.yromau 源码
 {0}kd+ki.kciznss.pkiphiqqo 乒乓球
+{1}kkt 惡
 {0}kkh+m 巧
 {0}kkwl 言語
 {0}kket 言葉
