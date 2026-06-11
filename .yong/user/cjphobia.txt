@@ -1789,6 +1789,7 @@
 {0}xz 参考
 {0}xzx+y 奢
 {0}xv+ncixo.lnofau 療法
+{0}xw+puiekl.jkutro 警団
 {0}xw+rk+frseklm.jkuwwedve 警卫队
 {0}xw+czmrnekl.jkubce 警報
 {0}xw+mrkekl.jkuwwe 警卫
@@ -3838,6 +3839,7 @@
 {0}uk+vmdk.wuuffi 五分
 {0}uk+vlfsuko.jbeyue 禁欲
 {0}uk+wrkuko.jbeoiu 禁止
+{0}uk+wh+ydbkke.wuumhoxki 五芒星
 {0}uk+wljcls.tiudne 体調
 {0}uk+wijs.tiuyue 体育
 {0}uk+ot+vwbhk.wwoytijbi 違約金
@@ -4178,6 +4180,7 @@
 {0}gd+ukjg.jmebfu 見本
 {0}gd+gl+vlfsjzkjht.uvemmoyue 睡眠欲
 {0}gd+gl+jg+kw+rf,mlebjzkjhtuxksx,vemoligezeyo 睡眠相後退症候群
+{0}gd+ga+ur+klknjns.xxemueuueuio 夏目漱石
 {0}gd+mdbgwyo.jqewwu 鷲尾
 {0}gd+zn+pwxjgm.jmequutuo 見取図
 {0}gd+wuijzk.uvegoe 睡过
@@ -4193,6 +4196,7 @@
 {0}gd+kickn.xxeoie 夏至
 {0}gd+ka+wlctjgu.jmebfuoie 見本誌
 {0}gd+jglhtjzk.uvemmo 睡眠
+{0}gd+jgkn.xxemue 夏目
 {0}gd+jmrnkn.xxefuo 夏服
 {0}gd+jskkokn.xxejie 夏祭
 {0}gd+jk+kgpknkkv.xxelkohxe 夏霊画
@@ -9940,6 +9944,7 @@
 {0}la+iokp.hvoyki 回应
 {0}la+issc.kzuzoe 口座
 {0}la+ilt.kzugju 口感
+{0}la+dy+gd+howiykkokn.uioyroxxeoii 石原夏織
 {0}la+dtyk.uiosyu 石筍
 {0}la+dmdkri.tdosou 台所
 {0}la+dm+vjegci.jioigoghi 吉成鋼
@@ -9953,6 +9958,7 @@
 {0}la+kcrfp.hvodce 回到
 {0}la+kwh.ruoxxe 如下
 {0}la+kekjv.kzutzo 口頭
+{0}la+kdyok.uioyro 石原
 {0}la+kk.le+isijusk.xkerfodzefuu 杏仁豆腐
 {0}la+ka+ud+le+wsrfcuwkrcl.jiobfuxbixiujue 吉本新喜劇
 {0}la+fk+jgyhidri.tdofgiyju 台風眼
