@@ -7775,6 +7775,7 @@
 {0}os+suihkl.gwufue 給付
 {0}os+suihj.naefue 納付
 {0}os+lllhj.naepbu 納品
+{0}os+drbhki.hvebiu 絵筆
 {0}os+dsykihj.naedeo 納得
 {0}os+dlkrjhki.hveuii 絵師
 {0}os+kpmrhki.hvemme 絵面
@@ -9989,6 +9990,7 @@
 {0}ep+ggb.mnoiui 描出
 {0}ep+ga+uyfpbg.mnoiuiljo 描出欄
 {0}ep+hozsynh.nsosoi 濃縮
+{0}ep+hoskib.mnohve 描絵
 {0}ep+ztdgnh.nsomie 濃密
 {0}ep+zuiwi.zyiuzu 遵守
 {0}ep+wprjwy.zciyue 遭遇
