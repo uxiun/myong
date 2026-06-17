@@ -418,6 +418,7 @@
 {0}ba+mehx.ieioju 车展
 {0}ba+zxyj.yseoeu 用者
 {0}ba+za+ba+hilsus.nmomoenmouiu 年末年始
+{0}ba+vmdo.bjeffi 半分
 {0}ba+vzkso.bjedke 半錠
 {0}ba+va+yuiof.bjexnuuio 半小时
 {0}ba+wgsiis.nmolko 年齢
@@ -1859,6 +1860,7 @@
 {0}xd,mk+zxyiddw.cjiyuuoeu 参与者
 {0}xd,zxkhmidd.cjikcu 参考
 {0}xd,zevsidd.cjisde 参赛
+{0}xd,wmsfwk.yjoiio 延迟
 {0}xd,wmkidd.cjiyuu 参与
 {0}xd,ohsxidd.cjiuue 参数
 {0}xd,srprfwk.yjoufi 延伸
@@ -2825,7 +2827,8 @@
 {0}rw+nilfdm.fhooie 防治
 {0}rw+nfzfdm.fhoxye 防汛
 {0}rw+rkifdm.fhoiso 防虫
-{0}rw+uhiifxj.svojii 随機
+{-}rw+uhiifxj.svojii 随機
+{0}rw+udffxj.svojii 随机
 {0}rw+ua+oa+csmgmik.woeilobueqiu 卧床不起
 {0}rw+hhofdm.fhozdi 防災
 {0}rw+hi+rf,mznfxjuixu.svojiicyoquu 随機存取
@@ -3566,6 +3569,7 @@
 {0}us+livnzx.jnesoi 教唆
 {0}us+ljgvzx.jneyro 教員
 {0}us+ecdbizx.jneyie 教義
+{0}us+esiyhzx.jneyhu 教養
 {0}us+dbizx.jnewou 教我
 {0}us+duwzzx.jnekei 教科
 {0}us+dlkrjzx.jneuii 教師
@@ -5742,6 +5746,7 @@
 {0}md+kedddv.ffixko 分形
 {0}md+kkfsr.iuicie 初次
 {0}md+kfwdhv.ffilpe 分裂
+{0}md+kjkjrdkr.souxui 所需
 {0}md+frzpzr.iuiofe 初陣
 {0}md+frsv.ffidve 分队
 {0}md+frskut.qpeiuo 切除
@@ -8928,6 +8933,7 @@
 {0}sk+jh.zk+tuszionv.jmusouyjuxbi 検索演心
 {0}sk+jh.wlkkluszio.jmusouyuu 検索語
 {0}sk+jh.lk+tlusziowkl.jmusouyuujue 検索語句
+{0}sk+jmrndwk.ogifuo 征服
 {0}sk+js+ld+vy+fx+pclhnvwczljtdic,hiiosiiekoro 浜離宮恩賜庭園
 {0}sk+jd+yfxtcg.faimderie 発売日
 {0}sk+jfle.dgiyte 登月
@@ -11428,6 +11434,7 @@
 {0}dp+nkvplz.piojqu 啤酒
 {0}dp+xjd.lqoyzu 留有
 {0}dp+zuid.lqouzu 留守
+{0}dp+wcihxkh.wwuxpe 猥褻
 {0}dp+wlmgd.lqojie 留記
 {0}dp+ojfud.lqoxto 留学
 {0}dp+sbd.lqonmo 留年
@@ -12457,6 +12464,7 @@
 {0}ku+zkwsix.jtodke 决定
 {0}ku+wyljvs.yuoyye 余韻
 {0}ku+wh+jg+hi+tdbksfiuss.yuoxmoxliuiexke 余弦相似性
+{0}ku+wclhw.yuiyru 迂遠
 {0}ku+ww,ljgvzddf.yuuhhoyro 宇航員
 {0}ku+ww,ljszddf.yuuhhoyro 宇航员
 {0}ku+wfijip.dsetsi 凍通
@@ -14872,6 +14880,7 @@
 {0}jvl.g 脱
 {0}jv+psrrnu.ufijpe 深界
 {0}jv+yg+ey+itknufux.ufiseemoouie 深色模式
+{0}jv+ykpcnf.ceelle 測量
 {0}jv+nnu.ufiuvu 深水
 {0}jv+nrornu.ufiyri 深渊
 {0}jv+njsfbu.tjecee 探测
