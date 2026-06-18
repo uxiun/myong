@@ -185,6 +185,7 @@
 {0}bs,dlkrjdx.mueuii 牧師
 {0}bs,da+ncixkfs.uuiruefau 输入法
 {0}bs,kcircxt.lyobji 轮班
+{0}bs,fs+dy+bm+fudxikoekk.mueoiiyroxlozia 牧之原翔子
 {0}bs,ffxkf.uuilea 输了
 {0}bs,jvsxd.uiibde 失敗
 {0}bs,jilxt.lyotdi 轮胎
@@ -2827,7 +2828,6 @@
 {0}rw+nilfdm.fhooie 防治
 {0}rw+nfzfdm.fhoxye 防汛
 {0}rw+rkifdm.fhoiso 防虫
-{-}rw+uhiifxj.svojii 随機
 {0}rw+udffxj.svojii 随机
 {0}rw+ua+oa+csmgmik.woeilobueqiu 卧床不起
 {0}rw+hhofdm.fhozdi 防災
@@ -3406,6 +3406,7 @@
 {0}ux+kw+tdbknzs.jtodkexke 決定性
 {0}ux+kw+db,jg+cx+uhiinzstkddm.jtodkexkeziedsejii 決定性有限自動機
 {0}ux+kw+dh+ohsxnzsso.jtodkexieuue 決定係数
+{0}ux+klfhkt.kkemau 快码
 {0}ux+kfco.lwexko 类型
 {0}ux+fc,of+oi+dulkcokhdnhmj.lwexkojiobmiigo 类型級編程
 {0}ux+fc,sk+ujkokus.lwexkojmuoai 类型検査
@@ -12420,6 +12421,7 @@
 {0}kr+bgi.isijii 冲击
 {0}kr+bzrssx.bmejpo 便捷
 {0}kr+bweci.isiole 冲撞
+{0}kr+bscmsx.bmexpo 便携
 {0}kr+nlks.tneuvu 跳水
 {0}kr+niyhi.isilhe 冲浪
 {0}kr+xbhig.ljuiei 缆车
@@ -12435,6 +12437,7 @@
 {0}kr+wuilks.tnegoe 跳过
 {0}kr+weelks.tnejbe 跳进
 {0}kr+wki.isiuhe 冲上
+{0}kr+sc+itksxbm.bmexpouie 便携式
 {0}kr+szjhsp.sieoio 価値
 {0}kr+sozlks.tnesju 跳伞
 {0}kr+sefiblks.tnewuu 跳舞
