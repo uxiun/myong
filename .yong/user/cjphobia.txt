@@ -4457,7 +4457,7 @@
 {0}hs+mz+zv+bmggoxblbf.uuejuewaijto 数据挖掘
 {0}hs+mz+wlooxbl.uuejuedmu 数据点
 {0}hs+mz+scuoxbl.uuejuejio 数据集
-{0}hs+mz+izpzoxbl.uuejuekue 数据庫
+{-}hs+mz+izpzoxbl.uuejuekue 数据庫
 {0}hs+mz+kfcoxbl.uuejuexko 数据型
 {0}hs+zox.uueuio 数十
 {0}hs+zfuox.uuezie 数字
@@ -7137,7 +7137,6 @@
 {0}wz 章
 {1}wz 斗
 {0}wzv+t 𰻞
-{0}wzv+tblo 𰻞
 {0}wz,bwehvz.lmejpi 鏈接
 {0}wz,weybz.pbiybi 拼音
 {0}wz,we+bs,wxxmvzbhd.lmejpiuiixne 鏈接失効
@@ -7349,7 +7348,7 @@
 {0}wi+jbng.lqoyse 流用
 {0}wdo 歳
 {0}wdl 話
-{1}wdk+jv 頻
+{0}wdk+jv 頻
 {0}wdk+js 频
 {0}wd+bdnfsh.yiijue 依拠
 {0}wd+pi+ta+sm+jbbfkvnss.khesrihxezoeyse 抗酸化作用
@@ -8593,6 +8592,7 @@
 {0}sm+ozis.zoeoje 作戦
 {0}sm+of+lz+jg+uhiicdlhdnwde.icijiojiesrejii 超級計算機
 {0}sm+srsdbg.qluxqi 抢修
+{0}sm+lr+ux+klfhkcdlfit.iciqlokkemau 超强快码
 {0}sm+lmxs.zoevzu 作呕
 {0}sm+lm+zkmsswkl.zoeciojxi 作詞家
 {0}sm+lzuczn.quewwe 趣味
@@ -11948,7 +11948,7 @@
 {0}do+lfdnlu.huixii 呼吸
 {0}do+itlu.huiyki 呼応
 {0}do+dufolu.huiigi 呼称
-{1}dsg+ox 徽
+{0}dsg+ox 徽
 {0}dsz,pt 德
 {0}ds+yjdn.liomko 黎明
 {0}ds+uu.rcymnkk.lvulieuui 履歴書
@@ -12405,6 +12405,7 @@
 {0}kt+eprfk.veemge 悪夢
 {0}kt+ex,yt+bs,du+ewxbeewdieef.zhessedeafuolielmo 葬送的芙莉莲
 {0}kt+ecxr.bwumwu 北美
+{0}kt+ejksnk.hsomgo 鸿蒙
 {0}kt+itkee.zheuie 葬式
 {0}kt+ivdgik.veemoo 悪魔
 {0}kt+dy+ya+duorkod.bwuyrobdoqqi 北原白秋
