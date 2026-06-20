@@ -3,4 +3,7 @@
 {0}sj 三
 {0}skee 少儿
 {0}smsm 丧事
+{0}xohs 性活
+{0}xmdd 献典
+{0}hryu 和音
 {0}vm ”

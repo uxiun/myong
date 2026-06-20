@@ -2891,6 +2891,7 @@
 {0}rs+ldkrhx.uzitki 收听
 {0}rs+lfii.ybikzu 陰口
 {0}rs+epdufku.iuojyi 除菌
+{0}rs+esiyhsd.xqiyhu 修養
 {0}rs+ed,hsdwg.xqidcenvu 修道女
 {0}rs+efskfii.ybijki 陰茎
 {0}rs+is+wlkklsdsrj.xqiuieyuu 修飾語
@@ -4182,6 +4183,7 @@
 {0}gd+xk+ldyojggl.jmeqiomko 見崎鳴
 {0}gd+rjyjgjzk.uvemce 睡帽
 {0}gd+ub+cu+yfyjgdkvyi.jmejiiuiojmi 見積時間
+{0}gd+ukkn.xxebfu 夏本
 {0}gd+ukjg.jmebfu 見本
 {0}gd+gl+vlfsjzkjht.uvemmoyue 睡眠欲
 {0}gd+gl+jg+kw+rf,mlebjzkjhtuxksx,vemoligezeyo 睡眠相後退症候群
@@ -4267,6 +4269,7 @@
 {0}ga+zx+vd+cykyemekr.bailwisiitju 巴勒斯坦
 {0}ga+zhj.muevji 目安
 {0}ga+zk+zxygnv.iuiyjuoeu 出演者
+{0}ga+vfknj.muelue 目録
 {0}ga+wskuj.muetuo 目途
 {0}ga+wepcr.vrotso 儿童
 {0}ga+wddbkg.iuiiju 出産
@@ -4457,7 +4460,6 @@
 {0}hs+mz+zv+bmggoxblbf.uuejuewaijto 数据挖掘
 {0}hs+mz+wlooxbl.uuejuedmu 数据点
 {0}hs+mz+scuoxbl.uuejuejio 数据集
-{-}hs+mz+izpzoxbl.uuejuekue 数据庫
 {0}hs+mz+kfcoxbl.uuejuexko 数据型
 {0}hs+zox.uueuio 数十
 {0}hs+zfuox.uuezie 数字
@@ -9621,6 +9623,7 @@
 {0}lk+vx+frzkgkezf.yjojqiyre 研究院
 {0}lk+vx+jf+pclhkezfou.yjojqixtoyro 研究学園
 {0}lk+vx+jf+cl+yf+wrjkezfouphzr.yjojqixtoyrodziuie 研究学園都市
+{0}lk+vfknwkl.yuulue 語録
 {0}lk+wxzjs.veotzo 额头
 {0}lk+wlskjwoz.pkolye 評論
 {0}lk+wlfxkmc.ugedje 聖誕
@@ -10561,6 +10564,7 @@
 {0}ea+hx+xy+ey+itkkinzux.kdifaioeumoouie 开发者模式
 {0}ea+hx+zxykin.kdifaioeu 开发者
 {0}ea+ht+ojldgwl.liembodhu 立民党
+{0}ea+homgt.uiejie 世紀
 {0}ea+hilk.kdiuiu 开始
 {0}ea+hkfdnd.ugijio 升级
 {0}ea+cykdw.lieihu 立場
