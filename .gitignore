@@ -1,6 +1,6 @@
 .yong/history.txt
 *.bak
 *yongcopy.exe
-/.dict/
+/memo/
 /.table/
-mb/dicts/personal.txt 
+mb/dicts/personal.txt

@@ -26,7 +26,7 @@ auto_move=2
 # ある語の選択時、同一の綴をもつ競合候補の中で現在位置からn個上に当該語が移動する
 user=user/cjphobia.txt
 # 造詞した定義の保存場所, .yong/ からの相対 encode:gb18030必須
-dicts=mb/dicts/datetime-cj.txt mb/dicts/mark.txt mb/dicts/personal.txt mb/dicts-escape.txt mb/dicts/hangul-only.txt
+dicts=mb/dicts/datetime-cj.txt mb/dicts/mark.txt mb/dicts/personal.txt mb/dicts-escape.txt mb/dicts/hangul-space.txt
 #dictsのencode: gb18030必須
 #dicts= の直後に半角空白を入れたら .yong/history.txt 内の /^<word>space*key+$/ の形式に合う行が定義として読み込まれた。基本邪魔になると思われるので詰めて書くこと
 #dicts=の指定に非ASCII文字が含まれていると、たとえencode=UTF-8であろうと、あるいはむしろそのせいでその辞書は読み込まれない
@@ -39427,4 +39427,3 @@ zzz,iioru 轉
 zzz,kgwje 輐
 zzz,llgru 輨
 zzz,zzhsi 轟
-
