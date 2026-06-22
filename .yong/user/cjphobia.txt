@@ -2536,6 +2536,7 @@
 {0}ta+nkdop.siiyro 思源
 {0}ta+xbwvxt.biujne 比较
 {0}ta+xy+evjpb.siiiyiqii 思春期
+{0}ta+xk+ncipzhm.siikcufau 思考法
 {0}ta+xk+xmpzhm.siikculie 思考力
 {0}ta+xk+la+lkdnlpzhmp.siikcuhvolue 思考回路
 {0}ta+xfij.xbitse 心痛
@@ -2548,6 +2549,7 @@
 {0}ta+ui+nsoc.hxeoliuvu 化粧水
 {0}ta+ui+wa+ctusock.hxeolixxedie 化粧下地
 {0}ta+ui+lllsoc.hxeolipbu 化粧品
+{0}ta+ui+kj+fucurgv.oiecyigvezia 志村貴子
 {0}ta+cp+ha+skckcz.xbiliuvjiqro 心理安全
 {0}ta+cp+ojfukc.xbiliuxto 心理学
 {0}ta+cp+dytikc.xbiliudea 心理的
