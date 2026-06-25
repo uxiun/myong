@@ -389,6 +389,7 @@
 {0}ba+yfys.nmojmi 年間
 {0}ba+ncij.ysefau 用法
 {0}ba+nci.uzufau 手法
+{0}ba+nwmu.uzuyzo 手游
 {0}ba+xbfsks.nmoqki 年轻
 {0}ba+xljgvs.nmohee 年賀
 {0}ba+rrrv.uzuuye 手順
@@ -4030,6 +4031,7 @@
 {0}ua+ku+klepip.goudsedze 果凍豆
 {0}ua+kcsif.mueqbo 木琴
 {0}ua+kvpx.dsixii 东西
+{0}ua+kw+ecdbizzs.wwedkeyie 未定義
 {0}ua+kw+doukys.yuouiehui 于是乎
 {0}ua+kot.yeubue 也不
 {0}ua+ks+wa+ehkipxjk.kyebkexxeyce 困病下药
@@ -4180,6 +4182,7 @@
 {0}gi+lzudx.izewwe 臭味
 {0}gi+id+fs+mdidnoi.gvumpeoiirfe 鬼滅之刃
 {0}gi+kidgid.gvuhyo 鬼魂
+{0}gdy+o 嶋
 {0}gdh+i 巍
 {0}gd+ya+zp+kcjdgkndc.xxerieosexme 夏日重现
 {0}gd+xk+ldyojggl.jmeqiomko 見崎鳴
@@ -6527,6 +6530,7 @@
 {0}vt+tw.lmexbi 恋心
 {0}vt+tk.veexbi 恶心
 {0}vt+cydw.lmeugi 恋声
+{0}vt+mk+jv+zvkwwnu.lmeyuuufiksi 恋与深空
 {0}vt+zrrfw.lmeuie 恋事
 {0}vt+wldzlw.lmehxe 恋話
 {0}vt+weytk.veeyie 恶意
@@ -15008,9 +15012,11 @@
 {0}jl+tdbkorj.ihoxke 常性
 {0}jl+ub+or+eisudokjipr.xlejkiufoyce 向精神薬
 {0}jl+usxlob.ohuoii 掌椥
+{0}jl+hs+bf,bduporjoxsi.ihouueiroboi 常数传播
 {0}jl+hfud.xlehcu 向好
 {0}jl+wvjlodl.ykouhi 営商
 {0}jl+wkd.xleuhe 向上
+{0}jl+ohsxorj.ihouue 常数
 {0}jl+ojlcoc.thotho 堂堂
 {0}jl+swcorj.ihooue 常住
 {0}jl+lzuojv.uhuwwe 賞味
@@ -15203,6 +15209,7 @@
 {0}jf+yflou.xtowfe 学問
 {0}jf+xmou.xtolie 学力
 {0}jf+xitbmu.jketde 静态
+{0}jf+tbkjou.xtoqko 学情
 {0}jf+tmded.jmuqpe 剪切
 {0}jf+rk+kgpbmuw.jkeoiuhxe 静止画
 {0}jf+uwvxou.xtoxne 学校
