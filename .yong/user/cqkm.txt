@@ -2,6 +2,7 @@
 {0}tymra 剃毛
 {0}thoe 砣
 {0}y 一
+{0}ai AI
 {0}sihi 说话$SPACE
 {0}sj 三
 {0}skee 少儿
